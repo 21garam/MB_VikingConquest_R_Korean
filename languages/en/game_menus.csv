@@ -1,0 +1,1368 @@
+﻿menu_start_game_0|바이킹 컨퀘스트에 오신 것을 환영합니다.
+menu_start_phase_2|{s1}
+mno_continue|계속.
+mno_continue_cheat|튜토리얼 건너뛰기.
+mno_go_back_dot|돌아가기.
+menu_start_game_3|시나리오를 선택하세요.
+mno_go_back|돌아가기.
+menu_tutorial|당신은 무기 연습을 할 수 있는 장소에 도착했다. 이 곳에서의 훈련을 통해 전투 기술을 향상시킬 수 있다.
+menu_reports|인물 명성: {reg5}^명예 등급: {reg6}^부대 사기: {reg8}^최대 병력 수: {reg7}^
+mno_resume_travelling|여행 계속하기.
+menu_start_phase_2x|뒤로
+menu_start_phase_22|{s1}
+mno_town_4|계속하기.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|전투 종료. 당신의 군대는 {reg5}명의 적군을 격퇴하였으며 {reg6}명의 희생자를 냈습니다. 당신은 전투 중 {reg7}명의 적군을 사살하였습니다.
+menu_start_game_2|바이킹 컨퀘스트에 오신 것을 환영합니다.
+menu_start_game_1|바이킹 컨퀘스트에 오신 것을 환영합니다.
+menu_start_game_11|종료하시겠습니까?
+menu_start_game_4|게임이 시작되면 선택 사항을 바꾸실 수 없습니다. 이대로 진행하시겠습니까?
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|야영지를 세웠습니다. 무엇을 할 것입니가?
+mno_camp_action|특별한 행동을 합니다.
+mno_camp_wait_here|이곳에서 잠시 대기합니다.
+menu_camp_action_rest|야영지를 세우면 힘든 여정으로 피곤해진 부대원들이 휴식을 취할 수 있습니다. 또한, 식량을 구해오게 할 수 있어 식량 공급이 증가합니다. 특히, 적진과 같은 식량을 공급하기 힘든 지역에서 매우 유용하게 사용하실 수 있습니다.
+menu_build_refuge_new|당신의 사람들이 은신처를 세워라는 명령이 내려지기만을 기다리고 있습니다. 은신처를 세우기에 충분한 자원을 모았고, 혹시라도 누락된 자원은 주변 마을에서 구매할 수 있습니다.^^총 비용: 1000 페닝.^소요 시간: 6 시간.
+mno_refuge_here|명령을 내립니다.
+menu_camp_cheat|치트 선택:
+mno_camp_cheat_find_item|항목 찾기...
+mno_testing_cheats|치트 빠르게 사용하기.
+mno_back_to_camp_menu|야영지 메뉴로 돌아갑니다.
+menu_cheat_testing_cheats1|치트 선택:
+menu_storyline_cheat|치트 선택:
+mno_back_cm|돌아갑니다.
+menu_camp_action|당신의 행동을 선택하세요:
+mno_toggle_cheat_on| 치트 메뉴 활성화.
+mno_toggle_cheat_off| 치트 메뉴 비활성화.
+mno_camp_action_4|야영지 메뉴로 돌아갑니다.
+menu_camp_recruit_prisoners|포로 중 일부가 당신의 제안을 받아들였고, 자유를 준다면 당신의 부대에 합류하겠다고 했습니다. {s18}
+mno_camp_recruit_prisoners_accept|그들을 받아들입니다.
+mno_camp_recruit_prisoners_half|그들의 절반만 받아들입니다.
+mno_camp_recruit_prisoners_reject|그들을 받아들이지 않습니다.
+menu_camp_no_prisoners|포로 중 아무도 당신의 제안에 응하지 않았습니다.
+menu_camp_action_read_book|읽을 책을 고르세요:
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|모험을 시작한 지 {reg0}일째입니다. 당신의 현재 행운은 {reg1}입니다. 은퇴하시겠습니까?
+mno_retire_yes|예.
+mno_retire_no|아니오.
+menu_end_game|당신은 모험가로서의 삶을 그만두고 정착하기로 결심했습니다. 당신은 모든 무기와 갑옷을 팔고 모든 돈을 모아서 가지고 석양 속으로 사라졌습니다.
+mno_end_game_bye|안녕히 가십시오.
+menu_cattle_herd|당신은 소 떼에게 다가섰습니다.
+mno_cattle_drive_away|소를 몹니다.
+mno_cattle_stop|소를 멈춥니다.
+mno_cattle_kill|소를 도살합니다.
+mno_leave|떠납니다.
+menu_cattle_herd_kill|몇 마리를 도살하시겠습니까?
+mno_cattle_kill_1|한 마리.
+mno_cattle_kill_2|두 마리.
+mno_cattle_kill_3|세 마리.
+mno_cattle_kill_4|네 마리.
+mno_cattle_kill_5|다섯 마리.
+mno_cattle_kill_20|스물 마리.
+menu_arena_duel_fight|결투는 매우 심각한 일입니다, 특히 둘 중 하나가 죽을 수 있다는 점에서, 두 사람이 들어가고, 한 사람만이 나올 것입니다.^^당신의 마음과 몸은 스트레스와 위험에 반응했고, 당신은 당신의 겨드랑이에서 식은 땀과 뜨거운 땀이 같이 흘러내리는 것을 느꼈습니다. 이 땀의 존재는 당신이 싸울 준비가 되어 있음을 나타내는 것이었습니다.
+menu_simple_encounter|{s2} 당신은 {reg10}명의 병사로 {reg11}명의 적군과 맞서 싸워야 한다.^^{s7}
+mno_playerambush_attack|매복 공격!
+mno_ambush_attack|매복 방어!
+mno_encounter_attack|{s7} 당신의 적들을 공격합니다.
+mno_encounter_deploy|대형을 구성한 채로 전투를 시작합니다.
+mno_encounter_order_attack|당신이 뒤로 물러나 있는 동안 병사들에게 공격하라고 명령합니다.
+mno_tactical_nuevo|지휘관 옵션.
+mno_encounter_leave|떠납니다.
+mno_encounter_retreat|후퇴하고, 추격을 지연시키기 위해 몇 명의 병사를 남깁니다.
+mno_encounter_surrender|항복합니다.
+menu_encounter_retreat_confirm|당신 부대원이 가진 가장 높은 전략 ({reg2})에 대한 지식을 이용해 {reg3?당신은:{s3}은(는)} 당신과 부대원들을 살아서 탈출시킬 계획을 궁리해냈지만, 적을 멈추기 위해 {reg4}명의 군사를 뒤에 남겨야만 합니다.
+mno_leave_behind|계속 갑니다. 그들의 희생이 남은 이들을 살릴 것입니다.
+mno_dont_leave_behind|아니오. 전우를 버려둔 채 떠날 수 없습니다.
+menu_encounter_retreat|당신은 {reg4}명의 병사들에게 당신과 다른 이들이 도망갈 수 있도록 적을 붙잡아두라고 했습니다.
+menu_order_attack_begin|당신의 병사들이 적을 공격할 준비를 완료했습니다.
+mno_order_attack_begin|공격을 시작하라고 명령합니다.
+mno_call_back|군사를 불러들입니다.
+menu_order_attack_2|{s4}^^{s4}^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_order_attack_continue|병사들에게 공격을 계속하라고 명령합니다.
+mno_order_retreat|군사를 불러들입니다.
+menu_battle_debrief|{s11}^^아군 사상자: {s8}{s10}^^적군 사상자: {s9}^^{s3}
+menu_total_victory|당신은 이것을 읽을 수 없습니다... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|당신은 {s2} 그리고 {s1}, 양측의 군대가 대치하는 전장에 도착했습니다. 당신은...
+mno_pre_join_help_attackers|{s2}의 군대에 가세합니다.
+mno_pre_join_help_defenders|{s1}의 군대에 가세합니다.
+mno_pre_join_leave|참전하지 않습니다.
+menu_join_battle|당신은 {s1}에 맞서 {s2}의 병력에 가세했습니다.^우리는 {reg10}명의 병력으로 {reg11}명의 적군에 맞서 싸워야 합니다.
+mno_join_attack|{s7} 당신의 적들을 공격합니다.
+mno_join_order_attack|당신이 뒤에 있는 동안 동맹군과 함께 공격하라고 명령합니다.
+mno_join_leave|떠납니다.
+menu_join_order_attack|{s4}^^아군 사상자: {s8}^^동맹군 사상자: {s9}^^적군 사상자: {s10}
+menu_zendar|젠다르 마을에 들어왔습니다.
+mno_zendar_enter| 
+mno_zendar_enter_door|마을 거리로 가는 입구.
+mno_zendar_tavern| 
+mno_zendar_tavern_door|선술집 입구.
+mno_zendar_merchant| 
+mno_zendar_merchant_door|상점 입구.
+mno_zendar_arena| 
+mno_zendar_arena_door|투기장 입구.
+mno_town_1_leave| 
+menu_salt_mine|당신은 소금 광산에 들어왔습니다.
+mno_enter|들어갑니다.
+mno_enter_door|떠납니다.
+menu_four_ways_inn|당신은 네갈래 길 여관에 들어왔습니다.
+menu_test_scene|당신은 테스트용 장면에 들어왔습니다.
+menu_quarry1|당신은 채석장에 도착했습니다. 여러 사람들이 작업을 하면서, 수레와 곡괭이 소리가 주변을 가득 메우고 있습니다.
+menu_salt_mine_vc|당신은 소금 광산에 도착했습니다. 여러 사람들이 작업을 하면서, 수레와 삽질 소리가 주변을 가득 메우고 있습니다.
+mno_enter_sm|들어갑니다.
+mno_leave_sm|떠납니다.
+menu_lumber_camp|당신은 목재 캠프에 도착했습니다. 여러 사람들이 작업을 하면서, 톱질과 도끼질 소리가 주변을 가득 메우고 있습니다.
+mno_enter_lc|들어갑니다.
+mno_leave_lc|떠납니다.
+menu_farmstead_special|당신은 농장에 도착했습니다. 농장은 작물 및 식품에 대한 기본 생산지이며, 이 곳에서 당신의 부하들을 먹일 음식을 구매할 수 있고, 도시에서 구매한 물건을 팔 수도 있습니다.
+mno_take_cattle|소 일부를 잡습니다.
+mno_enter_fs|들어갑니다.
+mno_leave_fs|떠납니다.
+menu_hadrian_wall1|당신은 하드리아누스 황제의 장벽이 있었던 유적에 도착했습니다.
+menu_celidon_forest|당신은 거짓말처럼 이 장소에서 과거의 신비로운 기운이 퍼져나가는 것을 느낍니다.
+menu_hidden_valley|당신은 옛 로마의 유적같은 이상한 장소에 도착했습니다. 당신이 탐험을 시작할 때 당신의 병력들은 뒤에 야영지를 세워두었습니다.
+menu_dhorak_keep|당신은 도라크 성채에 도착했습니다.
+menu_join_siege_outside|{s1}은(는) {s2}에 의해서 포위되었습니다.
+mno_approach_besiegers|공성 진영으로 갑니다.
+mno_pass_through_siege|공성 진영을 지나 {s1}(으)로 갑니다.
+menu_cut_siege_without_fight|포위자들은 전투 없이 당신이 문까지 가도록 허락해주었습니다.
+menu_besiegers_camp_with_allies|{s1}은(는) 포위된 상태입니다. {s2}의 깃발이 당신을 환영하는 포위군들의 진영 위로 펄럭입니다.
+mno_talk_to_siege_commander|사령관과 만나기를 요청합니다.
+mno_join_siege_with_allies|다음 전투에 참전합니다.
+mno_join_siege_stay_back|당신 없이 다음 전투에 참전하라고 명령합니다.
+menu_castle_outside|당신은 {s2}의 야외에 있습니다. {s11} {s3} {s4}
+mno_approach_gates|성문으로 다가가 보초에게 소리칩니다.
+mno_town_sneak|정체를 숨기고 {s7} 안으로 잠입합니다
+mno_castle_start_siege|{reg6?도시를:요새를} 포위합니다.
+mno_castle_leave|떠난다.
+menu_castle_guard|당신은 성문에 다가갔습니다. 성문 위에 있는 보초가 당신을 쳐다봅니다.^^{s10}
+mno_request_shelter|요새에 들어가는 것을 요청합니다.
+mno_request_meeting_commander|누군가와 만나는 것을 요청합니다.
+mno_guard_leave|떠납니다.
+menu_castle_entry_granted|잠깐 기다린 뒤, 보초는 성문을 열어 당신과 당신의 부대를 안으로 들여보냈습니다.
+menu_castle_entry_denied|의 성주가 당신이 안으로 들어오는 것을 거부했고, 수비대 장교는 더 이상 가까이 오면 사격하겠다고 알렸습니다.
+menu_castle_meeting|누구와 만나길 원하십니까?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|그만둡니다.
+menu_castle_meeting_selected|당신의 요청이 안으로 전해졌고, 마침내 {s6}이(가) 당신과 이야기하기 위해 안뜰로 나왔습니다.
+menu_port_attack|당신은 {s1} 항구를 공격하고 있습니다. 우리측 {reg10}명의 군대로 {reg11}명의 적군에 맞서 싸워야 합니다.
+mno_lead_attack|당신의 병사를 이끌고 해안을 공격합니다.
+mno_attack_stay_back|당신이 뒤로 물러나 있는 동안 병사들에게 공격하라고 명령합니다.
+mno_lift_siege|공격을 포기합니다.
+menu_castle_besiege|당신은 {s1}을(를) 포위하고 있습니다. {s2}^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
+mno_siege_request_meeting|성의 지휘관과의 회담을 요청합니다.
+mno_siege_warfare_p|공성 전략 (공성 계획).
+mno_siege_assault_p|공성 전략 (전투 준비).
+mno_wait_24_hours|내일까지 기다립니다.
+menu_siege_plan|당신은 당신의 조언자와 만나 최소한의 사상자로 {s4}에 대한 포위 공격 및 점령을 할 수 있도록 계획중입니다. 당신의 전략에 오랜 시간이 소요될 경우 그 동안 자금과 식량과 사기가 감소될 것입니다.^^{s15} {s17} {s18} {s19} {s20}
+mno_build_circunvalation|봉쇄망: {s4}의 주요 거점마다 작은 진지를 구축합니다. (250명 필요).
+mno_close_circunvalation|당신의 병사의 노력으로, {s4} 주위의 정찰 준비가 끝났습니다. 지금 당장 정찰을 명령합니다..
+mno_town_investigar|당신이 직접 {s4}에 침투해 방어망을 조사하려고 시도합니다. 이 시도에는 추적술이 도움이 될 것입니다.
+mno_traicion_interna|{s4}의 수비대 내에서 그들을 배신할 자들을 찾습니다.
+mno_traicion_interna3|{s4}의 내부 협력자들을 찾으러 보낸 병사들의 보고를 받습니다.
+mno_infiltracion_interna|{s4}의 방어에 손상을 주기 위해 몇몇 병력들을 침투시킵니다.
+mno_infiltracion_interna3|{s4}의 방어망에 침투하려 보낸 병사들의 보고를 받습니다.
+mno_build_varios|전염병을 방지하기 위해 위생 시설의 건설을 명령합니다.
+mno_destruir_campos_a|근처의 농장을 약탈하여 그들의 전의를 상실시킵니다.
+mno_destruir_campos_b|{s4} 근처 농장의 작물을 약탈하러 보낸 병사들의 보고를 받습니다.
+menu_siege_assault|시간이 흘렀고, 당신은 이곳에 그들의 지원군의 도착을 염려하고 있습니다. 전투는 큰 사상자를 가져올 것입니다, 그러나 당신은 마음을 굳게 먹었습니다.^^{s17} {s18} {s19}
+mno_scout_investigar|{s4}의 방어망을 확인하기 위해 정찰병을 보냅니다.
+mno_poniendo_elementos_mantles|선발대에게 명령을 내려, 화살 방패를 이용해 공성 작업을 진행합니다.
+mno_poniendo_elementos|선발대에게 명령을 내려, 공성 작업을 진행합니다.
+mno_castle_lead_attack|시간이 되었습니다. 병력들을 이끌고 돌격합니다!
+mno_build_mantlet|화살 방패를 제작합니다.
+mno_build_ladders|요새를 공격하기 위해 사다리를 설치합니다. 이 과정에서 전투가 벌어지고, 많은 사상자가 발생할 수 있습니다.
+mno_build_siege_tower|요새를 공격하기 위해 공성 탑을 제작합니다. 이 과정에서 전투가 벌어지고, 많은 사상자가 발생할 수 있습니다.
+menu_siege_attack_meets_sally|수비대는 당신의 부대를 요격하러 성 밖으로 나와 공격을 시작했습니다.
+menu_nofood_siege_defenders_sally|{s4}에서 식량이 떨어졌고, {s4}의 수비대는 포위망을 뚫기 위해 필사적으로 성 밖으로 나와 공격을 시작했습니다.
+menu_surrender_siege_defenders_starved|{s4}의 수비대는 더 이상 버틸 수 없습니다. 식량의 부족은 그들을 점점 더 쇠약하게 만들고 있고, 일부는 이미 굶어 죽은 이들을 식인하려고 하고 있습니다.^{s4}의 수비대는 항복하는 것을 선택할 것입니다...
+menu_castle_attack_walls_simulate2|{s4}^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_sneak_into_town_suceeded2|어둠을 틈타, 당신은 {s4} 안에 잠입하는 데 성공했습니다. 이제 그들의 방어망에 대한 정보를 수집할 시간입니다.
+menu_construct_saneamiento|위생 시설은 전염병의 창궐을 막을 것입니다. 그것은 하수도를 건설하고, 깨끗한 물을 저장할 저수조를 건설할 것입니다. 당신은 그것을 건설할 것입니까?^그것을 구축하는 데는 8시간이 걸립니다.
+mno_build_saneamiento|착수합니다.
+menu_construct_circunvalation|포위망은 적의 물자와 병력의 이동을 차단할 것입니다. 그리고 공성전이 발발했을 때 그들의 사기를 저하시킬 것입니다.^^당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 포위망을 구축하는 일에는 {reg4}시간이 걸립니다.
+mno_build_circun_cont|착수합니다.
+menu_traicion_interna2|당신의 공성 작업은 방어자들의 사기를 저하시키기 시작했습니다. 당신의 병사들 중 일부가 {s4} 수비대의 일부와의 접선을 가졌고. 그들은 배신의 대가로 500 페닝을 요구했습니다..
+mno_intentar_traicion|병사들을 보내 내부에서 호응할 수비대 내의 내부 협력자를 찾아봅니다.
+menu_traicion_resultado1|그들은 아무런 성과 없이 돌아왔습니다. 수비대 중 아무도 협력을 할 의향이 있는 자가 없었습니다.
+mno_back_behind|재수가 없었군.
+menu_traicion_resultado2|침투시키러 보낸 병사들이 철수하던 도중, {s4}의 수비대와 마주쳤습니다. 당신은 그것을 보았고, 그들은 도망치려고 노력하고 있습니다, 그러나 그들은 포위되어 있습니다...
+mno_ayudar_infiltrados|명령: 병력들은 포위당한 침투조 병사들을 구원하라.
+mno_leave_men|그들을 운명대로 내버려 둡니다. 그들이 감수한 위험입니다.
+menu_traicion_resultado3|당신의 병사들이 돌아왔습니다. 수비대 내에서 호응한 우리의 내부 협력자는 건물과 식량 창고를 불태웠습니다. 그리고 {s4}에서 빠져나와 당신의 병사들에게 합류했습니다. 적들은 이로 인해 대부분의 식량을 잃게 될 것입니다.
+mno_back_to_siege|완벽하군.
+menu_traicion_resultado4|당신의 병사들이 돌아왔습니다. 수비대 내에서 호응한 우리의 내부 협력자들 중, 요새 안의 길을 잘 아는 자가 있었고, 추가적인 침투조를 편성해 준다면 그는 그들을 인도하여 적들을 기습하고 그들의 식수원을 오염시킬 수 있을 것입니다.
+mno_atacar_emboscada_player|당신의 병력들과 함께 출발합니다.
+mno_atacar_emboscada|명령: 그들의 배신자에게 침투조를 딸려 보내고, 길 안내를 맡겨 기습을 시도해라.
+menu_emboscada_player|야채 밭 아래에 몸을 숨기고 침투한 당신의 병사들은, 순찰을 돌던 수비대를 성공적으로 기습했습니다. 이제 수비대는 병력을 보내기 전에 다시 한번 생각해보게 될 것입니다.
+mno_emboscada_playerok|이겼군!
+menu_emboscada_nada|야채 밭 아래에 몸을 숨기고 침투한 당신의 병사들은, 성벽 위의 감시의 눈을 피해 약속된 장소에 도착했습니다. 그러나 약속 지점에는 아무도 없었습니다. 아마도 내부 협력자들이 그들의 배신 행위를 발각당한 것 같았습니다. 당신의 병사들은 아무런 성과 없이 돌아올 수밖에 없었습니다.
+mno_emboscada_nanai|젠장, 또 다른 기회가 있겠지.
+menu_emboscada_lose|배신입니다! 내부 협력자는 이중간첩이었습니다. 그가 이끈 장소에는 수비대가 매복해 있었고, 당신의 병사들은 많은 병력을 상대로 필사적으로 싸우고 있습니다.
+mno_regreso_lucha|최악의 상황이군.
+menu_emboscada_victory|내부 협력자가 당신의 침투조 병사들을 이끌고 적들의 식수원을 오염시키고 식량 창고를 불태웠습니다. 또한 그들은 적들을 기습하여 격퇴하였습니다.^^전투 함성이 울려퍼지고, 쓰러진 적들은 고통에 신음하고 있습니다.
+menu_traicion_resultado5|당신의 병사들이 돌아왔습니다. 병사들은 방어군의 식량 보급을 담당하는 남자와 이야기하는데 성공했고, 그는 식량의 가격을 올려 당신에게 대항하는 시민들의 사기를 꺾겠다고 약속했습니다. 그것은 수비대가 요새를 포기할 가능성을 높게 만들 것입니다.
+mno_traicion_moral|완벽해!
+menu_traicion_lucha|당신의 병사들은 벼랑 끝에 몰려 적과 싸우다 죽을 위기에 처해 있습니다. 당신은 그들이 싸우면서 처절하게 후퇴하려는 시도를 보았습니다. 그러나, 당신의 병력은 아직 후방에 많이 남아 있습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_infiltracion_resultado1|당신의 병사들이 돌아왔습니다. 그러나 그들은 발각되었고, 침투를 시도조차 하지 못하고 그냥 돌아올 수 밖에 없었습니다.
+menu_infiltracion_resultado2|당신의 병력이 {s4}의 수비대에게 발각되었습니다. 불행히도, 아무도 돌아오지 못했습니다. 그들은 모두 죽거나 사로잡혔습니다.
+mno_muertos_infiltrado|끔찍한 소식이군.
+menu_infiltracion_resultado3|이겼습니다! 당신이 침투시킨 병사들이 그들의 식수원을 오염시키고 식량을 전부 불태웠습니다. 당신의 적들은 완전히 황폐화되었고, 이제 그들은 우리에게 자신들의 항복을 제안했습니다.
+menu_infiltracion_resultado3_c|이겼습니다! 당신이 침투시킨 병사들이 그들의 식수원을 오염시키고 가축을 모두 죽였습니다. 당신의 적들은 완전히 황폐화되었고, 그들은 그들의 영주에 대한 신뢰를 버렸습니다. 이제 그들은 우리에게 자신들의 항복을 제안했습니다.
+menu_infiltracion_resultado4|당신의 병사들이 돌아왔습니다. 그들은 적의 전사들이 불만에 가득 차 있고, 당신의 편으로 전향했다고 말했습니다. 만약 그것을 받아들일 경우, 그들은 밤중에 도시에서 탈출해 당신의 군대에 합류할 것입니다. 또한 그들은 떠나기 전에, 당신의 공성에 도움이 될만한 공작도 서슴치 않겠다고 전해왔습니다.
+mno_aceptar_si|그들을 환영합니다.
+menu_infiltracion_resultado4_c|당신의 병사들이 돌아왔습니다. 그들은 우물 근처의 수원지에 독을 풀어넣었다고 말했습니다. 이것은 적의 수비대를 질병으로 고통받게 만들 것입니다.
+mno_aceptar_ok|좋은 소식이군. 이것으로 적들의 수비대를 줄일 수 있겠어.
+menu_infiltracion_resultado5|적들이 침투를 시도하던 병사들의 머리가 담긴 자루를 보내왔습니다. 그것을 본 당신의 병사들은 공포에 질려, 당신의 진영에서 탈영하고 있습니다.
+mno_infiltracion_moral|젠장! 어째서 머리가 담긴 자루 따위에 겁을 먹지? 그들은 사람인가, 가축인가?
+menu_campos_cercanos1|당신의 병사들이 도착했을 때, 이미 농장과 식량은 불타고 없었습니다. 더불어 수확할 수 있는 시기가 아니기 때문에, 그로 인해 아무런 식량도 얻을 수 없었습니다.
+mno_back_behind_d|나는 걱정하지 않아.
+menu_campos_cercanos2|당신의 병사들이 도착했을 때, 이미 농장과 식량은 불타고 없었습니다. 하지만 우리는 수확이 가능한 작물들을 얻었기 때문에, 그로 인해 많은 식량을 얻을 수 있었습니다.
+mno_back_behind_c|좋군, 식량은 언제라도 환영이야.
+menu_campos_cercanos2_c|당신의 병사들이 도착했을 때, 이미 농장과 식량은 불타고 없었습니다. 곡식은 아직 익지 않았습니다, 하지만 그것들을 수확해 많은 식량을 얻을 수 있었습니다..
+menu_campos_cercanos3|당신의 병사들이 도착했을 때, 이미 그 곳은 초토화되어 있었습니다, 곡식도 모두 수확된 뒤였습니다. 그러나, 농부들은 그곳에 그들의 가축들을 남겨두고 도망칠 수밖에 없었습니다.
+mno_back_behind_b|식량은 언제라도 환영이야.
+menu_campos_cercanos4|우리는 문제에 직면했습니다. 이미 그 곳은 초토화되어 있었고, 곡식도 모두 수확된 뒤였으며, 더불어 농부들은 매복해 있던 수비대의 지원을 받아 우리의 병사들을 공격했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_back_behind_a|끔찍한 소식이군!
+menu_poner_escaleras|당신의 선봉대는 삽과 기타 공성 도구를 이용해 사다리를 설치했습니다. 당신은 당신의 병사들이 적들의 사격에 대비해 갑옷을 입고, 적들의 화살비 사이를 뚫고 진군하는 것을 보았습니다. 당신의 심장은 뼛속까지 고동쳤습니다. 이것은 모든 전투 중에서 전초전이 될 것으로 보입니다.^땀, 스릴과 공포는 항상 존재합니다. 당신은 당신의 병사들에게 방패 벽 대형을 짜서 진군할 것을 명령했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_back_behind_esc1|병력들이 당신을 위해 준비를 마쳤고, 이제는 당신의 시간입니다.
+menu_poner_escaleras_mantlets|당신의 선봉대는 삽과 화살 방패, 기타 공성 도구를 이용해 사다리를 설치했습니다. 당신은 당신의 병사들이 적들의 사격에 대비해 갑옷을 입고 화살 방패를 준비하여 적들의 화살비 사이를 뚫고 진군하는 것을 보았습니다. 당신의 심장은 뼛속까지 고동쳤습니다. 이것은 모든 전투 중에서 전초전이 될 것으로 보입니다.^땀, 스릴과 공포는. 항상 존재합니다. 당신은 당신의 병사들에게 방패 벽 대형을 짜서 진군할 것을 명령했습니다. 이윽고, 그들은 화살 방패를 사용해 많은 사상자를 줄일 수 있었습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_back_behind_esc2|병력들이 당신을 위해 준비를 마쳤고, 이제는 당신의 시간입니다.
+menu_informacion_ciudad|정찰병은 당신 앞에 섰습니다: '{s11}^^{s12} {s1} {s5}^^{s17}
+menu_castle_besiege_inner_battle|{s1}
+menu_build_mantles2|화살 방패는 당신의 병사들이 공성 장비를 사용하려 할 때, 당신의 병력들의 목숨을 보호할 것입니다. 당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 화살 방패를 제작하는 일에는 {reg4}시간이 걸립니다.
+mno_build_mantles|착수합니다.
+menu_construct_ladders|당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 화살 방패를 제작하는 일에는 {reg4}시간이 걸립니다.
+mno_build_ladders_cont|착수합니다.
+menu_construct_siege_tower|당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 공성 탑을 제작하는 일에는 {reg4}시간이 걸립니다.
+mno_build_siege_tower_cont|착수합니다.
+menu_castle_attack_walls_simulate|{s4}^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^아군 사상자: {s8}^동맹군 사상자: {s9}^^적군 사상자: {s10}
+menu_castle_taken_by_friends|여기에서는 아무것도 볼 수 없습니다.
+menu_castle_taken|당신은 전투를 통해 {s60}을(를) 함락시켰습니다. 당신의 병력은 이 {reg2?도시:요새}를 약탈하기를 원하고 있습니다. {s10}^{s4}
+mno_saqueo_noallowed|나는 이 {reg2?도시:요새}를 정복할 것이며, 약탈을 허락하지 않을 것이다.
+mno_keep_plunder|{reg2?도시:요새}을(를) 정복하고 약탈합니다.
+mno_saqueo_normal|나는 이 {reg2?도시:요새}를 약탈할 것이며, 그 후 이 곳을 버리고 갈 것이다.
+mno_saqueo_total|이 곳을 파괴하고, 거주민들을 모두 죽일 것이다.
+menu_castle_taken_plunder|이 {reg2?도시:요새}는 약탈되었고, 당신은 {reg7} 페닝을 얻을 수 있었습니다.
+menu_castle_taken_native|{s3}은(는) 당신의 부대에 의해 함락되었고, 더불어 당신은 이 {reg2?도시:요새}를 완전히 장악했습니다. {reg1? 당신은 이 곳에 병력을 주둔시켜 이 곳을 탈환하려는 적들의 병력을 막아야 합니다. 또한, 당신은 이 {reg2?도시:요새}를 당신의 신실한 봉신들에게 내리도록 선택할 수도 있을 것입니다.:}
+menu_castle_taken_keepplunder|{s3}은(는) 당신의 부대에 의해 함락되었고, 더불어 당신은 이 {reg2?도시:요새}를 완전히 장악했습니다. 당신의 부하들은 길거리를 뛰어다니며 가능한 많은 물건을 챙기기 시작했으며, {reg2?도시:요새}는 약탈당했습니다. 당신은 {reg7} 페닝을 모았습니다.{reg1? 당신은 이 곳에 병력을 주둔시켜 이 곳을 탈환하려는 적들의 병력을 막아야 합니다. 또한, 당신은 이 {reg2?도시:요새}를 당신의 신실한 봉신들에게 내리도록 선택할 수도 있을 것입니다.:}
+menu_castle_taken_2|{s3}은(는) 당신의 부대에 의해 함락되었고, 더불어 당신은 이 {reg2?도시:요새}를 완전히 장악했습니다. 이제 당신의 주군인 {s9}에게 당신의 승전보를 보낼 시간입니다. {s5}
+mno_castle_taken_claim|당신의 승리에 대한 보상으로 {s3}이(가) 나의 영지로서 수여되도록 요청합니다.
+mno_castle_taken_claim_2|당신의 승리에 대한 보상으로 {s3}이(가) 나의 {reg59?남편:아내}의 영지로 수여되도록 요청합니다.
+mno_castle_taken_no_claim|당신의 승리에 대한 보상으로 아무 것도 요구하지 않습니다.
+menu_saqueo_loot_continue|이 지역은 약탈되었습니다.
+menu_requested_castle_granted_to_player|당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 당신에게 수여하기로 결정했다고 알렸으며, 더불어 이 모든 작위와 권리는 당신이 {reg4?그녀:그}의 이름으로 맹세한 충성 서약을 파기하기 전까지는 온전히 당신의 권리로서 남을 것이라고 전했습니다.
+menu_requested_castle_granted_to_player_husband|당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 당신의 남편에게 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 수여하기로 결정했다고 전했습니다. {s7}.
+menu_requested_castle_granted_to_another|당신은 주군의 궁정에서 당신에게 보낸 서신을 받았습니다. {s3}.^^ '짐은 {s2}을(를) 점령한 자네의 용맹한 업적에 감탄했네. 자네의 승전보는 우리 모두의 마음을 흔들어 놓았네. 그러나 자네가 요청한 그 영지의 소유권에 대해서는, 자네가 이미 나의 왕국 안에서 충분한 크기의 영지를 소유하고 있다고 생각하기 때문에, 나는 그 영지의 소유권에 대한 자네의 요청을 받아줄 수 없네. 짐은 {s2}에 대한 권리를 자네가 아닌 {s5}에게 수여할 것이고, 짐은 자네의 공적을 치하하기 위한 보상으로 영지 대신 {reg6} 페닝을 수여할 것이네.'
+mno_accept_decision|그 결정을 받아들입니다.
+mno_leave_faction|이건 나에 대한 모욕이다! 나는 {reg4?그녀:그}에 대한 충성 맹세를 철회할 것이다!
+menu_requested_castle_granted_to_another_female|당신은 주군의 궁정에서 당신에게 보낸 서신을 받았습니다. {s3}.^^ '짐은 {s2}을(를) 점령한 자네의 용맹한 업적에 감탄했네. 그러나 자네가 자네 남편에게 수여하기로 요청한 그 영지의 소유권에 대해서는, 그가 이미 나의 왕국 안에서 충분한 크기의 영지를 소유하고 있다고 생각하기 때문에, 나는 그 영지의 소유권에 대한 자네의 요청을 받아줄 수 없네. 짐은 {s2}에 대한 권리를 그가 아닌 {s5}에게 수여할 것이고, 짐은 자네의 공적을 치하하기 위한 보상으로 그의 영지에 대한 권리를 대신해서 자네에게 {reg6} 페닝을 수여할 것이네.'
+menu_leave_faction|당신이 주군에 대한 충성 맹세를 철회한 것은 중대한 결정이었습니다. 그러나, 당신이 스스로 당신의 영지를 반환한다면, {reg4?그녀:그}는 당신에게 배신의 대가를 묻지 않을 것입니다.
+mno_leave_faction_give_back|충성 맹세를 철회하고, 영지를 {reg4?그녀:그}에게 반환합니다.
+mno_leave_faction_hold|충성 맹세를 철회하고, {s2}을(를) 포함한 나의 영지를 포기하지 않는다. 그건 나의 것이다.
+mno_leave_faction_cancel|충성 맹세를 철회하지 않고, 그의 봉신으로 남을 것이다.
+menu_give_center_to_player|당신의 주군이 당신에게 영지를 수여하겠다고 제안했습니다! 전령은 당신의 주군인 {s1}이(가) {s2}을(를) 대한 당신의 충성에 대한 보상으로 당신에게 수여할 것이라고 전했습니다. 당신은 어떤 대답을 할 것입니까?
+mno_give_center_to_player_accept|그 제안을 받아들입니다.
+mno_give_center_to_player_reject|나는 {s2}이(가) 내 영지가 되는 것에 대해 관심이 없다.
+menu_give_center_to_player_2|간소한 의식을 마치고, 당신은 {s2}{reg3?, 그리고 그 영지에 속한 마을인 {s4}:}의 공식적인 영주가 되었습니다. {reg3?그것들:그것}은 확실하게 당신에게 속한 권리로서 자산의 일부가 될 것입니다. 당신은 당신의 영지로부터 세금과 소작료, 징집을 요구할 권리가 있으며, 그리고 그 땅을 온전히 당신의 마음대로 관리할 수 있습니다. 그러나, 그와 함께 당신은 당신 소유의 영지와, 영지의 주민들을 지켜야 할 의무 또한 가지며, 그들을 법과 질서에 의해 공정하게 다스려야만 합니다.
+menu_oath_fulfilled|당신은 일정한 기간 동안 {s1}와(과) 용병 계약을 하였습니다. 그리고 시간이 지나 계약 기한이 만료되었고, 당신은 계약을 갱신할 수 있습니다. 당신은 어떤 선택을 할 것입니까?
+mno_renew_oath|{s1}와(과)의 용병 계약을 새로 갱신합니다.
+mno_dont_renew_oath|용병 계약을 끝냅니다.
+menu_siege_started_defender|{s1}은(는) {s2}을(를) 포위하였고, 그 곳을 함락시키기 위해 공격에 들어갔습니다. 당신은 {reg10}명의 아군을 이끌고 {reg11}명의 적들을 상대해야 합니다. 당신의 선택은...
+mno_siege_defender_join_battle|전장으로 진입합니다.
+mno_siege_defender_troops_join_battle|당신 없이 전투에 참가하라고 명령합니다.
+menu_siege_join_defense|{s4}^^아군 사상자: {s8}^^동맹군 사상자: {s9}^^적군 사상자: {s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
+mno_village_manage|마을의 시설들을 점검합니다.
+mno_recruit_volunteers|지원병을 모집합니다.
+mno_village_center|마을 안을 돌아봅니다.
+mno_village_center_door|마을 거리로 가는 입구.
+mno_meet_leader|지도자를 만난다.
+mno_meet_leader_door|마을 거리로 가는 입구.
+mno_village_buy_food|농민들에게서 보급품을 구입합니다.
+mno_comprar_cattle|농민들에게서 소를 구입합니다.
+mno_village_attack_bandits|마을을 습격중인 도적들을 공격합니다.
+mno_village_wait|이 곳에서 잠시 머무릅니다.
+mno_collect_taxes_qst|{reg5?계속 세금을 징수합니다:세금을 징수합니다}.
+mno_train_peasants_against_bandits_qst|농민들을 훈련시킵니다.
+mno_village_hostile_action|마을에서 도적질을 합니다.
+mno_village_leave|떠납니다.
+menu_village_hostile_action|당신은 어떤 행동을 할 것입니까?
+mno_village_force_convert|농민들을 강제로 개종시키려 시도합니다.
+mno_village_take_food|농민들에게서 강제로 보급품을 내놓도록 협박합니다.
+mno_village_steal_cattle|농민들에게서 소를 훔칩니다.
+mno_enslave_villagers|농민들을 노예로 잡아 끌고 갑니다.
+mno_village_loot|마을을 약탈하고 불태웁니다.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|당신은 돈이 충분하지 않습니다.
+mno_recruit_them|그들을 고용합니다 ({reg6} 페닝)
+menu_village_hunt_down_fugitive_defeated|도망자들이 당신의 둔부를 둔기로 때렸고, 당신의 시야는 잠시 비틀거렸다가 어두워졌습니다. 시간이 흐르고, 당신은 피에 젖은 당신의 모습을 발견할 수 있었습니다, 그러나 운 좋게도 어떤 상처도 치명상으로 보이지는 않았습니다.
+menu_village_confront_contact_defeated|마을 사람들이 당신의 둔부를 둔기로 때렸고, 당신의 시야는 잠시 비틀거렸다가 어두워졌습니다. 시간이 흐르고, 당신은 피에 젖은 당신의 모습을 발견할 수 있었습니다, 그러나 운 좋게도 어떤 상처도 치명상으로 보이지는 않았습니다. 
+menu_village_hunt_lover_defeated|유령이 당신의 둔부를 둔기로 때렸고, 당신의 시야는 잠시 비틀거렸다가 어두워졌습니다. 시간이 흐르고, 당신은 피에 젖은 당신의 모습을 발견할 수 있었습니다, 그러나 운 좋게도 어떤 상처도 치명상으로 보이지는 않았습니다.
+menu_village_hunt_music_defeated|불량한 경비병이 당신의 둔부를 둔기로 때렸고, 당신의 시야는 잠시 비틀거렸다가 어두워졌습니다. 시간이 흐르고, 당신은 피에 젖은 당신의 모습을 발견할 수 있었습니다, 그러나 운 좋게도 어떤 상처도 치명상으로 보이지는 않았습니다.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|음유시인들에게 회자될 만한 싸움이 끝난 뒤, 당신과 당신의 부하들은 도적들을 마을에서 쫓아내어 마을을 안전하게 지켰습니다. 당신의 행위에 감동받은 마을 주민들은 당신에게 얼마 남지 않은 재산의 일부나마 당신에게 보상으로 주고 싶다고 말했습니다.
+mno_village_bandits_defeated_accept|당연한 보상으로 받아들입니다.
+mno_village_bandits_defeated_cont|사양합니다, 마을 주민들이 더 유용하게 쓸 수 있을 것입니다.
+menu_center_manage|{s19}^{reg6?^^이 곳은 현재 {s7}을(를) 짓는 중입니다. 이 건물이 완공되려면 {reg8}일이 걸리며 {reg9}일 뒤에 완공될 것입니다.:}
+mno_center_build_manor|장원을 짓습니다.
+mno_center_build_fish_pond|풍차를 짓습니다.
+mno_center_build_watch_tower|감시 초소를 짓습니다.
+mno_center_build_school|학교를 짓습니다.
+mno_center_build_messenger_post|연락망을 구축합니다.
+mno_center_build_prisoner_tower|감옥탑을 짓습니다.
+mno_center_build_religion1|가톨릭 수도원을 짓습니다 (이 건물은 이 지역의 종교를 전향시킬 것입니다).
+mno_center_build_religion2|오딘의 사원을 짓습니다 (이 건물은 이 지역의 종교를 전향시킬 것입니다).
+mno_center_build_religion3|가톨릭 교회를 짓습니다 (이 건물은 이 지역의 종교를 전향시킬 것입니다).
+mno_center_build_religion4|북구 신들의 성지를 짓습니다 (이 건물은 이 지역의 종교를 전향시킬 것입니다).
+mno_center_build_herreria|대장간을 짓습니다.
+mno_center_build_guilds|상공 회의소를 짓습니다.
+mno_center_build_library|장서관을 짓습니다.
+mno_center_build_slavemarket|노예 시장을 짓습니다.
+mno_center_kill_slavemarket|노예 시장을 철거합니다.
+mno_center_build_brewery|양조장을 짓습니다.
+menu_remove_slaves|도시 내에서 노예 시장을 철거하고 관련된 모든 사업을 금지시키겠습니까?  관세와 번영도가 일시적으로 감소할 것입니다.
+mno_remove_slaves|착수합니다.
+menu_center_improve|{s19} 당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} {s4}을(를) 짓는 데에는 {reg5} 페닝과 {reg6}일의 시간을 필요로 합니다.
+mno_improve_cont|착수합니다.
+mno_improve_not_enough_gold|나는 지금 돈이 없다.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|도적들은 추풍낙엽처럼 당신 앞에 쓰러졌습니다! 어느새 홀로 서 있는 당신의 주위에는 그 도적들의 시체가 널려 있었습니다. 그들은 당연한 대가를 치뤘고, 당신은 그들의 시체를 뒤져 그들에게 당한 희생자들의 것으로 추정되는 돈을 손에 넣었습니다. 당신은 그 희생자들을 위해서라도 그 돈을 소중히 사용해야겠다고 생각했습니다.
+mno_reveal|누가 당신을 죽이려 했는지 찾아내려 시도합니다.
+menu_village_force_convert_confirm|마을을 돌며 이교도들을 모두 찾아내 종교적 강압을 하는데 5시간이 걸립니다.
+mno_village_force_convert_confirm|착수합니다.
+menu_village_force_convert1|{s1}
+menu_village_steal_cattle_confirm|당신의 부대에서 가장 높은 약탈 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 당신은 마을에서 {reg4}마리의 소들을 훔칠 수 있을 것입니다.
+mno_village_steal_cattle_confirm|훔칩니다.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|마을 주민들을 위협해 강제로 그들의 소중한 보급품을 뺏는 것은 힘든 일일 것으로 보입니다. 당신이 생각하기에 그 일은 최소 한 시간 이상이 걸릴 것으로 추정됩니다.
+mno_village_take_food_confirm|시작합니다.
+menu_village_take_food|마을 주민들은 마지 못해 당신에게 보급품을 넘겨주었습니다.
+mno_take_supplies|보급품을 넘겨 받습니다.
+mno_let_them_keep_it_2|그들에게 보급품을 돌려줍니다.
+menu_village_start_attack|성난 마을 주민들 중 일부는 무기를 들고 당신에게 저항하기로 마음먹었습니다. 이 행동을 계속할 경우, 당신은 이들과 싸워 때려눕혀야 할 것입니다.
+mno_village_raid_attack|진압합니다.
+mno_village_raid_leave|마을을 떠납니다.
+menu_village_raid_villagers_toslaves|당신은 마을 주민들을 동물처럼 사냥해 노예로 만들 것입니까?
+mno_villagers_slaves|마을 주민들은 전부 내 포로가 될 것이다!
+menu_village_loot_no_resist|마을 주민 몇 명이 당신을 보고 깜짝 놀란 뒤, 겁에 질려 도망갔습니다. 이제 이 마을의 운명은 당신의 손아귀에 떨어졌습니다.
+mno_village_enslave|마을 사람들을 노예로 만듭니다.
+mno_take_supplies1|공급받습니다.
+menu_village_loot_complete|당신의 명령대로 당신의 부하들은 마을 주민들을 포로로 잡고, 마을의 값 나가는 모든 것을 약탈했습니다. 그리고 횃불을 던져 마을에 불을 질렀습니다. 약탈한 돈과 물건들 중, 당신의 몫은 {reg1} 페닝입니다.
+menu_village_loot_defeat|마을 주민들은 용기를 가지고 힘을 합쳐서 당신의 병력과 싸워 당신의 병력을 물리치고 마을에서 쫓아냈습니다.
+menu_village_loot_continue|당신은 이 마을을 계속 약탈할 것입니까?
+mno_lootvillage_yes|나는 그들을 약탈할 것이다.
+mno_lootvillage_no|나는 그들을 약탈하지 않을 것이다.
+menu_close|아무것도.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+mno_castle_castle|회당에 들어갑니다{s1}.
+mno_castle_castle_door|회당에 들어갑니다.
+mno_join_tournament|경기에 참여합니다.
+mno_town_castle|회당에 들어갑니다{s1}.
+mno_town_castle_door|회당에 들어갑니다.
+mno_town_center|거리를 걷습니다.
+mno_town_center_door|도시 안을 돌아봅니다.
+mno_town_tavern|선술집으로 갑니다.
+mno_town_tavern_door|선술집으로 갑니다.
+mno_town_merchant|상인과 이야기합니다.
+mno_town_merchant_door|상인의 집으로 갑니다.
+mno_town_arena|투기장에 들어갑니다.
+mno_town_arena_door|훈련장으로 갑니다.
+mno_town_dungeon|접근 금지: 감옥에 들어갑니다.
+mno_town_dungeon_door|지하 감옥에 들어갑니다.
+mno_castle_inspect|요새 안뜰을 걷습니다.
+mno_castle_inspect_door|떠납니다.
+mno_town_enterprise|당신의 {s3}(을)를 방문합니다.
+mno_town_enterprise_door|당신의 {s3}(으)로 갑니다.
+mno_visit_lady|숙녀를 방문합니다.
+mno_visit_lady_door|정원으로 들어갑니다.
+mno_trade_with_merchants|시장으로 갑니다.
+mno_travel|다른 항구로 여행합니다.
+mno_travel_door|부대를 준비시킵니다.
+mno_walled_center_manage|{reg0?도시:요새}의 시설들을 점검합니다.
+mno_walled_center_move_court|당신의 궁정을 이 곳으로 옮깁니다.
+mno_castle_station_troops|{s10}의 수비대를 관리합니다.
+mno_castle_wait|{s1}에서 얼마간 머무릅니다.
+mno_castle_wait_door|숙박합니다.
+mno_town_alley|잠재적 모병을 요청합니다.
+mno_town_visit_port|도시의 항구를 방문합니다.
+mno_banquete_mead|{reg0?도시:요새}에 주둔한 당시의 부하들에게 술과 음식을 베풉니다.
+mno_banquete_mead_door|돛을 올립니다.
+mno_set_sail|돛을 펴고, 항구에서 출항합니다.
+mno_set_sail_door|항해를 시작합니다.
+mno_town_leave|떠납니다
+mno_town_leave_door|이 곳을 떠납니다.
+menu_cannot_enter_court|영주의 회당에서 연회가 진행 중입니다. 그러나 당신은 연회에 초대받을 정도로 고귀한 신분이 아닙니다. 당신의 명성이 충분히 높다면, 그들은 당신을 연회로 초대할 것입니다 -- 또는 연회가 진행되는 동안, 경기에서 자신의 가치를 증명할 수 있을 경우, 당신은 연회에 초대받을 수 있을 것입니다.
+menu_lady_visit|당신은 누구를 방문하기를 원합니까?
+mno_visit_lady_1|{s12}을(를) 방문합니다.
+mno_visit_lady_2|{s12}을(를) 방문합니다.
+mno_visit_lady_3|{s12}을(를) 방문합니다.
+mno_visit_lady_3_door|정원 입구.
+mno_visit_lady_4|{s12}을(를) 방문합니다.
+mno_visit_lady_5|{s12}을(를) 방문합니다.
+mno_visit_lady_6|{s12}을(를) 방문합니다.
+mno_visit_lady_7|{s12}을(를) 방문합니다.
+mno_visit_lady_8|{s12}을(를) 방문합니다.
+menu_town_tournament_lost|당신은 경기에서 탈락했습니다.{s8}
+menu_town_tournament_won|당신은 {s3}에서 벌어지는 경기의 우승자가 되었습니다! 경기를 관람하던 군중들이 당신의 이름을 외치며 연호하고 있습니다. 당신은 스스로의 명예를 드높였고, 영광과 명성을 얻었습니다. 거기에 더해 경기의 우승 상금으로 {reg9} 페닝을 수여받았습니다. {s8}
+menu_town_tournament_won_by_another|이 날 벌어진 경기에서 마지막까지 남아 승리한 {reg3?전사:남자}로서, {s1}은(는) 이 경기의 우승자가 되는 영광을 차지했습니다.
+menu_town_tournament|{s1}당신은 경기 {reg0}회전까지 올라왔고, 경기에는 {reg1}명의 참가자가 남았습니다. 이번 경기에서는 {reg3}명의 전사들로 이루어진 {reg2}개의 팀이 참전할 것입니다.
+mno_tournament_view_participants|경기에 남은 참가자의 목록을 봅니다.
+mno_tournament_bet|당신이 이기는 것에 돈을 걸고 도박을 합니다.
+mno_tournament_join_next_fight|다음 경기에 참가합니다.
+mno_leave_tournament|경기에서 기권합니다.
+menu_tournament_withdraw_verify|당신은 정말로 이 경기에서 기권할 것입니까?
+mno_tournament_withdraw_yes|그렇다. 더 이상의 경기는 무의미하다.
+mno_tournament_withdraw_no|아니, 나는 승리의 기회를 놓치고 싶지 않다.
+menu_tournament_bet|당신에게 걸린 여분은 {reg5}에서 {reg6}입니다. {reg1?당신은 이미 {reg1} 페닝을 당신 스스로에게 걸었고, 당신이 이긴다면 {reg2} 페닝을 받을 것입니다.:} 당신은 얼마나 많은 금액을 걸어볼 것입니까?
+mno_bet_100_denars|100 페닝을 걸어봅니다.
+mno_bet_50_denars|50 페닝을 걸어봅니다.
+mno_bet_20_denars|20 페닝을 걸어봅니다.
+mno_bet_10_denars|10 페닝을 걸어봅니다.
+mno_bet_5_denars|5페닝을 걸어봅니다.
+menu_tournament_bet_confirm|만약 당신이 {reg1} 페닝을 걸어 둔다면, 당신이 경기에서 우승했을 때 {reg2} 페닝을 받을 수 있을 것입니다. 당신은 베팅할 것입니까?
+mno_tournament_bet_accept|도박에 걸어봅니다.
+mno_tournament_bet_cancel|도박에 걸어보지 않습니다.
+menu_tournament_participants|당신은 경기 관리자중 한 명에게 경기에서 살아남은 참가자들에 대해 물어보았습니다. 경기에서 살아남은 참가자:^{s11}
+menu_collect_taxes|당신의 부대에서 가장 높은 상술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s1}에 의하면} 당신이 마을에서 세금을 전부 징수하는 데에는 {reg4}일이 걸릴 것입니다.
+mno_start_collecting|세금을 징수합니다.
+mno_collect_later|다음 기회로 미뤄둡니다.
+menu_collect_taxes_complete|당신은 {reg3}에서 세금으로 {s3} 페닝을 징수하였습니다. {s19}은(는) 당신이 그를 위해 수금한 돈을 가져오기를 기다리고 있을 것입니다.
+menu_collect_taxes_rebels_killed|당신은 신속하게 마을 주민들을 강한 무력으로 진압했습니다. 이제 더 이상, 마을에서 당신에게 반항하려고 하는 자는 없을 것입니다.
+menu_collect_taxes_failed|당신의 세금 징수는 {s3}에서 마을 주민들의 강력한 저항에 무산되었고, 당신은 단지 {reg3} 페닝만을 징수할 수밖에 없었습니다. {s1}은(는) 이에 대해서 별로 좋게 생각하지 않을 것이지만, 약간의 돈이라도 가져다주어 그를 진정시켜야 할 것입니다.
+menu_monasterio_saqueado|피에 물든 수도사의 시체는 까마귀의 밥이 되었습니다. 그것은 쉬운 승리였습니다, 그들이 가지고 있던 막대한 재산 또한 얻었지만... 이 행위는 그리스도인들을 당신의 새로운 적으로 만들게 되었습니다.
+menu_collect_taxes_revolt_warning|{s3}의 주민들은 당신의 요구에 분노했습니다. 그리고 이것은 단지 강탈에 지나지 않는다고 당신을 비난했습니다. 당신이 계속 징수를 계속한다면, 그들의 저항에 직면하게 될 지도 모릅니다.
+mno_continue_collecting_taxes|무시하고 세금을 징수합니다.
+mno_halve_taxes|세금을 반으로 깎는데 동의합니다. ({s1}은(는) 이 행위에 대해서 화낼 것입니다.)
+menu_collect_taxes_revolt|당신은 {s3}에서 세금을 징수하던 도중, 화난 {reg9?마을 주민들:도시 주민들}이 횃불과 무기를 들고 무리지어 그들은 터무니 없는 세금을 낼 수 없다며 저항하기 시작했습니다. 그들은 당신과 싸우려 하고 있습니다.
+menu_train_peasants_against_bandits|당신의 부대에서 가장 높은 훈련 교관 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s1}에 의하면} 마을 남자들이 당신과 간단하게 연습 대련을 할 수 있을 정도로 훈련시키는 데에 {reg4}시간이 걸릴 것으로 여겨집니다.
+mno_make_preparation|그들을 훈련시킵니다.
+mno_train_later|다음 기회로 미뤄둡니다.
+menu_train_peasants_against_bandits_ready|당신은 마을 남자들에게 기초적인 군사 훈련 및 군대에서의 규율과 그에 대한 복무 규범을 가르쳤습니다. 당신은 {reg0}명의 마을 남자들을 충분히 훈련시켰고, 그들이 당신과 연습 대련을 할 수 있을 거라고 생각했습니다.
+mno_peasant_start_practice|연습 대련을 시작합니다.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|당신이 훈련을 계속 진행할 준비가 되었을 때, 망을 보던 마을 주민이 당신에게 달려와 {s3}을(를) 노리던 도적들이 마을에 모습을 드러냈다고 알렸습니다. 훈련받은 남자들의 대표가 당신의 방식대로 훈련받은 마을 남자들을 소집했고, 당신에게도 그들에게 대항하는 것을 도와달라고 부탁했습니다.
+mno_peasants_against_bandits_attack_resist|전투 준비!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|도적들은 무참하게 패배했습니다! 몇몇 살아남은 도적들은 훈련받은 마을 남자들과 그들의 새로운 챔피언에게 겁을 먹고 도망쳤다. 지역 주민들은 그들에게서 해방된 것을 기뻐했고, 마을 장로는 당신에게 얼마 남지 않은 재산의 일부나마 감사의 의미로 당신에게 제공한다고 했습니다.
+menu_loot_options|당신은 전투를 성공적으로 끝마쳤다, 당신은 전리품을 어떻게 할 것입니까?
+mno_loot_0|내 명령에 따라 공평하게 전리품을 분배할 것이다.
+mno_loot_1|내가 먼저 보고 가장 좋은 전리품을 먼저 가져갈 것이다.
+mno_loot_2|내 몫은 필요 없다, 전리품은 내 부하들에게 공평하게 나눠줄 것이다.
+mno_loot_3|전리품은 필요 없다, 그러나 나는 죽은 내 부하들의 장례를 치뤄줄 것이다.
+menu_landing_point_encounter|당신은 상륙할 것입니까?
+mno_disembark_no|아니.
+menu_landet_ships_encounter|당신은 선박을 타고 출항할 것입니까?
+mno_reembark_no|아니.
+menu_ferry_encounter|선착장의 뱃사공은 당신이 {reg7} 페닝을 지불한다면 당신과 당신의 부하들을 건너편까지 태워다 주겠다고 제안했습니다.
+mno_back|돌아갑니다.
+menu_port_encounter|당신은 {s2} 항구에 도착했습니다. {s3}
+mno_attack|공격!
+mno_merge|함대에 합류하라.
+menu_port_encounter_2|당신은 {s2} 항구에 도착했습니다. 그러나, 이 도시의 사람들은 당신이 입항하는 것을 원하지 않습니다.^^{s7}
+mno_coastal_assault|선박을 해안으로 상륙시키고, 이 곳을 습격해라.
+menu_after_sea_raid|당신과 당신의 부하들은 전투를 마쳤습니다. 당신은 약탈한 물건들을 선박에 싣고 신속하게 그 곳을 떠났습니다. 약탈한 돈과 물건들 중, 당신의 몫은 다음과 같습니다: {reg1} 페닝.
+menu_sea_raid_defeat|그들은 방어전에서 승리했고, 당신과 당신의 부대를 바다로 도망칠 수밖에 없게 만들었습니다.
+menu_port_new|{s1} 항구는 당신의 방문을 반기고 있었습니다. 당신은 항구의 거리를 돌아다녔고, 당신은 바다에서 부는 바람에서 짠 내음과 머나먼 육지의 향기를 느꼈습니다. 갈매기가 지저귀는 소리와 여러 다른 언어로 이야기하는 선원들의 목소리는 당신이 마치 다른 세상에 온 것처럼 느끼게 만들었습니다.
+mno_town_port_new|도시의 항구를 방문합니다.
+mno_buy_a_ship|선박을 둘러봅니다.
+mno_reset_town_ships|치트: 마을에서 파는 선박들을 새로 갱신.
+mno_spawn_enemy_ship|치트: 마을 옆에 디나 해적단 출현.
+mno_sail_from_port|항구에서 출항합니다.
+mno_go_to_town|도시로 갑니다.
+menu_camp_on_sea|당신의 선박은 바다 한복판에 정박해 있습니다. 당신은 무엇을 할 것입니까?^^{s1}
+mno_epic_sea_battle|B. 에픽 해전!
+mno_d_day1|C. D-day! (200척의 선백)
+mno_testdrive2|대규모 해전... 선택된 적 0
+mno_see_ships|당신의 선박을 확인합니다. (WIP)
+menu_center_reports|도시 이름: {s1}^도시 세금: {reg1} 페닝^관세: {reg2} 페닝^식량 비축량: {reg3}일분
+mno_to_price_and_productions|생산물과 가격을 봅니다.
+menu_price_and_production|생산된 물건들:^(공식: 기본 값/원자재에 의해 수정된 값/재료에 의해 수정된 값 + 마을 번영도)^{s1}^^가격 요인:^{s2}
+menu_town_trade|당신은 시장으로 향했습니다.
+mno_assess_prices|지역의 시세를 알아봅니다.
+mno_trophies|전투 트로피를 거래합니다.
+mno_highking_trophies|상급 왕 트로피를 거래합니다.
+mno_trade_with_arms_merchant|무기 상인과 거래합니다.
+mno_trade_with_armor_merchant|방어구 상인과 거래합니다.
+mno_trade_with_horse_merchant|말 상인과 거래합니다.
+mno_trade_with_goods_merchant|상품 상인과 거래합니다.
+mno_back_to_town_menu|그만둡니다.
+menu_trophy_premium|전투에서 얻은 훈장은 가치있는 상품이며, 트로피는 돈이나 경험치로 교환할 수 있습니다.
+mno_premium_a|전투에 대한 훈장을 교환합니다.
+mno_premium_b|전쟁에 대한 훈장을 교환합니다.
+mno_premium_c|업적에 대한 훈장을 교환합니다.
+menu_trophy_hihgking_premium|상급 왕 트로피는 모두가 탐내는 물건이며, 많은 땅을 통합시킨 강력한 전쟁 군주만이 얻을 수 있습니다. 트로피는 돈이나 경험치로 교환할 수 있습니다.
+mno_premium_norse|노스 트로피를 교환합니다.
+mno_premium_cymry|브리튼 트로피를 교환합니다.
+mno_premium_irish|에리우 트로피를 교환합니다.
+mno_premium_saxon|앵글로 색슨 트로피를 교환합니다.
+menu_town_trade_assessment_begin|당신은 지역들 간의 거래와 그에 대한 이야기를 수소문했습니다.^당신은 모은 정보를 취합해, 최고의 거래를 위해 정보를 취사 선택했습니다.
+menu_town_trade_assessment|당신의 부대에서 가장 높은 상술 ({reg2})에 대한 지식을 가진 {reg3?당신은:{s1}은(는)} 거래할 최적의 상품을 알아내려 노력했습니다. {s2}
+menu_sneak_into_town_suceeded|당신은 가난한 순례자로 위장한 뒤, 경비병들의 시선을 피해 도시로 들어갔습니다.
+menu_sneak_into_town_caught|당신은 잠입을 시도했으나, 경비병 중 한명이 당신을 알아보고 알람을 울렸습니다! 도시의 모든 경비병들이 당신을 잡으러 오기 전에, 도망쳐야만 할 것입니다!
+mno_sneak_caught_fight|도망치기 위해 싸울 준비를 합니다.
+mno_sneak_caught_surrender|경비병들에게 투항합니다.
+menu_sneak_into_town_caught_dispersed_guards|당신은 경비병들을 따돌리는 데 성공했고, 그들이 미로 같은 도시의 거리에서 당신을 찾아 헤메도록 당신의 흔적을 지웠습니다.
+menu_sneak_into_town_caught_ran_away|당신은 도시의 뒷문을 통해, 신속하게 근처의 안전한 곳으로 도망쳤습니다.{s11}
+menu_enemy_offer_ransom_for_prisoner|{s2}은(는) 당신이 {s1}을(를) 풀어준다면 {reg12} 페닝을 지불하겠다고 제안했습니다.
+mno_ransom_accept|그 제안을 받아들입니다.
+mno_ransom_reject|그 제안을 거부합니다.
+menu_training_ground|당신은 당신의 무술을 연마할 수 있는 훈련장에 도착했습니다. 당신은 어떤 훈련을 받기를 원합니까?
+mno_camp_trainer|훈련 교관과 대화합니다.
+mno_camp_train_melee|연습 대련을 합니다.
+mno_camp_train_archery|장거리 무기를 연습합니다.
+mno_camp_train_mounted|마상 전투를 연습합니다.
+menu_training_ground_selection_details_melee_1|당신은 동시에 몇명과 연습 대련을 할 것입니까?
+mno_camp_train_melee_num_men_1|한 명.
+mno_camp_train_melee_num_men_2|두 명.
+mno_camp_train_melee_num_men_3|세 명.
+mno_camp_train_melee_num_men_4|네 명.
+menu_training_ground_selection_details_melee_2|당신은 누구와 연습 대련을 할 것입니까? #{reg1}:
+mno_training_ground_selection_details_melee_random|아무라도 상관 없어.
+menu_training_ground_selection_details_mounted|당신은 어떤 근접 무기를 연습할 것입니까?
+mno_camp_train_mounted_details_1|한손 무기.
+mno_camp_train_mounted_details_2|창.
+mno_camp_train_mounted_details_3|활.
+mno_camp_train_mounted_details_4|투척 무기.
+menu_training_ground_selection_details_ranged_1|당신은 어떤 장거리 무기를 연습할 것입니까?
+mno_camp_train_ranged_weapon_bow|활과 화살.
+mno_camp_train_ranged_weapon_crossbow|자벨린.
+mno_camp_train_ranged_weapon_thrown|투척용 단검.
+menu_training_ground_selection_details_ranged_2|당신은 얼마나 먼 거리에서 연습할 것입니까?
+mno_camp_train_ranged_details_1|10 야드.
+mno_camp_train_ranged_details_2|20 야드.
+mno_camp_train_ranged_details_3|30 야드.
+mno_camp_train_ranged_details_4|40 야드.
+mno_camp_train_ranged_details_5|50 야드.
+mno_camp_train_ranged_details_6|60 야드.
+mno_camp_train_ranged_details_7|70 야드.
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshal_selection_candidate_ask|{s15}은(는) 곧 {s23}의 새로운 총사령관을 선출할 것이라고 알려왔습니다. 그리고 왕국의 영주들은 유력한 후보로 당신을 추천했습니다.
+mno_marshal_candidate_accept|나는 {s15}의 총사령관에 취임하겠소.
+mno_marshal_candidate_reject|나는 요즘 바쁘니, 다른 사람을 찾아보시오.
+menu_captivity_avoid_wilderness|많은 시간이 흐른 뒤, 당신은 겨우 의식을 되찾았습니다. 당신의 적들은 당신이 죽은 줄 알고 가버린 것 같습니다. 다행히도, 당신의 몸에는 심각한 상처가 없었고, 아직 걸을 수 있었습니다. 비록 버려진 시체들 사이에 누워 있던 당신의 상황에 문득 깊은 두려움을 느꼈지만, 당신은 두려움을 이겨내고, 힘겹게 몸을 일으켜 살아남은 당신의 부대원을 찾아다녔습니다.
+menu_captivity_start_wilderness|stub
+menu_captivity_start_wilderness_surrender|stub
+menu_captivity_start_wilderness_defeat|당신은 적들에게 포로로 붙잡혔습니다.
+menu_captivity_start_castle_surrender|stub
+menu_captivity_start_castle_defeat|stub
+menu_captivity_start_under_siege_defeat|당신은 적들에게 포로로 붙잡혔습니다.
+menu_captivity_wilderness_taken_prisoner|{s2}
+mno_continue1|계속...
+menu_captivity_wilderness_check|토막
+menu_captivity_end_wilderness_escape|당신은 얼마간의 고통스러운 포로 생활을 경험했으나, 당신은 도망칠 기회를 잡았고, 적들에게서 도망치는 데 성공했습니다!
+menu_captivity_castle_taken_prisoner|당신은 경비병들에게 포위당해 붙잡혔고, 당신의 무기를 빼앗겼습니다. 그들은 당신을 실컷 두들겨 패고, 악담과 모욕을 일삼은 뒤 당신을 어둡고 습기찬 지하 감옥에 내던지듯이 쳐박았습니다.
+menu_captivity_rescue_lord_taken_prisoner|당신은 경비병들에게 포위당해 붙잡혔고, 당신의 무기를 빼앗겼습니다. 그들은 당신을 실컷 두들겨 패고, 악담과 모욕을 일삼은 뒤 당신을 어둡고 습기찬 지하 감옥에 내던지듯이 쳐박았습니다.
+menu_captivity_castle_check|토막
+menu_captivity_end_exchanged_with_prisoner|얼마 간의 수감 생활 끝에, 당신을 풀어주기 위한 포로 교환 협상이 성사되었고, 당신은 간신히 자유의 몸이 되었습니다.
+menu_captivity_end_propose_ransom|당신은 햇볓조차 들지 않는 차가운 감옥에서 많은 시간을 보냈습니다. 상상도 할 수 없을 만큼 오랜 시간을, 그러던 어느 날, 간수 중 한 명이 당신에게 {reg5} 페닝을 그에게 뇌물로 준다면 다른 사람 몰래 당신을 풀어주겠다고 제안했습니다.
+mno_captivity_end_ransom_accept|그의 제안을 받아들입니다.
+mno_captivity_end_ransom_deny|그의 제안을 거부하고, 좀 더 감옥에서 기다려 봅니다.
+menu_captivity_castle_remain|당신이 어두운 감옥 안에서 지낸 지 몇일이 더 지났습니다. 당신은 경비병들의 모욕과 악담, 폭행을 최대한 견뎌야 했고, 하다 못해 미음조차 먹지 못하고 있는 스스로의 상황을 한탄했습니다.
+menu_kingdom_army_quest_report_to_army|당신은 {s8}이(가) 보낸 전령을 만났습니다. 전령은 {reg4?그녀:그}가 총사령관으로서 자신의 군사 작전에 당신의 병력을 소집해 충성 서약의 의무를 이행하라는 명령을 내렸고, 당신이 소집 의무를 수행하기 위해 최소한 {reg13}명의 병력을 데려와야 하며, 만일 현재 당신에게 병력이 없을 경우 영지에서 병력을 추가로 징집하라는 말도 덧붙였다고 전령은 말했습니다.
+menu_kingdom_army_quest_messenger|{s8}은(는) 총사령관으로서 당신의 도움이 필요하며, 가능한 한 빨리 당신과 면담하기를 원하고 있습니다.
+menu_kingdom_army_quest_join_siege_order|당신은 {s8}이(가) 보낸 전령을 만났습니다. 전령은 {reg4?그녀:그}가 당신이 {s9}에서 진행되고 있는 총공세에 당신의 병력을 참가시킬 것을 명령했고, 당신의 병력이 얼마나 큰 희생을 치루더라도 {s9}을(를) 반드시 점령해야 한다고 전했습니다.
+menu_kingdom_army_follow_failed|당신은 소집 명령에 응하지 않았습니다, {s8}은(는) 당신을 소집 대상에서 제외시켰고, {reg4?그녀:그}의 전령은 {reg4?그녀:그}가 당신의 행위에 대해서 매우 화가 나 있으며, {reg4?그녀:그}는 총사령관으로서 당신이 저지른 이 배신 행뤼를 잊지 않을 것이라 경고했다고 전했습니다.
+menu_invite_player_to_faction_without_center|당신은 가신으로 초대받았습니다!^^ {s8}의 군주인 {s9}은(는) 당신을 자신의 가신으로 초대하기 위해 왕실의 전령을 보냈습니다. 전령은 당신이 {s9}의 귀족이 될 기회를 얻는 영예를 얻었고, {s8}은(는) 당신이 {reg59?그녀:그}에게 봉신으로서 충성 서약을 하더라도 아무런 영지도 제공하지 않을 것이지만, {reg59?그녀:그}는 당신이 {reg59?그녀:그}에게 충성 서약을 하여 {reg59?그녀:그}의 가신이 되기를 원하고 있다고 말했습니다. 전령은 당신이 이 제안을 거부한다면, {reg59?그녀:그}는 분명히 당신을 불쾌한 자라고 생각하게 될 것이라고 전했습니다.
+mno_faction_accept|초대를 수락합니다!
+mno_faction_reject|초대를 정중히 거절합니다.
+menu_invite_player_to_faction|당신은 봉신으로 초대받았습니다!^^ {s8}의 군주인 {s9}은(는) 당신을 자신의 봉신으로 초대하기 위해 왕실의 전령을 보냈습니다. 전령은 당신이 {s9}의 영주가 될 기회를 얻는 영예를 얻었고, {s8}은(는) 당신이 {reg59?그녀:그}에게 봉신으로서 충성 서약을 할 경우, {reg59?그녀:그}는 당신의 충성에 대한 보상으로 {s2}을(를) 당신의 영지로 하사할 것이라고 말했다. 전령은 당신이 이 제안을 거부한다면, {reg59?그녀:그}는 분명히 당신을 불쾌한 자라고 생각하게 될 것이라고 전했습니다.
+menu_invite_player_to_faction_accepted|{s3}의 신하가 되기 위해서 당신은 {s3}에게 충성 서약을 해야만 합니다. 당신은 {reg59?그녀:그}를 직접 찾아간 뒤, {reg59?그녀:그}의 앞에서 직접 당신의 충성 서약을 바쳐야 할 것입니다. {s5}
+menu_question_peace_offer|당신은 평화 조약을 제안받았습니다.^^{s1}은(는) 당신에게 평화 조약을 제안하고 있습니다. 당신은 어떤 결정을 내릴 것입니까?
+mno_peace_offer_accept|승락합니다.
+mno_peace_offer_reject|거부합니다.
+menu_notification_truce_expired|조약이 만료되었습니다.^^{s1}와(과) {s2}사이의 휴전 협정이 만료되었습니다.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|{s4} 근처에서 적들이 발견되었습니다. {s5}은(는) 반격을 준비하고 있고, 이를 지원하는 것은 오직 당신의 생각에 달려 있습니다.
+menu_notification_casus_belli_expired|왕국은 그들의 도발에 응하지 않았습니다.^^{s1}은(는) {s2}의 도발에 넘어가지 않았습니다, {s3}은(는) {reg4?그녀:그}의 자존심에 상처를 입었고, {reg4?그녀:그}의 봉신들 중 몇몇은 강한 반감을 표시했습니다.^
+menu_notification_lord_defects|배신: {s4}은(는) {s5}에서 {s7}의 영주로 전향하였습니다. 동시에 {s7}은(는) {reg4?그녀:그}의 영지가 그들의 영토가 되었음을 선언했습니다.
+menu_notification_treason_indictment|반역자 처단^^{s9}
+menu_notification_border_incident|국경에서 작은 교전이 일어났습니다.^^{s9}에 대한 소문은 당신의 귀에도 들려왔습니다. 그 소문이 사실인지, 아닌지는 확인되지 않았지만. 그 소문은 노스란드 곳곳에 나돌고 있습니다. -- 이 교전은 겉으로 보기에는 작은 사고처럼 보였으나, {s4}은(는) 이 사건에 대해 크게 분노했으며, 이를 계기로 {s3}에게 전쟁을 선포할 지도 모릅니다.
+menu_notification_player_faction_active|당신은 지금 어느 왕국에도 소속되지 않고서, 당신 소유인 영지를 보유하고 있습니다. 이 땅의 소유권은 당신의 고유한 권리이며, 당신은 {s12}에 당신의 궁정을 두고 스스로 군주임을 선포했습니다. 그러나, 다른 노스란드의 왕들은 출세한 장군 나부랭이가 왕위를 자칭하고 있을 뿐이며, 심지어 당신에게 정통성에 대한 문제까지 있다고 깎아내린 뒤, 당신을 독립된 군주로 인정하려 하지 않을 것입니다.^^당신은 기존에 있는 다른 왕국들에게 당신의 정통성을 보장할 수 있는 바람직한 것들을 찾아야만 할 것입니다. 만약 당신이 계속 독립된 군주가 되려고 한다면, 제일 먼저 해야 할 일은 독립에 필요한 충분한 정통성을 확보하는 것이 최우선 과제일 것입니다. 당신은 당신의 정통성을 여러 가지 방법으로 인정받을 수 있을 것입니다. -- 노스란드 귀족의 가족 구성원이 되거나, 새로운 영주를 영입할 수도 있고, 당신의 영지를 올바르게 통치하거나, 다른 왕들과 조약을 맺거나, 혹은 당신의 동료들에게 당신에게 도움이 될 만한 임무를 주어 정통성을 지지해 줄 기반을 마련할 수도 있습니다.^^어찌 되었든, 당신이 제일 먼저 해야 할 일은 당신의 동료들 중 한 명을 국가의 국무를 담당할 재상으로 임명하는 것입니다, 당신의 동료들은 각기 다른 능력을 가지고 있습니다.^당신은 재상과 이야기하여 새로운 재상으로 언제라도 바꿔 임명할 수 있으며, 또한 당신은 얼마든지 당신의 궁정을 옮길 수 있습니다.
+mno_appoint_spouse|나의 아내, {s10}을(를) 임명합니다.
+mno_appoint_npc1|{s10}을(를) 임명합니다.
+mno_appoint_npc2|{s10}을(를) 임명합니다.
+mno_appoint_npc3|{s10}을(를) 임명합니다.
+mno_appoint_npc4|{s10}을(를) 임명합니다.
+mno_appoint_npc5|{s10}을(를) 임명합니다.
+mno_appoint_npc6|{s10}을(를) 임명합니다.
+mno_appoint_npc7|{s10}을(를) 임명합니다.
+mno_appoint_npc8|{s10}을(를) 임명합니다.
+mno_appoint_npc9|{s10}을(를) 임명합니다.
+mno_appoint_npc10|{s10}을(를) 임명합니다.
+mno_appoint_npc11|{s10}을(를) 임명합니다.
+mno_appoint_npc12|{s10}을(를) 임명합니다.
+mno_appoint_npc13|{s10}을(를) 임명합니다.
+mno_appoint_npc14|{s10}을(를) 임명합니다.
+mno_appoint_npc15|{s10}을(를) 임명합니다.
+mno_appoint_npc16|{s10}을(를) 임명합니다.
+mno_appoint_default|지역 유지를 임명합니다.
+menu_minister_confirm|{s9}당신은 {s12}에 당신의 궁정을 옮길 수 있습니다. 당신은 정기적으로 재상과 상담해야 하며, 그것을 통해 당신의 권위를 훼손할 만한 문제들이 해결되지 않고 계속해서 쌓이는 것을 피할 수 있을 것입니다.
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|당신의 왕국은 더 이상 그 어떤 영토도 가지고 있지 않습니다.
+menu_notification_player_wedding_day|{s8}에게서 전령이 도착했고, 전령은 당신에게 {s10}에서 치뤄질 당신의 결혼식이 준비되었다고 알려왔습니다.
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s3}의 {s2}이(가) {s1}을(를) 포위했습니다!^^그들은 포위되어 있고, 전사들은 무기를 든 채, 그들의 적에게서 저항하고 있습니다.
+menu_notification_village_raided|적들이 우리의 영지를 약탈하고 있습니다!^^{s3}의 {s2}이(가) {s1}을(를) 약탈하고 있습니다!
+menu_notification_village_raid_started|당신의 마을이 약탈당하고 있습니다!^^{s3}의 {s2}이(가) {s1}을(를) 약탈하고 있습니다!
+menu_notification_one_faction_left|노스란드는 하나의 왕국에 의해 통일되었습니다!^^{s1}이(가) 그들의 모든 경쟁 왕국들을 멸망시키고 노스란드를 하나의 왕국으로 통일시켰습니다.^^당신은 브리튼왈다가 되었습니다!
+menu_notification_oath_renounced_faction_defeated|당신의 국가가 멸망했습니다.!^이제 당신은 충성 서약에서 해방되었고, 그와 함께 권리와 의무 또한 사라졌습니다.
+menu_notification_center_lost|우리는 영지를 잃었습니다!^^우리는 {s2}에게 {s1}을(를) 점령당했습니다.
+menu_notification_troop_left_players_faction|우리는 배신당했습니다!^^{s1}은(는) {s2}을(를) 배신하고 그의 영지와 함께 {s3}(으)로 전향했습니다.
+menu_notification_troop_joined_players_faction|좋은 소식이 있습니다!^^{s1}은(는) {s2}을(를) 배신하고 그의 영지와 함께 {s3}(으)로 전향했습니다.
+menu_notification_war_declared|우리는 전쟁을 선포했습니다!^^{s1}이(가) {s2}에게 전쟁을 선포했습니다!^{s57}^^대장간에서는 쟁기를 만드는 것을 그만두고, 창과 칼을 만들기 시작했습니다. 전쟁은 시작되었습니다!
+menu_notification_peace_declared|우리는 평화 협상을 맺었습니다!^^{s1}이(가) {s2}와(과) 평화 협상을 맺었습니다!^{s57}^^두 왕국의 병력들은 전쟁을 그만두었습니다. 그들 중 일부는 또 다른 전쟁을 준비하기 위한 휴전을 했고, 일부는 항구적인 평화를 바라고 있습니다.
+menu_notification_alliance_declared|우리는 동맹을 맺었습니다!^^{s1}이(가) {s2}와(과) 동맹을 맺었습니다!^{s57}^^두 왕국은 서로의 운명을 같이 하기로 했고, 지금 그들은 강력한 유대감을 가지고 있습니다.
+menu_notification_alliance_offer|{s1}은(는) 당신과의 동맹을 원하고 있습니다. 당신은 어떤 대답을 할 것입니까?
+mno_offer_accept|승락합니다.
+mno_offer_reject|거부합니다.
+menu_notification_kingdom_reborn|반란!^^패배했던 {s13}의 주민들이 무기를 들고 일어나, 영지의 소유주가 {s12}에서 {s14}로 바뀌었습니다. {s13}이(가) 수복되었습니다! 국왕 폐하 만세!
+menu_notification_center_restoration|지역 반란!^^{s12}의 주민들이 무기를 들고 일어나, {s11}을(를) 되찾았습니다.
+menu_notification_faction_defeated|하나의 왕국이 멸망했습니다.^^{s1}은(는) 멸망했습니다!
+menu_notification_rebels_switched_to_faction|당신의 반란이 성공했습니다!^^당신의 반란군이 승리했습니다! 당신의 국가는 {s12}를 군주로 하여, {s11}에 대한 정통성을 회복했습니다. 이제 당신의 국가는 한 명의 군주만을 섬길 것입니다.
+menu_notification_player_should_consult|당신의 재상은 당신의 권위를 훼손할 수도 있는 음모가 벌어지고 있다고 알려 왔습니다. 당신은 그에게 돌아가 이 문제에 대한 당신의 의견을 이야기해야 합니다.
+menu_banquete_moral|당신은 당신의 병력들에게 잠시 무기를 두고 쉴 수 있도록 연회에 초대했습니다. 지위에 맞게 자리가 배정되었고, 그는 당신과 가장 가까운 자리에 앉아 있었습니다.^곧 여자들이 많은 양의 고기와 벌꿀주를 가져왔고, 당신의 병력들은 그것들을 즐길 만한 자격이 있기에, 당신은 연회에 많은 돈을 사용했습니다.^ 그들은 당신과 함께 피를 흘리며 싸웠고, 그들은 당신을 항상 따랐습니다. 그들은 당신의 충실한 추종자들입니다.^ 당신의 많은 부하들이 술에 취해 노래 부르고, 일부는 술에 취해 구토하고, 여자의 관심을 끌기 위해 서로 싸움을 하기도 했습니다. 그렇게 저녁은 지나가고 있었습니다.^ 당신의 뒤에서 음유시인은 당신의 힘과 업적을 찬양하는 노래를 불렀습니다. 나는 주인의 거취를 좋아하며, 당신은 내 주군이고... '저들의 목자'요.
+mno_banquete_ok|당신은 마시고, 그들과 함께 웃고 소리지르며 즐겼습니다.
+mno_banquete_ok2|당신은 취하지 않게 자제하며, 술의 맛을 음미했습니다, 하지만 그 이상은 필요하지 않습니다.
+menu_comprar_cattle2|그들은 {reg5}마리의 소들을 가지고 있고, 한 마리에 {reg6} 페닝에 팔고 있습니다. 당신은 소를 얼마나 구매할 것입니까?
+mno_cattle_ok|한 마리.
+mno_cattle_ok2|다섯 마리.
+mno_cattle_ok3|아무것도.
+menu_notification_player_feast_in_progress|당신은 연회를 주최했습니다.^^당신의 부인이 {s11} 회당에서 연회를 주최했습니다.
+menu_notification_lady_requests_visit|하인으로 보이는 행색의 늙은 여자가 당신의 부대로 와서 당신에게 편지를 건네 주었습니다. 그 편지는 당신에게 온 편지였고, 편지는 밀납으로 밀봉되어 있었습니다. 당신이 밀봉을 뜯었을 때, 당신은 이 편지가 {s15}이(가) 쓴 편지임을 알 수 있었습니다, 편지에는 이렇게 쓰여 있습니다. '저는 마지막으로 당신이 방문했던 날, 그 때의 즐거움을 아직도 기억하고 있어요. {s14} 저는 지금 {s10}에서 당신을 기다리고 있답니다. {s12}'
+menu_garden|{s12}
+mno_nurse|하인에게 갑니다.
+menu_kill_local_merchant_begin|당신은 당신의 암살 대상을 발견하고는, 그를 뒤쫓아 갔습니다. 그리고, 그가 어두운 골목 안으로 들어가는 것을 보았습니다. 아마도 당신에게 있어 지금이 그를 습격하기에 가장 좋은 기회인 것 같습니다.
+menu_debug_alert_from_s65|디버그 경고: {s65}
+menu_auto_return_to_map|토막
+menu_bandit_lair|{s3}
+mno_continue_1|은신처를 공격합니다.
+mno_trade_withbandits|도적들과 거래합니다.
+mno_leave_no_attack|떠납니다.
+mno_leave_victory|계속...
+mno_leave_defeat|계속...
+menu_notification_player_faction_political_issue_resolved|왕국에서의 오랜 논의 끝에, {s10}은(는) {s12}에게 {s11}을(를) 수여하기로 결정하였습니다.
+menu_notification_player_faction_political_issue_resolved_for_player|왕국에서의 오랜 논의 끝에, {s10}은(는) 당신에게 {s11}을(를) 수여하기로 결정하였습니다. 당신이 영예를 받아들인다면, 한동안 당신은 다른 보상을 수여받는 것을 포기해야 할 것입니다.{s12}
+mno_accept|영예롭게 받아들입니다.
+mno_decline|거절합니다.
+menu_start_phase_3|{s1}
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_establish_court|{s4}(으)로 당신의 궁정을 옮기기 위해서는 약간의 새 단장을 거쳐야 할 것입니다, 그것을 위해 당신은 은 1개와 연장 1개를 필요로 하며, 또한 당신들의 가신들이 이 곳으로 옮겨오기 위한 약간의 시간도 필요할 것입니다. 당신은 궁정을 옮길 것입니까?
+mno_establish|{s4}(으)로 당신의 궁정을 옮깁니다.
+menu_notification_relieved_as_marshal|{s4}은(는) 전령을 보내 당신에게 더 이상 총사령관으로서의 조력을 필요로 하지 않는다고 전했습니다. 지난 {reg4}일간, 당신이 왕국의 이익을 위해 하였던 노력들은 이제 마무리되었습니다. 그리고, {reg8?그녀:그}는 당신의 노력에 대한 보상으로 {reg5} 페닝을 수여하였습니다.
+menu_monasterio_visit|당신은 수도원에 도착했습니다. 이 장소는 넓었고, 외부로 펼쳐져 있었습니다. 그 곳에는 교회가 있었고, 교회에는 승려와 그들의 시종을 위한 방이 있었습니다. 그리고 뜰에는 가축들이 노닐고 있는 넓은 정원이 보입니다. 이 곳은 확실히 부유해 보입니다!^^{s13}
+mno_enter_interior|수도원장을 방문합니다.
+mno_enter_interior_door|수도원장을 방문합니다.
+mno_monasterio_recruit|당신에게 합류할 만한 사람이 있는지 물어봅니다.
+mno_donate|수도원에 기부합니다. (500 페닝)
+mno_aprender_leer|글을 읽고 쓰는 법을 배웁니다. (4000 페닝)
+mno_convertir|기독 신앙으로 개종합니다.(기독 신앙으로 전향).
+mno_pillage_monastery|수도원을 약탈합니다.
+menu_paganholysites_visit|사원에 도착했습니다. 이 장소는 고대 북구 신들을 숭배하며, 부를 중요시 여깁니다!^^{s13}
+mno_enter_hof|사원을 방문합니다.
+mno_enter_hof_door|떠납니다.
+mno_hof_recruit|광전사를 모집합니다.
+mno_donate_hof|사원에 기부합니다. (500 페닝)
+mno_pillage_hof|사원을 약탈합니다.
+menu_saquear_monasterio|그들은 목숨과 재산을 모두 잃었습니다. 당신은 약간의 양심의 가책을 가진 채, 이 곳에 있던 사람들을 모두 죽였고, 당신의 부하들은 전리품을 약탈해 {s3}에 옮겼습니다, 불길이 이 장소를 뒤덮었고, 이 곳에는 죽음이 만연합니다. 당신은 전리품으로 {reg3} 페닝을 약탈했습니다.^^{s4}^
+menu_saquear_paganholysite|그들은 목숨과 재산을 모두 잃었습니다. 당신은 약간의 양심의 가책을 가진 채, 이 곳에 있던 사람들을 모두 죽였고, 당신의 부하들은 전리품을 약탈해 {s3}에 옮겼습니다, 불길이 이 장소를 뒤덮었고, 이 곳에는 죽음이 만연합니다. 당신은 전리품으로 {reg3} 페닝을 약탈했습니다.^^{s7}^^{s4}^
+menu_refugee_recruit_troops12|한 무리의 과부와 고아가 군인으로서의 새로운 삶을 살기 위해 당신의 부대에 모였습니다.
+mno_acept_them|그들을 고용합니다 (20 페닝)
+menu_refugee_recruit_troops22|그들을 원하지 않습니다.
+menu_refugee_recruit_troops32|몇 명의 농부와 목동이 당신의 부대에 모였습니다.
+menu_refugee_recruit_troops42|몇 명의 성직자와 젊은 전사가 당신의 부대에 모였습니다.
+menu_berserker_recruit_2troop|두 명의 울프헤딘을 고용할 수 있습니다.
+menu_berserker_recruit_troop|한 명의 울프헤딘을 고용할 수 있습니다.
+menu_nonberserker_avaiable_troop|당신의 부대에 들어가고자 하는 광전사가 아무도 없었습니다.
+menu_nonberserker_renown_low|당신은 따를 만한 가치가 없어 보이는 지도자 같소. 명성(>150)을 더 쌓아야, 광전사들이 당신을 따를 것이오.
+menu_panel_comandante|전투를 시작하기 전에 특별한 행동을 합니다.
+mno_choice_1|당신의 병사들에게 인상 깊은 연설로 사기를 고취시킵니다.
+mno_choice_2|적들에게 명예로운 결투를 제안합니다.
+mno_choice_3|척후병: 적의 후방을 기습하기 위해 당신의 병사들을 보냅니다.
+mno_choice_4|승리를 기원하며 신에게 제물을 바칩니다.
+mno_choice_5|아무것도 하지 않습니다.
+menu_escaramuza_1|적의 지휘관의 전술적 역량이 당신보다 훨씬 뛰어났습니다. 그들은 우리가 무엇을 어떻게 해보기도 전에 화살 세례를 쏟아부었고, 당신의 병사들은 상당한 사상자를 낼 수 밖에 없었습니다.^^아군 사상자: {s8}
+mno_defendiendo_1|젠장!
+menu_escaramuza_2|당신의 병력들이 적절하게 배치된 덕분에 적들에게 화살 세례를 퍼부었고, 그들은 상당한 피해를 입었습니다.^^적군 사상자: {s9}
+mno_defendiendo_2|좋았어!
+menu_escaramuza_3|당신의 병력이 적들에게 다가가기 전에, 적들의 지휘관이 이를 알아채고 그들을 격퇴할 병력을 보냈습니다. 당신은 사상자를 피하기 위해, 당신의 병력을 후퇴시킬 수밖에 없었다.
+mno_defendiendo_3|이런.
+menu_lucha_2_no|당신의 적들은 아무도 결투를 원하지 않는 듯 합니다.
+mno_defendiendo_4|뒤로.
+menu_lucha_1_d|적의 전사들 중 하나가 당신의 부대 앞에서 돌을 집어 던졌습니다. 그는 가지고 있던 양고기를 뜯으면서 우드득 소리를 내며 몸을 풀고 있습니다. 당신은 그의 근육이 달아오르는 것을 보았습니다. 그는 옷을 벗어 던졌고, 오직 창과 방패만을 들었습니다. 그는 그들의 도전자이고, 그는 당신의 부대에서 나올 도전자를 기다리는 것이 틀림 없어 보였습니다.^^당신이 무언가 말을 꺼내기도 전에, 당신의 부대에서 한 젊은 전사가 뛰어나왔습니다. 그는 우리 부대에서 가장 유능한 전사도 아니고, 단지 용기에 달아 오른 젊은 남자일 뿐이었습니다.^^당신의 젊은 전사는 조금씩 움직이며 적에게 다가섰고, 그들은 원을 그리며 서로의 주위를 맴돌았습니다. 당신의 전사는 그를 향해 가벼운 찌르기를 몇번 날렸지만, 번번히 그의 방패에 가로막혔고, 이윽고 적은 창을 크게 휘둘러 당신의 전사의 심장을 꿰뚫었습니다.^^이 결투는 당신의 패배로 끝났습니다.
+mno_defendiendo_5|뒤로.
+menu_lucha_2_v|당신의 전사들 중 하나가 당신의 부대에서 나와 적들에게로 다가갔습니다. 그는 기분 나쁜 미소를 지으며 적들을 조롱했고, 적의 도전자는 그에게로 곧장 달려들었습니다, 당신의 전사는 그가 날린 투창을 가볍게 쳐 내었고, 적은 괴성을 외치며 당신의 전사와 검을 맞댔습니다.^^두 전사는 땅 위에서 구르며 서로 엉겨붙어 싸웠고, 그러던 중 한 남자의 손에 창 자루가 손에 잡혔습니다. 그들은 무기를 잡기 위해 서로를 방패로 강타했습니다.^^이윽고 당신은, 결투에서 최초로 피가 흩뿌려지는 것을 보았습니다. 그것은 당신의 전사가 적에게 창을 찔러 넣는 장면이었습니다. 그는 숨을 돌린 후, 당신의 전사가 승리의 함성을 외쳤습니다.^^이 결투는 당신의 승리로 끝났습니다.
+mno_defendiendo_6|뒤로.
+menu_lucha_1_p|적들의 지휘관은 당신이 직접 그와 결투하기를 원하고 있습니다.
+mno_defendiendo_7|결투를 받아들입니다.
+mno_defendiendo_8|뒤로.
+menu_sacrificio_off|당신의 기도와 제물에도 불구하고, 신들은 아무런 응답도 하지 않습니다.
+mno_sacri_1|뒤로.
+menu_sacrificio_1|갑자기 제물로 바친 짐승의 상처에서 벌레가 한 가득 몰려나왔습니다: 이것은 나쁜 징조입니다.^^아마도 당신이 오늘 싸우는 것은 현명한 생각이 아닐 것입니다.
+menu_sacrificio_2|당신이 제물로 바친 짐승의 상처에서 피가 베어나왔고, 당신의 병사들 중 하나가 그 순간 뱀을 낚아채고 하늘로 날아가는 독수리를 가리켰습니다. 이것은 좋은 징조입니다.^^오늘은 적들을 공격하기 좋은 날임이 틀림 없을 것입니다..
+menu_sacrificio_3|당신은 제물로 바친 짐승의 목을 그었으나, 그 짐승은 당신의 손에서 벗어나 살아있는 채로 적들 쪽으로 도망가버렸습니다. 이것은 나쁜 징조입니다.^^아마도 당신이 오늘 싸우는 것은 현명한 생각이 아닐 것입니다.
+menu_sacrificio_4|당신이 제물로 바칠 짐승의 배를 그었고, 당신은 그 속에서 작은 은반지가 끼워진 펜던트를 발견했습니다. 이것은 좋은 징조입니다.^^당신은 전투를 준비하는 것이 좋을 것입니다.
+menu_discurso_off|당신은 유명한 경구들을 인용하여, 한 발걸음씩 내딛으며 연설을 시작했습니다, 그러나 연설은 매끄럽지 못했고. 당신은 뭐라 할 말이 없을 정도로 당혹스러웠습니다.
+menu_discurso_1|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'자네들이 고향으로 돌아갔을 때, 마을의 젊은 남녀들이 당신의 흉터에 어떤 사연이 있었는지 물어볼 때, 자네들은 브리타니아와 하이베르니아에서 본 군대중 가장 위대한 군대에서 복무하다가 얻은 상처라고 이야기할 수 있을 것이다!'
+menu_discurso_2|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'자네들이 고향으로 돌아갔을 때, 마을의 젊은 남녀들이 당신의 흉터에 어떤 사연이 있었는지 물어볼 때, 자네들은 브리타니아와 하이베르니아에서 본 군대중 가장 위대한 군대에서 복무하다가 얻은 상처라고 이야기할 수 있을 것이다!'
+menu_discurso_3|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'그리고 지금, 이 순간에 브리튼의 어느 곳에서는 겁쟁이들과 늙은 남자들이 땀을 흘리며 작물을 돌보고, 자신들의 염소를 방목하고 있을 거라고 생각한다, 그러나 그들이 흘리는 땀과 여기서 우리들이 흘리는 피와 땀에 같은 가치 있을 거라고 생각하는가? 우리는 이 곳에 스스로의 의지로 이 곳에 있다! 우리들 스스로의 노력으로 이 곳에 서 있다! 우리들의 피와 땀으로 이 곳에 서 있다! 무엇을 위하여 우리는 이곳에 있나? 그건 바로 명예를 위하여! 영광을 위하여! 부를 위하여!'
+menu_discurso_4|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'이 땅에서, 우리는 모두 이 날, 이 시간, 이 순간에, 이 전투에서 만나기로 우리의 운명이 결정하고 있었다. 우리가 우리의 운명을 모두 끝낸 뒤, 사람들은 그들의 노래에 우리의 이름을 노래하며 칭송할 것이다. 그들의 노래는 우리가 이 곳에서 무엇을 했는지, 얼마나 위대했는지 노래할 것이다!'
+menu_discurso_5|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'형제들이여! 자네들이 태어났고, 그 이후 자네들은 전사가 되었다. 어제 우리는 행군하였고, 오늘은 우리가 싸울 날이다! 오늘 우리는 우리의 적들에게 피를 흘리게 하고, 그들을 파멸시킬 것이다. 오늘 우리는 방패가 부서질 때까지 싸울 것이다. 자네들의 모든 삶은 자네들 스스로 주도할 것이다. 오늘 우리는 형제로서 함께 정복할 것이며, 오늘 밤 우리는 그들에게서 뺏은 전리품으로 연회를 벌일 것이다!'
+menu_discurso_6|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'제군들, 전우들이여! 보라, 우리는 많은 날들을 행군했고, 보상은 아직 자네들을 기다리고 있다! 보상과 영광, 그것은 지금 우리의 적들이 흘리는 신음소리에서 나올 것이다! 지금 우리는 출발할 것이다! 우리의 운명 속으로! 자네들의 보상을 위하여! 싸우자! 싸우자! 싸우자!'
+menu_discurso_7|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'친구들이여! 내 말을 들어라! 이제 음유시인의 노래에 우리와 우리의 적들이 흘린 피가 쓰여지는 날이다! 자네들은 자유인이다! 나는 우리가 서 있는 이 곳에서, 이 곳에 대한 이야기를 하려고 서 있다. 우리 앞의 적들은 매우 강대하지만, 그들은 그들의 가족을 위해 싸우지 않는다! 오직 그들은 약탈에만 관심이 있을 뿐이며, 그들은 패배할 것이다! 자네들의 창을 들어라! 성급함으로는 결코 아무것도 얻을 수 없다! 우리 앞에 있는 자들은 전사가 아니다, 우리 앞의 겁쟁이와 어중이 떠중이들은 결코 이 땅에서 자네들에게 승리의 영광을 쟁취할 수 없을 것이다, 싸워라! 그리고 죽여라! 결코 그들이 우리에게서 승리의 영광을 쟁취할 수 없게! 결코! 결코! 결코!'
+menu_discurso_8|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'전사들이여, 우리는 우리의 적 앞에 서 있다. 전투를 준비하라, 자네들의 검을 휘둘러라! 자네들의 창을 들어라! 방패 벽 대형은 우리의 집이나 다름 없고, 우리는 그들을 환영할 것이다! 그들이 오게 두어라! 방패 벽 대형에서는 다른 것을 생각하지 말고, 오직 하나만을 생각하자! 이 곳에서 필요한 모든 것은 오로지 자네들의 팔과, 자네들의 굳은 마음뿐이다. 이 방패 벽 대형 내에서, 우리는 모두 형제가 되어 서게 될 것이다! 나는 알고 있다, 자네들의 가슴 속에 밝게 타오르는 불빛이 있음을. 이 벽은 우리의 적들이 아니라 우리를 보호하고 있다는 것을! 우리의 운명에는 영광이 기다리고 있다! 어떤 자들도 우리에게서 그 운명을 쟁취하지는 못할 것이다!'
+menu_discurso_9|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'가자, 전사들이여! 우리는 나아가 전투에서 그들과 맞서 싸우자! 자네들은 내게 좋은 전사들이고, 우리의 방패 벽 대형은 겁쟁이 개같은 적들에게 결코 무너지지 않을 것이다! 옛날 이야기의 영웅처럼, 우리는 가서 그들을 죽이고, 모두가 영웅이 되고, 모두가 진정한 전사가 될 것이다! 오늘 우리는 그들의 시체로 까마귀가 포식하게 만들 것이다!'
+menu_discurso_10|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'자네들의 부인과 아이들을 기억하라, 자네들의 가문과 조상을 기억하라, 오늘 우리의 싸움을 지켜보는 신들은 이 모든 것을 기억할 것이다! 우리는 좀 더 나은 세상을 만들기 위해 이 곳에 서 있다! 우리가 직면한 적들은 그것을 알고, 우리의 행동을 방해하려 하고 있다! 그러나 그들은 우리 전사에게 겁을 먹고는 바지에 오줌을 싸고, 그들의 창을 쥔 손은 흔들릴 것이다! 전사들이여! 자네들은 내 검이고, 내 방패이며, 나의 피와 땀이다. 나는 자네들과 함께 싸우는 것을 자랑스럽게 생각하고 있다. 전사의 운명은, 우리의 운명은, 우리를 기다리고 있다! 그리고, 이제 우리가 우리의 운명을 쟁취해낼 시간이다!'
+menu_discurso_11|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'우리는 우리의 적들을 불타는 지옥에까지 가서 보게 될 것이다! 자네가 죽는다 해도, 자네들은 우리의 신과 함께 할 것이다! 자네들이 죽지 않는다면, 자네들의 이름은 영광스럽게 남을 것이다! 내가 앞장서겠다, 그리고 자네들은 내가 하는 일을 보게 될 것이고, 우리의 신 앞에서 자네들의 증인이 될 것이다. 나는 자네들을 떠나지 않겠다. 내 신실한 형제들과 기사들을!'.
+menu_discurso_12|당신은 부대의 대열을 점검하면서, 당신의 병사들에게 연설했습니다. 당신은 그들의 눈을 바라보며, 최대한 매 순간 순간을 인상깊게 남기려 노력했습니다:^^'태양은 오늘 저녁, 적들이 있는 방향으로 질 것이다. 그러나 우리는 봄날의 태양처럼 빛을 발할 것이다. 자네들이 긴장하고 떨릴 수 있겠지만, 자네들이 가진 두려움은 그들에 비하면 아무 것도 아니다. 그들은 추풍낙엽처럼 쓰러질 것이고, 우리는 결코 다시 볼 수 없을 폭풍처럼 초원을 가로질러 그들을 찢어놓을 것이다! 자네들이 휘두르는 창이, 나무를 쓰러뜨리는 천둥과도 같다! 이 숲과 이 땅은 계절이 지나고, 몇년이 흐른다 해도 우리의 이름으로 영원히 기억될 것이다!'
+menu_doccinga_messenger|허름한 행색의 농부는, 초라한 모습의 노새를 타고 당신에게 다가왔습니다. 그는 당신 앞에 멈춰 섰고, 그는 숨을 고르고는 외쳤습니다.^^스벤 불 넥의 3척의 함대가 독싱가를 향해 다가오고 있소! 손크릭이 나를 당신에게 보냈소. {s4}은 오지 않을 것이오, 그가 우리에게 올 것이라는 기대를 버렸소!^나는 다른 야를들에게 이 소식을 알리러 갈 것이오, 하지만 그들은 덴마크인이고 프리지아인에게 일말의 동정심도 가지고 있지 않소. 부탁하오, 우리는 당신의 도움이 필요하오, 우리 마을 사람들을 구해주시오!^^농부는 자신의 노새의 배를 차고 당신에게서 멀리 떨어진 곳으로 가기 시작했습니다. 그가 '우리 마을 사람들을 구해주시오'라고 외친 것은, 당신의 마음에 고통스러운 울림으로 남아 있었습니다.
+mno_choice_01_1|계속.
+menu_doccinga_messenger2|전령은 당신을 향해 질주했고, 당신의 앞에서 멈췄습니다. 그는 숨을 고른 뒤 외쳤습니다:^^'손크릭이 당신이 독싱가에 방문하기를 원하고 있소, {playername}! 그는 최근의 전투에서 스벤 불 넥 휘하의 바이킹 습격자들 중 한명을 포로로 잡았소.^그는 당신이 그를 심문하는 데에 관심이 있을 거라고 생각하고 있고, 가능한 한 빨리 당신이 그를 만나러 오기를 원하고 있소. 손크릭이 죄수를 데리고는 있지만, 왕이나 야를이 그에 대한 권리를 주장할 경우 당신이 그를 심문할 시간은 남아있지 않을 거요!'
+menu_doccinga_c_assault|당신은 독싱가 근처의 언덕에서 마을 주민들이 도망치는 것을 볼 수 있었습니다. 몇몇 용감한 남자들과 왕의 부하들 일부는 해변에서 방패 벽 대형을 형성하려 노력하고 있었습니다. 최악의 경우, 그들이 사랑하는 가족과 재산을 도망치게 하기 위한 처절한 노력이었습니다.^^당신은 먼 바다에서 세 척의 바이킹 보트를 발견했습니다. 그들은 너무 멀어서 잘 보이지 않지만, 그 선박들에 바이킹 전사들이 꽉 차 있을 것을 상상하는 것은 별로 어려운 일이 아니었습니다.^^이 상황은 마치, 당신의 기억에 남아있는 스벤 불 넥이 당신이 탄 선박을 습격했던 당시의 상황으로 돌아가는 것만 같았고, 이제 또 다시 그 바이킹들은 그들을 향해 마수를 뻗으려 하고 있었습니다.^^당신은 독싱가에서 한 남자가 떠나려고 하는 것을 보았고, 그는 전사처럼 보였습니다. 그는 당신을 알아 보았고, 그는 당신 가까이로 다가왔습니다...
+mno_choice_01_1d|독싱가를 구원하기 위해 그 전사와 이야기합니다.
+mno_choice_doccinga|나는 더 많은 병력이 모인 뒤 다시 올 것이다.
+mno_encounter_save|나는 나중에 다시 돌아올 것이다, 독싱가는 좀 더 버틸 수 있을 것이다
+menu_doccinga_c_assaultnoche|시간이 늦었고, 지금은 깊은 밤입니다. 그리고 당신의 병사들은 약간의 휴식이 필요할 것입니다. 아침에 다시 오십시오.
+mno_choice_01_3d|계속.
+menu_noaccessallowed|너무 많은 병사들을 데리고 다니면 사람들은 자신들을 공격하러 오는 줄 알고 무서워할 것입니다. 지금은 약간의 병사들을 막사에 두고 오는 것이 좋을 것입니다.
+menu_doccinga_c_assault2|당신이 독싱가로 다가가자, 당신은 독싱가에서 탈출하는 난민들의 행렬을 보았습니다. 그들은 그들의 물건들을 싣은 무거운 수레를 끌고 가고 있었고, 그들은 매우 느리게 움직이고 있었습니다. 이대로라면 만약 당신이 해변에서 바이킹들의 습격을 멈추지 못했을 경우, 모든 난민들이 그들의 손에 죽을 것이 분명해 보였습니다.
+mno_choice_01_1e|계속.
+menu_doccinga_victory|당신의 팔꿈치와 손에서는 피가 뚝뚝 떨어졌습니다. 당신의 주위에는 오직 죽음만이 있었고, 당신의 귓속은 죽어가는 사람들의 신음 소리로 가득했습니다.^^바이킹들은 패배했고, 많은 사상자를 남겨둔 채 바다로 도망쳤습니다. 그러나 그를 위해 치룬 대가는 너무나도 컸습니다.^^습격자 중에는 스벤 불 넥이 없었고, 그것은 당신을 놀라게 만들었습니다. 그는 보트에 없었습니다. 그러면 당신이 증오하는 이 적은 대체 어디에 있단 말입니까?^^손크릭의 말이 당신의 마음 속에 울려 퍼지고 있었습니다. 어쩌면 켄네머의 야를을 만나본다면, 그에게서 다소간의 설명을 들을 수 있을 것 같았습니다.
+menu_frisa_proscrito|독싱가를 떠난 뒤, 켄네머의 야를에 의해 주어진 유예기간은 끝났고. 당신은 프리지아의 무법자로 선포되었습니다.
+mno_choice_01_1a|계속.
+menu_thiaderd_muerto|그것은 힘든 싸움이었고, 시어더드의 병력들은 마치 사자처럼 싸웠습니다. 그러나 당신의 병력은 그들을 끝장낼 수 있었습니다.^^시어더드의 시체는 그의 전사들과 함께 누워 있었습니다. 당신은 당신의 임무를 수행했습니다. 이제 남은 것은 시어더드의 은신처를 약탈하는 것 뿐이었습니다, 그곳은 바로 코 앞에 있었습니다.
+menu_thiaderd_battle|전투는 불가피합니다. 시어더드는 레인허드를 보자 분노하면서 그의 병력들에게 공격 명령을 내렸습니다.
+menu_camp_thiaderd|{s5}
+mno_talk_to_thiaderd|시어더드와 대화합니다.
+mno_kill_thiader_fam|그들 모두를 죽이고, 은신처를 불태운 뒤 그들로부터 약탈할 수 있는 모든 것을 빼앗는다.
+mno_loot_thiader_fam|은신처를 약탈하지만, 그들을 죽이지는 않을 것이다.
+mno_no_kill_thiader_f|우리는 살인자가 아니다! 나는 그들을 그 곳에서 살게 놔둘 것이다.
+mno_choice_farm|나는 더 많은 병력이 모인 뒤 다시 올 것이다.
+mno_encounter_savefarm|떠난다.
+menu_frisa_beach|바닷바람이 당신의 얼굴을 쓰다듬듯이 지나갔습니다. 당신은 당신의 머리 위로 지나가는 갈매기의 울음소리를 들었고, 당신이 지나가고 있는 길에서 짠 내음이 점점 강하게 밀려오고 있습니다. 안쪽 깊은 곳에 있던 숨겨진 해변에서, 당신은 보트의 실루엣을 보았습니다. 손크릭이 당신의 선박이 될 것이라고... 말했던 선박입니다.
+menu_sven_lair|강 근처에서 당신은 바이킹의 요새를 구분할 수 있었습니다, 당신은 스벤의 은신처를 발견했습니다!^그곳은 방어하기 쉬운 장소에 있고, 선박을 대기 위한 작은 항구도 딸려 있었습니다. 벽 뒤에, 집 사이에서 당신은 어떤 전사를 볼 수 있었습니다. 당신은 들키지 않고서 그들의 인원이 정확히 몇 명인지는 파악할 수 없었습니다. 하지만 그곳엔 적어도 수십 명이 있는 것으로 보입니다.^요새의 중앙에서, 판매를 준비중인 몇 명의 포로를 볼 수 있었습니다. 아마 당신의 어머니도 저 중의 한명으로 끼어 있지 않을까요?
+mno_talk_to_fort_leader|요새의 지도자와 만나는 것을 요청합니다.
+mno_enter_to_buy_prisoners|요새에 들어가 포로를 구입합니다.
+mno_initial_attack|요새를 기습합니다.
+mno_nosurprise_attack|요새를 총공격합니다!
+mno_conquestsl_attack0|스벤의 병력들이 당신의 병력들을 보았습니다. 당신은 기다렸다가 다시 돌아와야 합니다.
+mno_conquestsl_attack|스벤의 은신처를 정복할 것이다!
+mno_choice_fort|나는 더 많은 병력이 모인 뒤 다시 올 것이다.
+mno_encounter_savefort|떠난다.
+menu_sven_lair_comprado|당신은 스벤 불 넥의 은신처를 뒤로 하고 떠났습니다, 외교적으로 목표를 달성하기 위해서 방해가 될 지도 모르는 병력들은 은신처에 남겨두기로 했습니다.^^이제 부대에는 새로 합류한 사람으로 옛 친구, 칸타브리아인인 보도가 있습니다. 스벤의 은신처 바깥으로 나간 뒤, 그는 당신에게 당신과 함께 걷고 싶다고 요청했습니다. 그는 당신과 걷는 것보다는, 스벤이 오딘 릭을 습격한 이후 무슨 일이 일어났는 지에 대해서 묻고 싶어하는 것 같았습니다.
+mno_talk_to_bodo|보도와 이야기합니다.
+menu_svenlair_victory|힘든 전투가 이어졌지만, 당신의 병력들은 스벤의 은신처를 지키던 바이킹들을 물리치는 데 성공했습니다. 은신처 안에는 집이 한 채 있었고, 그 안에서 당신은 세 명의 포로를 찾았습니다: 두 명의 여자와 한 명의 남자였습니다. 그 중 여자들은 당신이 모르는 사람들이었고, 어쩌면 그들은 바이킹의 다른 습격에서 잡혀온 것일 지도 몰랐습니다. 하지만 남자는 보도였습니다. 당신과 함께 선박 --오딘 릭-- 을 타고 당신과 함께 여행하던 칸타브리아인이었습니다.^^보도는 당신의 부대에 합류했고, 옛 친구가 다시 당신에게로 돌아왔습니다. 그는 당신에게 당신과 함께 걷고 싶다고 요청했습니다. 그는 당신과 걷는 것보다는, 스벤이 오딘 릭을 습격한 이후 무슨 일이 일어났는 지에 대해서 묻고 싶어하는 것 같았습니다.
+mno_take_it|이 곳은 좋은 장소다. 나는 내 병력들에게 이 곳에 주둔하도록 명령하고, 보도와 이야기했다.
+mno_destroy_it|흥. 나는 내 병력들에게 이 곳을 파괴하라고 명령하고, 보도와 이야기했다.
+menu_sven_lair_final|운명은 당신과 함께 움직였습니다. 모든 정황은 당신의 어머니의 죽음을 가리키는 듯 했었고, 당신의 부대는 주로 살아남기 위해 돌아다녔습니다. 부분적으로는 복수를 위하기도 했지만: 당신은 스벤 불 넥을 찾아서 그를 죽일 것입니다. 그러나, 지금 당신의 어머니가 아직 살아서 당신의 원수의 손아귀에 있다는 걸 알게 되었고, 당신의 최우선 과제는 그녀를 찾아서 구하는 것이 되었습니다.
+mno_travel_s|가자.
+menu_svenlair_victory_conquista|힘든 전투가 되었고, 당신의 병력들은 스벤의 은신처를 지키던 바이킹들을 물리치는 데 성공했습니다. 당신은 스벤의 은신처를 어떻게 처분할 것인지 결정해야 했습니다.
+menu_farmstead_sigurd|포장되지 않은 길은 몇몇 집을 감싸고 있는 커다란 울타리 안으로 연결되어 있었습니다. 그 곳은 부유해 보이고, 부잣집처럼 보입니다.^당신이 있는 곳에서, 당신은 어떤 사람들이 주변을 돌아다니는 것을 볼 수 있었습니다. 모든 것이 조용한 것 같았습니다.
+mno_enter_to_farmstead|농장으로 갑니다.
+menu_farmstead_sigurd2|당신의 부대의 파수병이 누군가가 다가오고 있음을 경고하는 것은 그리 오래 걸리지 않았습니다. 농장은 긴장감에 휩싸였지만, 에길은 언덕에서 서서 걱정하지 말라고 말했습니다. 그 방문자들은 왕의 깃발을 들고 오고 있었습니다.^^호릭 왕이 당신에게 지원군을 보냈습니다!
+mno_talk_kingleader|그들의 지도자와 대화합니다.
+menu_farmstead_sigurd3|당신은 농장이 위험과 거리에서의 어려운 결정을 내려야 하는 상황과는 멀리 떨어진 하루를 보낼 수 있다는 사실을 발견했습니다. 당신은 당신이 농장의 주인이 되는 꿈을 꾸었습니다, 당신은 밭을 경작하고, 시종들에게 명령하고, 그런 나날을 겪으며 당신은 매일 편안하게 지낼 수 있었습니다. {s2}. 당신의 소망은 단지 일몰이나 새벽을 편안하게 앉아서 볼 수 있는 삶을 원했을 뿐이었습니다. 당신이 너무 많은 것을 바라는 것입니까? 그에 상관없이, 당신은 여전히 조용한 삶을 생각하기 전에, 해야 할 너무나도 많은 일이 존재했습니다.^다음 날, 당신의 파수병은 무장한 자들이 접근해오는 것을 당신에게 알렸고, 그들은 많았고 '뱀 속의 눈' 시구르드의 깃발을 들고 오고 있었습니다. 당신이 명령을 내릴 필요도 없이 당신의 병력들은 무기를 집어들었고, 그들의 갑옷을 입은 뒤 농장 입구에서 방패 벽 대형을 짜기 위해 농장 입구로 나갔습니다.
+mno_enter_to_battlefs|교환을 시작합니다.
+menu_farmstead_sigurd4|당신은 도착한 병력들을 보았습니다. 그들은 족히, 아마도 60명은 넘어 보였고 그리고 그들은 잘 무장되어 있었습니다. 포로는 머리에 자루가 씌워진 채, 당신 앞으로 떠밀려 나왔습니다.
+mno_choice_01_sigur|들어갑니다.
+menu_hablar_olvir|잔인했던 전투가 끝난 뒤, 울프의 농장은 온통 시체로 뒤덮혔습니다. 당신의 병력들은 시체들 사이에 쓰러진 부상자들을 모두 옮겼습니다. 당신은 에길을 보았고, 그는 죽은 전사의 손에 끼워진 금 반지를 빼내기 위해 그의 손가락을 자르고 있었습니다, 브륀힐드는 이 곳에서 벌어진 참극에 패닉에 빠져 있었습니다. 레인허드는 시체 위에 앉아서 웃고 있었습니다. 당신은, 당신은 아무런 감흥도 느끼지 못했습니다. 누군가는 전쟁은 사람을 영혼마저 삼키는 탐욕스런 악마로 바꾸어버린다고 말했지만, 당신은 바뀐 적이 있습니까? 당신은 달라졌습니까?^^당신이 생각하고 있을 때, 당신의 병사 두명이 당신 앞에 올리비어를 끌고 왔습니다. 그는 살아있었습니다. 하지만 그리 오래 살 것 같지는 않았습니다. 그의 옆구리에서는 피가 멈추지 않고 흘러내렸습니다.
+mno_talk_to_olvir|올리비어와 대화합니다.
+menu_doccinga_prisonerjoined|여행하고 있던 당신의 부대에 한 남자가 다가오기 시작했습니다. 몇 야드를 남겨두고, 그는 그의 무기를 내려놓고 당신에게 맨손을 보여주었습니다. 당신은 간신히 그를 기억해냈습니다. 그는 당신이 독싱가에서 심문했던 바이킹 포로였습니다.
+mno_talk_to_captain|그가 무슨 말을 하는지 들어봅니다.
+menu_entregar_bodo|시구르드의 부하 두명이 당신과 함께 보도에게 갔고, 그는 당신이 상황을 설명하자 아무런 저항도 하지 않았습니다. 시구르드의 부하들이 그를 먼 곳으로 데리고 가는 동안, 그는 당신이 멈추기 전에 눈물 맺힌 시선으로 당신을 바라봤습니다. 브륀힐드와 레인허드는 당신의 선택을 불만스럽게 생각하는 것 같았습니다.
+mno_talk_to_bodoentregado|보도와 이야기합니다.
+menu_arboleda_conrey|당신은 엿듣는 눈과 귀를 피해, 왕과 함께 근처의 숲으로 향했습니다.
+mno_talk_to_reyhorik|호릭 왕과 대화합니다.
+menu_arboleda_conrey2|당신은 엿듣는 눈과 귀를 피해, 왕과 함께 근처의 숲으로 향했습니다.
+menu_meeting_ragnarssons|당신은 스노팅햄의 문 앞에서 여러 명의 병사를 만났습니다. 그들은 무장하고 있었고, 당신을 위협하지는 않았지만 딱히 당신을 좋아하지도 않았습니다.
+mno_talk_to_siegemen|그들과 대화합니다.
+menu_primer_barco|당신은 처음 선박을 손에 넣었습니다. 선박은 단순하게 당신이 바다를 건널 수 있는 기능만을 제공하는 것이 아니라, 당신이 바다 건너로 무역을 하여 부유하게 만들어줄 수도 있고, 해안 근처의 거주지들을 신속하게 급습할 수 있게 하여 그 곳의 지역 주민들을 공포에 떨게 할 수도 있습니다. 그것은 당신이 외국을 정복하여 지배자가 될 수 있게 할 수도 있을 것입니다. 심지어 북쪽 사람들은 그것이 내세에까지 같이 갈 것이라고 말하고 있습니다.^^그러나, 항해로 여행하는 것 또한 위험할 것입니다. 바다는 선체 아래에 있는 열린 무덤과도 같아서, 언제라도 당신과 당신의 병력을 집어삼킬 수도 있을 것입니다. 그리고 겨울의 폭풍은 당신의 선박에 큰 손상을 줄 것입니다. 하지만 가라앉은 날씨에서는 선박에 그리 큰 손상이 가지 않을 것입니다. 왜냐하면 당신과 당신의 병사들이 강제로 노를 저어야 할 것이기 때문입니다. 승무원들의 지나친 과로를 막기 위해, 밤에는 항해를 중단하고 육지에 상륙해 휴식을 취하는 것이 일반적입니다.^^선박은 가치 있는 자산이고, 선박을 소유한 사람은 자신의 선박을 항상 주시하고 있어야 합니다.^^당신은 가능한 빨리 이 장소로 돌아온 뒤, 당신이 원하는 곳으로 떠나야 합니다.
+menu_lugar_destruido|{s4}.
+mno_lugar_des|가자.
+menu_banquete_moral_refuge|당신은 당신의 병력들에게 잠시 무기를 두고 쉴 수 있도록 연회에 초대했습니다. 지위에 맞게 자리가 배정되었고, 그는 당신과 가장 가까운 자리에 앉아 있었습니다.^곧 여자들이 많은 양의 고기와 벌꿀주를 가져왔고, 당신의 병력들은 그것들을 즐길 만한 자격이 있기에, 당신은 연회에 많은 돈을 사용했습니다.^ 그들은 당신과 함께 피를 흘리며 싸웠고, 그들은 당신을 항상 따랐습니다. 그들은 당신의 충실한 추종자들입니다.^ 당신의 많은 부하들이 술에 취해 노래 부르고, 일부는 술에 취해 구토하고, 여자의 관심을 끌기 위해 서로 싸움을 하기도 했습니다. 그렇게 저녁은 지나가고 있었습니다.^ 당신의 뒤에서 음유시인은 당신의 힘과 업적을 찬양하는 노래를 불렀습니다. 나는 주인의 거취를 좋아하며, 당신은 내 주군이고... '저들의 목자'요.
+mno_banquete_ok3|당신은 당신의 부하들을 불러 그들에게 반지와 팔찌를 선물했습니다. (2000 페닝)
+menu_player_lair_menus|{s10}은(는) 당신의 은신처입니다, 이 곳은 숨겨져 있어 당신의 적들에 대해서 자유로운 곳입니다. 당신은 일이 잘못되어 간다고 여겨질 때 이곳에 숨어서 다음 여행을 위한 휴식을 하거나, 또는 병력이나 재산을 보관해둘 수 있습니다.^^{s11}^^{s13}
+mno_banquete_refugemead|내 병사들은 은신처에서 연회를 즐길 자격이 있다.
+mno_guarida_rename|은신처의 이름을 개명합니다.
+mno_lair_interior|은신처의 회당으로 갑니다.
+mno_lair_interior_door|은신처의 회당으로 들어가는 입구.
+mno_visit_tavern_lair|선술집으로 갑니다.
+mno_visit_tavern_lair_door|선술집으로 들어가는 입구.
+mno_lair_buildings_improve|당신의 선장과 대화합니다.
+mno_lair_buildings_improve_door|은신처로 들어가는 입구
+mno_hirelair_staff|은신처의 업무를 보조할 사람들을 고용합니다.
+mno_lair_inspect|당신의 은신처를 둘러봅니다.
+mno_lair_inspect_door|광장으로 들어가는 입구.
+mno_mylair_station_troops|은신처의 수비병을 관리합니다.
+mno_demoler_lair|당신의 은신처를 철거합니다.
+mno_lair_wait|이 곳에서 머무릅니다.
+mno_embark|승선합니다.
+mno_lair_leave|떠납니다.
+mno_lair_leave_door|이 지역을 떠납니다.
+menu_demoler_lairm|당신은 당신의 은신처를 철거하기를 원합니까?
+mno_demoler_yes|철거합니다. (1000 페닝)
+mno_demoler_no|돌아갑니다.
+menu_conversacion_companions1|당신이 가던 길을 멈추고 휴식을 취하고 있을 때, 브륀힐드와 당신의 동료들이 다가왔습니다. 그녀는 당신에게 할 말이 있는 것 같았습니다.
+mno_talk_to_brunhild|브륀힐드와 대화합니다.
+menu_conversacion_companions2|당신이 가던 길을 멈추고 휴식을 취하고 있을 때, 당신의 동료들이 다가왔습니다. 당신의 동료들은 당신에게 물어볼 것이 많은 것 같았습니다
+mno_talk_to_companions2|동료들과 대화합니다.
+menu_conversacion_companionsbodo_choice|당신이 가던 길을 멈추고 휴식을 취하고 있을 때, 보도와 당신의 동료들이 다가왔습니다. 그는 당신에게 할 말이 있는 것 같았습니다.
+mno_talk_to_bodochoice|보도와 대화합니다.
+menu_caio_entry|당신의 병력들은 누군가가 당신과 만나고 싶어한다고 당신에게 알렸습니다. 그는 장난기 많아 보이는 소년이었고, 행복해 보였습니다. 그는 물론 늙은 로마인의 아들이었습니다.
+mno_talk_to_caio|계속.
+menu_egil_conversacion|당신의 병력들은 누군가가 당신을 향해 다가오고 있다고 당신에게 알렸습니다. 그는 숨지 않고 당당하게 걸어서 다가오고 있었습니다. 그는 키가 컸고, 마치 건장한 곰 같은 남자였습니다. 그가 당신의 병력들 앞에 도착했을 때, 그는 맨손을 내보였습니다. 당신과 당신의 병력들은 그가 무장하고 있지 않음을 알 수 있었고, 그는 당신을 바라보면서 당신을 향해 다가오고 있었습니다. 당신의 병사 중 한 명은 그가 가진 창으로 그를 제지하려고 했습니다.
+mno_talk_to_egil|계속.
+menu_aghatinos_conversacion|도로켠 한 쪽에서 한 남자가 큰 바위에 앉아서 쉬고 있었습니다. 그는 너덜너덜한 옷을 입고, 초라해 보이는 행색을 하고 있었습니다. 그는 위험하지 않아 보입니다. 그는 침착하게 당신이 그에게 가까이 올 때까지 기다리고 있었고, 그의 시선은 당신의 병력들과 당신의 얼굴에 멈춰 있었습니다. 그는 일어나서 당신에게 말을 걸었습니다.
+mno_talk_to_aghatinos|그와 대화합니다.
+menu_egil_rebelion|일이 잘못된 것 같았습니다. 당신은 큰 외침소리를 들었고, 에길이 괴성을 지르며 당신에게 쇄도해오는 것을 보았습니다.
+mno_talk_to_egilreb|에길의 말을 듣습니다.
+menu_egil_rebelion2|에길의 시체가 당신의 발 밑에 있었고, 그는 영원한 잠에 빠졌습니다. 당신의 동료들 중 일부는 장례를 위해 그의 시체를 데려갔습니다. 에길은 당신의 부대에서 사랑받는 사람이었고, 그리고 그의 죽음은 당신의 동료들의 마음을 무겁게 하고 있었습니다.
+mno_permitir1|에길의 장례에 참석하고, 그를 위해 장례 비용을 지불합니다.
+mno_permitir2|그들이 에길의 장례를 할 수 있도록 허락합니다.
+menu_egil_duel|에길은 당신을 향해 다가왔습니다. 이 장소에는 단 두 명만이 있고, 당신이 죽거나 그가 죽어야 할 것입니다.
+mno_fight_egilreb|싸웁니다.
+menu_backfrom_frankia|{s4}
+mno_choice_01_1frankia|계속.
+menu_cueva_odin|이 곳에서는 바다 내음이 났고, 절벽에 부딪히는 파도 소리는 마치 천둥소리와도 같았습니다. 해변의 끝에는 매우 좁은 길이 있었고, 당신은 사람이 지나간 흔적이 있음을 구별할 수 있었습니다. 이 길은 좁았고, 당신의 병력들까지 모두 들어오는 것은 힘든 일이 될 것이었습니다. 그래서 당신은 당신이 이 곳을 조사하는 동안 당신의 병력들에게 뒤를 지키고 있으라고 명령했습니다.
+mno_choice_doccingas|나는 더 많은 병력이 모인 뒤 다시 올 것이다.
+menu_orm_duel|당신은 깔끔히 정리된 농장 앞마당으로 갔습니다. 울프의 시종이 결투 장소의 경계를 표시할 돌을 원형으로 놓고 있었고, 모든 농장의 사람들과 당신의 병력들이 당신을 응원하기 위해 그 자리에 원형으로 모여 둘러싸고 있었습니다.^^당신의 앞에 선 '검은' 욤은 그의 거대한 근육을 이용해 몸을 풀고 있었고, 그는 자신감을 내보이고 있었습니다. 아마도, 당신이 그를 이긴다면 그의 자신감도 금새 사라질 것이었습니다. 당신의 동료들은 당신에게 행운이 있기를 기원하는 말을 한 마디씩 하고는 당신의 뒤로 돌아갔습니다. 하지만 레인허드는 당신에 대해 비관적으로 생각했고, 그가 당신의 묘비에 룬 문자를 기록하게 될 지도 모른다고 생각했습니다. 그러나 갑자기 에길이 욤을 보았고, 그 광전사는 몸을 푸는 일이 끝난 것 같았습니다. 그의 몸은 미친듯이 꿈틀거렸고, 그의 입에서는 하얀 거품이 일고 있었습니다. 갑자기, 그는 머리를 들었고 충혈된 눈으로 당신을 바라보며 알 수 없는 괴성을 질렀습니다. 그는 독사처럼 당신을 향해 쇄도했고, 그 거대한 덩치에 걸맞지 않게 그는 엄청난 속도로 움직였습니다.
+mno_duel_orm|그와 싸우러 갑니다.
+menu_orm_duel_win|거짓말처럼 쓰러진 '검은' 욤의 시체가 당신의 발 밑에 있었습니다. 당신의 팔은 그의 야수같은 공격을 막느라 욱신거렸고, 당신의 기억은 절망적이었던 결투의 순간을 다시금 떠올리고 있었습니다. 당신은 욤이 어떻게 고통을 느끼지 않았고, 미칠 듯한 분노로 다가왔는지 궁금했습니다. 당신이 이 광전사와의 싸움에서 살아남은 것은 오직 당신의 운 덕분일 것입니다!
+menu_viking_duel_win|결투가 끝났고, 당신은 {s1}을(를) 패배시켰습니다. 스칼드들은 당신의 승리에 대해 이야기할 것이고, 당신의 업적은 그들의 말을 통해 널리 기억될 것입니다.
+menu_viking_duel_lose|{s1}은(는) 당신에게 너무 벅찬 상대였습니다. 당신은 패배하였고, 그 패배는 {s1}의 승리를 드높일 것이었습니다. 스칼드들의 노래를 통해, 당신의 이름은 오직 패배자로 기억될 것입니다.
+menu_duel_troop_rebelion|{s4}
+mno_duel_rebelion|결투를 받아들입니다.
+menu_duel_rebelion_enemyback|당신의 맹렬한 기세에 겁먹은 적들은 끝내 당신과의 결투를 거절하였습니다. 당신의 군대가 그의 비겁함을 조롱하는 동안 그는 조용히 군대를 철군시켰습니다.
+menu_duel_rebelion_win|결투가 끝났고, 당신의 적은 거짓말처럼 땅에 쓰러졌습니다. 그는 숙련된 당신의 무용에 패배했습니다. 이 것은 당신의 잠재적 경쟁자들에 대한 경고가 될 것이고, 이제 당신은 당신의 병력의 사기를 고취시키고 그들이 가진 당신에 대한 신뢰를 회복하는 것만이 남았습니다.
+menu_thething_messenger|전령은 그의 말을 빠르게 몰아가며 당신 앞으로 다가왔습니다. 그는 숨을 고른 다음 외치기 시작했습니다.^^'나의 왕이신 호릭 왕께서 당신을 리베 근처에서 개최되는 총회에 초대했소. 그곳에서는 스벤 불 넥과 시구르드 라그나르손이 당신에게 제기한 문제가 이야기될 것이고, 당신은 빨리 그곳으로 가보아야만 할 것이오. 그러면 총회의 판단이 당신에게 좀 더 유리하게 내려질 수도 있을 것이오.'^^전령이 이야기를 끝낸 뒤, 그의 말을 몰아 급하게 돌아가고 있었습니다.
+mno_choice_01_1thing|계속.
+menu_the_holmgang|한 무리의 무장된 병사들이 당신에게 다가오고 있었습니다. 그들은 왕의 오른팔인 헤럴드 헤럴드손이 이끌고 있었고, 그는 당신이 총회에 대해 한 약속에 대해 상기시켰습니다. 그는 홀름강의 준비가 끝났고, 당신의 상대가 이미 작은 섬에 도착했음을 알렸습니다. 얼마 지나지 않아 당신의 부대원들이 당신을 둘러싸고 환송하는 가운데, 수척한 노인이 당신을 보트에 태워 작은 섬 근처의 해변으로 향하려 했습니다. 당신과 헤럴드, 그리고 헤럴드의 병사 한 명도 같이 보트에 탄 뒤에 보트는 섬을 향해 출발했고, 노인은 당신에게 말 한마디 하지 않고, 수평선에 보이는 작은 섬을 향해 노를 젓기 시작했습니다.
+mno_choice_01_1duel|계속.
+menu_the_holmgang2|바다는 평온했습니다. 당신은 오직 물 속에 노를 젓는 소리만을 들을 수 있었고, 노는 느리지만 박자에 맞춰 신중하게 저어지고 있었습니다. 자세히 보니, 그는 그렇게 늙지 않았지만 바다에서의 힘든 삶이 그를 늙은 노인처럼 보이게 만든 것 같았습니다. 그는 소금에 쩔은 옷을 입고 그의 손의 피부는 마치 단단한 가죽같아 보였습니다. 그는 파랗고 맑은 눈을 가졌고, 조금도 당신을 보고 있지 않았습니다. 그는 오직 섬만을 바라보고 있었고, 섬에는 한 때 당신의 동료였던 상대가 기다리고 있습니다. 총회는 두 명이 들어가지만, 단 한 명만이 섬에서 나올 것이라 결정했습니다. 보트는 작은 해변에 정박했고, 당신을 그 곳에 내리게 했습니다. 늙어 보이는 남자는 바다로 돌아가 육지에서 수십 미터 떨어진 해상에서 기다리고 있었습니다.
+mno_choice_01_2duel|결투를 진행합니다.
+menu_the_holmgang3|'두 명이 섬에 들어가지만, 오직 한 명만이 섬에서 나올 것이다.'^^당신은 승리할 수 있었지만, 그 대가로 당신의 옛 동료를 죽여야만 했습니다. 당신의 마음 속에서 당신이 예전에 레인허드에게서 자주 들은 경구가 떠올랐습니다: 운명은 가고 싶은 대로 가는 법이오, 운명은 항상 그녀가 가야 할 곳으로 가는 법이오!^^늙어 보이는 남자는 다시 당신을 태워 당신의 전사들이 기다리고 있는 덴마크로 당신을 데려가 줄 것입니다. 그들은 마치 무거운 중압감이라도 있는 것처럼 아무 말도 하지 않았습니다. 그들은 곧 섬에서 떠날 준비를 했고, 헤럴드와 그의 부하는 이미 먼저 떠났습니다. 이제 당신은 리베의 선술집에 들려 총회의 법관을 만나야만 할 시간입니다.
+menu_the_thing|당신은 과거의 사람들이 거대한 바위 아래에서 신들의 영광을 경배하기 위해 사람들을 제물로 바친 과거를 느낄 수 있었습니다. 당신은 총회에 참석했고. 당신이 다가감에 따라 당신은 좀 더 명확하게 들리는 목소리를 발견할 수 있었습니다. 점차 막사가 보였고, 상인들의 가판대에서 음식 냄새가 났습니다. 총회는 단지 제기된 문제를 논의하고 판단하는 회의만이 아니라, 덴마크의 사람들이 모여 서로 자신들의 물건을 팔고, 근황을 서로 이야기하는 행사였습니다.
+mno_enter_thing|총회로 갑니다.
+mno_encounter_leavethething|떠납니다.
+menu_partida_ribe_fleet|당신은 조심스럽게 긴 여정에 대한 준비를 마친 다음, 리베 앞에 정박하고 있는 덴마크를 떠나는 함대에 합류했습니다.
+menu_partida_ribe_fleet2|당신이 보기에 시구르드의 보호를 받는 스벤 불 넥과, 호릭 왕의 보호를 받는 헤럴드 헤럴드손, 함대가 각각 두 사람을 지지하는 파벌로 나뉘어 있는 것은 거의 확실해 보였습니다.^^하지만 지금은 걱정할 시간이 아닙니다. 바다에는 바람과 자유롭게 부는 파도가 있었고, 당신의 선박은 명예와 부를 얻기 위해 앵글리아로 향하고 있었습니다. 그리고 지금, 당신은 스벤 불 넥에게 그 어느 때보다 가까이 접근하는 데 성공했습니다. 당신은 그를 죽이고 당신의 어머니를 구출할 기회를 기다리고 있었습니다. 운명은 항상 인내심이 강한 사람에게 그에 걸맞는 보상을 줄 것입니다.
+menu_sven_attack_fleet|리베에서 시작된 여행은 좋은 날씨일 경우, 에오페르위치를 거쳐 마침내 덴마크인들에게 구원을 요청했던 요르빅으로 도착하기까지 3일이 걸릴 것입니다. 그러나 함대에는 느린 노르 선이 있었고, 아마도 여정은 하루에서 이틀이 더 걸릴 것으로 생각되었습니다. 선박들은 흩어져서 항해하고 있지만, 이것은 일반적인 일입니다. 바다를 통해 여행하는 경우, 그 여정은 전적으로 바람의 상태에 의해 결정될 것이고, 선박들은 목적지에서 다시 합류할 것입니다.^^이 같이 먼 거리를 여행하는 일에서는 일상적인 일이며, 밤에도 항해를 그만두지 않기 위해 선박의 선원들은 교대로 항해를 계속하고 있었습니다. 붐비는 선원들에게서는 끔찍한 냄새가 났고, 당신이 마시는 물과 음식에서는 끔찍한 맛이 났습니다. 그리고 당신은 항상 볼일을 볼 때 선미로 가서 불편함을 해소해야 했습니다.^^그러던 어느 날, 총회에서 봉합되었던 스벤과 헤럴드의 갈등이 터져나왔고, 그들은 각각 그들 자신들에게 충성하는 선장들을 확보한 상태이며, 함대는 마치 두개의 함대로 나누어진 것처럼 별개로 움직였습니다. 헤럴드는 당신과 다른 선장들을 긴급 회의에 소집했고, 분명히 그는 그 회의에서 스벤 불 넥에게 충성했던 선장 중 한명이 스벤을 배신하면서 그에게 가져온 정보를 이야기하려 하고 있을 것입니다.^^뿐만 아니라, 당신은 그 회의가 기대되었습니다. 어쩌면 어머니에 대한 새로운 정보를 얻을 수 있을지도 몰랐기 때문이었습니다.
+mno_choice_mettingcap|선장과 대화합니다.
+menu_playerflee_svenattack|당신은 전투를 뒤로 하고 빠져나왔습니다. 부상자들의 신음 소리와, 검과 검이 부딫히는 소리는 점차 희미해져 갔습니다. 당신은 헤럴드 헤럴드손과 그의 군대가 스벤 불 넥과 그의 병사들이 그들을 학살하는 것을 뒤로 하고 떠났습니다. 지금 당신의 임무는 앵글리아로 가서 야를 라스버스 라그나르손을 찾아가, 스벤 불 넥이 왕의 병력들을 배신하고 그가 무슨 만행을 저질렀는지 그에게 알리는 것입니다.
+mno_choice_flee1|전투에서 빠져나갑니다.
+menu_way_to_douaranenez|당신은 함대에 합류했고, 당신은 당신의 선원들에게 당장 선박에 탑승해 돛을 올리고, 당김줄을 당겨 범포를 펴라고 명령했습니다. 얼마 지나지 않아 아침 바람에 의해 선박은 서서히 움직이기 시작했습니다. 이윽고 선장들은 선박에 탄 선원들에게 소리치며 노를 저으라고 명령하기 시작했습니다. 선박은 돛과 노에 의해 움직이고 있었고, 함대는 항구를 떠나 열린 바다로 항해하기 시작했습니다.
+menu_way_to_douaranenez2|당신은 개인 공간이 없는 보트 내에서 많은 병사들과 함께 불편을 겪으며 항해하고 있었습니다. 말라붙은 땀, 오줌과 피지의 냄새가 바다의 짠 내음과 함께 진동했습니다.^날씨는 온화했다: 폭풍이 불지 않았지만 바람도 불지 않았습니다, 당신의 마음 속에 있는 약간의 불안에도 불구하고, 약간의 바람을 받아 함대는 느리지만 조금씩 나아가기 시작했고, 여행의 목적지에 도달했습니다.^^마지막으로, 근처의 선박이 전망대 중 하나에서 지평선이 보인다고 말했고, 당신은 두아르-안-에네즈를 볼 수 있었습니다. 두아르-안-에네즈 만에는 40척 이상의 보트가 떠 있었고, 만 안쪽에는 더 많은 보트가 보였습니다. 그들은 함께 전투 대형을 형성했고, 한 척의 선박이 그들로부터 빠져나와 당신의 뱃머리 근처에 도달했습니다.
+mno_choice_d1|회담에 참여합니다.
+menu_way_to_douaranenez3|뒤에서 당신은 마을에서 진행되는 회담을 들을 수 있었고, 아스투리아스의 진영 내에 의견 차이가 존재하고 있다는 생각을 할 수 있었습니다. 당신은 검에서 나는 소리와 외침 소리를 들을 수 있었습니다.^^그러나 그 중 어떤 사실도 당신에게는 중요하지 않았습니다. 칸타브리아인의 선박은 돛을 전부 올리고 당신의 선박이 정박하고 있는 곳을 향해 돌진해오고 있었습니다. 당신은 거리를 잴 수 있었고, 당신의 함대는 그 공격자들을 피해 기동했습니다. 군딘살보는 당신과 함께 여행하기로 했지만, 그는 지금 중상을 입고 있었습니다. 그의 상태는 매우 심각했습니다. 그의 시선은 두 개의 함대가 서로를 향해 노를 젓고 있는 곳에 가 있었습니다. 그는 회의에서 농담을 건넬 정도로 여유를 가지던 사람임에도 불구하고, 죽음을 두려워하지 않는 노련한 전사인 그의 얼굴은 점차 파리해졌습니다. 당신의 선박들이 도착하는 즉시, 적들은 당신의 함대 가까이로 다가왔습니다. 이제 당신의 함대는 당신의 명령만을 기다리고 있습니다.
+mno_choice_douarb|전투를 시작합니다.
+menu_way_to_douaranenez4|바다는 불길에 휩싸였고 피와 죽음으로 가득 차 있었습니다. 당신은 승리했지만, 많은 사람들이 당신 뒤편의 육지에 남겨져 있었고, 그들은 적들의 칼날에 노출되어 있었습니다. 군딘살보가 그랬듯이.^^이 해전은 광기에 찬 것이었지만 이제 당신의 적들은 두아르-안-에네즈로 도망쳤습니다. 하지만 당신의 전사들은 그들을 추격했고, 이윽고 작은 마을에서 다시 새 전투가 일어났습니다. 그 곳에는 보도가 있었고, 그는 아스투리아스인들과 협력을 시도했지만, 그 시도는 좌절되었습니다.^^이제 당신이 전투에 들어가야 할 시간입니다.
+mno_choice_douard|상륙합니다.
+menu_way_to_douaranenez5|두아르-안-에네즈는 당신이 처음 도착했을 때와는 전혀 다른 풍경이 되어 있었고, 지금 그곳은 오직 불길과 죽음으로 가득 차 있었습니다. 그 곳의 주민들은 고통 속에서 전부 죽었고, 당신은 언젠가 다른 사람들이 이 저주받은 마을에 다시 들어와 채울 것이라고 생각했습니다.^^당신은 당신의 병력의 부상자들의 애처로운 신음 소리를 듣고, 당신은 과거 사람들이 돌아다녔던 거리를 방황했습니다. 당신은 여전히 전투의 충격이 채 가시지 않았고. 당신은 보도가 어떻게 싸우다 죽었는지 회상하기 시작했습니다. 그의 임무는 피할 수 없는 운명에 의해 실패했고, 아스투리아스 왕국의 함대는 이제 더 이상 존재하지 않습니다. 몇 명의 칸타브리아인이 그들의 지도자인 군딘살보를 잃은 뒤, 당신의 부대에 합류했습니다. 지금부터 당신은 그들의 지도자입니다. 당신의 병력들 중 일부는 적의 잔당들을 죽이는 것을 마무리하고, 전리품으로 그들의 재산을 채우는 데 여념이 없었습니다.
+mno_choice_douarb1|전리품 중 당신의 몫을 주장합니다.
+mno_choice_douarb2|당신의 몫을 주장하지 않고 전리품들을 모두 부하들에게 나눠줍니다.
+menu_bjorn_camp|언덕 위에 덴마크인들의 작은 진영이 세워져 있습니다. 당신은 당신이 본 막사의 숫자로 계산해 봤을 때 약 250명에서 300명 정도의 병력이 그 곳에 있을 거라고 생각했습니다. 그 중 한 막사에는 라그나르의 아들들 중 가장 유명한 자중 하나인, 비요른의 깃발이 걸려 있었습니다.^^몇 명의 병사들이 당신을 제지했지만, 당신을 확인하자마자 이미 통보라도 받은 것처럼 당신을 그냥 보내주었습니다.
+mno_enter_bjorncamp|진영으로 들어갑니다.
+mno_enter_bjorncamp2|조사합니다.
+menu_nothingam_siege|당신은 스노팅햄 아래에 앵글인과 색슨인의 진영이 세워져 있는 것을 볼 수 있었습니다. 진영은 거대했고, 천명 가량의 병력이 주둔하고 있는 것으로 보였습니다. 그리고 그들의 병력은 도시에 아무도 들어오거나 나가지 못하도록 도시 주변을 순찰하고 있었습니다. 당신은 멀리에서 그들의 성벽 위를 순찰하는 덴마크인 전사들의 그림자를 구분할 수 있었습니다. 그들은 병력의 수에서 열세에 있는 것이 분명하고, 비축된 식량이 매일 소모되고 있을 것입니다.
+mno_mierce_patrols|머시아 순찰대들을 지나치면서 스노팅햄으로 강행돌파합니다.
+mno_choice_snott|나는 더 많은 병력이 모인 뒤 다시 올 것이다.
+menu_nothingam_siege2|당신은 스노팅햄을 뒤로 하고 떠났고, 다시 숲으로 돌아갔습니다.
+mno_mierce_patrols2|당신은 머시아 순찰대를 피해서 스노팅햄을 빠져나가기 위해 강행돌파했습니다.
+menu_nothingam_siege_al|당신은 스노팅햄에 다가갔고, 색슨인 순찰대들이 당신을 포위했지만 당신이 가진 특사의 깃발을 존중해 공격하지는 않았습니다. 당신은 그들이 엘프레드를 찾을 동안 기다렸습니다.^^얼마 지나지 않아, 한 무리의 기병들이 말에서 내려 당신을 안내하기 시작했습니다.
+mno_talk_to_alfred|계속.
+menu_ambush_kennemer|당신의 부대가 다음 행군을 위해 쉬는 동안, 당신은 당신의 진영에서 잠시 벗어나 개인적인 시간을 가지기로 했고, 당신은 몰래 진영 밖으로 나왔습니다.^^당신은 바위 사이에서 휴식을 취하려 했지만 당신의 휴식은 방해받았습니다.
+mno_relax_broken|빠르게 다시 무장을 합니다.
+menu_welsh_and_pictish_complete|30일이 지났고, 당신은 {s3}을(를) 지키는 데 성공했습니다. 당신은 이제 스벤 불 넥에 대한 소식과, 보도의 편지에 대한 그들의 결정을 들으러 갈 시간이 되었습니다.
+menu_messeger_mothernews|전령은 초라한 말을 타고 당신에게 다가왔고, 그는 당신 앞에 멈춰서 잠깐 숨을 고른 뒤 외쳤습니다^^'이 전언은 {playername}에게 이야기하는 것이오. 당신이 당신의 어머니의 정보를 원할 경우, 도목 근처의 멧돼지 숲에 있는 나무꾼의 집을 찾으시오.'^^전령은 말을 마친 다음, 말을 몰아 바쁘게 떠나기 시작했습니다.
+mno_choice_01_newsm|계속.
+menu_circle_mystic|당신은 특별해보이는 장소를 발견했고, 그 장소는 고대인들이 제사를 지내던 장소처럼 보입니다. 아마도 당신은 이 곳을 방문해서 고대의 흔적을 보고 즐길 수 있는 시간을 가질 수 있을 것입니다.
+mno_enter_quest|갑니다.
+mno_enter_mystic|그곳으로 다가갑니다.
+menu_troll_bridge|멀지 않은 곳의 강 위에 다리가 하나 있습니다. 이 강은 아무런 이름도 없지만, 이 다리는 트롤의 다리라는 이름으로 알려져 있습니다.
+mno_enter_troll|다리를 향해 가봅니다.
+menu_battle_stones|당신은 근처에서 열석으로 둘러쌓인 집을 발견했습니다. 그곳은 평화롭고 조용해 보이고, 목가적인 장소로 보입니다. 그러나 그 곳에는 아무런 가축이나 작물들도 보이지 않았고, 당신은 약간 걱정이 되었습니다. 이 곳은 당신의 삶과는 멀리 동떨어진 곳입니다.
+mno_enter_stones|가봅니다.
+menu_roman_fort|당신은 지나가던 길에 고대 로마의 항구였던 유적을 발견했습니다. 그 유적은 옛 브리타니아 지역의 다른 곳에서 발견되는 유적과 유사해 보입니다.
+mno_enter_romanfort|조사합니다.
+menu_farmland_menu|당신은 길을 따라서 작은 마을에 도착했습니다. 굴뚝에서 연기가 나고 있지만, 당신은 근처에서 그 어떤 사람도 찾을 수 없었습니다.
+mno_enter_ambush|마을에 들어갑니다.
+menu_boar_grove|당신은 숲속 깊은 곳까지 들어갔습니다. {s4}
+menu_aescesdun_camp|색슨인의 군대는 리딩엄에서의 패배 이후 이 곳에서 다시 재집결했습니다. 그들은 언덕 위에 진영을 세웠고, 매일 매일 병력들이 추가로 도착하고 있습니다. 그들은 이 장소에서 그들의 병력을 복구하고, 덴마크인들이 서쪽의 웨스트 색슨으로 침공하기 전에 요격할 것입니다.^^이 장소의 이름은 에셰던입니다.^^{s4}
+mno_enter_aescendun|진영으로 들어갑니다.
+menu_aescesdun_empty|진영은 거의 비어 있습니다. 아주 적은 수의 병력들만을 남긴 채 대부분의 병력은 전투를 치루러 간 것 같습니다.
+menu_readingum_camp|라그나르의 아들들의 군대는 리딩엄이라고 불리는 색슨인의 마을을 보강해 진영을 세웠습니다. 이 장소는 방어하기 좋은 장소이며 해자가 있고, 색슨인들이 덴마크인을 방어하려 치룬 전투의 흔적이 아직도 남아 있습니다. 이 곳은 그들로부터 방어하고, 포위되지 않을 만한 좋은 장소인 것 같습니다.^^{s4}
+mno_enter_readingum|진영으로 들어갑니다.
+menu_the_speech_l|{s4}
+mno_the_speech|그들에게 합류합니다.
+menu_thetravel_danisharmy_l|덴마크인들의 군대 - 위대한 이교도 군대는 에셰던에 도착했습니다. 에셀드 왕은 그의 군대를 둘로 나누었습니다: 하나의 부대는 그가 직접 지휘할 것이고, 나머지 부대는 그의 형제, 동생 엘프레드가 지휘할 것입니다. 각 부대는 리지웨이라 불리는 고대의 도로를 통해 갈 것입니다. 바이킹들이 병력을 전개하는 동안, 에셀드는 전투 전에 기도를 하고, 기도가 끝나기 전까지 아무것도 하지 않기로 결정했습니다. 하지만 덴마크인들의 군대는 신속하게 다가왔고, 그들의 부대는 둘로 나뉘어져 있었다.
+menu_mega_battle_ashdown|색슨인들의 군대는 둘로 나뉘어졌고, 두 개의 유리한 고지를 점령하고 있고, 언덕에 위치한 부대는 각각 색슨인의 왕 에셀드와 그의 동생 엘프레드가 지휘하고 있다. 덴마크인들의 군대는 에셀드가 예상한 기대 이상으로 빠르고 신속하게 움직였고, 그는 아직도 자신의 기도에 몰입하고 기도가 끝날 때까지 그를 아무도 방해하지 말라고 명령했습니다. 덴마크인들은 기다려주지 않을 것입니다. 그들 역시 부대를 둘로 나눠 진군하기로 결정했으며, 한 부대는 야를 하프단과 야를 베그세크가 같이 지휘하기로 했고, 하프단과 베그세크의 부대는 에셀드를 공격할 것입니다. 나머지 5명의 야를들은 엘프레드의 부대를 공격할 것이고, 그들은 색슨인들의 진영보다 높은 언덕을 점령하기 시작했습니다. 그들이 병력 전개를 끝낸다면, 그들의 적에 비해 높은 고지를 점령하는 이점을 가지게 될 것입니다.^^{s2} 당신은 {reg10}의 부대를 도와 {reg11}와(과)의 전투에 들어갈 것입니다.
+mno_encounter_attackasc|에셰던 전투를 시작합니다.
+menu_svenbn_hunting|전장에서 내려가는 길에, 당신은 어지러이 흩어진 무기들과 시체들, 부상자들과 약탈자들, 그리고 종부성사를 거행하는 신부들을 보았습니다. 그리고 당신은 거기서 안도감과 강한 분노를 동시에 느낍니다. 무엇보다도, 당신은 하나의 반복되는 질문에 대한 생각에 깊이 빠졌다: 왜, 왜 나는 항상 다른 사람들을 죽이면서 살아가야 하는 것인가?^^그러나, 당신의 생각과 당신의 운명은 서로 다른 방향으로 흘러가기 시작했습니다. {s4}
+mno_talk_to_leader|그와 대화합니다.
+menu_ashdown_battle_over|전투가 끝났지만 여전히 검과 방패가 부딪치는 소리, 병사들의 기합 소리, 죽어가는 병사의 비명이 당신의 귓가에 맴도는 것 같습니다. 손에는 여전히 무기가 쥐어져 있었고 전투의 긴장감은 아직 몸에서 가시질 않았습니다. 당신은 그렇듯 또 다른 대학살 속에서 살아남았습니다. 항상 위험천만한 삶을 살고 있고 삶에서 믿을 수 있는 건 손에 든 칼뿐이었습니다. 오늘은 살아남았지만 이런 운이 언제 다할지 모를 일이었습니다.^^에셰던 전투는 그냥 평범한 전투가 아니었습니다. 수백의 병사들이 모였고, 그들 대부분은 차가운 들판 위에서 죽음을 맞이했습니다. 훗날 에셰던 전투는 전설이 되어 시인들과 이야기꾼들의 입에 오르내리며 기억될 것입니다.
+mno_aescesdun_no|계속.
+menu_followers_camp_begin|당신의 업적에 매료된 몇 명의 사제들과 여성들이 부대에 합류하기를 원하고 있습니다. 그리고 몇 명의 상인들 역시 당신을 따라가기를 원하고 있습니다.^^이것은 의심할 나위 없이 당신의 병력의 사기를 증진시킬 수 있는 여러 가지 봉사들을 쉽게 접할 수 있다는 것을 의미하지만, 그들은 느리게 이동할 것이고 이는 당신의 부대의 행군을 느리게 만들 것이라는 사실을 알아야만 할 것입니다.^^당신의 추종자들을 당신의 진영에 받아들일 것입니까?
+mno_followers_yes|그렇다. 나는 그들을 환영할 것이다.
+mno_followers_no|아니, 우리는 군인이다. 인형 놀이는 필요 없다.
+menu_followers_camp_leave|최근에 있었던 사건으로 인해 당신의 추종자들의 사기가 매우 낮아졌고, 그들은 당신의 부대에서 빠져나가고 있습니다.
+mno_follw_yes|젠장.
+menu_followers_remove|당신의 추종자들을 해산시킬 것입니까? 이것은 더 이상 당신의 추종자들이 당신을 따라오지 않게 할 것입니다. 이를 수행할 경우 이로 인해 당신의 부하들의 사기에 부정적인 영향을 줄 것입니다.
+mno_remove_yes|해산시킵니다.
+mno_remove_no|그만둡니다.
+menu_sven_bullneck_readingum|이 장소는 해자와 방어하기 좋은 여건을 갖추고 있고, 색슨인들이 덴마크인을 방어하려 치룬 전투의 흔적이 아직도 남아 있습니다. 이 곳은 방어하기에 좋은 장소인 것 같습니다.^^{s4}
+mno_talk_to_leadermen|그와 이야기합니다.
+mno_enter_to_talk_sven|리딩엄에 가까이 접근합니다.
+mno_svenreadingum_attack|총공격하라!
+mno_choice_doccingat|난 더 많은 병사가 필요하다.
+mno_encounter_savereadingum|떠난다.
+menu_sven_halllatest|리딩엄에서의 학살은 안에서 계속되었고, 당신의 병사들은 스벤의 병력의 잔당들과 싸우고 있습니다. 그러나 이 전투에는 당신이 찾고 있는 자가 없습니다. 스벤 불 넥은 회당을 보강한 뒤, 당신의 어머니와 그의 몇 남지 않은 부하를 데리고 그 곳에서 농성하고 있습니다. 이제 당신의 여정에 끝을 고할 시간입니다.
+mno_fight_svhall|회당 내부로 진입합니다.
+menu_mother_death|마침내 스벤 불 넥이 죽었습니다. 당신은 당신의 복수를 끝마쳤습니다. 그러나 당신에게는 씁쓸함만이 남아 있었다. 당신의 어머니의 시체가 스벤의 시체로부터 멀지 않은 곳에 누워 있었기 때문이었습니다. 당신은 그녀와 프리지아에 있는 사제를 찾기 위해 여행을 떠났었습니다. 당신의 어머니가 당신에게 마지막으로 사랑한다고 한 말은 당신의 마음 속에 깊게 울려퍼지고 있었습니다.^^스벤 불 넥과 당신의 어머니는 당신이 이 곳까지 올 수 있도록 그에게 의지와 원동력을 주었습니다. 그러나 그들은 지금 죽었고, 당신의 일부 역시 그들과 함께 죽었습니다. 당신은 그로 인한 공백과 상실감을 느꼈습니다.^^당신에게 지금까지 있었던 모든 일들과 추억이 떠오르기 시작했습니다.
+mno_mother_funeral|어머니의 장례식을 준비합니다.
+menu_addons_messenger|전령이 빠르게 당신에게 다가왔습니다. 그는 당신 앞에서 멈췄고, 숨을 돌린 다음 당신에게 외쳤습니다:^^'{playername}(으)로 불리는 {reg59?여성:남성}에게: 나의 주인인, 피니안의 수도원장의 명령을 받고 왔소. 그는 당신에 대해 들었고 중요한 임무가 있으니 보고 싶다 하였고, 발 에차다 근처에 있는 피니안이란 수도원으로 와달라 하였소. 와서 이야기만 들어도 1000 페닝을 주겠다 약속하였소.'
+mno_morrigan_1|그 수도원장에게 가서, 메세지는 잘 받았다고 말해주시오.
+menu_addons_messenger_morriganlair|전령이 빠르게 당신에게 다가왔습니다. 그는 당신 앞에서 멈췄고, 숨을 돌린 다음 당신에게 외쳤습니다:^^'{playername}(으)로 불리는 {reg59?여성:남성}에게: 나의 주군인, 올쵸바르 맥 시네이다와 그의 동료인, 에드 맥 에인머레치의 명령을 받고 왔소. 그들은 서쪽에서 모리안의 은신처를 발견하였고 공격하기 전까지 당신을 기다린다고 하였소'
+mno_morriganlair_1|당신의 주인에게 가서 내가 가고 있다고 전하시오.
+menu_first_attack_morrigan|칼리아카스로부터 듣기로는 불탄 오두막이 마을로부터 그리 멀지 않다고 들었으나, 당신은 발견할 수 없었습니다. 짙고, 차갑고, 부자연스러운 안개만이 사방에 가득했으며, 겨우 한걸음 앞만을 볼 수 있는 정도였습니다. 그 뿐만 아니라, 당신은 가까운 거리에서 늑대들이 울부짖는 소리를 들을 수 있었으며... 점차 그 소리가 가까워짐을 느낄 수 있었습니다.^^잠시 후... 어떠한 선율이 당신의 귀를 스쳐갔습니다. 모리안이 당신을 찾아낸 것입니다.
+mno_morrigan_ambush|전투 준비!
+menu_morrigan_leave|뿔피리 소리에 당신의 적들은 도망갔습니다. 당신을 감싸고 있던 안개는 점차 걷혀지고 있었고(또는 그런 것처럼 보인 것일 수도 있습니다), 점차 안정을 되찾을 수록, 당신은 안개 속을 잘 볼 수 있었습니다. 적들은 사라졌지만, 이상하게도 시신을 찾아볼 수 없었습니다. 부하들의 검이 적 아무에게도 사상자를 내지 못한 듯 했습니다.^^뿔피리 소리는 근처에서 들려왔고, 사람 형체들이 보이기 시작했습니다. 뿔피리 소리의 크기에 비해서 그들의 규모가 작다는 것을 확인한 당신은 안심했습니다. 잠시 뒤, 당신 부하 중 한명이 그들의 지도자를 당신에게 데려왔습니다.
+mno_campeones_primerencuentro|그들과 이야기합니다.
+menu_morrigan_lair_attack|{s4}
+mno_morrigan_ambush2|전투 준비!
+mno_enter_morriganlair|용사들에게 접근합니다.
+mno_leaveslmorrigan|떠난다.
+menu_bresail_farm_visit|{s4}
+mno_enter_maelbresail|들어갑니다.
+mno_enter_maelbresailhall|도망쳐!
+mno_mailbresail_attack|전투 준비!
+mno_leave_bresail_farm|떠납니다.
+menu_bresail_fort_visit|강의 저쪽 편에, 집 몇 채가 흩어져 있었고, 그 뒤로는 조그마한 요새가 있었습니다. 농부들은 당신의 군대가 다가오자 도망쳤습니다.
+mno_enter_mbfort|갑니다.
+mno_leave_mbfort|떠납니다.
+mno_leave_finalmbfort|떠납니다.
+menu_morrigan_dialog_final|마엘 브레세일의 요새를 떠나자, 모리안이 다가와 당신과 할 말이 있다고 하였습니다.
+mno_talk_to_morrigan|모리안과 이야기합니다.
+menu_event_siege_01|당신의 조언자 중 한 명은 당신의 병사들에게 식량을 배급하던 도중, 식량에서 쥐를 발견했다고 알렸습니다. 그 덕분에 식량이 비위생적인 환경에 노출될 위험을 피할 수 있을 거라고 말했습니다.
+mno_choice_01_2a|나는 식량 없이는 내 병력들을 유지할 수 없다. 가능한 한 많은 쥐를 죽여라.
+menu_ratas_siege|모든 쥐들이 죽기 전에, 당신의 병사들은 질병과 복통을 호소하고 있습니다.^^아군 사상자: {s8}
+mno_back_to_siegea|끝났군.
+menu_event_siege_02|더러운 위생으로 인해 당신의 진영에 이질이 창궐하고 있습니다. 당신의 병력들은 질병에 의해 죽어가고 있습니다. 당신은 이에 대해 조치를 취할 필요가 있습니다!
+mno_choice_02_1b|치유사들을 고용해서 당신의 병사들의 질병을 치료하게 합니다. (1000 페닝)
+mno_choice_02_2b|내가 할 수 있는 것은 아무것도 없다.
+mno_choice_02_3b|신에게 기도합니다.
+mno_choice_02_4b|나 또는 내 동료들이 그들을 치료할 수 있을 것이다.
+menu_enfermedad_siege|죽음은 당신의 진영 내에 만연해 있고, 당신의 병력 대부분은 병들어 죽어가고 있습니다.^^아군 사상자: {s8}
+mno_back_to_siegeb|젠장.
+menu_enfermedad2_siege|당신의 병력 중 일부는 병으로 죽었지만, 대부분은 당신이 고용한 치유사들에 의해 호전되고 있습니다.^^아군 사상자: {s8}
+menu_enfermedad3_siege|죽음은 당신의 진영 내에 만연해 있고, 당신의 병력들은 병들어 죽어가고 있습니다. 어쩌면 당신의 신이 당신의 병력들의 목숨을 조금이나마 지키고 있을지도 모릅니다.^^아군 사상자: {s8}
+mno_back_to_sieged|끝났군.
+menu_enfermedad4_siege|당신 부대의 치유술 덕분에 많은 병사들의 목숨을 구할 수 있었지만, 그들 중 일부는 어찌할 새도 없이 죽어버렸습니다.^^아군 사상자: {s8}
+mno_back_to_siegee|공성중인 지역으로 돌아간다.
+menu_event_siege_03|당신의 진영에는 너무 많은 쓰레기와 쥐, 해충들이 들끓어 마치 돼지 우리같아 보입니다. 이에 당신의 병력들은 불만스러워하고 있고, 당신은 이 비위생적인 환경을 개선할 필요가 있습니다!
+mno_choice_03_4c|내가 조치를 취하면서 시간을 벌기 위해 고무적인 연설을 할 것이다.
+mno_choice_03_2c|나는 내가 할 수 있는 것을 할 것이다.
+menu_event_siege_04|적들의 일부가 한밤 중에 당신의 진영에 몰래 침투해 당신의 보급품의 일부를 불태웠고, 당신의 식량 중 일부가 손실되었습니다.
+mno_choice_04_1d|그 날 밤 경계 근무를 섰던 병사를 처벌해 본보기를 세웁니다.
+mno_choice_04_2d|아니, 아무 것도 하지 않을 것이다!
+menu_event_siege_05|밤 동안, 당신의 병력들이 적들에게로 침투해 그들을 죽이거나 포로로 붙잡은 뒤, 그들의 보급품을 불태웠습니다.
+mno_choice_05_1e|물론 자신의 임무를 충실히 이행한 그들을 축하할 것이다.
+mno_choice_05_2e|전사들에게 팔찌로 각각 보상합니다. (300 페닝)
+mno_choice_05_3e|그들에게 창녀들과 밤을 지낼 수 있도록 해 줍니다. (200 페닝)
+mno_choice_05_4e|아무 것도 하지 않을 것이다. 나는 냉정한 지휘관이고, 내 약점을 드러내서는 안 된다.
+menu_event_siege_06|우리의 식량 보급로가 위험합니다. 우리의 정찰병들은 우리의 보급선 뒤에서 적들의 습격을 발견했습니다.^우리는 이 곳을 봉쇄함으로서 이러한 문제를 피할 수 있을 것입니다.
+mno_choice_06_1f|병력을 보내 보급로를 보호하고 적들을 쫓아냅니다. (병력은 당신의 부대에서 차출될 것입니다).
+mno_choice_06_2f|전령을 보내 대가를 지불하고 그들의 습격을 멈추게 합니다. (500 페닝이 들지만 해결된다는 보장은 없습니다).
+mno_choice_06_3f|아무 것도 하지 않는다. (식량의 일부를 잃게 되지만, 당신의 병력들의 생명을 구할 것입니다.).
+menu_encuentro_avituallamiento|적들로부터 보급로를 지키기 위해 당신의 병력이 파견되었고, 당신의 병력들은 죽을 때까지 싸워 적들을 강제로 구석에 몰아넣었고, 그 과정에서 일부 병력의 손실이 있었습니다. 그러나 당신의 병력들은 승리했고, 보급로를 안전하게 지키기 시작했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_back_to_siegeg|좋아.
+menu_encuentro_avituallamiento2|{s4}
+menu_event_siege_07|우리의 정찰병들은 적들이 우리의 수원지에 병으로 죽은 동물을 던져 넣어 오염시키려고 시도한 것에 대해 보고했습니다.
+mno_choice_07_1g|상인에게 물을 구입하고, 우리의 보급로를 통해 가져옵니다. (600 페닝)
+mno_choice_07_2g|물을 배급하고, 우물을 새로 팝니다.
+mno_choice_07_3g|물 없이는 포위 공격을 계속할 수 없습니다. 공성을 포기합니다.
+menu_sed_siege|물이 떨어져가고 있고, 당신의 병력들은 쇠약해지고 있습니다. 그들은 갈증에 날뛰고 있고, 몇몇은 오염된 물을 마시고 죽었습니다. 마지막으로, 당신이 당분간 사용할 물을 얻는 데 성공했고, 당신은 공성을 지속할 수 있습니다.^^수원지 오염에 따른 아군 사상자:{s8}
+mno_back_to_siegeh|운명은 냉혹하군.
+menu_event_siege_08|나쁜 소식입니다: 우리의 병력 중 한 명이 적들에게로 도망쳤습니다. 그들이 분명 그에게 돈을 제공했을 것이기 때문에, 당신의 부대의 병력의 사기가 내려갈 것입니다. 그게 뭐든 간에, 적들은 우리의 계획에 대해 파악했을 것으로 추정됩니다.
+mno_choice_08_1h|사기를 높이기 위해 병력들에게 400 페닝을 제공합니다.
+mno_choice_08_2h|걱정할 것 없다. 나는 항상 계획을 변경할 수 있을 것이다.
+menu_event_siege_09|적들의 탈영병이 우리에게로 합류했습니다. 그는 {s2}의 정보를 우리에게 알려 주었습니다.
+mno_choice_09_1i|그를 환영합니다.
+mno_choice_09_2i|나는 탈영병을 원치 않는다. 그를 죽여라.
+mno_choice_09_3i|그는 적들의 밀정일 것이다. 그를 적들에게로 돌려 보내라.
+menu_event_siege_10|병력들이 적들과 서로 모욕을 주고 받지 않고, 오히려 서로 이야기하거나 하고 있습니다. 이것은 우리가 적들을 공격할 때 그들의 전투 의지에 영향을 미칠 수도 있을 것입니다. 당신의 선택은 무엇입니까?
+mno_choice_10_1j|그냥 두는 게 좋을 것이다. 적들 역시도 전투 의지가 떨어질 것이다.
+mno_choice_10_2j|뭐라고? 대화를 금지하고 위반하는 자들을 처벌한다.
+menu_event_siege_11|이 때 겨울의 추위는 항상 피해를 안겨다 줍니다. 당신의 병력 중 몇 명이 추위에 얼어 죽었고, 독감과 여타 질병들로 인해 사상자가 나오고 있습니다.^^아군 사상자: {s8}
+mno_choice_11_1j|편히 잠드소서.
+menu_event_siege_12|당신이 포위하고 있는 진영지에 근처 마을의 농민 중 한 명이 도착했고, 그는 당신의 병사들 중 한 명이 그의 딸을 강간했다고 말하고 있습니다. 농민은 웨어길드로 (보상) 100 페닝을 원하고 있습니다. 당신의 선택은 무엇입니까?
+mno_choice_12_1j|웨어길드를 지불합니다.
+mno_choice_12_2j|적에게 준 피해에까지 지불할 필요는 없을 것이다.
+mno_choice_12_3j|농민과 그의 딸을 죽입니다.
+menu_no_paymentandkill|복수를 위해 인근 마을의 사람들이 모여 주변을 돌아다니는 당신의 약탈자들을 공격하고 있습니다.^^아군 사상자: {s8}
+menu_event_siege_13|한 무리의 적들이 우리에게 기습적인 공격을 가해 우리의 병력들을 놀라게 하고 사상자를 낸 뒤, 그들은 신속하게 철수했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_13_1b|일반적인 일이지만, 우리는 주의해야만 한다. (당신이 이 곳을 봉쇄할 경우, 이 문제는 일어나지 않을 것입니다.).
+menu_event_siege_14|주변을 약탈하던 당신의 병력들에게, 한 무리의 적 습격자가 나타났습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_14_1b|일반적인 일이지만, 우리는 주의해야만 한다. (당신이 이 곳을 봉쇄할 경우, 이 문제는 일어나지 않을 것입니다.).
+menu_event_siege_15|근처 마을을 습격하는 동안 우리는 적들에게 공격을 받았습니다. 마을 주민들이 적에게 합류했고, 우리에게 많은 사상자를 내게 만들었습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_15_1b|일반적인 일이지만, 우리는 주의해야만 한다. (당신이 이 곳을 봉쇄할 경우, 이 문제는 일어나지 않을 것입니다.).
+menu_event_siege_16|적과 우리의 병력들은 강 근처에서 서로와 만났고, 강 건너에서의 교전은 양측에게 많은 사상자를 내게 만들었습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_16_1b|일반적인 일이지만, 우리는 주의해야만 한다. (당신이 이 곳을 봉쇄할 경우, 이 문제는 일어나지 않을 것입니다.).
+menu_event_siege_17|적들이 비밀 통로를 이용해 밖으로 나왔고, 우리를 공격한 후 신속하게 그들의 벽의 보호를 받으러 후퇴했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_17_1b|일반적인 일이지만, 우리는 주의해야만 한다. (당신이 이 곳을 봉쇄할 경우, 이 문제는 일어나지 않을 것입니다.).
+menu_event_siege_18|당신의 병력들의 일부가 인근 마을에서 여자들을 납치해 왔고, 이 것은 당신의 부대에 즐거움을 줄 수 있을 것입니다.
+mno_choice_18_1b|허용한다, 그러나 그 중 가장 예쁜 여자는 내가 가질 것이다.
+mno_choice_18_2b|여자들을 풀어주고, 여자들을 납치해 온 자들을 처벌한다.
+menu_event_siege_19|적들이 우리의 포위망을 깨려 시도하고 있고, 우리의 병력들이 그들을 막으려 하고 있습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_19_1b|성벽 쪽을 보강하기 위해 일부 병력을 보내고, 나는 그 동안 공격으로 위협하면서 그들을 강제로 철수시킨다.
+mno_choice_19_2b|신속하게 포위망의 일부를 지키기 위해 모든 병력들을 보낸다.
+mno_choice_19_3b|걱정하지 않는다, 우리의 포위망은 강하다.
+menu_no_defendiendo|적들은 우리의 방어를 뚫고 우리의 작은 진영과 거점들을 불태웠습니다, 우리의 봉쇄망이 무너졌습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_defendiendo_1b|우리는 다시 봉쇄망을 구축해야 한다.
+menu_defendiendo_circunvallation|우리는 적들을 격퇴하는 데 성공했고, 그들은 성벽 뒤로 보호받기 위해 돌아갔습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_defendiendo_mal|또 다른 적의 병력들이 우리 병력들이 한 곳에 집중된 사이, 우리의 포위망의 다른 부분을 공격했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_event_siege_20|적들이 우리의 공성 장비들을 불태우려고 시도하고 있습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_choice_20_1b|빨리, 내가 공격 위협을 하는 동안, 공성 장비를 지킬 병력들을 충원하고, 그들을 강제로 철수시킨다.
+mno_choice_20_2b|신속하게 공성 장비를 지키기 위해 모든 병력들을 보낸다.
+mno_choice_20_3b|걱정하지 않는다, 우리 병력들의 방어는 굳건하다.
+menu_no_defendiendo_equip|적들이 우리의 방어를 뚫고 우리의 공성 장비들을 불태웠습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+menu_defendiendo_equip|우리는 적들을 격퇴하는 데 성공했고, 그들은 성벽 뒤로 보호받기 위해 돌아갔습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_defendiendo_1h|좋아.
+menu_defendiendo_mal_equip|또 다른 적의 병력들이 우리 병력들이 한 곳에 집중된 사이, 다른 방향에 있던 우리의 공성 장비들을 공격했습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_defendiendo_1v|젠장!
+menu_event_siege_21|당신의 경비병들이 밤에 적들의 진영에서 탈영하려는 몇 명의 병사들을 보았다고 알려 왔습니다.
+mno_choice_21_1b|그들이 도망치도록 내버려 둔다.
+mno_choice_21_2b|그들을 죽여라.
+menu_event_siege_22|밤 중에, 당신의 경비병들이 양가죽을 뒤집어쓰고 몰래 지나가려 시도하는 적들을 보았다고 합니다. 적들은 지금 물을 보충하기 위해 강가로 가서 물을 채우고 있습니다.
+mno_atacar_emboscada_player2|합류하고자 하는 병력들이 있는 곳으로 이동합니다.
+mno_choice_22_1b|양가죽을 뒤집어 쓴 적들에 대해 매복을 준비합니다.
+mno_choice_22_2b|아무 것도 하지 않습니다.
+menu_victoria_ovejas|당신의 병력들이 양가죽을 뒤집어 쓴 병력들을 포위했습니다. 그들은 깜짝 놀랐고, 죽음이 퍼져나가고 있습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_defendiendo_1l|완벽하군!
+menu_derrota_ovejas|이건 함정이었습니다! 양가죽을 뒤집어 쓴 병력들은 우리를 유인하기 위한 미끼였고, 당신의 병력들 중 많은 수가 포위망으로 후퇴하면서 죽었습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
+mno_defendiendo_1p|끔찍하군.
+menu_tablas_ovejas|당신의 병력들이 전개되어 적들을 포위했습니다, 그러나 그들은 너무 느리고 시끄러웠다. 양가죽을 뒤집어 쓴 적의 병력들은 당신의 매복을 눈치채고 그들의 성벽 뒤로 돌아갔습니다.
+mno_defendiendo_1o|글쌔, 다음 기회를 노려야 할 것 같군.
+menu_event_siege_23|한 명의 용병이 당신의 진영에 찾아와 우리에게 합류하겠다고 했습니다. 그는 수비군 측에서 그를 추방당했고, 그들에게 복수를 원한다고 말했습니다.
+mno_choice_23_1b|그를 받아들입니다.
+mno_choice_23_2b|나는 더 많은 병력을 필요로 하지 않는다.
+menu_event_siege_24|우리는 많은 적들와 농민들의 머리를 가지고 있다. 당신은 이 것들을 성벽 뒤로 던져 넣어 적들의 사기를 낮추고, 적들에게 질병을 유발할 수도 있습니다. 당신은 어떤 선택을 할 것입니까?
+mno_choice_24_1b|뭐라고? 나는 그런 미친 짓을 하지는 않을 것이다!
+mno_choice_24_2b|좋다, 나는 그들을 항복시키기 위해서라면 무슨 짓이라도 할 것이다.
+menu_cabezas_moral|적들의 머리를 성벽 뒤로 던져넣었고, 성 안에서, 사랑하는 자들의 죽음을 목도한 주민들의 비명 소리와 울음소리가 울려 퍼지고 있습니다. 전쟁은 무자비하고, 당신은 당신의 적들에게 당신이 무자비하고 포악한 자임을 잘 알려주었을 것입니다.
+mno_defendiendo_1q|이 것이 그들을 항복하게 만들 것이고, 아니면 죽어야 할 것이다.
+menu_event_siege_25|한 무리의 상인들이 무희들에게 밤에 당신의 병력들을 위한 공연을 제공하게 할 수 있다고 말했습니다.
+mno_choice_25_1b|내 병력들은 싸울 준비가 되어 있어야만 하고, 그들을 다른 것에 신경 쓰게 해서는 안 된다.
+mno_choice_25_2b|무희들을 고용해, 나를 위한 공연을 진행한다. (100 페닝)
+mno_choice_25_3b|무희들을 고용해, 내 병력들을 위한 공연을 진행한다. (500 페닝)
+menu_event_siege_26|한 무리의 도적들이 당신의 병력들에게로 다가왔습니다. 당신의 병력들은 무기를 들었고, 도적들은 무기를 내려놓고 싸우길 원치 않는다고 말했습니다. 잠시 후, 도적들의 대장이 당신에게 다가와 당신에게 합류시켜 달라고 말했습니다.
+mno_choice_26_1b|문제 없다! 내 부대에 재능 있는 자들이 합류하는 것은 언제나 환영이다!
+mno_choice_26_2b|그들에게는 미안하지만, 나는 그들을 합류시키지 않을 것이다!
+mno_choice_26_3b|그들에게 마을을 습격하게 명령하고, 그들이 마을 장로의 머리를 가져와 스스로 능력을 증명하게 만듭니다.
+mno_choice_26_4b|그들을 모두 죽여라!
+menu_sanguinario_p|두 시간 뒤, 도적들은 많은 사람들의 머리와 전리품을 가져왔습니다.
+menu_event_siege_27|몇몇 상인들은 당신의 부대에 종군하는 병력들의 아내와 당신에게 팔 물품을 가지고 당신의 진영으로 다가왔고, 그들은 매춘부, 난민들, 아이들과 기타 추종자들로 구성되어 있었습니다.
+mno_choice_27_1b|그들과 그들의 돈은 언제나 환영이다.
+mno_choice_27_2b|이미 우리에게 상인들은 충분하다.
+mno_choice_27_3b|그들을 죽이고 그들의 돈을 빼앗는다.
+menu_event_siege_28|그들이 마지막으로 식사를 한 지 오랜 시간이 지났고, 그들은 노약자나 아이들, 그리고 여자들을 거점 밖으로 내보냈습니다. 당신은 그들이 당신의 포위망으로 다가와 음식을 구걸하는 것을 볼 수 있었습니다.
+mno_choice_28_1b|당신의 병력들을 보내 노약자와 아이들을 죽인 뒤, 여자들은 그들이 가지게 한다.
+mno_choice_28_2b|음식을 구입해 그들에게 나눠준 뒤, (1000 페닝) 그들을 떠나 보낸다.
+mno_choice_28_3b|그들에게 아무 것도 주지 않는다, 그들은 그들의 집으로 돌아가 굶어 죽어야 할 것이다!
+menu_event_siege_29|당신의 병사 중 한 명이 오랜 포위에 화를 냈고, 당신의 장교의 아내를 강간했습니다.
+mno_choice_29_1b|이 일을 무시하고 넘어갑니다.
+mno_choice_29_b|그 병사를 처벌합니다.
+mno_choice_29_3b|그 병사를 처단합니다.
+mno_choice_29_4b|장교에게 웨어길드 (보상)을 지불합니다. (1000 페닝)
+menu_lucha_oficial|당신의 장교는 그 병사를 죽였고, 그 병사의 친구들과 장교 간에 다툼이 있었습니다. 그리고 장교는 그들을 죽이고 떠났습니다.
+mno_defendiendo_1z|끔찍하군.
+menu_messenger_system|전령이 빠르게 당신에게 다가왔습니다. 그는 당신 앞에서 멈췄고, 숨을 돌린 다음 당신에게 외쳤습니다:^^'내 주인이 나를 보내 당신에게 당신이 {s9}에 보낸 전령이 길가 한 켠에 죽은 채 발견되었고, 우리는 당신의 전언이 목적지의 도달하지 못한 것에 대해 미안하게 생각하고 있소. 그리고 당신이 다른 보낼 전언이 있다면 우리에게 이야기하시오. 당신은 우리를 어디에서 찾을 수 있을 지 알고 있을 것이오.'
+mno_error_1|계속.
+menu_messenger_system2|전령이 빠르게 당신에게 다가왔습니다. 그는 당신 앞에서 멈췄고, 숨을 돌린 다음 당신에게 외쳤습니다:^^'내 주인이 나를 보내 당신에게 당신이 {s9}에 보낸 전령이 길가 한 켠에 죽은 채 발견되었고, 우리는 당신의 전언이 목적지의 도달하지 못한 것에 대해 미안하게 생각하고 있소. 그리고 당신이 다른 보낼 전언이 있다면 우리에게 이야기하시오. 당신은 우리를 어디에서 찾을 수 있을 지 알고 있을 것이오.'
+mno_finish_m|운이 나빴군.
+menu_messenger_system_res_failure|전령이 빠르게 당신에게 다가왔습니다. 그는 당신 앞에서 멈췄고, 숨을 돌린 다음 당신에게 외쳤습니다:^^'내 주인이 나를 보내 당신에게 당신이 {s9}에 보낸 전령이 길가 한 켠에 죽은 채 발견되었고, 우리는 당신의 전언이 목적지의 도달하지 못한 것에 대해 미안하게 생각하고 있소. 그리고 당신이 다른 보낼 전언이 있다면 우리에게 이야기하시오. 당신은 우리를 어디에서 찾을 수 있을 지 알고 있을 것이오.'
+menu_messenger_system_res|{s4}
+mno_Continue|당신의 봉사에 대해 감사를 표하겠소.
+menu_messenger_system_follow|{s4}
+menu_messenger_system_gotoplace|{s4}
+menu_messenger_system_patrolarea|{s4}
+menu_messenger_system_besiegeplace|{s4}
+menu_messenger_system_insult|{s4}
+menu_messenger_system_sendgift|{s4}
+menu_messenger_system_sugalliance|{s4}
+menu_messenger_system_suggestpeace|{s3}
+menu_messenger_system_declarewar|{s3}
+menu_random_juice_events|사건
+menu_event_01_juicio|두 명의 농민이 당신에게로 왔습니다, 한 명은 키가 크고 여위었고, 한 명은 키가 작고 다부졌습니다, 그들은 송아지의 소유권에 관한 분쟁에서 당신의 도움을 요청했고, 들어보니 그들의 들판은 경계가 맞닿아 있었는데, 키 큰 농부는 다부진 농부가 가진 소가 그의 황소를 임신시켰다고 했습니다. 두 명의 농부는 송아지의 소유권에 대해 당신이 결정을 내리기를 원하고 있습니다.
+mno_choice_01_1n|송아지는 소 주인의 것이다. 송아지는 그의 것이고, 그 송아지는 소를 닮았을 것이니까.
+mno_choice_01_2n|송아지는 황소 주인의 것이다. 그의 황소가 송아지를 낳았으니까.
+mno_choice_01_3n|소 주인이 송아지를 가지고, 대신 황소 주인에게 그에 맞는 보상을 합니다.
+mno_choice_01_4n|둘 다 틀렸다. 나는 송아지를 도축해 내 병력들에게 줄 것이다!
+mno_choice_01_5n|둘 다 틀렸다. 송아지를 죽이고 고기를 두 명에게 공평히 분배한다!
+menu_event_02_juicio|우리는 살인자를 잡았습니다! 그는 {s4}(으)로 가던 우리의 전령 중 한 명을 공격했고, 그는 거짓말처럼 심각한 부상을 입고 침대에 누워 있습니다. 이 것은 좋은 징조처럼 보이지 않고, 전령은 당신의 보호 아래에 있었습니다. 그러나 그를 습격한 자는 나름대로의 사연을 가지고 있었고, 그는 자신의 처형이 집행되기 전에 그 것을 당신에게 이야기하고자 했습니다.^^포로의 이야기: '{reg59?부인:경}, 나는 당신의 전령을 공격할 생각이 없었소, 하지만 그는 밤에 어린 내 딸과 함께 자게 해달라고 요구했고, 나는 그 요구를 거부했소! 그러나, 그는 우리를 가만 두지 않았소, 내 집에 세 명의 그의 동료들과 함께 들어와서, 내 딸을 강간했소, 그들은 나를 비웃으면서 경이 겨우 평민인 내 이야기를 들을 것 같냐고 이야기했소. 나는 아버지로서 내 유일한 자식을 지키려 했을 뿐이오!'
+mno_choice_02_1n|어찌 되었든 전령은 내 보호 아래 있는 자다. 새벽에 그와 그의 가족들을 처형해라.
+mno_choice_02_2n|합리적인 판단을 내리겠다: 단지 그만을 처형해라.
+mno_choice_02_3n|전령은 단지 내 부하일 뿐이지만, 그는 나와도 같이 보호받아야 한다. 그러나 그 포로를 보내줄 것이다.
+mno_choice_02_4n|전령을 처형하도록 명령한다, 나는 자신의 지위를 악용하는 자는 필요 없다.
+menu_event_03_juicio|당신은 두 사람 사이의 분쟁을 끝내기 위해 그들을 호출했습니다. 한 명은 지역 지도자고, 다른 한 명은 지역 지도자의 땅을 임차한 소작농입니다.^^소작농은 수확량이 너무 부족해 돈을 지불할 수가 없었다고 말했고, 그래서 지역 지도자는 자신의 집에 시종으로 그의 딸을 들이고 밤시중을 들게 시켰습니다. 그리고 지역 지도자는 {s4} 내에서 영향력이 큰 사람입니다.
+mno_choice_03_1n|소작농을 처벌한다, 그는 주인에게 가야 할 돈을 주어야만 할 것이다.
+mno_choice_03_2n|지역 지도자를 처벌한다. 그는 소작농의 딸을 데려갈 권리가 없다.
+mno_choice_03_3n|지역 지도자를 죽이고, 자신의 세금을 지불하지 않은 농부를 강제로 당신의 부대에 넣는다.
+mno_choice_03_4n|지역 지도자에게 충분한 보상을 주고, 소작농의 딸을 다시 그에게로 돌려 보낸다.
+menu_farmer_attack_lord|그들은 당신의 결정에 만족하지 않았고, 소작농은 그의 색슨 검을 꺼내서 지역 지도자를 찔렀습니다. 그리고 당신의 병력들이 그가 더 이상 아무런 짓도 할 수 없게 그를 막았고, 그런 뒤 그는 돌아서서 말했다, '정의의 이름으로 이 개자식을 처단한 것이다!' 그 다음 그는 색슨 검을 들고, 스스로의 몸을 찔렀다.
+mno_choice_03_1attack|계속.
+menu_event_04_juicio|당신의 병사들 중 한 명이 당신에게로 다가왔습니다. 그는 당신의 병력들이 다들 낮은 임금으로 불만이 많고, 당신의 명령으로 하는 일이 그다지 명예스러운 일 같지도 않다며 불평하고 있다고 말했습니다.
+mno_choice_04_1n|그들에게 충분한 포상과 장신구를 하사해 달랩니다.
+mno_choice_04_2n|그들이 충성의 맹세를 어기고 떠날 경우 그들은 바보 같은 자들일 것이라고 말합니다.
+mno_choice_04_3n|그 병사를 죽이고, 그의 목을 본보기로 당신의 병력이 있는 진영에 효수합니다.
+mno_choice_04_4n|당신의 지휘 방식을 바꾸겠다고 약속하고, 다음에는 좀 더 큰 전리품이 기다리고 있을 것이라고 언급합니다.
+menu_event_05_juicio|{s4}에서, 한 남자가 당신에게 잡혀 왔고, 당신의 병력들은 그가 왕국에 내야 할 세금을 거부해 체포해 왔으며, 따라서 당신에게 처분을 맡겼습니다. 그 남자는 나라에서 자신의 아들을 다시 그에게 돌려줄 때까지는 세금을 내지 않을 것이라고 주장하고 있고, 그의 아들들은 모두 최근의 전쟁에서 죽었습니다.
+mno_choice_05_1n|이 사람은 이미 충분히 많은 것을 잃었습니다, 그를 용서해 줍니다.
+mno_choice_05_2n|그가 세금을 내지 않을 경우 죽음으로서 처벌합니다. 안 좋은 선례를 만들 수는 없습니다.
+mno_choice_05_3n|그에게 그의 아들의 죽음에 대한 웨어길드 (보상)를 제공하고, 그의 아들들의 이름이 영원히 기억될 것이라고 말해 줍니다.
+menu_nobody_want_paytax|갑자기, 아들을 잃은 모든 사람들이 당신에게 그와 동등한 대우를 제공받기 위해 당신 근처에 붐비고 있습니다.
+mno_choice_05_2notax|보상으로 사람들에게 돈주머니를 나눠줍니다. (2000 페닝)
+mno_choice_05_3notax|나눠주기에는 충분한 돈을 가지고 있지 않아, 당신들은 병사들을 시켜 군중들을 해산시켰습니다.
+menu_event_06_juicio|두 명의 남자가 당신에게로 다가왔다. 당신의 병력들은 그들이 서로 죽이려고 했다고 말했습니다. 그들은 그들 중 한 명이 그의 땅에 있는 오래된 참나무가 쓰러져 길을 막았다고 했고, 그들은 서로 다른 국경 내에서 이웃으로 살고 있었다고 말했습니다.^^'그 나무가 쓰러지는 바람에 내 수레를 끌고 지나갈 수가 없게 되었소!' 한 명이 외쳤다. '우리는 오직 나무에 대해서만 이야기하고 있소, 나는 왜 이런 소송을 하는지 이해하지 못하겠소!'^^'그 나무는 내 아버지가 가진 땅에 심어져 있었소,' 다른 한 명이 외쳤다.
+mno_choice_06_1n|나무를 자르고, 다른 남자는 나무를 가진 남자에게 보상해야만 합니다.
+mno_choice_06_2n|나무는 길을 막고 있다, 그들은 나무를 치워야 합니다.
+mno_choice_06_3n|나무를 자르고, 다른 남자는 당신에게 보상을 지불해야만 합니다.
+menu_event_07_juicio|올해의 작황은 매우 좋지 않았고, 이는 겨울에 많은 사람들이 굶주리는 것을 의미합니다. 당신은 어떤 선택을 할 것입니까?
+mno_choice_07_1n|다른 지역에서 밀을 싣은 마차를 보내도록 주문합니다. (1000 페닝)
+mno_choice_07_2n|당신은 다른 곳에서 밀을 살 돈이 충분하지 않습니다.
+mno_choice_07_3n|농작물을 충분히 관리하지 못한 것에 대해 꾸짖습니다.
+mno_choice_07_4n|문제를 완화시키기 위해 약간의 곡물을 삽니다. (500 페닝)
+menu_event_08_juicio|지역 지도자 중 한 명은 그의 사생아를 (그가 선호하는) 당신의 부대의 대장 중 한 명으로 합류시키고 싶어했습니다. 당신은 소년을 만나보는 데 동의했고, 그는 치명적인 결점이 있어 귀족들로부터 추방된 자 같았습니다. 당신은 소년을 만날 때, 그가 군대와는 맞지 않는다는 사실을 알게 되었습니다.; 그는 확실히 전사의 자질은 없어 보였습니다. 이 뚱뚱한 소년을 보고 당신은 웃을 수밖에 없었습니다:
+mno_choice_08_1n|그를 내 부대의 대장 중 한 명으로 합류시킵니다.
+mno_choice_08_2n|그에 맞는 대가의 지불을 요구합니다.
+mno_choice_08_3n|거절한다, 나는 최고의 대장들의 봉사만을 원합니다.
+menu_event_09_juicio|하루 전에 당신에게 두 개의 제안이 도착했습니다. 하나의 제안은 오스버러라는 젊은 학구파 사제의 제안이었고, 그는 {s4}에 교회를 짓자고 제안했습니다. 그는 당신이 그의 제안을 받아들인다면, 당신에게 새로운 지식으로 당신의 지성을 좀 더 뛰어나게 해줄 것이라고 말했습니다.^^또 다른 남자는 시끄럽게 당신을 못살게 굴었습니다. 그는 덩치가 컸고, 오스버러가 어린애처럼 보일 정도로 거대한 전사였습니다. 그는 자금이 더 나은 훈련장을 짓는 데 사용되기를 원했고, 그는 당신이 그의 제안을 받아들인다면 그는 당신에게 그의 전투 기술들을 가르쳐주겠다고 약속했습니다.
+mno_choice_09_1n|오스버러의 제안을 따른다. 나는 그의 지식이 필요하다.
+mno_choice_09_2n|전사의 제안을 따른다. 나는 그의 전투 기술이 필요하다.
+mno_choice_09_3n|당신은 두 시설들을 건설하기에 충분한 돈을 가지고 있습니다. (3000 페닝)
+mno_choice_9_4n|하! 나는 이미 둘 중 한 명에 매혹되지 않을 충분한 지식을 가지고 있다.
+menu_event_10_juicio|무언가가 타는 듯한 빛이 밤 하늘을 가로질러 보이고 있었습니다. 다음 날, 그 징조에 대해 많은 이야기가 오고 갔습니다. {s4}의 사람들은 일부는 하나님의 분노에 의해 이러한 일이 있어났다고 말하고 있지만, 대다수의 의견은 희생의 제물을 바쳐야 한다는 것이었습니다. 수확 시기가 다가오자, 그들은 제물을 바치려 했고, 그들은 천사와도 같은 소녀를 찾았습니다, 그리고 그 소녀를 수확 시기까지 살아 있는 여신처럼 떠받들었습니다. 당신은 갑자기 이 곳에서 수 세기 전 사라진 야만적인 의식이 재현되려 하는 것을 목격할 수 있었습니다.
+mno_choice_10_1n|소녀의 희생을 허용합니다.
+mno_choice_10_2n|희생을 금지시키고, 안전한 곳에 소녀를 보냅니다.
+mno_choice_10_3n|이 것은 나와 어떠한 관련도 없다.
+menu_event_11_juicio|어떤 사람이 급하게 당신의 궁정에 도착했고, 당신이 그를 받아들인 후, 그는 끔찍한 소식에 대해 이야기하기 시작했습니다. '{reg59?부인:경}, 근처의 마을들이 큰 위험에 처해 있소! 그 곳에서 이상한 전염병이 유행하고 있고, 그들은 거의 움직이지 못하고 있으며, 땀과 구토를 하고 있소, 지역의 무당도 아무런 대책을 내지 못했소. 지역 지도자는 아무런 방법도 생각해내지 못하고 있으며, 우리는 당신의 결정만을 기다리고 있소!'
+mno_choice_11_1n|마을을 격리시켜라!, 그러나 나는 내가 고용할 수 있는 최고의 의사들을 고용해 그 곳으로 보낼 것이다! (500 페닝)
+mno_choice_11_2n|마을을 격리시켜라! 전염병이 가라앉으면 우리는 생존자를 검사해볼 것이다!
+menu_event_12_juicio|두 명의 남자가 당신에게 달려오고 있었습니다. '{reg59?부인:경}, 우리는 출산에 문제가 생겼소! 우리는 할 수 있는 노력을 다 해 보았소, 하지만 그 젊은 여자는 임신에 적합하지 않은 것 같소. 여자는 잘 알려진 영주의 딸이오. 당신은 어떤 결정을 내릴 것이오?'
+mno_choice_12_1n|모두, 무릎을 꿇고 기도를 해야 한다!
+mno_choice_12_2n|경비병, 마을에서 빨리 무당을 나에게로 데려와라!
+menu_event_13_juicio|어느 날, 당신의 충성스러운 귀족이 이상한 요청을 해 왔습니다. '경, 나는 아주 나쁜 상황에 처해 있소. 나는 내 돈을 병력과 그들이 적절한 장비를 갖추는 데 전부 사용했소, 내가 당신에 대해 잘 봉사할 수 있도록 말이오. 그러나, 내 첫째 딸은 결혼 직전에 있고, 나는 그 남편에게 그에 맞는 지참금을 보낼 수가 없었소.'.
+mno_choice_13_1n|그의 당신에 대한 충성에 보상하기 위해 페닝을 보냅니다. (800 페닝)
+mno_choice_13_2n|지금은 그를 돕겠지만, 더 이상은 돕지 않을 것입니다. (400 페닝)
+mno_choice_13_3n|그런 돈은 알아서 남겨놨어야 했소!
+menu_event_14_juicio|어느 날, 가톨릭 선교사가 당신의 문 앞에 도착했다. 그는 매우 열성적입니다. '{reg59?부인:경}, 나는 좋은 소식을 가지고 왔소! 지금 {s4}에서 온 상인이, 우리에게 거룩한 십자가의 파편을 판매할 생각이 있다고 하고 있소! 나는 우리가 그런 유명한 성물을 가질 기회를 얻었다는 것이 믿기지가 않소! 그리고 이 성물은 내가 그리스도의 말씀을 충실하게 전파하는 데 많은 도움을 줄 것이오!'
+mno_choice_14_1n|나는 거룩한 십자가의 많은 파편을 보았고, 우리는 가짜 성물을 구매하지 않을 것이다!
+mno_choice_14_2n|미안하지만, 나는 다른 신들을 믿고 있다. 나는 그런 곳에 낭비할 돈이 없다.
+mno_choice_14_3n|나는 이 기회를 놓치지 않을 것이다! (5000 페닝)
+menu_event_15_juicio|당신이 당신의 동료와 연회를 즐기고 있을 때, 전령이 주의 깊게 당신에게 다가 왔습니다, '{reg59?부인:경}, 우리는 {s4}에서 일어난 일에 대해 당신의 결정을 필요로 하고 있소.' 그는 그렇게 자신을 변명했고, 당신은 회당 밖으로 나왔습니다.^^밖에 있는 군중들은 시끄럽게 서로의 주장을 이야기하고 있었습니다, 그러나 당신이 나타나자 그들은 갑자기 조용해졌습니다. 장로는 당신과 독대를 요청했고, 당신은 그 요청을 받아들였습니다. 그리고 그는 말했습니다: '{reg59?부인:경}, 우리는 당신의 지혜를 필요로 하고 있소. 두 명의 여자가 서로 자신이 아기의 어머니라고 주장하고 있고, 서로 포기하지 않고 있소.'^두 여자의 행색은 한 명은 넝마같은 옷을 입고 있었고, 다른 한 명은 좋은 옷을 입고 있었습니다.
+mno_choice_15_1n|아이를 가난한 여자에게 줍니다.
+mno_choice_15_2n|아이를 부유한 여자에게 줍니다.
+mno_choice_15_3n|아이를 반으로 나눠 각각의 여자에게 반쪽씩 나눠줍니다.
+menu_child_half_one|그리고 넝마 같은 옷을 입은 여자가 말했습니다, '안돼요, 제발, {reg59?부인:경}, 나는 차라리 저 여자가 아이를 가지는 것이 나을 것 같아요.'^^그 다음 근처의 노인은 놀랐습니다, '그래서 당신이 정당한 어머니이고, 이 아이는 당신의 것이오!'^^다른 여자는 불안한 것 같습니다, '나는 그 아이에게 빈곤함보다 훨씬 나은 삶을 제공할 수 있어요'.
+mno_choice_half1p|아이를 가난한 여자에게 보내고 부유한 여자를 사기죄로 벌합니다.
+mno_choice_half2p|아이를 가난한 여자에게 보내고 부유한 여자를 군중에게 보냅니다.
+mno_choice_half3p|아이를 부유한 여자에게 보냅니다.
+mno_choice_half4p|아이를 부유한 여자에게 보내고 가난한 여자를 병사들에게 보냅니다.
+menu_event_16_juicio|당신의 조언자는 먼지에 그을린 채로 수확을 검사한 뒤, 당신에게로 왔습니다. '경, 올해의 작황이 좋지 않소. 당신이 세금을 줄이지 않을 경우 이번 겨울은 기근에 시달리게 될 것이오.'
+mno_choice_16_1n|세금 감면은 그들이 그들의 맹세를 어기는 것을 의미한다. 나는 세금을 감면하지 않을 것이다.
+mno_choice_16_2n|좋다, 나는 내 지갑에서 부족한 세금을 충당할 것이다. (1000 페닝)
+menu_event_17_juicio|인근 마을에서 농민이 당신과 만나기를 요청했습니다. 그는 숨을 가쁘게 쉬며 무장한 남자들이 자신의 농장을 급습했고, 여자들과 가축, 그리고 곡물을 들고 갔다고 말했습니다. 그는 온 몸에 피가 범벅으로 묻어 있었고, 그을려 있었습니다.
+mno_choice_17_1n|지역을 지키기 위해 보초병을 추가로 징병해 보낸다. (800 페닝)
+mno_choice_17_2n|나는 그 곳을 위해 아무런 것도 해줄 수 없다, 물러가라, 원숭이!
+mno_choice_17_3n|군대를 이끌고 가 보복할 것임을 약속하며, 돈을 줘 마을을 복구하게 합니다.
+menu_event_18_juicio|창녀 중 한 명이 당신의 가신에게 그녀의 고통을 완화시키기 위해 마법을 사용했다는 혐의로 기소되었습니다. 당신의 가신의 주장이 그 것을 뒷받침하고 있고, 당신은 그 것을 의심했지만, 공개적으로 불만을 이야기할 수는 없었습니다.
+mno_choice_18_1n|창녀를 추방하고, 다른 곳으로 그녀를 쫓아냅니다.
+mno_choice_18_2n|마녀에게 대가를 지불한 뒤, 그녀가 기독교의 확산을 막도록 돕습니다.
+mno_choice_18_3n|하나를 내버려둘 경우, 더 많은 마녀가 생길 것이다! 마법을 쓴다고 보고된 모든 사람들을 죽여라.
+menu_event_19_juicio|선교사는 당신에게 와서 하나님의 은혜에 대해 설교했고, 당신의 마을 중 하나에 이교도들에게 중요한 고대 나무가 있고, 그와 그의 추종자들은 그 나무를 베어내기를 원하고 있다고 말했습니다. 그리고 그 마을 주민의 대부분은 무기를 가지고 그들을 몰아내려 하고 있습니다.
+mno_choice_19_1n|선교사의 말이 옳다: 이교도들의 나무는 베어버려야 한다.
+mno_choice_19_2n|선교사의 말이 틀렸다. 그와 그의 추종자들은 고대 신들에게 산 채로 불태워져 제물로 바칠 것이다.
+mno_choice_19_3|선교사의 말이 틀렸다. 그리스도인들은 마을에서 추방되어 마을의 평화를 돌려주어야 한다.
+menu_event_20_juicio|인근 마을에서 한 명의 여자가 당신에게 왔고, 그녀는 최근 있었던 전투에서 죽은 당신의 부하 중 한 명의 아내라고 주장했습니다. 그녀는 혼자 남게 된 자신을 위해 지원을 원했습니다.
+mno_choice_20_1n|그녀에게 금전적인 지원을 해주고 성직자를 보냅니다.
+mno_choice_20_2n|아무것도 하지 않는다. 나와 상관없는 일이다.
+mno_choice_20_3n|불행하게도 나는 도움을 줄 만한 돈이 없다.
+menu_event_21_juicio|중요한 지역 지도자가 당신에게 요청을 해 왔습니다. '{reg59?부인:경}, 당신 아래에 봉사하고 있는 동안 고통받는 사람들을 위해, 당신의 큰 자비를 보여줄 수 있겠소? 우리는 경험 많은 전사였음에도 불구하고, 우리는 거리에서 페닝을 구걸하고 있고, 그 중에는 당신을 위해 전투에 나가 아버지나 형제 가족들을 잃은 많은 가족들이 있소. 우리는 당신의 충성스러운 지지자인 그들에게 충분한 보상을 해 주어야만 한다고 생각하고 있소, 그렇지 않으면 다른 사람들이 나중에 당신에게 합류하는 것을 주저하게 될 지도 모를 것이라고 생각하고 있소.
+mno_choice_21_1n|내 병사들이 스스로 그들의 가족을 위해 아무런 재산도 남기지 않았기 때문에, 이 문제는 그들의 잘못이다.
+mno_choice_21_3n|나는 나를 위해 싸운 용사들과 그 가족들을 지원해 주어야 한다. (800 페닝)
+mno_choice_21_4n|내 금고를 열어서라도 나를 위해 싸우다 죽은 모든 병사의 가족들이 지원을 받아야 한다. (2000 페닝)
+mno_choice_21_5n|나는 갑작스레 닥친 문제들에 쓸 만한 돈은 남아 있지 않다.
+menu_event_22_juicio|단순해 보이는 일이 일어났습니다. 어제, 피고로 지목된 사람이 피해자의 집에 침입했고, 많은 양의 재산을 훔쳤습니다. 많은 사람들이 그를 지목했고, 사라진 물건들은 그의 집에서 발견되었습니다. 그러나 피해자는 이전 주인에게 큰 영향력을 행사하던 후원자이고, 실제로 그의 조언자 중 한 명이었으며, 당신에 대한 충성심이 의문스럽습니다. 한 편으로 당신의 조언자 중 한 명이 그를 비난하고 있었고, 피고에게 많은 지원을 하고 있었던 것으로 드러났습니다.
+mno_choice_22_1n|증거를 무시하고, 내 부하들에게 호의를 베푼다.
+mno_choice_22_2n|증거가 명확하니, 피고인은 유죄로 판결될 것이다.
+mno_choice_22_3n|양 당사자는 둘 다 잘못이 있다. 그들을 추방하고, 그들의 모든 재산을 압류한다.
+menu_event_juicio_end|단순해 보이는 일이 일어났습니다. 어제, 피고로 지목된 사람이 피해자의 집에 침입했고, 많은 양의 재산을 훔쳤습니다. 많은 사람들이 그를 지목했고, 사라진 물건들은 그의 집에서 발견되었습니다. 그러나 피해자는 이전 주인에게 큰 영향력을 행사하던 후원자이고, 실제로 그의 조언자 중 한 명이었으며, 당신에 대한 충성심이 의문스럽습니다. 한 편으로 당신의 조언자 중 한 명이 그를 비난하고 있었고, 피고에게 많은 지원을 하고 있었던 것으로 드러났습니다.
+mno_choice_end_1n|증거를 무시하고 내 부하들에게 호의를 베풀며, 사실은 내가 명령한 것이라고 암시를 준다.
+mno_choice_end_2n|증거가 명확하니 피고인은 유죄로 판결될 것이고 그의 손을 절도죄로 자른다.
+mno_choice_end_3n|양 당사자는 둘 다 잘못이 있다. 그들을 추방하고, 그들의 모든 재산을 압류한다.
+menu_riots_01|당신과 {s4}의 관계는 매우 좋지 않았습니다. 당신이 거리를 걸으면, 모든 사람들이 당신의 뒤에서 당신을 경멸하고 있었고, 당신은 휘어진 길목을 지나 스스로 안전할 거라고 생각했습니다. -- 여러 명의 사람들이 나타나기 전까지는, 대부분의 도시 주민들은 당신의 지배에 반발하고, 당신을 모욕하기 시작했습니다. 마지막으로, 누군가가 칼을 집어들고 당신에게로 대담하게 공격해 왔습니다.
+mno_deffend_y|스스로를 지켜야 합니다.
+menu_riots_02|거리를 걷던 한 무리의 당신의 전사들이 당신의 이름을 모욕하고 모든 악이라고 비난하던 성난 폭도들에 의해 살해되었습니다. 당신은 가능한 한 빨리 {s4}와(과)의 관계를 개선해야만 할 것입니다.
+mno_deffend_01|병력들에게 가해자를 죽이고 집을 불태운 뒤, 재산을 뺏도록 명령합니다.
+mno_deffend_02|나는 공포로 지배하지 않는다, 다른 방법으로 관계를 개선해야 할 것이다.
+mno_deffend_03|도시에 사는 자들을 전부 죽이고, 당신에게 충성하는 새로운 사람들을 도시에 정착시킵니다.
+menu_random_normal_events|사건
+menu_random_normal_events2|사건
+menu_event_01_normal|말이 질주하는 소리가 추운 아침에도 불구하고 들리고 있었습니다, 그리고 당신의 앞에서 경계병이 말에서 내렸습니다. 그는 이방인의 선박으로 보이는 선박이 근처 해안에 난파되어 있다고 말했습니다. 당신은 어떤 선택을 할 것입니까?
+mno_choice_01_1no|귀중품들을 약탈할 전사를 보내고, 생존자가 있을 경우 그들을 모두 죽인다.
+mno_choice_01_2no|조사를 할 병력을 보내고, 만약 생존자가 있을 경우 그들을 구출한다.
+mno_choice_01_3no|아무 것도 하지 않는다.
+menu_event_02_normal|{s4}
+mno_choice_11_msg|계속.
+menu_event_03_normal|당신은 음유시인이 당신의 고귀한 행동에 대한 음유시를 지었다는 사실을 들었습니다.
+mno_choice_03_1no|듣기 좋은 소식이로군!
+mno_choice_03_2no|300 페닝을 그에게 보상하고, 그가 여행을 다니면서 노래하도록 합니다.
+menu_event_04_normal|당신의 이야기는 성공적으로 노스란드 전역에 퍼졌고, 당신이 가는 모든 곳에서 당신의 행렬은 거지로 둘러 쌓이게 되었다.
+mno_choice_04_1no|그들에게 200 페닝을 적선합니다.
+mno_choice_04_2no|그들을 무시합니다.
+mno_choice_04_3no|거지라고? 사냥개를 풀어라!
+menu_event_05_normal|젊은 귀족이 당신의 어머니에 대해, 그녀가 창녀라고 공공연하게 소문을 퍼트리고 있습니다.
+mno_choice_05_1no|그에게 결투를 신청합니다!
+mno_choice_05_2no|그냥 상대하지 않습니다.
+menu_event_06_normal|당신은 당신의 병사들 중 한 명의 아내와 마주쳤습니다. 그녀는 그에게 당신의 병사로 일하고 있는 그의 남편을 자유롭게 풀어달라고 요청했고, 이유는 올해의 작황은 좋지 않아 그의 임금으로는 그의 가족들이 먹고 살 수 없다는 것이었습니다. 만약 그가 다시 와서 일을 할 수 있다면 그의 가족들의 생계는 걱정할 것이 없을 것입니다.
+mno_choice_06_1no|그 대신 돈을 줄 것이다! 여기, 그녀에게 200 페닝을 준다.
+mno_choice_06_2no|그와의 계약을 끝내고, 그를 자유의 몸으로 풀어준다.
+menu_event_07_normal|지역의 유명한 거짓말쟁이가 당신에 대한 거짓 소문을 퍼트리고 있습니다. 이야기의 대부분은 순수한 거짓이지만, 조만간 사람들이 그를 믿을 것입니다.
+mno_choice_07_1no|그가 소문을 퍼트리게 내버려 둔다, 모든 사람들은 스스로 원하는 것을 말할 권리를 가지고 있다.
+mno_choice_07_2no|그에게 100 페닝을 주어 달랩니다.
+mno_choice_07_3no|그를 죽여 입을 다물게 만듭니다.
+menu_event_08_normal|당신은 숲 속을 지나가던 중, 올무에 잡힌 토끼를 발견했습니다. 당신은 어떤 선택을 할 것입니까?
+mno_choice_08_1|동물을 자유롭게 풀어줍니다.
+mno_choice_08_2|올무를 풀고 동물을 죽입니다!
+mno_choice_08_3|동물을 무시하고 지나갑니다.
+menu_event_09_normal|당신의 명성에 이끌려 온 한 무리의 정예 전사들이 당신의 부대에 합류하려고 합니다. 그러나, 그들은 당신이 일반적으로 부대에 지급하는 임금보다 많은 급여를 요구하고 있습니다.
+mno_choice_9_1|그들을 환영합니다.
+mno_choice_9_2|나는 더 이상의 병력을 필요로 하지 않는다.
+mno_choice_9_3|그들을 죽이고 그들에게서 좋은 전리품들을 갈취합니다.
+menu_event_10_normal|당신은 몇 명의 여성들이 당신의 추종자가 되기를 원하고 있다는 말을 들었습니다.
+mno_choice_10_1no|그들을 환영합니다.
+mno_choice_10_2no|나는 먹여 살릴 입이 늘어나는 것을 원하지 않는다.
+menu_event_11_normal|당신은 한 무리의 음유시인들이 당신의 전속 음유시인들로 당신의 부대에 합류하기를 원하고 있다는 말을 들었습니다.
+mno_choice_11_1no|그들을 환영합니다.
+mno_choice_11_2no|나는 더 이상 부대의 인원이 늘어나기를 원치 않는다.
+menu_event_12_normal|당신은 당신의 부대 위를 선회하고 있는 학을 보았습니다.
+mno_choice_12_1|저 학이 당신의 승리를 상징하는 것이라고 말합니다.
+mno_choice_12_2|무시합니다.
+mno_choice_12_3|저 학이 당신의 불운을 상징하지만, 당신을 믿어야 할 것이라고 말합니다.
+menu_event_13_normal|마을의 농민은 그 뒤에서 울고 있는 소녀와 함께 길가에 서 있었습니다. 그는 당신의 병력들 중 하나를 비난하듯 손가락으로 가리켰고, 그 자가 그의 딸을 강간했고 그에 대한 처벌을 해야 할 것이라고 말했습니다.
+mno_choice_13_1|나는 내 부하들이 그런 짓을 하는 것을 용납하지 않을 것이다! 그에게 불로 달군 쇠로 낙인을 찍은 뒤, 그를 부대에서 쫓아낸다.
+mno_choice_13_3|지금은 험한 세상이다, 그는 그의 운명을 받아들여야만 할 것이다.
+menu_event_14_normal|한 시간 뒤, 당신의 부대가 마을에서 쉬는 동안, 사제의 아내가 그녀의 남편이 외출한 동안 당신을 찾아왔습니다.
+mno_choice_14_1|그녀를 받아들입니다.
+mno_choice_14_3|그녀를 쫓아냅니다.
+menu_event_15_normal|당신의 명성이 널리 퍼져, 당신의 명성을 듣고 노스란드의 젊은 남자들이 당신의 부대에 합류하기 위해 모였습니다.
+mno_choice_15_1|그들을 받아들입니다.
+mno_choice_15_2|나는 그들을 필요로 하지 않는다.
+menu_event_16_normal|당신은 도로가에서 빈곤한 남자를 발견했고, 그는 지쳐 보였습니다. 그는 그가 왜 혼자 길가에 앉아 있는지 부하를 보내 물어 보았고, 그는 사람들이 그에게서 재산을 강탈했다고 말했습니다, 그리고 그는 돈을 얻을 수 없을 경우, 곧 굶어 죽을 것입니다. 그는 당신의 군대에서 봉사하겠다고 말했고, 당신의 충성스러운 전사가 될 것이라고 말했습니다.
+mno_choice_16_1|인생은 공정하지 않다, 그에게 아무 것도 주지 않는다.
+mno_choice_16_2|그에게 그날 하루를 연명할 돈을 줍니다. (10 페닝)
+mno_choice_16_4|그에게 여러 날 먹고 지낼 돈을 줍니다 (200 페닝)
+mno_choice_16_5|그의 제안을 받아들여 그에게 고용비를 지불하고 당신의 부대에 받아들입니다.
+menu_event_17_normal|한 무리의 도적들이 당신의 야영지에 다가왔습니다. 당신의 병력들은 무기를 들었고, 도적들은 무기를 내려놓고 싸우길 원치 않는다고 말했습니다. 잠시 후, 도적들의 대장이 당신에게 다가와 당신에게 합류시켜 달라고 말했습니다.
+mno_choice_17_1|문제 없다! 내 부대에 재능 있는 자들이 합류하는 것은 언제나 환영이다.
+mno_choice_17_2|그들에게는 미안하지만, 나는 그들을 합류시키지 않을 것이다.
+mno_choice_17_3|그들에게 마을을 습격하게 명령하고, 그들이 마을 장로의 머리를 가져와 스스로 능력을 증명하게 만듭니다.
+mno_choice_17_4|그들을 모두 죽입니다.
+menu_event_18_normal|당신은 지나던 길에 잊혀진 옛 전쟁 군주의 무덤을 발견했습니다.
+mno_choice_18_1|무덤을 약탈합니다.
+mno_choice_18_2|그 장소를 떠납니다.
+mno_choice_18_3|무덤의 주인에 대해 당신의 경의를 표합니다.
+menu_event_19_normal|당신은 인근 마을에서 빠져나온 것으로 보이는 소를 발견했습니다.
+mno_choice_19_1|마을에 소를 돌려주고, 보상을 요구하지 않습니다.
+mno_choice_19_2|마을에 소를 돌려주고, 보상을 요구합니다.
+menu_event_20_normal|당신의 명성과 인기에 두 명의 광전사가 당신을 찾아왔습니다.
+mno_choice_20_1|그들을 받아들입니다.
+mno_choice_20_2|나는 그들을 필요로 하지 않는다.
+menu_event_21_normal|당신의 명성과 인기에 두 명의 울프헤딘이 당신을 찾아왔습니다.
+mno_choice_21_1|그들을 받아들입니다.
+mno_choice_21_2|나는 그들을 필요로 하지 않는다.
+menu_event_22_normal|휴식을 취하는 동안, 술 취한 부하 몇 명이 마지막 남은 벌꿀주를 놓고 싸움을 일으켰습니다. 둘 모두 자신의 무기를 들며 서로를 죽일 준비를 하였습니다.
+mno_choice_22_1|나머지 부하들에게 재미를 주기 위해 서로 싸우게 허락합니다.
+mno_choice_22_2|야영 중에는 금주령을 내리고 두 병사에게는 처형을 명령합니다.
+mno_choice_22_3|싸움을 말리고, 두 병사에게는 채찍형을 명령합니다.
+menu_event_23_normal|여행 중, 긴 로브를 입은 남성이 당신의 부대로 다가왔습니다. 당신이 그를 반기자, 그는 아더왕의 검 칼리번을 8000 페닝에 팔겠다고 제시하였습니다.
+mno_choice_23_1|검을 구입합니다.
+mno_choice_23_2|나에게는 그 검을 살 만한 돈이 없다.
+mno_choice_23_3|별로 관심이 없다.
+menu_event_24_normal|여행 중, 당신은 한 농장에 들어섰습니다. 당신이 농장에 들어서자 농부는 전통적인 환영 대신에 모든 구역에 방책을 세우고 완전히 무장한 채로 문 앞에 서 있었습니다. 하지만, 당신은 이 농부가 당신의 부하들에게 상대도 되지 않는 걸 알고 있습니다.
+mno_choice_24_1|벌로써 농장을 공격하고 불태웁니다.
+mno_choice_24_2|이곳에서 머물 가치는 없습니다. 계속 이동합니다.
+menu_event_25_normal|두 명의 남성이 당신들을 멈춰 세웠습니다. 그들은 500명의 전사들이 현재 당신을 포위했고, 2000 페닝을 지불하지 않으면 공격할 것이라 했습니다.
+mno_choice_25_1|돈을 지불합니다.
+mno_choice_25_2|전투 준비!
+mno_choice_25_3|가던 길을 갑니다.
+menu_event_26_normal|당신은 정찰병 중 한 명이 등 뒤에 가방을 메고 있는 걸 보았습니다. 당신은 부하를 의심하기는 싫었지만, 일반적으로 전투 준비 태세를 한 병사는 그런 가방을 메지 않는 것이 사실입니다. 그런 가방을 계속 메고 있다는 건... 가방에 많은 돈이 들어있다는 것을 의미했습니다.
+mno_choice_26_1|가방을 몰수하고 병사를 처벌합니다.
+mno_choice_26_2|내버려 둔다. 그는 당신을 위해 자신의 목숨까지 헌신하고 있습니다.
+mno_choice_26_3|돈을 모든 부대원에게 공평하게 나누라고 협박합니다.
+menu_event_27_normal|당신의 병사들이 한 늙은이와 돌아왔습니다. 긴 대화 끝에, 그는 당신의 부대에 합류하여 마을을 떠나고 싶다 하였습니다. 그를 받아들이면 이 마을 영주와 문제가 생길 수도 있습니다.
+mno_choice_27_1|이 지역의 반란에 관여하지 않습니다.
+mno_choice_27_2|그를 죽여 시신을 마을로 돌려보냅니다.
+mno_choice_27_3|늙은이를 받아들입니다.
+menu_event_28_normal|야영 중, 근처의 한 대표단이 다가왔습니다. 그들은 올해 농작 상황이 매우 안 좋다며, 그들의 자식들을 위해 돈을 기부해달라 하였습니다.
+mno_choice_28_1|4000 페닝을 줍니다.
+mno_choice_28_2|1000 페닝을 줍니다.
+mno_choice_28_3|나눠줄 만큼 돈이 많지 않다고 말합니다.
+mno_choice_28_4|무시합니다.
+menu_event_29_normal|야영 중, 근처의 한 대표단이 다가왔습니다. 그들은 자신들의 영주와 문제가 있음을 말하며 조언을 구하였습니다. 얼마 전, 바이킹이 이 지역을 약탈하여 그들은 매우 궁핍한 상태인데, 여전히 영주는 세금을 원하고 있고, 영주가 주민 보호의 의무를 이행하지 않았으므로, 자신들도 세금을 거부하고 영주와 싸울 준비를 할 것인지, 아니면 세금을 지불하고 가족들을 굶겨야 하는지에 대해 당신의 의견을 요청하였습니다.
+mno_choice_29_1|세금을 내고 먹을 것을 구할 수 있게 8000 페닝을 줍니다.
+mno_choice_29_2|세금을 낼 수 있게 4000 페닝을 줍니다.
+mno_choice_29_3|세금을 내지 말고 맞서 싸우라고 조언합니다.
+mno_choice_29_4|영주와 맞서는 것은 곧 모두의 죽음을 의미한다고, 세금을 내라 조언합니다.
+mno_choice_29_5|무시합니다.
+menu_event_30_normal|길을 가던 중, 아픈 여성을 보았습니다. 그녀의 피부는 노랗게 변했으며, 끊임없이 기침을 하였습니다. 그녀는 근처 마을에서 살았으며, 마을에선 병을 치료할 줄 아는 사람이 없어, 지나가는 여행자 중 이 병에 대해 아는 사람이 있나 싶어 길거리로 나왔다고 하였습니다.
+mno_choice_30_1|좋은 의사를 찾아보라고 이야기한 뒤 1000 페닝을 줍니다.
+mno_choice_30_2|최고의 의사로서, {reg3?당신은:{s3}은(는)} 출혈시킬 것을 처방했습니다.
+mno_choice_30_3|무시한다. 그녀의 질병이 전염될 수도 있다.
+menu_season_change|{s1}
+menu_troop_camp|작은 야영지가 부대를 위해 지어졌고, 당신은 원한다면 병사들을 이곳에 잠시 두고 갈 수 있습니다.^^(병사를 선택하고 주기 버튼을 누르면 해당 병력은 캠프에 남게 됩니다.)
+mno_station_troops|병력을 확인합니다.
+menu_player_trait|{s3}
+menu_start_beda_final|마지막 
+menu_ship_capture|당신은 적들의 선박을 나포했습니다. 그 선박은 {s2}입니다. 그러나 격렬한 전투가 벌어진 것 때문에 선박의 상태가 '{s1}'으로 좋지 않습니다. 당신은 당신의 선단에 이 선박을 합류시키기를 원합니까?
+mno_capture|선박을 당신의 선단에 합류시킵니다.
+menu_sandboxmode_ok|당신의 이야기는 모두 끝났습니다. 스토리 모드를 종료하고 샌드박스 모드로 계속 진행하시겠습니까? 샌드박스 모드로 가지 않을 경우, 타이틀로 돌아가게 됩니다.
+menu_start_sea_travel|당신은 해상에서 이동하기 시작했습니다.
+menu_mutiny_start|몇몇 부대의 명예가 낮습니다. 해당 부대에서 반란이 일어나기 시작합니다.
+menu_mutiny_end|반란이 진압되었습니다.
+menu_print_ships|당신의 선박 종류, 이름, 품질 및 나무 종류: ^{s10}
+menu_work_start|머지 않아, 계속되는 단조로운 일에 당신의 팔다리는 금방 피로해졌습니다. 하지만 이미 하루 종일 일해주기로 합의본 이상 어쩔 도리가 없었습니다.
+menu_work_end|일이 끝나고 하루를 되돌아 봤을 때 당신은 열심히 일한 기억에 뿌듯해졌습니다. 하지만 그런 기분도 잠시일 뿐, 하루 일당을 보자 노동 강도에 비해 너무 적은 임금에 실망하였습니다.
+menu_landing_point_encounter_as_marshal|현재, 당신은 부대의 대장으로서, 하선을 시도하였습니다. {s1} {s2} ^^지금 하선하시겠습니까? 아니면 좀 더 기다리겠습니까?
+mno_disembark_yes|하선합니다.
+menu_landet_ships_encounter_as_marshal|현재, 당신은 부대의 대장으로서, 승선을 시도하였습니다. {s1} {s2} ^^지금 승선하시겠습니까? 아니면 좀 더 기다리겠습니까?
+mno_reembark_yes|승선합니다.
+menu_recruit_volunteers_town|{s18}
+menu_hunting|당신은 {s1}와 맞닥뜨렸습니다. 어떻게 하시겠습니까?
+mno_hunt|사냥을 나섭니다.
+menu_after_hunt|{s1}
+menu_slave_hideout|당신은 어떤 소굴을 발견했습니다. 어떻게 하시겠습니까?
+menu_set_goal_trigger_new_game|{s1}
+menu_set_goal_message_complete_goal|{s1}
+mno_new_goal|새로운 목표를 설정합니다.
+menu_auto_start_presentation|{s1}

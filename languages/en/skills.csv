@@ -1,0 +1,84 @@
+skl_trade|상술
+skl_trade_desc|매 기술 점수마다 거래에 대한 패널티를 5%%만큼 감소시켜 줍니다. (부대 기술)
+skl_leadership|지휘력
+skl_leadership_desc|매 기술 점수마다 지휘할 수 있는 최대 병력 수가 5명씩 증가합니다. 또한 부대의 사기를 증가시켜주며, 기술 점수가 높을 수록 병력의 유지 비용이 줄어듭니다. (지도자 기술)
+skl_prisoner_management|포로 관리
+skl_prisoner_management_desc|매 기술 점수마다 데리고 다닐 수 있는 최대 포로 수가 %d명만큼 늘어납니다. (지도자 기술)
+skl_reserved_1|제한된 기술 1
+skl_reserved_1_desc|이것은 제한된 기술 입니다.
+skl_reserved_2|제한된 기술 2
+skl_reserved_2_desc|이것은 제한된 기술 입니다.
+skl_reserved_3|제한된 기술 3
+skl_reserved_3_desc|이것은 제한된 기술 입니다.
+skl_reserved_4|제한된 기술 4
+skl_reserved_4_desc|이것은 제한된 기술 입니다.
+skl_persuasion|설득력
+skl_persuasion_desc|다른사람이 당신의 의견에 동의할 확률을 올려줍니다. 또한 NPC에게 무엇인가를 부탁할 때에 요구되는 최소 관계 수치를 낮춰줍니다. (개인 기술)
+skl_engineer|기계학
+skl_engineer_desc|공성 병기를 제작하고, 영지의 관리를 능률적으로 할 수 있게 도와줍니다. (부대 기술)
+skl_first_aid|응급처치
+skl_first_aid_desc|매 기술 점수마다 플레이어나 동료가 전투 후 잃은 체력을 5%%만큼 회복합니다. (부대 기술)
+skl_surgery|수술
+skl_surgery_desc|매 기술 점수마다 아군 병력이 전장에서 사망하지 않고 부상당할 확률을 4%%만큼 올려줍니다. (부대 기술)
+skl_wound_treatment|상처 치료
+skl_wound_treatment_desc|매 기술 점수마다 부대의 체력 회복속도가 20%%만큼 증가합니다. 또한 깊은 상처가 나을 확률이 5%%씩 증가합니다. (부대 기술)
+skl_inventory_management|재고 관리
+skl_inventory_management_desc|매 기술 점수마다 물품 창이 6칸씩 증가합니다. (지도자 기술)
+skl_spotting|감지
+skl_spotting_desc|매 기술 점수마다 부대의 시야거리가 10%%만큼 증가합니다. (부대 기술)
+skl_pathfinding|길 찾기
+skl_pathfinding_desc|매 기술 점수마다 지도 상의 육지 위에서 부대의 이동속도가 3%% 상승합니다. (부대 기술)
+skl_tactics|전략
+skl_tactics_desc|두 개의 기술 점수마다 전투시 전술적 유리함이 1씩 상승합니다. (부대 기술)
+skl_tracking|추적술
+skl_tracking_desc|기술 점수를 올릴 때마다 지도상의 흔적이 더 많은 정보를 보여주고, 좀 더 오래된 흔적을 찾을 수 있습니다. (부대 기술)
+skl_trainer|훈련 교관
+skl_trainer_desc|매일, 이 능력을 가진 모든 플레이어나 동료들보다 레벨이 낮은 부대원들에게 기술 기술 점수의 합계에 따라 매일 추가적인 경험치를 줍니다. 훈련 경험치가 늘어나는 합계 구간은 각각 0, 4, 10, 16, 23, 30입니다. (개인 기술)
+skl_reserved_5|제한된 기술 5
+skl_reserved_5_desc|이것은 제한된 기술입니다.
+skl_reserved_6|제한된 기술 6
+skl_reserved_6_desc|이것은 제한된 기술입니다.
+skl_reserved_7|제한된 기술 7
+skl_reserved_7_desc|이것은 제한된 기술입니다.
+skl_reserved_8|제한된 기술 8
+skl_reserved_8_desc|이것은 제한된 기술입니다.
+skl_looting|약탈
+skl_looting_desc|매 기술 점수마다 얻게 되는 약탈물의 가치가 10%%씩 올라갑니다. (부대 기술)
+skl_horse_archery|기마 궁술
+skl_horse_archery_desc|매 기술 점수마다 말에 타고 있을 때 가지는 활과 투척 무기의 공격력 및 정확도에 대한 패널티가 감소합니다. (개인 기술)
+skl_riding|승마술
+skl_riding_desc|타기 힘든 말들을 탈 수 있게 해주며, 매 기술 점수마다 말의 선회 기동과 이동 속도가 증가합니다. (개인 기술)
+skl_athletics|운동 능력
+skl_athletics_desc|매 기술 점수마다 달리기 속도가 상승합니다. (개인 기술)
+skl_shield|방패술
+skl_shield_desc|매 기술 점수마다 방패에 전달되는 타격의 8%%를 감소시키고, 방패로 대응하는 속도와 방패로 몸을 가릴 수 있는 범위가 증가합니다. (개인 기술)
+skl_weapon_master|무기의 달인
+skl_weapon_master_desc|매 기술 점수마다 무기 숙련도를 더 쉽게 올릴 수 있게 됩니다. 그리고 무기의 숙련도 한계치를 늘려 줍니다. 한계치는 60부터 시작해 매 기술 점수마다 40씩 상승하여 최대 420까지 올라가게 됩니다. (개인 기술)
+skl_maintenance|병기 관리
+skl_maintenance_desc|매 기술 점수마다 무기를 관리하는 기술을 증가시켜 전투 시 쉽게 파손되지 않을 확률을 7%씩 올려줍니다. (개인 기술)
+skl_reserved_10|제한된 기술 10
+skl_reserved_10_desc|이것은 제한된 기술입니다.
+skl_reserved_11|제한된 기술 11
+skl_reserved_11_desc|이것은 제한된 기술입니다.
+skl_reserved_12|제한된 기술 12
+skl_reserved_12_desc|이것은 제한된 기술입니다.
+skl_reserved_13|제한된 기술 13
+skl_reserved_13_desc|이것은 제한된 기술입니다.
+skl_power_draw|당기는 힘
+skl_power_draw_desc|인물들이 좀 더 강한 활을 사용할 수 있게 해줍니다. 그리고 매 기술 점수마다 활의 공격력이 14%%씩 상승합니다.(개인 기술)
+skl_power_throw|던지는 힘
+skl_power_throw_desc|매 기술 점수마다 투척 무기 공격력이 10%%씩 상승합니다. (개인 기술)
+skl_power_strike|타격하는 힘
+skl_power_strike_desc|매 기술 점수마다 근접 공격력이 8%%씩 상승합니다. (개인 기술)
+skl_ironflesh|단단한 피부
+skl_ironflesh_desc|매 기술 점수마다 체력이 2씩 상승합니다. (개인 기술)
+skl_navigation|항해술
+skl_navigation_desc|매 기술 점수마다 지도 상의 바다 위에서 이동하는 속도가 5%% 상승합니다. (부대 기술)
+skl_sea_king|해상 지휘력
+skl_sea_king_desc|매 기술 점수마다 지휘할 수 있는 최대 선박의 수가 1척씩 증가합니다. (지도자 기술)
+skl_reserved_16|제한된 기술 16
+skl_reserved_16_desc|이것은 제한된 기술입니다.
+skl_reserved_17|제한된 기술 17
+skl_reserved_17_desc|이것은 제한된 기술입니다.
+skl_reserved_18|제한된 기술 18
+skl_reserved_18_desc|이것은 제한된 기술입니다.
