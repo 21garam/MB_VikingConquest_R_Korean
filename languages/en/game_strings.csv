@@ -3364,7 +3364,7 @@ str_wounds|부상:
 str_blood_loss|출혈:
 str_quantity_bandit_parties|도적 부대:
 str_game_difficulty_warning|게임 난이도 경고
-str_game_difficulty_warning_desc|At the current Campaign AI level, {s1} of the bandit parties will be stronger than the player's upon spawning. They will have up to {reg1} troops.^^Reset that level from the ESC options menu if desired. Deserters will not be affected, and sea based bandits always start with a minimum of one ship (30 men).
+str_game_difficulty_warning_desc|현재의 캠페인 AI 난이도에 따라서, {s1}(일부의) 약탈자 무리는 플레이어의 파티보다 더 강하게 생성됩니다. 그들은 최대 {reg1} 부대까지 생성 가능합니다.^^난이도를 조절하기 원한다면 ESC 옵션 메뉴에서 난이도를 조절하세요. 단, 탈영병 무리에게는 적용되지 않습니다. 또한 해적 무리는 항상 최소 1척 이상의 배와 함께 생성됩니다. (30 명 이상).
 str_player_division|플레이어 부대:
 str_poll_change_gametype|{s0} started a poll to change game type to {s1}.
 str_poll_to_change_gametype|Poll to change game type to {s1}: 1 = Accept, 2 = Decline
