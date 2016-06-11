@@ -2664,7 +2664,7 @@ str_quick_battle_troop_5|Cinead is named after the chieftain who unified Alba af
 str_quick_battle_troop_6|Oswald is a thegn in the Saxon levy, commanding a large group of ceorls who rent his lands. While the glory goes to the kings, it is the solid officers like him that actually protect West Seaxe.(***)
 str_quick_battle_troop_7|Hildr comes from a persistent tradition among Germanic peoples of women fighters, called skjaldmo, or shield maidens, by the Danes. Her comrades accept her none too grudgingly, as it is whispered she has harnessed the power of runes from wizards in far-off Finland.(***)
 str_quick_battle_troop_cam|Watch the AI play the battle out. The camera uses the standard movement and rotation controls, plus F for up and V for down, +/- for zoom, Q to toggle follow terrain, numpad for game speed, mouse wheel for camera speed, arrow key rotation, Y to toggle invert y-axis, and R to toggle rotate-before-pan.(***)
-str_strategy_cam|This camera follows the player. One may increase distance with the F key and reduce it with the V key. +/- for zoom, numpad for game speed, and mouse wheel for camera speed.(***)
+str_strategy_cam|이 카메라는 플레이어를 따라다닙니다. F 키를 누르면 거리가 증가하고 V 키를 누르면 거리가 줄어듭니다. 줌은 +/- , 게임 속도는 Numpad, 카메라 스피드는 마우스 휠로 조절할 수 있습니다.(***)
 str_tutorial_training_ground_intro_message|훈련소 주위를 걸어 보고, 다양한 전투방법을 연습하기 위해 전사들과 이야기해야 할 것이다. 당신은 ASDW 키들을 이용해 주위를 이동할 수 있다. 다른 인물들과 이야기를 하려면, 당신의 화면에 그의 이름이 나타날때 까지 그에게 다가가, F 키를 눌러라. 또한 당신은 F키를 이용해 아이템들을 주울 수 있으며, 문을 열거나 대상들과 상호작용할 수 있다. Tab 키를 누르면 당신이 원하는 언제라도 튜토리얼을 나갈 수 있다.
 str_tutorial_doccinga_ground_intro_message|독싱가는 프리지아의 해변에 위치한 작은 어촌입니다. 이 곳의 사람들은 매우 근면하지만, 그들은 외지인들을 별로 환영하지 않습니다. 당신이 마을에 가면, 마을에서 벌어지는 많은 활동들을 둘러보는 것이 좋을 것입니다. 바쁘게 살아가는 주민들, 일부 전사들은 사람들 속에서 그들의 바다를 넘어서 모험을 준비하기 위해 전투 기술을 단련하고 있습니다. 아마도 당신은, 다양한 방법으로 전사들과 훈련할 수 있을 것입니다. (기억하세요: ASDW 키로 이동을 하고. 인물들과 대화하기 위해서는 그 인물들의 이름이 화면에 출력될 때까지 다가가, F 키를 누르세요. 당신은 F키를 눌러 물건을 집거나, 문을 열거나 상호 작용을 할 수 있습니다. TAB 키를 누르면 독싱가에서 나갈 수 있을 것입니다.)
 str_map_basic|맵
@@ -3322,8 +3322,8 @@ str_com_morale_reg0|{s1}^^사기: {reg0}
 str_com_relation_reg12|{s1}^^관계도: {reg12}
 str_com_catholic|{s1}^^종교: 기독 신앙
 str_com_pagan|{s1}^^종교: 이교
-str_tactical_controls|Use the keyboard NUMBERS to select a division. Press 0 to select your entire force.^^Use F1-F4 to order selected divisions. Keep the F1 key down to place selected divisions. One may target an enemy division through this mechanism.^^Pressing the ENTER key often initiates an overhead Strategy Camera.^^Pressing the BACKSPACE key often initiates a Battle Command Display with 'radar.'
-str_division_placement|When ONE division is selected, the center of its front rank is placed at the spot indicated.^^When MANY divisions are selected, they are separated and spread out as if the player were standing at the spot indicated.^^One may memorize the placement of selected divisions relative to the player by pressing F2, F7. Default is infantry to the left, cavalry right, and ranged forward.
+str_tactical_controls|키보드의 '숫자키'를 눌러 원하는 부대를 선택하세요. '0'을 누르면 모든 병사를 선택합니다.^^F1-F4 을 이용해 분대에게 명령을 내릴 수 있습니다. F1 키를 누르고 있으면 선택된 부대들의 위치를 지정할 수 있습니다. 이런 방법으로 공격할 적 대상을 지정할 수 있습니다.^^'ENTER' 키를 누르면 전술 카메라를 볼 수 있습니다.^^BACKSPACE 키를 누르면 지도와 전투 명령 화면을 볼 수 있습니다.
+str_division_placement|특정 부대가 선택되면, 표시된 지점에 부대의 최전방 중앙이 위치하게 됩니다.^^다수의 부대가 선택된 경우, 그들은 플레이어 주변에 부대별로 모여 배치됩니다.^^F2와 F7을 누를 때 선택된 부대에 대해 기억할 것은 기본적으로 보병은 좌측에, 기병은 우측에 그리고 장거리 병과는 전방에 선다는 것 입니다.
 str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.
 str_log_created|A log has been created. Please check the rgl log.txt!
 str_debug_log_print2|{s30}^End of LOG.
