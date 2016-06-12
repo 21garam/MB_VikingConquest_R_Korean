@@ -1169,8 +1169,8 @@ dlga_companions_despuesduelo4_1:close_window|제 목숨을 높이 사주시다�
 dlga_companions_despuesduelo4_2:close_window|{s2}
 dlga_companions_despuesduelo4_3:close_window|{s2}^^제 목숨을 높이 사주시고 절 용서해주신 바 깊이 감사드립니다. 다시는 이런 일이 일어나지 않을 겁니다. 이제 모든 이들을 제치고 당신만을 충성스럽게 섬기겠습니다. 제 목숨은 당신에게 달려있습니다. 이런 말 해도 될지는 모르겠지만, 당신은 소굴가, 전설로 쓰여질 만한 인물입니다. 
 dlga_companion_reginhard4x:companion_reginhard43|알겠지만 난 믿을만한 사람이잖소. 이제, 시어더드와 부하들은 어디 숨어있소?
-dlga_companion_reginhard41:companion_reginhard4|{s2}^^제가 그들을 배신했기 때문에... 슬픔과 벌꿀주에 잠겨 여기로 온 것입니다. 그들은 제 형제이자 친구였습니다. 돈 때문에 켄네머의 야를에게 제 형제를 팔아치웠다구요! 지도자의 형제였던 시어더드도 팔아넘겼습니다. 이제 그들은 절 죽이려 하고, 그저 배신자로서 최후를 맞기를 기다릴 뿐입니다. 빌어먹을 내가 여태까지 야를을 섬겼다니! 빌어먹을 야를!
-dlga_companion_reginhard42:companion_reginhard4|시어더드? 그 자를 아십니까? 그가 어떤 사람인지 말로는 표현할 수 없습니다. 죽어줄 수라도 있는 사람, 이거 하나는 확실하죠. 덴마크인들도 언젠가 시어더드가 프리지아의 군대를 일으켜 자기들을 이 땅에서 내던져버릴까봐 벌벌 떨고 있습니다.
+dlga_companion_reginhard41:companion_reginhard4|{s2}^^제가 그들을 배신했기 때문에... 슬픔과 벌꿀주에 잠겨 여기로 오게 된 것이오. 그들은 제 형제이자 친구였는데도... 돈 때문에 켄네머의 야를에게 제 형제를 팔아치웠다구요! 지도자의 형제였던 시어더드도 팔아넘겼습니다. 이제 그들은 절 죽이려 하고, 그저 배신자로서의 최후를 맞기를 기다릴 뿐이란말이오. 빌어먹을 내가 여태까지 야를을 섬겼다니! 빌어먹을 야를!
+dlga_companion_reginhard42:companion_reginhard4|시어더드? 그 자를 아시오? 그가 어떤 사람인지 말로는 표현할 수 없습니다. 대신 죽어줄 수라도 있는 사람, 이거 하나는 확실하오. 덴마크인들도 언젠가 시어더드가 프리지아의 군대를 일으켜 자기들을 이 땅에서 내던져버릴까봐 벌벌 떨고 있습니다.
 dlga_companion_reginhard43:companion_reginhard5|왜 묻죠? 별로 밝히고 싶지 않은 비밀인데.
 dlga_companion_reginhard5:companion_reginhard51|글쎄, 그들에게 합류하고 싶은데. 난 이제 반란군이오!
 dlga_companion_reginhard5:companion_reginhard52|시어더드와 대화하고 싶소. 그와 상의해야 할 일이 있소. 300 페닝을 줄테니 어디있는지 알려주시오.
@@ -1178,7 +1178,7 @@ dlga_companion_reginhard5:companion_reginhard54|당신의 비밀은 내 비밀�
 dlga_companion_reginhard5:companion_reginhard53|시어더드는 이제 당신의 적이요. 난 당신이 걱정되고 시어더드와 대화하고 싶소. 분명 그들도 당신을 용서해줄거요. (설득)
 dlga_companion_reginhard5:close_window|음, 알겠소. 돈을 더 들고 오도록 해야겠군. 300 페닝 정도라든가.
 dlga_companion_reginhard51:companion_reginhard5|그들은 알지 못하는 사람은 절대 받아주지 않습니다.
-dlga_companion_reginhard52:companion_recruit_backstory_response2|글쎄, 당신은 좋은 사람 같아 보이는군요. 돈은 챙길테니 당신을 받아주겠습니다. 저도 그 사람과 얘기를 해봐야 하니까요. 시어더드는 힘을 높게 쳐주는 사람이니, 부하 몇 명도 데려가는게 좋을 겁니다.
+dlga_companion_reginhard52:companion_recruit_backstory_response2|당신은 좋은 사람 같아 보이는군요. 당신의 부대에 합류 하겠소, 물론 돈도 챙기고.^저도 그 사람과 할 얘기가 있소. 시어더드는 힘을 높게 쳐주는 사람이니, 부하 몇 명도 데려가는게 좋을 겁니다.
 dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^감사합니다, {playername}. 당신이 맞아요. 그들과 대화를 해봐야겠어요. 당신을 따르겠습니다. 시어더드의 은신처는 동쪽 산에 있습니다. 제가 길을 알려드리죠.
 dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^농담하는 것일 수도 있겠지만, {playername}, 당신이 맞습니다. 우리에게 비밀이란 건 있을 수 없죠! 또 야를이 제게 거짓말을 했다고 그들에게 알려야 합니다. 여기서 계속 있을 바에야 차라리 죽고 말지. 당신을 따르겠습니다. 시어더드의 은신처는 동쪽 산에 있습니다. 길을 알려드리죠.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|환영하오! 어서 갑시다.
@@ -1928,8 +1928,8 @@ dlga_ulf_testigo42_1:ulf_testigo42_2|에길은 뼛속까지 난봉꾼이고, 미
 dlga_ulf_testigo42_2:ulf_testigo42_3|그렇소.
 dlga_ulf_testigo42_2:ulf_testigo42_31|아니오.
 dlga_ulf_testigo42_2:ulf_testigo42_31.1|누구? 여기 있는 브륀힐드? 그녀는 내 딸이 아냐.
-dlga_ulf_testigo42_3:ulf_testigo5|글쌔, 당신은 바보인가? 에길은 사생아에 불과하고, 도라는 부잣집 딸이야, 너는 나를 모욕하는 건가?
-dlga_ulf_testigo42_31:ulf_testigo42_32|글쌔, 그게 듣기 좋으라고 한 소린지 모르겠군, 나는 네 말을 듣지 않은 거로 할 거다.
+dlga_ulf_testigo42_3:ulf_testigo5|글쎄, 당신은 바보인가? 에길은 사생아에 불과하고, 도라는 부잣집 딸이야, 너는 나를 모욕하는 건가?
+dlga_ulf_testigo42_31:ulf_testigo42_32|글쎄, 그게 듣기 좋으라고 한 소린지 모르겠군, 나는 네 말을 듣지 않은 거로 할 거다.
 dlga_ulf_testigo42_32:ulf_testigo5|아무도 가족으로 에길을 원하지 않는다. 그 놈은 사생아에 불과하고, 도라는 부잣집 딸이다.
 dlga_ulf_testigo5:ulf_testigo44|이해합니다. 나는 당신의 딸의 문제를 내 문제로 생각하고, 그녀와 그녀의 아이에 대한 책임을 질 것입니다.
 dlga_ulf_testigo5:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문제에 대해서 웨어길드로 보상하는 데 동의합니다.
@@ -2206,19 +2206,19 @@ dlga_svenfinal_ld1:svenfinal_ld2|그와 함께 있는 여성에 대해 알고 �
 dlga_svenfinal_ld1:svenfinal_ld3|당신은 우리와 함께 싸울 것이오?
 dlga_svenfinal_ld2:svenfinal_ld11|당신이 말하는 것이 바로 당신의 어머니, 세이드를 의미하오? 그렇소, 그녀는 그들과 함께 있소. 그녀와 스벤 불 넥이 리딩엄에 들어갔을 때 우리는 그녀를 보았소. 나는 그녀가 전에 어떤 모습이었는지 모르지만, 지금 그녀는 매우 수척한 상태요. 나는 그녀가 오래 살 거라고 생각하지 않소.
 dlga_svenfinal_ld3:svenfinal_ld11|유감스럽게도 아니오, 내 임무는 다른 것이오, 여기에서의 내 역할은 당신이 도착했을 때 스벤 불 넥을 확인할 수 있도록 하는 것이오. 분명히 내 주인은 당신에게 약속했소, 그는 자신의 말을 어기지 않소.
-dlga_svenfinal_ld11:close_window|글쌔, 내가 들은 바로는 당신 또한 위험한 사람이오. 나는 내 부하 100명 중 원하는 자 절반을 마음대로 떠날 수 있게 하도록 하였소. 그들은 용감한 전사이고, 그들이 당신을 도울 경우 한 무더기의 금을 받기로 내 주인에게 약속받았소. 만족스러운 전투가 되기를. 안녕히, {playername}, 그리고 행운이 있기를!
+dlga_svenfinal_ld11:close_window|글쎄, 내가 들은 바로는 당신 또한 위험한 사람이오. 나는 내 부하 100명 중 원하는 자 절반을 마음대로 떠날 수 있게 하도록 하였소. 그들은 용감한 전사이고, 그들이 당신을 도울 경우 한 무더기의 금을 받기로 내 주인에게 약속받았소. 만족스러운 전투가 되기를. 안녕히, {playername}, 그리고 행운이 있기를!
 dlga_start:close_window.64|바로 여기요! 지금 여기에서 {s3}의 성벽이 보이는군. 여기서부터 우리는 안전하오. 여기, 당신의 일에 대한 보상으로 약속한 {reg3} 페닝을 받으시오, 나는 언젠가 우리가 다시 한번 같이 여행할 수 있었으면 좋겠군.
 dlga_start:close_window.65|내 인내심이 바닥을 보이기 전에 당장 꺼져라, 이 망할 거지 같으니!
 dlga_svenlair_1:svenlair_2|나는 {playername}요. 나는 당신이 포로를 판매한다는 말을 듣고 왔소.
 dlga_svenlair_1:close_window|나는 {playername}다! 관련이 없는 자나, 바보들은 떠나라. 나머지는 모두 죽일 것이다!
 dlga_svenlair_1:svenlair_3|신이시여! 나는 졌소! 내 실수요, 나는 떠나겠소.
 dlga_svenlair_3:close_window|여기서 나가라, 쓰레기야! 그리고 다시는 더러운 네 면상을 들이대지 마라, 아니면 그 대가로 너는 죽을 것이다!
-dlga_svenlair_2:svenlair_21|또 다른 노예 상인이오? 좋소. 글쌔, 나는 몇 명의 노예가 있소.
+dlga_svenlair_2:svenlair_21|또 다른 노예 상인이오? 좋소. 글쎄, 나는 몇 명의 노예가 있소.
 dlga_svenlair_21:svenlair_42|나는 판매하는 노예를 보고 싶소.
 dlga_svenlair_21:svenlair_41|{playername}, 노예를 구매하는 데 대가를 지불하는 것은 습격자들이 사람들을 노예로 만들 동기를 제공하는 일입니다. 우리는 그 사람들을 위해 그들에게 치명적인 대가를 주어야 합니다. 그들을 위해 지불하지 마요!
 dlga_svenlair_41:svenlair_42|입 닥치시오! 나는 판매하는 노예를 보고 싶소.
 dlga_svenlair_41:close_window|뜻대로 하시오, 우리는 그들을 모두 죽일 것이오!
-dlga_svenlair_42:svenlair_43|글쌔, 나는 3명의 노예가 있소. 당신이 직접 볼 수 있소. 가서 그들을 보고, 다시 와서 구입에 대해서 이야기하죠.
+dlga_svenlair_42:svenlair_43|글쎄, 나는 3명의 노예가 있소. 당신이 직접 볼 수 있소. 가서 그들을 보고, 다시 와서 구입에 대해서 이야기하죠.
 dlga_svenlair_43:close_window|좋은 이야기군! 나는 상품을 살펴본 후, 가격을 부를 것이오.
 dlga_sven_comprapr:sven_comprapr_todo|알겠소. 나는 세 명의 포로를 데려갈 것이오. 당신의 페닝을 가져가시오. (900 페닝)
 dlga_sven_comprapr:sven_comprapr_trade|그들을 봐! 당신의 포로는 굶주렸고 강간당했어. 나는 300 페닝보다 더 지불할 수 없어. (상술)
@@ -2227,7 +2227,7 @@ dlga_sven_comprapr:close_window|나는 그 만큼의 돈이 없소. 안녕히.
 dlga_sven_comprapr:close_window.1|나는 그것에 대해서 생각했고, 나는 그들을 구입하고 싶지 않소. 나는 떠날 거요.
 dlga_sven_comprapr:close_window.2|나는 시간이 더 필요하오, 그들을 다시 살펴 보죠.
 dlga_sven_comprapr_todo:close_window|좋았소! 거래는 성사되었소. 다음에 또 오시오!
-dlga_sven_comprapr_trade:close_window|알겠소, 알겠어요. 글쌔, 당신이 옳은 것 같소. 이들은 당신이 데려가시오. 좋은 여행 되기를.
+dlga_sven_comprapr_trade:close_window|알겠소, 알겠어요. 글쎄, 당신이 옳은 것 같소. 이들은 당신이 데려가시오. 좋은 여행 되기를.
 dlga_start:problema_farmer_1|안녕하시오, {reg59?부인:경}. 당신의 도움에 감사하오.
 dlga_problema_farmer_1:problema_farmer_21|나는 편지를 읽어보았소. 그건 너무 새 것 같소. 그리고 당신은, 당신의 땅을 지킬 기회가 있소, 그러니 나는 진실을 알고 싶소.
 dlga_problema_farmer_1:problema_farmer_23|나는 당신의 이야기를 듣고 싶소.
@@ -2430,7 +2430,7 @@ dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구
 dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았다, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 그러나 우리는 주의할 필요가 있네. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 그에게 가서 설들해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 너는 내 보호를 받을 것임을 공식적으로 선언해주겠네. 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 참석해야 할 다른 문제가 있어서... 그럼 이만.
 dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들과 '눈 속의 뱀' 시구르드와 이야기하기 전에, 그가 위험한 자임을 알고 있으며, 그 것을 켄네머의 야를에게 봉사하는 동안 알게 되었습니다. 그것에 대한 당신의 보호와 지원을 요청하며 더불어 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 스벤 불 넥의 손안에 있다는 것을 기억해주십시요.
 dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠구나, 소녀여. 너는 내 지원을 받을 것이다. 하지만 나는 라그나르의 검을 원해. 시구르드는 너를 죽이려고 하지는 않을 것이야. 만약 필요하다면 너는 내 보호 아래에 있다고 말하도 좋구나. 검만 내게 가져다 다오. 훔쳐와도 좋으니 내게 가져만 다오. 이제 정말 가야겠군. 행운을 비네.
-dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 나는 왕에게 거짓말을 했소. 글쌔, 그건 완전한 거짓말은 아니지만... 검의 존재를 제외한다면 말이지. 나는 덴마크가 라그나르를 통해 결집할 수 있다는 점을 중요하게 생각한다는 점을 알고 있고, 나는 그 점을 이용했소. 그건 위험했소, 그러나 우리는 우리의 편에 왕이 필요했소. 나는 당신이 그것을 이해해주기를 바라오.
+dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 나는 왕에게 거짓말을 했소. 글쎄, 그건 완전한 거짓말은 아니지만... 검의 존재를 제외한다면 말이지. 나는 덴마크가 라그나르를 통해 결집할 수 있다는 점을 중요하게 생각한다는 점을 알고 있고, 나는 그 점을 이용했소. 그건 위험했소, 그러나 우리는 우리의 편에 왕이 필요했소. 나는 당신이 그것을 이해해주기를 바라오.
 dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|검은 왕의 지원을 얻기 위해 중요한 요소였소. 고맙소, 지금 내게 진실을 말해 줘서.
 dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|아니, 보도! 나는 정치를 잘 모르지만, 미래에 대해 거짓을 이야기하지는 않소, 지금 나에게 모든 진실을 말해 주시오.
 dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|거짓말은 해서는 안 되오, 다시는 거짓말을 하지 마시오, 보도, 아니면 당신에 대해 조치를 취할 것이오. (정의)
@@ -2466,7 +2466,7 @@ dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|우리의 운�
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|당신은 당신의 계획이 무엇인지 말해줄 수 있소?
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|너는 너무 많은 것을 알고 있어. 나는 너에게 봉사하지 않을 것이고, 너는 더 생각할 필요가 없다.
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|우리는 지금...동맹이지만, 이 일이 끝난 뒤, 나는 당신과 에길에게 아무것도 원하지 않을 것이오.
-dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|글쌔, 난 지금 당신이 내 편이어서 다행이야. 듣고 있어.
+dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|글쎄, 난 지금 당신이 내 편이어서 다행이야. 듣고 있어.
 dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|나는 너에게 신이 준 행운이 너무나도 크다는 것을 알 수 있어. 엄밀히 말해, 네가 나의 후원 없이 총회로 갈 수 있을 것 같아? 분명 스벤 불 넥과 그의 형의 죽음을 비난하고자 하는 사람이 있을 것이다. 네가 총회에 없는 경우, 너는 너를 변호할 수 없겠지. 아마 너는 지게 될 것이고, 총회는 너를 추방하겠지. 너는 법의 보호 밖으로 나가게 될 것이고, 모든 덴마크인이 이러한 추방자를 죽이는 것에는 아무런 대가도 필요 없지. 다시 어머니를 구하고 스벤을 죽이려고 한다면, 반대로 너는 나를 매우 필요로 하게 될 걸? 순순히 내 말을 듣는 것이 좋을 것이야.
 dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|좋은 말이오, 그리고 그것은 공평하군요. 우리의 이익이 함께하는 동안, 우리는 동맹이 될 것이오. 그렇다면, 당신은 덴마크를 떠나겠군요.
 dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^덴마크 남자들 중 구트럼이라고 불리는 자가 있지, 그는 덴마크에서 존경받고, 충실한 자야. 나는 그를 위해 앵글리아를 침공할 라그나르의 아들에 의한 시구르드의 바이킹 군대를 주도하도록 요청했다. 그러나 내 제안은 '눈 속의 뱀' 시구르드가 보도의 편지를 총회에 바치거나, '하얀 머리의' 올리비어의 죽음을 나와 결부시킬 경우 실패하겠지.
@@ -2475,7 +2475,7 @@ dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|정보를 얻�
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|내가 알아서 하겠지만, 그에 따르는 재정적인 지원이 필요하오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot16|항구 관리와 몇마디 이야기를 나눠보겠소.
 dlga_kinghorik_quest_danmarkprot151:kinghorik_quest_danmarkprot153|나는 리베의 항구 관리를 알지만, 그는 야심이 많은 사람이오, 우리는 정보를 구입하기에 충분한 돈이 필요하오.
-dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|글쌔, 나는 이 사태에 대해 내 자금의 일부를 사용할 수 있다. 너는 15000 페닝을 받을 것이야. 이 정도면 항구 관리에게 지불하기에 충분한 비용이라고 생각하는데?
+dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|글쎄, 나는 이 사태에 대해 내 자금의 일부를 사용할 수 있다. 너는 15000 페닝을 받을 것이야. 이 정도면 항구 관리에게 지불하기에 충분한 비용이라고 생각하는데?
 dlga_kinghorik_quest_danmarkprot16:kinghorik_quest_danmarkprot17|네가 만약 네 머리를 네 목 위에 붙이고 다니고 싶은 경우, 네가 울프를 설득해서 그가 총회에서 너에게 불리한 증언을 하지 않도록 설득하는게 좋을 것이다. 도움이 될 다른 것은, 덴마크의 야를들과 좋은 관계를 유지하는 것이다. 나는 네가 그들을 사귀어둘 경우, 그들이 총회에서 너에 대해 잘 말해줄 것이다.
 dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot181|나는 확실히 내 목을 소중히 할 것이오.
 dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot182|나는 더 이상 우리가 할 이야기가 없다고 생각하오, 그럼 안녕히.
@@ -2651,16 +2651,16 @@ dlga_ragnarssons_11:ragnarssons_12_3|이바르의 말이 맞소, 밖에 나가�
 dlga_ragnarssons_11:ragnarssons_12_4|나는 그저 전령일 뿐이오, 이바르의 말은 전혀 내 구미에 당기지 않소. 그는 자신의 혀를 감시해야 할 것이오.
 dlga_ragnarssons_12_1:ragnarssons_14_1|{s2}
 dlga_ragnarssons_14_1:ragnarssons_14_2|풉. 또 다른 겁쟁이는 우리의 동정에 승리했군, 어쨌든 하프단. 당신은 당신이 하고 싶은 일을 하시오.
-dlga_ragnarssons_14_2:ragnarssons_13|내가 보기에 당신은 지적인 사람이오, 전령. 글쌔, 나는 비요른에 대한 대답을 해야할 시간이 온 것 같소. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
+dlga_ragnarssons_14_2:ragnarssons_13|내가 보기에 당신은 지적인 사람이오, 전령. 글쎄, 나는 비요른에 대한 대답을 해야할 시간이 온 것 같소. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
 dlga_ragnarssons_12_2:ragnarssons_13_1|{s2}
 dlga_ragnarssons_13_1:ragnarssons_13_2|나는 당신이 좋소, 전령. 당신은 직접적이고 깔끔해. 우리는 단순한 사람을 좋아하지.
-dlga_ragnarssons_13_2:ragnarssons_13|글쌔, 내 형제는 서로 다른 견해를 가질 수 있지만, 이것이 비요른에게 전할 답변이오. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
+dlga_ragnarssons_13_2:ragnarssons_13|글쎄, 내 형제는 서로 다른 견해를 가질 수 있지만, 이것이 비요른에게 전할 답변이오. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
 dlga_ragnarssons_12_3:ragnarssons_15_1|{s2}^^그건 노골적이오, 전령. 하지만 나는 다른 사람이 명확하게 나를 보는 것이 좋소.
 dlga_ragnarssons_15_1:ragnarssons_15_2|당신은 누구든지 편을 골라야 하오, 전령. 나는 나를 반대하는 모든 이를 죽일 테지만, 심지어 이바르의 친구조차 되지 못할 수 있소.
 dlga_ragnarssons_15_2:ragnarssons_13|이봐, 진정해! 미안하오, 전령. 내 형제는 서로 다른 견해를 가질 수 있지만, 이것이 비요른에게 전할 답변이오. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
 dlga_ragnarssons_12_4:ragnarssons_16_1|{s2}
 dlga_ragnarssons_16_1:ragnarssons_16_2|하! 당신은 대담하군, 전령. 몇몇 사람들은 이바르에게 감히 말하지도 않아. 한가지 팁을 주자면, 당신의 뒤를 지금 돌아봐. 하 하!
-dlga_ragnarssons_16_2:ragnarssons_13|글쌔, 나는 이제 비요른에게 전할 답변을 줄 시간이 되었다고 생각하는데. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
+dlga_ragnarssons_16_2:ragnarssons_13|글쎄, 나는 이제 비요른에게 전할 답변을 줄 시간이 되었다고 생각하는데. 당신은 우리의 대답이 '알겠소, 우리는 그가 색슨인과의 협상에 참여하는 것을 들었고, 우리는 제공하는 조건에 동의할 것이오. 무엇이든지 신이 버린 구멍에 빠지는 걸 제외하고는 말이오'라고 전하면 되오
 dlga_ragnarssons_13:ragnarssons_14|아주 좋군, 나는 다시 비요른에게 돌아가겠소. 행운을 비오.
 dlga_ragnarssons_13:ragnarssons_15|흠, 나는 전령의 대가로 어떤 보수를 기대했는데.
 dlga_ragnarssons_14:close_window|나도 행운을 비오, 나는 당신이 돌아가는 것이 쉽지 않을까 걱정되오. 머시아의 앵글인은 당신을 보았고, 숲에 더 많은 병력을 데려왔소.
@@ -2726,7 +2726,7 @@ dlga_sigurd_quest_revenge62:sigurd_quest_revenge72|나는 네 거짓말을 참�
 dlga_sigurd_quest_revenge72:sigurd_quest_revenge82|{s4}^^나에게 충성하는 사람에게 속한 스카이파 근처의 농장이 있다. 거기로 가서, 스벤 불 넥과 네 어머니가 너를 만날 것이다. 보도가 있는 경우, 내 부하 스벤 불 넥 및 네 어머니를 교환할 것이다. 그러나 보도가 없는 경우 네 어머니는 네 눈앞에서 죽을 것이고, 네가 찾지 못하는 곳으로 스벤 불 넥을 보내버릴 것이다.
 dlga_sigurd_quest_revenge8:close_window|당신의 부하가 나를 따라와야 하오. 나는 보도에게 작별을 고하고 당신에게 줄 것이오.
 dlga_sigurd_quest_revenge82:sigurd_quest_revenge82_1|나는 스카이파 근처의 농장으로 가겠다, 그럼.
-dlga_sigurd_quest_revenge82_1:close_window|글쌔, 나는 아무것도 이야기하지 않았다고 생각하는데.
+dlga_sigurd_quest_revenge82_1:close_window|글쎄, 나는 아무것도 이야기하지 않았다고 생각하는데.
 dlga_lord_talk:sigurd_story1|나는 당신에 대해서 자세한 이야기를 듣고 싶소.
 dlga_sigurd_story1:lord_pretalk|내 이름은 시구르드, '눈 속의 뱀'이라고도 하지. 나는 아슬라우그와 라그나르 로드브록의 아들이다. 또한, 스젤란드, 스케네, 그리고 다른 여러 땅들의 주인이지. 그 외의 자세한 내용은 다른 사람들에게 물어 보도록, 그들은 내 명성을, 그리고 나에 대해 들어 잘 알고 있을 것이고, 나에 대해 너에게 말해 줄 수도 있겠지.
 dlga_lord_talk:kennemerjarl_story1|나는 당신에 대해 알고 싶소.
@@ -2767,10 +2767,10 @@ dlga_kennemerjarl_juicio_42:kennemerjarl_juicio_5|그럼, 우리의 거래는 �
 dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|어, 아니, 아직. 지금은 네가 네 가치, 전사로서의 가치를 증명하기 위해 다른 일을 해야 할 거야. 나에게 두통을 일으키는 원인인 프리지아인 반란군 시어더드를 없애버려, 나는 지금 그 놈을 손봐줄 시간이 없어.^나는 내 땅에서 네가 모집할 수 있는 권한을 부여할 것이고, 그와 마찬가지로 네가 프리지아 전역에서 병력을 모집할 수 있도록 왕에게 서신을 보내주도록 하지.
 dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|이건 내가 너에게 원하는 거야. 이 페닝을 받아서 15명을 모집해. 저렴하게 수도원에서 마을 아이들이나 난민을 모집해도 좋고. 그런 다음 여기 와서 어떻게 시어더드를 찾을 수 있는지 설명해 주도록 하지.
 dlga_kennemerjarl_juicio_6_final:lord_pretalk|--그는 자신의 코를 긁습니다.--^^좋아, 행운을 빌도록 하지. 넌 지금 할 일을 하도록 해.
-dlga_kennemerjarl_recruit_back1:kennemerjarl_juicio_6_new|글쌔, 너는 네가 다시 유용하다는 걸 입증했고, 내가 전에 언급한 바와 같이. 내 두통거리인 프리지아인 반란군 시어더드가 있다. 나는 그를 손봐줄 시간이 없어. 너는! 나는 위해 그것을 해야 할 거야.^^그리고 여기에 더 좋은 물건을 살 돈이다. 나는 내 부하가 초라한 물건을 쓰는 걸 생각조차 하기 싫군.
+dlga_kennemerjarl_recruit_back1:kennemerjarl_juicio_6_new|음, 너는 네가 유용하다는 걸 다시 입증했군. 내가 전에 언급한 바와 같이. 프리지아인 반란군 시어더드는 내 골칫거리지. 그러나 나는 그를 손봐줄 시간이 없어. 너! 바로 네가 나를 위해 그일을 해야 할 거야.^^그리고 여기, 더 좋은 물건을 살 돈이다. 나는 내 부하가 초라한 물건을 쓰는 걸 생각조차 하기 싫군.
 dlga_kennemerjarl_juicio_6_new:kennemerjarl_juicio_61|좋은 말씀입니다.
 dlga_kennemerjarl_juicio_6_new:kennemerjarl_juicio_61.1|나는 이 제안을 별로 좋아하지 않소.
-dlga_kennemerjarl_juicio_61:kennemerjarl_juicio_7|네가 그걸 좋아하든 좋아하지 않든, 솔직히 말하면 나는 별로 관심 없어. 너는 네 일을 하고, 나는 너에게 명령을 내릴 뿐이야.^나를 위해 이 작업을 수행하면, 스벤을 따라가 네 복수를 수행하는 일에 더 가까워지겠지. 이 돈을 가지고 두어스테드로 가라. 그가 어디 있을지 알고 있을 녀석이 있다. 그 녀석의 이름은 레인허드고, 나는 그놈이 매춘부와 다른 술주정뱅이와 선술집에서 찌들어 있다고 들었지.^그는 내 부하와 이야기하려 하지 않아. 하지만 어쩌면 너는 반란군이 숨어있는 곳을 발견하고 그를 죽일 수 있어, 시어더드는 반드시 죽어야 해!
+dlga_kennemerjarl_juicio_61:kennemerjarl_juicio_7|솔직히 말하면, 나는 네가 그 일을 좋아하는지 아닌지 별로 관심 없어. 너는 네 일을 하고, 나는 너에게 명령을 내릴 뿐이야.^나를 위해 이 작업을 수행하면, 스벤을 따라가 네 복수를 수행하는 일에 더 가까워지겠지. 이 돈을 가지고 두어스테드로 가라. 그가 어디 있을지 알고 있을 녀석이 있다. 그 녀석의 이름은 레인허드고, 듣기로는 그놈이 매춘부와 다른 술주정뱅이들과 선술집에서 찌들어 있다는군.^그는 내 부하와는 이야기하려 하지 않아. 하지만 어쩌면 너는 반란군이 숨어있는 곳을 발견하고 그를 죽일 수 있어, 시어더드는 반드시 죽어야 해!
 dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71|그걸 수행하도록 하죠. 안녕히.
 dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71.1|나는 이 임무를 좋아하지 않지만, 내 거래의 일부로서 받아들이겠소. 그럼 이만.
 dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|아직도 여기에 있나? 넌 임무가 있어! 난 너를 지켜볼 거다, {playername}!
@@ -6188,9 +6188,9 @@ dlga_goods_merchant_pretalk:goods_merchant_talk|다른 필요한 물건은 없�
 dlga_goods_merchant_talk:quest_pieles1|호그니, 리베의 항구 관리가 당신에게 이 가죽들을 배달하러 보냈소.
 dlga_quest_pieles1:goods_merchant_pretalk|드디어 도착했군! 나는 몇 주간 계속 이 물건들을 기다렸소. 고맙소, 하지만 팁을 기대하지는 마시오. 그 물건은 나에게 너무 지나치게 늦게 배달되었소.
 dlga_goods_merchant_talk:goods_reginhard_donations|어떤 남자가 당신과 만나서 이야기해보라고 했소, 그의 이름은 레인허드요.
-dlga_goods_reginhard_donations:goods_reginhard_donations2|저는 레인허드가 누구인지 잘 알고 있어요, 그러나 그건 별로 듣기 좋은 이름이 아니네요. 저는 그가 보내서 왔다고 하는 사람과 별로 이야기하고 싶은 생각이 없네요.
-dlga_goods_reginhard_donations2:goods_reginhard_donations3|기다리시오! 나는 이 도시의 미망인들과 고아들에게 기부금을 내러 왔소.
-dlga_goods_reginhard_donations3:goods_reginhard_donations4|{s2}^^어, 저는 레인허드가 그런 걸 낼 거라고는 기대하지 않고 있었어요. 당신의 기부금은 얼마죠? 우리는 100, 300, 600 페닝 중 하나를 선택할 수 있겠네요.
+dlga_goods_reginhard_donations:goods_reginhard_donations2|레인허드가 누구인지는 저도 잘 알고 있어요, 그러나 그건 별로 듣기 좋은 이름이 아니네요. 그가 보내서 왔다고 하는 사람과 별로 이야기하고 싶은 생각이 없네요.
+dlga_goods_reginhard_donations2:goods_reginhard_donations3|기다리시오! 나는 이 도시의 미망인들과 고아들에게 기부금을 내러 왔소. 레인허드의 이름으로 말이오.
+dlga_goods_reginhard_donations3:goods_reginhard_donations4|{s2}^^음.... 저는 레인허드가 그런 걸 낼 거라고는 기대하지 않고 있었어요.^당신의 기부금은 얼마죠?
 dlga_goods_reginhard_donations4:goods_reginhard_donations5|그 아이들에게는 좀 더 나은 미래를 선물할 가치가 충분하오. 600 페닝을 기부하도록 하겠소.
 dlga_goods_reginhard_donations4:goods_reginhard_donations5.1|내 생각에는 300 페닝이면 많은 가족들이 다음 겨울까지 버틸 수 있을 것이라고 생각하오.
 dlga_goods_reginhard_donations4:goods_reginhard_donations5.2|나는 100 페닝을 기부하겠소.
