@@ -2746,7 +2746,7 @@ dlga_kennemerjarl_6:kennemerjarl_71|내 팔은 내 병력이고, 내 용기가 �
 dlga_kennemerjarl_6:kennemerjarl_72|사실, 난 모든 것을 잃었지만, 나는 내 복수를 달성할 수 있을만한 용기는 부족하지 않다고 생각하오.
 dlga_kennemerjarl_6:kennemerjarl_73|난 단지 한 사람이오, {reg59?부인:경}, 하지만 나는 당신에게 영원한 충성을 맹세하겠소.
 dlga_kennemerjarl_71:kennemerjarl_8|좋아, 그럼, 네놈 마음대로 해라. 나는 그를 잡으러 갈 것이다, 한, 10년쯤 뒤에? 나는 그런 일에 신경쓸 여유가 없을 정도로 아주 바쁘지.
-dlga_kennemerjarl_72:kennemerjarl_8|좋아, 네놈의 복수에 대한 열망을 잘 알았다. 하지만, 네놈을 도와줄 수는 없어. 나는 지금 당장 싸울 준비가 될 선박과 병력이 없지. 너무 실망하지는 마라, 어차피 네놈같이 스벤에게 당한 놈들은 여기에 널렸어.
+dlga_kennemerjarl_72:kennemerjarl_8|좋아, 네놈의 복수에 대한 열망을 잘 알았다. 하지만, 네놈을 도와줄 수는 없어. 나에겐 지금 당장 싸울 준비가 된 선박과 병력이 없다. 너무 실망하지는 마라, 어차피 네놈같이 스벤에게 당한 놈들은 널렸어.
 dlga_kennemerjarl_73:kennemerjarl_8|네놈의 충성에는 관심이 없...  네놈은 무슨 말을 하고 있는 거지? 네놈은 꽤나 머리가 잘 돌아가는 {reg59?여자:남자}로군. 왜, 스벤을 찾아다니는 것보다 독싱가에서 {reg59?좋은 남자를 만나 결혼:자리를 잡고 정착}하는 것이 네놈의 인생에는 더 도움이 될 텐데?
 dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 dlga_kennemerjarl_8:kennemerjarl_92|당신이 나와 같은 상황에 처할 경우, 당신은 이런 상황에서 당신 또한 나와 같은 선택을 하지 않겠소?
@@ -3660,7 +3660,7 @@ dlga_lord_mission_rescue_prisoner_planning_end:close_window|하늘이 당신을 
 dlga_lord_mission_rescue_prisoner_method_prisonbreak:lord_mission_rescue_prisoner_method_prisonbreak_2|나는 이 방법을 부하 몇 명과 의논을 해보았소. 변장을 하든 드러내어 놓든, {s24}에 들어간 다음 감옥을 지키는 간수에게 걸어가 강제로 열쇠를 빼앗는 것을 시도할 수는 있소. 그러나, 당신이 그 이후 빠져나오는것은 아마 쉬운 일이 아닐 것이오. 수비대는 늦게 반응할 것이오, 그렇기는 하지만, 당신은 작전을 수행하면서 좁은 공간에서 한번에 6명이나 혹은 많은 적들과 싸우고 있는 상황에 처하게 될 것이오. 만약 당신이 그들을 물리치고 퇴로를 찾아 낼 수 있다면, 그룰 구하는 것은 성공한 것이나 다름없소.
 dlga_lord_mission_rescue_prisoner_method_prisonbreak_2:lord_mission_rescue_other_ideas|당신은 몇몇 수비대의 관심을 끌어 혼란스럽게 만들 유용한 방법을 찾을 수도 있을 것이오. 당신이 만약 {s24}의 근처 마을에 어떤 연줄이 있다면, 아마도 그들이 시간을 낭비할 수 있게 할 수도 있소.
 dlga_lord_mission_rescue_prisoner_method_siege:lord_mission_rescue_other_ideas|흠, 그것은 확실히 가장 직접적인 방법이오.
-dlga_lord_tell_mission:lord_mission_deliver_message|나는 편지를 {s4}에 있는 {s13}에게 보낼 것이오. 당신이 이 편지를 그에게 전해주면 될 것이오. 이 편지는 30일 안에 그의 손 안에 들어가야 하오.
+dlga_lord_tell_mission:lord_mission_deliver_message|나는 {s4}에 있는 {s13}에게 편지를 보낼 것이오. 당신이 이 편지를 그에게 전해주면 될 것이오. 이 편지는 40일 안에 그의 손 안에 들어가야 하오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_accepted|나는 {s4}에게 갈 것이오. 편지는 아무 문제 없이 도착할 수 있을 것이오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected|나는 내가 {s13}을(를) 금방 볼 수 있을지 의심스럽소, {s65}. 당신은 다른 사람에게 편지를 보내게 맡기는 것이 최선일 것이오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected_rudely|나는 잔심부름꾼이 아니오. 당신의 심부름은 단지 시시한 일일 뿐이오.
@@ -4780,7 +4780,7 @@ dlga_bodo_prisoner_sl:close_window|일단 여기서 나를 내보내준 뒤에, 
 dlga_bodo_prisoner_s2:close_window|우리는 여기서는 이야기할 수가 없소, 저들이 듣고 있잖소. 일단 여기서 나를 내보내주시오, 그 다음에 당신에게 아는 걸 다 이야기하겠소.
 dlga_start:close_window.91|당신은 우리에게 페닝을 받을 수 없을 것이오!
 dlga_start:bodo_merchant_1|좋은 날이오, {playername}. 당신 기분이 좋아보여서 나도 기분이 좋소. 당신이 자면서 잠꼬대를 하는 것을 들었는데, 악몽이라도 꾸는 것 같더군. 나는 당신이 그런 사소한 악몽으로 고민하는 것을 별로 좋지 않게 생각하오.
-dlga_bodo_merchant_1:bodo_merchant_2|난 괜찮고, 당신이 나에 대해 걱정해줘서 고맙소.
+dlga_bodo_merchant_1:bodo_merchant_2|난 괜찮소, 걱정해줘서 고맙소.
 dlga_bodo_merchant_1:bodo_merchant_22|{s10}
 dlga_bodo_merchant_1:bodo_merchant_21|글쌔, 내 문제는 내 문제요, 당신이 별로 상관할만한 일은 아닌 것 같소.
 dlga_bodo_merchant_2:bodo_merchant_3|아무것도 아니오. 나는 내 친구가 그런 문제로 고민하는 것을 보고 싶지 않았을 뿐이오, 친구여.
@@ -4843,7 +4843,7 @@ dlga_frisianship_merchant_11:close_window|내가 확신하오, {reg59?부인:경
 dlga_start:frisianship_mer_1|오, 이런, 우리에게 문제가 생겼소!
 dlga_start:close_window.96|미안하오, {reg59?부인:경}. 지금은 늦은 시간이고, 나는 집에 들어가봐야만 하오. 나에게 볼 일이 있다면 내일 다시 와 주시오.
 dlga_frisianship_mer_1:frisianship_mer_2|무슨 일이오?
-dlga_frisianship_mer_2:frisianship_mer_3|오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움을 보는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 지금 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 스벤 불 넥의 깃발이오! 아, 젠장! 우리들은 신들에게 기도라도 할 수 밖에 없고, 뿐만 아니라 지옥에 가지 않도록 빌어야 할 것이오. 그들은 습격해서 포로를 잡지 않고 모두 죽여버리니까.
+dlga_frisianship_mer_2:frisianship_mer_3|오, 오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움 연습에 한눈을 파는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 스벤 불 넥의 깃발이오! 이런, 젠장! 이제 우리들이 할 수 있는 거라곤 신들에게 지옥에 가지 않도록 비는것 뿐이오. 그들은 포로를 잡지 않고 모두 죽여버리니까.
 dlga_frisianship_mer_3:frisianship_mer_4c|내가 이럴 줄 알았소, 우리는 정박하지 않고 도망가야 했소!
 dlga_frisianship_mer_3:frisianship_mer_4b|진정하시오, 선장! 대체 스벤이 누구요?
 dlga_frisianship_mer_3:frisianship_mer_4c.1|그것 참 끔찍한 소식이로군! 우리는 무엇을 해야 하오?
@@ -5800,7 +5800,7 @@ dlga_start:village_elder_talk_p|{playername}, 우리는 이 포로의 심문을 
 dlga_start:close_window.113|운명은 냉혹하다!
 dlga_start:doccinga_thonkrikca|{playername}, 당신이 여기에 왔군! 당신을 여기에 보낸 우리의 하나님께 감사드리겠소! 이런, 스벤 불 넥의 바이킹 롱 보트들이 오고 있소! 그들이 우리 모두 죽이려고 하고 있소!
 dlga_start:close_window.114|미안하오, {reg59?부인:경}. 밤이 깊었으니, 나는 집에 가봐야 하오. 그럼 다음에 보도록 하세.
-dlga_start:village_elder_thonkrik1|{s9}에 온 것을 환영하... 오, 잠깐! 당신은 우리가 해변에서 발견했던 그 {reg59?여자:남자}가 아니오! 확실히 당신을 보게 되어 반갑소! 나는 당신이 살아서 여기 올 거라고는 생각지도 않았소, 그 치유사는 그의 아버지의 유산이 가치있음을 증명했소, 그의 영혼이 신의 품에서 지금 모습을 보고 편히 쉬기를!
+dlga_start:village_elder_thonkrik1|{s9}에 온 것을 환영하... 오, 맙소사! 당신은 우리가 해변에서 발견했던 그 {reg59?여자:남자}가 아니오! 당신을 보게 되어 정말 반갑소! 나는 당신이 살아서 여기 올 거라고는 생각지도 않았소, 그 치유사는 아버지의 유산이 가치있음을 증명했구려, 그의 영혼이 신의 품에서 지금 모습을 보고 편히 쉬기를!
 dlga_village_elder_thonkrik1:village_elder_thonkrik2a|당신이 손크릭이오? 내 이름은 {playername}(이)라고 하오, 당신과 독싱가에게 빚을 졌군.
 dlga_village_elder_thonkrik1:village_elder_thonkrik2b|독싱가의 손크릭이오? 내 이름은 {playername}(이)라고 하오, 나는 당신에게 몇 가지 질문이 있소.
 dlga_village_elder_thonkrik2a:village_elder_thonkrik3|아무것도 아니오, 너무 마음에 두지 마시오, 내 친구! 바다에서 조난당한 사람을 구하는 것은 모든 어부의 의무라오.^우리가 당신을 발견했을 때 당신은 의식이 없었고, 단지 판자 조각 하나에 의지해 버티고 있었지. 다행스럽게도, 당신은 해변에서 멀지 않은 곳에 있었소.
@@ -6154,20 +6154,20 @@ dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_missio
 dlga_village_elder_tell_capture_slave_mission:village_elder_capture_slave_mission_reject.1|미안하오만, 지금은 시간이 없소.
 dlga_village_elder_capture_slave_mission_accept:close_window|그래주겠소? 오, 완벽하오! 고맙소, {reg59?부인:경}. 그는 분명 마을 주변에 숨어있을 거요.
 dlga_village_elder_capture_slave_mission_reject:close_window|물론이오, {reg59?부인:경}. 흠, 이 일에 맞는 다른 이를 찾아보겠소.
-dlga_start:capture_slave_pretalk_1|안녕하시오, 여행자여.
+dlga_start:capture_slave_pretalk_1|안녕하십니까, 여행자여.
 dlga_capture_slave_pretalk_1:capture_slave_pretalk_2|반갑소. 이 외진 곳 한복판에서 무엇을 하고 계시오?
-dlga_capture_slave_pretalk_2:capture_slave_talk|난 근처 마을에서 도망쳐왔소. 지금은 이곳에 숨어 다음은 어떻게 할지 고민 중이오.
-dlga_capture_slave_pretalk_x:capture_slave_talk|다른 알고 싶은 게 있소?
+dlga_capture_slave_pretalk_2:capture_slave_talk|난 근처 마을에서 도망쳤습니다. 지금은 이곳에 숨어 앞으로 어떻게 할지 고민 중입니다.
+dlga_capture_slave_pretalk_x:capture_slave_talk|다른 알고 싶은 게 있습니까?
 dlga_capture_slave_talk:capture_slave_ask_why|왜 도망쳐왔소?
-dlga_capture_slave_ask_why:capture_slave_pretalk_x|나의 주인이 나를 학대해왔소. 더는 참을 수 없어서 뛰쳐나왔소.
+dlga_capture_slave_ask_why:capture_slave_pretalk_x|나의 주인이 나를 학대했습니다. 더는 참을 수 없어서 뛰쳐나왔습니다.
 dlga_capture_slave_talk:capture_slave_talk_2|난 당신을 주인에게 데려가기 위해 여기 왔소.
-dlga_capture_slave_talk_2:capture_slave_talk_3|부탁드리오, {reg59?부인:경}. 거기로 돌아가면 난 죽을거요.
+dlga_capture_slave_talk_2:capture_slave_talk_3|부탁드립니다, {reg59?부인:경}. 거기로 돌아가면 난 죽을겁니다.
 dlga_capture_slave_talk_3:close_window|당신의 운명에 대해선 관심 없소. 따라오시오!
 dlga_capture_slave_talk_3:capture_slave_kill|어차피 죽을 운명이라면, 이 자리에서 죽여주겠소.
-dlga_capture_slave_kill:close_window|그렇게 나온다면, 나 자신을 보호하 할 수밖에.
+dlga_capture_slave_kill:close_window|그렇게 나온다면, 나 자신을 보호할 수밖에.
 dlga_capture_slave_talk_3:capture_slave_talk_4|내 부대에 합류하면, 주인에게 안 돌아가도 되오.
 dlga_capture_slave_talk_3:capture_slave_talk_4.1|그럼, 지금 당장 떠나시오. 당신을 못 본척해주겠소.
-dlga_capture_slave_talk_4:close_window|정말 고맙소, {reg59?부인:경}!
+dlga_capture_slave_talk_4:close_window|정말 고맙습니다, {reg59?부인:경}!
 dlga_village_elder_tell_mission:village_elder_tell_train_peasants_against_bandits_mission|우리는 한 무리의 도적들의 손에 고통받고 있소. 그들은 우리의 식량과 소들을 가져가고, 그들에게 순종하지 않는 자들을 모두 죽이고 있소. 우리 마을의 주민들은 우리가 우리 스스로를 지킬 수 있는 힘이 없다는 사실에 분노하고 있소, 하지만 우리는 그저 농부들일 뿐이오. 그러나 당신이 약간의 도움을 줄 수 있을 것이오, 내가 생각하기에 이 곳의 주민들 중 일부는 좀 더 강해질 수 있을 거라고 생각하오. 우리는 싸움을 하는 법에 대해 가르쳐줄 경험 많은 전사를 필요로 하고 있소.
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_accept|나는 당신들에게 스스로를 지킬 수 있는 법에 대해 가르쳐주겠소.
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_reject|당신 같은 농부들은 무기를 들 필요가 없소, 그냥 도적들에게 그들이 원하는 것들을 쥐어주고, 그걸로 만족하시오.
