@@ -290,18 +290,18 @@ trp_irish_prison_guard|감옥 간수
 trp_irish_prison_guard_pl|감옥 간수
 trp_irish_castle_guard|요새 경비병
 trp_irish_castle_guard_pl|요새 경비병
-trp_looter|약탈자
-trp_looter_pl|약탈자
-trp_bandit|노상강도
-trp_bandit_pl|노상강도
-trp_brigand|산적
-trp_brigand_pl|산적
-trp_mountain_bandit|강도
-trp_mountain_bandit_pl|강도
-trp_forest_bandit|도적
-trp_forest_bandit_pl|도적
-trp_sea_raider|약탈자
-trp_sea_raider_pl|약탈자
+trp_looter|도둑
+trp_looter_pl|도둑
+trp_bandit|강도
+trp_bandit_pl|강도
+trp_brigand|도적
+trp_brigand_pl|도적
+trp_mountain_bandit|산적
+trp_mountain_bandit_pl|산적
+trp_forest_bandit|숲 도적
+trp_forest_bandit_pl|숲 도적
+trp_sea_raider|습격자
+trp_sea_raider_pl|습격자
 trp_desert_bandit|무법자
 trp_desert_bandit_pl|무법자
 trp_steppe_bandit|노르만 바이킹
