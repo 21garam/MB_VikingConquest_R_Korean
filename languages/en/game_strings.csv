@@ -1874,32 +1874,32 @@ str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|불안정: {reg0
 str_reg1shehe_is_prisoner_of_s1|{reg1?그녀:그}는 {s1}의 포로입니다.
 str_s39_rival|{s39} (라이벌)
 str_s41_s39_rival|{s41}, {s39} (라이벌)
-str_reputation_cheat_mode_only_martial_|Reputation (cheat mode only): Martial^
-str_reputation_cheat_mode_only_debauched_|Reputation (cheat mode only): Debauched^
-str_reputation_cheat_mode_only_pitiless_|Reputation (cheat mode only): Pitiless^
-str_reputation_cheat_mode_only_calculating_|Reputation (cheat mode only): Calculating^
-str_reputation_cheat_mode_only_quarrelsome_|Reputation (cheat mode only): Quarrelsome^
-str_reputation_cheat_mode_only_goodnatured_|Reputation (cheat mode only): Good-natured^
-str_reputation_cheat_mode_only_upstanding_|Reputation (cheat mode only): Upstanding^
-str_reputation_cheat_mode_only_conventional_|Reputation (cheat mode only): Conventional^
-str_reputation_cheat_mode_only_adventurous_|Reputation (cheat mode only): Adventurous^
-str_reputation_cheat_mode_only_romantic_|Reputation (cheat mode only): Romantic^
-str_reputation_cheat_mode_only_moralist_|Reputation (cheat mode only): Moralist^
-str_reputation_cheat_mode_only_ambitious_|Reputation (cheat mode only): Ambitious^
-str_reputation_cheat_mode_only_reg11_|Reputation (cheat mode only): {reg11}^
-str_reputation_only_martial_|As far as you know, his personality seems to be Martial^
-str_reputation_only_debauched_|As far as you know, his personality seems to be Debauched^
-str_reputation_only_pitiless_|As far as you know, his personality seems to be Pitiless^
-str_reputation_only_calculating_|As far as you know, his personality seems to be Calculating^
-str_reputation_only_quarrelsome_|As far as you know, his personality seems to be Quarrelsome^
-str_reputation_only_goodnatured_|As far as you know, his personality seems to be Good-natured^
-str_reputation_only_upstanding_|As far as you know, his personality seems to be Upstanding^
-str_reputation_only_conventional_|As far as you know, his personality seems to be Conventional^
-str_reputation_only_adventurous_|As far as you know, his personality seems to be Adventurous^
-str_reputation_only_romantic_|As far as you know, his personality seems to be Romantic^
-str_reputation_only_moralist_|As far as you know, his personality seems to be Moralist^
-str_reputation_only_ambitious_|As far as you know, his personality seems to be Ambitious^
-str_reputation_only_reg11_|Reputation (cheat mode only): {reg11}^
+str_reputation_cheat_mode_only_martial_|평판 (cheat mode only): 호전적^
+str_reputation_cheat_mode_only_debauched_|평판 (cheat mode only): 방탕함^
+str_reputation_cheat_mode_only_pitiless_|평판 (cheat mode only): 무자비함^
+str_reputation_cheat_mode_only_calculating_|평판 (cheat mode only): 계산적^
+str_reputation_cheat_mode_only_quarrelsome_|평판 (cheat mode only): 싸움꾼^
+str_reputation_cheat_mode_only_goodnatured_|평판 (cheat mode only): 온화함^
+str_reputation_cheat_mode_only_upstanding_|평판 (cheat mode only): 강직함^
+str_reputation_cheat_mode_only_conventional_|평판 (cheat mode only): 관습적^
+str_reputation_cheat_mode_only_adventurous_|평판 (cheat mode only): 모험적^
+str_reputation_cheat_mode_only_romantic_|평판 (cheat mode only): 낭만적^
+str_reputation_cheat_mode_only_moralist_|평판 (cheat mode only): 도덕적^
+str_reputation_cheat_mode_only_ambitious_|평판 (cheat mode only): 야심찬^
+str_reputation_cheat_mode_only_reg11_|평판 (cheat mode only): {reg11}^
+str_reputation_only_martial_|당신이 보기에, 그의 성향은 호전적 입니다.^
+str_reputation_only_debauched_|당신이 보기에, 그의 성향은 방탕합니다.^
+str_reputation_only_pitiless_|당신이 보기에, 그의 성향은 무자비합니다.^
+str_reputation_only_calculating_|당신이 보기에, 그의 성향은 계산적 입니다.^
+str_reputation_only_quarrelsome_|당신이 보기에, 그의 성향은 싸움꾼 입니다.^
+str_reputation_only_goodnatured_|당신이 보기에, 그의 성향은 온화합니다.^
+str_reputation_only_upstanding_|당신이 보기에, 그의 성향은 강직합니다.^
+str_reputation_only_conventional_|당신이 보기에, 그의 성향은 관습적 입니다.^
+str_reputation_only_adventurous_|당신이 보기에, 그의 성향은 모험성이 강합니다.^
+str_reputation_only_romantic_|당신이 보기에, 그의 성향은 낭만적 입니다.^
+str_reputation_only_moralist_|당신이 보기에, 그의 성향은 도적적 입니다.^
+str_reputation_only_ambitious_|당신이 보기에, 그의 성향은 야망가 입니다.^
+str_reputation_only_reg11_|평판 (cheat mode only): {reg11}^
 str_love_interest|애정 상대
 str_betrothed|약혼한다
 str_other_relations_s40_|그 외 인간관계: {s40}^
