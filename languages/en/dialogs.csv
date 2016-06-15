@@ -3578,7 +3578,7 @@ dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2|감사하오, 옛 �
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2.1|감사하오. 당신에 대한 의무에서 {reg59?자유로워진 사람이:자유로워진 남자가} 되어서 기분이 좋군.
 dlga_lord_ask_leave_service_end_2:close_window|그럼 잘 가게, {playername}. 그리고 자네에게 행운이 있기를 빌겠네.
 dlga_lord_active_mission_1:lord_lend_companion_end|오, 당신은 당신의 동료를 다시 데리러 왔소? 알겠소.
-dlga_lord_active_mission_1:lord_pretalk|{playername}, 양해하기를 바라오, 나는 아직 당신의 동료가 필요한 상황이오. 당신의 동료를 돌려받는 일은 좀 더 기다려 주었으면 하오.
+dlga_lord_active_mission_1:lord_pretalk|{playername}, 이해해주시오, 나는 아직 당신의 동료가 필요한 상황이오. 당신의 동료를 돌려받는 일은 좀 더 기다려 주었으면 하오.
 dlga_lord_active_mission_1:lord_active_mission_2|알겠소, 당신에게 맡긴 일은 어떻게 되어가고 있소?
 dlga_lord_active_mission_2:lord_generic_mission_thank|잘 되었소. 나는 당신을 위해 {reg1}명의 {s1}을(를) 포로로 잡아 데려왔소.
 dlga_lord_active_mission_2:capture_enemy_hero_thank|음, 잘 되었소. 나는 당신을 위해 {s13}을(를) 포로로 잡아 데려왔소.
@@ -3660,7 +3660,7 @@ dlga_lord_mission_rescue_prisoner_planning_end:close_window|하늘이 당신을 
 dlga_lord_mission_rescue_prisoner_method_prisonbreak:lord_mission_rescue_prisoner_method_prisonbreak_2|나는 이 방법을 부하 몇 명과 의논을 해보았소. 변장을 하든 드러내어 놓든, {s24}에 들어간 다음 감옥을 지키는 간수에게 걸어가 강제로 열쇠를 빼앗는 것을 시도할 수는 있소. 그러나, 당신이 그 이후 빠져나오는것은 아마 쉬운 일이 아닐 것이오. 수비대는 늦게 반응할 것이오, 그렇기는 하지만, 당신은 작전을 수행하면서 좁은 공간에서 한번에 6명이나 혹은 많은 적들과 싸우고 있는 상황에 처하게 될 것이오. 만약 당신이 그들을 물리치고 퇴로를 찾아 낼 수 있다면, 그룰 구하는 것은 성공한 것이나 다름없소.
 dlga_lord_mission_rescue_prisoner_method_prisonbreak_2:lord_mission_rescue_other_ideas|당신은 몇몇 수비대의 관심을 끌어 혼란스럽게 만들 유용한 방법을 찾을 수도 있을 것이오. 당신이 만약 {s24}의 근처 마을에 어떤 연줄이 있다면, 아마도 그들이 시간을 낭비할 수 있게 할 수도 있소.
 dlga_lord_mission_rescue_prisoner_method_siege:lord_mission_rescue_other_ideas|흠, 그것은 확실히 가장 직접적인 방법이오.
-dlga_lord_tell_mission:lord_mission_deliver_message|나는 {s4}에 있는 {s13}에게 편지를 보낼 것이오. 당신이 이 편지를 그에게 전해주면 될 것이오. 이 편지는 40일 안에 그의 손 안에 들어가야 하오.
+dlga_lord_tell_mission:lord_mission_deliver_message|나는 {s4}에 있는 {s13}에게 편지를 보낼 것이오. 당신이 이 편지를 그에게 전해주면 될 것이오. 이 편지는 70일 안에 그의 손 안에 들어가야 하오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_accepted|나는 {s4}에게 갈 것이오. 편지는 아무 문제 없이 도착할 수 있을 것이오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected|나는 내가 {s13}을(를) 금방 볼 수 있을지 의심스럽소, {s65}. 당신은 다른 사람에게 편지를 보내게 맡기는 것이 최선일 것이오.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected_rudely|나는 잔심부름꾼이 아니오. 당신의 심부름은 단지 시시한 일일 뿐이오.

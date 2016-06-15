@@ -1041,7 +1041,7 @@ qstr_{s15}_^_{s16}|{s15} ^ {s16}
 qstr_{s22}^^Friends:_^{s8|{s22}^^아군: ^{s8} ^^적군: ^{s6}^{s19}
 qstr_^^Your_estates_are:_|^^당신의 재산은: ^{s18}^{s19}
 qstr_Report:_^^_{s19}|보고서: ^^ {s19}
-qstr_On_loan|대출금,
+qstr_On_loan|다른 영주에게 빌려줌.
 qstr_is_{s16}_for_your_ch|{s16}은(는) 당신의 동료 선택에 따른 것이며, {s17}은(는) 당신의 지휘 방식에 따른 것이며, {s18}은(는) 일반적인 사건에 따른 것입니다. 최종 사기: {reg0}
 qstr_Companions_Info:^^_{|동료 정보:^^ {s19} ^^-----------^^ 현재:^^ {s7}{s1}
 qstr_Loyal|충성스러운
