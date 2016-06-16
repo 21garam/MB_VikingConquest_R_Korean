@@ -2267,16 +2267,15 @@ dlga_briton_action:regular_member_talk|하늘에 계신 우리 아버지여, 이
 dlga_regular_member_talk:anglo1_action|사제, 내 부하들이 오딘을 필요로 하오. 나는 이 문제에 대해 200 페닝을 기부하며 당신의 도움을 바랍니다.
 dlga_anglo1_action:regular_member_talk|고맙소, 오딘의 전사여. 나는 오딘과 그의 아들들에 대해 이야기할 것이오 웩타, 발데그, 케세르와 위트레그에 대해서 말이오. 그들이 당신 곁에서 자랑스럽게 싸울 수 있도록, 발할라에 당신의 자리를 공고히할 수 있도록.
 dlga_regular_member_talk:porta_presentacion|이봐, 당신은 전투에서 무엇을 할 수 있는가?
-dlga_porta_presentacion:regular_member_talk|나요? -그는 다가와 당신의 귀에 속삭였다-. 우리는 매우 유용합니다. 나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되면 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
-dlga_porta_presentacion:regular_member_talk.1|나요? -그는 다가와 당신의 귀에 속삭였다-. 나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되면 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
+dlga_porta_presentacion:regular_member_talk|저를 불렀습니까?^-그는 다가와 당신의 귀에 속삭였다.-^우리는 매우 유용합니다. 나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되었을 때 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
+dlga_porta_presentacion:regular_member_talk.1|저를 불렀습니까?^-그는 다가와 당신의 귀에 속삭였다.-^나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되었을 때 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
 dlga_regular_member_talk:porta1_presentacion|이봐, 당신은 내 부하를 위해 무엇을 할 수 있는가?
-dlga_porta1_presentacion:regular_member_talk|나요? 나는 당신에게 중요한 존재일 것입니다. 나는 당신 병력 중 한명의 아내입니다. 만약 당신의 부대에 아내가 30명 이상 있을 경우, 당신의 부하들은 사기를 얻을 것입니다 (48시간마다)
 dlga_regular_member_talk:follower_woman_action|나는 내 부하들의 사기를 높이기 위해 당신이 필요하오. 당신의 노력에 대해 450 페닝을 지불하겠소.
 dlga_follower_woman_action:regular_member_talk|부하? 오... 네, 그건 중요하죠.
 dlga_start:sacerdotes_party_talk|나의 {reg59?부인:경}, 우리 가난한 성직자들은 이 땅의 사람들에게 약간의 빛을 주려 노력하고 있습니다.
 dlga_sacerdotes_party_talk:close_window|기독교 성직자라, 어? 이제 네놈의 창조주와 네놈을 재결합시킬 시간이다!
 dlga_sacerdotes_party_talk:sacerdote_pary_action|파테르, 나는 죽은 내 부하의 가족을 위해 200 페닝을 기부하겠소.
-dlga_sacerdote_pary_action:sacerdotes_party_talk|하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며 나라가 임하시오며 뜻이 하늘에서 이루어진 것 같이 땅에서도 이루어지이다. 오늘 우리에게 일용할 양식을 주시옵고^^ 우리가 우리에게 죄 지은 자를 사하여준 것 같이 우리 죄를 사하여주시옵고 우리를 시험에 들게 하지 마시옵고 다만 악에서 구하시옵소서. ^^나라와 권세와 영광이 아버지께 영원히 있사옵나이다, 아멘.^^ 이 것으로 당신의 부하들은 만족할 것이오.
+dlga_sacerdote_pary_action:sacerdotes_party_talk|하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며 나라에 임하시오며 뜻이 하늘에서 이루어진 것 같이 땅에서도 이루어지이다. 오늘 우리에게 일용할 양식을 주시옵고^^ 우리가 우리에게 죄 지은 자를 사하여준 것 같이 우리 죄를 사하여주시옵고 우리를 시험에 들게 하지 마시옵고 다만 악에서 구하시옵소서. ^^나라와 권세와 영광이 아버지께 영원히 있사옵나이다.^ 아멘.^^ 이 것으로 당신의 부하들은 만족할 것이오.
 dlga_sacerdotes_party_talk:sacerdotes_party_talkle|그리고 나는 가난한 영웅이고 중요한 임무를 수행 중이오. 안녕히.
 dlga_sacerdotes_party_talkle:close_window|감사합니다. 그럼 안녕히.
 dlga_start:paganos_party_talk|우리의 신은 오딘입니다! 그 분은 우리의 길을 안내합니다. 전사여, 당신은 무엇이 필요합니까?
@@ -5602,7 +5601,7 @@ dlga_mayor_investment_possible:mayor_pretalk.2|글쌔, 솔직하게 말하겠소
 dlga_mayor_investment_possible:mayor_investment_advice.2|좋은 제안이오, {reg59?부인:경}. 우리와 이 도시의 사람들은 당신을 신용할 수 있는 사람이라는 것을 잘 알고 있소, 그리고 나는 당신이 필요로 하는 토지를 판매할 만한 사람을 찾을 수 있을 거라고 생각하오. .
 dlga_mayor_investment_advice:investment_choose_enterprise|당신이 명심해야 할 몇 가지 이야기가 있소, 능력 있는 장인은 항상 부족하오, 그래서 나는 당신이 이 곳에 한 개 이상의 농장을 마련하지는 못할 것이라고 생각하고 있소. 그리고 당신의 이익을 내기 위해서는 비교적 근처에 판매처가 존재하고, 주변에서 원자재를 싸게 구매할 수 있는 생산품을 만드는 농장을 짓는 것이 좋을 것이오. 당신은 어떤 종류의 농장을 만들길 원하시오?
 dlga_investment_choose_enterprise:investment_summary|나는 풍차와 제분소를 원하오, 그곳에서는 밀로 빵을 만들 수 있지.
-dlga_investment_choose_enterprise:investment_summary.1|나는 에일 양조장을 원하오, 그곳에서는 밀로 에일 맥주를 만들 수 있지.
+dlga_investment_choose_enterprise:investment_summary.1|나는 에일 양조장을 원하오, 그곳에서는 보리로 에일 맥주를 만들 수 있지.
 dlga_investment_choose_enterprise:investment_summary.2|나는 주조소를 원하오, 그곳에서는 철로 연장을 만들 수 있지.
 dlga_investment_choose_enterprise:investment_summary.3|나는 모직물 직조장을 원하오, 그곳에서는 양모로 옷감을 만들 수 있지.
 dlga_investment_choose_enterprise:investment_summary.4|나는 마직물 직조장을 원하오, 그곳에서는 아마로 리넨을 만들 수 있지.
