@@ -2270,6 +2270,7 @@ dlga_regular_member_talk:porta_presentacion|이봐, 당신은 전투에서 무�
 dlga_porta_presentacion:regular_member_talk|저를 불렀습니까?^-그는 다가와 당신의 귀에 속삭였다.-^우리는 매우 유용합니다. 나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되었을 때 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
 dlga_porta_presentacion:regular_member_talk.1|저를 불렀습니까?^-그는 다가와 당신의 귀에 속삭였다.-^나는 당신에게 중요한 존재일 것입니다. 당신의 부하들이 전투에서 나를 볼 때 그들은 용기를 얻게 될 것이며, 일이 잘못되었을 때 두려움에 빠지기 전에 그들은 끝까지 싸울 것입니다.
 dlga_regular_member_talk:porta1_presentacion|이봐, 당신은 내 부하를 위해 무엇을 할 수 있는가?
+dlga_porta1_presentacion:regular_member_talk|저요? 나는 당신에게 중요한 존재일 것입니다. 나는 당신의 병사 중 한명의 아내입니다. 만약 당신의 부대에 30명 이상의 여자가 있다면, 당신의 부하들은 사기를 얻을 것입니다.^(48시간마다 사기 상승)
 dlga_regular_member_talk:follower_woman_action|나는 내 부하들의 사기를 높이기 위해 당신이 필요하오. 당신의 노력에 대해 450 페닝을 지불하겠소.
 dlga_follower_woman_action:regular_member_talk|부하? 오... 네, 그건 중요하죠.
 dlga_start:sacerdotes_party_talk|나의 {reg59?부인:경}, 우리 가난한 성직자들은 이 땅의 사람들에게 약간의 빛을 주려 노력하고 있습니다.
