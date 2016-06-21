@@ -2316,7 +2316,7 @@ dlga_lord_start:close_window.1|당신이 나를 괴롭히던 그 지긋지긋한
 dlga_lord_start:close_window.2|오, 자네군. 비천하고 지긋지긋한 상인을 어떻게 처리했소? 사실, 만약 내게 필요한 호위병이 있었다면 바로 당신이오, {playername}, 근데 일단 지금은 떠나주시오. 난 따로 할 일이 있소.
 dlga_lord_start:lord_kill_local_merchant_let_go|이보시오! 당신 눈이 멀었소? 내가 그 상인을 죽이라고 했을 때, 대화나 하라고 보내주라는 줄 알았소?! 당신, 미쳤소?
 dlga_lord_kill_local_merchant_let_go:lord_kill_local_merchant_let_go_2|그가 더 이상 당신을 적대하지 않을 것이라고 했소.
-dlga_lord_kill_local_merchant_let_go_2:lord_pretalk|헛소리하지 마시오. 자네는 그를 제거했어야 했소, 설교나 해서 쫒아버릴 일이 아니었단 말이오. 약속한 돈의 반이오. 잔소리 마시오, {playername}, 고마운 줄이나 아시오. 난 명령을 따르지 않는 사람은 잘 쓰지 않소.
+dlga_lord_kill_local_merchant_let_go_2:lord_pretalk|헛소리하지 마시오. 당신은 그를 제거했어야 했소, 설교나 해서 좇아버릴 일이 아니었단 말이오. 약속한 돈의 반이오. 불평하지 마시오, {playername}, 고마운 줄이나 아시오. 난 명령을 따르지 않는 사람은 잘 쓰지 않소.
 dlga_lord_start:lord_follow_spy_completed|잘했소, {playername}! 당신은 밀정과 공모자를 잡았소, 내가 바라던 대로, 둘은 내 손 안에 있다오. 이제 심문하기만 하면 될거요. 오늘 밤은 고문하느라 바쁘겠군! 어쨌든 성공한 것에 감사하오, {playername}, 그리고 감사의 표시로 이것을 주겠소.
 dlga_lord_start:lord_follow_spy_half_completed|이런 멍청한! {playername}, 난 두 명의 포로를 원했다오. -- 당신이 데려온 자들만으로는 아무런 쓸모도 없소! 나는 이미 그가 아는 모든 것을 알고 있소, 내가 충분히 나중에라도 처리할 수 있는 부분이었단 말이오. 여기 약간의 보상만을 하겠소, 이걸 받고 떠나주시오.
 dlga_lord_start:lord_follow_spy_half_completed.1|두 명의 포로였소, {playername}, 하나가 아니라 둘 말이오. 나는 당신이 둘 중 더 중요한 공모자를 찾을 거라고 생각했소. 그 밀정은 돌아오지 않을 것이고 그의 주인은 그의 쓸모 없음을 알게 되겠지. 없는 것보단 낫소. 하지만 반만 보상하는 것을 당신이 이해해줬으면 하오.
@@ -3941,7 +3941,7 @@ dlga_lady_suggest_elope:lady_other_suitor|경 -- 당신이 알고 있는 것처�
 dlga_lady_suggest_elope:lady_conclude_relationship.1|아, {playername}. 당신은 깨달아야 되요. 당신은 아직 이 세계에서 당신의 길을 찾고 있어요. 저는 {playername} 당신을 위한 큰 애정을 가지고 있어요, 그러나 저는 스스로 암흑 속으로 들어갈 수는 없어요.
 dlga_lady_suggest_elope:lady_conclude_relationship.2|아, {playername}. 물론 당신은 저에게 친절해요, 제가 그런 위험을 무릅쓸만큼 당신의 도덕심에 대한 저의 확신이 부족해요 . 물론 저는 내 남편에 대한 작은 애정도 없어요, 하지만 그것이 중요한 것은 내 가족의 뜻을 거스른다는 것이에요, 그리고 저는 당신이 그렇게 할 것이란 확신 역시 부족해요.
 dlga_lady_suggest_elope:lady_conclude_relationship.3|좋아요 {playername} -- 사랑의 도피는 저에게 전부인 저의 가족과의 인연을 끊는 거에요! 저는 상당한 애정을 당신에게 가지고 있어요, 그러나 저는 그런 위험을 감수할 준비가 되었다고 확신할 수 없어요.
-dlga_lady_suggest_elope:lady_conclude_relationship.4|좋아요 {playername} -- 저는 당신처럼 군사작전의 고난에 익숙하지 않아요. 저는 저의 것이라고 부를 수 있는 집을 원해요. 만약 당신이 훌륭한 홀을 가진 도시나 성의 영주라면, 저는 당신의 부인으로서 집안의 여주인이 되어 그곳으로 기쁘게 갈 거에요. 그러나 쫒기는 짐승처럼 살기는 원하지 않아요.
+dlga_lady_suggest_elope:lady_conclude_relationship.4|좋아요 {playername} -- 저는 당신처럼 군사작전의 고난에 익숙하지 않아요. 저는 저의 것이라고 부를 수 있는 집을 원해요. 만약 당신이 훌륭한 홀을 가진 도시나 성의 영주라면, 저는 당신의 부인으로서 집안의 여주인이 되어 그곳으로 기쁘게 갈 거에요. 그러나 쫓기는 짐승처럼 살기는 원하지 않아요.
 dlga_lady_suggest_elope:lady_elope_agree|당신과 사랑의 도피를? 좋아요 -- 우리 그렇게 해요. 이건 나의 가족을 거역하는 커다란 일이에요 -- 그러나 사랑 없는 결혼, 그리고 당신 없는 삶은, 너무나 잘못된 것일 거에요! 그러나 하나만 경고하겠어요 -- 이 것은 나의 {s11}의 위신을 심각하게 깎아 내릴꺼에요, 그리고 그는 그의 역량 안에서 당신을 깎아 내리기 위해 모든 수단을 동원 할꺼에요.
 dlga_lady_elope_agree:lady_elope_agree_nurse|그럼, 빨리! 지체할 시간이 없소.
 dlga_lady_elope_agree:close_window|당신 말은 모든 것이 그의 손 안에 있다는 것이오? 음... 이것에 대해 좀 더 생각해야겠소...
