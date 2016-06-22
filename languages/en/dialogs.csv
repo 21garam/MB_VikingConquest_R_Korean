@@ -1171,16 +1171,16 @@ dlga_companions_despuesduelo4_3:close_window|{s2}^^제 목숨을 높이 사주�
 dlga_companion_reginhard4x:companion_reginhard43|알겠지만 난 믿을만한 사람이잖소. 이제, 시어더드와 부하들은 어디 숨어있소?
 dlga_companion_reginhard41:companion_reginhard4|{s2}^^제가 그들을 배신했기 때문에... 슬픔과 벌꿀주에 잠겨 여기로 오게 된 것이오. 그들은 제 형제이자 친구였는데도... 돈 때문에 켄네머의 야를에게 제 형제를 팔아치웠다구요! 지도자의 형제였던 시어더드도 팔아넘겼습니다. 이제 그들은 절 죽이려 하고, 그저 배신자로서의 최후를 맞기를 기다릴 뿐이란말이오. 빌어먹을 내가 여태까지 야를을 섬겼다니! 빌어먹을 야를!
 dlga_companion_reginhard42:companion_reginhard4|시어더드? 그 자를 아시오? 그가 어떤 사람인지 말로는 표현할 수 없습니다. 대신 죽어줄 수라도 있는 사람, 이거 하나는 확실하오. 덴마크인들도 언젠가 시어더드가 프리지아의 군대를 일으켜 자기들을 이 땅에서 내던져버릴까봐 벌벌 떨고 있습니다.
-dlga_companion_reginhard43:companion_reginhard5|왜 묻죠? 별로 밝히고 싶지 않은 비밀인데.
+dlga_companion_reginhard43:companion_reginhard5|왜 물어보는것이오? 별로 밝히고 싶지 않은 비밀이오.
 dlga_companion_reginhard5:companion_reginhard51|글쎄, 그들에게 합류하고 싶은데. 난 이제 반란군이오!
 dlga_companion_reginhard5:companion_reginhard52|시어더드와 대화하고 싶소. 그와 상의해야 할 일이 있소. 300 페닝을 줄테니 어디있는지 알려주시오.
 dlga_companion_reginhard5:companion_reginhard54|당신의 비밀은 내 비밀이기도 하오. 아니면 당신을 한 방 갈기고 이 우정을 끝내겠소. (공격성)
 dlga_companion_reginhard5:companion_reginhard53|시어더드는 이제 당신의 적이요. 난 당신이 걱정되고 시어더드와 대화하고 싶소. 분명 그들도 당신을 용서해줄거요. (설득)
 dlga_companion_reginhard5:close_window|음, 알겠소. 돈을 더 들고 오도록 해야겠군. 300 페닝 정도라든가.
-dlga_companion_reginhard51:companion_reginhard5|그들은 알지 못하는 사람은 절대 받아주지 않습니다.
+dlga_companion_reginhard51:companion_reginhard5|그들은 알지 못하는 사람은 절대 받아주지 않을것이오.
 dlga_companion_reginhard52:companion_recruit_backstory_response2|당신은 좋은 사람 같아 보이는군요. 당신의 부대에 합류 하겠소, 물론 돈도 챙기고.^저도 그 사람과 할 얘기가 있소. 시어더드는 힘을 높게 쳐주는 사람이니, 부하 몇 명도 데려가는게 좋을 겁니다.
-dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^감사합니다, {playername}. 당신이 맞아요. 그들과 대화를 해봐야겠어요. 당신을 따르겠습니다. 시어더드의 은신처는 동쪽 산에 있습니다. 제가 길을 알려드리죠.
-dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^농담하는 것일 수도 있겠지만, {playername}, 당신이 맞습니다. 우리에게 비밀이란 건 있을 수 없죠! 또 야를이 제게 거짓말을 했다고 그들에게 알려야 합니다. 여기서 계속 있을 바에야 차라리 죽고 말지. 당신을 따르겠습니다. 시어더드의 은신처는 동쪽 산에 있습니다. 길을 알려드리죠.
+dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^감사합니다, {playername}. 당신말이 옳소. 그들과 대화를 해봐야겠소. 당신을 따르겠소. 시어더드의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
+dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^농담하는 것일 수도 있겠지만, {playername}, 당신말이 옳소. 우리에게 비밀이란 건 있을 수 없소! 그리고 야를이 제게 거짓말을 했다고 그들에게 알려야 하오. 여기서 계속 있을 바에야 차라리 죽는게 낫지. 당신을 따르겠소. 시어더드의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|환영하오! 어서 갑시다.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|은신처로 안내해 줄 사람이 필요하긴 하지만, 꼭 당신이 우릴 거기에 버려둘 것만 같소. 더 이상의 배신자는 필요 없소.
 dlga_companion_recruit_signup_quest:companion_recruit_signup_b|{s5}
@@ -1376,14 +1376,14 @@ dlga_egil_mensajerey:egil_mensajerey3|Egil, 그런 결정을 하기 전에 내�
 dlga_egil_mensajerey1:close_window|{s2}^^예, 저도 압니다. 전 항상 좋은 결정만 하니까요. 저도 당신만큼, 혹은 당신보다 나은 지도자가 될 수 있겠죠. 언젠가는 제게 이 군대를 지휘할 수 있게 해주셨으면 합니다.
 dlga_egil_mensajerey2:close_window|{s2}^^네, 알았습니다. 모든 걸 조절하고 싶어하시네요. 뭐, 당신의 결정이니까요.
 dlga_egil_mensajerey3:close_window|{s2}^^당신이 맞네요. 용서해주십시오, 가끔씩 제가 충동적으로 행동해서 말입니다. 제 경거망동으로 이 부대를 위험에 빠트리고 싶지는 않습니다. 앞으로는 모든 일은 당신과 상의하겠습니다.
-dlga_reginhard_calm1:reginhard_calm2|그가 당신을 싫어하기에 싸우기로 결정했소. 우리에게 선택권이 없었소.
-dlga_reginhard_calm2:reginhard_calm3|{s2}^^그렇습니다. 제 말을 듣지도 않았습니다. 야를이 절 속였습니다. 평화 협상을 맺기 위해 시어더드를 만나도 싶어한다고 했지만, 시어더드는 저보다 똑똑했기에 제게 함정이라고 말했죠.^전 고집을 피웠고, 그의 형제가 절 야를과의 밀회에 동행시켜 주었습니다. 그래서... 야를의 고디가 시어더드의 형제를 블러드 이글형에 처했죠.
+dlga_reginhard_calm1:reginhard_calm2|그가 당신을 싫어하기에 싸우기로 결정했소. 우리에겐 선택권이 없었소.
+dlga_reginhard_calm2:reginhard_calm3|{s2}^^그렇소... 내 말을 듣지도 않더군...^야를은 나를 속였었소. 그는 평화 협상을 맺기 위해 시어더드를 만나고 싶어한다고 했지만, 시어더드는 나보다 똑똑했기에 그 말이 함정이라고 말했었소.^나는 고집을 피웠고, 그의 형제가 나를 야를과의 밀회에 동행시켜 주었소. 그래서... 야를의 고디(제사장)가 시어더드의 형제를 '블러드 이글형'에 처했소.
 dlga_reginhard_calm3:reginhard_calm4|블러드 이글형이 뭐요?
 dlga_reginhard_calm3:reginhard_calm42|그는 전사와 같이 죽었소. 이젠 가야 할 시간이오. 켄네머의 야를이 우릴 기다리고 있소.
 dlga_reginhard_calm3:reginhard_calm43|그는 전사와 같이 죽었지만, 당신은 쥐새끼마냥 살아있군. 내 부대에서 당장 떠난 뒤 야를에게 소식이나 전하시오.
-dlga_reginhard_calm4:reginhard_calm3|덴마크인은 그걸 블루드 오른이라고 부릅니다. 척추에서 갈비뼈까지를 다 잘라낸 다음 열어젖혀서 살아있는 폐가 마치 독수리 날개처럼 펼쳐지게 하는 형벌입니다.^끔찍한 형벌입니다! 절대로 보고 싶어하시지 않을 겁니다.
-dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^그리고 당신은 켄네머의 야를을 위해 일하고... 최후에는 원하는 모든 것을 얻겠죠. 하지만, 운명과 맞설 수는 없습니다. 시어더드는 죽었고, 이제는 당신이 나의 새 가족입니다. 운명은 항상 그녀가 가야 할 곳으로 가는 법입니다!
-dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^그래요. 전 쥐새끼일지도 모르지만, 당신이라고 더 나은 건 아닙니다. 시어더드를 찾아가려고 절 이용했잖습니까. 시어더드는 좋은 사람이었습니다. 그의 유일한 죄는 덴마크인에게 저항하여 자유를 얻어내려고 한 것일 뿐입니다. ^신이시여 저를 용서하소서! 제 명을 받아들이겠나이다! 야를에게 가서 얘기해보시지요. 그리고 말하신대로 이 부대를 나가겠습니다. 좋은 여행 되기를!
+dlga_reginhard_calm4:reginhard_calm3|덴마크인은 그걸 블루드 오른이라고 부르더군. 척추에서 갈비뼈를 다 잘라낸 다음 열어젖혀서 살아있는 폐가 마치 독수리 날개처럼 펼쳐지게 하는 형벌이오.^아주 끔찍한 형벌이오! 당신은 절대로 보고 싶지 않을 것이오.
+dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^어쨌든 당신은 켄네머의 야를을 위해 일하고... 그는 결국 원하는 모든 것을 얻게 될것이오. 하지만, 누구도 운명과 맞설 수는 없소. 시어더드는 죽었고, 이제는 당신이 나의 새 가족이오.
+dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^그렇소. 나는 쥐새끼일지도 모르지만, 당신이라고 더 나은 건 아니오. 시어더드를 찾아가려고 나를 이용했잖소! 시어더드는 좋은 사람이었소. 그의 유일한 죄는 덴마크인에게 저항하여 자유를 얻어내려고 한 것일 뿐이오. ^신이시여 저를 용서하소서! 제 명을 받아들이겠나이다!^야를에게 가서 얘기해보시오. 그리고 말한대로 이 부대를 나가겠소. 좋은 여행 되기를!
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|운명은 가고 싶은 대로 가는 법이오!
 dlga_reginhard_calm_finalcon2:close_window|운명은 항상 그녀가 가야 할 곳으로 가는 법이오!
 dlga_reginhard_mission3_1:reginhard_mission3_2|스벤 불 넥을 찾기 위해선 그가 필요하오.
