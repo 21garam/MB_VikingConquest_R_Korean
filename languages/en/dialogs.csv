@@ -2758,8 +2758,8 @@ dlga_kennemerjarl_95:kennemerjarl_10|감사합니다, 내 주인이시여, 당�
 dlga_kennemerjarl_95:kennemerjarl_10.1|보상이 있습니까?
 dlga_kennemerjarl_95:kennemerjarl_10.2|그것은 신속하게 수행될 것이오, 그럼 이만.
 dlga_kennemerjarl_10:lord_pretalk|넌 아직도 여기에 있나? 너는 임무를 가지고 있어! 임무를 끝내면, 스벤을 향한 네 복수는 훨씬 더 가까워질거야. 지금, 여기서 나가!
-dlga_kennemerjarl_juicio_1:kennemerjarl_juicio_3|그래, 알고 있어. 수도원은 전령을 통해 소식을 보냈다. 그들은 네 결정에 만족하고 사람들에게 나를 잘 이야기하도록 약속했어, 이 보상을 받고 떨어져라.
-dlga_kennemerjarl_juicio_2:kennemerjarl_juicio_4|그래, 알고 있어. 수도원은 전령을 통해 소식을 보냈다. 그들은 네 결정에 불행해하고, 널 보낸 나를 비난했어. 그들은 내가 전부 부당한 줄 알고 있다고! 망할 자식!
+dlga_kennemerjarl_juicio_1:kennemerjarl_juicio_3|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 그들은 네 결정에 만족하고 사람들에게 나를 잘 이야기하도록 약속했어, 이 보상을 받고 떨어져라.
+dlga_kennemerjarl_juicio_2:kennemerjarl_juicio_4|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 그들은 네 결정에 불행해하고, 널 보낸 나를 비난했어. 그들은 내가 전부 부당한 줄 알고 있다고! 망할 자식!
 dlga_kennemerjarl_juicio_3:kennemerjarl_juicio_5|우리 거래는 어떻게 된 거요? 내가 스벤을 잡는 데 참여할 수 있는 것이오?
 dlga_kennemerjarl_juicio_4:kennemerjarl_juicio_41|당신이 정의에 따라 행동했을 때, 아무도 당신이 부당하다고 생각하지 않을 것이오.
 dlga_kennemerjarl_juicio_41:kennemerjarl_juicio_42|오호! {reg59?숙녀:신사}께서 납셨구만. 법들은 보기에는 모두 좋지, 하지만 이 세상은 옳지 않아! 그것을 모르고 있는 건가? 물론, 그 땅은 중요해, 하지만 나는 그까짓 땅보다 수도원과의 관계가 더 중요하단 말이다. 다시는 나를 화나게 하지 않는 것이 좋을 것이다!
@@ -2775,28 +2775,28 @@ dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71|그걸 수행하도록 하죠.
 dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71.1|나는 이 임무를 좋아하지 않지만, 내 거래의 일부로서 받아들이겠소. 그럼 이만.
 dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|아직도 여기에 있나? 넌 임무가 있어! 난 너를 지켜볼 거다, {playername}!
 dlga_kennemerjarl_juicio_71_fin:lord_pretalk|--그는 자신의 코를 긁습니다.--
-dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|난 지금 매우 기분이 좋군.^^나는 네 능력을 의심했지만, 확실히 너는 내가 생각했던 것보다 더 유능하군. 또한 너는 신뢰와 충성을 증명했다. 너의 노력에 대한 보상으로 이 돈을 받아라. 너는 네 부대에서 레인허드를 죽이지 않고 데리고 있군, 유감이야. 하지만 나는 네가 부대에 애완동물을 필요로 하는 것 같아서 말이지? 그러나 나는 내 주변에 그 쥐새끼같은 놈이 오는 걸 원치 않아. 그래서 너는 저 쥐새끼를 나와 만날 때에는 데려오지 않는 것이 좋을 거야.
-dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^좋아, 좋아, 나는 오랜 시간 너같은 놈을 찾고 있었다.^너는 내가 해결책을 찾아 주문한 무언가를 달성할 수 있는 놈이야. 그건 매우 중요한 일이고, 나는 돌무더기에 둘러쌓인 듯한 막막한 느낌이 들지.^지금, 너를 부자로 만들어줄 수 있는 하나 -나는 이에 대해 조심스럽게 이야기하고자 하지만- 의 제안이 있다.
+dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|매우 기분이 좋군! 시어더드가 죽었다는 소식은 이미 들어 알고있다.^^나는 네 능력을 의심했지만, 확실히 너는 내가 생각했던 것보다 더 유능하군. 또한 너는 신뢰와 충성을 증명했다. 너의 노력에 대한 보상으로 이 돈을 챙겨두라고.^유감이게도, 넌 레인허드를 죽이지 않은채 데리고 다니는군. 내 생각에, 네 부대에는 애완동물이 필요한가보지? 그러나 나는 내 주변에 그 쥐새끼같은 놈이 오는 걸 원치 않아. 앞으로 나를 만나러 올 때는 저 쥐새끼를 데려오지 않는 편이 좋을 거야.
+dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^좋아, 좋아... 솔직히 말하자면, 나는 오랜 시간 너같은 놈을 찾고 있었지.^너는 받은 명령의 해결책을 찾고 달성할 수 있는 놈이로군. 그건 매우 중요한 능력이라고. 가끔 나는 멍청한 얼간이들에게 둘러쌓인 듯한 막막한 기분이 든단 말이야.^^...^이제 너를 부자로 만들어줄 수 있는 아주 민감한 주제에 대해서 이야기 해 보자고.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|재산? 걱정 마시오, 나는 그냥 스벤을 원하오.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|내가 무엇을 들어도 좋소! 계속 이야기하시오.
-dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|나는 많은 걸 알고 있소! 그러나 두 사람은 관련있지. 전체 이야기를 듣고 직접 결정하겠소.
-dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|솔직히 말해서, 독싱가 근처에 스벤을 사냥하려는 사람들이 있지. 난 네가 그 사냥에 참여하는게 낫다고 생각하지만...^그러나, 우리는 문제가 있다: 왕, 내 삼촌, 그가 있는 한 스벤 불 넥은 절대로 공격받지 않을 것이야. - 그는 노스에서 로드브록이라고 불리우는 라그나르의 가장 오래된 아들중 하나인 야를 '눈 속의 뱀' 시구르드를 두려워한다.
+dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|나도 그건 잘 알고있어! 그러나 두 일은 관련된 일이라고. 모든 이야기를 듣고 난 뒤에나 결정해.
+dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|솔직히 말해서, 나는 스벤을 사냥하려는 사람들을 독싱가 근처에 배치해뒀지. 난 네가 그 사냥에 참여하는게 낫다고 생각하지만...^우리에겐 왕에 대한 문제가 있다. 왕, 나의 삼촌, 그는 스벤 불 넥을 공격하고 싶어하지 않아. 왜냐하면 그가 스벤의 주인인 '눈 속의 뱀' 야를 시구르드를 무서워하고 있기 때문이야. 시구르드.. 그는 노스의 로드록이라고 불리는 '털 바지' 라그나르의 아들 중 가장 강력한 남자지.
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm52|이런 이름들은 나에게 아무런 의미도 없소, 시구르드나, 그의 아버지 라그나르는 누구고, 나는 그들을 두려워해야 하오?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm51|지금까지 이 모든 정보를 숨겨온 거요?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm6|난 듣고 있소, 계속 이야기하시오.
 dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|널 이해한다. 그건 그렇게 쉬운 일이 아니지. 그건 민감한 문제고, 너는 바다에 떠밀려 온 표류자일 뿐이었으니까. 지금은 달라, 너는 내가 믿을만한 심복중 한명이니까.
-dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 전설이 된 남자지, 그의 선박이 발견된 곳에서 두려움을 일으키고, 덴마크의 일부를 지배해 왕이 되었지. 라그나르는 몇년 전 죽었지만, 지금은 앵글리아를 침공하고 있는 그의 많은 아들들이 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 그의 가장 오래된 아들중 하나지, 그리고 그는 아직도 두려워해야 할 사람이고, 존경받는 덴마크인 야를이다.^만약 네가 나를 돕는다면, 네가 강력한 왕이나 야를의 지원이 없을 경우, 내가 그런 사람이 되어 줄 수 있을 거다.
-dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|그 거래 내용은: 내 삼촌 {s10}을(를) 죽여, 그리고 나는 나를 위해 왕좌를 탈취할 것이다. 그러면 나는 스벤 불 넥을 사냥하고, 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한 자금과 병력을 제공하지. 또한, 나는 이 땅에서 너에게 '야를'의 작위를 줄 것이고, 덤으로 강력한 병력들과 돈을 주도록 하지.
-dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 왕이 되고 싶소, 나를 이용해서? 아니, 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니야!
-dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|우리는 거래를 했소, 시어더드는 죽었소. 당신은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
+dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 왕으로 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다니던 전설적인 남자야. 라그나르는 몇년 전 죽었지만, 지금은 앵글리아를 침공하고 있는 그의 많은 아들들이 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 그의 가장 나이든 아들중 하나지. 지금은 비록 늙었지만 아직도 두려워해야 할 사람이고, 존경받는 덴마크인 야를이야.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
+dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 스벤 불 넥을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
+dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 나를 이용해서 왕이 되고싶은것이오? 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니란 말이오!
+dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 시어더드는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm74|{s10}
-dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|나는 당신의 왕을 죽일 것을 받아들이겠소.
-dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|거래나 거짓말은 이 임무 뒤엔 없다! 그냥 이 하나의 조건이 모든 대답이 될 것이다. 네 대답은 어떻지?
+dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|제안을 받아들이겠소. 나는 가서 당신의 왕을 죽일것이오.
+dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|더 이상의 거래, 거짓말, 임무는 없다! 그냥 이 하나의 조건만 이루어지면 모든게 네 것이 될거야. 네 대답은 뭐지?
 dlga_kennemerjarl_thiaderdm74:kennemerjarl_thiaderdm8|{s2}
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|알겠소, {s10}을(를) 죽이겠소.
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|아니, 당신은 다른 암살자를 알아보시오. 난 스스로 스벤 불 넥을 사냥할 것이오.
 dlga_kennemerjarl_thiaderdm9:kennemerjarl_salida|나는 그 대답을 들을 거라고 확신했다. 내가 잘못 생각하지 않았어. {s10}은(는) 보통 사람이 아냐. 모두가 그를 두려워하지. 그는 항상 충실한 전사의 호위를 동반하고, 그의 죽음은 그를 두려워하는 사람들의 눈에 보여야겠지. 이상적인 시간은 축제 기간 동안이야. 네가 독이나 단검을 사용하든 상관 없지만. 두 가지를 명심하는 것이 좋을 것이야 - 첫 번째로, 네가 잡히면 내 이름을 언급하면 안 돼, 두 번째로 잡히지 않는 것이 중요할 것이야! - 모든 일이 끝나면 여기로 오면 안 돼. 시어더드의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정될 경우 내가 왕이 될 것이고. 그 때 나는 너에게 정해진 보상을 하겠지.
-dlga_kennemerjarl_thiaderdm91:kennemerjarl_salida|너는 내가 생각한 것보다 멍청하군. 스벤을 찾기 위해 필요한 돈이나 병력은 네 한계를 한참 넘어선 것이야. 네가 그걸 시도할 경우 스벤은 아주 쉽게 너를 죽일 수 있을 거야. 만약 네가 마음을 바꿔먹고 내 제안을 받아들인다면, 이걸 기억하도록 해: {s10}의 죽음은 공개적이어야 하고, 그를 두려워하던 사람들의 눈에 노출될 경우가 더 좋지, 이상적인 시간은 축제 기간 동안이야. 네가 독이나 단검을 사용하든 상관 없지만. 두 가지를 명심하는 것이 좋을 것이야 - 첫 번째로, 네가 잡히면 내 이름을 언급하면 안 돼, 두 번째로 잡히지 않는 것이 중요할 것이야! - 모든 일이 끝나면 여기로 오면 안 돼. 시어더드의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정될 경우 내가 왕이 될 것이고. 그 때 나는 너에게 정해진 보상을 하겠지.
+dlga_kennemerjarl_thiaderdm91:kennemerjarl_salida|너는 내가 생각한 것보다 멍청하군. 스벤을 찾기 위해 필요한 돈이나 병력은 네 한계를 한참 넘어선 것이야. 어쩌다 네가 스벤을 찾는다고 해도 스벤은 아주 쉽게 너를 죽일 수 있을 거야.^만약 네가 마음을 바꿔먹고 내 제안을 받아들인다면, 이걸 기억하도록 해. {s10}의 죽음은 공개적이어야 하고, 그를 두려워하던 사람들의 눈에 노출될 경우가 더 좋지, 이상적인 시간은 축제 기간 동안이야. 네가 독이나 단검을 사용하든 상관 없지만, 두 가지를 명심하는 것이 좋을 것이야...^첫 번째로, 네가 잡히면 내 이름을 언급하면 안 돼. ^^두 번째가 더 중요한데... 절대 잡히지 마!^^모든 일이 끝나면 여기로 오면 안 돼. 시어더드의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정될 경우 내가 왕이 될 것이고. 그 때 나는 너에게 정해진 보상을 하겠지.
 dlga_kennemerjarl_salida:lord_pretalk|아주 좋소.
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|조심하시오, 야를! 그 자들은 스벤의 수하들이었소. 당신은 배신자요! 그리고 나는 지금부터 당신의 적이오.
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad3|{s10}
