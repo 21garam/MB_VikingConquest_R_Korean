@@ -627,7 +627,7 @@ dlga_foragers_mission_talk:foragers_mission_talk2|들으시오, 라그나르의 
 dlga_foragers_mission_talk2:foragers_mission_talk3|무장해라! 이건 함정이다! 덴마크인들이 공격해온다! 웨스트 색슨인들이여, 무장하라!
 dlga_foragers_mission_talk3:close_window|모두, 전투를 준비하라!
 dlga_start:close_window.26|부대에 다시 합류해도 되겠습니까?
-dlga_start:sven_party1|{playername}, 와주어서 정말 고맙소! 날 기억 못 하겠지만, 난 마을을 지키던 왕의 부하중 하나였소. 우린 수가 적었소. 손크릭이 당신이 올 거라고 보장하더군. 하지만 우린 믿지 않았소. 아무도 우릴 지원하러 오지 않았소. 난 왕에게 가서 병사들을 보내도록 설득할 것을 명령받았소. 하지만 제 시간에 도착할 수 없을까봐 두렵소. 바이킹의 선박들이 벌써 나타나고 있소.
+dlga_start:sven_party1|{playername}, 와주어서 정말 고맙소! 날 기억할지 모르겠지만, 난 마을을 지키던 왕의 부하중 하나였소. 우린 수적으로 불리한 상황에 처했소. 손크릭은 당신이 올 거라고 보장했지만 우린 믿지 않았소. 그런데 당신 말고는 아무도 우릴 지원하러 오지 않았군. 난 왕에게 가서 병사들을 보내도록 설득할 것을 명령받았소. 하지만 제 시간에 도착할 수 없을까봐 두렵소. 바이킹의 선박들이 벌써 나타나고 있소.
 dlga_sven_party1:close_window|가던 길을 가서 왕에게 전하시오. 독싱가를 방어한 것은 그의 야를이 아닌 바로 나라고.
 dlga_sven_party1:close_window.1|당신의 임무는 잊으시오. 독싱가를 방어할 사람이 한 사람이라도 더 남아있어야 하오.
 dlga_start:thiaderd2|난 당신이 누군지 모르오, 여행자여. 하지만 내 부하들이 당신을 포위했고 계속 움직이겠다면 당신을 죽이려고 서두르지도 않을 것이오. 여긴 우리의 땅이오. 이제 왔던 곳으로 돌아가시오.
@@ -5829,11 +5829,11 @@ dlga_village_elder_thonkrik17:village_elder_pretalk|당신의 눈에서는 오�
 dlga_village_elder_thonkrik18:village_elder_pretalk|당신 생각은 잘 알겠소, 그러나 정말 나는 아무 것도 모르고 있소, 하지만 당신은 켄네머의 야를을 만나볼 수 있을 거요. 이 약간의 식량을 받으시오, 당신의 긴 여정에 필요할 것이오.
 dlga_doccinga_thonkrikca:doccinga_thonkrikca2|진정하시오, 손크릭! 여기에 내가 당신을 도우러 왔소.
 dlga_doccinga_thonkrikca2:doccinga_thonkrikca3|마을의 젊은 사람들과 왕의 병사들이 스벤 불 넥의 공격을 막으러 해변에 모여 있소, 하지만 그들의 수가 몇 명 되지 않소. 우리를 도와주어서 고맙소!
-dlga_doccinga_thonkrikca3:doccinga_thonkrikca4|마지막으로 스벤이 저기에 있소. 그가 나에게 한 짓에 대한 대가를 그가 치루게 만들 것이오!
+dlga_doccinga_thonkrikca3:doccinga_thonkrikca4|드디어 스벤이 눈 앞에 왔군. 그가 나에게 한 짓에 대한 대가를 그가 치루게 만들 것이오!
 dlga_doccinga_thonkrikca3:doccinga_thonkrikca5|당신의 야를인 {s4}은 지금 어디에 있소?
 dlga_doccinga_thonkrikca4:doccinga_thonkrikca3|{s2}^^저 보트는 확실히 스벤의 것이 맞소, 스벤은 항상 저 선박을 몰고 다녔지. 하지만 이 많은 병력들은... 나는 스벤이 이렇게 많은 병력들로 마을을 공격한다는 것에 대해 결코 들어보지 못했소, 이건 일반적인 약탈이 아니오, 이건 침공이오!
-dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|내가 알기로 {s4}은 오지 않을 거요, 우리는 그에게 몇 명의 전령을 보냈소, 왕과 당신에게도, 하지만 그는 오지 않았소.^^일반적으로, 나는 이런 문제에 대해서 공개적으로 이야기하지 않지만, 그 덴마크 놈은 큰 골칫거리요! 하지만 지금은 바로 그의 손에 우리 마을 사람들의 목숨이 달려 있지. 그러나 사실, 나는 이 모든 일이 그가 계획한 일들의 일부가 아닐까 걱정하고 있소.
-dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^나는 야를의 집에서 일하는 사람을 한 명 알고 있소. 그리고 그는 그가 프리지아의 왕위를 찬탈하려는 야망을 가지고 있다는 소문을 나한테 이야기한 적이 있소... 나는 사실 이 이야기를 별로 하고 싶지 않았지만, 스벤 불 넥은 예전에 이 곳에 온 적이 있었소.^나는 이 보트에 타고 온 병력들이 야를이 스벤의 전사들을 이용해 왕위를 찬탈하기 위한 병력일까 두렵소, 하지만 이 모든 내용은 전부 다 내 가설에 불과할 뿐이오.
+dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|내가 알기로 {s4}은 오지 않을 거요, 우리는 그에게 몇 명의 전령을 보냈소, 왕과 당신에게도, 하지만 그는 오지 않았소.^^보통 나는 이런 문제에 대해서 공개적으로 이야기하지 않지만, 그 덴마크 놈은 큰 골칫거리요! 하지만 지금은 바로 그의 손에 우리 마을 사람들의 목숨이 달려 있지. 그러나 사실, 나는 이 모든 일이 그가 계획한 일들의 일부가 아닐까 의심하고 있소.
+dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^나는 야를의 집에서 일하는 사람을 한 명 알고 있소. 그리고 그는 그가 프리지아의 왕위를 찬탈하려는 야망을 가지고 있다는 소문을 나한테 이야기한 적이 있소... 나는 사실 이 이야기를 별로 하고 싶지 않았지만, 스벤 불 넥은 예전에 그 곳에 간 적이 있었소.^나는 이 보트에 타고 온 병력들이 야를이 스벤의 전사들을 이용해 왕위를 찬탈하기 위한 병력일까 두렵소, 아직까지는 모든 내용은 전부 다 내 가설에 불과할 뿐이지만 말이오.
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca71|흐로덜프! 이 망할 배신자 같으니, 그는 나를 이용해먹었어!
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca72|그 이야기는 나중에 하시오, 지금은 스벤의 병력의 침공을 막아야만 하오.
 dlga_doccinga_thonkrikca71:doccinga_thonkrikca72|당신은 그에 대해서 주의할 필요가 있소, 그는 위험한 남자요.
