@@ -2092,9 +2092,9 @@ dlga_olvir_dialog55:olvir_dialog6|아니. 에길, 그의 검을 나에게 줘, �
 dlga_olvir_dialog6:olvir_dialog7|{s2}
 dlga_olvir_dialog7:olvir_dialog71|{reg59?부인:경}, 이제 길을 떠날 시간이오. 총회는 살인을 매우 심각한 일로 볼 것이며, 시구르드가 이 점을 악용하여 살인 혐의로 기소하기 전에 우리는 내 아버지, 국호릭 왕에게 이야기하러 가야 하오.
 dlga_olvir_dialog71:close_window|지체할 시간이 없군. 출발하자.
-dlga_start:close_window.59|방금 막 우린 탈출을 저지하기 위해 왔소. 행운을 빌지.
-dlga_start:close_window.60|모두 당신 탓이오! 난 이미 그를 있는 힘껏 쳤소.
-dlga_start:prisionero_interrogation1|토르, 새로운 방문자가 있습니다. 우리의 친구는 힘든 삶을 겪었소. 당신이 그를 보고 좀더 나은 삶을 이뤄줄 수 있습니까?
+dlga_start:close_window.59|우린 탈출을 막기 위해 왔소. 행운을 빌지.
+dlga_start:close_window.60|이제 당신 몫이오! 난 이미 그를 있는 힘껏 쳤소.
+dlga_start:prisionero_interrogation1|토르시여, 새로운 방문자가 왔습니다. 우리의 친구는 힘든 삶을 겪었소. 당신이 그를 보고 좀더 나은 삶을 이뤄줄 수 있습니까?
 dlga_start:prisionero_interrogation1.1|그건 따분한 일이군. 당신이 할 수 있는 더 나은 일이 없나?
 dlga_pretalkdc:prisionero_interrogation1|음?
 dlga_prisionero_interrogation1:prisionero_interrogation2|나는 당신에게 몇가지 질문을 할 것이고, 그리고, 당신은 그 질문에 대답할 경우, 당신은 고통을 계속 겪을 필요가 없을 것이오.
@@ -2155,7 +2155,7 @@ dlga_prisionero_interrogation42:prisionero_interrogation43|{s5}
 dlga_prisionero_interrogation43:prisionero_interrogation44|내 어머니가 그 선박에 타고 있었다.
 dlga_prisionero_interrogation43:prisionero_interrogation45|포로는 어디로 갔지?
 dlga_prisionero_interrogation44:prisionero_interrogation43|음, 우리는 몇몇 죽어가는 남자들을 잡았고, 이상한 소리를 지껄이는 미친 여자를 잡았소. 당신 어머니가 그들 중 하나요?
-dlga_prisionero_interrogation45:prisionero_interrogation22th|스벤 불 넥은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요, 더불어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신할 수 없소.
+dlga_prisionero_interrogation45:prisionero_interrogation22th|스벤 불 넥은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요. 하지만 그곳이 어딘지 이야기 해줄 생각은 없소. 심지어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신하지 않을것이오.
 dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^그를 더 이상 고문할 필요는 없습니다. 리베의 항구에는 한 남자가 살고 있는데, 그는 독싱가 출신에서 리베로 상경해 항구 관리로 지내고 있는데, 바이킹이 잡아온 노예를 거래합니다. 가끔 한번쯤 부두 바깥에 있는 그를 발견하곤 하죠. 그는 그리 좋은 사람이 아니지만, 그는 필요한 무엇이든 간에 정보를 판매합니다. 하지만 당신이 그와 이야기할 때 내 이름을 언급하지 마시오. 내가 몇 년 전에 내가 누구 때문에 독싱가를 떠나라고 강요했기 때문입니다.
 dlga_prisionero_interrogation22th2:prisionero_interrogation22|내가 이야기할 것은 더 없소.
 dlga_start:close_window.61|명령을 대기하고 있소.
