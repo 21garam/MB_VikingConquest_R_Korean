@@ -1368,7 +1368,7 @@ dlga_center_captured_lord_advice_2:minister_issues|바라실대로, {reg59?부�
 dlga_center_captured_lord_advice_2:close_window|흠. 알겠소, {playername}. 당신의 조언을 중히 받아들이겠소. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새 {reg3?귀부인이:영주가} 될 것이오.
 dlga_event_triggered:reginhard_calm1|신이시여, 신이시여, 그가 죽었어. 우리가 시어더드를 죽였소.
 dlga_event_triggered:reginhard_mission3_1|좋소, {playername}. 이쯤하면 야를이 어떤 사람인지 아셨겠고, 또 그가 무슨 짓을 저질렀는지 잘 아셨으리라 믿소. 그가 원하는 건 딱 하나, 권력이오. 그는 그 권력을 차지하려고 당신을 이용하고 있는 것이란 말이오. 시어더드를 찾기 위해 날 이용했던 것처럼... 그에게 우린 소모성 도구일 뿐이고, 당신이 쓸모가 없어지고 위험한 존재가 되면 켄네머의 야를에게 제거당할것이오. 그가 나에게 하려던 것처럼 말이오.
-dlga_event_triggered:reginhard_postdoccingaca|켄네머의 야를은 야심적이고 위험한 인물입니다. 전 당신이 그를 한 방 먹여주었으면 하고 또 이러한 일을 겪었다고 해도 독싱가를 도와 구해주었으면 합니다.^당신은 좋은 사람이고, 프리지아는 이제 우리에게 적대적인 땅이지만, 분명 우리의 운명을 다른 곳에서 찾을 수 있을 겁니다.
+dlga_event_triggered:reginhard_postdoccingaca|켄네머의 야를은 야심적이고 위험한 인물이오. 나는 당신이 그를 한 방 먹여준것과 이런 일을 겪으면서도 독싱가를 도와 구해준 그 불굴의 의지를 존경하오.^당신은 좋은 사람이고, 이제 프리지아는 우리에게 적대적인 땅이지만, 나는 우리가 다른 곳에서 우리의 운명을 찾을 수 있을거라고 확신하오.
 dlga_event_triggered:egil_mensajerey|{reg59?부인:경}, 호릭 왕에게 말씀을 전하라는 명을 받았습니다. 제가 생각하건데 왕의 부하들의 지지도 좀 있는 편이 최선일 것 같습니다. 특히나 스벤을 죽이려 하시려거든 말입니다.^글쎄, 당신과 그리 오래 있지는 않았지면 이 방도가 싸움을 일으킬 지도 모르겠군요. 그러니 왕의 부하를 들일 계획을 잘 살펴보았으시길 바랍니다.
 dlga_egil_mensajerey:egil_mensajerey1|그래, 내가 보기엔 아주 좋은 생각 같소, 에길. 고맙소.
 dlga_egil_mensajerey:egil_mensajerey2|아니, 나와 사전에 상의도 없이 계획을 진행하는 것은 싫소. 이해하겠소?
@@ -1390,10 +1390,10 @@ dlga_reginhard_mission3_1:reginhard_mission3_2|스벤 불 넥을 찾기 위해�
 dlga_reginhard_mission3_1:reginhard_mission3_3|당신 의견엔 관심 없소. 당신 물건들을 챙길 수 있는지 보시오. 왜냐면 당신은 곧 이 부대를 떠야 할 거니까.
 dlga_reginhard_mission3_2:close_window|{s2}^^하늘이 무너져도 솟아날 구멍이 있다고 했소. 일단 나중에 다시 이야기 합시다. 저기, 독싱가에서 기수가 오고 있소.
 dlga_reginhard_mission3_3:close_window|{s2}^^압니다. 제 물건도 다 챙겨놨습니다. 언제든지 절 내쫓으실 수야 있으시겠지만, 새 근심이 생기실 겁니다. 기수가 독싱가에서 오고 있습니다.
-dlga_reginhard_postdoccingaca:reginhard_postdoccingaca2|난 내가 해야할 일은 한 거요. 켄네머의 야를은 배신자였소. 난 이제 그가 나에게서 멀리 떨어졌으면 하오.
-dlga_reginhard_postdoccingaca:reginhard_postdoccingaca3|이런 결과를 알았더라면 독싱가를 돕지 않았을 겁니다. 야를의 신뢰마저 잃었습니다.
+dlga_reginhard_postdoccingaca:reginhard_postdoccingaca2|난 내가 해야할 일을 한 거요. 켄네머의 야를은 배신자였소. 난 이제 그가 꼴도 보기 싫소.
+dlga_reginhard_postdoccingaca:reginhard_postdoccingaca3|이런 결과를 알았더라면 독싱가를 돕지 않았을 것이오. 야를의 신뢰마저 잃었소.
 dlga_reginhard_postdoccingaca:reginhard_postdoccingaca4|지금은 말하고 싶지 않소, 레인허드. 실례하겠소.
-dlga_reginhard_postdoccingaca2:close_window|{s2}^^제가 말씀드렸죠. 그는 뱀같은 자라고. 이제 그에게서 자유로워졌고, 곧 프리지아를 떠야 합니다. 그가 보복을 하려고 눈에 불을 켜고 우릴 찾을 테니까요. 전에 바다 건너 머시아 왕국이라는 곳의 소식을 들은 적이 있는데, 그들은 전사가 필요하다더군요.
+dlga_reginhard_postdoccingaca2:close_window|{s2}^^그는 뱀같은 자라고 내가 이미 말하지 않았소. 이제 그에게서 자유로워졌고, 곧 프리지아를 떠야 하오. 그가 보복을 하려고 눈에 불을 켜고 우릴 찾을게 두렵군요. 전에 바다 건너 머시아 왕국이라는 곳의 소식을 들은 적이 있는데, 그들은 전사가 필요하다고 하오.
 dlga_reginhard_postdoccingaca3:close_window|{s2}^^그런건 겁쟁이들이나 쓰는 단어입니다. 아무래도 근심이 심하여 명확히 생각을 못 하시는 것 같군요. 나중에 이야기해봅시다.
 dlga_reginhard_postdoccingaca4:close_window|{s2}^^알았습니다. 필요하신 대로 당신 곁에 있겠습니다. 길을 따라 갑시다.
 dlga_event_triggered:companion_quitting|실례합니다 {s5}, 말씀드리고 싶은게 있습니다.
