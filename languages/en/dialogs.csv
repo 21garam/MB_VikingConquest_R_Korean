@@ -1624,7 +1624,7 @@ dlga_lord_meet_enemy:lord_intro|난 {playername}이오, {s65}
 dlga_lord_meet_enemy:lord_intro.1|사람들은 날 {playername}(으)로 알고 있소. 잘 기억해두시오, 내 이야기를 아주 많이 듣게 될 터이니.
 dlga_start:lord_start.12|{s8}
 dlga_lord_start:lord_start|{s42}
-dlga_lair_quest_intermediate_1:lord_pretalk|훌륭하게 해냈소, {playername}. 온 나라가 그대의 대담한 공격을 평하고 있소. 그자들, 혹은 그와 비슷한 이들은 곧 돌아오겠지만, 그대가 잠시나마 이 땅이 한 숨 돌리게 해주었구려. 그대에게 정말 감사할 따름이오.
+dlga_lair_quest_intermediate_1:lord_pretalk|훌륭하게 해냈구려, {playername}! 그대의 대담한 공격이 온 나라의 화젯거리가 됐소. 그자들, 혹은 그와 비슷한 이들은 곧 돌아오겠지만, 그대가 잠시나마 이 땅에 한 숨 돌릴 수 있는 여유를 주었구려. 그대에게 정말 감사할 따름이오.
 dlga_lair_quest_intermediate_2:lord_pretalk|그럼, {playername}, 그 도적놈들중 일부가 교묘하게 빠져나간 것 같소. 애꿎은 다른 여행자들만 대가를 치르게 되겠구려. 그래도 그대는 여전히 잘 해주었소.
 dlga_lord_start:lord_generic_mission_completed|그대의 의원이 간신히 내 친구를 설득하여 수술을 받을 수 있게 해주었소. 나머지는 신의 뜻에 달렸구려... 우리가 할 수 있는 건 그의 회복을 기도하는 것 뿐이오. 어쨋거나 그대의 의원을 빌려주어 고맙소, {reg59?부인:경}. 정말 고귀한 영혼을 지니셨소. 절대 잊지 못할 것이오.
 dlga_lord_start:wedding_ceremony_bride_vow|하늘께서 내가 그대에게 청혼함으로써 내 {s11} {s4}를 바칠 준비가 되었다는 것의 증인이 되시길,
@@ -3285,11 +3285,11 @@ dlga_lord_truce_offer:close_window|동의하오. 우린 어찌 됐든 당분간 
 dlga_lord_truce_offer:lord_pretalk|그런 제안으로는 평화 협정에 대해 나의 관심을 끌 수 없을 것이오.
 dlga_lord_ask_pardon:lord_ask_pardon_2|흠. 나는 당신을 싫어하는 사람들에게 뭐라고 할 말이 없군, {playername}. 충분한 보상을 하기 전까지는 당신을 적으로 생각할 것이야. 그러니 {s4}와(과) 정상적인 관계로 돌아가고 싶다면, {reg16}만큼의 페닝을 가져와야 할 걸세.
 dlga_lord_ask_pardon:lord_pretalk.4|나는 당신의 제안을 허락할만한 권한이 없소. 당신은 {s7}와(과) 이야기해야 할 것이오.
-dlga_lord_ask_pardon:lord_ask_pardon_2.1|좋아, 나는 당신이나 당신의 추종자들보다 더 큰 걱정거리가 있지. 그러나, 당신은 나를 방해했고, 그에 대한 보상을 해야 할 거야. {reg16} 페닝으로, 나는 당신과 평화 협정을 맺는 데 동의해줄 수 있지, 어떤가?
+dlga_lord_ask_pardon:lord_ask_pardon_2.1|그래... 나는 자네나 자네의 추종자들보다 더 큰 걱정거리가 있지. 그러나, 당신은 나를 방해했고, 그에 대한 보상을 해야 하네. {reg16} 페닝으로, 나는 자네를 사면하는 데 동의해줄 수 있네. 어떻게 할텐가?
 dlga_lord_ask_pardon:lord_pretalk.5|미안하오, 나는 당신의 제안을 허락할만한 권한이 없소
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_accept|여기 {reg16} 페닝을 받으시오.
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_deny|나는 그 돈을 지불하지 못할까 걱정되오.
-dlga_lord_ask_pardon_tribue_accept:close_window|좋아, {playername}. 나는 당신이 우리에게 해를 끼친 것들을 복구하기 위해 돈을 사용할 것이고, 당신이 더 이상 {s4}의 적이 아님을 선언할 것이네.
+dlga_lord_ask_pardon_tribue_accept:close_window|좋아, {playername}. 나는 당신이 우리에게 해를 끼친 것들을 복구하기 위해 이 돈을 사용할 것이고, 그대가 더 이상 {s4}의 적이 아님을 선언할 것이네.
 dlga_lord_ask_pardon_tribue_accept:close_window.1|좋소, {playername}.나는 당신을 사면하는 데에 반대하는 자들을 누그러뜨리기 위해 이 돈을 사용할 것이고, 당신이 더 이상 {s4}의 적이 아니란 소문을 퍼지게 만들 것이오. 
 dlga_lord_ask_pardon_tribue_deny:lord_pretalk|그러면 나는 아무 것도 해줄 수 있는 일이 없소, {playername}. 돈이 없으면 아무것도 할 수 없지.
 dlga_lord_talk:lord_active_mission_1|임무에 관해서...
