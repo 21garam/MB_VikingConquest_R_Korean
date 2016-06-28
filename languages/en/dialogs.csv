@@ -1213,7 +1213,7 @@ dlga_companion_recruit_secondchance:close_window|신경쓰지 마시오.
 dlga_companion_recruit_backstory_delayed:companion_recruit_backstory_delayed_response|{s5}
 dlga_companion_recruit_backstory_delayed_response:companion_recruit_signup_b|당신을 내 부대에 영입할 수 있을 것 같은데.
 dlga_companion_recruit_backstory_delayed_response:close_window|무슨 일이 있거든 알려주겠소.
-dlga_companion_recruit_signup_confirm:close_window|좋아! 움직일 준비를 할테니 잠시만 기다려주시오.
+dlga_companion_recruit_signup_confirm:close_window|좋아요! 움직일 준비를 할테니 잠시만 기다려주세요.
 dlga_start:companion_rehire|당신 부대에 재합류하고 싶은 마음은 한결같소, 당신이 원하기만 한다면야.
 dlga_start:companion_rehire.1|살아서 다시 만나게 되다니 정말 다행이오, {s5}! {s6}, 그리고 나는 당신이 죽었는지 살았는지 도망쳤는지 알 도리가 없었소. 그 이후로 나는 당신을 찾아다니며 이곳 저곳을 돌아다녔소. 장비를 챙겨 다시 합류해도 되겠소?
 dlga_start:companion_prison_break_chains|여기서 꺼내주기 위해 왔소.
@@ -2156,7 +2156,7 @@ dlga_prisionero_interrogation43:prisionero_interrogation44|내 어머니가 그 
 dlga_prisionero_interrogation43:prisionero_interrogation45|포로는 어디로 갔지?
 dlga_prisionero_interrogation44:prisionero_interrogation43|음, 우리는 몇몇 죽어가는 남자들을 잡았고, 이상한 소리를 지껄이는 미친 여자를 잡았소. 당신 어머니가 그들 중 하나요?
 dlga_prisionero_interrogation45:prisionero_interrogation22th|스벤 불 넥은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요. 하지만 그곳이 어딘지 이야기 해줄 생각은 없소. 심지어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신하지 않을것이오.
-dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^그를 더 이상 고문할 필요는 없습니다. 리베의 항구에는 한 남자가 살고 있는데, 그는 독싱가 출신에서 리베로 상경해 항구 관리로 지내고 있는데, 바이킹이 잡아온 노예를 거래합니다. 가끔 한번쯤 부두 바깥에 있는 그를 발견하곤 하죠. 그는 그리 좋은 사람이 아니지만, 그는 필요한 무엇이든 간에 정보를 판매합니다. 하지만 당신이 그와 이야기할 때 내 이름을 언급하지 마시오. 내가 몇 년 전에 내가 누구 때문에 독싱가를 떠나라고 강요했기 때문입니다.
+dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^더 이상 그를 고문할 필요가 없을것 같소. 리베의 항구에 사는 독싱가 출신의 남자가 있는데, 리베로 상경해 항구 관리로 지내며 바이킹이 잡아온 노예를 거래하고 있소. 종종 부두 바깥에 있는 그를 발견할 수 있을것이오. 그는 그리 좋은 사람이 아니지만, 그는 필요한 온갖 정보를 판매하고 있소. 하지만 당신이 그와 이야기할 때 내 이름을 언급하진 마시오. 몇 년 전에 그를 독싱가에서 추방한 사람이... 바로 나였소.
 dlga_prisionero_interrogation22th2:prisionero_interrogation22|내가 이야기할 것은 더 없소.
 dlga_start:close_window.61|명령을 대기하고 있소.
 dlga_start:close_window.62|당신을 상대할 시간이 없소. 잘 가시오.
@@ -5797,7 +5797,7 @@ dlga_start:village_elder_deliver_cattle_thank|{reg59?부인:경}, 우리에게 {
 dlga_start:village_elder_deliver_cattle_thank.1|{reg59?부인:경}, 우리 마을을 도와줘서 너무 감사하오. 그 노예들은 곧 벌을 받을 것이오.
 dlga_start:village_elder_pretalk|{reg59?부인:경}, 자네의 노력은 고맙소만, 노예들은 이제 멀리 떠나가 더는 찾이 못할 것 같소...
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{reg59?부인:경}, 부디 우리가 당신을 위해 어떤 일이든 할 수 있게 해 주시오.
-dlga_start:doccinga_interrogation_1|나는 우리가 이 자에게서 더 많은 정보를 알아낼 수 있을 거라고는 생각되지 않소. 내 친구여, 덴마크로 가시오, 그건 당신의 운명이고, 필연적인 일이오.
+dlga_start:doccinga_interrogation_1|내 생각에, 더 이상 이 자에게서 알아낼 정보는 없을것 같소. 내 친구여, 덴마크로 가시오, 그건 당신의 운명이고, 필연적인 일이오.
 dlga_start:village_elder_talk_p|{playername}, 우리는 이 포로의 심문을 기다리고 있소. 내 생각에 그는 아마도 몇 가지 정보에 대해 알고 있을 것이오.
 dlga_start:close_window.113|운명은 냉혹하다!
 dlga_start:doccinga_thonkrikca|{playername}, 당신이 여기에 왔군! 당신을 여기에 보낸 우리의 하나님께 감사드리겠소! 이런, 스벤 불 넥의 바이킹 롱 보트들이 오고 있소! 그들이 우리 모두 죽이려고 하고 있소!
@@ -5842,21 +5842,21 @@ dlga_doccinga_thonkrikca72_f:close_window|그리고 저들의 지시에 따라 �
 dlga_doccinga_interrogation_1:doccinga_interrogation_12|당신은 저 포로를 어떻게 처분할 거요?
 dlga_doccinga_interrogation_12:doccinga_interrogation_mu|그를 죽이시오! 그는 살인자고, 살아있을 가치가 없는 쓰레기요.
 dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|그를 풀어주시오, 나는 그가 흘린 피가 우리의 영혼을 무겁게 만드는 것을 원치 않소.
-dlga_doccinga_interrogation_mu:doccinga_interrogation_11|당신 뜻대로 하겠소, 그리고 당신은 이제 무엇을 할 거요?
-dlga_doccinga_interrogation_11:doccinga_interrogation_2|이 곳, 프리지아에서는 더 이상 내가 원하는 것을 얻을 수 없을 것이오, 나는 이 곳에서 나타난 나의 강력한 적에게 대항할 수 없을 것이오, 손크릭. 나의 가장 큰 우선순위는 내 어머니요, 나는 그녀를 지켜야만 하오. 나는 선박을 타고 덴마크로 건너간 뒤, 스벤 불 넥을 반드시 찾아내고야 말 것이오. 어쩌면 우리는 다시는 만날 수 없을 지도 모르겠소...
+dlga_doccinga_interrogation_mu:doccinga_interrogation_11|당신 뜻대로 하겠소, 당신은 이제 어떻게 할 생각이오?
+dlga_doccinga_interrogation_11:doccinga_interrogation_2|이 곳, 프리지아에서는 더 이상 내가 원하는 것을 얻을 수 없을 것이오. 당장은 이 곳에서 생긴 나의 강력한 적에게 대항할 수 없을 것 같소, 손크릭. 내게 가장 중요한 일은 내 어머니요, 나는 그녀를 구해야만 하오. 나는 덴마크로 가는 배편을 구해서 스벤 불 넥을 찾아내고야 말 것이오. 어쩌면 우리가 다시는 만날 수 없을 지도 모르겠소...
 dlga_doccinga_interrogation_2:doccinga_interrogation_3|나는 당신이 언젠가 돌아올 거라고 믿고 있겠소.
 dlga_doccinga_interrogation_3:doccinga_interrogation_31|그렇소, 나는 군대를 모아 이 곳으로 돌아올 것이오. 켄네머의 야를과 프리지아의 왕은 내게 한 짓에 대한 대가를 치루게 될 것이오.
 dlga_doccinga_interrogation_3:doccinga_interrogation_32|아니, 나는 이 땅을 증오하오. 당신은 다시는 나를 볼 수 없을 것이오.
 dlga_doccinga_interrogation_3:doccinga_interrogation_33|그것은 가능할 지도 모르오, 만약 내가 돌아온다면 반드시 독싱가에 들려 당신에게 인사하겠소, 친구여.
-dlga_doccinga_interrogation_31:doccinga_interrogation_4|나는 이제야 당신에 대해 알겠군, 당신은 복수귀요: 스벤, 시구르드, 그리고 지금은 켄네머의 야를이 새로 당신의 적이 되었군, 나는 당신이 언젠가 당신 스스로의 평화를 찾기를 기도하겠소.
+dlga_doccinga_interrogation_31:doccinga_interrogation_4|나는 이제야 당신에 대해 알겠군, 당신은 복수귀요. 스벤, 시구르드, 그리고 이젠 켄네머의 야를까지 당신의 적이 되었군. 나는 당신이 언젠가 당신 스스로의 평화를 찾기를 기도하겠소.
 dlga_doccinga_interrogation_32:doccinga_interrogation_4|어쩌면, 운명이 나와 당신을 다시 만날 수 있게 할 지도 모르겠소.
-dlga_doccinga_interrogation_33:doccinga_interrogation_4|나는 그 날만을 기다리겠소! 독싱가의 사람들은 당신을 사랑하고 존경하오, 당신은 이 곳에서 언제라도 묵어 갈 따듯한 방과 아늑한 침대를 찾을 수 있을 것이오.
+dlga_doccinga_interrogation_33:doccinga_interrogation_4|나는 그 날만을 기다리겠소! 독싱가의 사람들은 당신을 사랑하고 존경하오, 당신이 언제 돌아오든 당신이 묵어 갈 따듯한 방과 아늑한 침대를 찾을 수 있을 것이오.
 dlga_doccinga_interrogation_4:doccinga_interrogation_5|이제, 나는 리베로 가는 보트를 찾아야 될 것 같소.
-dlga_doccinga_interrogation_5:doccinga_interrogation_51|나는 그 문제에 대해서 당신을 도와줄 수 있을 것 같소, 스벤의 보트들 중 한 척이 상대적으로 손상이 덜 했던 덕분에, 그걸 수리해서 은밀한 장소에 숨겨두었소. 그 선박은 우리를 지켜준 당신에 대한 우리의 작은 감사의 표시요. 선박은 독싱가 근처의 해안에 위치해 있소. 그리고 그곳에는 또 다른 사람이 기다리고 있는데, 나는 그 사람에 대해서 {playername}, 당신이 들어줬으면 하는 부탁이 있소.
-dlga_doccinga_interrogation_51:doccinga_interrogation_52|당신은 일전에 내가 이야기했던 켄네머의 야를의 궁정에서 일한다던 사람을 기억하시오? 나에게 정보를 줬다던 그 사람을 말이오, 그 사람은 바로 내 딸이오. 야를은 그의 아내의 하녀로 삼기 위해 내 딸을 납치했었소. 그녀는 켄네머에서 몰래 탈출했고, 지금은 당신이 그녀를 맡아서 당신과 함께 여행을 했으면 좋겠소. 만약 야를이 그녀를 찾는다면 그녀는 켄네머로 돌려보내 다시 시종으로 부리거나, 아마도 야를, 흐로덜프의 손에 죽게 될 것이오. 나는 당신이 나를 위해서라도 이 일을 해 줬으면 좋겠소, {playername}. 그리고 보트는 당신 것이오.
+dlga_doccinga_interrogation_5:doccinga_interrogation_51|그 문제에 대해서는 당신을 도와줄 수 있을 것 같소, 스벤의 보트들 중 한 척이 상대적으로 손상이 덜 했고, 비밀리에 수리해 두었소. 그 선박은 우리를 지켜준 당신에 대한 우리의 작은 감사의 표시요. 선박은 독싱가 근처의 해안에서 당신을 기다리고 있소... 그리고 그곳에는 또 다른 사람이 기다리고 있는데, 나는 그 사람에 대해서 {playername}, 당신이 들어줬으면 하는 부탁이 있소.
+dlga_doccinga_interrogation_51:doccinga_interrogation_52|일전에 내가 이야기했던 켄네머의 야를의 궁정에서 일한다던 사람을 기억하시오? 나에게 정보를 줬다던 그 사람을 말이오, 그 사람은 바로 내 딸이오. 야를은 그의 아내의 하녀로 삼기 위해 내 딸을 납치했었소. 그녀는 켄네머에서 몰래 탈출했고, 지금은 당신이 그녀를 맡아서 당신과 함께 여행을 했으면 좋겠소. 만약 야를이 그녀를 찾는다면 그녀는 켄네머로 돌려보내 다시 시종으로 부리거나, 아마도 야를, 흐로덜프의 손에 죽게 될 것이오. 나는 당신이 나를 위해서라도 이 일을 해 줬으면 좋겠소, {playername}. 그리고 보트는 당신 것이오.
 dlga_doccinga_interrogation_52:doccinga_interrogation_6|그녀는 나와 함께 따라갈 것이고, 내가 그녀를 지켜주겠소.
 dlga_doccinga_interrogation_52:doccinga_interrogation_54|아니, 내가 가려는 길은 여자들이 갈 만큼 만만한 여정이 아니오. 나는 그녀를 보호할 수 없소, 그녀는 여기에 남아야 할 것이오.
-dlga_doccinga_interrogation_54:doccinga_interrogation_6|나에게 애원하게 하지 말아 주시오, 내 친구. 당신은 당신을 태워줄 다른 선박이 있다고 생각하시오? 당신이 그곳으로 가기 위해서는 다른 선택의 여지가 없을 것이오. 스벤의 공격 때문에 도망간 상인들이 이 곳으로 돌아오려면 몇 주가 걸릴 것이오. 당신은 켄네머에서 내 딸이 무슨 짓을 당했는지 알지 못할 것이오, {playername}... 나는 그녀가 다시는 야를의 부하들의 노리개가 되도록 좌시하지는 않을 것이오. 미안하오, 하지만 당신에게 선택의 여지를 줄 수는 없소: 선박에 타고 내 딸과 함께 가 주시오.
+dlga_doccinga_interrogation_54:doccinga_interrogation_6|나에게 애원하게 하지 말아 주시오, 내 친구. 당신은 당신을 태워줄 다른 선박이 있다고 생각하시오? 당신이 그곳으로 가기 위해서는 다른 선택의 여지가 없을 것이오. 스벤의 공격 때문에 도망간 상인들이 이 곳으로 돌아오려면 몇 주가 걸릴 것이오. 당신은 켄네머에서 내 딸이 무슨 짓을 당했는지 알지 못할 것이오, {playername}... 나는 그녀가 다시는 야를의 부하들의 노리개가 되도록 좌시하지는 않을 것이오. 미안하오, 하지만 당신에게 선택의 여지를 줄 수는 없소. 선박에 타고 내 딸과 함께 가 주시오.
 dlga_doccinga_interrogation_6:doccinga_interrogation_61|알겠소, 그럼 그녀와 함께 선박을 타고 가겠소. 그럼 이만 떠나 보겠소, 손크릭.
 dlga_doccinga_interrogation_61:doccinga_interrogation_61_f|안녕히 가시오, 내 친구여.
 dlga_doccinga_interrogation_61_f:close_window|안녕히 가시오.
