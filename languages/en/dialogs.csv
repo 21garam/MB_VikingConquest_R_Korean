@@ -110,14 +110,14 @@ dlga_port_chief_catach5:port_chief_catach5_1|이런 세상에, 아주 부자셨�
 dlga_port_chief_catach5_1:port_chief2|내가 더 고맙소.
 dlga_port_chief_catach31:port_chief_catach31_1|음, 고맙소. 은신처는 여기요. 덴마크의 리베 북동쪽, 강 위쪽이오. 좋은 여행 되기를.
 dlga_port_chief_catach31_1:port_chief2|내가 더 고맙소.
-dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^뭘 그리 소란스럽소, 친구. 이 항구의 누구도 우리가 말하는 내용을 알 필요는 없지 않소? 아무래도 누가 나에 대해서 이야기한 것 같군. 그건 상관 없소. 그게 내 사업을 키우는 방식이니까.^^그럼, 그 쪽은 스벤이 있는 곳을 알고 싶은 거로군. 알려주기는 쉽지만, 당연히 공짜는 아니지. 거기다 싸게 먹힐 일도 아니고. 스벤 불 넥은 당신 생각보다 아주 위험한 사람이오.
-dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^잘 들으시오. 운이 좋게도 난 당신 같은 사람이 필요하오. 당신이... 흠, 일종의 '약탈자'가 되어서 에리우로 가시오. 수도원에 책을 유물로 보관하고 싶어하는 고객이 한 명 있소. 글렌 다 로크라는 수도원이지. 책의 이름은 '콜룸 카일의 시편'이라오. 난 그저 책에만 관심이 있소. 나머지는 다 당신 거요. 책을 가져오면 당신은 스벤 불 넥이 어디 숨어 있는지 알게 될 거요.
+dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^목소리가 너무 크구려, 친구. 이 항구의 누구도 우리가 말하는 내용을 알 필요는 없지 않소? 아무래도 누가 나에 대해서 이야기한 것 같군. 그건 상관 없소. 그게 내 사업을 키우는 방식이니까.^^그럼, 그 쪽은 스벤이 있는 곳을 알고 싶은 거로군. 알려주기는 쉽지만, 당연히 공짜는 아니지. 거기다 싸게 먹힐 일도 아니고. 스벤 불 넥은 당신 생각보다 아주 위험한 사람이오.
+dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^잘 들으시오. 운이 좋게도 난 당신 같은 사람이 필요하오. 당신이... 흠, 일종의 '약탈자'가 되어서 에리우로 가시오. 그곳의 수도원에 유물로 보관되어 있는 책을 가지고 싶어하는 고객이 한 명 있소. 글렌 다 로크라는 수도원이지. 책의 이름은 '콜룸 카일의 시편'이라오. 난 그저 책에만 관심이 있소. 나머지는 다 당신 거요. 책을 가져오면 당신은 스벤 불 넥이 어디 숨어 있는지 알게 될 거요.
 dlga_port_chief_svenlair3:port_chief_svenlair31|나쁘지 않은데! 책을 가져오겠소. 나중에 봅시다.
 dlga_port_chief_svenlair3:port_chief_svenlair32|난 수도원을 습격할 생각도 없고, 수도사를 죽일 생각도 없소.
 dlga_port_chief_svenlair3:port_chief_svenlair33|책은 집어치우고 돈으로 해결하는게 어떻소?
 dlga_port_chief_svenlair31:close_window|그럼 난 여기 있겠소. 당신 선박을 수리하고 식량도 챙겨두는게 좋을 거요. 에리우까지는 긴 여정이 될 테니까. 그리고 충분히 잘 싸울 수 있을만한 부하들도 데려가시오. 좋은 여행 되기를.
 dlga_port_chief_svenlair32:close_window|그럼 책을 사시오. 어떻게 손에 넣는지는 상관하지 않을테니 그냥 가져만 오시오. 당신 선박을 수리하고 식량도 챙겨두는게 좋을 거요. 에리우까지는 긴 여정이 될 테니까. 그리고 충분히 잘 싸울 수 있을만한 부하들도 데려가시오. 좋은 여행 되기를.
-dlga_port_chief_svenlair33:port_chief_svenlair4|글쎄, 괜찮은 제안 아닌가? 내 고객은 그 책에 10000 페닝을 지불했지. 그럴만한 돈이 있소?
+dlga_port_chief_svenlair33:port_chief_svenlair4|음, 흥미로운 대안이군. 내 고객은 그 책에 10000 페닝을 제안했지. 그럴만한 돈이 있소?
 dlga_port_chief_svenlair4:port_chief_svenlair5|돈은 여기에 있소. 가져가고 빨리 스벤이 어디 숨어있는지나 말하시오.
 dlga_port_chief_svenlair4:port_chief_svenlair31|아쉽지만, 내겐 그런 돈이 없소. 책을 가져올 테니 나중에 봅시다.
 dlga_port_chief_svenlair5:port_chief_svenlair5_1|이런 세상에, 아주 부자셨구만! 은신처는 바로 여기요. 덴마크의 리베 북동쪽, 강 위쪽이오. 좋은 여행 되기를.
@@ -250,7 +250,7 @@ dlga_dwyweiromance2_conversationcamp6:close_window|정말 기뻐요. 사랑해�
 dlga_dwyweiromance2_conversationcamp7:close_window|농담이요? 이 망할 자식! 대체 어떤 병신이 이딴 식으로 농담을 해?! 혼자 있게 좀 내버려 두시죠. 다시는 당신과 말도 섞고 싶지 않군요.
 dlga_conversation_companioncamp:reginhard1_conversationcamp1|친구여, 부하 중 식량 문제로 불만을 토로하는 자가 있소. 그들의 이름을 알려주오?
 dlga_reginhard1_conversationcamp1:reginhard1_conversationcamp2|레인허드, 걱정해줘서 정말 고맙소.
-dlga_reginhard1_conversationcamp2:reginhard1_conversationcamp3|흠, 그러니깐... 당신이 얼마나 관대한 사람인지는 알겠소. 그 충성에 대해서는 언젠가는 보답하겠소... 내가 무슨 말을 하고 싶은지는 알 거라 믿소.
+dlga_reginhard1_conversationcamp2:reginhard1_conversationcamp3|흠, 그러니깐... 당신이 얼마나 관대한 사람인지 알고 있소. 내 충실함에 대해서는 어떤 방식으로든 보답할거라고 생각하오... 내가 무슨 말을 하고 싶은지는 알 거라 믿소.
 dlga_reginhard1_conversationcamp3:close_window|물론이오. 우선 이 돈을 받고 앞으로도 계속 알려주시오.
 dlga_reginhard1_conversationcamp3:close_window.1|닥치시오, 욕심 많은 쓰레기 인간이로군. 다시는 날 속이려 하지 마시오.
 dlga_reginhard1_conversationcamp3:close_window.2|난 항상 어떠한 행위든 그에 합당한 보상을 하오. 그 점을 잊지 말도록.
@@ -3672,7 +3672,7 @@ dlga_lord_mission_deliver_message_rejected_rudely:lord_mission_deliver_message_r
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_rejected_rudely_3|그러면, 당신은 이 일보다 더 나은 일을 한 번 찾아 보시오.
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_accepted|내 무례를 용서해 주시오, {s65}. 내가 당신의 편지를 전달하겠소.
 dlga_lord_mission_deliver_message_rejected_rudely_3:close_window|알겠네. 이 일을 기억하겠소.
-dlga_lord_tell_mission:lord_mission_deliver_message.1|나는 {s15}의 {s13}에게 편지를 전해야 할 필요가 있소. 그는 확실히 {s4}에 있을 것이오. 만약 당신이 그곳으로 간다면, 당신이 나의 편지를 그에게 전해주지 않겠소? 그 편지는 40일 안에 그에게 도착해야 하오.
+dlga_lord_tell_mission:lord_mission_deliver_message.1|나는 {s15}의 {s13}에게 편지를 전달해야 하오. 그는 확실히 {s4}에 있을 것이오. 만약 당신이 그쪽 방향으로 가는 길이라면, 당신이 나의 편지를 그에게 전해주지 않겠소? 그 편지는 {reg1}일 안에 그에게 도착해야 하오.
 dlga_lord_tell_mission:lord_mission_told|흠, 그래, 당신의 도움이 필요하오. {s22} 지역 주교가 {s14}에 있는 수도원에 점검을 가고자 하오. 일반적인 상황이라면 내가 호위병을 붙여 보내겠지만 이번에는 내가 재산 문제로 바빠서 말이오. 자네가 목적지까지 그를 호위해 줄 수 있겠소?
 dlga_lord_tell_mission:lord_mission_told.1|흠, 좋소. 얼마전 리베에 있는 항구 관리인으로부터 들었는데, {s14}에 있는 수도원에 상당한 양의 은을 비축하고 있다는 소문을 들었소. 원래라면 내가 직접 가서 세금을 받겠지만 이번에는 다른 일로 바빠서 말이지. 그래서 자네에게 이 제안을 하는 거요. 자네가 대신 가서 내게 {reg33} 페닝을 가져다준다면 나머지는 자네가 가져도 좋소. 한번 해보겠소? 
 dlga_lord_tell_mission:lord_mission_told.2|최근 들어 어떤 음모가 있는 것 같소, 내 {s17} {s13}가 방문하고자 하는 곳은 그녀의 친구가 있는 {s14}이오. 그러나 그녀가 그곳으로 가려고 할 때마다, 매번 문제가 생겨 여러 번 방문이 미뤄지고 있는 것 같소. 그러나 이번은 그녀가 고집을 부려 가야 한다고 고집을 부리고 있소. 당신이라면 그녀를 잘 호위해주리라 믿소, {playername}. 만약 당신이 그녀를 {s14}까지 호위해 그녀가 안전하게 도착했다는 소식을 듣게 된다면, 나는 당신을 높이 평가하게 될 것이오.
