@@ -716,7 +716,7 @@ str_npc5_personalitymatch_speech|That was a fine battle, {playername}! {s11} is 
 str_npc6_personalitymatch_speech|Sometimes I am troubled by all this bloodshed, although I know that proud warlords must be humbled, and cruel bandits tamed, if we are to restore peace.
 str_npc7_personalitymatch_speech|Warlord, I was just talking to {s11}. He might be an incisive man, but he holds no prejudice for me being a woman or a Pict.
 str_npc8_personalitymatch_speech|A fine battle that was, warlord. And I have to say, I greatly enjoy the company of {s11}, for he is a fine commander of men.
-str_npc9_personalitymatch_speech|Warlord. {s11} acquitted herself well in that fight back there. A fine, modest maiden she is, if I dare say so myself.
+str_npc9_personalitymatch_speech|주군. {s11}, 그녀는 아까 그 적들에 맞설 때 잘 처신하더군. 감히 말하자면, 그녀는 보통의 대단치 않은 처녀들보다 훨씬 낫소.
 str_npc10_personalitymatch_speech|Dryhten! I wish you joy in your victory! Say, I really like the company of that Solveig. I see that she is extremely devoted to the safety of our shield-wall.
 str_npc11_personalitymatch_speech|Oh {reg59?my pretty:handsome}, I could not praise you more for having women of such quality as {s11} within our shield-wall. I do not care that she is a Frisian, supposedly somebody weak sumitted to the Danish.
 str_npc12_personalitymatch_speech|주군, 이건 정말 피 비린내 나는 사업이 따로 없군요, 물론 필요한 일이라고 생각합니다. 우리의 믿음직한 동료 {s11}은(는) 서고트인이 아닌데도 이 끝나지 않는 싸움에 대한 나의 모순되는 감정을 이해해주는것 같군요.
@@ -732,7 +732,7 @@ str_npc5_personalitymatch_speech_b|It is clear from his battle prowess that he i
 str_npc6_personalitymatch_speech_b|I must say that {s11} is a source of great comfort to me. I have told him of my sin, and he said to me that Christ will forgive my transgression, if I truly repent and truly desire such forgiveness. He is wise, and I am glad that he is with us.
 str_npc7_personalitymatch_speech_b|He preaches to me just like to anyone else, and told me that even if my body is covered by war tattoos, God can still see the good intentions within my heart. I am not sure I completely liked what he said -- for I am a warrior, not a simple housemaid --, but, still, I feel I can trust that priest and his teachings.
 str_npc8_personalitymatch_speech_b|We are both veterans, and, as such, can both easily perceive the many tactical flaws the warriors of this land commit during battle. Our shield-wall is much stronger with him in it.
-str_npc9_personalitymatch_speech_b|Were she not a mere slave, I might ask for her hand. It is a pity that she is not a free, pure woman. But speaking with her is a pleasant way to pass time on the march.
+str_npc9_personalitymatch_speech_b|그녀가 노예만 아니었다면 기꺼이 그녀에게 도움을 요청하고 싶더군.^그녀가 자유롭지 못한 신분이란게 슬프구려, 딱한 여자 같으니라고... 하지만 행군을 할 때 그녀와 대화를 하며 시간을 보내는건 너무 즐거운 일이오.
 str_npc10_personalitymatch_speech_b|Actually, I see that she is extremely devoted to you. Please, Dryhten, don't get so blushed. A devoted woman like that can be more valuable than a hundred warriors.
 str_npc11_personalitymatch_speech_b|She is clearly a survivor that has profound respect and obedience to you. This, of course, makes me extremely happy. If only all of our people were like her, someone who has overcome a troubled past in the house of the jarl of Kennemer. Those experiences, the difficult ones, are those that bring out the best in people, don't you think?
 str_npc12_personalitymatch_speech_b|그의 동료들의 생명을 거두는일이 그를 깊은 슬픔에 빠지게 합니다. 그와 저는 함께 이런 옹졸한 전쟁을 벌이는 잉글랜드 왕국들의 통일에 대한 밝은 미래를 이야기 했습니다. 이번엔 우리가 이 문제를 끝맺을 것이라고 말입니다.
