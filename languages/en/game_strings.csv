@@ -380,8 +380,8 @@ str_npc5_intro|안녕하시오, 여행자여. 나와 술이라도 함께 마시�
 str_npc6_intro|나는 당신에게 할 말이 있소, 잘 들으시오.
 str_npc7_intro|무엇이오? 하지만 당신은 나와 거리를 유지해야 할 것이오.
 str_npc8_intro|무엇을 원하시오?
-str_npc9_intro|당신 같은 좋은 사람이 여기 있군, 나에게 벌꿀주 한 잔 사줄 정도로 친절할 거라고 생각하는데, 아니오?
-str_npc10_intro|하나님께서 당신과 함께 하시길, {reg59?부인:경}! 이 곳에 있는 모든 웨일즈인들의 몰락이 기다리고 있소!
+str_npc9_intro|여기 있었군, 이 사람! 내게 한 잔 더 사줄 정도로 친절할 거라고 생각하는데, 괜찮소?
+str_npc10_intro|하나님께서 당신과 함께 하시길, {reg59?부인:경}! 모든 웨일즈인들의 몰락과 파멸이 오길!
 str_npc11_intro|안녕하세요, {reg59?예쁜 레이디:잘 생긴 경}. 나는 당신을 잠시 지켜보고 있었어요.
 str_npc12_intro|안녕하시오, {reg59?부인:선생}. 만나서 반갑소.
 str_npc13_intro|무슨 일이오? 나에게 무엇을 원하시오?
@@ -428,8 +428,8 @@ str_npc5_backstory_a|나는 보스베네흐의 모르간트요. 그러나, 나�
 str_npc6_backstory_a|나는 죽었어야 했소, 하지만 나는 누군가의 목숨 값으로 지금 살아있는 거요. 나는 어느 선박에서 있었던 일을 생각하고 있었소, 그 선박의 이름은 오딘 릭이었지, 그 배는 나를 내 고향에서 북쪽으로 싣고 왔소, 몇 명의 승무원들과 내 가족도 함께 말이오. 그러나 어느 날 바이킹들의 공격을 받았고, 나는 내 칼과 방패를 들고 내 가족들을 죽음에서 지키려 했소.^^칸타브리아인은 기독교인들이오, 하지만 여전히 일부는 예전의 고대 신들을 기억하고 있지. 특히 그 중 한 명, 에루디노는 전투에서 우리를 인도하는 자요, 나는 내 검을 들면서 그의 이름으로 맹세했소.
 str_npc7_backstory_a|내 행운? 당신은 지금 그에 대해 말했소?
 str_npc8_backstory_a|아, 글쎄, 만약 당신이 알고 싶은 경우, 내 얘기해 주겠소.
-str_npc9_backstory_a|내 겸허하게 사과하겠소. 이런 연기와 어둠 속에서 좋은 사람을 찾기는 쉽지 않지. 나는 아직도 내 고향이 그런 곳이라는 걸 믿을 수가 없소.
-str_npc10_backstory_a|그건 긴 이야기요, 하지만 당신이 내게 한 잔 사 준다면, 내 말해 드리겠소.
+str_npc9_backstory_a|내 겸허하게 사과하겠소. 이런 연기와 어둠 속에서 사람을 알아보는게 가끔은 어려울 때가 있소. 나는 아직도 내 고향이 그런 곳이라는 걸 믿을 수가 없소.
+str_npc10_backstory_a|그건 긴 이야기요, 하지만 당신이 내게 한 잔 사 준다면, 내 기꺼이 말해 드리겠소.
 str_npc11_backstory_a|진정해요, {reg59?예쁜이:멋쟁이}. 당신이 똑똑한 사람이라 좋군요, 하지만 먼저 내 소개를 들어야 할 거에요. 내 이름은 솔베이그 올라프도티르에요. 나는 평범한 여자가 아니에요. 나는 스칼드모죠.
 str_npc12_backstory_a|나는 지금이 공식적으로 나를 소개할 수 있는 좋은 시간이라고 생각하오, 그건 가능성이 있었기 때문에 우리의 길이 서로 교차하게 된 것이지. 나는 오딘스베의 아스비욘이오, 그리고 나는 로크니어요, 나는 몇 달 전 프랑키아에서 덴마크로 돌아올 때까지 간단한 의사 일을 하고 있었소.
 str_npc13_backstory_a|좋소, 그러고 말고. 내 이름은 헬기라고 하고, 덴마크인과 슬라브인의 학살자요.
@@ -444,8 +444,8 @@ str_npc5_backstory_b|내 기억대로라면, 우리 가족은 근처의 다른 �
 str_npc6_backstory_b|나는 바보가 아니오. 나는 우리가 전투에서 패배할 가능성이 높다는 것을 알고 있었소. 우리는 분명히 열세였지, 그들은 우리보다 더 잘 무장하고 있었소, 하지만 나는 내가 천국으로 가기 전에, 좀 더 많은 사람을 죽일 수 있도록 에루디노에게 빌었소. 그리고 어쩌면 내 희생 때문에 다른 사람들이 도망치려 하거나, 사람들이 바이킹들에 대한 공포에 질리게 할 수도 있었소. 하지만 사람들은 바이킹에 대해서는 신경 쓰지 않고 스스로 할 일을 찾은 후 방비를 더 단단히 했소. 그러던 중 바이킹 대 여섯명이 나를 포위했고, 그들이 나를 상대하는 동안 그들의 동료가 오딘 릭을 공격했소, 그리고 그 곳에 있던 사람들 모두가 죽었소...
 str_npc7_backstory_b|내 불운은 픽트인 전쟁 군주에 의해 밤 중에 숲을 정찰하라는 명령을 받았던 것이오, 그리고 그 곳에서 적들이 신중하게 매복하고 있었던 것이 가장 큰 불운이었지, 우리의 작은 부대를 능가하는 상당히 많은 숫자의 병력들이 있었소. 내가 그 유혈 사태에서 빠져나오게 해준 것도 내 불운이었소. 그리고 전쟁 협의회가 나를 배신자로 간주한 것도 불운이었지, 나는 밤 중에 내 부족으로부터 탈출했소. 이 불운을 전부 다 당신에게 알려주는 것 이 또한 불운이 아니겠소.
 str_npc8_backstory_b|이 곳의 사람들중 누구도 나를 좋게 나이 먹은 레인허드라고 말하지 않을 것이오. 나는 두어스테드에서 태어났고, 내 삶은 확실히 쉽지 않았소, 내 아내와 2명의 아이들이 2년 전에 알 수 없는 전염병으로 죽기 전까지만 해도 나는 행복했지...^나는 농장을 가지고 있었소. 그거 아시오? 그 곳의 모든 것들이 내 가족들을 생각 나게 했기때문에, 나는 그 모든 것들을 팔아 치워야만 했소. 지금은 술에 취한 채 나와 함께 하고 싶어하는 사람이라곤 아무도 없는 않는 바보일 뿐이지... 당신이 나에게 올 때까지는 말이오.
-str_npc9_backstory_b|나는 프랑크인이고, 내 아버지의 장남이오, 나는 그의 후계자고 그의 회당의 용감한 전사기도 하오. 하지만 내 어머니가 죽은 뒤, 내 아버지는 재혼을 했소. 새 어머니는 그녀의 아들이 이 모든 것을 상속받아야 한다고 생각했지. 그녀는 공개적으로 내가 아무 것도 하지 못하게 만들었소, 그러나 나는 어느 날 내 사냥개 중 하나에 나를 위해 남겨져 있었던 냄비에 있던 기름기를 조금 떠다가 개에게 주었소, 그러더니 금새 죽어버리더군. 나는 나의 계모를 비난했소, 하지만 내 아버지는 그녀의 마법에 의해 어리둥절해 하더군, 그는 나를 믿지 않았고, 나더러 그의 눈 앞에서 사라지라고 말했소.
-str_npc10_backstory_b|나는 색슨인 전사요, 그리고 나는 내 인생을 웨일즈인, 그리고 앵글인과 싸우는 데 모두 바쳤소. 웨스트 색슨의 운명은 앵글리아를 지배하는 것이오. 하나의 왕 아래에 그들이 통합되는 것을 막는 것은 오직 그들의 오만과 증오일 뿐이오. 내가 볼 때, 적어도 색슨인 통치자만이 그 자들의 오만을 허용하지 않을 것이고, 진정으로 이 땅에 평화를 가져올 수 있을 것이오.
+str_npc9_backstory_b|나는 프랑크인이고, 내 아버지의 장남이오, 나는 그의 후계자고 그의 회당의 용감한 전사기도 하오. 하지만 내 어머니가 죽은 뒤, 내 아버지는 재혼을 했소. 새 어머니는 그녀의 아들이 이 모든 것을 상속받아야 한다고 생각했지. 그녀는 공개적으로 내가 아무 것도 하지 못하게 만들었소. 그러던 어느 날 나는 내 몫으로 남겨져 있던 쇠기름 한솥을 내 사냥개 중 한마리에게 먹였는데 바로 쓰러져 버리더군.^나는 나의 계모를 비난했지만 그녀의 마법에 의해 정신이 혼미해진 아버지는 나를 믿지 않았고, 나더러 그의 눈 앞에서 꺼지라며 나를 쫒아냈소.
+str_npc10_backstory_b|나는 색슨인 전사요, 그리고 나는 웨일즈인, 그리고 앵글인과 싸우는 데 내 모든 인생을 바쳤소. 웨스트 색슨의 운명은 앵글리아를 지배하는 것이오. 하나의 왕 아래에 그들이 통합되는 것을 막는 것은 오직 그들의 오만과 증오 때문이오. 내가 볼 때, 색슨인이거나 최소한 그들의 오만을 용납하지 않는 남자만이 진정으로 이 땅에 평화를 가져올 수 있을 것이오.
 str_npc11_backstory_b|당신의 얼굴에는 내가 무슨 말을 하고 있는 지 잘 모르고 있다는 게 느껴지네요, 좋아요, 나는 나 같은 사람이 많지 않다는 걸 인정해야겠네요, 그리고 덴마크에서는 내 자신의 땅에서보다 더 적을 테고요, 바로 노스비거 말이죠. 그러면 당신은 이해할 수 있을 거라고 생각해요, 스칼드모는 무기를 들고 전장에 나가는 처녀에요. 또한 시에서 노래하거나 회자되는 존재이기도 하죠.
 str_npc12_backstory_b|다시 오딘스베로 돌아가는 길에, 나는 리베에 도착하고 몇 달 동안 그 곳에 머무르다가 결국, 지역 귀족에게 봉사하게 되었소. -- 하지만 그는 전혀 귀족 같지 않았지. 나는 그가 내 봉사를 위해서가 아니라 내 명성을 이용해 총회에서 며칠 간 장식으로 데리고 다닐 생각이었다고 생각하오.
 str_npc13_backstory_b|나는 노스비거의 땅 동쪽에 있는 헤르시어의 둘째 아들이오. 나는 스베아 바이킹이지. 나는 앵글리아에서 내 행운을 추구했소, 나는 서쪽에서 내 행운을 추구하지만, 내 많은 동포들은 동쪽 지역에서 행운을 추구하는 편이오, 그들은 루스인들이지. 나는 남자들에게 전쟁에 필요한 각종 기예들을 가르칠 수 있소. 불행하게도, 이 곳의 야를들은 어중이 떠중이들을 훌륭한 전사로 만드는 것에 별다른 관심이 없었소. 나는 그에게 그들을 이용하지 않는 것보다는, 이용하는 것이 현명할 것이라고 말했소. 하지만 그는 그 말을 듣지 않았고, 나는 내 봉사가 필요한 다른 곳이 있다고 들었소.
@@ -460,8 +460,8 @@ str_npc5_backstory_c|그래서, 그들은 유산을 강탈했고, 나는 내 생
 str_npc6_backstory_c|나는 모두를 아래에서 보았소: 선장, 선원들, 선박을 보호하던 궁수들... 그리고 내가 바이킹들의 선박에서 일어날 때까지 죽은 줄 알았는데, 손과 발이 묶여 있었소. 나는 포로가 되었소, 하지만 신에게 감사하게도 나는 탈출할 수 있었소. 나는 에루디노 앞의 비참한 사람이오. 나는 죽은 사람이 살아있는 것에 불과하오. 지금은 그저 죽지 못해 사는 것이오.
 str_npc7_backstory_c|하지만 항상 나 자신은 그 불운에 휘말리지 않았소, 이방인, 세상의 그 어떤 여자보다도 멀쩡하고, 이 악취에 찌든, 내 외투와 몰골을 보시오, 나는 내가 증오하고 있는 적들을 죽이는 것 이외에는 다른 삶을 살아갈 수가 없소, 적어도 현명한 추적자와 사냥꾼의 길이 무지한 전사의 길보다 낫다는 것은 잘 알고 있소.
 str_npc8_backstory_c|일부 사람들은 나를 그렇게 불렀소. '멍청이 레인허드', 젠장, 나는 여기 있으면 안될 것 같소.
-str_npc9_backstory_c|나는 어떤 훌륭한 전쟁 군주에게 내 검을 봉사할 수 있게 되기를 원하고 있소, 내가 존경하는 직업은 땅을 소유하고 그 곳에서 출정해 전장으로 가는 것 뿐이오, 하지만 그 사이에 나는 도적, 약탈자, 상인들 사이에서 내가 잠들 곳을 찾기 위해 그들을 비난하고, 길가의 다른 하층민들과 어울릴 생각은 없소.
-str_npc10_backstory_c|지금, 당신이 그런 남자를 찾고 있다면, 내 기쁘게 당신의 방패 벽에 합류하겠소.
+str_npc9_backstory_c|나는 훌륭한 군주에게 내 검을 제공할 수 있게 되기를 원하고 있소. 가지고 있던 땅에서 떠난 나 같은 출생의 남자에게 유일하게 명예로운 일이 그것이기 때문이오. 하지만 그러는 동안에 나는 도적, 약탈자, 상인들은 물론 길바닥의 하층민들 사이에서 내가 잘 곳을 찾느라 비난받았소.
+str_npc10_backstory_c|지금, 내 앞에 선 사람이 바로 그런 사람이라면, 내 기쁘게 당신의 방패 벽에 합류하겠소.
 str_npc11_backstory_c|중요한 것은, 내가 당신에 대해 며칠 더 알아보고 당신에게 합류하기로 결정했다는 거에요. 나는 당분간 당신에게 합류하는 사람들을 지켜보았어요. 내 생각에는 당신이 좀 더 큰 미래를 앞서 보는 것 같았고, 내 직감이 맞다면, 나는 당신과 행운을 공유할 생각이에요.
 str_npc12_backstory_c|사실 나는 내가 이렇게 빨리 오딘스베로 돌아가는 것에 그리 관심이 없었다는 것이오, 나는 아직 젊고, 당분간 다른 곳을 여행하면서 다른 많은 것들을 배울 기회를 가져야만 한다고 생각하고 있소. 그래서 노른들이 우리를 서로 만나게 운명지은 것일 것이오. 당신은 당신의 전사들을 치료할 수 있는 의사가 필요할 것이오, 그리고 나는 당신의 행운을 필요로 하오, 그게 내가 알고 있던 당신의 머리 위에 빛나는 것 같소.
 str_npc13_backstory_c|그래서, 당신이 만약 전쟁 군주라면 당신의 목적은 오직 이기는 것이 주 관심사일 거라고 나는 믿고 있소, 당신이 직접 병력을 부리기보다는, 당신이 나에게 그들을 지휘할 기회를 준다면 고맙게 생각하겠소.
@@ -524,7 +524,7 @@ str_npc5_signup|정말로 관대한 제안이오.
 str_npc6_signup|운명은 피와 강철로 쓰여질 것이고, 내 운명의 구속은 두 사람을 서로 엮어둘 것이오.
 str_npc7_signup|나는 그럴 생각이 있소, 나는 여기에서 정말 불만스러운 생활을 하고 있소. 나는 처음에 이 곳이 안전한 장소가 될 것이라고 생각했소, 고대 신들에게 가까이 다가간 자는 다 떨어져 나가고 없는 곳이었으니까. 하지만 고위 드루이드, 그는 미쳤소! 그는 사람을 죽이는 것을 즐기고 있었소, 그는 신들이 그렇게 부른다고 말하고 있소, 하지만 그들은 진실을 알고 있을 것이오.
 str_npc8_signup|고맙소, 내 친구! 나는 거친 삶 대해서 알고 있소. 내게 기회를 주는 당신 같은 사람들을 위해 하나님에게 기도할 것이오.
-str_npc9_signup|나는 그 것들을 아주 많이 가지고 싶소, {reg59?부인:경}.
+str_npc9_signup|내가 바로 방패벽이 되어 주겠소, {reg59?부인:경}.
 str_npc10_signup|좋소, 나는 당신에게 당신 스스로 합리성을 증명할 수 있는 기회를 줄 수 있을 것 같소, 나는 당신을 위해 싸우겠소.
 str_npc11_signup|오, {reg59?예쁜이:멋쟁이}. 이 세상에서 운은 별로 소용없어요. 이 거친 세상에서는 겁 많은 자는 빨리죽고, 용감한자는 신속하게 따라나서죠.
 str_npc12_signup|나는 기쁘게 생각하겠소, 나는 젊고, 내 지식에 대한 갈증은 한계가 없소. 나는 우리의 여행이 내 경험을 쌓는 데 도움이 될 것이라 희망하오.
@@ -540,7 +540,7 @@ str_npc5_signup_2|나는 당신을 배신하지 않을 것이오. -- 오랫동�
 str_npc6_signup_2|에루디노가 내 기도에 응답해 주었군, 당신이 나에게 온 것이오! 당신은 나보다 더 충성스러운 동료나 친구를 찾을 수 없을 것이오.
 str_npc7_signup_2|하지만 당신의 동료들에게 내가 약탈이나 학살을 허용하지 않는다는 것을 미리 알려두는 게 좋을 것이오. 내 주위에서 부적절한 행동을 하는 자가 있다면, 그 즉시 누구나 빠르게 목덜미에 꽃힌 화살을 발견할 수 있을 것이오.
 str_npc8_signup_2|나는 당신에게 경의를 표할 것입니다. 그리고 당신 또한 내가 믿을 수 있는 자라는 사실을 알게 될 것이오.
-str_npc9_signup_2|나는 신사요, 나는 칼과 창으로 싸우는 것을 선호하오. 나는 당신이 나보다 충생이 천한 사람이라는 것을 기억하겠지만, 나는 경험 많은 전쟁 군주들에게 봉사하는 것에 부끄러움이 없소. -- 염치없지만, 문제 없소, 당신의 동료들이 나를 너무 익숙해하지 않는 것이 좋을 것이오, 내 용기를 질투해서도 안 될 것이고, 이 모든 것에 문제 제기를 하지는 않을 거라고 생각하오만?
+str_npc9_signup_2|나는 기사 출신이고 칼과 창으로 싸우는 것을 선호하오. 비록 당신이 나보다 충생이 천한 사람이라는 것은 알고 있지만, 경험 많은 군주에게 봉사하는 것에 부끄러움이 없소. 외람된 말씀이오만, 당신의 동료들이 나를 너무 친근하게 대하거나, 내 용기를 질투해서는 안될 것이오. 나는 이것들이 문제가 되진 않을 거라고 생각하오만?
 str_npc10_signup_2|당신은 나를 합류시키는 것을 후회하지 않을 것이오, {reg59?부인:선생}. 나는 매우 경험 많은 전사요, 특히 그 빌어먹을 웨일즈인들에겐 더욱 더 치명적이지. 그리고 나는 당신이 따듯한 저녁 식사를 하는 것보다 신병들과 함께 훈련하기를 원하오, 당신이 그것을 양해해주길 바라오.
 str_npc11_signup_2|나는 스칼드모에요. 나는 발키리처럼 싸우고, 발드르를 위해 교활한 로키를 마무리하려 노래하죠. 내가 합류한다면 모든 노스비거와 덴마크의 야를들은 그들의 행운과 엄지손가락을 저에게 내놓게 될 거에요, 하지만 저는 당신을 선택했어요, {reg59?예쁜이:멋쟁이}.
 str_npc12_signup_2|노른들이 그들의 운명을 맺는 것은 매우 흥미로운 일인 것 같소. 몇일 전까지, 나는 오딘스베에 있는 집에 돌아갈 거라고 생각했소, 나는 내 일을 매일 상처들을 수습하는 것으로 마무리지을 것이오. 그리고 당신을 만난 나는, 이 모든 것이 바뀔 것이라고 생각하고 있었소.
@@ -556,7 +556,7 @@ str_npc5_signup_response_1|확실히, 나는 모든 사람에게 명령을 내�
 str_npc6_signup_response_1|당신의 운명을 잡으시오, 우리는 많은 것을 할 것이오.
 str_npc7_signup_response_1|환영하겠소.
 str_npc8_signup_response_1|좋소, 당신은 신뢰를 채울 수 있을 것이오, 길이 우리를 기다리고 있소.
-str_npc9_signup_response_1|글쎄, 너무 많이는 안 될 것이오. 나는 그들과 이야기를 해 봐야겠소.
+str_npc9_signup_response_1|글쎄, 그렇게 되진 않을것이오. 내가 그들과 이야기를 해 보겠소.
 str_npc10_signup_response_1|좋소, 하지만 당신은 내 방패 벽 안의 브리타니아인들도 존중해야 할 것이오.
 str_npc11_signup_response_1|당신은 도움이 될 수 있을 것 같소, 좋소, 당신을 고용하겠소. 하지만 나를 '{reg59?예쁜이:멋쟁이}'라고 부르는 건 그만둬 주시오.
 str_npc12_signup_response_1|내 방패 벽에 온 것을 환영하오, 로크니어.
@@ -588,8 +588,8 @@ str_npc5_payment|고맙소, 지금, 우리의 계약을 공고히 하기 위해,
 str_npc6_payment|나는 합류하기 전에, 300 페닝을 선금으로 지불받기를 원하고 있소.
 str_npc7_payment|좋소, 그 다음 나는 당신과 함께 갈 것이오. 하지만 나는 {reg3} 페닝을 선금으로 받기를 원하고 있소. 당신은 내가 무료로 봉사하기를 기대하고 있지는 않을 것이라고 생각하지만, 당신은 어떻소?
 str_npc8_payment|그럼 나는 당신을 위해 당신의 적과 싸울 것이오!
-str_npc9_payment|좋소, 내가 합류하기 전에, 내게 {reg3} 페닝을 빌려주시오, 그러면 그 돈으로 나는 귀족 출신의 신사에 걸맞는 일부 의류들을 구매할 수 있을 것이오, 내 외투가 최근에 있었던 일로 심하게 닳아서 말이오. 나는 내 스스로가 일반 병사중 한 명이라고 오해 받기를 원하지는 않소.
-str_npc10_payment|좋은 소식이오, 하지만 마지막으로 한 가지 부탁이 있소, 전쟁 군주. 나는 {s20}에 여자가 있소, 창녀지, 그리고 그녀가 뱃속에 아이를 가졌다고 하더군. 젠장, 그녀는 브뤼케니오그의 여자요, 하지만 내가 떠나기 전에 그녀에게 돈을 주고 싶소... 아이를 위해서 말이오, 당신은 알 것이라 생각하오. 그 경우라도 그 아이는 절반은 색슨인이오, 그것은 여전히 미래에 가치가 있지. 당신은 내게 {reg3} 페닝을 줄 수 있다고 생각하오?
+str_npc9_payment|좋소, 내가 합류하기 전에, 내게 {reg3} 페닝을 빌려줄 수 있겠소? 그 돈으로 나는 귀족 출신의 신사에 걸맞는 옷을 좀 구매하려고 하오. 내 외투가 최근에 있었던 일로 심하게 닳아서 말이오. 나는 내가 일반 병사중 한 명이라고 오해 받고 싶지 않소.
+str_npc10_payment|좋은 소식이오, 하지만 마지막으로 한 가지 부탁이 있소, 주군. 나는 여기 {s20}에 여자가 있소, 창녀지, 그리고 그녀가 뱃속에 아이를 가졌다고 하더군. 젠장, 그녀는 브뤼케니오그의 여자요, 하지만 내가 떠나기 전에 그녀에게 돈을 주고 싶소... 아이를 위해서 말이오, 당신은 이해할 것이라 생각하오. 비록 아이가 반쪽짜리 색슨인이라도, 미래를 보장받을만한 가치가 있소. 내게 {reg3} 페닝을 줄 수 있소?
 str_npc11_payment|좋아요, {reg59?예쁜이:멋쟁이}. 하지만 당신에게 합류하기 전에, 나는 {reg3} 페닝을 받기를 원해요. 당신이 알다시피, 당신을 지켜보는 시간동안 경비가 필요했으니까요.
 str_npc12_payment|나는 합류하기 전에, 밀린 숙박비 등의 일부 계약을 해결해야만 하오. 당신이 도와줄 수 있겠소? 오직 300 페닝만 있으면 될 것이오.
 str_npc13_payment|아, 마지막으로, 나는 당신에게 합류하기 전에 {reg3}의 선금을 받기를 원하고 있소. 내 원칙은 임금을 먼저 받지 않고 다른 사람에게 봉사를 제공하지 않는 것이오.
@@ -781,7 +781,7 @@ str_npc6_home_intro|아마 당신은 웨섹스의 캔터워러버러에 대한 �
 str_npc7_home_intro|Pay attention, and be careful. We are now in Alban, near Dun Taruo. The Kingdom of Alban is the most powerful of North.
 str_npc8_home_intro|우리는 프리지아 왕국에 도달했소. 두어스테드가 이곳의 주요 도시이오. 몇 년 전에, 우리 프리지아인들은 프랑크족의 백성이었소. 그러나 이제 우리의 왕은 호릭이라고 불리는 데인족이오. 음... 사실 그는 우리의 진정한 왕이 아니오. 프리지아인들은 그를 인정하지 않소. 다만 살아남기 위해 그의 힘을 인정하는 것 뿐이오.
 str_npc9_home_intro|Behold the horizon, for there lies the fortress of Rendlaesham, seat of power to the kings of East Engle.
-str_npc10_home_intro|Look out, the trading town of Lundenwic, home to the Saxons of East Seaxna. This beautiful site has a glorious past, and, I might bet, a bright future.
+str_npc10_home_intro|저길 보시오, 이스트 색슨땅에 사는 색슨족의 고향이자 무역 도시인 런데위치요! 이 아름다운곳엔 영광스런 과거가 있었고, 장담컨데 밝은 미래 또한 있을것이오.
 str_npc11_home_intro|소금 냄새와 바닷 사람들의 땀 냄새가 나네요. 그건... 내 고향 툰스버그의 따스함이에요.
 str_npc12_home_intro|Perhaps you didn't know this about Heidabyr, if that interests you.
 str_npc13_home_intro|노르웨이인의 땅을 지나 더 북쪽에 사는 스베아인들이 나의 동족들 입니다. 그들은 전사이자 강인한 사람들로 다른 사람들을 지배할 운명입니다.
@@ -797,7 +797,7 @@ str_npc6_home_description|켄터워러버러가 아주 최근까지 켄트 왕�
 str_npc7_home_description|The kingdom of Alban is simply merging two people like the Dal Riata, people coming generations from Hibernia, and we, Picts. Our nobles and kings are so mixed that we are now one kingdom, although common people have our differences yet, there are many years of blood and war between us.
 str_npc8_home_description|프리지아 인들은 내성적인 사람들이오. 그들은 일을 할 때 혼자 남겨지는걸 원하는데, 데인족은 프랑크인보다 더 좋은 군주인것 같소. 우리가 세금을 지불하고 그들의 권위를 인정하는 대신, 그들은 우리를 내버려두기 때문이오.
 str_npc9_home_description|The kings of East Engle are from the Wuffing dynasty, whose name is taken from the legendary king Wuffa. Their origins remount to the Geats, just like in the tale of Beowulf, and they are the most powerful of the Anglo-Saxon kingdoms.
-str_npc10_home_description|Here once stood Londinium, the Roman capital of Britannia. Lundenwic lies very close to the ruins of Londinium, of which now remains a fort usually called Lundenburh. Its name means 'trading town of Londinium' or simply, as we Saxons say, 'London.'
+str_npc10_home_description|여긴 한때 로만 브리타니아의 수도였던 론디니움이 세워져 있었소. 런데위치는 지금은 보통 런덴버러라고 불리는 요새와 론디니움 유적 근처에 세워졌소.^그 이름의 뜻은 '론디니움의 교역 도시'나 우리 색슨인들이 부르는것처럼 '런던'이라고 줄여서 불리고 있소.
 str_npc11_home_description|당신이 알고있듯이 저는 여기 출신이에요. 저는 당신 옆에서 훌륭한 전사가 되도록 애쓰기로 마음 먹었어요. 전쟁은 모든 노스비거의 남자와 여자들의 핏속에 진하게 흐르고 있기 때문이죠. 야를들이 끈임없이 서로 싸우고 있기 때문에 이 땅은 지금 전쟁의 시대에 접어들었어요.
 str_npc12_home_description|Heidabyr is not the oldest site in Danmark. Actually it was founded a few generations ago, but it is becoming an important site by the Rerik merchants, who came here when their city was destroyed by King Gotrik more than sixty winters ago.
 str_npc13_home_description|데인족과 노르웨이인이 서쪽에서 번성한것 처럼, 내 동족들은 슬라브족과 그 너머의 땅 뿐만 아니라 미클랑가르드와의 교역까지 목표로 삼고 노력을 쏟고 있습니다.
@@ -813,7 +813,7 @@ str_npc6_home_description_2|The Jutes conquered this land from the Britons after
 str_npc7_home_description_2|The Picts are fine shepherds and hunters, but these Dal Riata are a clan of pirates, Scots. But I should not say that, since we are now fighting on the same side and for the king himself.
 str_npc8_home_description_2|우리 종족의 대부분의 사람들은 프랑크족이나 데인족의 간섭을 받지 않는 우리만의 나라를 원하오.그러나 우리가 뿔뿔이 흩어져 군대를 일으킬 수 없는 동안에는 불가능한 일이오...^우리의 에설링들... 그러니까 우리의 귀족들은 데인족을 섬기는걸 좋아하오. 귀족들이 우리를 이끌지 않는다면 자유민들이 뭉치는건 불가능하오. 불행히도 우리는 평생 다른 민족에 의해 지배될 운명인가보오...
 str_npc9_home_description_2|They harbor a great hatred against the rival kingdoms. Curiously enough, their territory is one of the few parts of Britannia where rainfall is sparse and the climate is dry. So, I am not really sure if you will ever want to fight their warriors for such a piece of land -- I don't think it'd be worth it.
-str_npc10_home_description_2|The mouth of the River Fleet serves Lundenwic as a harbour for both trade and fishing, merchants from all the nations of Europe are slowly flocking to Lundenwic in search of good commercial opportunities. And here, the old gods are still very well respected, but I should not say any more about that...
+str_npc10_home_description_2|플리트강의 입구와 이어진 항구는 런데위치에 무역과 어업을 제공하고 있소. 모든 유럽땅에서 온 상인들이 좋은 상업적 기회를 찾아 런데위치로 서서히 몰려들고 있소.^그리고 이곳에선 아직까지도 오래된 신들이 숭배되고 있소... 하지만 그들에 대해선 별로 이야기 하고 싶지 않구려...
 str_npc11_home_description_2|툰스버그의 지배자 '산발머리' 헤럴드 하프다나르손과 저는 그가 가장 강력한 야를이자 똑똑하고 무자비한 사람이기 때문에 금세 노스비거 전역을 지배할 수 있을거라고 생각해요. 당신처럼요, {reg59?my pretty:handsome}. 그의 말대로라면, 그 후에야 그는 그의 헝클어진 머리를 빗고 기에다 에이리크도티르와 결혼을 할거라고 해요. 물론 그 전에 그녀의 아버지를 죽이고 나서 말이죠. 어쨌든, 툰스버그는 중요한 상업 중심지이며 당신이 다양한 무역 상품과 온세상의 소식들을 찾을 수 있을거라고 확신해요.^^그럼 갈까요?
 str_npc12_home_description_2|I am sure that King Gotrik's name sounds familiar to you, no? He was a famous man because, fearing an invasion of the Franks from the south, he built an enormous structure to defend Danmark. We called it the Danavirki. It is an important linear defensive earthwork constructed across the neck of the Danmark peninsula.
 str_npc13_home_description_2|어쨌든, 긴 대화로 당신을 귀찮게 하고싶진 않습니다. 미드가르드가 무너지고 라그나로크가 올 때 까지 이야기할 시간은 많으니 말입니다. 하하하!
