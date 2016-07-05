@@ -710,7 +710,7 @@ str_npc15_personalityclash2_speech_b|{s11} responded that Hippocrates was an 'an
 str_npc16_personalityclash2_speech_b|This awful woman has openly declared that she follows the pagan gods Odin and Thor, and that the teachings of Christ are nothing more than the babblings of weak men. She even made an absurd remark suggesting that I, a holy priest, brought us all bad luck with my 'gibberish preaching.' If you have no intention of leading all of your men to Hell, this Norse woman should be immediately sent to her afterlife by fire.
 str_npc1_personalitymatch_speech|Warlord. {s11} didn't do badly in that last fight at all. He's a good egg, that one.
 str_npc2_personalitymatch_speech|{reg59?Madame:Sir}. I just wanted to tell you that {s11} may be a rough sort, and I'll venture a complete drunkard as well, but I'm proud to call him my companion.
-str_npc3_personalitymatch_speech|Hello, {reg59?madame:sir}! I had just wanted to tell you that {s11} is a most gallant and brave warrior. Did you see him in our last battle?
+str_npc3_personalitymatch_speech|안녕하세요, {reg59?부인:나리}! 저는 그냥 {s11}가 우리중 가장 용맹하고 용감한 전사라고 말하고 싶었어요. 우리의 마지막 전투에서 그가 어떻게 하는지 봤어요?
 str_npc4_personalitymatch_speech|I just wanted to say a word in praise of {s11}. He did well in that last battle.
 str_npc5_personalitymatch_speech|That was a fine battle, {playername}! {s11} is a good companion to have by our side in a fight.
 str_npc6_personalitymatch_speech|Sometimes I am troubled by all this bloodshed, although I know that proud warlords must be humbled, and cruel bandits tamed, if we are to restore peace.
@@ -726,7 +726,7 @@ str_npc15_personalitymatch_speech|Strategos. I was just having a word with {s11}
 str_npc16_personalitymatch_speech|I must tell you that even though {s11} behaves in a rough, unmannered way, I can see in his heart that he has, maybe unknown to himself, a good Christian soul.
 str_npc1_personalitymatch_speech_b|{s11} is awesome, always joking, proud and brave, and knows how to seduce girls. I'll warrant. I'm glad to have him with us.
 str_npc2_personalitymatch_speech_b|Based on how he did in that last fight, I'd say that I'd trust my back to him any day, for he also knows how to share tales and legends by the campfire after a fine battle. I already promised to take him to a Nordic mead hall someday.
-str_npc3_personalitymatch_speech_b|I also confess that I find him a truly delightful companion, a man of both wit and manners. Perhaps, perhaps... Ah, but I say too much. Good day, {reg59?madame:sir}.
+str_npc3_personalitymatch_speech_b|그리고 그가 재치는 물론 좋은 태도까지 갖춘 정말 즐거운 동료 라는걸 알게 된것도 고백하고 싶어요. 아마도, 음... 아, 괜한 말을 꺼낸것 같네요.^즐거운 하루 되세요, {reg59?부인:나리}.
 str_npc4_personalitymatch_speech_b|You chose well to enlist him in our shield-wall. He knows a thing or two about a fight.
 str_npc5_personalitymatch_speech_b|It is clear from his battle prowess that he is a true descendant of a brave warrior, and he already honors, in the battlefield, the greatness of his lineage.
 str_npc6_personalitymatch_speech_b|I must say that {s11} is a source of great comfort to me. I have told him of my sin, and he said to me that Christ will forgive my transgression, if I truly repent and truly desire such forgiveness. He is wise, and I am glad that he is with us.
