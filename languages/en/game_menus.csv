@@ -1366,3 +1366,14 @@ menu_set_goal_trigger_new_game|{s1}
 menu_set_goal_message_complete_goal|{s1}
 mno_new_goal|새로운 목표를 설정합니다.
 menu_auto_start_presentation|{s1}
+mno_enter_interiorm|수도원장을 방문한다.
+mno_enter_interiorm_door|수도원장의 방으로 들어가기.
+mno_entermo|수도원을 방문한다.
+mno_entermo_door|나가기.
+mno_monasterio_recruitm|부대에 합류하고 싶은 사람을 모집한다. (징병)
+mno_donatemo|수도원에 기부한다 (500 페닝).
+mno_aprender_leermo|읽는 법을 배운다 (4000 페닝).
+mno_convertirmo|그리스도교로 개종한다.
+mno_camp_wait_heremo|잠시 시간을 보낸다.
+mno_pillage_monasterymo|수도원을 약탈한다.
+mno_leavemo|떠난다.
