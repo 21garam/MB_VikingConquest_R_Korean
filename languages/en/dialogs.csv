@@ -5078,7 +5078,7 @@ dlga_problema_juicio10:close_window|뭐요? 그 땅은 우리 것이오! 글쌔,
 dlga_abad_talk:abad_catach1|나는 이런 이름의 책을 얻으러 왔소, 그 책의 이름은 '콜룸 카일의 시편'이라는 이름이오.
 dlga_abad_talk:abad_catach2|'콜룸 카일의 시편'라는 책에 대해서 알려주시오.
 dlga_abad_talk:abad_catachbackbook|나는 당신을 위해 '콜룸 카일의 시편'를 가져왔소.
-dlga_abad_catach1:abad_catach2|하지만... 하지만... 그건 불가능하오, {reg59?부인:경}. '콜룸 카일의 시편'은 성물이오, 그건 콜룸 카일의 기적인 밤에 일어난 빛에 의해 쓰여진 복사본이오 - 성 골롬보여! 심지어, 이 책은 우리 것이 아니오, 우리는 그 책을 단지 수호하고 있을 뿐이오. 이 물건의 진정한 소유주는 돔네일의 위 네일 부족이오. 이것은 전투에서 그들에게 수호 성물의 역할을 하고 있소. 이것은 그들을 전투에서 보호하고, 전쟁에서 승리를 보장해주고 있소. 당신은 위 네일의 적이 되길 원하오?
+dlga_abad_catach1:abad_catach2|하지만... 하지만... 그건 불가능하오, {reg59?부인:경}. '콜룸 카일의 시편'은 성물이오. 콜룸 카일이 기적적인 빛을 겪은 밤에 쓰여진 복사본이오 - 성 골롬보시여! 심지어, 이 책은 우리 것이 아니오, 우리는 그 책을 단지 수호하고 있을 뿐이오. 이 물건의 진정한 소유주는 돔네일의 위 네일 부족이오. 이것은 전투에서 그들에게 수호 성물의 역할을 하고 있소. 이것은 그들을 전투에서 보호하고, 전쟁에서 승리를 보장해주고 있소. 당신은 위 네일의 적이 되길 원하오?
 dlga_abad_catach2:abad_catach3|내가 생각하기에 당신은 내 말을 듣지 않을 것 같소. 나는 그것에 관계없이, 책을 가져갈 것이오. 나는 그걸 가로막는 자들을 전부 죽이고 내 갈길을 갈 것이오.
 dlga_abad_catach2:abad_catach4|파테르, 나는 그리스도인이오, 그리고 그 책은 나에게 아주 중요한 물건이오. 나는 당신의 수도원에 대신 기부를 하겠소.
 dlga_abad_catach2:abad_catachpers|이 책은 생명을 구할 수도 있소, 나는 바이킹의 포로를 구해내기 위해 그 책을 필요로 하오. 무고한 생명을 구하는 것은 하나님의 일이 아니오? (설득)
@@ -5090,13 +5090,13 @@ dlga_abad_catach3c:abad_catach4c|나는 당신이 무고한 사람들을 구하�
 dlga_abad_catach3c:abad_pretalk|나는 여전히 그 책을 필요로 하오.
 dlga_abad_catachbackbook:abad_pretalk|고맙소, 하나님의 가호가 있기를.
 dlga_abad_catachpers:abad_catachpre4c|나는 당신이 무고한 사람들을 구하고 싶어하는 것에 대해 잘 이해하고 있소, 하지만 이 책은 에일레흐의 위 네일 왕국과 미드 왕국에 속해 있소. 글쌔, 나는 당신에게 이 책을 줄 수도 있소. 당신이 하려는 일은 명예로운 일이오, 당신이 책을 가져간다면 나는 위 네일 부족에게 칼로 우리를 위협해 성물을 가져간 바이킹이 있었다고 말하겠소, 하지만 당신의 이름에 대해서는 언급하지 않을 것이오.
-dlga_abad_catachpers:close_window|는 여전히 그 책을 필요로 하오.
+dlga_abad_catachpers:close_window|미안하지만 당신의 말은 그다지 날 감동시키지 못했소. 미안하오.
 dlga_abad_catachpre4c:abad_dalibro|고맙소, 파테르. 하나님께서 기뻐하실 것이오.
 dlga_abad_catach4c:abad_dalibro|알겠소, 파테르. 나는 위 네일이 나를 증오하는 것에 개의치 않을 것이오. 나는 단지 나에게 소중한 사람들을 지키고자 할 뿐이오.
 dlga_abad_catach4c:abad_pretalk|당신 말이 옳소, 이 일에 대해서 좀 더 생각해보겠소.
 dlga_abad_dalibro:abad_pretalk|좋소, 여기 책이 있소. 그것을 소중히 간직해 주시오. 그건 귀중한 성물이오. 만약 당신이 돌려줄 수 있는 경우, 하루 안에 그것을 다시 가져오시오.
 dlga_abad_dalibro_ps:close_window|그러면 당신은 우리 모두를 죽인 다음, 우리 시체에서 책을 가져가야만 할 것이오. 하나님께서는 우리를 순교자로 알 것이고, 당신을 비난할 것이오.
-dlga_abad_dalibro_ps:close_window.1|책을 가지고 가시오. 나는 당신이 다른 사람들을 전부 죽이게 두지 않을 것이오, 하지만 당신에게는 하나님의 저주가 함께 할 것이오. 지금, 여기서 떠나시오, 악마.
+dlga_abad_dalibro_ps:close_window.1|책을 가지고 가시오. 나는 당신이 다른 사람들을 전부 죽이게 두지 않을 것이오, 하지만 당신에게는 하나님의 저주가 함께 할 것이오. 여기서 당장 떠나시오, 악마같으니라고!
 dlga_abad_talk:addonstoryabad1|당신의 전령을 보았소. 무슨 일인지 설명해주시오.
 dlga_abad_talk:addonstoryabad1_re|당신의 제안에 관심이 있을 수 있소.
 dlga_abad_talk:addonsthesnakedead|'스네이크'는 죽었소.
