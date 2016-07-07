@@ -647,7 +647,7 @@ str_npc16_2ary_morality_speech|I think it was a brave decision you took to {s21}
 str_npc1_personalityclash_speech|Warlord -- no offense, but I'm a bit tired of {s11}, who puts on airs like she's something better than your humble servant, Caio.
 str_npc2_personalityclash_speech|{reg59?Madame:Sir} -- as you recall, I was living in Ribe. I respect men who like mead and girls, but not men so strict and unbearable. I am talking about {s11}.
 str_npc3_personalityclash_speech|Warlord -- in my opinion, {s11} is a terrible man. He has tried to seduce me into his bed many times, and I have already seen him following me during the night, when I am alone. I tell you, I am pretty scared of him.
-str_npc4_personalityclash_speech|{s11} openly shows me disrespect, if things continue along this path, I'll kill him. Be warned if you want to take some action beforehand.
+str_npc4_personalityclash_speech|{s11}가 공개적으로 나에게 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 내가 그를 죽여버리겠소. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
 str_npc5_personalityclash_speech|A moment of your time, warlord. {s11} seems to think I'm a common bandit, just because I have rewarded myself in the past to the legitimate spoils of war from caravans passing through my family's lands.
 str_npc6_personalityclash_speech|Your pardon, {playername}, but I cannot keep my tongue still any longer. That harlot, {s11} -- every time she sees me, she points the five fingers of her hand at me -- a peasant's sign to ward off evil.
 str_npc7_personalityclash_speech|Warlord, I have done my best to put up with your followers' rude talk and filthy habits. But that one who calls himself {s11} is beyond tolerance.
@@ -663,7 +663,7 @@ str_npc16_personalityclash_speech|Just so you know -- there's something demonic 
 str_npc1_personalityclash_speech_b|She's not somebody special, and she has no right to tell me to keep my distance from her, as she did just now.
 str_npc2_personalityclash_speech_b|I don't much care to hear {s11} gloat about the righteousness of the chaste and pure life. I am a warrior who aspires to walhalla, not one of {s11}'s saints.
 str_npc3_personalityclash_speech_b|I know that an army is usually a men's place, but I believe I deserve some respect as well. I am no one's whore. I hope you do not mind me saying so.
-str_npc4_personalityclash_speech_b|This Saxon, {s11}, is looking for death. That is all.
+str_npc4_personalityclash_speech_b|이 색슨인 {s11}는 죽고싶은 모양이오.
 str_npc5_personalityclash_speech_b|I told him that if the warrior's way bothers him so much, he should become a priest or a beggar and so not have to worry about such things. I hope you do not mind that I said such things.
 str_npc6_personalityclash_speech_b|I know I'm not the best of men, but I am seeking repentance, and I deserve better than to be the object of some witch's superstition. I think she has some devil's blood. I just thought you should know.
 str_npc7_personalityclash_speech_b|I do not care for how he stares at me around the campfire after a meal, as he picks his teeth and drinks his foul beer. What I cannot accept is that he keeps saying that he is a much better tracker than myself, which is obviously false. He is base, ignorant, and a completely idiotic youth, that could never compare to me in tracking, nor in anything else. I do not care to travel with such people.
