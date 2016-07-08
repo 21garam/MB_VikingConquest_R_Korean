@@ -1213,7 +1213,7 @@ dlga_companion_recruit_secondchance:close_window|신경쓰지 마시오.
 dlga_companion_recruit_backstory_delayed:companion_recruit_backstory_delayed_response|{s5}
 dlga_companion_recruit_backstory_delayed_response:companion_recruit_signup_b|당신을 내 부대에 영입할 수 있을 것 같은데.
 dlga_companion_recruit_backstory_delayed_response:close_window|무슨 일이 있거든 알려주겠소.
-dlga_companion_recruit_signup_confirm:close_window|좋아요! 움직일 준비를 할테니 잠시만 기다려주세요.
+dlga_companion_recruit_signup_confirm:close_window|좋소! 움직일 준비를 할테니 잠시만 기다려주시오.
 dlga_start:companion_rehire|당신 부대에 재합류하고 싶은 마음은 한결같소, 당신이 원하기만 한다면야.
 dlga_start:companion_rehire.1|살아서 다시 만나게 되다니 정말 다행이오, {s5}! {s6}, 그리고 나는 당신이 죽었는지 살았는지 도망쳤는지 알 도리가 없었소. 그 이후로 나는 당신을 찾아다니며 이곳 저곳을 돌아다녔소. 장비를 챙겨 다시 합류해도 되겠소?
 dlga_start:companion_prison_break_chains|여기서 꺼내주기 위해 왔소.

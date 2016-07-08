@@ -385,7 +385,7 @@ str_npc10_intro|하나님께서 당신과 함께 하시길, {reg59?부인:경}! 
 str_npc11_intro|안녕하세요, {reg59?예쁜 레이디:잘 생긴 경}. 나는 당신을 잠시 지켜보고 있었어요.
 str_npc12_intro|안녕하시오, {reg59?부인:선생}. 만나서 반갑소.
 str_npc13_intro|무슨 일이오? 나에게 무엇을 원하시오?
-str_npc14_intro|안녕하시오, 여행자여. 나는 에일츠요, 게일 전사지. 나는 당신이 내 이름에 대해 들어 보았을 거라 생각하오.
+str_npc14_intro|안녕하시오, 여행자여. 나는 게일 전사 에일츠라고 하오. 의심의 여지 없이, 나에 대해 들어 보았을 거라 생각하오.
 str_npc15_intro|이보시오! 이보시오! 안녕하시오, {reg59?부인:선생}. 나는 아가티노스요. 이 곳에서 우리가 이 순간에 만났다는 것이 우연이 아니라고 생각하지 않소?
 str_npc16_intro|아... 당신... 나는...
 str_npc1_intro_response_1|그래, 알겠소. 당신에 대해 말해 보시오.
@@ -401,7 +401,7 @@ str_npc10_intro_response_1|당신은 왜 그런 말을 하시오, 선생?
 str_npc11_intro_response_1|당신은 누구요, 그리고 왜 나를 찾고 있소?
 str_npc12_intro_response_1|나도 만나서 반갑소.
 str_npc13_intro_response_1|하루쯤은 다른 여행자와 같이 시간을 보내도 되지 않겠소, 당신이 허용하는 경우라면야.
-str_npc14_intro_response_1|음... 나는 들어본 적이 없는 것 같소.
+str_npc14_intro_response_1|음... 들어본 적이 없는 것 같소.
 str_npc15_intro_response_1|내 어떤 것이 당신의 관심을 끌었는 지, 물어봐도 되겠소?
 str_npc16_intro_response_1|당신은 혀가 꼬였소?
 str_npc1_intro_response_2|음, 당신이 나에게 합류하고 싶다는 건 알았소, 하지만 나는 당신이 필요하지 않소. 그럼 이만.
@@ -417,7 +417,7 @@ str_npc10_intro_response_2|자주 들었던 말이고, 나는 그 말을 전혀 
 str_npc11_intro_response_2|오, 나는 그럴 시간이 없소!
 str_npc12_intro_response_2|미안하오, 나는 지금 해야만 하는 일이 있소.
 str_npc13_intro_response_2|아무 것도 아니오, 내 사과하겠소.
-str_npc14_intro_response_2|아니, 내 생각에는 당신과 그리 친해질 수 없을 것 같소.
+str_npc14_intro_response_2|못들어봤소. 그다지 당신과 친해지고 싶단 생각이 들지 않는구려.
 str_npc15_intro_response_2|당신의 사업 파트너는 다른 사람을 알아 보시오, 선생
 str_npc16_intro_response_2|나는 가겠소, 당신은 먼저 말 부터 배워야 할 것 같군.
 str_npc1_backstory_a|전쟁 군주, 나는 늙은 로마인의 막내 아들이오. 당신도 알다시피 우리 가족은 이 지역의 전설이나 다름 없소. 우리는 우리의 옛 조상들의 역사를 보존하고, 하드리아누스의 장벽을 순찰하고 있소.
@@ -433,7 +433,7 @@ str_npc10_backstory_a|그건 긴 이야기요, 하지만 당신이 내게 한 �
 str_npc11_backstory_a|진정해요, {reg59?예쁜이:멋쟁이}. 당신이 똑똑한 사람이라 좋군요, 하지만 먼저 내 소개를 들어야 할 거에요. 내 이름은 솔베이그 올라프도티르에요. 나는 평범한 여자가 아니에요. 나는 스캴드메르죠.
 str_npc12_backstory_a|나는 지금이 공식적으로 나를 소개할 수 있는 좋은 시간이라고 생각하오, 그건 가능성이 있었기 때문에 우리의 길이 서로 교차하게 된 것이지. 나는 오딘스베의 아스비욘이오, 그리고 나는 로크니어요, 나는 몇 달 전 프랑키아에서 덴마크로 돌아올 때까지 간단한 의사 일을 하고 있었소.
 str_npc13_backstory_a|좋소, 그러고 말고. 내 이름은 헬기라고 하고, 덴마크인과 슬라브인의 학살자요.
-str_npc14_backstory_a|당신이 말이오? 당신은 아마도 내가 가진 말에 대해 들어본 적이 있을 것이오, 당신은 달 빛을 받으며 평원을 가로질러 본 적이 있소? 혹은 내 검, 하이베르니아의 고위 왕족들 중에서도 왕자만이 들 수 있는 검을 본 적이 있소?
+str_npc14_backstory_a|들어본적 없다고 말했소? 그렇다면... 아마도 내가 가진 말에 대해선 들어본 적이 있을 것이오, 벌판을 달빛처럼 가로지르는 말에 대해선 들어본적 있소? 아니면 내 검, 하이베르니아의 아주 고귀한 혈통의 왕자만이 들 수 있는 검에 대해선 들어본 적 있소?
 str_npc15_backstory_a|먼저 나를 소개하겠소. 나는 기술자요, 나는 무언가를 보강하는 데에 예술적인 재능을 가지고 있지. 만약 당신이 필요한 경우 나는 성벽들을 간단하게 무너뜨릴 수 있소, 나는 그런 일들의 전문가니까. 만약 당신이 다시 성벽을 쌓아올리길 원할 경우, 그 때도 나는 적합한 사람일 것이오. -- 하지만 그에 대해 나는 당신에게 좀 더 많은 비용을 청구할 것이오.
 str_npc16_backstory_a|실례하겠소, {reg59?부인:선생}. 나는 신에게 봉사하는 사람이고, 기독교 신부요. 당신은 {playername}(이)가 아니오?
 str_npc1_backstory_b|나는 개인적으로 내가 아주 뛰어난 추적자라고 생각하고 있소. 사실, 나는 항상 우리가 동굴을 떠날 때, 내 가족을 보호하는 동안 최고의 추적자였소. 당신이 내 봉사를 받는다면, 내 아버지가 당신을 기쁘게 생각할 것이오.
@@ -449,7 +449,7 @@ str_npc10_backstory_b|나는 색슨인 전사요, 그리고 나는 웨일즈인,
 str_npc11_backstory_b|당신의 얼굴에는 내가 무슨 말을 하고 있는 지 잘 모르고 있다는 게 느껴지네요, 좋아요, 나는 나 같은 사람이 많지 않다는 걸 인정해야겠네요, 그리고 덴마크에서는 내 자신의 땅에서보다 더 적을 테고요, 바로 노스비거 말이죠. 그러면 당신은 이해할 수 있을 거라고 생각해요, 스캴드메르는 무기를 들고 전장에 나가는 처녀에요. 또한 시에서 노래하거나 회자되는 존재이기도 하죠.
 str_npc12_backstory_b|다시 오딘스베로 돌아가는 길에, 나는 리베에 도착하고 몇 달 동안 그 곳에 머무르다가 결국, 지역 귀족에게 봉사하게 되었소. -- 하지만 그는 전혀 귀족 같지 않았지. 나는 그가 내 봉사를 위해서가 아니라 내 명성을 이용해 총회에서 며칠 간 장식으로 데리고 다닐 생각이었다고 생각하오.
 str_npc13_backstory_b|나는 노스비거의 땅 동쪽에 있는 헤르시어의 둘째 아들이오. 나는 스베아 바이킹이지. 나는 앵글리아에서 내 행운을 추구했소, 나는 서쪽에서 내 행운을 추구하지만, 내 많은 동포들은 동쪽 지역에서 행운을 추구하는 편이오, 그들은 루스인들이지. 나는 남자들에게 전쟁에 필요한 각종 기예들을 가르칠 수 있소. 불행하게도, 이 곳의 야를들은 어중이 떠중이들을 훌륭한 전사로 만드는 것에 별다른 관심이 없었소. 나는 그에게 그들을 이용하지 않는 것보다는, 이용하는 것이 현명할 것이라고 말했소. 하지만 그는 그 말을 듣지 않았고, 나는 내 봉사가 필요한 다른 곳이 있다고 들었소.
-str_npc14_backstory_b|나는 항상 전사였소, 나는 농부가 아니었고 그 외의 다른 일도 하지 않았지, 오직 전사일 뿐이었소. 나는 섬들에 대한 겸손한 애정을 인정하오, 지난 몇 년 동안 나는 내 재능을 최대한 활용해 그 곳의 도시, 요새, 마을 등을 전전하며 돌아다녔소.
+str_npc14_backstory_b|나는 항상 전사로 살아왔소, 농부나 그 외의 다른 어떤 일도 한 적 없이 오직 전사일 뿐이었소. 이 땅에 대한 나의 애정이 그리 대단치 않다는건 인정하오. 지난 몇 년 동안 나는 내 재능을 최대한 활용해 그 곳의 도시, 요새, 마을 등을 전전하며 돌아다녔소.
 str_npc15_backstory_b|오, 나는 불행한 사람이었소. 나는 콘스탄티노폴리스에서 왔지, 그 곳은 여기에서 아주 먼 곳이오... 아마도 당신은 들어본 적이 있을 것이오, 미크리가드라고 불리는 바랑기아인에 대해서 말이오. 몇 년 전, 그들은 나를 납치해서 여기, 이 먼 북쪽 땅으로 데려왔소. 그들은 나를 노예로 만들었고, 흐로달란드의 야를에게 나를 팔아치웠지. 며칠 전까지 그를 위해서 일했지만, 나는 충분한 돈을 모아 내 자유를 구입했소.
 str_npc16_backstory_b|미안하오... 내가 바보였소. 내 스스로에 대해 이야기해보겠소. 내 이름은 베다라고 하고, 나는 태어날 때부터 성 교회에 있었고, 결국 소년이 되고, 성직자가 되었소. 나는 가장 힘든 전사의 마음 속에도 그리스도를 위한 공간이 있을 거라고 믿고 있고, 나는 하나님이 나에게 주신 더 나은 임무를 위해 방패 벽 안에서 성물을 지킬 것이오.
 str_npc1_backstory_c|내 부분에 대해서 말하면, 나는 단지 여행하며 내가 볼 수 있는 세상을 보고 싶소. 당신은 나에게 기회를 준 거요. 그리고 나는 그걸 기쁘게 생각하고 있소, 아버지가 내 형제들 중에서 당신에게 빚을 갚기 위해 형제들에게 이야기할 때, 나는 내가 스스로 가겠다고 했소.
@@ -465,7 +465,7 @@ str_npc10_backstory_c|지금, 내 앞에 선 사람이 바로 그런 사람이�
 str_npc11_backstory_c|중요한 것은, 내가 당신에 대해 며칠 더 알아보고 당신에게 합류하기로 결정했다는 거에요. 나는 당분간 당신에게 합류하는 사람들을 지켜보았어요. 내 생각에는 당신이 좀 더 큰 미래를 앞서 보는 것 같았고, 내 직감이 맞다면, 나는 당신과 행운을 공유할 생각이에요.
 str_npc12_backstory_c|사실 나는 내가 이렇게 빨리 오딘스베로 돌아가는 것에 그리 관심이 없었다는 것이오, 나는 아직 젊고, 당분간 다른 곳을 여행하면서 다른 많은 것들을 배울 기회를 가져야만 한다고 생각하고 있소. 그래서 노른들이 우리를 서로 만나게 운명지은 것일 것이오. 당신은 당신의 전사들을 치료할 수 있는 의사가 필요할 것이오, 그리고 나는 당신의 행운을 필요로 하오, 그게 내가 알고 있던 당신의 머리 위에 빛나는 것 같소.
 str_npc13_backstory_c|그래서, 당신이 만약 전쟁 군주라면 당신의 목적은 오직 이기는 것이 주 관심사일 거라고 나는 믿고 있소, 당신이 직접 병력을 부리기보다는, 당신이 나에게 그들을 지휘할 기회를 준다면 고맙게 생각하겠소.
-str_npc14_backstory_c|당신은 내게 무언가를 생각나게 하는군. -- 어딘가의 도시에 숨은 적이 내 자유로운 운명을 가두려고 그림자에 숨어 있는 것 말이오. -- 화가 난다던지, 지긋지긋함, 불행한 남편. 아버지, 좋은 것. 어머니도 있고, 그리고 삼촌이 생각나고 있소. 나는 당신이 나를 이 도시에서 떠날 수 있게 해줄 거라고 생각하지는 않지만, 당신은 어떻소?
+str_npc14_backstory_c|저기 마을 밖 어딘가가 날 생각하게 만드는구려... 그림자 속에 숨어 내 자유로운 운명을 가두려고 하는 적이 떠오른단 말이오.^그러니까... 그녀들의 화나고, 역겹고, 불행에 빠진 남편들 말이오. 아버지들은 말할것도 없이 날 그렇게 만들거요. 내 생각엔 어머니나 삼촌들도 마찬가지 같구려. 당신이 나를 이 도시에서 떠나도록 도와주는걸 고려하길 기대하는건 아니오만... 그래줄 수 있겠소?
 str_npc15_backstory_c|사실대로 말하면 벌써 일 년이 지났소, 하지만 나는 결코 콘스탄티노폴리스에 돌아가지 않을 것이오. 나는 흐로달란드의 야를의 집에 머물 계획이오, 나는 그의 아들과 아주 좋은 관계를 가지고 있소. 하지만 흐로달란드의 야를은 나를 싫어했고 나를 쫓아냈지. 내가 보기에 당신은 전사들의 지도자인것 같은데, 나를 당신 동료로 끼워 주시오, 당신이 나를 데려갈 경우, 당신은 나의 재능을 공성에서 유용하게 사용할 수 있을 것이오.
 str_npc16_backstory_c|나는 색슨인의 발상지인 위턴 세스터 출신이오, 당신도 알다시피, 그 곳은 웨스트 색슨의 중심지요. 나는 에델레드의 궁정에서 몇 년간 봉사했소, 하지만, 솔직히, 그는 그렇게 그릇이 큰 사람이 아니오. 아니, 그의 동생 알프레드같은 사람 말이오. 마지막으로, 나는 이스트 앵글리아의 도모크에 가볼 생각이오, 하지만 덴마크인들이 왔고, 왕국이 사람들을 지켜줄 것이라는 믿음은 깨졌소. 나는 사람들과 항상 동고동락하며 정직하게 지낼 수도 있을 것이오. 당신 생각은 어떠시오?
 str_npc1_backstory_later|당신은 어떻게 생각하시오? 좋은 추적자는 항상 필요하지 않소, 아니오?
@@ -481,7 +481,7 @@ str_npc10_backstory_later|나는 앵글리아를 여행하고 있소, 그러나 
 str_npc11_backstory_later|당신은 어떻게 생각하나요? 당신은 내가 당신에게 합류하는 것에 대해 얼마나 큰 행운으로 생각하고 있죠?
 str_npc12_backstory_later|리베의 사람들은 의료 봉사를 절실히 필요로 하고 있소, 하지만 나는 내 운명이 그 곳이 아니라는 걸 잘 알고 있소.
 str_npc13_backstory_later|나는 궁정에서 궁정을 전전했소, 하지만 나는 아직 내 취향에 맞는 주인을 찾지 못했소.
-str_npc14_backstory_later|나는 도시들을 방황했소, 나 때문에 사랑 열에 들끓는 여자와 오쟁이 진 남편을 떠나서 말이오. 하지만 나는 점점 싫증이 나고 있고, 작은 도전을 해보려고 하오, 내가 생각하는 방향을 좀 더 많은 무술을 이용한 즐길 거리에 돌려놓을까 생각중이오.
+str_npc14_backstory_later|나는 도시들을 방황했소, 상사병에 빠져 줄서있는 여자들과 오쟁이 진 남편들을 떠나서 말이오. 하지만 나는 이런 도전을 하는 데 점점 싫증이 나려고 하오. 이런 소일거리들 대신 내 무용을 뽐낼 수 있는 일들을 하고싶다고 줄곧 생각해왔소.
 str_npc15_backstory_later|노스비거에서의 1년은 결코 쉽지 않은 생활이었소. 나는 콘스탄티노플에서 석조 건축물을 건설한 경험이 있었지만, 그 곳은 노스비거였소, 모든 것이 나무로 만들어져 있었지. 결국, 나는 나무도 아름다울 수 있다는 것을 발견했소. 바랑기아인들의 선박과 친밀한 관계를 가지는 그들의 주택의 형식에 대해서도 익숙해졌지.
 str_npc16_backstory_later|내 임무는 여전히 매일 계속될 것이오, 나는 그리스도의 무리에 더 많은 어린 양들을 데려와야만 하오.
 str_npc1_backstory_response_1|나는 그가 나에게 숙련된 추적자를 보내주어서 고맙게 생각하고 있소.
@@ -497,7 +497,7 @@ str_npc10_backstory_response_1|당신이 일자리를 필요로 한다면, 나�
 str_npc11_backstory_response_1|음... 좋소! 내 행운은 항상 넘치니까.
 str_npc12_backstory_response_1|의사라, 음. 좋소, 당신을 환영하겠소.
 str_npc13_backstory_response_1|나는 내 방패 벽에 당신을 합류시킬 수 있을 것이오.
-str_npc14_backstory_response_1|나는 여분의 검을 제공할 전사를 필요로 하고 있소.
+str_npc14_backstory_response_1|내가 더 많은 검을 부리는것도 가능할것 같소.
 str_npc15_backstory_response_1|나는 당신의 그런 기술들을 사용할 수 있을 것이오.
 str_npc16_backstory_response_1|당신은 정확히 무엇을 할 수 있소?
 str_npc1_backstory_response_2|나는 당신을 책임지고 싶지 않소. 그에게로 돌아가시오.
@@ -513,7 +513,7 @@ str_npc10_backstory_response_2|의심할 여지 없이 당신은 결국 색슨 �
 str_npc11_backstory_response_2|아니오, 나는 조금 생각해 봤지만, 나는 지금 아직 할 준비가 안 됬소, 나는 할 일이 있소. 가서 다른 사람이나 쫓아가시오.
 str_npc12_backstory_response_2|미안하오, 나는 새로 사람을 들일 여유가 없소.
 str_npc13_backstory_response_2|그런 기회에 대해 듣게 된다면 알려 주겠소. 그럼 이만.
-str_npc14_backstory_response_2|아니, 미안하오. 내가 당신을 위해 할 수 있는 일은 없을 것 같소.
+str_npc14_backstory_response_2|아니, 미안하게 됐소. 내가 당신을 위해 할 수 있는 일은 없을 것 같소.
 str_npc15_backstory_response_2|미안하오, 나는 지금 있는 사람들도 관리하기 힘들어 하고 있소.
 str_npc16_backstory_response_2|미안하오, 신부. 당신은 문제를 일으킬 것 같소, 내 많은 전사들이 많은 신들을 믿고 있소, 나는 그 점을 우려하고 있소.
 str_npc1_signup|나는 당신에게 충성과 헌신을 다할 것이고, 당신의 신뢰만큼 내 가치를 보여줄 것이오.
@@ -529,7 +529,7 @@ str_npc10_signup|좋소, 나는 당신에게 당신 스스로 합리성을 증�
 str_npc11_signup|오, {reg59?예쁜이:멋쟁이}. 이 세상에서 운은 별로 소용없어요. 이 거친 세상에서는 겁 많은 자는 빨리죽고, 용감한자는 신속하게 따라나서죠.
 str_npc12_signup|나는 기쁘게 생각하겠소, 나는 젊고, 내 지식에 대한 갈증은 한계가 없소. 나는 우리의 여행이 내 경험을 쌓는 데 도움이 될 것이라 희망하오.
 str_npc13_signup|당신과 함께 갈 수 있어 기쁠 것이오, 적어도 잠시 동안은 전리품과 임금을 함께 나눌 수 있겠지 않겠소.
-str_npc14_signup|확실하오? 당신은 날 잘 대해 줘야 할 것이오.
+str_npc14_signup|확실하오? 날 입대시키려면 내게 잘 해줘야 할 것이오.
 str_npc15_signup|나는 당분간 당신과 함께 여행을 떠날 것이오. 나는 흐로달란드 너머에 있는 노스란드에 대해 자세히 알고 싶소.
 str_npc16_signup|좋소, {reg59?부인:경}, 당신에게 말해둘 것이 있소. 내 주된 임무는 영적인 것으로, 나는 이 방패 벽의 모든 영혼들에게 평화를 가져올 것이오.
 str_npc1_signup_2|나는 이 왕국에서 나를 거칠게 대했지만, 적어도 내 임금에 대해서는 공정했소. 나는 누구보다 먼저, 서둘러 갈 것이고, 나는 좋은 추적자이고, 지형을 보는 좋은 눈이 있소, 그리고 벌꿀주와 에일 맥주를 주시오. 그래서 당신은 무슨 대답을 할 것이오?
@@ -545,7 +545,7 @@ str_npc10_signup_2|당신은 나를 합류시키는 것을 후회하지 않을 �
 str_npc11_signup_2|나는 스캴드메르에요. 나는 발키리처럼 싸우고, 발드르를 위해 교활한 로키를 마무리하려 노래하죠. 내가 합류한다면 모든 노스비거와 덴마크의 야를들은 그들의 행운과 엄지손가락을 저에게 내놓게 될 거에요, 하지만 저는 당신을 선택했어요, {reg59?예쁜이:멋쟁이}.
 str_npc12_signup_2|노른들이 그들의 운명을 맺는 것은 매우 흥미로운 일인 것 같소. 몇일 전까지, 나는 오딘스베에 있는 집에 돌아갈 거라고 생각했소, 나는 내 일을 매일 상처들을 수습하는 것으로 마무리지을 것이오. 그리고 당신을 만난 나는, 이 모든 것이 바뀔 것이라고 생각하고 있었소.
 str_npc13_signup_2|나는 뛰어난 검사요, 나는 또한 전투에서 병력들을 지휘할 수도 있소. 하지만 나는 규율을 위해 당신의 병력들을 내 임의로 처벌할 수도 있음을 알아두어야 할 것이오, 그렇지 않으면 장기적으로 그들은 당신을 따르지 않게 되겠지.
-str_npc14_signup_2|검, 창, 활 -- 이러한 기술들에 있어 내 기술은 서사시에나 나올 법한 수준의 기술이오. 우리는 야영지의 모닥불에서 우리의 업적을 회상할 수도 있을 것이오, 더러운 주점에서든, 왕의 회당에서든, 여러 세대가 들을 업적을 말이오.
+str_npc14_signup_2|검, 창, 활 할것 없이 내 전투 기술은 서사시에나 나올 법한 수준의 기술이오. 우리가 함께 써나갈 업적들은 여러 세대에 걸쳐 회상될 것이오. 축제에서도, 모닥불 근처에서도, 더러운 주점은 물론 왕의 전당에서도 노래될 그런 업적들 말이오.
 str_npc15_signup_2|공성 작업은 내 전문 분야요, 내가 이해하겠지만, 나는 야전에서도 나 자신을 충분히 지킬 수 있소, 그 경우에 대해서는 생각할 필요가 없소. 이 땅의 요새들은 내 땅에 있던 어느 요새와도 비교할 수 없을 정도로 약하고, 나는 진정으로 당신이 공격하고자 원하는 곳을 어떤 자리이든지 찾아서 점령하게 해 줄 수 있을 것이오.
 str_npc16_signup_2|나는 모든 종류의 전투에서 도움이 될 것이오, 그것은 일상적인 일이나 영적인 일이지. -- 지옥의 무리들에 대해 저항할 수 있게 도울 수 있소.
 str_npc1_signup_response_1|좋소, 당신은 우리에게 도움이 될 수 있을 것이오.
@@ -577,7 +577,7 @@ str_npc10_signup_response_2|내 생각에, 밤 중에 내 병사들이 색슨인
 str_npc11_signup_response_2|미안하오, 레이디. 우리는 이미 충분한 음유시인이 있소. 아마 당신은 다른 곳에서 다른 사람을 쫓아다녀야 할 것이오.
 str_npc12_signup_response_2|전장은 학자들이 있을 곳이 아니오, 아마 당신은 다른 곳에서 일거리를 찾아야 할 것이오.
 str_npc13_signup_response_2|내 전사들은 충분히 훈련되어 있소, 그럼 이만, 선생.
-str_npc14_signup_response_2|사실, 내 생각에 당신은 전장의 영광에 안달이 나 있는 것 같소.
+str_npc14_signup_response_2|다시 생각해보니, 영광과 여자에 안달나있는 싸움꾼은 부리기에 위험한것 같소.
 str_npc15_signup_response_2|사실, 나는 다른 종류의 전문가가 필요하오, 내 사과하겠소.
 str_npc16_signup_response_2|솔직히 말하면, 나는 광신자가 아닌 동료를 원하고 있소.
 str_npc1_payment|나는 당신에게 매우 유용할 것이오, {reg59?부인:경}, 내기를 해도 좋소. 다만 한 가지 더 우리가 떠나기 전에, 당신은 나에게 {reg3} 페닝을 빌려줄 수 있소? 부끄러운 말이지만, 나는 여기에 진 빚이 있어서 말이오, 지난 몇 주 동안 선술집에서 머무는 동안, 선술집 주인은 내가 더 이상 돈을 가져오지 않을 것이라고 생각하고 있소. 당신도 알겠지만, 이 곳에서 빚을 청산하지 않으면 나중에 상황이 추하게 될 수도 있소.
@@ -593,7 +593,7 @@ str_npc10_payment|좋은 소식이오, 하지만 마지막으로 한 가지 부�
 str_npc11_payment|좋아요, {reg59?예쁜이:멋쟁이}. 하지만 당신에게 합류하기 전에, 나는 {reg3} 페닝을 받기를 원해요. 당신이 알다시피, 당신을 지켜보는 시간동안 경비가 필요했으니까요.
 str_npc12_payment|나는 합류하기 전에, 밀린 숙박비 등의 일부 계약을 해결해야만 하오. 당신이 도와줄 수 있겠소? 오직 300 페닝만 있으면 될 것이오.
 str_npc13_payment|아, 마지막으로, 나는 당신에게 합류하기 전에 {reg3}의 선금을 받기를 원하고 있소. 내 원칙은 임금을 먼저 받지 않고 다른 사람에게 봉사를 제공하지 않는 것이오.
-str_npc14_payment|나는 합류하기 전에, 이 곳에서 묵는 동안 발생한 몇몇 비용의 문제가 남아 있소. -- {reg3} 페닝이지. 당신이 나를 위해 그 문제를 도와줄 수 있소? 우리의 우정의 몸짓이 전설로 남을 수도 있지 않겠소?
+str_npc14_payment|내가 합류하기 전에, 내겐 이 곳에서 묵는 동안 발생한 몇몇의 작은 비용 문제들이 있소. -- {reg3} 페닝 정도...^나를 위해 그 문제들을 해결해 줄 생각이 있소? 우리의 전설적인 우정을 남길 수 있는 표시로 말이오?
 str_npc15_payment|좋소, 그런데, 나는 숙련된 기술자로서 내 봉사에 대한 충분한 대가를 원하오. 나는 {reg3} 페닝정도의 선불금을 생각하고 있소.
 str_npc16_payment|합류하기 전에, 나는 200 페닝을 선금으로 지불받기를 원하고 있소.
 str_npc1_payment_response|좋소, 여기 {reg3} 페닝이오. 이제 문제는 해결되었을 것이오.
@@ -679,7 +679,7 @@ str_npc16_personalityclash_speech_b|Fearing witchcraft, I asked {s11} about it, 
 str_npc1_personalityclash2_speech|Warlord -- no offense, but I'm a bit tired of {s11}, who keeps saying that I am a crazy and an idiot youth that is surely doomed to go to Hell.
 str_npc2_personalityclash2_speech|{reg59?Madame:Sir}. If you don't mind, I'd prefer not to be deployed anywhere near {s11}, lest I be tempted to sacrifice him to my gods.
 str_npc3_personalityclash2_speech|{reg59?Madame:Sir}. 내가 당신의 방패벽에 합류하고 나서 나는 병사로 살아가는 법과 전사들만의 질서를 존중하는 법을 배우기 위해 정말 열심히 노력했어요. 그건 노예로 사는것 보다 훨씬 좋았어요. 하지만 당신의 부하들 중 일부는 나를 동등한 동료로 존중해주질 않아요.
-str_npc4_personalityclash2_speech|I told you that I hate the Picts, and you invited {s11} to join us. Well, inform her that when she speaks to me, she should remember that she is nothing more than a Pictish tracker, whereas I am a Scot.
+str_npc4_personalityclash2_speech|나는 픽트인들을 싫어한다고 말했는데 당신은 {s11}를 우리 부대에 불러들였소. 흠... 그녀가 나를 대할 때 그녀가 그저 픽트인 추적자일뿐 아무것도 아니란건 알고 말하라고 알려주시오. 반면에 난 스코틀랜드 사람이라는것도 말이오.
 str_npc5_personalityclash2_speech|Warlord. {s11} needs to have her tongue cut out, and her back whipped hard.
 str_npc6_personalityclash2_speech|Did you see {s11} during that last battle? He taunts the fallen foe as they lay stricken and helpless on the battlefield, mocking their parentage, their foolishness for having fought us if not already being completely depraved and weak just like all his race are.
 str_npc7_personalityclash2_speech|주군, {s11}의 무례함이 저를 지치게 하네요. 그는 내가 추적자인데다 여자이기 때문에 전사로써 형편없다고 생각하는것 같더군요. 그래요, 나도 고향과 남편을 떠난 여자가 일반적이지 않다는건 알아요. 하지만 내가 픽트 땅에서 지낼 때 우리에겐 다른 선택이 별로 없었어요. 물론 다른 덜떨어진 곳에서보다 낫겠지만요.
@@ -695,7 +695,7 @@ str_npc16_personalityclash2_speech|If you have any fear ofo God, pay heed to the
 str_npc1_personalityclash2_speech_b|I have no interest in becoming a Christian, and, in my opinion, this priest only brings us bad luck. Maybe we should burn him.
 str_npc2_personalityclash2_speech_b|The enemy was bearing down on us, and he says, 'A great warrior does not drink mead in battle.' Next time I will step aside, and let him take a spear in the gut.
 str_npc3_personalityclash2_speech_b|우리가 마지막 전투에서 승리하고 나서, 나는 전리품을 챙기고 있었죠. 그런데 레인허드라고 불리는 저 프리지아인이 저를 옆으로 밀쳐내더니 그러더군요, 단지 부대를 따라다닐 수 있게 허락된 순진한 노예 소녀에겐 전리품을 갈무리 할 자격이 없다고 말이에요.^저는 제게도 방패벽 속에서 전투를 치르고 나서 다른 전사들 처럼 제 몫의 전리품을 받을 자격이 있다고 생각해요. 물론 내가 다른 사람들 보다 경험이 적긴 하지만... 나도 내 목숨을 걸고 싸웠단 말이에요!
-str_npc4_personalityclash2_speech_b|Finally, you will have to deal with that northern woman. She must remember her place or be whipped.
+str_npc4_personalityclash2_speech_b|마지막으로, 당신은 그 북쪽 여자 문제를 잘 다뤄야 하오. 그녀는 그녀가 자기 주제를 모르고 행동하면 채찍질 당할거란걸 알아야 하오.
 str_npc5_personalityclash2_speech_b|As far as I understand she is but a woman. Yet, when I ordered her to fetch me a fine piece of stew last night, she refused and said that I should get it myself. Yesterday I was too tired to properly slap her for her impudence, and so I let it go, but I will not tolerate such disrespect in the future.
 str_npc6_personalityclash2_speech_b|We should not tolerate that bastard in our shield-wall. The battle is no place for mockeries, and no true warrior would pester a fallen foe. Please, let me kill this idiot, let me appease my tortured soul with this enemy's blood.
 str_npc7_personalityclash2_speech_b|게다가 그는 내가 그런 바보같은 이름 대신 '주군'같은 호칭으로 불리길 주장하더군요. 언젠가 내가 내 소유의 전사들을 이끌게 되면, 그를 사냥해서 내 도끼를 그 머리통에 쑤셔넣고 물어보겠죠. 내가 얼마나 전사로써 나아졌는지 말이에요.
@@ -711,8 +711,8 @@ str_npc16_personalityclash2_speech_b|This awful woman has openly declared that s
 str_npc1_personalitymatch_speech|Warlord. {s11} didn't do badly in that last fight at all. He's a good egg, that one.
 str_npc2_personalitymatch_speech|{reg59?Madame:Sir}. I just wanted to tell you that {s11} may be a rough sort, and I'll venture a complete drunkard as well, but I'm proud to call him my companion.
 str_npc3_personalitymatch_speech|안녕하세요, {reg59?부인:나리}! 저는 그냥 {s11}가 우리중 가장 용맹하고 용감한 전사라고 말하고 싶었어요. 우리의 마지막 전투에서 그가 어떻게 하는지 봤어요?
-str_npc4_personalitymatch_speech|I just wanted to say a word in praise of {s11}. He did well in that last battle.
-str_npc5_personalitymatch_speech|That was a fine battle, {playername}! {s11} is a good companion to have by our side in a fight.
+str_npc4_personalitymatch_speech|나는 {s11}에 대한 칭찬의 말을 전하고 싶구려. 그는 최근 전투에서 아주 잘 싸웠소.
+str_npc5_personalitymatch_speech|훌륭한 전투였소, {playername}! {s11}는 전투 때 우리 옆에 서준 좋은 동료이오.
 str_npc6_personalitymatch_speech|Sometimes I am troubled by all this bloodshed, although I know that proud warlords must be humbled, and cruel bandits tamed, if we are to restore peace.
 str_npc7_personalitymatch_speech|Warlord, I was just talking to {s11}. He might be an incisive man, but he holds no prejudice for me being a woman or a Pict.
 str_npc8_personalitymatch_speech|A fine battle that was, warlord. And I have to say, I greatly enjoy the company of {s11}, for he is a fine commander of men.
@@ -727,8 +727,8 @@ str_npc16_personalitymatch_speech|I must tell you that even though {s11} behaves
 str_npc1_personalitymatch_speech_b|{s11} is awesome, always joking, proud and brave, and knows how to seduce girls. I'll warrant. I'm glad to have him with us.
 str_npc2_personalitymatch_speech_b|Based on how he did in that last fight, I'd say that I'd trust my back to him any day, for he also knows how to share tales and legends by the campfire after a fine battle. I already promised to take him to a Nordic mead hall someday.
 str_npc3_personalitymatch_speech_b|그리고 그가 재치는 물론 좋은 태도까지 갖춘 정말 즐거운 동료 라는걸 알게 된것도 고백하고 싶어요. 아마도, 음... 아, 괜한 말을 꺼낸것 같네요.^즐거운 하루 되세요, {reg59?부인:나리}.
-str_npc4_personalitymatch_speech_b|You chose well to enlist him in our shield-wall. He knows a thing or two about a fight.
-str_npc5_personalitymatch_speech_b|It is clear from his battle prowess that he is a true descendant of a brave warrior, and he already honors, in the battlefield, the greatness of his lineage.
+str_npc4_personalitymatch_speech_b|그를 우리의 방패벽에 참여하게 한 일은 아주 좋은 선택이었소. 그는 잘 싸우는 방법, 아니 방법들을 알고 있더군.
+str_npc5_personalitymatch_speech_b|그가 전투에서 보여 준 무용은 그가 용맹한 전사의 진정한 후손이라는걸 증명했소. 그리고 그는 그의 혈통의 위대함에 대한 존경심을 이미 보여주었소. 전장에서 말이오.
 str_npc6_personalitymatch_speech_b|I must say that {s11} is a source of great comfort to me. I have told him of my sin, and he said to me that Christ will forgive my transgression, if I truly repent and truly desire such forgiveness. He is wise, and I am glad that he is with us.
 str_npc7_personalitymatch_speech_b|He preaches to me just like to anyone else, and told me that even if my body is covered by war tattoos, God can still see the good intentions within my heart. I am not sure I completely liked what he said -- for I am a warrior, not a simple housemaid --, but, still, I feel I can trust that priest and his teachings.
 str_npc8_personalitymatch_speech_b|We are both veterans, and, as such, can both easily perceive the many tactical flaws the warriors of this land commit during battle. Our shield-wall is much stronger with him in it.
