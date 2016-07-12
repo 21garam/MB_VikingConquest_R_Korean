@@ -5528,7 +5528,8 @@ dlga_mayor_begin:move_cattle_herd_failed|나는 당신이 {s9}(으)로 가는 �
 dlga_move_cattle_herd_failed:move_cattle_herd_failed_2|미안하오, 하지만 나는 길 위에서 습격당하고 말았소.
 dlga_move_cattle_herd_failed:move_cattle_herd_failed_2.1|미안하오, 멍청한 동물들이 밤에 흩어져서 도망을 치고 말았소.
 dlga_move_cattle_herd_failed_2:merchant_ask_for_debts|좋소, 그것들을 안전하게 운송한다는 것 자체가 무리한 일이었소. 하지만 소들의 소유주가 당신에게서 무슨 일이 있어도 그에 대한 보상을 받아내겠다고 벼르고 있소, 그는 당신에게서 1000 페닝을 받아내야겠다고 하고 있소. 당신은 나에게 그 돈을 빚지게 된 거요.
-dlga_mayor_begin:close_window.1|{playername} -- 나는 당신이 내 친구의 딸을 구해온 것에 대해 당신에게 빚을 지게 되었군, 약속한 {reg8} 페닝을 받아주시오. 내 친구는 당신에게 더 보상하고 싶다고 했지만, 지금 그의 자금 사정이 좋지가 않아서, 어쩔 수가 없었소.
+dlga_mayor_begin:close_window.1|당신이 탈주병에게 패했다는 소식은 들었소. 덕분에 내 소중한 {s9}는 영원히 사라져버렸군... 당신은 믿을만한 사람이라는 말을 수도 없이 들었었는데... 실망이오, {playername}.
+dlga_mayor_begin:close_window.2|{playername} -- 나는 당신이 내 친구의 딸을 구해온 것에 대해 당신에게 빚을 지게 되었군, 약속한 {reg8} 페닝을 받아주시오. 내 친구는 당신에게 더 보상하고 싶다고 했지만, 그 몸값을 지불하느라 파산 지경에 이르렀소. 미안하오.
 dlga_mayor_begin:mayor_friendly_pretalk|좋소 -- 당신이 도적들을 공격한 것에 대해서는 잘 들었소, 그리고 그들이 상인들이 지나가는 것을 방해할 경우 어떻게 될 것인지 당신이 잘 보여주었소. 여기 당신의 일에 대한 보상인: {reg5} 페닝이오. 그것은 잘 지불될 것이고, 우리의 감사도 함께 받아 주시오.
 dlga_mayor_begin:mayor_friendly_pretalk.1|나는 당신의 한 일에 대해서 들었소, 당신은 그 도적들에게 마땅히 받아야 할 벌을 준 거요. 당신은 정말 좋은 사람이군, 여기 당신의 일에 대한 보상인: {reg5} 페닝이오. 나는 당신에게 더 보상하고 싶지만, 그 도적놈들이 나를 파산 직전까지 몰아갔기 때문에, 어쩔 수가 없었소.
 dlga_mayor_begin:mayor_friendly_pretalk.2|범인을 찾아 내 소중한 {s13}을(를) 되찾았다고 들었소. 그들이 말한 것만큼 당신은 정말 좋은 사람이오. 여기 당신의 보상: {reg5} 페닝이오.
