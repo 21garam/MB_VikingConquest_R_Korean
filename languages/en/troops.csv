@@ -1666,6 +1666,11 @@ trp_town_28_shipwright|조선공
 trp_town_29_shipwright|조선공
 trp_shipwright_end|야생 돼지
 trp_shipwright_end_pl|야생 돼지
+trp_town_4_master_craftsman|양조장 장인
+trp_town_8_master_craftsman|양조장 장인
+trp_town_11_master_craftsman|양조장 장인
+trp_town_14_master_craftsman|양조장 장인
+trp_town_26_master_craftsman|양조장 장인
 trp_local_merchant|지역 상인
 trp_local_merchant_pl|지역 상인
 trp_tax_rebel|반역 소작농
@@ -1893,7 +1898,7 @@ trp_pseudo_troop_end_pl|pseudo troop end
 trp_the_snake|스네이크
 trp_the_snake_pl|스네이크
 trp_campeon_1|에드 맥 에인머레치
-trp_campeon_1_pl에드 맥 에인머레치
+trp_campeon_1_pl|에드 맥 에인머레치
 trp_campeon_2|올초발 맥 시네이다
 trp_campeon_2_pl|올초발 맥 시네이다
 trp_slave|노예
@@ -1963,7 +1968,7 @@ trp_saxon_peasant_ai_pl|농부
 trp_angle_peasant_ai|앵글 농부
 trp_angle_peasant_ai_pl|앵글 농부
 trp_briton_peasant_ai|브리튼 농노
-trp_briton_peasant_ai_pl브리튼 농노
+trp_briton_peasant_ai_pl|브리튼 농노
 trp_irish_peasant_ai|에리우 농노
 trp_irish_peasant_ai_pl|에리우 농노
 trp_scotch_peasant_ai|픽트 농부
