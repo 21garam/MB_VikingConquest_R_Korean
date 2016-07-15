@@ -8,12 +8,12 @@ itm_tutorial_battle_axe|무거운 도끼
 itm_tutorial_battle_axe_pl|무거운 도끼
 itm_tutorial_arrows|화살
 itm_tutorial_arrows_pl|화살
-itm_tutorial_bolts|석궁용 화살
-itm_tutorial_bolts_pl|석궁용 화살
+itm_tutorial_bolts|쇠뇌용 화살
+itm_tutorial_bolts_pl|쇠뇌용 화살
 itm_tutorial_short_bow|장궁
 itm_tutorial_short_bow_pl|장궁
-itm_tutorial_crossbow|석궁
-itm_tutorial_crossbow_pl|석궁
+itm_tutorial_crossbow|쇠뇌
+itm_tutorial_crossbow_pl|쇠뇌
 itm_tutorial_throwing_daggers|투창
 itm_tutorial_throwing_daggers_pl|투창
 itm_tutorial_saddle_horse|조랑말
@@ -76,8 +76,8 @@ itm_practice_arrows_10_amount|연습용 화살
 itm_practice_arrows_10_amount_pl|연습용 화살
 itm_practice_arrows_100_amount|연습용 화살
 itm_practice_arrows_100_amount_pl|연습용 화살
-itm_practice_bolts_9_amount|연습 석궁용 화살
-itm_practice_bolts_9_amount_pl|연습 석궁용 화살
+itm_practice_bolts_9_amount|연습용 쇠뇌 화살
+itm_practice_bolts_9_amount_pl|연습용 쇠뇌 화살
 itm_practice_boots|장화
 itm_practice_boots_pl|장화
 itm_red_tourney_armor|적색 튜닉
@@ -286,14 +286,14 @@ itm_barbed_arrows|미늘 화살
 itm_barbed_arrows_pl|미늘 화살
 itm_bodkin_arrows|바늘 화살
 itm_bodkin_arrows_pl|바늘 화살
-itm_bolts|석궁용 화살
-itm_bolts_pl|석궁용 화살
-itm_bolts2|날카로운 석궁용 화살
-itm_bolts2_pl|날카로운 석궁용 화살
-itm_bolts3|미늘 석궁용 화살
-itm_bolts3_pl|미늘 석궁용 화살
-itm_bolts4|바늘 석궁용 화살
-itm_bolts4_pl|바늘 석궁용 화살
+itm_bolts|쇠뇌용 화살
+itm_bolts_pl|쇠뇌용 화살
+itm_bolts2|날카로운 쇠뇌용 화살
+itm_bolts2_pl|날카로운 쇠뇌용 화살
+itm_bolts3|미늘 쇠뇌용 화살
+itm_bolts3_pl|미늘 쇠뇌용 화살
+itm_bolts4|바늘 쇠뇌용 화살
+itm_bolts4_pl|바늘 쇠뇌용 화살
 itm_pilgrim_disguise|순레자 복장
 itm_pilgrim_disguise_pl|순레자 복장
 itm_pilgrim_hood|순레자 후드
@@ -2064,8 +2064,8 @@ itm_long_bow2|정예병용 장궁
 itm_long_bow2_pl|정예병용 장궁
 itm_long_bow3|특색 있는 장궁
 itm_long_bow3_pl|특색 있는 장궁
-itm_hunting_crossbow|픽트 석궁
-itm_hunting_crossbow_pl|픽트 석궁
+itm_hunting_crossbow|픽트 쇠뇌
+itm_hunting_crossbow_pl|픽트 쇠뇌
 itm_strong_bow|어두운 사냥꾼
 itm_strong_bow_pl|어두운 사냥꾼
 itm_war_bow|눈 쏘는 활
@@ -2222,6 +2222,14 @@ itm_work_axe_mp|도끼
 itm_work_axe_mp_pl|도끼
 itm_pickaxe_mp|군용 도끼
 itm_pickaxe_mp_pl|군용 도끼
+itm_seax_1_mp|오래된 색스
+itm_seax_1_mp_pl|오래된 색스
+itm_spear_1_mp|오래된 창
+itm_spear_1_mp_pl|오래된 창
+itm_crossbow_mp|픽트식 쇠뇌
+itm_crossbow_mp_pl|픽트식 쇠뇌
+itm_bolts_mp|쇠뇌용 화살
+itm_bolts_mp_pl|쇠뇌용 화살
 itm_items_end|Items End
 itm_items_end_pl|Items End
 itm_noswing_club_troll|트롤의 도끼
@@ -2488,3 +2496,7 @@ itm_noswing_work_pitchfork|군용 삼지창
 itm_noswing_work_pitchfork_pl|군용 삼지창
 itm_noswing_dog_bite|물기
 itm_noswing_dog_bite_pl|물기
+itm_noswing_seax_1_mp|오래된 색스
+itm_noswing_seax_1_mp_pl|오래된 색스
+itm_noswing_spear_1_mp|오래된 창
+itm_noswing_spear_1_mp_pl|오래된 창
