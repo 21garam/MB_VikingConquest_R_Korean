@@ -480,7 +480,7 @@ qstr_Sigurd__Snake_in_the|'눈 속의 뱀' 시구르드는 스벤 불 넥의 야
 qstr_I_say_nothing_bastar|나는 내가 말할 것도 아무것도 없다, 망할 놈!
 qstr___He_twists_his_mout|--그는 그의 입을 비틀었고 경멸스러운 눈으로 당신을 보았습니다.--
 qstr_Sigurd__Snake_in_the_|'눈 속의 뱀' 시구르드는 스벤 불 넥의 야를이고, 그리고 스벤은 내 헤르시어요. 둘 다 강력한 남자들이고, 위대한 전사요, 그래서 그들로부터 떨어는 게 좋을 것이오, 그렇지 않으면 그가 당신을 지옥으로 바로 보내줄 것이오.
-qstr_Sven_Bull_Neck_and_{|스벤 불 넥과 '눈 속의 뱀' {s11}는 덴마크의 유명한 전사들이오. 그들과 싸우기로 마음먹었다면... 조심하는게 좋을것이오.
+qstr_Sven_Bull_Neck_hersi|스벤 불 넥과 '눈 속의 뱀' {s11}는 덴마크의 유명한 전사들이오. 그들과 싸우기로 마음먹었다면... 조심하는게 좋을것이오.
 qstr_Scum!|이 망할 쓰레기가!
 qstr___He_tilts_his_head_|--그는 그의 머리를 기울였고, 당신을 응시했다, 그는 답을 숙고하는 듯 했습니다.--
 qstr_You_wish_to_know_abo|당신은 그 위대한 라그나르 로드브록에 대해 알고 싶은 것이오? 그는 잉그리에텐 부족 출신이고, 오딘의 자손이오. 그는 모든 그리스도들을 두렵게하는 야를이었소. 그는 앵글리아와 프랑키아를 여러 번 공격했고, 그는 그의 거대한 원정으로 유명해졌소. 그는 그의 병력들을 지휘하고 단결시키는 법을 알았지.
@@ -2305,22 +2305,22 @@ qstr_Scars:^^none|흉터:^^없음
 qstr_Scars:^^{s1}These_in|흉터:^^{s1}이 상처들은 흉터로 남아 영원히 치료할 수 없습니다.
 qstr_Lifetime_wounds:_{re|고칠 수 없는 상처: 현재까지 {reg1}개.
 qstr_Current_party_size_l|현재 부대 크기 제한 {reg0}.^부대 크기 세부 내용:^^기본 크기: {s5}{reg31}^지휘력: {s2}{reg32}^매력: {s3}{reg33}^명성: {s4}{reg34}^최종:  {reg0}
-qstr_^Religious_Differenc|^Religious Differences:  -{reg7}{***}
+qstr_^Religious_Differenc|^종교적 성향 차이:  -{reg7}
 qstr_^No_food:___{reg7}|^식량 없음:  -{reg7}
 qstr_^Wage_debt:___{reg7}|^미지급 임금:  -{reg7}
-qstr_Currently_falling_fr|Currently falling from: +{***}
-qstr_Currently_rising_fro|Currently rising from: {***}
-qstr_{s11}{s10}{s12}|{s11}{s10}{s12}{***}
-qstr_^^These_pagan_troops|^^These pagan troops cause trouble: {s11}{***}
-qstr_^^These_Christian_tr|^^These Christian troops cause trouble: {s11}{***}
-qstr_^^Player_currently_h|^^Player currently has more troops than can be completely managed.{***}
-qstr_Current_party_morale|현재 부대 사기: {reg5}.^^부대 사기 세부내용:^^기본 사기:  +{reg8}^부대 크기에 따른 패널티: {s2}{reg1}^휴식 부족: {s3}{reg2}^다양한 식량: {s4}{reg3}{s5}{s6}^최근에 있었던 사건에 따른 영향: {s7}{reg4}^{s13}^^{s19}^^최종:  {reg5}^^^
+qstr_Currently_falling_fr|최근의 사건에 의한 영향: +
+qstr_Currently_rising_fro|최근의 사건에 의한 영향: 
+qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
+qstr_^^These_pagan_troops|^^다음 이도교 군대가 문제를 발생시킴: {s11}
+qstr_^^These_Christian_tr|^^다음 그리스도교 군대가 문제를 발생시킴: {s11}
+qstr_^^Player_currently_h|^^완벽하게 통솔할 수 있는 수 보다 너무 많은 군대를 가지고 있음
+qstr_Current_party_morale|현재 부대 사기: {reg5}.^^-부대 사기 세부내용-^^기본 사기:  +{reg8}^부대 크기에 따른 패널티: {s2}{reg1}^휴식 부족: {s3}{reg2}^다양한 식량: {s4}{reg3}{s5}{s6}^{s7}{reg4}^{s13}^^{s19}
 qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
 qstr_{s17}_^_{s18}|{s17} ^ {s18}
 qstr_{s15}_^_{s16}|{s15} ^ {s16}
 qstr_{s22}^^Friends:_^{s8|{s22}^^아군: ^{s8} ^^적군: ^{s6}^{s19}
 qstr_^^Your_estates_are:_|^^당신의 재산은: ^{s18}^{s19}
-qstr_Mercenary_employed_b|Mercenary employed by the {s18}.^{s19}{***}
+qstr_Mercenary_employed_b|{s18}의 용병으로 고용됨.^{s19}
 qstr_Report:_^^_{s19}|보고서: ^^ {s19}
 qstr_On_loan|다른 영주에게 빌려줌.
 qstr_is_{s16}_your_choice|는 당신의 동료 선택에 대해 '{s16}'을 느낌. 당신의 지휘 방식에 대해 '{s17}'을 느낌. 최근의 사건에 대해 '{s18}'을 느낌.^사기 : {reg0}
@@ -2343,7 +2343,7 @@ qstr_Hostile|적대적인
 qstr_Hateful|증오하는
 qstr_Vengeful|복수심에 찬
 qstr_Sworn_Enmity|원수
-qstr_Your_relations_with_|Your relations with the kingdoms are:^^{s2}{***}
+qstr_Your_relations_with_|당신과 왕국들과의 관계:^^{s2}
 qstr_Build_your_personal_|당신의 은신처를 건설할 수 있습니다.
 qstr_You_already_have_a_r|당신은 이미 은신처를 건설했습니다. 이곳에 은신처를 세울려면 이전 은신처를 철거해야만 합니다.
 qstr_You_don_t_have_enough|당신은 돈이 부족합니다! 은신처의 건설에는 1000페닝이 소모됩니다.
@@ -2394,14 +2394,14 @@ qstr_Christian_Lord|그리스도교를 믿는 영주
 qstr_Pagan_Lord|고대 신앙을 믿는 영주
 qstr_{s37}__his_betrothed|{s37} (his betrothed){***}
 qstr_{s40}._His_love_inte|{s40}은(는) {s39}에게 관심을 보이고 있습니다.
-qstr_His_love_interests_a|His love interests are reported to be {s37}.{***}
-qstr_{s40}._His_love_inter|{s40}. His love interest is reported to be {s37}.{***}
-qstr_His_love_interest_is|His love interest is reported to be {s37}.{***}
+qstr_His_love_interests_a|그는 {s37}에게 사랑의 감정을 가지고 있는것으로 보여진다.
+qstr_{s40}._His_love_inter|{s40}. 그는 {s37}에게 사랑의 감정을 가지고 있는것으로 보여진다.
+qstr_His_love_interest_is|그는 {s37}에게 사랑의 감정을 가지고 있는것으로 보여진다.
 qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^왕국: {s3}^관계: {reg4}^영지: {reg5}^{s5}^{s47}
 qstr_Army_size:_{reg26}|병력 규모: {reg26}
-qstr_{s40}._His_love_intere|{s40}. His love interest is {s39}.{***}
+qstr_{s40}._His_love_intere|{s40}. 그는 {s39}에게 사랑의 감정을 느끼고 있다.
 qstr_{s40}._He_is_betroth|{s40}은(는) {s39}의 정혼자가 되었습니다.
-qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s2}와(과) 의{s3}^관계 : {reg3}^마지막 방문 : {reg4}일 전
+qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s3}의 {s2}^관계 : {reg3}^마지막 방문 : {reg4}일 전
 qstr_{reg2}_warriors_acco|{reg2}의 전사들은 왕을 따르고 있습니다
 qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2}의 전사들은 왕국의 여러 영주들에게 봉사하고 있습니다.
 qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2}의 전사들은 우리의 도시를 방어하고 있습니다.
