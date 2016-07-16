@@ -2810,10 +2810,10 @@ qstr_You_settle_into_the_|당신은 대회당에서 상석에 앉았습니다. �
 qstr_You_have_managed_to_|당신은 마엘 브레세일이 당신을 죽이려고 파 놓은 불구덩이에서 탈출하는 데 성공했지만, 아직 당신은 안전하지 않은 것 같습니다...
 qstr_Mael_Bresail_had_bet|마엘 브레세일은 당신을 배신했습니다. 그러나 당신은 그의 불구덩이에서 탈출했고, 당신을 죽이고 싶어했던 그 남자를 죽였습니다. 지금, 이 곳은 마음 속의 나쁜 기억을 일깨울 뿐입니다.
 qstr_Part_of_your_food_wa|당신의 부대의 식량 중 일부가 못 쓰게 되었습니다.
-qstr_Your_men_think_that_you_are_a_s|Your men think that you are a strong leader.{***}
+qstr_Your_men_think_that_you_are_a_s|당신의 부하들은 당신이 강력한 지도자라고 생각합니다.
 qstr_While_your_messenger|당신의 전령이 약탈자들과 협상을 진행하는 동안, 우연히 당신의 병력의 분견대가 그들과 마주쳤고 이어서 전투가 벌어졌습니다. 당신의 병력들은 습격자들을 전멸시켰고, 이 문제를 해결하는 데 성공했지만, 그 대가로 많은 사상자를 내야 했습니다.
 qstr_The_enemy_raiders_ac|약탈자들이 협상을 받아들였습니다. 그들은 돈을 받았고, 몇 주 동안 당신의 보급선을 공격하지 않겠다고 약속했습니다.
-qstr_The_raiders_take_the|The raiders take the money, kill the messengers, and continue to damage your supply routes.{***}
+qstr_The_raiders_take_the|습격자들은 전령을 죽인 뒤 돈을 강탈해 돌아갔습니다. 또한 지속적으로 당신의 보급선을 공격할 것입니다.
 qstr_You_don_t_have_enough_s|당신은 가지고 있는 페닝이 모자란다는 것을 깨달았고, 당신은 당황할 수 밖에 없었습니다!
 qstr_the_enemy_thinks_rei|적의 병력이 곧 증원될 것입니다.
 qstr_fear_and_discontent_|두려움과 불만이 내부에서 확산되고 있습니다.
@@ -2831,7 +2831,7 @@ qstr_At_night_some_of_you|한밤중에, 당신의 병력 중 일부가 매춘을
 qstr_Your_enemies_appreci|당신의 적은 당신의 동정에 감사하고 있습니다. 이것은 아마 당신이 그들과 항복 협상을 진행할 때 당신에게 유리한 요소가 될 것입니다.
 qstr_You_know_that_in_the|당신은 그 날이 되면 어린이와 여성, 노약자들이 굶주림으로 쇠약해져 당신의 눈 앞에서 죽어나갈 것이라는 것을 잘 알고 있습니다.
 qstr_Your_officer_seems_u|당신의 장교는 화난 것처럼 보입니다.
-qstr_Your_men_think_that_you_are_a_v|Your men think that you are a very strong leader.{***}
+qstr_Your_men_think_that_you_are_a_v|당신의 부하들은 당신이 매우 강력한 지도자라고 생각합니다.
 qstr_Your_officer_seems_h|당신의 장교는 행복한 것처럼 보입니다.
 qstr_The_wife_is_pregnant|아내가 임신하고, 장교는 충분한 금액의 웨어길드를 요구했습니다. 당신은 소문이 퍼져 문제가 생기는 것을 방지하려면 웨어길드를 지불해야만 할 것입니다.
 qstr_{s1}_of_the_{s2}.|{s2}의 {s1}.
