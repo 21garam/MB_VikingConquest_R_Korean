@@ -1772,15 +1772,15 @@ dlga_maelbresail_pactofina4:maelbresail_pactofina5_2|이제 죽을 시간이다!
 dlga_maelbresail_pactofina5:close_window|--그의 표정이 공포에 질린 듯 합니다--^^네 년은? 그럴 리가... 저 놈들을 죽여라, 몽땅 죽여버려!
 dlga_maelbresail_pactofina5_2:close_window|저들을 죽여라, 한 놈도 살려두지 마라!
 dlga_start:thesnake1_dialog|전사처럼 보이는군. 일자리를 찾고 있나?
-dlga_thesnake1_dialog:thesnake2_dialog|누군지 알 것 같군. 내가 암살을 의뢰 받았던 인물인데. 아마도... 스네이크라고 불렸던 것 같군.
-dlga_thesnake1_dialog:thesnake2_1_dialog|스네이크, 나는 당신의 군대에 들어가려 여기 온 게 아니오. 사실 좀 무섭기도 하군.
+dlga_thesnake1_dialog:thesnake2_dialog|누군지 알 것 같군. 그들은 널 스네이크라고 부르더군. 난 널 죽이기 위해 보내졌다.
+dlga_thesnake1_dialog:thesnake2_1_dialog|스네이크, 나는 당신의 군대에 들어가려 여기 온 게 아니오.
 dlga_thesnake1_dialog:thesnake2_2_dialog|물론이오, 스네이크. 얼마나 지불할 수 있소?
 dlga_thesnake2_dialog:thesnake3_dialog|왜인가? 아, 알 것 같군. 도망치진 않겠소. 이 도시에는 싸우기 좋은 장소가 있지. 거기서 내 최고의 병사들과 있겠소. 당신도 가장 충성스러운 부하를 데려와야 할 거요. 오늘 한 번 죽을 때까지 싸워보면 되겠지.
-dlga_thesnake2_1_dialog:thesnake3_dialog|오직 내 적만이 날 스네이크라 부리지. 내가 자네의 쥐새끼 같은 후원자의 이익에 좀 위험한 인물이긴 하지. 직접 오지도 않고 암살자를 보낸 걸 보니 어지간히도 겁쟁이인가 보군. 도망치진 않겠소. 이 도시에는 싸우기 좋은 장소가 있소. 거기서 내 최고의 병사들과 있겠소. 당신도 가장 충성스러운 부하를 데려와야 할 것이오. 오늘 한 번 죽을 때까지 싸워보면 디ㅗ겠지.
+dlga_thesnake2_1_dialog:thesnake3_dialog|오직 내 적만이 날 스네이크라 부르지. 나도 내가 튀어나온 실마리라는것 쯤은 알고있소. 내가 자네의 쥐새끼 같은 후원자의 이익에 좀 위험한 인물이긴 하지. 직접 오지도 않고 암살자를 보낸 걸 보니 어지간히도 겁쟁이인가 보군. 도망치진 않겠소. 이 도시에는 싸우기 좋은 장소가 있소. 거기서 내 최고의 병사들과 있겠소. 당신도 가장 충성스러운 부하를 데려와야 할 것이오. 오늘 한 번 죽을 때까지 싸워보면 되겠지.
 dlga_thesnake2_2_dialog:thesnake3_dialog|오직 내 적만이 날 스네이크라 부리지. 내 가족들도 똑같이 죽었다네. 날 죽이고 싶소? 그렇다면 도망치진 않겠소. 이 도시에는 싸우기 좋은 장소가 있소. 거기서 내 최고의 병사들과 있겠소. 당신도 가장 충성스러운 부하를 데려와야 할 것이오. 오늘 한 번 죽을 때까지 싸워보면 되겠지.
 dlga_thesnake3_dialog:close_window|그렇다면 그곳에서 보겠소.
 dlga_thesnake3_dialog:thesnake4_dialog|음, 잠시만 기다려주시오.
-dlga_thesnake4_dialog:close_window|아니! 내 머리를 원한다면 그정도 용기는 가지고 왔어야지.^^[당신의 동료들이 이 결투에 참가 했습니다.]
+dlga_thesnake4_dialog:close_window|아니! 내 머리를 원한다면 최소한 싸울 용기는 가지고 왔어야지.^^[당신의 동료들이 당신과 함께 이 결투에 참가할 것입니다.]
 dlga_start:morrigan1_dialog|살인자, 절 죽이러 왔나요? 당신의 영주, 마엘 브레세일이 내 혈통이 끊어진 걸 알면 참으로 좋아하겠군요.
 dlga_start:morriganleave_final1|{playername}, 절 도와줘서 너무 고마워요. 당신이 없었다면 전 결코 복수하지 못했을 거예요. 마엘 브레세일의 죽음이 썩 유쾌하지는 않지만, 전 옳은 일을 했다고 믿어요. 이제 제 가족들이 편히 잘 수 있겠네요. 당신과의 여정도 이제 끝이네요. 제 스스로를 세상에 지우며, 조용히 살아가기 좋은 장소를 찾아 떠날게요. 아마 에리우를 떠나겠죠. 제 미래를 위해선 과거를 털어버려야 해요. 이 말은... 당신을 이젠 떠나겠다는 뜻이에요.
 dlga_morrigan1_dialog:morrigan1_dialog1|이제 끝이오, 마녀. 지금 당장 죽여주겠소.
