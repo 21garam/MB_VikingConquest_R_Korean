@@ -4600,7 +4600,7 @@ dlga_tavern_traveler_rumors2:tavern_traveler_rumors3|{s33}
 dlga_tavern_traveler_rumors3:tavern_traveler_rumors4|{s34}
 dlga_tavern_traveler_rumors4:tavern_traveler_rumors5|{s32}의 어떤 영주를 원하시오?
 dlga_tavern_traveler_rumors5:tavern_traveler_rumors6|{s11}
-dlga_tavern_traveler_rumors5:tavern_traveler_pretalk|Never mind.{***}
+dlga_tavern_traveler_rumors5:tavern_traveler_pretalk|신경쓰지 마시오.
 dlga_tavern_traveler_rumors6:tavern_traveler_rumors7a|알겠소. 확실히 {s31}에 관한 소문을 흘리길 원하시오?
 dlga_tavern_traveler_rumors6:tavern_traveler_rumors7b|알겠소. 두번째 영주의 국가는 어디오?
 dlga_tavern_traveler_rumors7b:tavern_traveler_rumors7c|{s34}
