@@ -780,7 +780,7 @@ str_npc5_home_intro|오, 아마도 당신은 딘 타겔에 대해서 들은 바�
 str_npc6_home_intro|아마 당신은 웨섹스의 캔터워러버러에 대한 이 이야기를 들어본적 없을것이오. 이 도시는 우든 릭의 배가 나를 데리고 왔어야 하는 바로 그 곳이오. 하지만 프리지아 해안 근처에서 벌어진 바이킹의 습격이 모든걸 바꾸어놓았소. 내 운명을 송두리째 바꾸어버렸지...
 str_npc7_home_intro|주변을 살피고, 조심하세요. 우리는 던 타루오 근처의 알반 땅에 들어왔어요. 알반 왕국은 북부 지방에서 가장 강력한 광국이에요.
 str_npc8_home_intro|우리는 프리지아 왕국에 도달했소. 두어스테드가 이곳의 주요 도시이오. 몇 년 전에, 우리 프리지아인들은 프랑크족의 백성이었소. 그러나 이제 우리의 왕은 호릭이라고 불리는 데인족이오. 음... 사실 그는 우리의 진정한 왕이 아니오. 프리지아인들은 그를 인정하지 않소. 다만 살아남기 위해 그의 힘을 인정하는 것 뿐이오.
-str_npc9_home_intro|Behold the horizon, for there lies the fortress of Rendlaesham, seat of power to the kings of East Engle.
+str_npc9_home_intro|저기 지평선 근처를 좀 보시오. 렌들레햄의 요새가 자리잡은곳 말이오. 저곳은 이스트 앵글리아 왕들의 힘을 상징하는 막중한 역할을 하고 있지.
 str_npc10_home_intro|저길 보시오, 이스트 색슨땅에 사는 색슨족의 고향이자 무역 도시인 런데위치요! 이 아름다운곳엔 영광스런 과거가 있었고, 장담컨데 밝은 미래 또한 있을것이오.
 str_npc11_home_intro|소금 냄새와 바닷 사람들의 땀 냄새가 나네요. 그건... 내 고향 툰스버그의 따스함이에요.
 str_npc12_home_intro|Perhaps you didn't know this about Heidabyr, if that interests you.
@@ -796,7 +796,7 @@ str_npc5_home_description|코르누비아는 한 때 둠노니아라 불리던 �
 str_npc6_home_description|켄터워러버러가 아주 최근까지 켄트 왕국의 수도였다는건 당신도 알고 있었을 것이오. 내가 여기 오기전에 읽은게 있소. 그리고 아스투리아스로 불려간 색슨족 학자와 나눈 이야기가 있지. 내 고향 나라에서 우리는 이곳 사람들을 모두 '색슨족'이라고 부르지만, 사실은 켄트엔 몇백년 전에 바다를 건너온 주트족이 살았소.
 str_npc7_home_description|알반 왕국은 하이버니아의 후손들인 달 리아타인들과 나같은 픽트인들을 손쉽게 합병시켰어요. 이곳의 귀족들과 왕들은 완전히 섞여버렸고 이젠 하나의 왕국을 이루어 살고 있어요. 비록 평범한 사람들은 몇년에 걸친 피와 전쟁으로 갈라진 차이와 증오를 가지고 있는데도 말이죠.
 str_npc8_home_description|프리지아 인들은 내성적인 사람들이오. 그들은 일을 할 때 혼자 남겨지는걸 원하는데, 데인족은 프랑크인보다 더 좋은 군주인것 같소. 우리가 세금을 지불하고 그들의 권위를 인정하는 대신, 그들은 우리를 내버려두기 때문이오.
-str_npc9_home_description|The kings of East Engle are from the Wuffing dynasty, whose name is taken from the legendary king Wuffa. Their origins remount to the Geats, just like in the tale of Beowulf, and they are the most powerful of the Anglo-Saxon kingdoms.
+str_npc9_home_description|이스트 앵글리아의 왕은 우핑 왕조에서 왔소. 그 전설적인 우파 왕의 이름을 딴 왕조 말이오. 그들은 베오울프 서사시 속의 이야기에서 처럼 재 조직된 기트족으로부터 기원했는데 지금은 앵글로 색슨 왕국들 중에서 가장 강력한 왕국이 되었소.
 str_npc10_home_description|여긴 한때 로만 브리타니아의 수도였던 론디니움이 세워져 있었소. 런데위치는 지금은 보통 런덴버러라고 불리는 요새와 론디니움 유적 근처에 세워졌소.^그 이름의 뜻은 '론디니움의 교역 도시'나 우리 색슨인들이 부르는것처럼 '런던'이라고 줄여서 불리고 있소.
 str_npc11_home_description|당신이 알고있듯이 저는 여기 출신이에요. 저는 당신 옆에서 훌륭한 전사가 되도록 애쓰기로 마음 먹었어요. 전쟁은 모든 노스비거의 남자와 여자들의 핏속에 진하게 흐르고 있기 때문이죠. 야를들이 끈임없이 서로 싸우고 있기 때문에 이 땅은 지금 전쟁의 시대에 접어들었어요.
 str_npc12_home_description|Heidabyr is not the oldest site in Danmark. Actually it was founded a few generations ago, but it is becoming an important site by the Rerik merchants, who came here when their city was destroyed by King Gotrik more than sixty winters ago.
@@ -812,7 +812,7 @@ str_npc5_home_description_2|우리에겐 결국 기억과 역사밖에 남은것
 str_npc6_home_description_2|로마가 브리타니아를 떠난 이후 주트족은 브리튼족이 지배하던 이 땅을 정복했소. 재미있게도, 덴마크인들이... 그러니까 주트족과 관련되어 있거나 아마도 그들의 후손일지도 모르는 사람들이 지금은 이 땅을 공격하고 있는 적이 되었소. 갑자기 세계의 이런 부분들을 알려주고 나를 모험에 떠나도록 도와주었던 '베다'라는 늙은 색슨족 학자와 보냈던 오후들이 떠오르는구려...
 str_npc7_home_description_2|픽트인들은 좋은 목동이자 사냥꾼으로 살고 있지만 달 리아타 사람들은 스코틀랜드 족속이자 해적 집단을 이루고 있어요. 하지만 지금은 같은 편에서 같은 왕을 위해 싸우고 있으니... 더 이상 이런식으로 말하면 안되겠네요.
 str_npc8_home_description_2|우리 종족의 대부분의 사람들은 프랑크족이나 데인족의 간섭을 받지 않는 우리만의 나라를 원하오.그러나 우리가 뿔뿔이 흩어져 군대를 일으킬 수 없는 동안에는 불가능한 일이오...^우리의 에설링들... 그러니까 우리의 귀족들은 데인족을 섬기는걸 좋아하오. 귀족들이 우리를 이끌지 않는다면 자유민들이 뭉치는건 불가능하오. 불행히도 우리는 평생 다른 민족에 의해 지배될 운명인가보오...
-str_npc9_home_description_2|They harbor a great hatred against the rival kingdoms. Curiously enough, their territory is one of the few parts of Britannia where rainfall is sparse and the climate is dry. So, I am not really sure if you will ever want to fight their warriors for such a piece of land -- I don't think it'd be worth it.
+str_npc9_home_description_2|그들은 경쟁자 왕국들에 대한 거대한 증오를 품고 있소. 재미있게도, 그들의 영토는 브리타니아에서도 비가 가장 드물게 내리고 건조한 기후의 땅들 중 하나이오. 그래서 만약 당신이 그런 땅을 좀 얻으려고 그곳의 전사들과 싸울 마음이 있다면... 나는 그럴만한 가치가 있는 땅은 아니라고 생각하오.
 str_npc10_home_description_2|플리트강의 입구와 이어진 항구는 런데위치에 무역과 어업을 제공하고 있소. 모든 유럽땅에서 온 상인들이 좋은 상업적 기회를 찾아 런데위치로 서서히 몰려들고 있소.^그리고 이곳에선 아직까지도 오래된 신들이 숭배되고 있소... 하지만 그들에 대해선 별로 이야기 하고 싶지 않구려...
 str_npc11_home_description_2|툰스버그의 지배자 '산발머리' 헤럴드 하프다나르손과 저는 그가 가장 강력한 야를이자 똑똑하고 무자비한 사람이기 때문에 금세 노스비거 전역을 지배할 수 있을거라고 생각해요. 당신처럼요, {reg59?my pretty:handsome}. 그의 말대로라면, 그 후에야 그는 그의 헝클어진 머리를 빗고 기에다 에이리크도티르와 결혼을 할거라고 해요. 물론 그 전에 그녀의 아버지를 죽이고 나서 말이죠. 어쨌든, 툰스버그는 중요한 상업 중심지이며 당신이 다양한 무역 상품과 온세상의 소식들을 찾을 수 있을거라고 확신해요.^^그럼 갈까요?
 str_npc12_home_description_2|I am sure that King Gotrik's name sounds familiar to you, no? He was a famous man because, fearing an invasion of the Franks from the south, he built an enormous structure to defend Danmark. We called it the Danavirki. It is an important linear defensive earthwork constructed across the neck of the Danmark peninsula.
@@ -827,8 +827,8 @@ str_npc4_home_recap|나는 스코틀랜드인이자 달 리아타 사람이오.
 str_npc5_home_recap|나는 코르누비아에서 태어났지만 고향 땅에서 영원히 추방되었소. 오직 당신의 방패벽과 함께 해야만 이 땅을 여행할 수 있소. 그나마도 변장을 하고서 말이오.
 str_npc6_home_recap|당신도 알다시피, 나는 오스트리아 왕국의 칸타브리아 출신이오. 히스파니아의 북쪽에 있는 곳이지. 우리는 무슬림을 죽이지 않을때에는 왕이나 귀족들을 도와 서로를 죽이는데 혈안이 된 호전적인 사람들이오.^지금 우리의 왕은 오르도니우스 왕의 아들, 아데폰수스라오. 오르도니우스 왕은 좋은 왕이였으나 최근에 승하하시고 말았지... 나는 그의 아들이 그럴만한 가치가 있는 계승자이기만을 원할 뿐이오.
 str_npc7_home_recap|나는 알반 왕국의 던 타루오에서 태어났어요.
-str_npc8_home_recap|I was born in Friese and never thought I would leave this land. My father was a friling, a free man with a plot of land. I inherited the land, but sold it when my family all died. Now I have nothing but the strength of my hands.
-str_npc9_home_recap|I am from the continent, and my people call themelves Franks.
+str_npc8_home_recap|나는 프리지아에서 태어났는데 그 땅을 떠나게 될 것이라고는 생각조차 못해봤소... 나의 아버지는 조그만한 땅을 가진 프릴링, 그러니까 자유민이었소. 나는 그 땅을 상속받았지만 내 가족들이 모두 죽어버린 후에 다 팔아버렸지...^이제 내게 남은것이라곤 내 두 팔에 있는 힘 밖에 없소. 그 밖엔 아무것도 남지 않았지...
+str_npc9_home_recap|나는 대륙에서 건너왔소. 동포들이 스스로 프랑키아라고 부르는 곳이지.
 str_npc10_home_recap|I am a Saxon, not an Angle, from Lundenwic.
 str_npc11_home_recap|Why, {reg59?my pretty:handsome}? I am from Tunsberg, in Northvegr.
 str_npc12_home_recap|I am the younger son of a hersir in Odinsve. I traveled to Frankia and Rome in search of medical lore.
