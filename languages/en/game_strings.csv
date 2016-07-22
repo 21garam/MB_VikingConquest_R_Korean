@@ -829,12 +829,12 @@ str_npc6_home_recap|당신도 알다시피, 나는 오스트리아 왕국의 칸
 str_npc7_home_recap|나는 알반 왕국의 던 타루오에서 태어났어요.
 str_npc8_home_recap|나는 프리지아에서 태어났는데 그 땅을 떠나게 될 것이라고는 생각조차 못해봤소... 나의 아버지는 조그만한 땅을 가진 프릴링, 그러니까 자유민이었소. 나는 그 땅을 상속받았지만 내 가족들이 모두 죽어버린 후에 다 팔아버렸지...^이제 내게 남은것이라곤 내 두 팔에 있는 힘 밖에 없소. 그 밖엔 아무것도 남지 않았지...
 str_npc9_home_recap|나는 대륙에서 건너왔소. 동포들이 스스로 프랑키아라고 부르는 곳이지.
-str_npc10_home_recap|I am a Saxon, not an Angle, from Lundenwic.
-str_npc11_home_recap|Why, {reg59?my pretty:handsome}? I am from Tunsberg, in Northvegr.
+str_npc10_home_recap|난 런데위치 출신인데, 앵글인이 아니라 색슨인이오.
+str_npc11_home_recap|왜 그러시죠, {reg59?아름다운분:잘 생긴분}? 난 노스비거의 툰스버그 출신이에요.
 str_npc12_home_recap|I am the younger son of a hersir in Odinsve. I traveled to Frankia and Rome in search of medical lore.
-str_npc13_home_recap|I am a Svia. My people are destined to reign over all east, and soon the Danish will be destroyed if their kings still covet our land.
-str_npc14_home_recap|Oh, from the most magnificent region of Mhumhain, in the southern part of Hibernia, land of bards and goddesses.
-str_npc15_home_recap|I come from Konstantinoupolis, the most beautiful and largest city in the world. The largest towns here are but small villages compared to Konstantinoupolis. Heck, one could practically fit in the Hagia Sofia, the main church there. You should visit there someday.
+str_npc13_home_recap|난 스베아 사람이오. 우리 종족은 동쪽 전체를 통치할 운명이지. 아직도 덴마크의 왕이 우리 땅을 탐하고 있다면 조만간 덴마크도 스베아 사람들에 의해 파괴될 것이오.
+str_npc14_home_recap|오, 하이버니아의 남쪽, 무메인의 가장 웅대한 지역이자 음유시인과 여신들의 땅이 내 고향이오.
+str_npc15_home_recap|나는 세상에서 가장 거대하고 제일로 아름다운 도시, 콘스탄티노폴리스에서 왔소. 이 땅의 가장 큰 도시조차 콘스탄티노폴리스와 비교하자면 작은 촌락에 불과하오. 젠장, 그곳의 주요 교회당인 아야 소피아는 정말 가볼만 한 곳이오. 당신도 언제 한번 방문할 기회가 있으면 좋겠구려.
 str_npc16_home_recap|I am from Witan Ceaster. That city brings back great memories, but I know my place is not there.
 str_npc1_honorific|전쟁 군주
 str_npc2_honorific|{reg59?부인:경}
