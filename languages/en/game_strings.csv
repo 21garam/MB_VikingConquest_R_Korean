@@ -852,8 +852,8 @@ str_npc13_honorific|전쟁 군주
 str_npc14_honorific|대장
 str_npc15_honorific|스트라테고스
 str_npc16_honorific|{reg59?부인:경}
-str_npc1_kingsupport_1|That's a great idea, Warlord. All these men and landed nobles who rule now, with their prisons and gibbets and scaffolds, the whippings and brands and hangings for any man who might be driven by the crying of his children to steal a loaf of bread, or maybe a horse -- this world deserves something better.
-str_npc2_kingsupport_1|Well, warlord -- I'd support you. I think you'd give this world the kind of enlightened rule which it has long needed.
+str_npc1_kingsupport_1|좋은 생각이오, 주군! 지금 이 땅을 지배하는 사람들과 귀족들은 말이오, 감옥과 처형대, 교수대로 사람들을 지배하고 있소. 우는 아이 때문에 어쩔 수 없이 빵 한덩이를 훔치는 남자에게 조차도 그들은 채찍질을 하고 낙인을 찍고 심지어 교수대에 매달아버리고 있소.^이 땅은 더 나은 대우를 받을 자격이 있소.
+str_npc2_kingsupport_1|오, 저는 당신을 지지해요, 주군. 당신은 이 세상이 오랬동안 갈망해왔던 일종의... 깨우친 통치자가 될거라고 생각해요.
 str_npc3_kingsupport_1|Well, my {reg59?lady:lord} -- I would worry for you. Our histories tell us that power tends to corrupt. But in the end, I am comforted by the mercy and judgment you have shown as warlord of this shield-wall.
 str_npc4_kingsupport_1|I think that you would be the kind of {reg59?queen:king} that well-born warriors such as myself would be proud to follow into battle.
 str_npc5_kingsupport_1|A fine idea - you have shown that you know how to govern men. Mind that you govern them justly, though...
