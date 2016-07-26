@@ -854,9 +854,9 @@ str_npc15_honorific|스트라테고스
 str_npc16_honorific|{reg59?부인:경}
 str_npc1_kingsupport_1|좋은 생각이오, 주군! 지금 이 땅을 지배하는 사람들과 귀족들은 말이오, 감옥과 처형대, 교수대로 사람들을 지배하고 있소. 우는 아이 때문에 어쩔 수 없이 빵 한덩이를 훔치는 남자에게 조차도 그들은 채찍질을 하고 낙인을 찍고 심지어 교수대에 매달아버리고 있소.^이 땅은 더 나은 대우를 받을 자격이 있소.
 str_npc2_kingsupport_1|오, 저는 당신을 지지해요, 주군. 당신은 이 세상이 오랬동안 갈망해왔던 일종의... 깨우친 통치자가 될거라고 생각해요.
-str_npc3_kingsupport_1|Well, my {reg59?lady:lord} -- I would worry for you. Our histories tell us that power tends to corrupt. But in the end, I am comforted by the mercy and judgment you have shown as warlord of this shield-wall.
-str_npc4_kingsupport_1|I think that you would be the kind of {reg59?queen:king} that well-born warriors such as myself would be proud to follow into battle.
-str_npc5_kingsupport_1|A fine idea - you have shown that you know how to govern men. Mind that you govern them justly, though...
+str_npc3_kingsupport_1|글쎄요, 나의 주군이시여. 저는 조금 걱정이 되네요. 우리의 역사는 권력이 언젠간 더러워진다는걸 말해주고 있어요. 하지만 어쨌든 나는 당신이 군주로써 이 방패벽 안에서 보여준 자비와 판단에 위안을 받고 있어요.
+str_npc4_kingsupport_1|내 생각엔 당신이 전사들의 명문가 출신의 {reg59?여왕:왕}처럼 될 수 있다고 생각하오. 나 스스로가 전투에서 당신을 따르는게 자랑스러운 그런 {reg59?여왕:왕} 말이오.
+str_npc5_kingsupport_1|훌륭한 발상이오! 당신은 당신이 얼마나 사람들을 관리하는 방법을 잘 알고있는지 몸소 보여주었소. 지금까지 잘 해 왔지만, 앞으로도 그들을 공정하게 관리해야 한다는 것을 잊지 말아야 할 것이오.
 str_npc6_kingsupport_1|I cannot judge the legal merits of your claim. However, I think that unlike the other kings here, you have the capacity to unify this land -- and that would put a stop to these endless wars, between kingdom and kingdom, noble and noble, and brother and brother, that have brought us all into disgrace in the eyes of gods.
 str_npc7_kingsupport_1|Aye -- you'll do well. You know how to correctly treat trackers, Picts, and women.
 str_npc8_kingsupport_1|The Saga of Beowulf tells us that a man who does deeds greater than those of the other men of his time may claim a throne for himself. I'd say that you could make that claim.
