@@ -857,9 +857,9 @@ str_npc2_kingsupport_1|오, 저는 당신을 지지해요, 주군. 당신은 이
 str_npc3_kingsupport_1|글쎄요, 나의 주군이시여. 저는 조금 걱정이 되네요. 우리의 역사는 권력이 언젠간 더러워진다는걸 말해주고 있어요. 하지만 어쨌든 나는 당신이 군주로써 이 방패벽 안에서 보여준 자비와 판단에 위안을 받고 있어요.
 str_npc4_kingsupport_1|내 생각엔 당신이 전사들의 명문가 출신의 {reg59?여왕:왕}처럼 될 수 있다고 생각하오. 나 스스로가 전투에서 당신을 따르는게 자랑스러운 그런 {reg59?여왕:왕} 말이오.
 str_npc5_kingsupport_1|훌륭한 발상이오! 당신은 당신이 얼마나 사람들을 관리하는 방법을 잘 알고있는지 몸소 보여주었소. 지금까지 잘 해 왔지만, 앞으로도 그들을 공정하게 관리해야 한다는 것을 잊지 말아야 할 것이오.
-str_npc6_kingsupport_1|I cannot judge the legal merits of your claim. However, I think that unlike the other kings here, you have the capacity to unify this land -- and that would put a stop to these endless wars, between kingdom and kingdom, noble and noble, and brother and brother, that have brought us all into disgrace in the eyes of gods.
-str_npc7_kingsupport_1|Aye -- you'll do well. You know how to correctly treat trackers, Picts, and women.
-str_npc8_kingsupport_1|The Saga of Beowulf tells us that a man who does deeds greater than those of the other men of his time may claim a throne for himself. I'd say that you could make that claim.
+str_npc6_kingsupport_1|당신의 주장이 합법적인지 쉽게 판결을 할 순 없소. 하지만 나는 당신이 이곳의 다른 왕들과는 다르게 이 땅을 통합할 그릇이 된다고 생각하오.^그리고 그것이 신들의 눈을 치욕으로 물들게 한 이 끝나지 않는 전쟁을 멈출 수 있게 해줄 것이라 생각하오. 왕국과 왕국들 사이에서 일어나고 있는, 그리고 귀족과 귀족들 사이에, 형제와 형제들 사이에서 일어난는 이 전쟁들을 말이오.
+str_npc7_kingsupport_1|알겠어요- 당신은 잘 할 수 있을거에요. 당신은 추적자들과 픽트인, 그리고 여자를... 다루는 방법을 정확히 알고 있으니까요.
+str_npc8_kingsupport_1|베오울프 서사시는 우리에게 말하고 있소. 일생동안 다른 사람들보다 더 위대한 일들을 행한 이는 그 스스로 왕위를 주장할 수 있다고 말이오... 내가 감히 말하기를 당신은 그런 주장을 할만한 사람이오.
 str_npc9_kingsupport_1|Very good, Dryhten. I'm a Frank by blood, but Dagobert I never stood for me when I was cheated of my inheritance. So I don't owe him anything, and I would be more than happy to have you as my {reg59?queen:king}.
 str_npc10_kingsupport_1|Well, warlord, I suppose Englaland really need a powerful king, since welsh and angles are but weaklings and complete idiots, and the Saxons, incomprehensibly, can't seem to unite and conquer the whole islands...
 str_npc11_kingsupport_1|Why, that's a fine idea, {reg59?my pretty:handsome}! I suppose I shall have to learn to call you 'King', or 'Konungr', then... Which I'd be more than happy to do if you called me 'Royal {reg59?Companion:Consort}.'
