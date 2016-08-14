@@ -1029,37 +1029,37 @@ dlga_companion_brunhild_conv12:companion_brunhild_conv13|곧장 '눈 속의 뱀'
 dlga_companion_brunhild_conv13:companion_brunhild_conv14|내가 곧장 시구르드를 찾아가서 죽거나 호릭을 찾아가서 당신 어머니를 죽게 만들거나 둘 중 하나를 골라야 한다면 뭘 선택해야 할 지 모를 겁니다. 하지만 당신이 절 제가 있던 굴에서 빼내주셨으니 당신이 무슨 선택을 하든 전 괜찮습니다. 
 dlga_companion_brunhild_conv14:close_window|생각을 좀 해봐야겠군. 모두 고맙소. 이제 가던 길을 계속 가야 하오.
 dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|급습 이후에 스벤 불 넥이 이곳을 찾아왔습니다. 우리 포로들과 함께 부하 몇을 남겨두고 떠났죠. 또 그가 프리지아를 공격하기 위해 선박을 보내는 것도 목격했습니다. 그리고 북쪽으로 떠났습니다. 제 생각엔 누군가, 아니면 무언가 북쪽에서 그를 불렀다고 생각됩니다. 아니면 부하들이 얘기하던 것을 줏어들은 것도 있지만, 저들이 한 말이 모두 진실일 리 없겠죠.
-dlga_companion_questions_bodo2:companion_responsebodostory|당신 모친께서 아직 살아 계신지, 그리고 어디 계신지 묻고 싶어하는 마음이 제게도 느껴지는군요. 그래, 저도 모든 걸 말하지는 않았습니다. 진정하고 조심스레 내 말을 들어주십시오.
+dlga_companion_questions_bodo2:companion_responsebodostory|당신 모친께서 아직 살아 계신지, 그리고 어디 계신지 묻고 싶어하는 마음이 제게도 느껴지는구려. 사실, 아직 전하지 못한 말들이 많이 남았소. 진정하고 조심스레 내 말을 들어주십시오.
 dlga_companion_responsebodostory:companion_responsebodostory1|{s10}
 dlga_companion_responsebodostory1:companion_responsebodostory2|{s2}
-dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^스벤 불 넥은 거기서 끝내지 않았습니다. 우리 선박이 그의 목적이었고, 우리 선박에는 배신자가 하나 타고 있었소...
+dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^스벤 불 넥은 거기서 끝내지 않았소. 우리 선박이 그의 목적이었고, 우리 선박에는 배신자가 하나 타고 있었소...
 dlga_companion_responsebodostory3:companion_responsebodostory41|무슨 말을 하는 거요? 무슨 목적? 무슨 배신자 말이오?
 dlga_companion_responsebodostory3:companion_responsebodostory42|당신이 말하는 모든 것에 집중해야겠소. 우리 어머니께 무슨 일이 일어났는지 꼭 알고 싶소.
-dlga_companion_responsebodostory42:companion_responsebodostory41|{s2}^^진정하라고 하지 않았습니까! 짧게 말하겠지만, 그 전에 이것부터 먼저 아셔야겠습니다.
-dlga_companion_responsebodostory41:companion_responsebodostory5|{s2}^^모두 제 불찰입니다, {playername}. 제가 스벤 불 넥의 목표였습니다. 그래서 공격받은 것이고, 또 기타 등등 전부요. 그래서 전 제 영혼을 에루디노에게 맡겼습니다. 전 죽으려는 심산이었지만 바이킹들은 절 살려두고 싶어했죠. 이 모든게 제 불찰입니다. 선박에 탔던 제 가족들을 죽음으로 몰아넣은 것처럼요. 스벤 불 넥을 제 손으로 처단함으로써 안식을 얻겠습니다.
+dlga_companion_responsebodostory42:companion_responsebodostory41|{s2}^^진정하라고 하지 않았소! 곧바로 말하겠지만, 그 전에 이것부터 먼저 알아야 하오.
+dlga_companion_responsebodostory41:companion_responsebodostory5|{s2}^^모두 나의 불찰이었소, {playername}. 내가 스벤 불 넥의 목표였소. 그래서 공격받은 것이고 결국엔 이렇게 된 것이오. 나는 내 영혼을 에루디노에게 맡긴채 죽으려는 심산이었지만 바이킹들은 날 살려두고 싶어했소. 이 모든게 내 불찰이란 말이오, 선박에 탔던 나의 가족들을 죽음으로 몰아넣은 사람은 결국 나였소! 이제 스벤 불 넥을 내 손으로 처단하는것이 나의 안식이자 할 수 있는 유일한 속죄로 남았소.
 dlga_companion_responsebodostory5:companion_responsebodostory61|그래서 '당신이' 배신자였다는 거요?!
 dlga_companion_responsebodostory5:companion_responsebodostory62|이게 다 당신 탓이오. 당신이 내 인생을 망쳤소.
 dlga_companion_responsebodostory5:companion_responsebodostory63|아니, 스벤 불 넥은 내 차지요. 그리고 당신이 내 길을 막으려 든다면 당신도 죽여버리겠소.
 dlga_companion_responsebodostory5:companion_responsebodostory64|{s10}
-dlga_companion_responsebodostory61:companion_responsebodostory7|{s2}^^제 말을 제대로 듣지 않으셨잖습니까! 제가 스벤의 목표였다구요. 어떻게 제가 저를 배신한단 말입니까?
-dlga_companion_responsebodostory62:companion_responsebodostory7|{s2}^^압니다, 그저 죄송하기만 할 따름입니다.
-dlga_companion_responsebodostory63:companion_responsebodostory7|{s2}^^그 문제는 지금 얘기할 사안이 아니지만... 전 에루디노에게 맹세했습니다.
+dlga_companion_responsebodostory61:companion_responsebodostory7|{s2}^^내 말을 제대로 듣지 않았군! 내가 스벤의 목표였다고 하지 않았소. 어떻게 내가 나를 배신한단 말이오?
+dlga_companion_responsebodostory62:companion_responsebodostory7|{s2}^^알고있소, 그저 죄송하기만 할 따름이오.
+dlga_companion_responsebodostory63:companion_responsebodostory7|{s2}^^그 문제는 지금 얘기할 사안이 아니지만... 나는 이미 에루디노에게 맹세했소.
 dlga_companion_responsebodostory64:companion_responsebodostory7|{s2}
-dlga_companion_responsebodostory7:companion_responsebodostory8|제가 멍청했습니다. 오딘 릭은 안전할 거라고 생각했는데, 제가 틀렸습니다. 전 그곳의 선장에게 배신당했습니다. 그 가엾은 양반은 스벤 불 넥이 부귀영화라도 안겨줄 거라 생각했나보죠. 물론 그는 통수를 맞았고 바이킹들이 오딘 릭을 털면서 그도 살해당했습니다. 이제야 일들이 점점 아귀가 맞아떨어지는 것 같습니다. 왜 우리가 난파당했고, 또 오딘 릭의 선장이 당신에게 통제권을 주었는지, 우리 선박에 어째서 수습 선원들만이 타고 있었는지.
-dlga_companion_responsebodostory8:companion_responsebodostory9|오딘 릭의 대장이 절, 그리고 우리 모두를 배신했습니다. 물론 그를 미워하진 않습니다. 그는 그저 멍청했을 뿐이었고 그 대가로 목숨을 잃었죠.
+dlga_companion_responsebodostory7:companion_responsebodostory8|내가 멍청했소. 오딘 릭은 안전할 거라고 생각했는데, 내가 틀렸소. 나는 그곳의 선장에게 배신당한것이오. 그 가엾은 양반은 스벤 불 넥이 부귀영화라도 안겨줄 거라 생각했나보오. 하지만 그 역시 배신을 당했고 바이킹들이 오딘 릭을 공격할 때 그도 죽고 말았소. 그제야 우리에게 일어난 일들이 점점 아귀가 맞아떨어지는 것 같더구려. 우리가 그 난파선들 사이에 멈추었던 진짜 이유에 대해서 말이오...
+dlga_companion_responsebodostory8:companion_responsebodostory9|오딘 릭의 대장이 나는 물론 우리 모두를 배신했소. 물론 그를 탓하는건 아니오. 그는 그저 멍청했을 뿐이었고 그 대가를 목숨으로 치루었으니 말이오.
 dlga_companion_responsebodostory9:companion_responsebodostory101|차라리 죽는게 나을 거요. 안 그랬으면 내가 직접 처단했을테니. 난 배신자들이 정말 싫소.
 dlga_companion_responsebodostory9:companion_responsebodostory102|하지만 왜 스벤 불 넥이 당신을 쫓는 거요? 왜 당신이 그의 목표인거지?
 dlga_companion_responsebodostory9:companion_responsebodostory103|우리 어머니 얘기를 들으려고 기다리고 있소.
 dlga_companion_responsebodostory101:companion_responsebodostory9|{s2}^^이런 관심 속에서는 얼마 못 끝낼 겁니다.
-dlga_companion_responsebodostory102:companion_responsebodostory11|제가 스벤 불 넥의 목표였던 것은 제가 아주 중요한 뭔가를 손에 쥐고 있기 때문입니다. 너무 중요해서 시구르드 라그나르손이 죽여서라도 챙길 무언가를요. 하지만 제가 바이킹 습격에 앞서 아주 끔찍한 일을 저질렀기에... 그래서 제가 진정해달라고 부탁한 겁니다. 제가 후회할 짓거리를 했습니다.
-dlga_companion_responsebodostory103:companion_responsebodostory102|모친께서는 아직 살아계십니다. 제가 스벤 불 넥의 선박에 포로로 잡혀있다 깨어났을 때 당신 모친께서 제 옆에 계셨습니다. 우리가 유일한 생존자였습니다... 라고 당신이 오늘 절 구출해주기 전 까지는 그렇게 생각했습니다. 당신 모친께서는 당신이 죽은 줄만 알고 계셨습니다, 친구여.
+dlga_companion_responsebodostory102:companion_responsebodostory11|내가 스벤 불 넥의 목표였던 것은 내가 아주 중요한 뭔가를 손에 쥐고 있기 때문이오. 너무 중요해서 시구르드 라그나르손이 죽여서라도 얻을만한 물건 말이오. 하지만 나는 바이킹 습격에 앞서... 후회할만한 아주 끔찍한 일을 저질러버렸소... 그래서 내가 진정해달라고 부탁한 것이오.
+dlga_companion_responsebodostory103:companion_responsebodostory102|모친께서는 아직 살아계시오. 제가 스벤 불 넥의 선박에 포로로 잡혀있다 깨어났을 때 당신 모친께서 제 옆에 계셨소. 당신이 나를 구출해주기 전 까지는 '우리가 유일한 생존자다...' 라고 생각하고 있었소. 당신 모친께서는 당신이 죽은 줄만 알고 있소, 친구여.
 dlga_companion_responsebodostory11:companion_responsebodostory13|무슨 짓을 했소?
-dlga_companion_responsebodostory13:companion_responsebodostory14|전 그 무언가를 당신 모친께 드렸습니다. 그 분이 갖고 계시는게 제가 갖고 있는 것 보다 안전할 거라고 생각했기 때문에... 당신이 제게 심각하게 화내기 전에, 제가 그 분의 목숨을 살려드렸다는 것만은 알아주십시오. 왜냐면 바이킹들이 그 분을 제 주인으로 생각했거든요.
-dlga_companion_responsebodostory14:companion_responsebodostory15|아시겠습니까? 그 물건이 없었다면 그 분은 오딘 릭의 다른 사람들처럼 벌써 돌아가셨을 겁니다. 모친의 병세도 조금 나아졌습니다. 왜냐면 바이킹들은 모친의 광증이 신의 손길이라고 생각하기 때문이죠. 스벤은 모친을 북쪽으로 데려갔고 전 노예로 팔려나가라고 여기 남겨두었는데, 그는 당신 모친이 제 주인이자 운반자라고 생각했기 때문이죠. 서둘러야 합니다. 스벤 불 넥이 진실을 알기라도 하는 날엔 그 분을 죽일 겁니다.
+dlga_companion_responsebodostory13:companion_responsebodostory14|나는 그 무언가를 당신 모친께 드렸소. 그 분이 갖고 계시는게 내가 갖고 있는 것 보다 안전할 거라고 생각했기 때문에... 당신이 내게 심각하게 화내기 전에, 내가 그 분의 목숨을 살려드렸다는 것만은 알아주시오. 왜냐면 바이킹들이 그 분을 나의 주인으로 생각했기 때문이오.
+dlga_companion_responsebodostory14:companion_responsebodostory15|이해 하시겠소? 그 물건이 없었다면 그 분은 오딘 릭의 다른 사람들처럼 벌써 돌아가셨을 것이오. 모친의 병세도 도움이 됐소. 왜냐면 그 바이킹들은 모친의 광증을 신의 손길이라고 생각했기 때문이오. 스벤은 모친을 북쪽으로 데려갔고 나는 노예로 팔아버리기 위해 여기 남겨두었는데, 그는 당신 모친이 제 주인이자 운반자라고 생각했기 때문이오. 서두릅시다. 스벤 불 넥이 진실을 알기라도 하는 날엔 그 분을 죽이고 말것이오.
 dlga_companion_responsebodostory15:companion_responsebodostory161|진정으로 당신은 누구고, 뭐가 그렇게 중요해서 스벤과 그의 영주 시구르드가 애타게 찾아 헤매는거요?
 dlga_companion_responsebodostory15:companion_responsebodostory162|우리 어머니를 어디로 데려갔소?
-dlga_companion_responsebodostory161:companion_recruit_signup|그게 중요한게 아닙니다만, 제가 평범한 여행자가 아니라는 것만은 알려드리죠. 전 아스투리아스의 국왕이 보낸 사람입니다. 그리고 제가 가져온 건 전쟁의 흐름을 뒤바꿀 수도 있는 선물입니다! 이 일은 나중에 얘기합시다. 당신 어머니를 찾는 일이 더 급합니다. 스벤 불 넥은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔습니다. 시구르드는 이 물건을 원하니 당신 어머니를 심문할 겁니다. 분명 그 분께서 필요한 정보를 가지고 계시다고 생각할 테니까요. 시구르드를 빨리 찾아야 합니다.
-dlga_companion_responsebodostory162:companion_recruit_signup|스벤 불 넥은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔습니다. 시구르드가 이 물건을 원하니 당신 어머니를 심문할 겁니다. 왜냐면 그분께서 필요한 정보를 갖고 계시다고 생각할 테니까요. 빨리 시구르드를 찾아야 합니다.
+dlga_companion_responsebodostory161:companion_recruit_signup|그게 중요한건 아닙니다만, 내가 평범한 여행자가 아니라는 것만은 말해드릴 수 있소. 전 아스투리아스의 국왕이 보낸 사람이오. 그리고 제가 가져온 건 전쟁의 흐름을 뒤바꿀 수도 있는 선물이오! 이 일은 나중에 얘기하기로 합시다. 당신 어머니를 찾는 일이 더 급하오. 스벤 불 넥은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드는 이 물건을 원하니 당신 어머니를 심문할 것이오. 분명 그 분께서 필요한 정보를 가지고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
+dlga_companion_responsebodostory162:companion_recruit_signup|스벤 불 넥은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드가 이 물건을 원하니 당신 어머니를 심문할 것이오. 왜냐면 그분께서 필요한 정보를 갖고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
 dlga_companion_reginhard1:companion_reginhard2|{s2}^^아직 얘기할 거리는 없는 것 같군.
 dlga_companion_reginhard2:companion_reginhard21|{s10}
 dlga_companion_reginhard2:companion_reginhard3|좋소. 당신과 함께 있어주겠지만, 왜 당신이 여기 있으면 안 되는지 말해보시오.
