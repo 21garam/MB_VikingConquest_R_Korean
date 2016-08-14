@@ -890,7 +890,7 @@ dlga_start:sigurd_quest_revenge10|친구, 날 죽음으로 몰아넣었지만 �
 dlga_start:close_window.37|그래서, 이 쓰레기 양반아. 덴마크인에게서 돌아서면 돈을 안 내도 될 줄 알았냐? 이제 누군가 이 부대를 올바른 방향으로 이끌어줘야겠어. 이제 나 에길이 이 편지의 소유권을 가지며 이를 나의 아버지, 호릭 국왕께 가져다 드릴 것이다. 네놈 옆에 있으면서 너무 오랜 시간을 낭비했군. 여태까지 일어난 모든 일 때문에 네놈이 믿을 수 없는 쥐새끼라는 것 딱 겨우 그것 하나 알아내기 위해서 말야. 네놈이 군대를 이끌 수 있을지도 정말 의심스러웠다. 하지만 이제 네놈은 죽어줘야겠다. 지금이야말로 내 영광의 순간이다.
 dlga_start:close_window.38|그럼, {reg59?부인:경}! 제발, 다시 기어올라서 문제를 일으키지 마시오. 방금처럼 손쉽게 때려눕혀줄테니. 당신의 침묵을 사과의 인사로 받도록 하지. 좋은 하루 되시오.
 dlga_start:close_window.39|좋소. 요점이 확고하시군. 내가 했던 말은 철회하겠소. 만족하셨길 바라오.
-dlga_start:brunhild_avisa|{reg59?부인:경}, 스벤의 은신처는 위험한 곳이지만, 저희가 간신히 보도의 몸값을 지불해냈습니다. 당신의 모친을 찾고 싶으신 마음 충분히 이해하지만, 제가 켄네머 야를의 궁정에서 보았던 일들을 말하게 해주십시오. 시구르드에 대하여 끔찍한 일들을 들었습니다.
+dlga_start:brunhild_avisa|{reg59?부인:경}, 스벤의 은신처는 위험한 곳이지만, 우리는 간신히 보도의 몸값을 지불해냈어요. 당신의 모친을 찾고 싶으신 마음 충분히 이해하지만, 제가 켄네머 야를의 궁정에서 보았던 일들에 대해서 말하게 해 주세요. 시구르드에 대한 끔찍한 것들을 들은적이 있어요...
 dlga_start:companions_despuesduelo1|{reg59?부인:경}, 저흰 이 결투에서 무슨 일이 일어나든 아무도 당신을 헐뜯지 않고 모두가 당신을 지지하기를 바랍니다.
 dlga_start:close_window.40|하! 그리 용맹하진 않았군. 안 그렇소? 이제 더 이상 문제 일으키지 마시오.
 dlga_start:close_window.41|좋소. 당신이 이겼소. 오늘 이 모든 것들이 당신이 날 이겼다는 증인이 되겠군. 그리고 {s10}에 대한 구혼도 없던 일로 하겠소. 이제 만족하는가, 이 무심한 개자식아?
@@ -1003,30 +1003,30 @@ dlga_bodo_carta12:bodo_carta13.1|좋소, 하지만 내가 마음을 바꿀 거�
 dlga_bodo_carta12:bodo_carta13.2|좋소, 편지 얘기는 다음에 합시다.
 dlga_bodo_carta13:bodo_carta14|글쎄, 호릭 왕에게는 아틀리 에이릭손과 싸우던 도중 편지가 소실되었다 말하겠소. 그럼 '눈 속의 뱀' 시구르드가 총회를 이용해먹을 걱정할 필요도 없겠지. 그럼 그가 당신을 지지해줄 것이오.
 dlga_bodo_carta14:close_window|시간낭비 하지 말고 이 굴에서 나갑시다.
-dlga_brunhild_avisa:companion_brunhild_conv|'눈 속의 뱀' 시구르드는 켄네머 야를의 연회장에 한 번 이상 들렀었습니다. 그는 그냥 평범한 사람이 아니에요, {reg59?부인:경}! 켄네머 야를이 굳센 사람이라는 건 아실테지만, 그마저도 시구르드 앞에서는 벌벌 떨었습니다. 시구르드는 말도 많이 하지 않았고, 웃지도 않았고, 뱀같은 눈알은 머릿속을 파고들어서 꼭 생각을 읽어내려는 것 같았어요. 전 그저 노예에 불과했지만 줏어들은게 있습니다. 사람들은 그가 라그나르의 자손들 중 가장 위험한 남자라고 합디다. 재채기만으로 근처의 다른 사람을 죽인다거나 재수없는 날에 길을 막았다고 사람을 죽인다거나 하는 이야기요.
-dlga_companion_brunhild_conv:companion_brunhild_conv3|우아한 브륀힐드의 말이 맞습니다, {playername}. 내가 아는 바로는 시구르드 라그나르손은 멀리 떨어져 있는게 좋은 사람입니다. 재수 없게도 그는 우리 앞길을 막고 있소...
-dlga_companion_brunhild_conv3:companion_brunhild_conv4|그렇게 심각하다니 믿기지가 않습니다. 켄네머의 야를은 믿을 수 없는 사람입니다. 다른 이들을 맘대로 조종하기 위해 할 수 있는 모든 방법을 동원하지요. 말 나온 김에 만약 시구르드 앞에서 소심하게 굴다가 힐끗 이점 하나를 찾아낸다면, 분명 진작에 그 이점을 이용해냈을 겁니다. 저라면 그를 아주 조심스럽게 대할 것입니다. 앞에서는 쉽게 웃음을 지어 보이지만 등을 돌리면 칼을 꽂을 양반이니까요. 적어도 시구르드와 함께 있다면 그가 어디에서 오는지는 알 수 있을 겁니다.
-dlga_companion_brunhild_conv4:companion_brunhild_conv5|레인허드는 뒷구멍으로 개소리를 지껄이고 있습니다. 제가 들은 바가 있으니까요. 또 언제는 시구르드가 술에 취했을 때나 누군가를 통수치는 때에는 아주 독기를 품고 용서따윈 모른답니다. 그리고 절대 뭔가를 잊어버리는 일이 없죠...
-dlga_companion_brunhild_conv5:companion_brunhild_conv6|내 면전에서 날 술 취한 배신자라고 하다니, 뻔뻔하구나! 나에 대해서 뭘 안다고 지껄이느냐! 말 조심해라, 안 그럼 네 등짝을 조심해야 할거다.
-dlga_companion_brunhild_conv6:companion_brunhild_conv71|브륀힐드! 레인허드는 고된 삶을 살아왔소. 그에게 시어더드에게 무슨 일이 일어났는지는 얘기하지 마시오.
+dlga_brunhild_avisa:companion_brunhild_conv|'눈 속의 뱀' 시구르드는 켄네머 야를의 연회장에 한 번 이상 들렀었어요. 그는 그냥 평범한 사람이 아니에요, {reg59?부인:경}! 켄네머 야를이 강건한 사람이라는 건 아실테지만, 그마저도 시구르드 앞에서는 벌벌 떨었어요. 시구르드는 말도 많이 하지 않았고, 웃지도 않았고, 뱀같은 눈알은 머릿속을 파고들어서 꼭 생각을 읽어내려는 것 같았어요. 전 그저 노예에 불과했지만 주워들은게 있어요. 사람들은 그가 라그나르의 아들들 중 가장 위험한 남자라고 불러요. 근처에서 재채기를 했다는 이유로 사람을 죽이거나 재수없는 날에 보였다는 이유로 사람을 죽인다는 그런 사람이라구요.
+dlga_companion_brunhild_conv:companion_brunhild_conv3|저 아름다운 브륀힐드의 말이 맞소, {playername}. 내가 아는 바로는 시구르드 라그나르손은 멀리 떨어져 있는게 좋은 사람이오. 재수 없게도 그가 우리 앞길을 막고 있긴 하지만 말이오...
+dlga_companion_brunhild_conv3:companion_brunhild_conv4|그가 그렇게 악질이라니 믿을 수 없소. 켄네머의 야를이야말로 믿을 수 없는 사람이오. 다른 이들을 맘대로 조종하기 위해 할 수 있는 모든 방법을 동원하지요. 만약 그가 시구르드 앞에서 겁을 먹고 소심하게 굴다가도 스쳐 지나가는 이점을 하나라도 찾아낸다면, 분명 진작에 그 이점을 이용해냈을 것이오. 저라면 그를 아주 주의깊게 대할 것이오. 왜냐하면 그는 앞에서는 웃음을 지어 보이다가도 등을 돌리는 순간 칼을 찔러넣을 사람이란 말이오.^우리가 시구르드와 함께 있는다면 최소한 스벤이 어디에서 오는지는 알 수 있지 않겠소?
+dlga_companion_brunhild_conv4:companion_brunhild_conv5|레인허드는 시구르드를 모르니까 하는 말이에요. 저는 제가 보고 들을 이야기들이 있어요. 아참, 레인허드는 술에 취해있거나 '누군가'를 배신하느라 바빠서 몰랐나보네요.^시구르드는 악의에 젖어있고 절대 용서하는 법이 없어요. 물론 절대 잊어버리지도 않구요.
+dlga_companion_brunhild_conv5:companion_brunhild_conv6|이런 뻔뻔한년! 감히 내 면전에서 날 술 취한 배신자라고 하다니! 넌 나에 대해 아무것도 몰라! 신중하게 말하는 법을 배워야 할거야. 그렇지 않으면 뒤를 조심해야 할거야.
+dlga_companion_brunhild_conv6:companion_brunhild_conv71|브륀힐드! 레인허드는 고된 삶을 살아왔소. 시어더드와 있었던 일로 조롱하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv72|레인허드! 과거와 후회는 극복해버리고 다시는 부대원들을 위협하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv73|내가 성인이랑 지내는 거요 아니면 애들이랑 지내는 거요? 모두 조용히 하시오! 보도, 어떻게 생각하오?
 dlga_companion_brunhild_conv6:companion_brunhild_conv73.1|보도, 시구르드에 대해 말해줄 것이 없습니까?
-dlga_companion_brunhild_conv71:companion_brunhild_conv73|죄송합니다, {reg59?부인:경}. 죄송합니다, 레인허드. 잠시 화가 나서 이성을 잃었군요.
-dlga_companion_brunhild_conv72:companion_brunhild_conv73|그래, 나도 일이 어떻게 돌아가는지는 아오. 협박했던 건 무르겠지만, 저 여자는 말조심 좀 해야겠소.
-dlga_companion_brunhild_conv73:companion_brunhild_conv74|우린 교차로에 놓여있소. '눈 속의 뱀' 시구르드는 우리가 필요한 걸 갖고 있고, 당신 어머니의 목숨이 위험에 처해있소. 내 의견이지만, 그를 찾아가 대화를 해보는 것이 좋을 것 같소. 설령 목숨을 필요로 하더라도 말이오. 선택권이 없지 않소...
-dlga_companion_brunhild_conv74:companion_brunhild_conv75|다른 방법이 있을지도 모릅니다. 시구르드를 싫어하는 강력한 권력의 소유자가 있습니다. 덴마크의 국왕 호릭 고드프레손입니다.
+dlga_companion_brunhild_conv71:companion_brunhild_conv73|죄송해요, {reg59?부인:경}. 그리고... 미안합니다, 레인허드. 잠시 화가 나서 이성을 잃었어요.
+dlga_companion_brunhild_conv72:companion_brunhild_conv73|좋소, 나도 일이 어떻게 돌아가는지는 알고 있소. 협박했던 건 무르겠지만, 저 여자는 말조심 좀 해야겠소.
+dlga_companion_brunhild_conv73:companion_brunhild_conv74|우린 갈림길에 서 있소. '눈 속의 뱀' 시구르드는 우리가 필요한 걸 갖고 있고, 당신 어머니의 목숨이 위험에 처해있소. 내 의견이지만, 그를 찾아가 대화를 해보는 것이 좋을 것 같소. 설령 목숨을 필요로 하더라도 말이오. 선택권이 없지 않소...
+dlga_companion_brunhild_conv74:companion_brunhild_conv75|다른 방법이 있을지도 몰라요. 시구르드를 싫어하는 강력한 권력의 소유자가 있잖아요. 덴마크의 국왕이자 시구르드의 왕이기도 한 호릭 고드프레손 말이에요.
 dlga_companion_brunhild_conv75:companion_brunhild_conv76|왜 국왕이 그를 싫어하는 거요, 브륀힐드?
-dlga_companion_brunhild_conv75:companion_brunhild_conv8|제안을 잘 생각해 보십시오. 호릭 국왕에게 가서 정확히 뭘 여쭐겁니까?
-dlga_companion_brunhild_conv76:companion_brunhild_conv8|글쎄, 내가 아는 거라곤 들은 것 밖에 없소. 저들은 걱이오. 어쩌면 시구르드는 왕이 되고 싶어하는 것일 수도 있지.
-dlga_companion_brunhild_conv8:companion_brunhild_conv9|그렇다면 시구르드는 무지렁이였겠군요. 호릭 왕은 아주 작은 잘못 하나로도 그를 추방해서 낙오자로 만들거나 총회에서 제외함으로써 영지를 박탈할 수도 있었습니다.
-dlga_companion_brunhild_conv9:companion_brunhild_conv10|제 지식도 끝이 있습니다. 허나 시구르드는 왕과 비스무리한 권력을 갖고 있는 것 같습니다. 아니면 호릭 왕이 다른 야를과의 기나긴 전쟁 끝에 왕좌를 얻어냈기에 덴마크에서 더 이상 내전을 하고 싶지 않은 것일 수도 있지요.
+dlga_companion_brunhild_conv75:companion_brunhild_conv8|당신의 제안에 대해서 말 해 보시오. 당신이라면 호릭 왕에게 뭐라고 말 하겠소?
+dlga_companion_brunhild_conv76:companion_brunhild_conv8|글쎄요, 저는 들은것 밖에는 몰라요. 그들은 서로 적이에요. 아마도 시구르드는 왕이 되고 싶어하는것 같아요.
+dlga_companion_brunhild_conv8:companion_brunhild_conv9|그렇다면 시구르드는 멍청한가보구려. 호릭 왕은 아주 작은 잘못 하나로도 그를 추방해서 낙오자로 만들거나 총회에서 제외함으로써 영지를 박탈할 수도 있소.
+dlga_companion_brunhild_conv9:companion_brunhild_conv10|내 지식도 한계는 있소만, 시구르드는 왕과 비슷한 수준의 권력을 갖고 있는 것 같소. 아니면 호릭 왕이 다른 야를과의 기나긴 전쟁 끝에 왕좌를 얻어냈기에 더 이상 덴마크의 내전을 치루고 싶지 않은 것일 수도 있소.
 dlga_companion_brunhild_conv10:companion_brunhild_conv111|레인허드, 당신이 말하려던 것은 무엇이오?
 dlga_companion_brunhild_conv10:companion_brunhild_conv112|시구르드와 대화하거나 호릭 왕과 대화하는 것? 아주 결정하기 힘든 문제군.
 dlga_companion_brunhild_conv111:companion_brunhild_conv112|총회는 분쟁을 해결하고 결정을 하는 자유인들의 모임이오.
-dlga_companion_brunhild_conv112:companion_brunhild_conv12|아무래도 호릭 왕을 지지해서 그의 보호를 받는 것이 좋겠소. 그러면 시구르드를 상대할 때 우리 목숨을 허투루 여기지 말라고 한 발 앞설 수 있겠지. 호릭 왕이 우릴 도와준다면, 공식적으로 어머니를 돌려달라고 요청할 수 있소.
-dlga_companion_brunhild_conv12:companion_brunhild_conv13|곧장 '눈 속의 뱀' 시구르드에게 가지는 맙시다. 당신 어머니 목숨을 앗아갈 수 있고, 스벤 불 넥을 쫓아갈 기회도 영영 잃게 될 겁니다. 또 호릭 왕이 우릴 지지해줄 거란 보장도 없습니다.
-dlga_companion_brunhild_conv13:companion_brunhild_conv14|내가 곧장 시구르드를 찾아가서 죽거나 호릭을 찾아가서 당신 어머니를 죽게 만들거나 둘 중 하나를 골라야 한다면 뭘 선택해야 할 지 모를 겁니다. 하지만 당신이 절 제가 있던 굴에서 빼내주셨으니 당신이 무슨 선택을 하든 전 괜찮습니다. 
+dlga_companion_brunhild_conv112:companion_brunhild_conv12|아무래도 호릭 왕을 지지해서 그의 보호를 받는 것이 좋겠어요. 그러면 시구르드를 상대할 때 그가 우리 목숨을 쉽게 해칠 수 없게 해줄거에요. 호릭 왕이 우릴 도와준다면, 공식적으로 어머니를 돌려달라고 요청할 수도 있어요.
+dlga_companion_brunhild_conv12:companion_brunhild_conv13|곧장 '눈 속의 뱀' 시구르드에게 가는것만은 피하는게 좋겠소. 그랬다간 당신 어머니 목숨을 앗아갈 수도 있고, 스벤 불 넥을 쫓아갈 기회도 영영 잃어버리게 될 지도 모르오. 먼저 호릭 왕이 우리를 지원해줄 지 살펴보는게 어떻겠소?
+dlga_companion_brunhild_conv13:companion_brunhild_conv14|만약 내가 이 상황에서 곧장 시구르드를 찾아가서 죽임을 당하거나, 호릭 왕에게 찾아가서 당신 어머니를 죽게 내버려두는 것들 중 하나를 골라야 한다면... 정말 뭘 선택해야 할 지 모르겠소. 하지만 당신이 나를 내가 빠져있던 구멍에서 빼내주었소. 그러니까... 당신이 무슨 선택을 하든 난 괜찮소. 
 dlga_companion_brunhild_conv14:close_window|생각을 좀 해봐야겠군. 모두 고맙소. 이제 가던 길을 계속 가야 하오.
 dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|급습 이후에 스벤 불 넥이 이곳을 찾아왔습니다. 우리 포로들과 함께 부하 몇을 남겨두고 떠났죠. 또 그가 프리지아를 공격하기 위해 선박을 보내는 것도 목격했습니다. 그리고 북쪽으로 떠났습니다. 제 생각엔 누군가, 아니면 무언가 북쪽에서 그를 불렀다고 생각됩니다. 아니면 부하들이 얘기하던 것을 줏어들은 것도 있지만, 저들이 한 말이 모두 진실일 리 없겠죠.
 dlga_companion_questions_bodo2:companion_responsebodostory|당신 모친께서 아직 살아 계신지, 그리고 어디 계신지 묻고 싶어하는 마음이 제게도 느껴지는구려. 사실, 아직 전하지 못한 말들이 많이 남았소. 진정하고 조심스레 내 말을 들어주십시오.
