@@ -920,10 +920,10 @@ dlga_companion_recruit_backstory_c:companion_recruit_backstory_responsebeda|{s5}
 dlga_companion_recruit_backstory_c:companion_recruit_backstory_response|{s5}
 dlga_companion_recruit_backstory_responsesolveig:companion_questions_solveig1|난 남이 날 따라오는 건 별로 좋아하지 않소.
 dlga_companion_recruit_backstory_responsesolveig:companion_questions_solveig2|고맙소, 내 목숨을 빚졌군.
-dlga_companion_recruit_backstory_responsesolveig:companion_questions_solveig3|고맙지만 이 사람들의 도움은 필요없소.
-dlga_companion_questions_solveig1:companion_recruit_backstory_response|{s2}^^나도 마찬가지입니다! 난 솔베이그라고 해요, 당신을 믿을 수 없을 때까지 당신을 섬기고 보호하기로 했소.
-dlga_companion_questions_solveig2:companion_recruit_backstory_response|{s2}^^저들은 바보가 아니오. 훨씬 좋은 기회가 수백 번을 찾아왔는데도 당신을 며칠 동안이나 따라다녔습니다. 허나 당신을 구할 준비가 되어있었기에 하마터면 실패로 돌아갔을 수도 있었죠.
-dlga_companion_questions_solveig3:companion_recruit_backstory_response|{s2}^^그래, 확실하오. 걱정 마시오. 당신이 바지 내리고 있을때 내가 구해줬다는 얘기는 아무에게도 하지 않겠소.
+dlga_companion_recruit_backstory_responsesolveig:companion_questions_solveig3|고맙소. 하지만 이깟 사람들 때문에 도움이 필요하진 않았소.
+dlga_companion_questions_solveig1:companion_recruit_backstory_response|{s2}^^그건 나도 마찬가지에요! 난 솔베이그라고 해요. 그리고 나는 당신을 보호하고 당신에게 봉사하기로 결정했어요. 물론 당신에게 그럴만한 가치가 있을 때 까지만요.
+dlga_companion_questions_solveig2:companion_recruit_backstory_response|{s2}^^물론 그렇긴 하지만 저들은 바보였어요. 그들이 당신을 따라다니는 며칠동안 지금보다 더 좋은 기회는 수백번도 더 있었어요. 하지만 그 중 언제를 선택했더라도 실패했을거에요. 왜냐하면 내가 당신을 구할 준비가 늘 되어있었거든요.
+dlga_companion_questions_solveig3:companion_recruit_backstory_response|{s2}^^걱정 마세요. 당신이 바지를 내리고 있을때 구해줬다는 얘기는 아무에게도 하지 않을테니까요.
 dlga_companion_recruit_backstory_responseagathinos:companion_questions_aghatinos1|혼자 여행하면서 노상강도가 무섭다거나 하진 않았소?
 dlga_companion_recruit_backstory_responseagathinos:companion_questions_aghatinos2|노스비거에서 그리스인을 만나게 될 줄은 몰랐군.
 dlga_companion_questions_aghatinos1:companion_recruit_backstory_response|{s2}^^글쎄, 난 혼자가 아니오. 그리고 지금은 당신과 함께 하고 있소. 도적놈들이 당신과 마주치면 꽁지빠지게 달아날 거요.

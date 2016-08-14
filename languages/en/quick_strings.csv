@@ -3150,8 +3150,8 @@ qstr_Sven_Bull_Neck_shout|스벤 불 넥이 외쳤다, '그들은 적절한 지�
 qstr_Mission:_The_Thing_h|임무: 총회가 시작되었습니다. 호릭 왕에게 다가가시오.
 qstr_Harald_s_orders_arri|Harald's orders arrive on the wind: 'We cannot hold them. They are too many. Everyone flee! Meet at Jorvik. Flee!'{***}
 qstr_Try_to_flee!_|어서 도망치시오!'
-qstr_A_stranger_shouts__Q|이방인이 외쳤습니다, '빨리, 야영지로 돌아가시오. 당신은 지금 위험에 빠졌소!'
-qstr_An_attacker_yells__W|An attacker yells, 'Who are you, woman? Anyway, you're too late! {playername}, the jarl of Kennemer wants your head. You were a fool to walk away from your camp. Now you're going to die! Greet Hell for me!'{***}
+qstr_A_stranger_shouts__Q|이방인이 외쳤습니다, '어서, 야영지로 돌아가세요. 당신은 지금 위험에 빠졌어요!'
+qstr_An_attacker_yells__W|이어서 공격자가 소리칩니다, '이년은 또 누구야? 어쨌거나, 도망치기엔 늦었다! {playername}, 켄네머의 야를이 네놈의 머리를 원하고 있지. 야영지에서 걸어나오다니 멍청하군. 자, 이제 죽을 시간이다! 날 위해 지옥에 가주셔야겠어!'
 qstr_Not_far_in_the_dista|멀지 않은 곳에 스노팅햄의 성벽이 보입니다. 숲을 지나쳐 그들에게로 가야 합니다.
 qstr_You_run_into_the_for|당신은 숲으로 들어갔고, 강행돌파를 계획했습니다.
 qstr_Your_mission_is_to_f|당신의 임무는 머시아 순찰대를 피해 숲 반대편의 스노팅햄으로 가는 길에 도달하는 것입니다.^^당신은 K키를 누르기 전에, 도착할 지점을 미리 기억해두어야 할 것입니다.
