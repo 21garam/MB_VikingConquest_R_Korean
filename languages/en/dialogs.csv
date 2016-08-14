@@ -1979,11 +1979,11 @@ dlga_muletroop_1:muletroop_2|나는 말에 타고 약간 돌아다녀보고 싶�
 dlga_muletroop_1:close_window|아무것도 아니오, 그럼 이만.
 dlga_muletroop_2:close_window|항상 당신에게 봉사하겠소.
 dlga_start:sacerdote1_action|무슨 일이오?
-dlga_sacerdote1_action:sacerdote2_action|파테르, 나는 죽은 내 부하의 가족을 위해 200 페닝을 기부하겠소.
+dlga_sacerdote1_action:sacerdote2_action|파테르, 나는 죽은 내 부하의 가족을 위해 500 페닝을 기부하겠소.
 dlga_sacerdote1_action:close_window|아무것도, 그럼 이만.
 dlga_sacerdote2_action:close_window|하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며 나라가 임하시오며 뜻이 하늘에서 이루어진 것 같이 땅에서도 이루어지이다. 오늘 우리에게 일용할 양식을 주시옵고 우리가 우리에게 죄 지은 자를 사하여준 것 같이 우리 죄를 사하여주시옵고 우리를 시험에 들게 하지 마시옵고 다만 악에서 구하시옵소서. ^^나라와 권세와 영광이 아버지께 영원히 있사옵나이다, 아멘.^^ 이 것으로 당신의 부하들은 만족할 것이오.
 dlga_start:pagano1_action|무슨 일이오?
-dlga_pagano1_action:pagano2_action|사제, 내 부하들이 오딘을 필요로 하오. 나는 이 문제에 대해 200 페닝을 기부하며 당신의 도움을 바라오.
+dlga_pagano1_action:pagano2_action|사제, 내 부하들이 오딘을 필요로 하오. 나는 이 문제에 대해 500 페닝을 기부하며 당신의 도움을 바라오.
 dlga_pagano1_action:pagano2_recruit|사제, 내 부하들은 당신을 필요로 하오. 우리 부대에 들어오겠소?
 dlga_pagano1_action:pagano_quest|이 신전을 위해 내가 할만한 일이 있소?
 dlga_pagano_quest:pagano_quest1|여신 사가님을 기리기 위한 축제가 곧 있소만, 중요한 물건 몇 개가 부족하오. 우리에게 벌꿀주 {reg33}개를 가져다 주실 수 있소?
@@ -3986,7 +3986,7 @@ dlga_lady_talk:lady_profess_admiration|아가씨, 저는 저 스스로 당신을
 dlga_lady_talk:lady_tournament_dedication_reaction|아가씨, 최근 토너먼트에서의 나의 성공을 당신에게 바치고 싶군요.
 dlga_lady_tournament_dedication_reaction:lady_pretalk|{s9}
 dlga_lady_profess_admiration:close_window|{s11}만약 우리가 서로 더 볼 수 있다면 나는 꼭 그렇게 하고 싶어요.
-dlga_lady_profess_admiration:lady_pretalk|아... 당신은 너무 친절하군요... 그런데, 시간이 좀 늦은 것 같지 않나요, 그렇죠? 전 정말 가야 되요.
+dlga_lady_profess_admiration:lady_pretalk|아... 당신은 너무 과하게 친절하군요... 시간이 좀 늦어진것 같지 않나요? 저는 이제 가봐야겠어요.
 dlga_lady_talk:lady_recite_poetry|당신은 시를 좋아 하십니까, 아가씨?
 dlga_lady_recite_poetry:lady_recite_poetry|시에 따라 달라요. 당신은 어떤 시를 들려 주실 생각이세요?
 dlga_lady_recite_poetry:lady_recite_poetry_response|뮤즈 칼리오페는 오르페우스라는 이름의 아들을 낳았고...

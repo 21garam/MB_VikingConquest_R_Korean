@@ -619,7 +619,7 @@ ui_group_rename|그룹 이름 재지정
 ui_group_close|닫기
 ui_party_b_group_information|%s은(는) %s에 속해 있다.
 ui_thrown_or_s|투척력/%s
-ui_ranged_damage|사거리: %d%s
+ui_ranged_damage|원거리: %d%s
 ui_overall_quality|전체적 품질
 ui_shader_quality|쉐이더 품질:
 ui_flora_lod_detail|나무 품질:
