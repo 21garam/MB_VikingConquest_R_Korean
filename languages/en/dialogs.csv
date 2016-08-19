@@ -161,8 +161,8 @@ dlga_the_fleetcrew1:close_window|몇 주, 혹은 몇 달이 걸릴 지도 모르
 dlga_port_crew_fleet2:close_window|아니, 끝내야 할 일이 있소. 나중에 오겠소.
 dlga_port_r_2:close_window|난 가봐야겠소. 그럼 이만.
 dlga_start:close_window.5|왜 날 귀찮게 하는 거지? 난 바쁜 사람이야! 너같은 놈에게 낭비할 시간은 없어. 나중에 다시 오던지, 아니면 오지 말던지.
-dlga_start:kinghorik_quest_danmarkprot|여기라면 엿듣는 사람도 없을 테지. 이제 이야기해보시오.
-dlga_start:kinghorik_quest_revenge4|여기라면 엿듣는 이도 없을 테지. 이제 이야기해보시오.
+dlga_start:kinghorik_quest_danmarkprot|여기라면 엿듣는 사람도 없을 테지. 이제 이야기해보시게.
+dlga_start:kinghorik_quest_revenge4|여기라면 엿듣는 사람도 없을 테지. 이제 이야기해보시게.
 dlga_start:kinghorik_quest_thething1|여어, {playername}.
 dlga_start:svenbn_hunting1_1|{playername}, 친구. 고맙게 됐소, 우리가 전투에서 이겼소! 웨스트 색슨은 이제 우리 차지요! 그래도 당신은 여전히 스벤 불 넥의 위치를 더 신경쓰고 있겠지, 안 그렇소? 음, 그는 도망쳤소. 하지만 멀리는 아니오. 리딩엄을 점령해서 성채를 세웠다오. 하지만 내 부하들이 그를 미행했지. 난 이 작전을 맡은 헤르시어인 아른비드를 믿고 있소. 리딩엄에서 그를 만나시오. 당신이 공격할 마음만 먹으면 그 부하들도 같이 처리할 거요.
 dlga_start:svenbn_hunting1_1.1|잘 있으시오, {playername}! 덴마크 놈들이 줄행랑을 치고 있고 수많은 야를을 잃었소. 아직 많은 수가 남아 있긴 해도, 우린 중대한 승리를 이뤄냈소. 저들도 앞으로는 예전처럼 용감하게 덤비지 못하겠지. 들려줄 소식이 몇 가지 있소. 스벤 불 넥이 리딩엄로 도망가서 요새를 세웠소. 에드릭이 이끄는 내 부하들이 그를 미행했고 당신이 도착할 때까지 그의 처분을 보류하고 기다릴 것이오. 이제 모든 순간은 당신에게 달렸소! 리딩엄으로 가서 스벤 불 넥에게 당신이 당한 빚을 갚아 주시오.
@@ -2406,46 +2406,46 @@ dlga_lord_talk:jarldenunciado1extra|나는 켄네머의 야를에 대해 이야�
 dlga_lord_talk:jarldenunciado2extra|나는 켄네머의 야를에 대해 이야기하고 싶소.
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사합니다, 호릭 왕이시여. 저는 저뿐만 아니라 보도와 브륀힐드를 데려왔습니다. 그들은 신뢰할 수 있을 것입니다.
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|왕께 제 이야기를 하겠습니다...
-dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|알았소, 알겠다고, 그들을 만나서 반갑소. 이제, 요점만 말하시오. 내 시간도 한계가 있어.
+dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|알겠네, 알겠어, 만나서 반갑네. 이제, 요점으로 넘어가시게. 시간이 얼마 없네.
 dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|최근에, 저는 보트를 타고 여행하다가 '눈 속의 뱀' 시구르드의 수하 스벤 불 넥의 바이킹에게 공격을 받았습니다.
-dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^특별한 것이 없잖소. 덴마크의 많은 야를들은 자신의 바이킹을 데리고 있고, 심지어 야를 또는 나 자신 역시 한 번 바이킹이었어, 당신이 내 시간을 낭비하지 않을 거라는 희망은 없어 보이는군, 이 대화는 끝이야.
+dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^특별한 것이 없잖나. 덴마크의 많은 야를들은 자신의 바이킹을 데리고 있고, 심지어 야를들은 물론 나 역시도 한때는 바이킹이었네, 나는 당신이 내 시간을 낭비하지 않길 바라네. 신중하게 할 말을 고르시게, 그렇지 않으면 이 대화는 끝이야.
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|스벤 불 넥은 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다!
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다. 왕이시여...
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 정보를 알고 있습니다.
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|스벤 불 넥의 은신처가 리베 근처에 있으며, 그가 데려간 오딘 릭의 포로가 그곳에 잡혀있습니다.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 스벤 불 넥과 '눈 속의 뱀' 시구르드는 제 적입니다. 그들의 야망은 거기까지고, 제가 그들을 막을 수 있습니다.
-dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^네 어머니? 시구르드가 네 어머니를 데려갔다고? 내 시간만 낭비했군. 난 더 이야기하고 싶지 않네. 이제 네가 가봐야 할 시간이군.
-dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 그게 전부인가? 그는 내 형제의 도움으로 앵글리아의 남성들을 모집중이다. 나 또한 그들이 원한다면 내 야를과 헤르시어들이 원정대에 가입하도록 내버려두고 있지. 앵글리아는 부유한 땅이고, 약탈을 기다리며, 습관적으로 약한 사람들이 지배하는 땅이지. + 덤으로, 너는 내 시간을 낭비했어. 나는 더 이야기를 하지 않을 거고. 이제 네가 가야 할 시간이다.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 스벤 불 넥과 '눈 속의 뱀' 시구르드는 뭔가 꿍꿍이가 있습니다. 나는 그들을 막고 싶습니다.
+dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^당신의 어머니? 시구르드가 당신의 어머니를 데려갔다고 날 찾아온건가? 내 시간만 낭비했군. 난 더 이야기하고 싶지 않네. 이제 당신도 가봐야 할 시간이군.
+dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 그게 전부인가? 그는 내 형제의 도움으로 앵글리아에 갈 남성들을 모집중이네. 내 백성들에게, 원한다면 내 야를과 헤르시어들의 원정대에 가입할 수 있도록 허락한건 나란 말일세. 앵글리아는 부유한 땅이고, 습관적으로 약한 사람들이 살면서, 그들을 위한 지배와 약탈을 기다리고 있는 곳이라네.^게다가, 당신은 내 시간을 낭비했어. 나는 더 이야기를 하지 않을 거고.,이제 당신도 가봐야 할 시간이군.
 dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^자네는 이미 내가 알고 있는 것을 말했군, 게다가 내 관심 끌지도 못했지. 이제 내 인내심도 한계군. 내 시간을 낭비시켰어. 더 이야기를 하고 싶지 않고, 나가보게.
-dlga_kinghorik_quest_revenge21_2:close_window|우리의 회의는 끝났네.
-dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드 그 미움과 두려움 많은 남자가 우려되는군, 그들이 나에게 영향을 끼칠 수 있는 뭔가를 꾸미고 있나?
+dlga_kinghorik_quest_revenge21_2:close_window|우리의 회담은 끝났네.
+dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드가 많은 남자들의 미움과 두려움을 사고 있나보군. 그들이 나에게 영향을 끼칠 수 있는 뭔가를 꾸미고 있는가?
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|스벤 불 넥이 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다.
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력해어고 있습니다.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다.
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 일이 있었소.
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|스벤 불 넥의 은신처가 리베 근처에 있으며, 그가 데려간 오딘 릭의 포로가 그곳에 있습니다.
-dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|나는 더 이상 비밀을 유지할 수 없을 것 같네, 하지만 이 장소는 아니고, 당신은 사람이지. 지금은 말을 하지 않을 경우, 더 끔찍한 위험을 각오해야 할 거야.^^오딘 릭에 대한 공격은 어떤 불법적인 행위도 없었어.
-dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|제 이름은 말라코리아의 보도 비마라니즈입니다. 칸타브리아 사람이죠. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 에셀드, 웨스트 색슨의 왕에게 보내졌습니다. 그 선물과 저는 스벤 불 넥에게 오딘 릭에서 공격받았고, 그는 자신이 덴마크의 왕, 자신의 형제가 앵글리아의 왕이 되기를 원하기 때문에 시구르드 라그나르손은 그 선물을 자신이 가지기를 원합니다.
-dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|나는 시구르드가 왕위를 노리고 있는 걸 알고 있지, 하지만 어떻게 그 선물이 그에게 내 왕위를 가져다 줄 수 있지?
-dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르손은 현재 덴마크, 스베아란드 및 노섬브레 등 많은 곳에서 강력한 힘을 가진 남자입니다. 지금 그들의 노력이 앵글리아에 결집된 것 같고, 시구르드가 왕이 된다면 덴마크의 자원과 전사에 쉽게 접근할 수 있는 것을 보장하는 것이나 마찬가지입니다. 내가 가지고 있던 선물은 그들이 남쪽, 알-안달루스의 함대에 의해 격파되었던 그의 아들, '무적' 비요른과 헤스턴에 의해 손실된 라그나르 로드브록의 검이었고, 그는 이를 이용해 덴마크를 결집시킬 생각입니다.
+dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|제가 더 이상 비밀을 유지할 수 없을 것 같군요, 물론 지금이 적절한 때도, 당신들에게 말해야 할 사안도 아니지만 말입니다. 하지만 지금 말을 하지 않으면, 위험은 더 심해지고 아주 끔찍해 질 것입니다.^^오딘 릭에 대한 공격은 우연히 일어난 일이 아닙니다.
+dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨스트 색슨의 왕, 에셀드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 스벤 불 넥이 오딘 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 앵글리아의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
+dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|시구르드가 왕위를 노리고 있는 건 나도 알고 있네, 하지만 어떻게 그 선물이 그에게 내 왕위를 가져다 줄 수 있지?
+dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 현재 덴마크, 스베아란드 및 노섬브레 등 많은 곳에서 강력한 영향력을 미치고 있습니다. 지금 당장은, 그들의 노력이 앵글리아의 저항을 받고 있는것 같습니다, 실제로도 그렇구요. 그러나 그것 덕분에 그들이 덴마크의 자원과 전사들에게 쉽게 접근할 수 있도록 보장하고 있습니다. 만약 시구르드가 왕이 된다면 그 모든것을 쓸 수 있겠죠. 게다가 이제 그는 온 덴마크를 결집할 수 있습니다. 제가 가지고 있던 선물인 라그나르 로드브록의 검으로 말입니다!^그의 아들인 '무적' 비요른과 헤스턴이 알-안달루스 남쪽에서 그들의 무슬림 함대에 의해 격파되었을 때 잃어버렸던 그 검으로요.
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|어떻게 무슬림이 가진 검을 얻었지?
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|보도, 나는 충격받았소. 당신은 정말 덴마크에 대해 많이 알고 있군. 당신이 나에게 말하지 않은 무언가가 있소?
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(아무 말도 하지 않습니다.)
-dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|그것은 알-안달루스의 족장에 의해 가치있는 포로와 교환되었고, 나의 왕에게 선물되었습니다. 웨스트 색슨의 왕, 에셀드는 이 검에 관심이 있었고 나의 왕인 알데폰소는 그를 위해 그것을 얻었습니다.
+dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|그것은 알-안달루스의 족장에 의해 가치있는 포로와 교환되었고, 나의 왕에게 진상되었소. 웨스트 색슨의 왕, 에셀드는 이 검에 관심이 있었고 나의 왕인 알데폰소는 그에게 선물하기 위해 그 검을 얻은것이오.
 dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|나는 이전에 북쪽에 있었소, 하지만 지금 그것은 중요하지 않소.
-dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|라그나르는 사람보다 한층 높은 존재였지. 스칼드는 그를 신으로서 존경하고, 남자들은 그의 전설에 매혹되었지. 시구르드는 검을 얻은 뒤, 총회에 그것을 넘겨주고 그 권위를 주장할 수 있겠지. 그런 그가 왕위를 요구한다면 - 심지어 나를 죽이려 한다면.. 모두가 아버지의 검을 회수한 그를 지지하겠지. 다른 사람이 알기 전에 그 검을 부숴야만 한다.
+dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|라그나르는 사람보다 한층 높은 존재였지. 스칼드-그러니까 여자들은 그를 신으로서 존경하고, 남자들은 그의 전설에 매혹되었다네. 시구르드는 검을 얻은 뒤, 총회에 그것을 가져와서 라그나르의 권리를 돌려받길 주장할 셈이로군. 그는 필히 왕위를 요구할테고, 심지어 나를 죽이려 할테지... 그렇게 되면 모두가 아버지의 검을 회수한 그를 지지할걸세. 다른 사람이 그 검의 존재를 알기 전에 반드시 그것을 부숴야만 하네.
 dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|그럼 우리는 거래를 할 수 있지 않겠습니까? 검을 위해 지원을 해주십시오.
 dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(브륀힐드가 무언가를 말하고 싶은 것 같다. 그녀를 보자.)
-dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에 대한 일을 해야 합니다. 나는 당신의 보호를 원하고, 나는 당신이 그것을 필요로 할 때 지원하겠습니다.
-dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았다, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 그러나 우리는 주의할 필요가 있네. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 그에게 가서 설들해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 너는 내 보호를 받을 것임을 공식적으로 선언해주겠네. 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 참석해야 할 다른 문제가 있어서... 그럼 이만.
-dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들과 '눈 속의 뱀' 시구르드와 이야기하기 전에, 그가 위험한 자임을 알고 있으며, 그 것을 켄네머의 야를에게 봉사하는 동안 알게 되었습니다. 그것에 대한 당신의 보호와 지원을 요청하며 더불어 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 스벤 불 넥의 손안에 있다는 것을 기억해주십시요.
-dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠구나, 소녀여. 너는 내 지원을 받을 것이다. 하지만 나는 라그나르의 검을 원해. 시구르드는 너를 죽이려고 하지는 않을 것이야. 만약 필요하다면 너는 내 보호 아래에 있다고 말하도 좋구나. 검만 내게 가져다 다오. 훔쳐와도 좋으니 내게 가져만 다오. 이제 정말 가야겠군. 행운을 비네.
-dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 나는 왕에게 거짓말을 했소. 글쎄, 그건 완전한 거짓말은 아니지만... 검의 존재를 제외한다면 말이지. 나는 덴마크가 라그나르를 통해 결집할 수 있다는 점을 중요하게 생각한다는 점을 알고 있고, 나는 그 점을 이용했소. 그건 위험했소, 그러나 우리는 우리의 편에 왕이 필요했소. 나는 당신이 그것을 이해해주기를 바라오.
+dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에게 '볼일'이 있습니다. 나는 당신의 보호를 원하고, 필요로 할 때 당신의 지원을 원합니다.
+dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았네, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 그러나 우리는 주의할 필요가 있네. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 가서 그를 만나고 그 검을 얻게나.  그를 설득해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 덴마크에 있는 동안 내 보호를 받을 것이며, 그것을 공식적으로 선언해주겠네. 그러면 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 그럼 이만.
+dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들이 '눈 속의 뱀' 시구르드와 이야기하기 전에 동료들이 당신과 먼저 이야기 할 수 있도록 이야기 한 것이 저라는걸 알아주세요. 제가 켄네머의 야를에게 봉사하는 동안 그가 위험한 자임을 알게 되었습니다. 우리가 이 일을 하며 당신의 보호와 지원을 요청하는 이유는 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 스벤 불 넥의 손안에 있기 때문입니다.
+dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠구나, 소녀여. 너는 내 지원을 받을 것이다. 하지만 나는 라그나르의 검을 원한다. 시구르드가 너를 죽이려고 하지는 않을 것이니, 가서 이야기 해 보도록 하거라. 만약 필요하다면 너는 내 보호 아래에 있다고 말하거라. 검을 내게 가져오는건 아주 중요한 일이야. 훔쳐와도 좋으니 그저 내게 가져만 다오. 이제 정말 가야겠군. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 행운을 비네. 그럼 이만.
+dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 나는 왕에게 거짓말을 했소. 글쎄, 그건 완전한 거짓말은 아니지만... 검의 존재를 제외한다면 말이지. 덴마크인들은 라그나르와 관련된건 어떤것이든 중요하게 생각한다는걸 알고 있었고, 나는 그 점을 이용한 것이오. 위험한 짓이긴 했소만, 우리는 우리의 편에 왕이 필요했소. 당신도 그것을 이해해주기를 바라오.
 dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|검은 왕의 지원을 얻기 위해 중요한 요소였소. 고맙소, 지금 내게 진실을 말해 줘서.
-dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|아니, 보도! 나는 정치를 잘 모르지만, 미래에 대해 거짓을 이야기하지는 않소, 지금 나에게 모든 진실을 말해 주시오.
-dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|거짓말은 해서는 안 되오, 다시는 거짓말을 하지 마시오, 보도, 아니면 당신에 대해 조치를 취할 것이오. (정의)
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|안되오, 보도! 나는 정치를 잘 모르지만, 앞으로는 거짓말을 하지 마시오, 당장 나에게 모든 진실을 말해 주시오.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|거짓말은 괜찮은 방법이 아니오, 다시는 거짓말을 하지 마시오, 보도, 아니면 당신에 대해 조치를 취할 것이오. (정의)
 dlga_kinghorik_quest_revenge82:kinghorik_quest_revenge84|찬성할 수 없소. 존재하지도 않는 검을 들고 어찌 왕께 나선단 말이오? 거짓말은 문제만 일으킬 뿐이오. 이는 모두가 아는 사실이오. 아니, 모두가 알아야 하는 사실이오.
-dlga_kinghorik_quest_revenge84:kinghorik_quest_revenge85|{s2}^^나는 명예와 법을 존중하는 사람입니다. 하지만 나는 내 왕과 나에게 맡겨진 사명에 충실해야 합니다. 그것은 오르도니오 왕 이후 외국을 방문할 때마다 연례행사였소, 아스투리아스의 현재 왕의 아버지는 나를 보냈고. 이것은 이해하기 어렵지만, 아스투리아스는 모든 사람이 전사로 싸우고, 우리의 원수에 의해 죽어가는 작은 나라입니다. 우리는 알-안달루스에게 매년 대항합니다. 그것은 연례행사처럼 벌어지고, 우리는 바이킹이 도착할 때까지 우리의 뒤를 안전하다고 생각해왔습니다. 옛 왕 오르도니오, 지금 그의 아들 알데폰소는 바이킹에게서 자신을 보호하고 바다가 안전해질 때까지 프랑키아와 웨스트 색슨과의 동맹을 원합니다.
-dlga_kinghorik_quest_revenge85:kinghorik_quest_revenge86|나는 웨스트 색슨의 왕에게 보내는 나의 왕 자신이 봉인한 편지를 전달하려 하고 있었고, 가로챌 수 없게 숨기려 했지만 그 비밀은 들켰고, 실패했습니다. 편지는 시구르드 라그나르손, 우리를 보호하던 남자 중 하나의 손에 들어가 있습니다. 당신은 그것을 이해합니까? 그의 형제인 '무적' 비요른과 하프단이 갈리시아와 아스투리아스 왕국의 서쪽 국경을 공격한 것은 오래된 일이 아닙니다.
+dlga_kinghorik_quest_revenge84:kinghorik_quest_revenge85|{s2}^^나는 명예를 존중하는 사람이오. 명예가 곧 내 법이오. 하지만 나는 내 왕과 나에게 맡겨진 사명에 충실해야 하오. 현 아스투리아스의 왕의 아버지이신 오르도니오 왕이 나를 보내고 이 외국 땅을 밟기까지 수 년이나 걸렸소. 이것은 이해하기 어렵지만, 아스투리아스는 모든 사람이 전사로 싸워야만 하는, 그렇지 않으면 원수에 손에 죽게 되는 작은 나라이오. 우리는 해마다 알-안달루스에 대항해야 하오. 그것은 끈임없이 돌아오는 연례행사처럼 벌어지지만, 최소한 바이킹이 오기 전엔 우리의 뒤는 안전하다고 생각해왔소. 옛 왕 오르도니오와 그의 아들 알데폰소는 프랑키아와 웨스트 색슨과의 동맹을 원하고 있소. 바이킹에게서 자신을 보호하고 더 안전한 바다를 만들기 위해서 말이오.
+dlga_kinghorik_quest_revenge85:kinghorik_quest_revenge86|나는 웨스트 색슨의 왕에게 나의 왕이 직접 봉인한 편지를 전달하려 하고 있었소. 그것은 빼앗기지 않도록 비밀스럽게 보내진 동맹 서신이었소. 했지만 그 비밀은 들켰고, 실패하고 말았소. 편지는 시구르드 라그나르손, 우리를 보호하려고 했던 남자 중 하나의 손에 들어가 있소. 당신은 그것이 얼마나 애처로운 일인지 이해 하시오? 그의 형제인 '무적' 비요른과 하프단이 아스투리아스 왕국의 서쪽인 갈리시아를 공격한 것은 오래된 일이 아니오.
 dlga_kinghorik_quest_revenge86:kinghorik_quest_revenge87|{playername}, 보도는 잘하지 않았소, 그리고 우리는 여기에 더 시간을 허비하지 말고, '눈 속의 뱀' 시구르드와 이야기하러 가야만 합니다.
 dlga_kinghorik_quest_revenge87:close_window|우리는 빨리 가야만 하오, 하지만 우리는 나중에 당신의 임무에 대해 이야기해야 할 것이오. 이제, 출발하시오.
 dlga_kinghorik_quest_revenge87:close_window.1|좋소, 우리는 더 이상 보도를 귀찮게 할 필요가 없소. 우리는 시구르드를 찾아야만 하오.
@@ -2682,7 +2682,7 @@ dlga_lord_talk:kennemerjarl_thiaderdm1|{s11}, 나는 시어더드에 관한 임�
 dlga_lord_talk:kennemerjarl_juicio_1|{s11}, 나는 수도원에 가서 당신의 이름으로 판결을 내렸소.
 dlga_lord_talk:kennemerjarl_recruit_back1|{s11}, 당신이 나에게 모아오라고 한 전사를 모아왔소.
 dlga_lord_talk:kennemerjarl_juicio_2|{s11}, 나는 수도원에 가서 당신의 이름으로 옳은 일을 했소.
-dlga_lord_talk:kinghorik_quest_revenge1|나는 프리지아에서 왔소, 나는 이 중요한 문제에 대해 이야기할 필요가 있소.
+dlga_lord_talk:kinghorik_quest_revenge1|저는 프리지아에서 왔습니다, 저는 이 중요한 문제에 대해 이야기 해야만 합니다.
 dlga_lord_talk:kinghorik_quest_thing1|호릭 왕, 우리는 울프의 농장에서 공격받았소.
 dlga_lord_talk:kinghorik_quest_atlieiriksson1|호릭 왕, 우리는 아틀리 에이릭손을 만났소.
 dlga_lord_talk:kinghorik_ulf_testigo1|울프 토리손은 총회에서 나에 대해 증언하지 않을 것이오.
@@ -2840,19 +2840,19 @@ dlga_jarldenunciado16:lord_pretalk|그것이 그에게 반대하는 당신의 �
 dlga_jarldenunciado4:lord_pretalk|알겠소...
 dlga_jarldenunciado1extra:lord_pretalk|난 자네가 나에게 무엇을 말하려고 하는 건지 알고 있다. {playername}, 내 조카는 그를 불신하는 자네의 거짓말에 대해 나에게 경고했지. 자네은 내 집에서 환영받지 못할 것이야. 나는 더 이상 그런 거짓말은 듣고 싶지 않네.
 dlga_jarldenunciado2extra:lord_pretalk|난 자네가 나에게 무엇을 말하려고 하는 건지 알고 있다. {playername}, 내 조카는 그를 불신하는 자네의 거짓말에 대해 나에게 경고했지. 자네은 내 집에서 환영받지 못할 것이야. 나는 더 이상 그런 거짓말은 듣고 싶지 않네. 내 조카는 자네에게 프리지아를 떠나기 위해 며칠의 유예를 주겠다고 약속했지. 그 유예기간이 지나면 자네는 프리지아의 적으로 선언될 것이다.
-dlga_kinghorik_quest_revenge1:kinghorik_quest_revenge2|당신은 내게 관심을 가지고 있고, 나는 당신 말을 듣고 있소.
-dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge21|나는 시구르드에 대해 이야기할 필요가 있소.
-dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge22|용서하시오, 나는 당신의 일에서 당신을 방해하고 싶지 않소. 우리는 다른 날 다시 이야기하게 될 것이오.
+dlga_kinghorik_quest_revenge1:kinghorik_quest_revenge2|흥미로운 자로군, 당신은 내 관심을 끄는데 성공했다네. 들어볼테니 말 해보시게.
+dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge21|시구르드에 대해 하고싶은 이야기가 있습니다.
+dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge22|용서하십시오, 나는 당신을 방해하고 싶지 않습니다. 다른 날 다시 이야기 하겠습니다.
 dlga_kinghorik_quest_revenge22:lord_pretalk|나는 내 시간을 낭비하는 사람을 별로 좋아하지 않아.
-dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove|이건 조심스럽게 말해서, 내가 별로 이야기하고 싶지 않은 주제네, 하지만 나는 당신에 대해 들었지. 당신은 꽤 유명해. 그래서 나는 당신의 말을 들어볼 것이고, 믿을 수 있는 동료와 함께 근처의 숲으로 나를 따라오시게. 우리는 이야기를 해야 되겠군...
-dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove.1|이건 조심스럽게 말해서, 내가 별로 이야기하고 싶지 않은 주제네, 하지만 나는 당신에 대해 들었지. 당신은 꽤 유명해. 그래서 나는 당신의 말을 들어볼 것이고, 믿을 수 있는 동료와 함께 근처의 숲으로 나를 따라오시게. 우리는 이야기를 해야 되겠군...
-dlga_kinghorik_quest_revenge21:lord_pretalk|Lower your voice, this is not the place. Wait till I leave this site with my army and ask me on the road.{***}
-dlga_kinghorik_quest_revenge21:kinghorik_quest_revenge21_1|시구르드 라그나르손은 내 야를들 중 하나이고, 우리는 그것에 대해서 아무런 이야기도 하지 않을 것이야. 당신은 그것에 대해서 이해하는가?
+dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove|이건... 내가 별로 이야기하고 싶지 않은 민감한 주제네, 하지만 나는 당신에 대해 들은게 있지. 당신은 꽤 유명해. 그래서 나는 당신의 말을 들어볼 생각이네. 믿을 수 있는 동료와 함께 근처의 숲으로 나를 따라오시게. 거기서 이야기를 해야 되겠군...
+dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove.1|이건... 내가 별로 이야기하고 싶지 않은 민감한 주제네, 하지만 나는 당신에 대해 들은게 있지. 당신은 꽤 유명해. 그래서 나는 당신의 말을 들어볼 생각이네. 믿을 수 있는 동료와 함께 근처의 숲으로 나를 따라오시게. 거기서 이야기를 해야 되겠군...
+dlga_kinghorik_quest_revenge21:lord_pretalk|목소리를 낮추시게, 여긴 그럴만한 장소가 아냐. 내가 내 군대와 이곳을 뜰 때까지 기다리시게. 그 뒤에 길에서 다시 이야기 해 보도록 하지.
+dlga_kinghorik_quest_revenge21:kinghorik_quest_revenge21_1|시구르드 라그나르손은 내 야를들 중 하나이고, 우리는 그것에 대해서 아무런 이야기도 하지 않을 것이야. 이해 하시겠는가?
 dlga_kinghorik_quest_revenge21_1:lord_pretalk|우리의 용건은 끝났네, 아니면 당신이 무언가 더 용건이 남았나?
 dlga_kinghorik_quest_revengegrove:close_window|감사하오, 호릭 왕.
 dlga_kinghorik_quest_revengegrove:close_window.1|고맙소, 호릭 왕.
-dlga_kinghorik_quest_thing1:close_window|목소리를 낮추게, 나를 따라와. 듣는 사람이 없는 곳에서 이야기하자.
-dlga_kinghorik_quest_thing1:lord_pretalk|Lower your voice, this is not the place. Wait till I leave this site with my army and ask me on the road.{***}
+dlga_kinghorik_quest_thing1:close_window|목소리를 낮추게, 나를 따라와. 듣는 사람이 없는 곳에서 이야기하지.
+dlga_kinghorik_quest_thing1:lord_pretalk|목소리를 낮추시게, 여긴 그럴만한 장소가 아냐. 내가 내 군대와 이곳을 뜰 때까지 기다리시게. 그 뒤에 길에서 다시 이야기 해 보도록 하지.
 dlga_kinghorik_quest_atlieiriksson1:kinghorik_quest_atlieiriksson2|좋은 소식이군, 그는 어디에 있나?
 dlga_kinghorik_quest_atlieiriksson2:kinghorik_quest_atlieiriksson3|우리는 호르달란드 근처, 노스비거의 한 동굴에서 아틀리 에이릭손과 그의 부하들을 발견했소. '눈 속의 뱀' 시구르드는 그곳에 편지를 숨겼고, 그 편지를 보호하기 위해 그와 그의 수하들을 보냈소. 하지만 그들은 전투 중에 그 편지를 태웠고, 그래서 '눈 속의 뱀' 시구르드가 총회에서 이 편지를 당신에 대한 무기로 사용할 수는 없을 거요. 이제는 두려워 할 필요가 없소.
 dlga_kinghorik_quest_atlieiriksson3:kinghorik_quest_atlieiriksson4|아틀리가 죽었다고? 그는 스벤 불 넥 다음가는 시구르드 라그나르손의 수하야. 당신이 어딜 가든 당신 근처엔 시체가 따라다니는군, 너는 시구르드의 하나의 무기를 사용하지 못하게 만들었지만, 또 하나의 무기로 너는 그에게 복수라는 무기를 주었어. 내가 보기에 네가 그 동굴에서 모두를 죽이지 않았을 경우 시구르드는 생존자를 아틀리의 살해에 대한 증인으로 제시하겠지. 그 경우에 나는 너를 추방 선언으로부터 보호할 수 없어!
