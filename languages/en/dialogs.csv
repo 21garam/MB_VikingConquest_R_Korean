@@ -1188,7 +1188,7 @@ dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|환영
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|은신처로 안내해 줄 사람이 필요하긴 하지만, 꼭 당신이 우릴 거기에 버려둘 것만 같소. 더 이상의 배신자는 필요 없소.
 dlga_companion_recruit_signup_quest:companion_recruit_signup_b|{s5}
 dlga_companion_recruit_backstory_response:companion_egilrefuse|저와 호릭 왕과의 관계는... 민감합니다. 당신을 데려간다면 제게도 문제가 생기겠죠.
-dlga_companion_egilrefuse:companion_egilrefuse2|아니, 절 오해하고 계십니다. 전 호릭 왕을 섬기고, 당신이 왕과 대화를 마치면 절 당신과 함께 보내달라고 부탁할 겁니다. 전 명성과 평판을 얻어야만 합니다. 그리고 당신도 왕과의 관계를 뒷받침해줄 누군가가 필요하지 않습니까.
+dlga_companion_egilrefuse:companion_egilrefuse2|아뇨, 오해가 있는것 같군요. 전 호릭 왕을 섬기고 있으며, 당신이 왕과 대화를 마쳤을 때 그에게 당신과 함께 가게 해 달라고 허락을 구했습니다. 전 명성과 평판을 쌓아야만 해요. 그리고 당신도 왕과의 관계를 뒷받침해줄 누군가가 필요하지 않겠습니까.
 dlga_companion_egilrefuse2:companion_egilrefuse3|아니. 미안하오, 내 부대에는 남는 자리가 없구려.
 dlga_companion_egilrefuse2:companion_recruit_signup|글쎄, 싸움은 할 수 있소?
 dlga_companion_egilrefuse3:companion_egilrefuse4|아무 것도 이해 못 하시는 것 같은데, 그게 일을 더 어렵게 키우는 겁니다. 호릭 왕은 제가 당신과 함께 가길 원합니다. 그리고 그는 이 땅의 왕이라구요. 그가 원하는 것이라면 무조건 따라야 합니다. 덴마크에 계시는 동안만이라도 전 당신과 함께 있겠습니다. 만약 제게 무슨 일이 생긴다면 호릭 왕과도 마찰이 있을 겁니다.
@@ -1198,7 +1198,7 @@ dlga_companion_recruit_backstory_response:close_window|{s7}
 dlga_companion_recruit_signup:companion_recruit_signup_b|{s5}
 dlga_companion_recruit_signup_b:companion_recruit_signup_responsebrunhild|{s5}
 dlga_companion_recruit_signup_b:companion_recruit_signup_response|{s5}
-dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|당신 아버지에게 꼭 당신을 데려가겠다고 맹세했소. 그리고 왜 그런지도 이해하오, 내 부대에 온 걸 환영하겠소ㅈ.
+dlga_companion_recruit_signup_responsebrunhild:companion_recruit_payment|당신 아버지에게 꼭 당신을 데려가겠다고 맹세했소. 그리고 왜 그런지도 이해하오, 내 부대에 온 걸 환영하겠소.
 dlga_companion_recruit_signup_responsebrunhild:close_window|불행히도, 지금은 우리 부대에 자리가 없소.
 dlga_companion_recruit_signup_response:close_window|아쉽지만, 지금은 더 이상 도움을 받아들일 수가 없소.
 dlga_companion_recruit_signup_response:companion_recruit_payment|{s6}
