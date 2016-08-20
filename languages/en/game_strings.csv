@@ -649,7 +649,7 @@ str_npc2_personalityclash_speech|{reg59?Madame:Sir} -- as you recall, I was livi
 str_npc3_personalityclash_speech|주군, 제 의견을 감히 말씀드리자면, {s11}는 정말 끔찍한 남자에요. 그가 저를 침대로 끌어들이려고 저를 유혹한것도 벌써 몇번이에요. 게다가 저번엔 제가 혼자 있었던 밤을 틈타서 저를 따라오기까지 하더군요.^확실히 말해둘게요. 저는 그 사람때문에 무섭다구요!
 str_npc4_personalityclash_speech|{s11}가 공개적으로 나에게 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 내가 그를 죽여버리겠소. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
 str_npc5_personalityclash_speech|A moment of your time, warlord. {s11} seems to think I'm a common bandit, just because I have rewarded myself in the past to the legitimate spoils of war from caravans passing through my family's lands.
-str_npc6_personalityclash_speech|Your pardon, {playername}, but I cannot keep my tongue still any longer. That harlot, {s11} -- every time she sees me, she points the five fingers of her hand at me -- a peasant's sign to ward off evil.
+str_npc6_personalityclash_speech|용서하시오, {playername}. 하지만 더 이상은 말을 참을 수가 없구려. 그 창녀같은, {s11}가 말이오, 나를 볼 때마다 다섯 손가락을 펼쳐 나를 가르키더군. 농부들이 악귀를 쫓을 때나 쓰는 그 손짓을 나에게 보낸단 말이오!
 str_npc7_personalityclash_speech|주군, 나는 무례한 말투에 더러운 습관들을 가진 당신의 부하들을 참아내는데 최선을 다 했어요. 그런데 {s11}라 불리는 녀석은 인내심의 한계를 넘어서네요.
 str_npc8_personalityclash_speech|Just so you know, I cannot abide that insolent {s11}, who likes to call himself a 'philosopher'. That southern rat loves to speak in that awful gibberish talk he calls 'Latin', and loves to laugh at me behind my back because I do not understand what he is saying.
 str_npc9_personalityclash_speech|{reg59?부인:주군} -- {s11}는 천박한 허풍쟁이인데다 스베아인들 처럼 다른사람의 용기에 대한 존경심을 가진 사람이오. 나는 그와 그의 부하들이 어떻게 전장에서 적들을 물리쳤는지 듣는데 지쳤소. 그는 그가 군사 훈련의 전문가라서 그렇다고 하더군...
@@ -665,7 +665,7 @@ str_npc2_personalityclash_speech_b|I don't much care to hear {s11} gloat about t
 str_npc3_personalityclash_speech_b|저도 군대라는 곳이 보통은 남자들의 사회라는것 쯤은 알고 있어요. 하지만 그래도 저는 제가 약간은 존중 받을만한 자격이 있다고 믿고 있어요. 난 창녀같은게 아니라구요!^... 아무튼... 제 말을 괜히 담아두지 않으셨으면 좋겠네요.
 str_npc4_personalityclash_speech_b|이 색슨인 {s11}는 죽고싶은 모양이오.
 str_npc5_personalityclash_speech_b|I told him that if the warrior's way bothers him so much, he should become a priest or a beggar and so not have to worry about such things. I hope you do not mind that I said such things.
-str_npc6_personalityclash_speech_b|I know I'm not the best of men, but I am seeking repentance, and I deserve better than to be the object of some witch's superstition. I think she has some devil's blood. I just thought you should know.
+str_npc6_personalityclash_speech_b|내가 최고의 남자가 아니라는것쯤은 나도 알고 있소만, 나는 회개할 방법을 찾고 있소. 그리고 나는 그런 마녀들의 미신적 술수에 대상이 되는 것 보단 나은 대접을 받아 마땅하다고 생각하오.^나는 솔베이그의 핏줄에 악마의 피가 섞여있다고 보오. 당신도 알아야 할 것만 같아 말 해 보았소.
 str_npc7_personalityclash_speech_b|나는 식사를 마친 후 모닥불 근처에서 날 쏘아보는것 따위엔 신경도 안써요. 그가 이를 쑤시며 그 악취나는 맥주를 마시는것도요. 내가 받아들일 수 없는건 카이오가 항상 그가 나보다 더 나은 추적자라고 말하고 다니는거라구요. 물론 말도 안되는 개소리죠.^그는 천하고, 무식한데다 머저리같은 꼬맹이에요. 추적 기술은 물론 나랑은 뭣도 비교할 만한 수준이 안된다고요! 그런 녀석은 신경 끄고 다닐 생각이에요.
 str_npc8_personalityclash_speech_b|It is true I do not know how to read and write, nor how to speak Latin. But I know much more of life and battle than {s11}, and a great warrior like me should not be mocked by some weak-minded thinker. It was only out of respect for you that I refrained from cutting his throat when I overheard his jokes about me. I thought it only fitting that I should warn you.
 str_npc9_personalityclash_speech_b|그래서 내가 물었소, 정말 헬기와 그 부하들이 프랑크족 전사들보다 그렇게 잘 훈련되었다면, 어떻게 그가 덴마크 적들을 정복하는데 실패하고 심지어 그거 그렇게 경멸하는 색슨족에게도 추방당했는지 말이오.^그는 대답도 못한채 얼굴을 붉히더니 나와 내 모든 조상들에 대한 저주를 퍼부었소. 그러더니 거의 나에게 결투를 신청하려고 하더군.^그는 그가 굉장히 잘 훈련됐다고 말하지만, 내 생각엔 당신이 그를 좀 '훈련'시켜 줄 필요가 있을것 같소.
