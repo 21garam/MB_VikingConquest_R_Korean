@@ -717,8 +717,8 @@ str_npc6_personalitymatch_speech|Sometimes I am troubled by all this bloodshed, 
 str_npc7_personalitymatch_speech|Warlord, I was just talking to {s11}. He might be an incisive man, but he holds no prejudice for me being a woman or a Pict.
 str_npc8_personalitymatch_speech|훌륭한 전투였소, 주군. 그리고 꼭 전하고 싶은게 있소. {s11}가 꽤 괜찮은 부관으로써 우리와 함께하는건 나에게 큰 기쁨이오.
 str_npc9_personalitymatch_speech|주군. {s11}, 그녀는 아까 그 적들에 맞설 때 잘 처신하더군. 감히 말하자면, 그녀는 보통의 대단치 않은 처녀들보다 훨씬 낫소.
-str_npc10_personalitymatch_speech|Dryhten! I wish you joy in your victory! Say, I really like the company of that Solveig. I see that she is extremely devoted to the safety of our shield-wall.
-str_npc11_personalitymatch_speech|Oh {reg59?my pretty:handsome}, I could not praise you more for having women of such quality as {s11} within our shield-wall. I do not care that she is a Frisian, supposedly somebody weak sumitted to the Danish.
+str_npc10_personalitymatch_speech|드라이든! 당신의 승리에 기뻐하시길! 내가 할 말은 이런거요, 나는 솔베이그가 동료로서 아주 맘에 드오. 그녀가 우리 방패벽의 안전을 위해 매우 헌신적이라는게 눈에 보였소.
+str_npc11_personalitymatch_speech|오, {reg59?예쁜이:멋쟁이}, {s11}와 같은 우수한 여자를 우리의 방패벽 안에 세운걸 칭송하지 않을 수 없네요. 나에겐 그녀가 소위 약하고 한 때 덴마크 인의 노예였던 프리지아인 이라는건 신경쓸 거리도 아니에요.
 str_npc12_personalitymatch_speech|주군, 이건 정말 피 비린내 나는 사업이 따로 없군요, 물론 필요한 일이라고 생각합니다. 우리의 믿음직한 동료 {s11}은(는) 서고트인이 아닌데도 이 끝나지 않는 싸움에 대한 나의 모순되는 감정을 이해해주는것 같군요.
 str_npc13_personalitymatch_speech|{s11}같은 훌륭한 프리지아 귀족 옆에서 전투에 참전할 수 있다는건 영광이 아닐 수 없소.
 str_npc14_personalitymatch_speech|You have earned your name today, oh valorous one! And {s11}, too! I like that one. He knows the great poems and plays of the ancient Greeks, which appeals to an artistic soul like my own.
@@ -733,8 +733,8 @@ str_npc6_personalitymatch_speech_b|I must say that {s11} is a source of great co
 str_npc7_personalitymatch_speech_b|He preaches to me just like to anyone else, and told me that even if my body is covered by war tattoos, God can still see the good intentions within my heart. I am not sure I completely liked what he said -- for I am a warrior, not a simple housemaid --, but, still, I feel I can trust that priest and his teachings.
 str_npc8_personalitymatch_speech_b|우리는 둘 다 베테랑이오. 뭐, 다들 말하듯이 말이오. 덕분에 전투를 치루는 동안 우리는 이 땅의 전사들이 가진 각종 전술적  결함들을 쉽게 눈치챌 수 있었소. 우리의 방패벽은 그가 들어옴으로 인해 더 단단해졌소.
 str_npc9_personalitymatch_speech_b|그녀가 노예만 아니었다면 기꺼이 그녀에게 도움을 요청하고 싶더군.^그녀가 자유롭지 못한 신분이란게 슬프구려, 딱한 여자 같으니라고... 하지만 행군을 할 때 그녀와 대화를 하며 시간을 보내는건 너무 즐거운 일이오.
-str_npc10_personalitymatch_speech_b|Actually, I see that she is extremely devoted to you. Please, Dryhten, don't get so blushed. A devoted woman like that can be more valuable than a hundred warriors.
-str_npc11_personalitymatch_speech_b|She is clearly a survivor that has profound respect and obedience to you. This, of course, makes me extremely happy. If only all of our people were like her, someone who has overcome a troubled past in the house of the jarl of Kennemer. Those experiences, the difficult ones, are those that bring out the best in people, don't you think?
+str_npc10_personalitymatch_speech_b|사실, 그녀가 당신에게도 매우 헌신적이라는것도 알고 있소. 부디, 드라이든이시여, 이 말로 부끄러워 하지 마시길 바라오! 그 처럼 헌신적인 여자는 백명의 전사들 보다 더 가치가 있을수도 있다오.
+str_npc11_personalitymatch_speech_b|그녀는 당신에게 깊은 존경심을 가지고 순종하는 명백한 생존자 입니다. 이건 물론 정말 기뻐할만한 일이죠. 우리의 부하들 모두가 그녀같았으면 좋았을 텐데요... 그녀가 켄네머의 야를의 집에서 겪었던 과거들을 극복한것 처럼요. 그런 경험들이요, 물론 그녀에겐 어려운 시기였겠지만 그것이 우리에게 최고를 가져다 준 셈이죠. 그렇지 않나요?
 str_npc12_personalitymatch_speech_b|그의 동료들의 생명을 거두는일이 그를 깊은 슬픔에 빠지게 합니다. 그와 저는 함께 이런 옹졸한 전쟁을 벌이는 잉글랜드 왕국들의 통일에 대한 밝은 미래를 이야기 했습니다. 이번엔 우리가 이 문제를 끝맺을 것이라고 말입니다.
 str_npc13_personalitymatch_speech_b|레인허드는 전사의 심장을 가지고 있소. 비록 그가 아직 전쟁에 대해 배워야 할 게 더 많고 다른 사람들보다 발이 빠르지도 않지만 그는 진열을 훈련받은 대로 지킬 수 있는 지혜를 알고 있소. 당신도 그를 우리의 방패벽에 데려온 것으로 좋은 감각을 보여주었소.
 str_npc14_personalitymatch_speech_b|The tales from his lands that he likes to recite by the campfire also teach a lot about battles and warfare in general. I especially enjoy the heroic deeds that happened during the War of Troy. Soon, our shield-wall will be a legend as glorious and famous as the heroes of Agamemnon's time.
