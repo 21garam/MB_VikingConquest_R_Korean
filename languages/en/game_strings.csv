@@ -645,7 +645,7 @@ str_npc14_2ary_morality_speech|Captain -- just so you know, it's no problem by m
 str_npc15_2ary_morality_speech|You know, strategos, it's none too reassuring to see how you just {s21}. If you can break your word to them, you can break your word to me, that's how I figure it.
 str_npc16_2ary_morality_speech|I think it was a brave decision you took to {s21}. There is no shame in finding a way to avoid the spilling of blood.
 str_npc1_personalityclash_speech|주군 -- 무례하게 굴 생각은 없지만, {s11}는 나를 좀 지치게 만들고 있소. 그녀는 자신이 당신의 겸손한 종인 카이오 보다 뭐라도 나은듯이 거드름을 피우고 있소.
-str_npc2_personalityclash_speech|{reg59?Madame:Sir} -- as you recall, I was living in Ribe. I respect men who like mead and girls, but not men so strict and unbearable. I am talking about {s11}.
+str_npc2_personalityclash_speech|{reg59?부인:경}, 당신이 알고 있는 것 처럼, 나는 리베에 살았었죠. 난 벌꿀주와 여자를 좋아하는 사내들을 존중합니다. 하지만 과하게 엄격하고 상대하기 어려운 사람들에겐 아니에요. 지금 {s11}에 대해서 하는 말입니다.
 str_npc3_personalityclash_speech|주군, 제 의견을 감히 말씀드리자면, {s11}는 정말 끔찍한 남자에요. 그가 저를 침대로 끌어들이려고 저를 유혹한것도 벌써 몇번이에요. 게다가 저번엔 제가 혼자 있었던 밤을 틈타서 저를 따라오기까지 하더군요.^확실히 말해둘게요. 저는 그 사람때문에 무섭다구요!
 str_npc4_personalityclash_speech|{s11}가 공개적으로 나에게 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 내가 그를 죽여버리겠소. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
 str_npc5_personalityclash_speech|A moment of your time, warlord. {s11} seems to think I'm a common bandit, just because I have rewarded myself in the past to the legitimate spoils of war from caravans passing through my family's lands.
@@ -661,7 +661,7 @@ str_npc14_personalityclash_speech|대장, {s11}라는 못생긴 여자가 우리
 str_npc15_personalityclash_speech|Excuse me. I hope you don't mind me telling you, but, in my opinion, {s11} is a danger to the party. He only cares about religion and Hell and is disrespectful of authority and the basic principles of the military art.
 str_npc16_personalityclash_speech|Just so you know -- there's something demonic about {s11}. He makes strange scrawlings in the dirt, and mutters to himself all the time before battle.
 str_npc1_personalityclash_speech_b|드리웨이가 특별한 사람도 아니고 방금전에 그녀가 나에게 한듯이 나를 멀리하겠다는 말을 할 만한 권리도 없소.
-str_npc2_personalityclash_speech_b|I don't much care to hear {s11} gloat about the righteousness of the chaste and pure life. I am a warrior who aspires to walhalla, not one of {s11}'s saints.
+str_npc2_personalityclash_speech_b|나는 {s11}가 소박하고 순수한 삶에 흡족해 한다는것 따위엔 관심도 없어요. 나는 발할라에 닿고 싶은 전사일 뿐이지, {s11}의 성자가 아니란 말입니다.
 str_npc3_personalityclash_speech_b|저도 군대라는 곳이 보통은 남자들의 사회라는것 쯤은 알고 있어요. 하지만 그래도 저는 제가 약간은 존중 받을만한 자격이 있다고 믿고 있어요. 난 창녀같은게 아니라구요!^... 아무튼... 제 말을 괜히 담아두지 않으셨으면 좋겠네요.
 str_npc4_personalityclash_speech_b|이 색슨인 {s11}는 죽고싶은 모양이오.
 str_npc5_personalityclash_speech_b|I told him that if the warrior's way bothers him so much, he should become a priest or a beggar and so not have to worry about such things. I hope you do not mind that I said such things.
