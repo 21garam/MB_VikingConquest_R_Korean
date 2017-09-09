@@ -14,7 +14,7 @@ skl_reserved_4|제한된 기술 4
 skl_reserved_4_desc|이것은 제한된 기술 입니다.
 skl_persuasion|설득력
 skl_persuasion_desc|다른사람이 당신의 의견에 동의할 확률을 올려줍니다. 또한 NPC에게 무엇인가를 부탁할 때에 요구되는 최소 관계 수치를 낮춰줍니다. (개인 기술)
-skl_engineer|기계학
+skl_engineer|기계공
 skl_engineer_desc|공성 병기를 제작하고, 영지의 관리를 능률적으로 할 수 있게 도와줍니다. (부대 기술)
 skl_first_aid|응급처치
 skl_first_aid_desc|매 기술 점수마다 플레이어나 동료가 전투 후 잃은 체력을 5%%만큼 회복합니다. (부대 기술)

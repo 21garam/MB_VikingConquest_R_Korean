@@ -95,9 +95,9 @@ qst_destroy_bandit_lair_text|{s4}의 {s9}은(는) 당신에게 {s6}를 발견하
 qst_kennemer_jarl|복수 : 켄네머의 야를과 대화하라
 qst_kennemer_jarl_missions|복수 : 야를을 위한 임무
 qst_kennemer_mission_1|야를의 임무 : 수도원에서의 재판
-qst_kennemer_mission_2|야를의 임무 : 시어더드를 죽여라
+qst_kennemer_mission_2|야를의 임무 : 티데르트를 죽여라
 qst_kennemer_mission_3|야를의 임무 : 왕을 암살하라
-qst_reginhard_donations|레인허드의 부탁 : 전쟁 희생자들을 위한 기부
+qst_reginhard_donations|레긴하르트의 부탁 : 전쟁 희생자들을 위한 기부
 qst_recruit_an_army|야를의 임무 : 전사들 모집
 qst_doccinga_assault|바이킹의 습격 : 스벤의 습격으로부터 독싱가를 구하라
 qst_doccinga_interrogation|바이킹의 습격 : 바이킹 포로를 심문하다
@@ -115,7 +115,7 @@ qst_bodo_letter|복수 : 가장 중요한 편지 되찾기
 qst_the_holmgang|작은 섬에서의 결투 : 홀름강
 qst_the_fleet|복수 : 앵글리아 침공
 qst_sven_traitor|복수 : 반역자 스벤
-qst_wessex_foragers|공성 : 웨스트 색슨 왕국의 정찰대
+qst_wessex_foragers|공성 : 웨식스 왕국의 정찰대
 qst_the_messengersn|공성 : 전령
 qst_the_alliance|복수 : 동맹
 qst_welsh_and_pictish|정복자 : 대의명분
@@ -126,7 +126,7 @@ qst_ulf_testigo|화를 모면하다 : 구애하는 농부들과 야를들
 qst_the_thing|복수 : 집회
 qst_douar_an_enez|복수 : 두아르-안-에네즈
 qst_aescesdun|전투 : 에셰던
-qst_svenbn_final|복수 : 스벤 불 넥
+qst_svenbn_final|복수 : 황소목 스벤
 qst_old_roman|하드리아누스의 장벽 : 기근 모면하기
 qst_vc_menu|바이킹 컨퀘스트 메뉴 시스템
 qst_vc_wounds|바이킹 컨퀘스트 부상 시스템
@@ -168,9 +168,9 @@ qst_blank_quest_20|모든 브리튼 알바인의 왕이 되다
 qst_blank_quest_21|모든 에리우인의 왕이 되다
 qst_blank_quest_22|모든 앵글리아 앵글로 색슨의 왕이 되다
 qst_blank_quest_23|마지막 투아하 데 다난
-qst_blank_quest_24|스네이크
+qst_blank_quest_24|뱀
 qst_blank_quest_25|프레이스베르타흐의 위대한 자손
-qst_blank_quest_26|마엘 브레세일
+qst_blank_quest_26|말 브레살
 qst_blank_quest_27|에리우에서의 여정
 qst_collect_men|복수 : 독싱가 방문
 qst_learn_where_merchant_brother_is|복수 : 켄네머의 야를과의 대화

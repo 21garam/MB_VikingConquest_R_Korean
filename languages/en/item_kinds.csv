@@ -8,14 +8,14 @@ itm_tutorial_battle_axe|무거운 도끼
 itm_tutorial_battle_axe_pl|무거운 도끼
 itm_tutorial_arrows|화살
 itm_tutorial_arrows_pl|화살
-itm_tutorial_bolts|쇠뇌용 화살
-itm_tutorial_bolts_pl|쇠뇌용 화살
+itm_tutorial_bolts|볼트
+itm_tutorial_bolts_pl|볼트
 itm_tutorial_short_bow|장궁
 itm_tutorial_short_bow_pl|장궁
 itm_tutorial_crossbow|쇠뇌
 itm_tutorial_crossbow_pl|쇠뇌
-itm_tutorial_throwing_daggers|투창
-itm_tutorial_throwing_daggers_pl|투창
+itm_tutorial_throwing_daggers|자벨린
+itm_tutorial_throwing_daggers_pl|자벨린
 itm_tutorial_saddle_horse|조랑말
 itm_tutorial_saddle_horse_pl|조랑말
 itm_tutorial_shield|원형 방패
@@ -24,28 +24,28 @@ itm_tutorial_staff_no_attack|지팡이
 itm_tutorial_staff_no_attack_pl|지팡이
 itm_tutorial_staff|지팡이
 itm_tutorial_staff_pl|지팡이
-itm_tutorial_sword|평범한 검
-itm_tutorial_sword_pl|평범한 검
+itm_tutorial_sword|검
+itm_tutorial_sword_pl|검
 itm_tutorial_axe|도끼
 itm_tutorial_axe_pl|도끼
-itm_tutorial_dagger|단검
-itm_tutorial_dagger_pl|단검
+itm_tutorial_dagger|색스
+itm_tutorial_dagger_pl|색스
 itm_horse_meat|말 고기
 itm_horse_meat_pl|말 고기
-itm_practice_sword|연습용 평범한 검
-itm_practice_sword_pl|연습용 평범한 검
+itm_practice_sword|연습용 검
+itm_practice_sword_pl|연습용 검
 itm_heavy_practice_sword|연습용 게일 투사의 검
 itm_heavy_practice_sword_pl|연습용 게일 투사의 검
-itm_practice_dagger|단검
+itm_practice_dagger|연습용 단검
 itm_practice_dagger_pl|연습용 단검
-itm_practice_axe|연습용 무거운 도끼
-itm_practice_axe_pl|연습용 무거운 도끼
+itm_practice_axe|연습용 도끼
+itm_practice_axe_pl|연습용 도끼
 itm_arena_axe|연습용 도끼
 itm_arena_axe_pl|연습용 도끼
-itm_arena_sword|연습용 평범한 검
-itm_arena_sword_pl|연습용 평범한 검
-itm_arena_sword_two_handed|연습용 고이델릭 투사의 검
-itm_arena_sword_two_handed_pl|연습용 고이델릭 투사의 검
+itm_arena_sword|연습용 검
+itm_arena_sword_pl|연습용 검
+itm_arena_sword_two_handed|연습용 게일 투사의 검
+itm_arena_sword_two_handed_pl|연습용 게일 투사의 검
 itm_arena_lance|연습용 창
 itm_arena_lance_pl|연습용 창
 itm_practice_staff|연습용 지팡이
@@ -58,14 +58,14 @@ itm_practice_bow|연습용 장궁
 itm_practice_bow_pl|연습용 장궁
 itm_practice_crossbow|연습용 투석끈
 itm_practice_crossbow_pl|연습용 투석끈
-itm_practice_javelin|연습용 투창
-itm_practice_javelin_pl|연습용 투창
-itm_practice_javelin_melee|연습용 투창
-itm_practice_javelin_melee_pl|연습용 투창
-itm_practice_throwing_daggers|연습용 투창
-itm_practice_throwing_daggers_pl|연습용 투창
-itm_practice_throwing_daggers_100_amount|연습용 투창
-itm_practice_throwing_daggers_100_amount_pl|연습용 투창
+itm_practice_javelin|연습용 자벨린
+itm_practice_javelin_pl|연습용 자벨린
+itm_practice_javelin_melee|연습용 자벨린
+itm_practice_javelin_melee_pl|연습용 자벨린
+itm_practice_throwing_daggers|연습용 자벨린
+itm_practice_throwing_daggers_pl|연습용 자벨린
+itm_practice_throwing_daggers_100_amount|연습용 자벨린
+itm_practice_throwing_daggers_100_amount_pl|연습용 자벨린
 itm_practice_horse|조랑말
 itm_practice_horse_pl|조랑말
 itm_practice_arrows|연습용 화살
@@ -76,8 +76,8 @@ itm_practice_arrows_10_amount|연습용 화살
 itm_practice_arrows_10_amount_pl|연습용 화살
 itm_practice_arrows_100_amount|연습용 화살
 itm_practice_arrows_100_amount_pl|연습용 화살
-itm_practice_bolts_9_amount|연습용 쇠뇌 화살
-itm_practice_bolts_9_amount_pl|연습용 쇠뇌 화살
+itm_practice_bolts_9_amount|연습용 볼트
+itm_practice_bolts_9_amount_pl|연습용 볼트
 itm_practice_boots|장화
 itm_practice_boots_pl|장화
 itm_red_tourney_armor|적색 튜닉
@@ -162,12 +162,12 @@ itm_arena_turban_yellow|모자
 itm_arena_turban_yellow_pl|모자
 itm_book_tactics|펠레폰네소스 전쟁사
 itm_book_tactics_pl|펠레폰네소스 전쟁사
-itm_book_persuasion|수사학과 양식
-itm_book_persuasion_pl|수사학과 양식
-itm_book_leadership|알렉산더 대왕의 삶
-itm_book_leadership_pl|알렉산더 대왕의 삶
-itm_book_intelligence|백과사전
-itm_book_intelligence_pl|백과사전
+itm_book_persuasion|헤레니우스를 위한 수사학
+itm_book_persuasion_pl|헤레니우스를 위한 수사학
+itm_book_leadership|알렉산더 대왕 전기
+itm_book_leadership_pl|알렉산더 대왕 전기
+itm_book_intelligence|파이데이아
+itm_book_intelligence_pl|파이데이아
 itm_book_trade|아리스토텔레스의 경제학
 itm_book_trade_pl|아리스토텔레스의 경제학
 itm_book_weapon_mastery|크세노폰의 스파르타 교본
@@ -266,160 +266,160 @@ itm_common_pony|조랑말
 itm_common_pony_pl|조랑말
 itm_common_pony2|조랑말
 itm_common_pony2_pl|조랑말
-itm_wild_horse|야생마
-itm_wild_horse_pl|야생마
-itm_wild_horse2|야생마
-itm_wild_horse2_pl|야생마
-itm_wild_pony|야생 조랑말
-itm_wild_pony_pl|야생 조랑말
-itm_wild_pony2|야생 조랑말
-itm_wild_pony2_pl|야생 조랑말
+itm_wild_horse|말
+itm_wild_horse_pl|말
+itm_wild_horse2|말
+itm_wild_horse2_pl|말
+itm_wild_pony|조랑말
+itm_wild_pony_pl|조랑말
+itm_wild_pony2|조랑말
+itm_wild_pony2_pl|조랑말
 itm_cow1|소
 itm_cow1_pl|소
 itm_cow2|소
 itm_cow2_pl|소
 itm_arrows|화살
 itm_arrows_pl|화살
-itm_khergit_arrows|날카로운 화살
-itm_khergit_arrows_pl|날카로운 화살
+itm_khergit_arrows|송곳 화살
+itm_khergit_arrows_pl|송곳 화살
 itm_barbed_arrows|미늘 화살
 itm_barbed_arrows_pl|미늘 화살
 itm_bodkin_arrows|바늘 화살
 itm_bodkin_arrows_pl|바늘 화살
-itm_bolts|쇠뇌용 화살
-itm_bolts_pl|쇠뇌용 화살
-itm_bolts2|날카로운 쇠뇌용 화살
-itm_bolts2_pl|날카로운 쇠뇌용 화살
-itm_bolts3|미늘 쇠뇌용 화살
-itm_bolts3_pl|미늘 쇠뇌용 화살
-itm_bolts4|바늘 쇠뇌용 화살
-itm_bolts4_pl|바늘 쇠뇌용 화살
-itm_pilgrim_disguise|순레자 복장
-itm_pilgrim_disguise_pl|순레자 복장
-itm_pilgrim_hood|순레자 후드
-itm_pilgrim_hood_pl|순레자 후드
+itm_bolts|볼트
+itm_bolts_pl|볼트
+itm_bolts2|송곳 볼트
+itm_bolts2_pl|송곳 볼트
+itm_bolts3|미늘 볼트
+itm_bolts3_pl|미늘 볼트
+itm_bolts4|바늘 볼트
+itm_bolts4_pl|바늘 볼트
+itm_pilgrim_disguise|순례자 복장
+itm_pilgrim_disguise_pl|순례자 복장
+itm_pilgrim_hood|순례자 후드
+itm_pilgrim_hood_pl|순례자 후드
 itm_leather_gloves|가죽 장갑
 itm_leather_gloves_pl|가죽 장갑
-itm_carbatinae_1|장화
-itm_carbatinae_1_pl|장화
-itm_carbatinae_2|장화
-itm_carbatinae_2_pl|장화
-itm_carbatinae_3|장화
-itm_carbatinae_3_pl|장화
-itm_carbatinae_4|장화
-itm_carbatinae_4_pl|장화
-itm_carbatinae_5|장화
-itm_carbatinae_5_pl|장화
-itm_carbatinae_6|장화
-itm_carbatinae_6_pl|장화
-itm_carbatinae_7|장화
-itm_carbatinae_7_pl|장화
-itm_carbatinae_8|장화
-itm_carbatinae_8_pl|장화
-itm_carbatinae_9|장화
-itm_carbatinae_9_pl|장화
-itm_carbatinae_10|장화
-itm_carbatinae_10_pl|장화
-itm_carbatinae_vc1|신발
-itm_carbatinae_vc1_pl|신발
-itm_carbatinae_vc2|신발
-itm_carbatinae_vc2_pl|신발
-itm_carbatinae_vc3|신발
-itm_carbatinae_vc3_pl|신발
-itm_carbatinae_vc4|신발
-itm_carbatinae_vc4_pl|신발
-itm_carbatinae_vc5|신발
-itm_carbatinae_vc5_pl|신발
-itm_carbatinae_vc6|신발
-itm_carbatinae_vc6_pl|신발
-itm_carbatinae_1s|천 장화
-itm_carbatinae_1s_pl|천 장화
+itm_carbatinae_1|가죽 신발
+itm_carbatinae_1_pl|가죽 신발
+itm_carbatinae_2|천 신발
+itm_carbatinae_2_pl|천 신발
+itm_carbatinae_3|가죽 신발
+itm_carbatinae_3_pl|가죽 신발
+itm_carbatinae_4|가죽 신발
+itm_carbatinae_4_pl|가죽 신발
+itm_carbatinae_5|천 장화
+itm_carbatinae_5_pl|천 장화
+itm_carbatinae_6|가죽 신발
+itm_carbatinae_6_pl|가죽 신발
+itm_carbatinae_7|천 장화
+itm_carbatinae_7_pl|천 장화
+itm_carbatinae_8|가죽 신발
+itm_carbatinae_8_pl|가죽 신발
+itm_carbatinae_9|천 장화
+itm_carbatinae_9_pl|천 장화
+itm_carbatinae_10|가죽 신발
+itm_carbatinae_10_pl|가죽 신발
+itm_carbatinae_vc1|발목 장화
+itm_carbatinae_vc1_pl|발목 장화
+itm_carbatinae_vc2|발목 장화
+itm_carbatinae_vc2_pl|발목 장화
+itm_carbatinae_vc3|발목 장화
+itm_carbatinae_vc3_pl|발목 장화
+itm_carbatinae_vc4|고급 천 장화
+itm_carbatinae_vc4_pl|고급 천 장화
+itm_carbatinae_vc5|발목 장화
+itm_carbatinae_vc5_pl|발목 장화
+itm_carbatinae_vc6|발목 장화
+itm_carbatinae_vc6_pl|발목 장화
+itm_carbatinae_1s|가죽 신발
+itm_carbatinae_1s_pl|가죽 신발
 itm_carbatinae_2s|천 장화
 itm_carbatinae_2s_pl|천 장화
 itm_carbatinae_3s|천 장화
 itm_carbatinae_3s_pl|천 장화
-itm_carbatinae_4s|천 장화
-itm_carbatinae_4s_pl|천 장화
-itm_carbatinae_5s|천 장화
-itm_carbatinae_5s_pl|천 장화
-itm_carbatinae_6s|천 장화
-itm_carbatinae_6s_pl|천 장화
-itm_carbatinae_vc1s|천 신발
-itm_carbatinae_vc1s_pl|천 신발
-itm_carbatinae_vc2s|천 신발
-itm_carbatinae_vc2s_pl|천 신발
-itm_carbatinae_vc3s|천 신발
-itm_carbatinae_vc3s_pl|천 신발
-itm_carbatinae_vc4s|천 신발
-itm_carbatinae_vc4s_pl|천 신발
-itm_carbatinae_1v|천 장화
-itm_carbatinae_1v_pl|천 장화
+itm_carbatinae_4s|생가죽 신발
+itm_carbatinae_4s_pl|생가죽 신발
+itm_carbatinae_5s|생가죽 신발
+itm_carbatinae_5s_pl|생가죽 신발
+itm_carbatinae_6s|발목 장화
+itm_carbatinae_6s_pl|발목 장화
+itm_carbatinae_vc1s|고급 천 장화
+itm_carbatinae_vc1s_pl|고급 천 장화
+itm_carbatinae_vc2s|발목 장화
+itm_carbatinae_vc2s_pl|발목 장화
+itm_carbatinae_vc3s|고급 천 장화
+itm_carbatinae_vc3s_pl|고급 천 장화
+itm_carbatinae_vc4s|천 장화
+itm_carbatinae_vc4s_pl|천 장화
+itm_carbatinae_1v|발목 장화
+itm_carbatinae_1v_pl|발목 장화
 itm_carbatinae_2v|천 장화
 itm_carbatinae_2v_pl|천 장화
-itm_carbatinae_3v|천 신발
-itm_carbatinae_3v_pl|천 신발
-itm_carbatinae_4v|천 신발
-itm_carbatinae_4v_pl|천 신발
-itm_carbatinae_5v|천 장화
-itm_carbatinae_5v_pl|천 장화
+itm_carbatinae_3v|천 장화
+itm_carbatinae_3v_pl|천 장화
+itm_carbatinae_4v|고급 천 장화
+itm_carbatinae_4v_pl|고급 천 장화
+itm_carbatinae_5v|생가죽 신발
+itm_carbatinae_5v_pl|생가죽 신발
 itm_carbatinae_6v|천 장화
 itm_carbatinae_6v_pl|천 장화
-itm_carbatinae_vc1v|천 신발
-itm_carbatinae_vc1v_pl|천 신발
-itm_carbatinae_vc2v|천 신발
-itm_carbatinae_vc2v_pl|천 신발
-itm_carbatinae_11q|질 좋은 천 장화
-itm_carbatinae_11q_pl|질 좋은 천 장화
-itm_carbatinae_12q|질 좋은 천 장화
-itm_carbatinae_12q_pl|질 좋은 천 장화
-itm_carbatinae_11qs|질 좋은 천 장화
-itm_carbatinae_11qs_pl|질 좋은 천 장화
-itm_carbatinae_12qs|질 좋은 천 장화
-itm_carbatinae_12qs_pl|질 좋은 천 장화
-itm_carbatinae_13qs|질 좋은 천 장화
-itm_carbatinae_13qs_pl|질 좋은 천 장화
-itm_carbatinae_14qs|질 좋은 천 신발
-itm_carbatinae_14qs_pl|질 좋은 천 신발
-itm_carbatinae_14qv|질 좋은 천 신발
-itm_carbatinae_14qv_pl|질 좋은 천 신발
-itm_bare_foot_man|맨발
-itm_bare_foot_man_pl|맨발
-itm_just_man_boots_medium|장화
-itm_just_man_boots_medium_pl|장화
-itm_just_man_boots_light|가벼운 장화
-itm_just_man_boots_light_pl|가벼운 장화
-itm_just_man_shoes|신발
-itm_just_man_shoes_pl|신발
-itm_just_man_boots_dark|질 좋은 어두운 장화
-itm_just_man_boots_dark_pl|질 좋은 어두운 장화
+itm_carbatinae_vc1v|발목 장화
+itm_carbatinae_vc1v_pl|발목 장화
+itm_carbatinae_vc2v|고급 천 장화
+itm_carbatinae_vc2v_pl|고급 천 장화
+itm_carbatinae_11q|가죽 신발
+itm_carbatinae_11q_pl|가죽 신발
+itm_carbatinae_12q|가죽 신발
+itm_carbatinae_12q_pl|가죽 신발
+itm_carbatinae_11qs|고급 천 장화
+itm_carbatinae_11qs_pl|고급 천 장화
+itm_carbatinae_12qs|고급 천 장화
+itm_carbatinae_12qs_pl|고급 천 장화
+itm_carbatinae_13qs|고급 천 장화
+itm_carbatinae_13qs_pl|고급 천 장화
+itm_carbatinae_14qs|고급 천 장화
+itm_carbatinae_14qs_pl|고급 천 장화
+itm_carbatinae_14qv|고급 천 장화
+itm_carbatinae_14qv_pl|고급 천 장화
+itm_bare_foot_man|싸구려 신발
+itm_bare_foot_man_pl|싸구려 신발
+itm_just_man_boots_medium|생가죽 신발
+itm_just_man_boots_medium_pl|생가죽 신발
+itm_just_man_boots_light|가벼운 발목 장화
+itm_just_man_boots_light_pl|가벼운 발목 장화
+itm_just_man_shoes|가죽 신발
+itm_just_man_shoes_pl|가죽 신발
+itm_just_man_boots_dark|가벼운 발목 장화
+itm_just_man_boots_dark_pl|가벼운 발목 장화
 itm_gaelshoes_1|게일 신발
 itm_gaelshoes_1_pl|게일 신발
 itm_gaelshoes_2|게일 신발
 itm_gaelshoes_2_pl|게일 신발
-itm_gaelshoes_3|게일 신발
-itm_gaelshoes_3_pl|게일 신발
-itm_womenshoes_1|신발
-itm_womenshoes_1_pl|신발
-itm_womenshoes_2|고급 장화
-itm_womenshoes_2_pl|고급 장화
-itm_womenshoes_3|장화
-itm_womenshoes_3_pl|장화
-itm_womenshoes_4|장화
-itm_womenshoes_4_pl|장화
-itm_womenshoes_5|맨 다리
-itm_womenshoes_5_pl|맨 다리
-itm_womenshoes_6|신발
-itm_womenshoes_6_pl|신발
-itm_womenshoes_7|신발
-itm_womenshoes_7_pl|신발
-itm_womenshoes_8|맨 다리
-itm_womenshoes_8_pl|맨 다리
-itm_long_tunic1|긴 튜닉
-itm_long_tunic1_pl|긴 튜닉
-itm_nobleman_outfit|긴 튜닉
-itm_nobleman_outfit_pl|긴 튜닉
-itm_troll_tunic|긴 튜닉
-itm_troll_tunic_pl|긴 튜닉
+itm_gaelshoes_3|게일 장화
+itm_gaelshoes_3_pl|게일 장화
+itm_womenshoes_1|단화
+itm_womenshoes_1_pl|단화
+itm_womenshoes_2|발목 단화
+itm_womenshoes_2_pl|발목 단화
+itm_womenshoes_3|단화
+itm_womenshoes_3_pl|단화
+itm_womenshoes_4|발목 단화
+itm_womenshoes_4_pl|발목 단화
+itm_womenshoes_5|단화
+itm_womenshoes_5_pl|단화
+itm_womenshoes_6|발목 단화
+itm_womenshoes_6_pl|발목 단화
+itm_womenshoes_7|단화
+itm_womenshoes_7_pl|단화
+itm_womenshoes_8|단화
+itm_womenshoes_8_pl|단화
+itm_long_tunic1|프리지아 경갑
+itm_long_tunic1_pl|프리지아 경갑
+itm_nobleman_outfit|색슨 경갑
+itm_nobleman_outfit_pl|색슨 경갑
+itm_troll_tunic|트롤의 튜닉
+itm_troll_tunic_pl|트롤의 튜닉
 itm_priest1|성직자 로브
 itm_priest1_pl|성직자 로브
 itm_priest2|성직자 로브
@@ -444,226 +444,226 @@ itm_robe9|수도사 로브
 itm_robe9_pl|수도사 로브
 itm_robe10|수도사 로브
 itm_robe10_pl|수도사 로브
-itm_ptunic_1|흑색 저급 튜닉
-itm_ptunic_1_pl|흑색 저급 튜닉
-itm_ptunic_2|청색 저급 튜닉
-itm_ptunic_2_pl|청색 저급 튜닉
-itm_ptunic_3|녹색 저급 튜닉
-itm_ptunic_3_pl|녹색 저급 튜닉
-itm_ptunic_4|오렌지색 저급 튜닉
-itm_ptunic_4_pl|오렌지색 저급 튜닉
-itm_ptunic_5|백색 저급 튜닉
-itm_ptunic_5_pl|백색 저급 튜닉
-itm_ptunic_6|백색 저급 튜닉
-itm_ptunic_6_pl|백색 저급 튜닉
-itm_ptunic_7|흑색 저급 튜닉
-itm_ptunic_7_pl|흑색 저급 튜닉
-itm_ptunic_8|청색 저급 튜닉
-itm_ptunic_8_pl|청색 저급 튜닉
-itm_ptunic_9|녹색 저급 튜닉
-itm_ptunic_9_pl|녹색 저급 튜닉
-itm_ptunic_10|오렌지색 저급 튜닉
-itm_ptunic_10_pl|오렌지색 저급 튜닉
-itm_ptunic_11|백색 저급 튜닉
-itm_ptunic_11_pl|백색 저급 튜닉
-itm_ptunic_12|노란색 저급 튜닉
-itm_ptunic_12_pl|노란색 저급 튜닉
-itm_btunic_1|흑색 튜닉
-itm_btunic_1_pl|흑색 튜닉
-itm_btunic_2|청색 튜닉
-itm_btunic_2_pl|청색 튜닉
-itm_btunic_3|녹색 튜닉
-itm_btunic_3_pl|녹색 튜닉
-itm_btunic_4|오렌지색 튜닉
-itm_btunic_4_pl|오렌지색 튜닉
-itm_btunic_5|백색 튜닉
-itm_btunic_5_pl|백색 튜닉
-itm_btunic_6|흑색 튜닉
-itm_btunic_6_pl|흑색 튜닉
-itm_btunic_7|청색 튜닉
-itm_btunic_7_pl|청색 튜닉
-itm_btunic_8|녹색 튜닉
-itm_btunic_8_pl|녹색 튜닉
-itm_btunic_9|오렌지색 튜닉
-itm_btunic_9_pl|오렌지색 튜닉
-itm_btunic_10|백색 튜닉
-itm_btunic_10_pl|백색 튜닉
-itm_btunic_11|적색 튜닉
-itm_btunic_11_pl|적색 튜닉
-itm_btunic_12|적색 튜닉
-itm_btunic_12_pl|적색 튜닉
-itm_btunic_13|노란색 튜닉
-itm_btunic_13_pl|노란색 튜닉
-itm_btunic_14|노란색 튜닉
-itm_btunic_14_pl|노란색 튜닉
-itm_btunic_15|보라색 튜닉
-itm_btunic_15_pl|보라색 튜닉
-itm_btunic_16|보라색 튜닉
-itm_btunic_16_pl|보라색 튜닉
-itm_hoodtunic_01|후드
-itm_hoodtunic_01_pl|후드
-itm_hoodtunic_02|후드
-itm_hoodtunic_02_pl|후드
-itm_hoodtunic_03|후드
-itm_hoodtunic_03_pl|후드
-itm_hoodtunic_04|후드
-itm_hoodtunic_04_pl|후드
-itm_hoodtunic_05|후드
-itm_hoodtunic_05_pl|후드
-itm_hoodtunic_06|후드
-itm_hoodtunic_06_pl|후드
-itm_hoodtunic_07|후드
-itm_hoodtunic_07_pl|후드
-itm_hoodtunic_08|후드
-itm_hoodtunic_08_pl|후드
-itm_bl_tunic01|고급 적색 튜닉
-itm_bl_tunic01_pl|고급 적색 튜닉
-itm_bl_tunic02|고급 적색 튜닉
-itm_bl_tunic02_pl|고급 적색 튜닉
-itm_bl_tunic03|고급 청색 튜닉
-itm_bl_tunic03_pl|고급 청색 튜닉
-itm_bl_tunic04|고급 청색 튜닉
-itm_bl_tunic04_pl|고급 청색 튜닉
-itm_bl_tunic05|고급 녹색 튜닉
-itm_bl_tunic05_pl|고급 녹색 튜닉
-itm_bl_tunic06|고급 녹색 튜닉
-itm_bl_tunic06_pl|고급 녹색 튜닉
-itm_bl_tunic07|고급 갈색 튜닉
-itm_bl_tunic07_pl|고급 갈색 튜닉
-itm_bl_tunic08|고급 갈색 튜닉
-itm_bl_tunic08_pl|고급 갈색 튜닉
-itm_bl_tunic09|고급 노란색 튜닉
-itm_bl_tunic09_pl|고급 노란색 튜닉
-itm_bl_tunic10|고급 노란색 튜닉
-itm_bl_tunic10_pl|고급 노란색 튜닉
-itm_bl_tunic11|녹색 튜닉
-itm_bl_tunic11_pl|녹색 튜닉
-itm_bl_tunic12|드리티 튜닉
-itm_bl_tunic12_pl|드리티 튜닉
-itm_red_cloak|망토 달린 튜닉
-itm_red_cloak_pl|망토 달린 튜닉
-itm_yellow_cloak|망토 달린 튜닉
-itm_yellow_cloak_pl|망토 달린 튜닉
-itm_green_cloak|망토 달린 튜닉
-itm_green_cloak_pl|망토 달린 튜닉
-itm_blue_cloak|망토 달린 튜닉
-itm_blue_cloak_pl|망토 달린 튜닉
-itm_leather_cloak|망토 달린 튜닉
-itm_leather_cloak_pl|망토 달린 튜닉
-itm_yellow2_cloak|망토 달린 튜닉
-itm_yellow2_cloak_pl|망토 달린 튜닉
-itm_briton_tunic1|브리타니아 튜닉
-itm_briton_tunic1_pl|브리타니아 튜닉
-itm_briton_tunic2|브리타니아 튜닉
-itm_briton_tunic2_pl|브리타니아 튜닉
-itm_briton_tunic3|브리타니아 튜닉
-itm_briton_tunic3_pl|브리타니아 튜닉
-itm_briton_tunic4|브리타니아 튜닉
-itm_briton_tunic4_pl|브리타니아 튜닉
-itm_briton_tunic5|브리타니아 튜닉
-itm_briton_tunic5_pl|브리타니아 튜닉
-itm_briton_tunic6|브리타니아 튜닉
-itm_briton_tunic6_pl|브리타니아 튜닉
-itm_briton_tunic7|브리타니아 튜닉
-itm_briton_tunic7_pl|브리타니아 튜닉
-itm_briton_tunic8|브리타니아 튜닉
-itm_briton_tunic8_pl|브리타니아 튜닉
-itm_briton_tunic9|녹색 브리타니아 튜닉
-itm_briton_tunic9_pl|녹색 브리타니아 튜닉
-itm_briton_tunic10|녹색 브리타니아 튜닉
-itm_briton_tunic10_pl|녹색 브리타니아 튜닉
-itm_briton_tunic11|백색 브리타니아 튜닉
-itm_briton_tunic11_pl|백색 브리타니아 튜닉
-itm_briton_tunic12|백색 브리타니아 튜닉
-itm_briton_tunic12_pl|백색 브리타니아 튜닉
-itm_briton_tunic13|흑색 브리타니아 튜닉
-itm_briton_tunic13_pl|흑색 브리타니아 튜닉
-itm_briton_tunic14|흑색 브리타니아 튜닉
-itm_briton_tunic14_pl|흑색 브리타니아 튜닉
-itm_briton_tunic15|청색 브리타니아 튜닉
-itm_briton_tunic15_pl|청색 브리타니아 튜닉
-itm_briton_tunic16|청색 브리타니아 튜닉
-itm_briton_tunic16_pl|청색 브리타니아 튜닉
-itm_briton_tunic17|적색 브리타니아 튜닉
-itm_briton_tunic17_pl|적색 브리타니아 튜닉
-itm_briton_tunic18|적색 브리타니아 튜닉
-itm_briton_tunic18_pl|적색 브리타니아 튜닉
-itm_briton_tunic19|노란색 브리타니아 튜닉
-itm_briton_tunic19_pl|노란색 브리타니아 튜닉
-itm_briton_tunic20|노란색 브리타니아 튜닉
-itm_briton_tunic20_pl|노란색 브리타니아 튜닉
-itm_briton_tunic21|오렌지색 브리타니아 튜닉
-itm_briton_tunic21_pl|오렌지색 브리타니아 튜닉
-itm_briton_tunic22|오렌지색 브리타니아 튜닉
-itm_briton_tunic22_pl|오렌지색 브리타니아 튜닉
-itm_briton_tunic23|고급 브리타니아 튜닉
-itm_briton_tunic23_pl|고급 브리타니아 튜닉
-itm_briton_tunic24|고급 브리타니아 튜닉
-itm_briton_tunic24_pl|고급 브리타니아 튜닉
-itm_briton_tunic25|브리타니아 튜닉
-itm_briton_tunic25_pl|브리타니아 튜닉
-itm_briton_tunic26|브리타니아 튜닉
-itm_briton_tunic26_pl|브리타니아 튜닉
-itm_briton_tunic27|브리타니아 튜닉
-itm_briton_tunic27_pl|브리타니아 튜닉
-itm_briton_tunic28|브리타니아 튜닉
-itm_briton_tunic28_pl|브리타니아 튜닉
-itm_celta_capa1|게일 망토
-itm_celta_capa1_pl|게일 망토
-itm_celta_capa2|게일 긴 망토
-itm_celta_capa2_pl|게일 긴 망토
-itm_celta_capa3|게일 망토
-itm_celta_capa3_pl|게일 망토
-itm_celta_capa4|게일 긴 망토
-itm_celta_capa4_pl|게일 긴 망토
+itm_ptunic_1|간이식 앵글 튜닉
+itm_ptunic_1_pl|간이식 앵글 튜닉
+itm_ptunic_2|앵글 경갑
+itm_ptunic_2_pl|앵글 경갑
+itm_ptunic_3|앵글 튜닉
+itm_ptunic_3_pl|앵글 튜닉
+itm_ptunic_4|앵글 튜닉
+itm_ptunic_4_pl|앵글 튜닉
+itm_ptunic_5|간이식 앵글 튜닉
+itm_ptunic_5_pl|간이식 앵글 튜닉
+itm_ptunic_6|앵글 튜닉
+itm_ptunic_6_pl|앵글 튜닉
+itm_ptunic_7|두툼한 앵글 튜닉
+itm_ptunic_7_pl|두툼한 앵글 튜닉
+itm_ptunic_8|두툼한 앵글 튜닉
+itm_ptunic_8_pl|두툼한 앵글 튜닉
+itm_ptunic_9|앵글 경갑
+itm_ptunic_9_pl|앵글 경갑
+itm_ptunic_10|앵글 튜닉
+itm_ptunic_10_pl|앵글 튜닉
+itm_ptunic_11|앵글 튜닉
+itm_ptunic_11_pl|앵글 튜닉
+itm_ptunic_12|앵글 경갑
+itm_ptunic_12_pl|앵글 경갑
+itm_btunic_1|외투
+itm_btunic_1_pl|외투
+itm_btunic_2|트라우저
+itm_btunic_2_pl|트라우저
+itm_btunic_3|노스 튜닉
+itm_btunic_3_pl|노스 튜닉
+itm_btunic_4|노스 튜닉
+itm_btunic_4_pl|노스 튜닉
+itm_btunic_5|노스 튜닉
+itm_btunic_5_pl|노스 튜닉
+itm_btunic_6|노스 튜닉
+itm_btunic_6_pl|노스 튜닉
+itm_btunic_7|노스 튜닉
+itm_btunic_7_pl|노스 튜닉
+itm_btunic_8|간이식 노스 튜닉
+itm_btunic_8_pl|간이식 노스 튜닉
+itm_btunic_9|간이식 노스 튜닉
+itm_btunic_9_pl|간이식 노스 튜닉
+itm_btunic_10|간이식 노스 튜닉
+itm_btunic_10_pl|간이식 노스 튜닉
+itm_btunic_11|노스 튜닉
+itm_btunic_11_pl|노스 튜닉
+itm_btunic_12|노스 경갑
+itm_btunic_12_pl|노스 경갑
+itm_btunic_13|노스 튜닉
+itm_btunic_13_pl|노스 튜닉
+itm_btunic_14|노스 튜닉
+itm_btunic_14_pl|노스 튜닉
+itm_btunic_15|노스 경갑
+itm_btunic_15_pl|노스 경갑
+itm_btunic_16|노스 경갑
+itm_btunic_16_pl|노스 경갑
+itm_hoodtunic_01|튜닉
+itm_hoodtunic_01_pl|튜닉
+itm_hoodtunic_02|튜닉
+itm_hoodtunic_02_pl|튜닉
+itm_hoodtunic_03|튜닉
+itm_hoodtunic_03_pl|튜닉
+itm_hoodtunic_04|튜닉
+itm_hoodtunic_04_pl|튜닉
+itm_hoodtunic_05|튜닉
+itm_hoodtunic_05_pl|튜닉
+itm_hoodtunic_06|튜닉
+itm_hoodtunic_06_pl|튜닉
+itm_hoodtunic_07|튜닉
+itm_hoodtunic_07_pl|튜닉
+itm_hoodtunic_08|외투
+itm_hoodtunic_08_pl|외투
+itm_bl_tunic01|트라우저
+itm_bl_tunic01_pl|트라우저
+itm_bl_tunic02|색슨 경갑
+itm_bl_tunic02_pl|색슨 경갑
+itm_bl_tunic03|색슨 경갑
+itm_bl_tunic03_pl|색슨 경갑
+itm_bl_tunic04|간이식 색슨 튜닉
+itm_bl_tunic04_pl|간이식 색슨 튜닉
+itm_bl_tunic05|간이식 색슨 튜닉
+itm_bl_tunic05_pl|간이식 색슨 튜닉
+itm_bl_tunic06|색슨 튜닉
+itm_bl_tunic06_pl|색슨 튜닉
+itm_bl_tunic07|색슨 튜닉
+itm_bl_tunic07_pl|색슨 튜닉
+itm_bl_tunic08|두툼한 색슨 튜닉
+itm_bl_tunic08_pl|두툼한 색슨 튜닉
+itm_bl_tunic09|색슨 경갑
+itm_bl_tunic09_pl|색슨 경갑
+itm_bl_tunic10|색슨 튜닉
+itm_bl_tunic10_pl|색슨 튜닉
+itm_bl_tunic11|색슨 튜닉
+itm_bl_tunic11_pl|색슨 튜닉
+itm_bl_tunic12|색슨 튜닉
+itm_bl_tunic12_pl|색슨 튜닉
+itm_red_cloak|색슨 튜닉
+itm_red_cloak_pl|색슨 튜닉
+itm_yellow_cloak|고급 프리지아 튜닉
+itm_yellow_cloak_pl|고급 프리지아 튜닉
+itm_green_cloak|픽트 경갑
+itm_green_cloak_pl|픽트 경갑
+itm_blue_cloak|튜닉
+itm_blue_cloak_pl|튜닉
+itm_leather_cloak|튜닉
+itm_leather_cloak_pl|튜닉
+itm_yellow2_cloak|간이식 앵글 튜닉
+itm_yellow2_cloak_pl|간이식 앵글 튜닉
+itm_briton_tunic1|외투
+itm_briton_tunic1_pl|외투
+itm_briton_tunic2|트라우저
+itm_briton_tunic2_pl|트라우저
+itm_briton_tunic3|브리튼 튜닉
+itm_briton_tunic3_pl|브리튼 튜닉
+itm_briton_tunic4|간이식 브리튼 튜닉
+itm_briton_tunic4_pl|간이식 브리튼 튜닉
+itm_briton_tunic5|간이식 브리튼 튜닉
+itm_briton_tunic5_pl|간이식 브리튼 튜닉
+itm_briton_tunic6|간이식 브리튼 튜닉
+itm_briton_tunic6_pl|간이식 브리튼 튜닉
+itm_briton_tunic7|브리튼 튜닉
+itm_briton_tunic7_pl|브리튼 튜닉
+itm_briton_tunic8|브리튼 경갑
+itm_briton_tunic8_pl|브리튼 경갑
+itm_briton_tunic9|브리튼 튜닉
+itm_briton_tunic9_pl|브리튼 튜닉
+itm_briton_tunic10|브리튼 튜닉
+itm_briton_tunic10_pl|브리튼 튜닉
+itm_briton_tunic11|브리튼 튜닉
+itm_briton_tunic11_pl|브리튼 튜닉
+itm_briton_tunic12|브리튼 튜닉
+itm_briton_tunic12_pl|브리튼 튜닉
+itm_briton_tunic13|브리튼 튜닉
+itm_briton_tunic13_pl|브리튼 튜닉
+itm_briton_tunic14|브리튼 튜닉
+itm_briton_tunic14_pl|브리튼 튜닉
+itm_briton_tunic15|픽트 튜닉
+itm_briton_tunic15_pl|픽트 튜닉
+itm_briton_tunic16|픽트 튜닉
+itm_briton_tunic16_pl|픽트 튜닉
+itm_briton_tunic17|픽트 튜닉
+itm_briton_tunic17_pl|픽트 튜닉
+itm_briton_tunic18|픽트 튜닉
+itm_briton_tunic18_pl|픽트 튜닉
+itm_briton_tunic19|픽트 경갑
+itm_briton_tunic19_pl|픽트 경갑
+itm_briton_tunic20|후드 달린 게일 튜닉
+itm_briton_tunic20_pl|후드 달린 게일 튜닉
+itm_briton_tunic21|후드 달린 게일 튜닉
+itm_briton_tunic21_pl|후드 달린 게일 튜닉
+itm_briton_tunic22|후드 달린 게일 튜닉
+itm_briton_tunic22_pl|후드 달린 게일 튜닉
+itm_briton_tunic23|후드 달린 게일 튜닉
+itm_briton_tunic23_pl|후드 달린 게일 튜닉
+itm_briton_tunic24|게일 튜닉
+itm_briton_tunic24_pl|게일 튜닉
+itm_briton_tunic25|게일 튜닉
+itm_briton_tunic25_pl|게일 튜닉
+itm_briton_tunic26|게일 튜닉
+itm_briton_tunic26_pl|게일 튜닉
+itm_briton_tunic27|게일 튜닉
+itm_briton_tunic27_pl|게일 튜닉
+itm_briton_tunic28|게일 튜닉
+itm_briton_tunic28_pl|게일 튜닉
+itm_celta_capa1|게일 튜닉
+itm_celta_capa1_pl|게일 튜닉
+itm_celta_capa2|긴 게일 외투
+itm_celta_capa2_pl|긴 게일 외투
+itm_celta_capa3|게일 트라우저
+itm_celta_capa3_pl|게일 트라우저
+itm_celta_capa4|게일 트라우저
+itm_celta_capa4_pl|게일 트라우저
 itm_brat1|게일 고급 망토
 itm_brat1_pl|게일 고급 망토
 itm_brat2|게일 고급 망토
 itm_brat2_pl|게일 고급 망토
-itm_brat3|게일 길다란 고급 망토
-itm_brat3_pl|게일 길다란 고급 망토
-itm_brat4|게일 길다란 고급 망토
-itm_brat4_pl|게일 길다란 고급 망토
-itm_gael_tunic_01|게일 튜닉
-itm_gael_tunic_01_pl|게일 튜닉
-itm_gael_tunic_02|게일 튜닉
-itm_gael_tunic_02_pl|게일 튜닉
-itm_gael_tunic_03|게일 튜닉
-itm_gael_tunic_03_pl|게일 튜닉
-itm_gael_tunic_04|게일 튜닉
-itm_gael_tunic_04_pl|게일 튜닉
+itm_brat3|게일 경갑
+itm_brat3_pl|게일 경갑
+itm_brat4|게일 경갑
+itm_brat4_pl|게일 경갑
+itm_gael_tunic_01|픽트 튜닉
+itm_gael_tunic_01_pl|픽트 튜닉
+itm_gael_tunic_02|픽트 튜닉
+itm_gael_tunic_02_pl|픽트 튜닉
+itm_gael_tunic_03|앵글 튜닉
+itm_gael_tunic_03_pl|앵글 튜닉
+itm_gael_tunic_04|앵글 튜닉
+itm_gael_tunic_04_pl|앵글 튜닉
 itm_gael_tunic_05|망토 달린 게일 튜닉
 itm_gael_tunic_05_pl|망토 달린 게일 튜닉
 itm_gael_tunic_06|망토 달린 게일 튜닉
 itm_gael_tunic_06_pl|망토 달린 게일 튜닉
-itm_gael_tunic_07|망토 달린 게일 튜닉
-itm_gael_tunic_07_pl|망토 달린 게일 튜닉
-itm_gael_tunic_08|망토 달린 게일 튜닉
-itm_gael_tunic_08_pl|망토 달린 게일 튜닉
-itm_gael_hoodtunic_09|후드 달린 튜닉
-itm_gael_hoodtunic_09_pl|후드 달린 튜닉
-itm_gael_hoodtunic_10|후드 달린 튜닉
-itm_gael_hoodtunic_10_pl|후드 달린 튜닉
-itm_gael_hoodtunic_11|후드 달린 튜닉
-itm_gael_hoodtunic_11_pl|후드 달린 튜닉
-itm_gael_hoodtunic_12|후드 달린 튜닉
-itm_gael_hoodtunic_12_pl|후드 달린 튜닉
-itm_picts_tunic_09|청색 픽트 튜닉
-itm_picts_tunic_09_pl|청색 픽트 튜닉
-itm_picts_tunic_10|녹색 픽트 튜닉
-itm_picts_tunic_10_pl|녹색 픽트 튜닉
-itm_picts_tunic_11|적색 픽트 튜닉
-itm_picts_tunic_11_pl|적색 픽트 튜닉
-itm_picts_tunic_12|고급 픽트 튜닉
-itm_picts_tunic_12_pl|고급 픽트 튜닉
-itm_picts_tunic_13|오렌지색 픽트 튜닉
-itm_picts_tunic_13_pl|오렌지색 픽트 튜닉
-itm_picts_tunic_14|노란색 픽트 튜닉
-itm_picts_tunic_14_pl|노란색 픽트 튜닉
-itm_picts_tunic_15|백색 픽트 튜닉
-itm_picts_tunic_15_pl|백색 픽트 튜닉
-itm_picts_tunic_16|흑색 픽트 튜닉
-itm_picts_tunic_16_pl|흑색 픽트 튜닉
+itm_gael_tunic_07|게일 튜닉
+itm_gael_tunic_07_pl|게일 튜닉
+itm_gael_tunic_08|후드 달린 게일 튜닉
+itm_gael_tunic_08_pl|후드 달린 게일 튜닉
+itm_gael_hoodtunic_09|후드 달린 게일 튜닉
+itm_gael_hoodtunic_09_pl|후드 달린 게일 튜닉
+itm_gael_hoodtunic_10|후드 달린 게일 튜닉
+itm_gael_hoodtunic_10_pl|후드 달린 게일 튜닉
+itm_gael_hoodtunic_11|후드 달린 게일 튜닉
+itm_gael_hoodtunic_11_pl|후드 달린 게일 튜닉
+itm_gael_hoodtunic_12|후드 달린 게일 경갑
+itm_gael_hoodtunic_12_pl|후드 달린 게일 경갑
+itm_picts_tunic_09|노스 트라우저
+itm_picts_tunic_09_pl|노스 트라우저
+itm_picts_tunic_10|노스 트라우저
+itm_picts_tunic_10_pl|노스 트라우저
+itm_picts_tunic_11|노스 외투
+itm_picts_tunic_11_pl|노스 외투
+itm_picts_tunic_12|브리튼 경갑
+itm_picts_tunic_12_pl|브리튼 경갑
+itm_picts_tunic_13|브리튼 튜닉
+itm_picts_tunic_13_pl|브리튼 튜닉
+itm_picts_tunic_14|트라우저
+itm_picts_tunic_14_pl|트라우저
+itm_picts_tunic_15|트라우저
+itm_picts_tunic_15_pl|트라우저
+itm_picts_tunic_16|프리지아 트라우저
+itm_picts_tunic_16_pl|프리지아 트라우저
 itm_pictish_painted1|픽트 문신
 itm_pictish_painted1_pl|픽트 문신
 itm_pictish_painted2|픽트 문신
@@ -672,10 +672,10 @@ itm_pictish_painted3|픽트 문신
 itm_pictish_painted3_pl|픽트 문신
 itm_pictish_painted4|픽트 문신
 itm_pictish_painted4_pl|픽트 문신
-itm_picts_hoodtunic_01|픽트 후드
-itm_picts_hoodtunic_01_pl|픽트 후드
-itm_picts_hoodtunic_02|픽트 후드
-itm_picts_hoodtunic_02_pl|픽트 후드
+itm_picts_hoodtunic_01|픽트 외투
+itm_picts_hoodtunic_01_pl|픽트 외투
+itm_picts_hoodtunic_02|픽트 외투
+itm_picts_hoodtunic_02_pl|픽트 외투
 itm_picts_hoodtunic_03|픽트 후드
 itm_picts_hoodtunic_03_pl|픽트 후드
 itm_picts_hoodtunic_04|픽트 후드
@@ -686,12 +686,12 @@ itm_picts_hoodtunic_06|픽트 후드
 itm_picts_hoodtunic_06_pl|픽트 후드
 itm_picts_hoodtunic_07|픽트 후드
 itm_picts_hoodtunic_07_pl|픽트 후드
-itm_picts_hoodtunic_11|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_11_pl|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_12|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_12_pl|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_13|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_13_pl|후드 달린 픽트 튜닉
+itm_picts_hoodtunic_11|망토 달린 픽트 튜닉
+itm_picts_hoodtunic_11_pl|망토 달린 픽트 튜닉
+itm_picts_hoodtunic_12|망토 달린 픽트 튜닉
+itm_picts_hoodtunic_12_pl|망토 달린 픽트 튜닉
+itm_picts_hoodtunic_13|망토 달린 픽트 튜닉
+itm_picts_hoodtunic_13_pl|망토 달린 픽트 튜닉
 itm_picts_hoodtunic_14|후드 달린 픽트 튜닉
 itm_picts_hoodtunic_14_pl|후드 달린 픽트 튜닉
 itm_picts_hoodtunic_15|후드 달린 픽트 튜닉
@@ -700,174 +700,174 @@ itm_picts_hoodtunic_16|후드 달린 픽트 튜닉
 itm_picts_hoodtunic_16_pl|후드 달린 픽트 튜닉
 itm_picts_hoodtunic_17|후드 달린 픽트 튜닉
 itm_picts_hoodtunic_17_pl|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_18|후드 달린 픽트 튜닉
-itm_picts_hoodtunic_18_pl|후드 달린 픽트 튜닉
-itm_linen_tunic|리넨 튜닉
-itm_linen_tunic_pl|리넨 튜닉
-itm_woman_saxon1|여성용 드레스
-itm_woman_saxon1_pl|여성용 드레스
-itm_woman_saxon2|여성용 드레스
-itm_woman_saxon2_pl|여성용 드레스
-itm_woman_saxon3|여성용 드레스
-itm_woman_saxon3_pl|여성용 드레스
-itm_woman_saxon4|여성용 드레스
-itm_woman_saxon4_pl|여성용 드레스
-itm_woman_saxon5|여성용 드레스
-itm_woman_saxon5_pl|여성용 드레스
-itm_woman_saxon6|여성용 드레스
-itm_woman_saxon6_pl|여성용 드레스
-itm_woman_saxon7|여성용 드레스
-itm_woman_saxon7_pl|여성용 드레스
-itm_woman_saxon8|여성용 드레스
-itm_woman_saxon8_pl|여성용 드레스
-itm_woman_saxon9|여성용 드레스
-itm_woman_saxon9_pl|여성용 드레스
-itm_woman_saxon10|여성용 드레스
-itm_woman_saxon10_pl|여성용 드레스
-itm_woman_saxon11|여성용 드레스
-itm_woman_saxon11_pl|여성용 드레스
-itm_richwoman_saxon1|고급 여성용 드레스
-itm_richwoman_saxon1_pl|고급 여성용 드레스
-itm_richwoman_saxon2|고급 여성용 드레스
-itm_richwoman_saxon2_pl|고급 여성용 드레스
-itm_richwoman_saxon3|고급 여성용 드레스
-itm_richwoman_saxon3_pl|고급 여성용 드레스
-itm_richwoman_saxon4|고급 여성용 드레스
-itm_richwoman_saxon4_pl|고급 여성용 드레스
-itm_richwoman_saxon5|고급 여성용 드레스
-itm_richwoman_saxon5_pl|고급 여성용 드레스
-itm_richwoman_saxon6|고급 여성용 드레스
-itm_richwoman_saxon6_pl|고급 여성용 드레스
-itm_richwoman_saxon7|고급 여성용 드레스
-itm_richwoman_saxon7_pl|고급 여성용 드레스
-itm_richwoman_saxon8|고급 여성용 드레스
-itm_richwoman_saxon8_pl|고급 여성용 드레스
-itm_richwoman_saxon9|고급 여성용 드레스
-itm_richwoman_saxon9_pl|고급 여성용 드레스
-itm_queenwoman_saxon|보라색 여성용 드레스
-itm_queenwoman_saxon_pl|보라색 여성용 드레스
-itm_queenpict_long_tunic|고급 여성용 드레스
-itm_queenpict_long_tunic_pl|고급 여성용 드레스
-itm_pict_richlong_tunic1|고급 여성용 드레스
-itm_pict_richlong_tunic1_pl|고급 여성용 드레스
-itm_pict_richlong_tunic2|고급 여성용 드레스
-itm_pict_richlong_tunic2_pl|고급 여성용 드레스
-itm_pict_richlong_tunic3|고급 여성용 드레스
-itm_pict_richlong_tunic3_pl|고급 여성용 드레스
-itm_pict_long_tunic1|여성용 드레스
-itm_pict_long_tunic1_pl|여성용 드레스
-itm_pict_long_tunic2|여성용 드레스
-itm_pict_long_tunic2_pl|여성용 드레스
-itm_pict_long_tunic3|여성용 드레스
-itm_pict_long_tunic3_pl|여성용 드레스
-itm_pict_long_tunic4|여성용 드레스
-itm_pict_long_tunic4_pl|여성용 드레스
-itm_pict_long_tunic5|여성용 드레스
-itm_pict_long_tunic5_pl|여성용 드레스
-itm_pict_long_tunic6|여성용 드레스
-itm_pict_long_tunic6_pl|여성용 드레스
-itm_woman_norse1|여성용 드레스
-itm_woman_norse1_pl|여성용 드레스
-itm_woman_norse2|여성용 드레스
-itm_woman_norse2_pl|여성용 드레스
-itm_woman_norse3|여성용 드레스
-itm_woman_norse3_pl|여성용 드레스
-itm_woman_norse4|여성용 드레스
-itm_woman_norse4_pl|여성용 드레스
-itm_woman_norse5|여성용 드레스
-itm_woman_norse5_pl|여성용 드레스
-itm_woman_norse6|여성용 드레스
-itm_woman_norse6_pl|여성용 드레스
-itm_richwoman_norse1|고급 여성용 드레스
-itm_richwoman_norse1_pl|고급 여성용 드레스
-itm_richwoman_norse2|고급 여성용 드레스
-itm_richwoman_norse2_pl|고급 여성용 드레스
-itm_richwoman_norse3|고급 여성용 드레스
-itm_richwoman_norse3_pl|고급 여성용 드레스
-itm_richwoman_norse4|고급 여성용 드레스
-itm_richwoman_norse4_pl|고급 여성용 드레스
-itm_btunic_1woman|여성용 짧은 튜닉
-itm_btunic_1woman_pl|여성용 짧은 튜닉
-itm_btunic_2woman|여성용 짧은 튜닉
-itm_btunic_2woman_pl|여성용 짧은 튜닉
-itm_btunic_3woman|여성용 짧은 튜닉
-itm_btunic_3woman_pl|여성용 짧은 튜닉
-itm_btunic_4woman|여성용 짧은 튜닉
-itm_btunic_4woman_pl|여성용 짧은 튜닉
-itm_btunic_5woman|여성용 짧은 튜닉
-itm_btunic_5woman_pl|여성용 짧은 튜닉
-itm_btunic_6woman|여성용 짧은 튜닉
-itm_btunic_6woman_pl|여성용 짧은 튜닉
-itm_btunic_7woman|여성용 짧은 튜닉
-itm_btunic_7woman_pl|여성용 짧은 튜닉
-itm_btunic_8woman|여성용 짧은 튜닉
-itm_btunic_8woman_pl|여성용 짧은 튜닉
-itm_ptunic_1woman|여성용 짧은 튜닉
-itm_ptunic_1woman_pl|여성용 짧은 튜닉
-itm_ptunic_2woman|여성용 짧은 튜닉
-itm_ptunic_2woman_pl|여성용 짧은 튜닉
-itm_ptunic_3woman|여성용 짧은 튜닉
-itm_ptunic_3woman_pl|여성용 짧은 튜닉
-itm_ptunic_4woman|여성용 짧은 튜닉
-itm_ptunic_4woman_pl|여성용 짧은 튜닉
-itm_ptunic_5woman|여성용 짧은 튜닉
-itm_ptunic_5woman_pl|여성용 짧은 튜닉
-itm_ptunic_6woman|여성용 짧은 튜닉
-itm_ptunic_6woman_pl|여성용 짧은 튜닉
-itm_ptunic_7woman|여성용 짧은 튜닉
-itm_ptunic_7woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_1woman|여성용 짧은 튜닉
-itm_gaeltunic_1woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_2woman|여성용 짧은 튜닉
-itm_gaeltunic_2woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_3woman|여성용 짧은 튜닉
-itm_gaeltunic_3woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_4woman|여성용 짧은 튜닉
-itm_gaeltunic_4woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_5woman|여성용 짧은 튜닉
-itm_gaeltunic_5woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_6woman|여성용 짧은 튜닉
-itm_gaeltunic_6woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_7woman|여성용 짧은 튜닉
-itm_gaeltunic_7woman_pl|여성용 짧은 튜닉
-itm_gaeltunic_8woman|보라색 여성용 짧은 튜닉
-itm_gaeltunic_8woman_pl|보라색 여성용 짧은 튜닉
-itm_britontunic_1woman|흑색 튜닉
-itm_britontunic_1woman_pl|흑색 튜닉
-itm_britontunic_2woman|청색 튜닉
-itm_britontunic_2woman_pl|청색 튜닉
-itm_britontunic_3woman|녹색 튜닉
-itm_britontunic_3woman_pl|녹색 튜닉
-itm_britontunic_4woman|오렌지색 튜닉
-itm_britontunic_4woman_pl|오렌지색 튜닉
-itm_britontunic_5woman|백색 튜닉
-itm_britontunic_5woman_pl|백색 튜닉
-itm_britontunic_6woman|노란색 튜닉
-itm_britontunic_6woman_pl|노란색 튜닉
-itm_britontunic_7woman|적색 튜닉
-itm_britontunic_7woman_pl|적색 튜닉
-itm_britontunic_8woman|보라색 튜닉
-itm_britontunic_8woman_pl|보라색 튜닉
+itm_picts_hoodtunic_18|픽트 경갑
+itm_picts_hoodtunic_18_pl|픽트 경갑
+itm_linen_tunic|픽트 튜닉
+itm_linen_tunic_pl|픽트 튜닉
+itm_woman_saxon1|색슨 드레스
+itm_woman_saxon1_pl|색슨 드레스
+itm_woman_saxon2|색슨 드레스
+itm_woman_saxon2_pl|색슨 드레스
+itm_woman_saxon3|색슨 드레스
+itm_woman_saxon3_pl|색슨 드레스
+itm_woman_saxon4|색슨 드레스
+itm_woman_saxon4_pl|색슨 드레스
+itm_woman_saxon5|색슨 드레스
+itm_woman_saxon5_pl|색슨 드레스
+itm_woman_saxon6|색슨 드레스
+itm_woman_saxon6_pl|색슨 드레스
+itm_woman_saxon7|색슨 드레스
+itm_woman_saxon7_pl|색슨 드레스
+itm_woman_saxon8|색슨 드레스
+itm_woman_saxon8_pl|색슨 드레스
+itm_woman_saxon9|색슨 드레스
+itm_woman_saxon9_pl|색슨 드레스
+itm_woman_saxon10|색슨 드레스
+itm_woman_saxon10_pl|색슨 드레스
+itm_woman_saxon11|색슨 드레스
+itm_woman_saxon11_pl|색슨 드레스
+itm_richwoman_saxon1|고급 색슨 드레스
+itm_richwoman_saxon1_pl|고급 색슨 드레스
+itm_richwoman_saxon2|고급 색슨 드레스
+itm_richwoman_saxon2_pl|고급 색슨 드레스
+itm_richwoman_saxon3|고급 색슨 드레스
+itm_richwoman_saxon3_pl|고급 색슨 드레스
+itm_richwoman_saxon4|고급 색슨 드레스
+itm_richwoman_saxon4_pl|고급 색슨 드레스
+itm_richwoman_saxon5|고급 색슨 드레스
+itm_richwoman_saxon5_pl|고급 색슨 드레스
+itm_richwoman_saxon6|고급 색슨 드레스
+itm_richwoman_saxon6_pl|고급 색슨 드레스
+itm_richwoman_saxon7|고급 색슨 드레스
+itm_richwoman_saxon7_pl|고급 색슨 드레스
+itm_richwoman_saxon8|고급 색슨 드레스
+itm_richwoman_saxon8_pl|고급 색슨 드레스
+itm_richwoman_saxon9|고급 색슨 드레스
+itm_richwoman_saxon9_pl|고급 색슨 드레스
+itm_queenwoman_saxon|색슨 왕실 드레스
+itm_queenwoman_saxon_pl|색슨 왕실 드레스
+itm_queenpict_long_tunic|고급 드레스
+itm_queenpict_long_tunic_pl|고급 드레스
+itm_pict_richlong_tunic1|고급 드레스
+itm_pict_richlong_tunic1_pl|고급 드레스
+itm_pict_richlong_tunic2|고급 드레스
+itm_pict_richlong_tunic2_pl|고급 드레스
+itm_pict_richlong_tunic3|고급 드레스
+itm_pict_richlong_tunic3_pl|고급 드레스
+itm_pict_long_tunic1|드레스
+itm_pict_long_tunic1_pl|드레스
+itm_pict_long_tunic2|드레스
+itm_pict_long_tunic2_pl|드레스
+itm_pict_long_tunic3|드레스
+itm_pict_long_tunic3_pl|드레스
+itm_pict_long_tunic4|드레스
+itm_pict_long_tunic4_pl|드레스
+itm_pict_long_tunic5|드레스
+itm_pict_long_tunic5_pl|드레스
+itm_pict_long_tunic6|드레스
+itm_pict_long_tunic6_pl|드레스
+itm_woman_norse1|노스 드레스
+itm_woman_norse1_pl|노스 드레스
+itm_woman_norse2|노스 드레스
+itm_woman_norse2_pl|노스 드레스
+itm_woman_norse3|노스 드레스
+itm_woman_norse3_pl|노스 드레스
+itm_woman_norse4|노스 드레스
+itm_woman_norse4_pl|노스 드레스
+itm_woman_norse5|노스 드레스
+itm_woman_norse5_pl|노스 드레스
+itm_woman_norse6|노스 드레스
+itm_woman_norse6_pl|노스 드레스
+itm_richwoman_norse1|고급 노스 드레스
+itm_richwoman_norse1_pl|고급 노스 드레스
+itm_richwoman_norse2|고급 노스 드레스
+itm_richwoman_norse2_pl|고급 노스 드레스
+itm_richwoman_norse3|고급 노스 드레스
+itm_richwoman_norse3_pl|고급 노스 드레스
+itm_richwoman_norse4|고급 노스 드레스
+itm_richwoman_norse4_pl|고급 노스 드레스
+itm_btunic_1woman|튜닉
+itm_btunic_1woman_pl|튜닉
+itm_btunic_2woman|앵글 경갑
+itm_btunic_2woman_pl|앵글 경갑
+itm_btunic_3woman|프리지아 튜닉
+itm_btunic_3woman_pl|프리지아 튜닉
+itm_btunic_4woman|프리지아 튜닉
+itm_btunic_4woman_pl|프리지아 튜닉
+itm_btunic_5woman|프리지아 튜닉
+itm_btunic_5woman_pl|프리지아 튜닉
+itm_btunic_6woman|프리지아 튜닉
+itm_btunic_6woman_pl|프리지아 튜닉
+itm_btunic_7woman|앵글 튜닉
+itm_btunic_7woman_pl|앵글 튜닉
+itm_btunic_8woman|간이식 튜닉
+itm_btunic_8woman_pl|간이식 튜닉
+itm_ptunic_1woman|간이식 튜닉
+itm_ptunic_1woman_pl|간이식 튜닉
+itm_ptunic_2woman|간이식 튜닉
+itm_ptunic_2woman_pl|간이식 튜닉
+itm_ptunic_3woman|간이식 튜닉
+itm_ptunic_3woman_pl|간이식 튜닉
+itm_ptunic_4woman|간이식 튜닉
+itm_ptunic_4woman_pl|간이식 튜닉
+itm_ptunic_5woman|간이식 튜닉
+itm_ptunic_5woman_pl|간이식 튜닉
+itm_ptunic_6woman|간이식 튜닉
+itm_ptunic_6woman_pl|간이식 튜닉
+itm_ptunic_7woman|간이식 튜닉
+itm_ptunic_7woman_pl|간이식 튜닉
+itm_gaeltunic_1woman|프리지아 튜닉
+itm_gaeltunic_1woman_pl|프리지아 튜닉
+itm_gaeltunic_2woman|프리지아 튜닉
+itm_gaeltunic_2woman_pl|프리지아 튜닉
+itm_gaeltunic_3woman|프리지아 튜닉
+itm_gaeltunic_3woman_pl|프리지아 튜닉
+itm_gaeltunic_4woman|프리지아 경갑
+itm_gaeltunic_4woman_pl|프리지아 경갑
+itm_gaeltunic_5woman|프리지아 튜닉
+itm_gaeltunic_5woman_pl|프리지아 튜닉
+itm_gaeltunic_6woman|프리지아 튜닉
+itm_gaeltunic_6woman_pl|프리지아 튜닉
+itm_gaeltunic_7woman|프리지아 튜닉
+itm_gaeltunic_7woman_pl|프리지아 튜닉
+itm_gaeltunic_8woman|프리지아 튜닉
+itm_gaeltunic_8woman_pl|프리지아 튜닉
+itm_britontunic_1woman|곰가죽 옷
+itm_britontunic_1woman_pl|곰가죽 옷
+itm_britontunic_2woman|곰가죽 옷
+itm_britontunic_2woman_pl|곰가죽 옷
+itm_britontunic_3woman|곰가죽 옷
+itm_britontunic_3woman_pl|곰가죽 옷
+itm_britontunic_4woman|곰가죽 옷
+itm_britontunic_4woman_pl|곰가죽 옷
+itm_britontunic_5woman|늑대가죽 옷
+itm_britontunic_5woman_pl|늑대가죽 옷
+itm_britontunic_6woman|늑대가죽 옷
+itm_britontunic_6woman_pl|늑대가죽 옷
+itm_britontunic_7woman|늑대가죽 옷
+itm_britontunic_7woman_pl|늑대가죽 옷
+itm_britontunic_8woman|늑대가죽 옷
+itm_britontunic_8woman_pl|늑대가죽 옷
 itm_veil_a|베일
 itm_veil_a_pl|베일
-itm_veil_b|청색 베일
-itm_veil_b_pl|청색 베일
-itm_veil_c|오렌지색 베일
-itm_veil_c_pl|오렌지색 베일
-itm_veil_d|어두운 후드
-itm_veil_d_pl|어두운 후드
-itm_veil_e|백색 후드
-itm_veil_e_pl|백색 후드
-itm_veil_f|청색 베일
-itm_veil_f_pl|청색 베일
-itm_elite_veil_1|여성용 베일
-itm_elite_veil_1_pl|여성용 베일
-itm_elite_veil_2|여성용 베일
-itm_elite_veil_2_pl|여성용 베일
-itm_elite_veil_3|여성용 베일
-itm_elite_veil_3_pl|여성용 베일
-itm_elite_veil_4|여성용 베일
-itm_elite_veil_4_pl|여성용 베일
+itm_veil_b|베일
+itm_veil_b_pl|베일
+itm_veil_c|베일
+itm_veil_c_pl|베일
+itm_veil_d|베일
+itm_veil_d_pl|베일
+itm_veil_e|베일
+itm_veil_e_pl|베일
+itm_veil_f|베일
+itm_veil_f_pl|베일
+itm_elite_veil_1|고급 베일
+itm_elite_veil_1_pl|고급 베일
+itm_elite_veil_2|고급 베일
+itm_elite_veil_2_pl|고급 베일
+itm_elite_veil_3|고급 베일
+itm_elite_veil_3_pl|고급 베일
+itm_elite_veil_4|고급 베일
+itm_elite_veil_4_pl|고급 베일
 itm_common_veil_a|베일
 itm_common_veil_a_pl|베일
 itm_common_veil_b|베일
@@ -880,288 +880,288 @@ itm_common_veil_e|베일
 itm_common_veil_e_pl|베일
 itm_common_veil_f|베일
 itm_common_veil_f_pl|베일
-itm_elite_veil_5|여성용 베일
-itm_elite_veil_5_pl|여성용 베일
-itm_elite_veil_6|여성용 베일
-itm_elite_veil_6_pl|여성용 베일
-itm_elite_veil_7|여성용 베일
-itm_elite_veil_7_pl|여성용 베일
-itm_elite_veil_8|여성용 베일
-itm_elite_veil_8_pl|여성용 베일
-itm_gambeson1|짧은 쇠미늘 갑옷
-itm_gambeson1_pl|짧은 쇠미늘 갑옷
-itm_gambeson2|짧은 쇠미늘 갑옷
-itm_gambeson2_pl|짧은 쇠미늘 갑옷
-itm_gambeson3|짧은 쇠미늘 갑옷
-itm_gambeson3_pl|짧은 쇠미늘 갑옷
-itm_gambeson4|짧은 쇠미늘 갑옷
-itm_gambeson4_pl|짧은 쇠미늘 갑옷
-itm_gambeson5|짧은 쇠미늘 갑옷
-itm_gambeson5_pl|짧은 쇠미늘 갑옷
-itm_gambeson6|짧은 쇠미늘 갑옷
-itm_gambeson6_pl|짧은 쇠미늘 갑옷
-itm_gambeson7|짧은 쇠미늘 갑옷
-itm_gambeson7_pl|짧은 쇠미늘 갑옷
-itm_gambeson8|짧은 쇠미늘 갑옷
-itm_gambeson8_pl|짧은 쇠미늘 갑옷
-itm_gambeson9|짧은 쇠미늘 갑옷
-itm_gambeson9_pl|짧은 쇠미늘 갑옷
-itm_gambeson10|짧은 쇠미늘 갑옷
-itm_gambeson10_pl|짧은 쇠미늘 갑옷
-itm_gambeson11|짧은 쇠미늘 갑옷
-itm_gambeson11_pl|짧은 쇠미늘 갑옷
-itm_gambeson12|짧은 쇠미늘 갑옷
-itm_gambeson12_pl|짧은 쇠미늘 갑옷
-itm_gambeson13|짧은 쇠미늘 갑옷
-itm_gambeson13_pl|짧은 쇠미늘 갑옷
-itm_gambeson14|짧은 쇠미늘 갑옷
-itm_gambeson14_pl|짧은 쇠미늘 갑옷
-itm_gambeson15|짧은 쇠미늘 갑옷
-itm_gambeson15_pl|짧은 쇠미늘 갑옷
-itm_gambeson16|짧은 쇠미늘 갑옷
-itm_gambeson16_pl|짧은 쇠미늘 갑옷
-itm_gambeson17|짧은 쇠미늘 갑옷
-itm_gambeson17_pl|짧은 쇠미늘 갑옷
-itm_gambeson18|짧은 쇠미늘 갑옷
-itm_gambeson18_pl|짧은 쇠미늘 갑옷
-itm_gambeson19|짧은 쇠미늘 갑옷
-itm_gambeson19_pl|짧은 쇠미늘 갑옷
-itm_gambeson20|짧은 쇠미늘 갑옷
-itm_gambeson20_pl|짧은 쇠미늘 갑옷
-itm_gambeson21|짧은 쇠미늘 갑옷
-itm_gambeson21_pl|짧은 쇠미늘 갑옷
-itm_gambeson22|짧은 쇠미늘 갑옷
-itm_gambeson22_pl|짧은 쇠미늘 갑옷
-itm_gambeson23|짧은 쇠미늘 갑옷
-itm_gambeson23_pl|짧은 쇠미늘 갑옷
-itm_gambeson24|짧은 쇠미늘 갑옷
-itm_gambeson24_pl|짧은 쇠미늘 갑옷
-itm_gambeson1gael|픽트 상의
-itm_gambeson1gael_pl|픽트 상의
-itm_gambeson2gael|픽트 상의
-itm_gambeson2gael_pl|픽트 상의
-itm_gambeson3gael|픽트 상의
-itm_gambeson3gael_pl|픽트 상의
-itm_gambeson4gael|픽트 상의
-itm_gambeson4gael_pl|픽트 상의
-itm_gambeson5gael|픽트 상의
-itm_gambeson5gael_pl|픽트 상의
-itm_gambeson6gael|픽트 상의
-itm_gambeson6gael_pl|픽트 상의
-itm_gambeson7gael|픽트 상의
-itm_gambeson7gael_pl|픽트 상의
-itm_gambeson8gael|픽트 상의
-itm_gambeson8gael_pl|픽트 상의
-itm_gambeson9gael|게일 상의
-itm_gambeson9gael_pl|게일 상의
-itm_gambeson10gael|게일 상의
-itm_gambeson10gael_pl|게일 상의
-itm_gambeson11gael|게일 상의
-itm_gambeson11gael_pl|게일 상의
-itm_gambeson12gael|게일 상의
-itm_gambeson12gael_pl|게일 상의
-itm_gambeson13gael|망토 달린 게일 상의
-itm_gambeson13gael_pl|망토 달린 게일 상의
-itm_gambeson14gael|망토 달린 게일 상의
-itm_gambeson14gael_pl|망토 달린 게일 상의
-itm_gambeson15gael|망토 달린 게일 상의
-itm_gambeson15gael_pl|망토 달린 게일 상의
-itm_gambeson16gael|망토 달린 게일 상의
-itm_gambeson16gael_pl|망토 달린 게일 상의
-itm_gambeson1cloak|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson1cloak_pl|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson2cloak|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson2cloak_pl|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson5cloak|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson5cloak_pl|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson6cloak|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson6cloak_pl|망토 달린 짧은 쇠미늘 갑옷
-itm_gambeson3cloak|망토 달린 긴 쇠미늘 갑옷
-itm_gambeson3cloak_pl|망토 달린 긴 쇠미늘 갑옷
-itm_gambeson4cloak|망토 달린 긴 쇠미늘 갑옷
-itm_gambeson4cloak_pl|망토 달린 긴 쇠미늘 갑옷
-itm_gambeson25|쇠미늘 갑옷
-itm_gambeson25_pl|쇠미늘 갑옷
-itm_gambeson26|쇠미늘 갑옷
-itm_gambeson26_pl|쇠미늘 갑옷
-itm_gambeson27|쇠미늘 갑옷
-itm_gambeson27_pl|쇠미늘 갑옷
-itm_gambeson28|쇠미늘 갑옷
-itm_gambeson28_pl|쇠미늘 갑옷
-itm_gambeson29|쇠미늘 갑옷
-itm_gambeson29_pl|쇠미늘 갑옷
-itm_gambeson30|쇠미늘 갑옷
-itm_gambeson30_pl|쇠미늘 갑옷
-itm_gambeson31|쇠미늘 갑옷
-itm_gambeson31_pl|쇠미늘 갑옷
-itm_gambeson32|쇠미늘 갑옷
-itm_gambeson32_pl|쇠미늘 갑옷
-itm_gambeson33|긴 쇠미늘 갑옷
-itm_gambeson33_pl|긴 쇠미늘 갑옷
-itm_gambeson34|긴 쇠미늘 갑옷
-itm_gambeson34_pl|긴 쇠미늘 갑옷
-itm_gambeson35|긴 쇠미늘 갑옷
-itm_gambeson35_pl|긴 쇠미늘 갑옷
-itm_gambeson36|긴 쇠미늘 갑옷
-itm_gambeson36_pl|긴 쇠미늘 갑옷
-itm_gambeson37|긴 쇠미늘 갑옷
-itm_gambeson37_pl|긴 쇠미늘 갑옷
-itm_gambeson38|긴 쇠미늘 갑옷
-itm_gambeson38_pl|긴 쇠미늘 갑옷
-itm_gambeson39|긴 쇠미늘 갑옷
-itm_gambeson39_pl|긴 쇠미늘 갑옷
-itm_gambeson40|긴 쇠미늘 갑옷
-itm_gambeson40_pl|긴 쇠미늘 갑옷
-itm_gambeson41|긴 쇠미늘 갑옷
-itm_gambeson41_pl|긴 쇠미늘 갑옷
-itm_gambeson42|긴 쇠미늘 갑옷
-itm_gambeson42_pl|긴 쇠미늘 갑옷
-itm_gambeson43|긴 쇠미늘 갑옷
-itm_gambeson43_pl|긴 쇠미늘 갑옷
-itm_gambeson44|긴 쇠미늘 갑옷
-itm_gambeson44_pl|긴 쇠미늘 갑옷
-itm_gambeson45|긴 쇠미늘 갑옷
-itm_gambeson45_pl|긴 쇠미늘 갑옷
-itm_gambeson46|긴 쇠미늘 갑옷
-itm_gambeson46_pl|긴 쇠미늘 갑옷
-itm_gambeson47|긴 쇠미늘 갑옷
-itm_gambeson47_pl|긴 쇠미늘 갑옷
-itm_gambeson48|긴 쇠미늘 갑옷
-itm_gambeson48_pl|긴 쇠미늘 갑옷
-itm_mail_shirt|반팔 사슬 상의
-itm_mail_shirt_pl|반팔 사슬 상의
-itm_mail_shirt_1|반팔 사슬 상의
-itm_mail_shirt_1_pl|반팔 사슬 상의
-itm_mail_shirt_2|반팔 사슬 상의
-itm_mail_shirt_2_pl|반팔 사슬 상의
-itm_mail_shirt_3|청색 강철 반팔 사슬 상의
-itm_mail_shirt_3_pl|청색 강철 반팔 사슬 상의
-itm_mail_shirt_6|모피 달린 반팔 사슬 상의
-itm_mail_shirt_6_pl|모피 달린 반팔 사슬 상의
-itm_mail_shirt_7|모피 달린 반팔 사슬 상의
-itm_mail_shirt_7_pl|모피 달린 반팔 사슬 상의
-itm_mail_shirt_8|모피 달린 반팔 사슬 상의
-itm_mail_shirt_8_pl|모피 달린 반팔 사슬 상의
-itm_mail_shirt_9|모피 달린 반팔 사슬 상의
-itm_mail_shirt_9_pl|모피 달린 반팔 사슬 상의
-itm_mail_shirt_10|청색 강철 반팔 사슬 상의
-itm_mail_shirt_10_pl|청색 강철 반팔 사슬 상의
-itm_mail_shirt_11|흐링세르크
-itm_mail_shirt_11_pl|흐링세르크
-itm_mail_shirt_11_2|흐링세르크
-itm_mail_shirt_11_2_pl|흐링세르크
-itm_mail_shirt_11_3|흐링세르크
-itm_mail_shirt_11_3_pl|흐링세르크
-itm_mail_shirt_12|청색 망토 달린 강철 사슬 갑옷
-itm_mail_shirt_12_pl|청색 망토 달린 강철 사슬 갑옷
-itm_mail_shirt_13|청색 망토 달린 강철 사슬 갑옷
-itm_mail_shirt_13_pl|청색 망토 달린 강철 사슬 갑옷
-itm_mail_shirt_4|색슨 반팔 사슬 상의
-itm_mail_shirt_4_pl|색슨 반팔 사슬 상의
-itm_mail_shirt_5|색슨 반팔 사슬 상의
-itm_mail_shirt_5_pl|색슨 반팔 사슬 상의
-itm_mail_shirt_5_1|색슨 반팔 사슬 상의
-itm_mail_shirt_5_1_pl|색슨 반팔 사슬 상의
-itm_mail_shirt_5_2|색슨 반팔 사슬 상의
-itm_mail_shirt_5_2_pl|색슨 반팔 사슬 상의
-itm_mail_shirt_12_1|게일 반팔 사슬 상의
-itm_mail_shirt_12_1_pl|게일 반팔 사슬 상의
-itm_mail_shirt_12_2|게일 반팔 사슬 상의
-itm_mail_shirt_12_2_pl|게일 반팔 사슬 상의
-itm_mail_shirt_12_3|게일 반팔 사슬 상의
-itm_mail_shirt_12_3_pl|게일 반팔 사슬 상의
-itm_mail_shirt_12_4|게일 반팔 사슬 상의
-itm_mail_shirt_12_4_pl|게일 반팔 사슬 상의
-itm_mail_shirt_13_1|게일 반팔 사슬 상의
-itm_mail_shirt_13_1_pl|게일 반팔 사슬 상의
-itm_mail_shirt_13_2|게일 반팔 사슬 상의
-itm_mail_shirt_13_2_pl|게일 반팔 사슬 상의
-itm_mail_shirt_13_3|게일 반팔 사슬 상의
-itm_mail_shirt_13_3_pl|게일 반팔 사슬 상의
-itm_mail_shirt_13_4|게일 반팔 사슬 상의
-itm_mail_shirt_13_4_pl|게일 반팔 사슬 상의
-itm_byrnie|쇠사슬 갑옷
-itm_byrnie_pl|쇠사슬 갑옷
-itm_byrnie2|쇠사슬 갑옷
-itm_byrnie2_pl|쇠사슬 갑옷
-itm_byrnie3|쇠사슬 갑옷
-itm_byrnie3_pl|쇠사슬 갑옷
-itm_byrnie4|쇠사슬 갑옷
-itm_byrnie4_pl|쇠사슬 갑옷
-itm_byrnie5|청색 강철 쇠사슬 갑옷
-itm_byrnie5_pl|청색 강철 쇠사슬 갑옷
-itm_byrnie6|청색 강철 쇠사슬 갑옷
-itm_byrnie6_pl|청색 강철 쇠사슬 갑옷
-itm_byrnie7|쇠사슬 갑옷
-itm_byrnie7_pl|쇠사슬 갑옷
-itm_byrnie8|쇠사슬 갑옷
-itm_byrnie8_pl|쇠사슬 갑옷
-itm_byrnie9|모피 달린 쇠사슬 갑옷
-itm_byrnie9_pl|모피 달린 쇠사슬 갑옷
-itm_byrnie10|모피 달린 망토
-itm_byrnie10_pl|모피 달린 망토
-itm_byrnie11|청색 강철 쇠사슬 갑옷
-itm_byrnie11_pl|청색 강철 쇠사슬 갑옷
-itm_byrnie12|망토 달린 쇠사슬 갑옷
-itm_byrnie12_pl|망토 달린 쇠사슬 갑옷
-itm_byrnie13|망토 달린 쇠사슬 갑옷
-itm_byrnie13_pl|망토 달린 쇠사슬 갑옷
-itm_byrnie14|청색 망토 달린 강철 쇠사슬 갑옷
-itm_byrnie14_pl|청색 망토 달린 강철 쇠사슬 갑옷
-itm_byrnie15|사슬 갑옷
-itm_byrnie15_pl|사슬 갑옷
-itm_byrnie16|사슬 갑옷
-itm_byrnie16_pl|사슬 갑옷
-itm_byrnie17|사슬 갑옷
-itm_byrnie17_pl|사슬 갑옷
-itm_byrnie18|사슬 갑옷
-itm_byrnie18_pl|사슬 갑옷
-itm_byrnie19|사슬 갑옷
-itm_byrnie19_pl|사슬 갑옷
-itm_byrnie20|사슬 갑옷
-itm_byrnie20_pl|사슬 갑옷
-itm_byrnie21|사슬 갑옷
-itm_byrnie21_pl|사슬 갑옷
-itm_byrnie22|사슬 갑옷
-itm_byrnie22_pl|사슬 갑옷
-itm_byrnie23|사슬 갑옷
-itm_byrnie23_pl|사슬 갑옷
-itm_byrnie24|사슬 갑옷
-itm_byrnie24_pl|사슬 갑옷
-itm_byrnie25|사슬 갑옷
-itm_byrnie25_pl|사슬 갑옷
-itm_byrnie26|사슬 갑옷
-itm_byrnie26_pl|사슬 갑옷
-itm_byrnie27|사슬 갑옷
-itm_byrnie27_pl|사슬 갑옷
-itm_byrnie28|사슬 갑옷
-itm_byrnie28_pl|사슬 갑옷
-itm_byrnie29|사슬 갑옷
-itm_byrnie29_pl|사슬 갑옷
-itm_byrnie30|사슬 갑옷
-itm_byrnie30_pl|사슬 갑옷
-itm_byrnie31|망토 달린 사슬 갑옷
-itm_byrnie31_pl|망토 달린 사슬 갑옷
-itm_byrnie32|망토 달린 사슬 갑옷
-itm_byrnie32_pl|망토 달린 사슬 갑옷
-itm_byrnie33|망토 달린 사슬 갑옷
-itm_byrnie33_pl|망토 달린 사슬 갑옷
-itm_byrnie34|망토 달린 사슬 갑옷
-itm_byrnie34_pl|망토 달린 사슬 갑옷
-itm_byrnie35|반팔 사슬 상의
-itm_byrnie35_pl|반팔 사슬 상의
-itm_byrnie36|반팔 사슬 상의
-itm_byrnie36_pl|반팔 사슬 상의
-itm_byrnie37|반팔 사슬 상의
-itm_byrnie37_pl|반팔 사슬 상의
-itm_byrnie38|반팔 사슬 상의
-itm_byrnie38_pl|반팔 사슬 상의
-itm_orm_byrnie|욤의 반팔 사슬 상의
-itm_orm_byrnie_pl|욤의 반팔 사슬 상의
-itm_lamellar_armor|비늘 달린 사슬 갑옷
-itm_lamellar_armor_pl|비늘 달린 사슬 갑옷
-itm_burlap_tunic|버랍 튜닉
-itm_burlap_tunic_pl|버랍 튜닉
+itm_elite_veil_5|고급 베일
+itm_elite_veil_5_pl|고급 베일
+itm_elite_veil_6|고급 베일
+itm_elite_veil_6_pl|고급 베일
+itm_elite_veil_7|고급 베일
+itm_elite_veil_7_pl|고급 베일
+itm_elite_veil_8|고급 베일
+itm_elite_veil_8_pl|고급 베일
+itm_gambeson1|색슨 갬비슨
+itm_gambeson1_pl|색슨 갬비슨
+itm_gambeson2|색슨 갬비슨
+itm_gambeson2_pl|색슨 갬비슨
+itm_gambeson3|색슨 갬비슨
+itm_gambeson3_pl|색슨 갬비슨
+itm_gambeson4|노스 갬비슨
+itm_gambeson4_pl|노스 갬비슨
+itm_gambeson5|노스 갬비슨
+itm_gambeson5_pl|노스 갬비슨
+itm_gambeson6|색슨 갬비슨
+itm_gambeson6_pl|색슨 갬비슨
+itm_gambeson7|색슨 갬비슨
+itm_gambeson7_pl|색슨 갬비슨
+itm_gambeson8|노스 갬비슨
+itm_gambeson8_pl|노스 갬비슨
+itm_gambeson9|색슨 갬비슨
+itm_gambeson9_pl|색슨 갬비슨
+itm_gambeson10|앵글 갬비슨
+itm_gambeson10_pl|앵글 갬비슨
+itm_gambeson11|앵글 갬비슨
+itm_gambeson11_pl|앵글 갬비슨
+itm_gambeson12|브리튼 갬비슨
+itm_gambeson12_pl|브리튼 갬비슨
+itm_gambeson13|노스 갬비슨
+itm_gambeson13_pl|노스 갬비슨
+itm_gambeson14|노스 갬비슨
+itm_gambeson14_pl|노스 갬비슨
+itm_gambeson15|기다란 색슨 갬비슨
+itm_gambeson15_pl|기다란 색슨 갬비슨
+itm_gambeson16|브리튼 갬비슨
+itm_gambeson16_pl|브리튼 갬비슨
+itm_gambeson17|앵글 갬비슨
+itm_gambeson17_pl|앵글 갬비슨
+itm_gambeson18|기다란 색슨 갬비슨
+itm_gambeson18_pl|기다란 색슨 갬비슨
+itm_gambeson19|프리지아 갬비슨
+itm_gambeson19_pl|프리지아 갬비슨
+itm_gambeson20|프리지아 갬비슨
+itm_gambeson20_pl|프리지아 갬비슨
+itm_gambeson21|갬비슨
+itm_gambeson21_pl|갬비슨
+itm_gambeson22|갬비슨
+itm_gambeson22_pl|갬비슨
+itm_gambeson23|갬비슨
+itm_gambeson23_pl|갬비슨
+itm_gambeson24|갬비슨
+itm_gambeson24_pl|갬비슨
+itm_gambeson1gael|픽트 갬비슨
+itm_gambeson1gael_pl|픽트 갬비슨
+itm_gambeson2gael|픽트 갬비슨
+itm_gambeson2gael_pl|픽트 갬비슨
+itm_gambeson3gael|픽트 갬비슨
+itm_gambeson3gael_pl|픽트 갬비슨
+itm_gambeson4gael|픽트 갬비슨
+itm_gambeson4gael_pl|픽트 갬비슨
+itm_gambeson5gael|픽트 갬비슨
+itm_gambeson5gael_pl|픽트 갬비슨
+itm_gambeson6gael|픽트 갬비슨
+itm_gambeson6gael_pl|픽트 갬비슨
+itm_gambeson7gael|픽트 갬비슨
+itm_gambeson7gael_pl|픽트 갬비슨
+itm_gambeson8gael|픽트 갬비슨
+itm_gambeson8gael_pl|픽트 갬비슨
+itm_gambeson9gael|게일 갬비슨
+itm_gambeson9gael_pl|게일 갬비슨
+itm_gambeson10gael|게일 갬비슨
+itm_gambeson10gael_pl|게일 갬비슨
+itm_gambeson11gael|게일 갬비슨
+itm_gambeson11gael_pl|게일 갬비슨
+itm_gambeson12gael|게일 갬비슨
+itm_gambeson12gael_pl|게일 갬비슨
+itm_gambeson13gael|게일 갬비슨
+itm_gambeson13gael_pl|게일 갬비슨
+itm_gambeson14gael|게일 갬비슨
+itm_gambeson14gael_pl|게일 갬비슨
+itm_gambeson15gael|게일 갬비슨
+itm_gambeson15gael_pl|게일 갬비슨
+itm_gambeson16gael|게일 갬비슨
+itm_gambeson16gael_pl|게일 갬비슨
+itm_gambeson1cloak|픽트 갬비슨
+itm_gambeson1cloak_pl|픽트 갬비슨
+itm_gambeson2cloak|픽트 갬비슨
+itm_gambeson2cloak_pl|픽트 갬비슨
+itm_gambeson5cloak|게일 갬비슨
+itm_gambeson5cloak_pl|게일 갬비슨
+itm_gambeson6cloak|게일 갬비슨
+itm_gambeson6cloak_pl|게일 갬비슨
+itm_gambeson3cloak|프리지아 갬비슨
+itm_gambeson3cloak_pl|프리지아 갬비슨
+itm_gambeson4cloak|프리지아 갬비슨
+itm_gambeson4cloak_pl|프리지아 갬비슨
+itm_gambeson25|기다란 노스 갬비슨
+itm_gambeson25_pl|기다란 노스 갬비슨
+itm_gambeson26|기다란 앵글 갬비슨
+itm_gambeson26_pl|기다란 앵글 갬비슨
+itm_gambeson27|기다란 노스 갬비슨
+itm_gambeson27_pl|기다란 노스 갬비슨
+itm_gambeson28|앵글 갬비슨
+itm_gambeson28_pl|앵글 갬비슨
+itm_gambeson29|기다란 노스 갬비슨
+itm_gambeson29_pl|기다란 노스 갬비슨
+itm_gambeson30|기다란 갬비슨
+itm_gambeson30_pl|기다란 갬비슨
+itm_gambeson31|기다란 갬비슨
+itm_gambeson31_pl|기다란 갬비슨
+itm_gambeson32|기다란 색슨 갬비슨
+itm_gambeson32_pl|기다란 색슨 갬비슨
+itm_gambeson33|기다란 프리지아 갬비슨
+itm_gambeson33_pl|기다란 프리지아 갬비슨
+itm_gambeson34|기다란 앵글 갬비슨
+itm_gambeson34_pl|기다란 앵글 갬비슨
+itm_gambeson35|노스 갬비슨
+itm_gambeson35_pl|노스 갬비슨
+itm_gambeson36|기다란 브리튼 갬비슨
+itm_gambeson36_pl|기다란 브리튼 갬비슨
+itm_gambeson37|브리튼 갬비슨
+itm_gambeson37_pl|브리튼 갬비슨
+itm_gambeson38|기다란 브리튼 갬비슨
+itm_gambeson38_pl|기다란 브리튼 갬비슨
+itm_gambeson39|기다란 앵글 갬비슨
+itm_gambeson39_pl|기다란 앵글 갬비슨
+itm_gambeson40|기다란 브리튼 갬비슨
+itm_gambeson40_pl|기다란 브리튼 갬비슨
+itm_gambeson41|기다란 브리튼 갬비슨
+itm_gambeson41_pl|기다란 브리튼 갬비슨
+itm_gambeson42|브리튼 갬비슨
+itm_gambeson42_pl|브리튼 갬비슨
+itm_gambeson43|기다란 노스 갬비슨
+itm_gambeson43_pl|기다란 노스 갬비슨
+itm_gambeson44|기다란 프리지아 갬비슨
+itm_gambeson44_pl|기다란 프리지아 갬비슨
+itm_gambeson45|앵글 갬비슨
+itm_gambeson45_pl|앵글 갬비슨
+itm_gambeson46|기다란 프리지아 갬비슨
+itm_gambeson46_pl|기다란 프리지아 갬비슨
+itm_gambeson47|기다란 갬비슨
+itm_gambeson47_pl|기다란 갬비슨
+itm_gambeson48|기다란 갬비슨
+itm_gambeson48_pl|기다란 갬비슨
+itm_mail_shirt|프리지아 비르니
+itm_mail_shirt_pl|프리지아 비르니
+itm_mail_shirt_1|비르니
+itm_mail_shirt_1_pl|비르니
+itm_mail_shirt_2|픽트 로리카
+itm_mail_shirt_2_pl|픽트 로리카
+itm_mail_shirt_3|비르니
+itm_mail_shirt_3_pl|비르니
+itm_mail_shirt_6|픽트 로리카
+itm_mail_shirt_6_pl|픽트 로리카
+itm_mail_shirt_7|픽트 로리카
+itm_mail_shirt_7_pl|픽트 로리카
+itm_mail_shirt_8|모피 달린 픽트 로리카
+itm_mail_shirt_8_pl|모피 달린 픽트 로리카
+itm_mail_shirt_9|모피 달린 픽트 로리카
+itm_mail_shirt_9_pl|모피 달린 픽트 로리카
+itm_mail_shirt_10|브리튼 정예병 비르니
+itm_mail_shirt_10_pl|브리튼 정예병 비르니
+itm_mail_shirt_11|브리튼 정예병 비르니
+itm_mail_shirt_11_pl|브리튼 정예병 비르니
+itm_mail_shirt_11_2|프리지아 비르니
+itm_mail_shirt_11_2_pl|프리지아 비르니
+itm_mail_shirt_11_3|픽트 로리카
+itm_mail_shirt_11_3_pl|픽트 로리카
+itm_mail_shirt_12|비르니
+itm_mail_shirt_12_pl|비르니
+itm_mail_shirt_13|비르니
+itm_mail_shirt_13_pl|비르니
+itm_mail_shirt_4|프리지아 비르니
+itm_mail_shirt_4_pl|프리지아 비르니
+itm_mail_shirt_5|픽트 로리카
+itm_mail_shirt_5_pl|픽트 로리카
+itm_mail_shirt_5_1|브리튼 정예병 비르니
+itm_mail_shirt_5_1_pl|브리튼 정예병 비르니
+itm_mail_shirt_5_2|색슨 정예병 호버크
+itm_mail_shirt_5_2_pl|색슨 정예병 호버크
+itm_mail_shirt_12_1|호버크
+itm_mail_shirt_12_1_pl|호버크
+itm_mail_shirt_12_2|호버크
+itm_mail_shirt_12_2_pl|호버크
+itm_mail_shirt_12_3|호버크
+itm_mail_shirt_12_3_pl|호버크
+itm_mail_shirt_12_4|호버크
+itm_mail_shirt_12_4_pl|호버크
+itm_mail_shirt_13_1|색슨 정예병 호버크
+itm_mail_shirt_13_1_pl|색슨 정예병 호버크
+itm_mail_shirt_13_2|색슨 호버크
+itm_mail_shirt_13_2_pl|색슨 호버크
+itm_mail_shirt_13_3|색슨 호버크
+itm_mail_shirt_13_3_pl|색슨 호버크
+itm_mail_shirt_13_4|색슨 정예병 로리카
+itm_mail_shirt_13_4_pl|색슨 정예병 로리카
+itm_byrnie|호버크
+itm_byrnie_pl|호버크
+itm_byrnie2|프리지아 로리카
+itm_byrnie2_pl|프리지아 로리카
+itm_byrnie3|호버크
+itm_byrnie3_pl|호버크
+itm_byrnie4|브리튼 비르니
+itm_byrnie4_pl|브리튼 비르니
+itm_byrnie5|색슨 호버크
+itm_byrnie5_pl|색슨 호버크
+itm_byrnie6|브리튼 비르니
+itm_byrnie6_pl|브리튼 비르니
+itm_byrnie7|프리지아 정예병 로리카
+itm_byrnie7_pl|프리지아 정예병 로리카
+itm_byrnie8|프리지아 정예병 호버크
+itm_byrnie8_pl|프리지아 정예병 호버크
+itm_byrnie9|게일 로리카
+itm_byrnie9_pl|게일 로리카
+itm_byrnie10|게일 로리카
+itm_byrnie10_pl|게일 로리카
+itm_byrnie11|망토 달린 게일 로리카
+itm_byrnie11_pl|망토 달린 게일 로리카
+itm_byrnie12|망토 달린 게일 로리카
+itm_byrnie12_pl|망토 달린 게일 로리카
+itm_byrnie13|브리튼 비르니
+itm_byrnie13_pl|브리튼 비르니
+itm_byrnie14|브리튼 비르니
+itm_byrnie14_pl|브리튼 비르니
+itm_byrnie15|망토 달린 브리튼 비르니
+itm_byrnie15_pl|망토 달린 브리튼 비르니
+itm_byrnie16|노스 흐링세르크
+itm_byrnie16_pl|노스 흐링세르크
+itm_byrnie17|노스 흐링세르크
+itm_byrnie17_pl|노스 흐링세르크
+itm_byrnie18|노스 흐링세르크
+itm_byrnie18_pl|노스 흐링세르크
+itm_byrnie19|노스 흐링세르크
+itm_byrnie19_pl|노스 흐링세르크
+itm_byrnie20|프리지아 호버크
+itm_byrnie20_pl|프리지아 호버크
+itm_byrnie21|색슨 로리카
+itm_byrnie21_pl|색슨 로리카
+itm_byrnie22|색슨 호버크
+itm_byrnie22_pl|색슨 호버크
+itm_byrnie23|앵글 호버크
+itm_byrnie23_pl|앵글 호버크
+itm_byrnie24|앵글 호버크
+itm_byrnie24_pl|앵글 호버크
+itm_byrnie25|앵글 호버크
+itm_byrnie25_pl|앵글 호버크
+itm_byrnie26|앵글 호버크
+itm_byrnie26_pl|앵글 호버크
+itm_byrnie27|망토 달린 앵글 호버크
+itm_byrnie27_pl|망토 달린 앵글 호버크
+itm_byrnie28|가죽 씌운 앵글 호버크
+itm_byrnie28_pl|가죽 씌운 앵글 호버크
+itm_byrnie29|망토 달린 앵글 호버크
+itm_byrnie29_pl|망토 달린 앵글 호버크
+itm_byrnie30|가죽 덮힌 앵글 호버크
+itm_byrnie30_pl|가죽 덮힌 앵글 호버크
+itm_byrnie31|망토 달린 노스 흐링세르크
+itm_byrnie31_pl|망토 달린 노스 흐링세르크
+itm_byrnie32|노스 흐링세르크
+itm_byrnie32_pl|노스 흐링세르크
+itm_byrnie33|가죽 씌운 노스 흐링세르크
+itm_byrnie33_pl|가죽 씌운 노스 흐링세르크
+itm_byrnie34|가죽 씌운 노스 흐링세르크
+itm_byrnie34_pl|가죽 씌운 노스 흐링세르크
+itm_byrnie35|프리지아 호버크
+itm_byrnie35_pl|프리지아 호버크
+itm_byrnie36|게일 로리카
+itm_byrnie36_pl|게일 로리카
+itm_byrnie37|게일 로리카
+itm_byrnie37_pl|게일 로리카
+itm_byrnie38|게일 로리카
+itm_byrnie38_pl|게일 로리카
+itm_orm_byrnie|오름의 로리카
+itm_orm_byrnie_pl|오름의 로리카
+itm_lamellar_armor|비늘 달린 로리카
+itm_lamellar_armor_pl|비늘 달린 로리카
+itm_burlap_tunic|버랩 튜닉
+itm_burlap_tunic_pl|버랩 튜닉
 itm_hood_01|후드
 itm_hood_01_pl|후드
 itm_hood_02|후드
@@ -1200,66 +1200,66 @@ itm_phrygian16|장식 달린 프리지아 모자
 itm_phrygian16_pl|장식 달린 프리지아 모자
 itm_phrygian17|장식 달린 프리지아 모자
 itm_phrygian17_pl|장식 달린 프리지아 모자
-itm_briton_helm|단순한 투구
-itm_briton_helm_pl|단순한 투구
-itm_briton_helm2|단순한 투구
-itm_briton_helm2_pl|단순한 투구
-itm_briton_helm3|낡은 단순한 투구
-itm_briton_helm3_pl|낡은 단순한 투구
-itm_briton_helm4|낡은 단순한 투구
-itm_briton_helm4_pl|낡은 단순한 투구
-itm_briton_helm5|단순한 가죽 투구
-itm_briton_helm5_pl| 단순한 가죽 투구
-itm_briton_helm6|단순한 가죽 투구
-itm_briton_helm6_pl|단순한 가죽 투구
-itm_briton_helm7|낡은 가죽 투구
-itm_briton_helm7_pl|낡은 가죽 투구
-itm_briton_helm8|낡은 가죽 투구
-itm_briton_helm8_pl|낡은 가죽 투구
-itm_briton_helm9|완전한 투구
-itm_briton_helm9_pl|완전한 투구
-itm_briton_helm10|완전한 투구
-itm_briton_helm10_pl|완전한 투구
-itm_briton_helm11|낡은 완전한 투구
-itm_briton_helm11_pl|낡은 완전한 투구
-itm_briton_helm12|낡은 완전한 투구
-itm_briton_helm12_pl|낡은 완전한 투구
-itm_briton_helm13|완전한 투구
-itm_briton_helm13_pl|완전한 투구
-itm_briton_helm14|완전한 투구
-itm_briton_helm14_pl|완전한 투구
-itm_briton_helm15|완전한 투구
-itm_briton_helm15_pl|완전한 투구
-itm_briton_helm16|낡은 완전한 투구
-itm_briton_helm16_pl|낡은 완전한 투구
-itm_briton_helm17|낡은 완전한 투구
-itm_briton_helm17_pl|낡은 완전한 투구
-itm_briton_helm18|낡은 완전한 투구
-itm_briton_helm18_pl|낡은 완전한 투구
+itm_briton_helm|간이형 투구
+itm_briton_helm_pl|간이형 투구
+itm_briton_helm2|간이형 투구
+itm_briton_helm2_pl|간이형 투구
+itm_briton_helm3|구식 간이형 투구
+itm_briton_helm3_pl|구식 간이형 투구
+itm_briton_helm4|구식 간이형 투구
+itm_briton_helm4_pl|구식 간이형 투구
+itm_briton_helm5|간이형 가죽 투구
+itm_briton_helm5_pl|간이형 가죽 투구
+itm_briton_helm6|간이형 가죽 투구
+itm_briton_helm6_pl|간이형 가죽 투구
+itm_briton_helm7|구식 간이형 가죽 투구
+itm_briton_helm7_pl|구식 간이형 가죽 투구
+itm_briton_helm8|구식 간이형 가죽 투구
+itm_briton_helm8_pl|구식 간이형 가죽 투구
+itm_briton_helm9|완성형 투구
+itm_briton_helm9_pl|완성형 투구
+itm_briton_helm10|완성형 투구
+itm_briton_helm10_pl|완성형 투구
+itm_briton_helm11|구식 완성형 투구
+itm_briton_helm11_pl|구식 완성형 투구
+itm_briton_helm12|구식 완성형 투구
+itm_briton_helm12_pl|구식 완성형 투구
+itm_briton_helm13|완성형 투구
+itm_briton_helm13_pl|완성형 투구
+itm_briton_helm14|완성형 투구
+itm_briton_helm14_pl|완성형 투구
+itm_briton_helm15|완성형 투구
+itm_briton_helm15_pl|완성형 투구
+itm_briton_helm16|구식 완성형 투구
+itm_briton_helm16_pl|구식 완성형 투구
+itm_briton_helm17|구식 완성형 투구
+itm_briton_helm17_pl|구식 완성형 투구
+itm_briton_helm18|구식 완성형 투구
+itm_briton_helm18_pl|구식 완성형 투구
 itm_briton_helm19|코가림 투구
 itm_briton_helm19_pl|코가림 투구
 itm_briton_helm20|코가림 투구
 itm_briton_helm20_pl|코가림 투구
 itm_briton_helm21|코가림 투구
 itm_briton_helm21_pl|코가림 투구
-itm_briton_helm22|낡은 코가림 투구
-itm_briton_helm22_pl|낡은 코가림 투구
-itm_briton_helm23|낡은 코가림 투구
-itm_briton_helm23_pl|낡은 코가림 투구
-itm_briton_helm24|낡은 코가림 투구
-itm_briton_helm24_pl|낡은 코가림 투구
+itm_briton_helm22|구식 코가림 투구
+itm_briton_helm22_pl|구식 코가림 투구
+itm_briton_helm23|구식 코가림 투구
+itm_briton_helm23_pl|구식 코가림 투구
+itm_briton_helm24|구식 코가림 투구
+itm_briton_helm24_pl|구식 코가림 투구
 itm_briton_helm25|가죽 투구
 itm_briton_helm25_pl|가죽 투구
 itm_briton_helm26|가죽 투구
 itm_briton_helm26_pl|가죽 투구
 itm_briton_helm27|가죽 투구
 itm_briton_helm27_pl|가죽 투구
-itm_briton_helm28|낡은 가죽 투구
-itm_briton_helm28_pl|낡은 가죽 투구
-itm_briton_helm29|낡은 가죽 투구
-itm_briton_helm29_pl|낡은 가죽 투구
-itm_briton_helm30|낡은 가죽 투구
-itm_briton_helm30_pl|낡은 가죽 투구
+itm_briton_helm28|구식 가죽 투구
+itm_briton_helm28_pl|구식 가죽 투구
+itm_briton_helm29|구식 가죽 투구
+itm_briton_helm29_pl|구식 가죽 투구
+itm_briton_helm30|구식 가죽 투구
+itm_briton_helm30_pl|구식 가죽 투구
 itm_briton_helm31|사슬 투구
 itm_briton_helm31_pl|사슬 투구
 itm_briton_helm32|사슬 투구
@@ -1268,254 +1268,254 @@ itm_briton_helm33|사슬 투구
 itm_briton_helm33_pl|사슬 투구
 itm_briton_helm34|사슬 투구
 itm_briton_helm34_pl|사슬 투구
-itm_briton_helm35|완전한 투구
-itm_briton_helm35_pl|완전한 투구
-itm_briton_helm36|완전한 투구
-itm_briton_helm36_pl|완전한 투구
-itm_briton_helm37|완전한 투구
-itm_briton_helm37_pl|완전한 투구
-itm_briton_helm38|낡은 완전한 투구
-itm_briton_helm38_pl|낡은 완전한 투구
-itm_briton_helm39|낡은 완전한 투구
-itm_briton_helm39_pl|낡은 완전한 투구
-itm_briton_helm40|낡은 완전한 투구
-itm_briton_helm40_pl|낡은 완전한 투구
-itm_spangenhelm_1|단순한 투구
-itm_spangenhelm_1_pl|단순한 투구
-itm_spangenhelm_2|단순한 투구
-itm_spangenhelm_2_pl|단순한 투구
-itm_spangenhelm_3|낡은 단순한 투구
-itm_spangenhelm_3_pl|낡은 단순한 투구
-itm_spangenhelm_4|낡은 단순한 투구
-itm_spangenhelm_4_pl|낡은 단순한 투구
-itm_spangenhelm_5|단순한 사슬 투구
-itm_spangenhelm_5_pl|단순한 사슬 투구
-itm_spangenhelm_6|단순한 사슬 투구
-itm_spangenhelm_6_pl|단순한 사슬 투구
-itm_spangenhelm_7|낡은 단순한 가죽 투구
-itm_spangenhelm_7_pl|낡은 단순한 가죽 투구
-itm_spangenhelm_8|낡은 단순한 사슬 투구
-itm_spangenhelm_8_pl|낡은 단순한 사슬 투구
-itm_spangenhelm_9|완전한 투구
-itm_spangenhelm_9_pl|완전한 투구
-itm_spangenhelm_10|완전한 투구
-itm_spangenhelm_10_pl|완전한 투구
-itm_spangenhelm_11|낡은 완전한 투구
-itm_spangenhelm_11_pl|낡은 완전한 투구
-itm_spangenhelm_12|낡은 완전한 투구
-itm_spangenhelm_12_pl|낡은 완전한 투구
-itm_spangenhelm_13|완전한 투구
-itm_spangenhelm_13_pl|완전한 투구
-itm_spangenhelm_14|완전한 투구
-itm_spangenhelm_14_pl|완전한 투구
-itm_spangenhelm_15|완전한 투구
-itm_spangenhelm_15_pl|완전한 투구
-itm_spangenhelm_16|낡은 완전한 투구
-itm_spangenhelm_16_pl|낡은 완전한 투구
-itm_spangenhelm_17|낡은 완전한 투구
-itm_spangenhelm_17_pl|낡은 완전한 투구
-itm_spangenhelm_18|낡은 완전한 투구
-itm_spangenhelm_18_pl|낡은 완전한 투구
+itm_briton_helm35|완성형 투구
+itm_briton_helm35_pl|완성형 투구
+itm_briton_helm36|완성형 투구
+itm_briton_helm36_pl|완성형 투구
+itm_briton_helm37|완성형 투구
+itm_briton_helm37_pl|완성형 투구
+itm_briton_helm38|구식 완성형 투구
+itm_briton_helm38_pl|구식 완성형 투구
+itm_briton_helm39|구식 완성형 투구
+itm_briton_helm39_pl|구식 완성형 투구
+itm_briton_helm40|구식 완성형 투구
+itm_briton_helm40_pl|구식 완성형 투구
+itm_spangenhelm_1|간이형 투구
+itm_spangenhelm_1_pl|간이형 투구
+itm_spangenhelm_2|간이형 투구
+itm_spangenhelm_2_pl|간이형 투구
+itm_spangenhelm_3|구식 간이형 투구
+itm_spangenhelm_3_pl|구식 간이형 투구
+itm_spangenhelm_4|구식 간이형 투구
+itm_spangenhelm_4_pl|구식 간이형 투구
+itm_spangenhelm_5|간이형 사슬 투구
+itm_spangenhelm_5_pl|간이형 사슬 투구
+itm_spangenhelm_6|간이형 사슬 투구
+itm_spangenhelm_6_pl|간이형 사슬 투구
+itm_spangenhelm_7|구식 간이형 가죽 투구
+itm_spangenhelm_7_pl|구식 간이형 가죽 투구
+itm_spangenhelm_8|구식 앵글로 색슨 투구
+itm_spangenhelm_8_pl|구식 앵글로 색슨 투구
+itm_spangenhelm_9|완성형 투구
+itm_spangenhelm_9_pl|완성형 투구
+itm_spangenhelm_10|완성형 투구
+itm_spangenhelm_10_pl|완성형 투구
+itm_spangenhelm_11|구식 앵글로 색슨 투구
+itm_spangenhelm_11_pl|구식 앵글로 색슨 투구
+itm_spangenhelm_12|구식 앵글로 색슨 투구
+itm_spangenhelm_12_pl|구식 앵글로 색슨 투구
+itm_spangenhelm_13|완성형 투구
+itm_spangenhelm_13_pl|완성형 투구
+itm_spangenhelm_14|완성형 투구
+itm_spangenhelm_14_pl|완성형 투구
+itm_spangenhelm_15|완성형 투구
+itm_spangenhelm_15_pl|완성형 투구
+itm_spangenhelm_16|앵글로 색슨 정예병 투구
+itm_spangenhelm_16_pl|앵글로 색슨 정예병 투구
+itm_spangenhelm_17|앵글로 색슨 정예병 투구
+itm_spangenhelm_17_pl|앵글로 색슨 정예병 투구
+itm_spangenhelm_18|색슨 투구
+itm_spangenhelm_18_pl|색슨 투구
 itm_spangenhelm_19|코가림 투구
 itm_spangenhelm_19_pl|코가림 투구
 itm_spangenhelm_20|코가림 투구
 itm_spangenhelm_20_pl|코가림 투구
 itm_spangenhelm_21|코가림 투구
 itm_spangenhelm_21_pl|코가림 투구
-itm_spangenhelm_22|낡은 코가림 투구
-itm_spangenhelm_22_pl|낡은 코가림 투구
-itm_spangenhelm_23|낡은 코가림 투구
-itm_spangenhelm_23_pl|낡은 코가림 투구
-itm_spangenhelm_24|낡은 코가림 투구
-itm_spangenhelm_24_pl|낡은 코가림 투구
+itm_spangenhelm_22|코가림 투구
+itm_spangenhelm_22_pl|코가림 투구
+itm_spangenhelm_23|구식 투구
+itm_spangenhelm_23_pl|구식 투구
+itm_spangenhelm_24|구식 코가림 투구
+itm_spangenhelm_24_pl|구식 코가림 투구
 itm_spangenhelm_25|가죽 투구
 itm_spangenhelm_25_pl|가죽 투구
 itm_spangenhelm_26|가죽 투구
 itm_spangenhelm_26_pl|가죽 투구
 itm_spangenhelm_27|가죽 투구
 itm_spangenhelm_27_pl|가죽 투구
-itm_spangenhelm_28|낡은 가죽 투구
-itm_spangenhelm_28_pl|낡은 가죽 투구
-itm_spangenhelm_29|낡은 가죽 투구
-itm_spangenhelm_29_pl|낡은 가죽 투구
-itm_spangenhelm_30|낡은 가죽 투구
-itm_spangenhelm_30_pl|낡은 가죽 투구
+itm_spangenhelm_28|구식 가죽 투구
+itm_spangenhelm_28_pl|구식 가죽 투구
+itm_spangenhelm_29|구식 가죽 투구
+itm_spangenhelm_29_pl|구식 가죽 투구
+itm_spangenhelm_30|색슨 가죽 투구
+itm_spangenhelm_30_pl|색슨 가죽 투구
 itm_spangenhelm_31|사슬 투구
 itm_spangenhelm_31_pl|사슬 투구
 itm_spangenhelm_32|사슬 투구
 itm_spangenhelm_32_pl|사슬 투구
-itm_spangenhelm_33|낡은 사슬 투구
-itm_spangenhelm_33_pl|낡은 사슬 투구
-itm_spangenhelm_34|낡은 사슬 투구
-itm_spangenhelm_34_pl|낡은 사슬 투구
-itm_spangenhelm_35|완전한 투구
-itm_spangenhelm_35_pl|완전한 투구
-itm_spangenhelm_36|완전한 투구
-itm_spangenhelm_36_pl|완전한 투구
-itm_spangenhelm_37|완전한 투구
-itm_spangenhelm_37_pl|완전한 투구
-itm_spangenhelm_38|낡은 완전한 투구
-itm_spangenhelm_38_pl|낡은 완전한 투구
-itm_spangenhelm_39|낡은 완전한 투구
-itm_spangenhelm_39_pl|낡은 완전한 투구
-itm_spangenhelm_40|낡은 완전한 투구
-itm_spangenhelm_40_pl|낡은 완전한 투구
-itm_vikingold_helm|낡은 노르드 투구
-itm_vikingold_helm_pl|낡은 노르드 투구
-itm_vikingold_helm2|낡은 노르드 투구
-itm_vikingold_helm2_pl|낡은 노르드 투구
-itm_vikingold_helm3|낡은 노르드 코가림 투구
-itm_vikingold_helm3_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm4|낡은 노르드 코가림 투구
-itm_vikingold_helm4_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm5|낡은 노르드 코가림 투구
-itm_vikingold_helm5_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm6|낡은 노르드 코가림 투구
-itm_vikingold_helm6_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm7|낡은 투구
-itm_vikingold_helm7_pl|낡은 투구
-itm_vikingold_helm8|낡은 투구
-itm_vikingold_helm8_pl|낡은 투구
-itm_vikingold_helm9|낡은 노르드 코가림 투구
-itm_vikingold_helm9_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm10|낡은 노르드 코가림 투구
-itm_vikingold_helm10_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm11|낡은 노르드 코가림 투구
-itm_vikingold_helm11_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm12|낡은 노르드 코가림 투구
-itm_vikingold_helm12_pl|낡은 노르드 코가림 투구
-itm_vikingold_helm13|낡은 노르드 사슬 투구
-itm_vikingold_helm13_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm14|낡은 노르드 사슬 투구
-itm_vikingold_helm14_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm15|낡은 노르드 사슬 투구
-itm_vikingold_helm15_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm16|낡은 노르드 사슬 투구
-itm_vikingold_helm16_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm17|낡은 노르드 사슬 투구
-itm_vikingold_helm17_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm18|낡은 노르드 사슬 투구
-itm_vikingold_helm18_pl|낡은 노르드 사슬 투구
-itm_vikingold_helm19|낡은 완전한 노르드 투구
-itm_vikingold_helm19_pl|낡은 완전한 노르드 투구
-itm_vikingold_helm20|낡은 완전한 노르드 투구
-itm_vikingold_helm20_pl|낡은 완전한 노르드 투구
-itm_vikingold_helm21|낡은 완전한 노르드 투구
-itm_vikingold_helm21_pl|낡은 완전한 노르드 투구
-itm_vikingold_helm22|낡은 완전한 노르드 투구
-itm_vikingold_helm22_pl|낡은 완전한 노르드 투구
-itm_vikingold_helm23|낡은 완전한 노르드 투구
-itm_vikingold_helm23_pl|낡은 완전한 노르드 투구
-itm_vikingold_helm24|낡은 완전한 노르드 투구
-itm_vikingold_helm24_pl|낡은 완전한 노르드 투구
-itm_viking_helm|단순한 노르드 투구
-itm_viking_helm_pl|단순한 노르드 투구
-itm_viking_helm2|단순한 노르드 투구
-itm_viking_helm2_pl|단순한 노르드 투구
-itm_viking_helm3|노르드 코가림 투구
-itm_viking_helm3_pl|노르드 코가림 투구
-itm_viking_helm4|노르드 코가림 투구
-itm_viking_helm4_pl|노르드 코가림 투구
-itm_viking_helm5|노르드 코가림 투구
-itm_viking_helm5_pl|노르드 코가림 투구
-itm_viking_helm6|노르드 코가림 투구
-itm_viking_helm6_pl|노르드 코가림 투구
-itm_viking_helm7|노르드 투구
-itm_viking_helm7_pl|노르드 투구
-itm_viking_helm8|노르드 투구
-itm_viking_helm8_pl|노르드 투구
-itm_viking_helm9|노르드 코가림 투구
-itm_viking_helm9_pl|노르드 코가림 투구
-itm_viking_helm10|노르드 코가림 투구
-itm_viking_helm10_pl|노르드 코가림 투구
-itm_viking_helm11|노르드 코가림 투구
-itm_viking_helm11_pl|노르드 코가림 투구
-itm_viking_helm12|노르드 코가림 투구
-itm_viking_helm12_pl|노르드 코가림 투구
-itm_viking_helm13|노르드 사슬 투구
-itm_viking_helm13_pl|노르드 사슬 투구
-itm_viking_helm14|노르드 사슬 투구
-itm_viking_helm14_pl|노르드 사슬 투구
-itm_viking_helm15|노르드 코가림 투구
-itm_viking_helm15_pl|노르드 코가림 투구
-itm_viking_helm16|노르드 코가림 투구
-itm_viking_helm16_pl|노르드 코가림 투구
-itm_viking_helm17|노르드 코가림 투구
-itm_viking_helm17_pl|노르드 코가림 투구
-itm_viking_helm18|노르드 코가림 투구
-itm_viking_helm18_pl|노르드 코가림 투구
-itm_viking_helm19|완전한 노르드 투구
-itm_viking_helm19_pl|완전한 노르드 투구
-itm_viking_helm20|완전한 노르드 투구
-itm_viking_helm20_pl|완전한 노르드 투구
-itm_viking_helm21|완전한 노르드 투구
-itm_viking_helm21_pl|완전한 노르드 투구
-itm_viking_helm22|완전한 노르드 투구
-itm_viking_helm22_pl|완전한 노르드 투구
-itm_viking_helm23|완전한 노르드 투구
-itm_viking_helm23_pl|완전한 노르드 투구
-itm_viking_helm24|완전한 노르드 투구
-itm_viking_helm24_pl|완전한 노르드 투구
-itm_vikingold_elitehelm1|낡은 노르드 투구
-itm_vikingold_elitehelm1_pl|낡은 노르드 투구
-itm_vikingold_elitehelm2|낡은 노르드 투구
-itm_vikingold_elitehelm2_pl|낡은 노르드 투구
-itm_vikingold_elitehelm3|낡은 노르드 투구
-itm_vikingold_elitehelm3_pl|낡은 노르드 투구
-itm_vikingold_elitehelm4|낡은 노르드 가죽 투구
-itm_vikingold_elitehelm4_pl|낡은 노르드 가죽 투구
-itm_vikingold_elitehelm5|낡은 노르드 가죽 투구
-itm_vikingold_elitehelm5_pl|낡은 노르드 가죽 투구
-itm_vikingold_elitehelm6|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm6_pl|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm7|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm7_pl|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm8|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm8_pl|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm9|낡은 노르드 사슬 투구
-itm_vikingold_elitehelm9_pl|낡은 노르드 사슬 투구
-itm_viking_elitehelm1|노르드 투구
-itm_viking_elitehelm1_pl|노르드 투구
-itm_viking_elitehelm2|노르드 투구
-itm_viking_elitehelm2_pl|노르드 투구
-itm_viking_elitehelm3|노르드 가죽 투구
-itm_viking_elitehelm3_pl|노르드 가죽 투구
-itm_viking_elitehelm4|노르드 투구
-itm_viking_elitehelm4_pl|노르드 투구
-itm_viking_elitehelm5|노르드 가죽 투구
-itm_viking_elitehelm5_pl|노르드 가죽 투구
-itm_viking_elitehelm6|노르드 가죽 투구
-itm_viking_elitehelm6_pl|노르드 가죽 투구
-itm_viking_elitehelm7|노르드 사슬 투구
-itm_viking_elitehelm7_pl|노르드 사슬 투구
-itm_viking_elitehelm8|노르드 사슬 투구
-itm_viking_elitehelm8_pl|노르드 사슬 투구
-itm_viking_elitehelm9|노르드 사슬 투구
-itm_viking_elitehelm9_pl|노르드 사슬 투구
-itm_viking_noblehelm1|노르드 정예병의 투구
-itm_viking_noblehelm1_pl|노르드 정예병의 투구
-itm_viking_noblehelm2|노르드 정예병의 가죽 투구
-itm_viking_noblehelm2_pl|노르드 정예병의 가죽 투구
-itm_viking_noblehelm3|노르드 정예병의 사슬 투구
-itm_viking_noblehelm3_pl|노르드 정예병의 사슬 투구
-itm_angle_helmet1|낡은 가죽 투구
-itm_angle_helmet1_pl|낡은 가죽 투구
+itm_spangenhelm_33|구식 사슬 투구
+itm_spangenhelm_33_pl|구식 사슬 투구
+itm_spangenhelm_34|구식 사슬 투구
+itm_spangenhelm_34_pl|구식 사슬 투구
+itm_spangenhelm_35|완성형 투구
+itm_spangenhelm_35_pl|완성형 투구
+itm_spangenhelm_36|완성형 투구
+itm_spangenhelm_36_pl|완성형 투구
+itm_spangenhelm_37|완성형 투구
+itm_spangenhelm_37_pl|완성형 투구
+itm_spangenhelm_38|구식 완성형 투구
+itm_spangenhelm_38_pl|구식 완성형 투구
+itm_spangenhelm_39|앵글로 색슨 귀족 투구
+itm_spangenhelm_39_pl|앵글로 색슨 귀족 투구
+itm_spangenhelm_40|앵글로 색슨 귀족 투구
+itm_spangenhelm_40_pl|앵글로 색슨 귀족 투구
+itm_vikingold_helm|구식 노스 투구
+itm_vikingold_helm_pl|구식 노스 투구
+itm_vikingold_helm2|구식 노스 투구
+itm_vikingold_helm2_pl|구식 노스 투구
+itm_vikingold_helm3|구식 노스 코가림 투구
+itm_vikingold_helm3_pl|구식 노스 코가림 투구
+itm_vikingold_helm4|구식 노스 코가림 투구
+itm_vikingold_helm4_pl|구식 노스 코가림 투구
+itm_vikingold_helm5|구식 노스 코가림 투구
+itm_vikingold_helm5_pl|구식 노스 코가림 투구
+itm_vikingold_helm6|구식 노스 코가림 투구
+itm_vikingold_helm6_pl|구식 노스 코가림 투구
+itm_vikingold_helm7|구식 투구
+itm_vikingold_helm7_pl|구식 투구
+itm_vikingold_helm8|구식 투구
+itm_vikingold_helm8_pl|구식 투구
+itm_vikingold_helm9|구식 노스 코가림 투구
+itm_vikingold_helm9_pl|구식 노스 코가림 투구
+itm_vikingold_helm10|구식 노스 코가림 투구
+itm_vikingold_helm10_pl|구식 노스 코가림 투구
+itm_vikingold_helm11|구식 노스 코가림 투구
+itm_vikingold_helm11_pl|구식 노스 코가림 투구
+itm_vikingold_helm12|구식 노스 코가림 투구
+itm_vikingold_helm12_pl|구식 노스 코가림 투구
+itm_vikingold_helm13|구식 노스 사슬 투구
+itm_vikingold_helm13_pl|구식 노스 사슬 투구
+itm_vikingold_helm14|구식 노스 사슬 투구
+itm_vikingold_helm14_pl|구식 노스 사슬 투구
+itm_vikingold_helm15|구식 노스 사슬 투구
+itm_vikingold_helm15_pl|구식 노스 사슬 투구
+itm_vikingold_helm16|구식 노스 사슬 투구
+itm_vikingold_helm16_pl|구식 노스 사슬 투구
+itm_vikingold_helm17|구식 노스 사슬 투구
+itm_vikingold_helm17_pl|구식 노스 사슬 투구
+itm_vikingold_helm18|구식 노스 사슬 투구
+itm_vikingold_helm18_pl|구식 노스 사슬 투구
+itm_vikingold_helm19|구식 노스 완성형 투구
+itm_vikingold_helm19_pl|구식 노스 완성형 투구
+itm_vikingold_helm20|구식 노스 완성형 투구
+itm_vikingold_helm20_pl|구식 노스 완성형 투구
+itm_vikingold_helm21|구식 노스 완성형 투구
+itm_vikingold_helm21_pl|구식 노스 완성형 투구
+itm_vikingold_helm22|구식 노스 완성형 투구
+itm_vikingold_helm22_pl|구식 노스 완성형 투구
+itm_vikingold_helm23|구식 노스 완성형 투구
+itm_vikingold_helm23_pl|구식 노스 완성형 투구
+itm_vikingold_helm24|구식 노스 완성형 투구
+itm_vikingold_helm24_pl|구식 노스 완성형 투구
+itm_viking_helm|간이형 노스 투구
+itm_viking_helm_pl|간이형 노스 투구
+itm_viking_helm2|간이형 노스 투구
+itm_viking_helm2_pl|간이형 노스 투구
+itm_viking_helm3|노스 코가림 투구
+itm_viking_helm3_pl|노스 코가림 투구
+itm_viking_helm4|노스 코가림 투구
+itm_viking_helm4_pl|노스 코가림 투구
+itm_viking_helm5|노스 코가림 투구
+itm_viking_helm5_pl|노스 코가림 투구
+itm_viking_helm6|노스 코가림 투구
+itm_viking_helm6_pl|노스 코가림 투구
+itm_viking_helm7|노스 투구
+itm_viking_helm7_pl|노스 투구
+itm_viking_helm8|노스 투구
+itm_viking_helm8_pl|노스 투구
+itm_viking_helm9|노스 코가림 투구
+itm_viking_helm9_pl|노스 코가림 투구
+itm_viking_helm10|노스 코가림 투구
+itm_viking_helm10_pl|노스 코가림 투구
+itm_viking_helm11|노스 코가림 투구
+itm_viking_helm11_pl|노스 코가림 투구
+itm_viking_helm12|노스 코가림 투구
+itm_viking_helm12_pl|노스 코가림 투구
+itm_viking_helm13|노스 사슬 투구
+itm_viking_helm13_pl|노스 사슬 투구
+itm_viking_helm14|노스 사슬 투구
+itm_viking_helm14_pl|노스 사슬 투구
+itm_viking_helm15|노스 코가림 투구
+itm_viking_helm15_pl|노스 코가림 투구
+itm_viking_helm16|노스 코가림 투구
+itm_viking_helm16_pl|노스 코가림 투구
+itm_viking_helm17|노스 코가림 투구
+itm_viking_helm17_pl|노스 코가림 투구
+itm_viking_helm18|노스 코가림 투구
+itm_viking_helm18_pl|노스 코가림 투구
+itm_viking_helm19|노스 완성형 투구
+itm_viking_helm19_pl|노스 완성형 투구
+itm_viking_helm20|노스 완성형 투구
+itm_viking_helm20_pl|노스 완성형 투구
+itm_viking_helm21|노스 완성형 투구
+itm_viking_helm21_pl|노스 완성형 투구
+itm_viking_helm22|노스 완성형 투구
+itm_viking_helm22_pl|노스 완성형 투구
+itm_viking_helm23|노스 완성형 투구
+itm_viking_helm23_pl|노스 완성형 투구
+itm_viking_helm24|노스 완성형 투구
+itm_viking_helm24_pl|노스 완성형 투구
+itm_vikingold_elitehelm1|구식 노스 투구
+itm_vikingold_elitehelm1_pl|구식 노스 투구
+itm_vikingold_elitehelm2|구식 노스 투구
+itm_vikingold_elitehelm2_pl|구식 노스 투구
+itm_vikingold_elitehelm3|구식 노스 투구
+itm_vikingold_elitehelm3_pl|구식 노스 투구
+itm_vikingold_elitehelm4|구식 노스 가죽 투구
+itm_vikingold_elitehelm4_pl|구식 노스 가죽 투구
+itm_vikingold_elitehelm5|구식 노스 가죽 투구
+itm_vikingold_elitehelm5_pl|구식 노스 가죽 투구
+itm_vikingold_elitehelm6|구식 노스 사슬 투구
+itm_vikingold_elitehelm6_pl|구식 노스 사슬 투구
+itm_vikingold_elitehelm7|구식 노스 사슬 투구
+itm_vikingold_elitehelm7_pl|구식 노스 사슬 투구
+itm_vikingold_elitehelm8|노스 귀족 투구
+itm_vikingold_elitehelm8_pl|노스 귀족 투구
+itm_vikingold_elitehelm9|노스 귀족 투구
+itm_vikingold_elitehelm9_pl|노스 귀족 투구
+itm_viking_elitehelm1|노스 투구
+itm_viking_elitehelm1_pl|노스 투구
+itm_viking_elitehelm2|노스 투구
+itm_viking_elitehelm2_pl|노스 투구
+itm_viking_elitehelm3|노스 가죽 투구
+itm_viking_elitehelm3_pl|노스 가죽 투구
+itm_viking_elitehelm4|노스 투구
+itm_viking_elitehelm4_pl|노스 투구
+itm_viking_elitehelm5|노스 가죽 투구
+itm_viking_elitehelm5_pl|노스 가죽 투구
+itm_viking_elitehelm6|노스 가죽 투구
+itm_viking_elitehelm6_pl|노스 가죽 투구
+itm_viking_elitehelm7|노스 사슬 투구
+itm_viking_elitehelm7_pl|노스 사슬 투구
+itm_viking_elitehelm8|노스 사슬 투구
+itm_viking_elitehelm8_pl|노스 사슬 투구
+itm_viking_elitehelm9|노스 사슬 투구
+itm_viking_elitehelm9_pl|노스 사슬 투구
+itm_viking_noblehelm1|노스 정예병 투구
+itm_viking_noblehelm1_pl|노스 정예병 투구
+itm_viking_noblehelm2|노스 정예병 가죽 투구
+itm_viking_noblehelm2_pl|노스 정예병 가죽 투구
+itm_viking_noblehelm3|노스 정예병 사슬 투구
+itm_viking_noblehelm3_pl|노스 정예병 사슬 투구
+itm_angle_helmet1|귀족 투구
+itm_angle_helmet1_pl|귀족 투구
 itm_angle_helmet2|가죽 투구
 itm_angle_helmet2_pl|가죽 투구
-itm_angle_helmet3|낡은 사슬 투구
-itm_angle_helmet3_pl|낡은 사슬 투구
+itm_angle_helmet3|사슬 투구
+itm_angle_helmet3_pl|사슬 투구
 itm_angle_helmet4|사슬 투구
 itm_angle_helmet4_pl|사슬 투구
-itm_angle_helmet5|낡은 완전한 투구
-itm_angle_helmet5_pl|낡은 완전한 투구
-itm_angle_helmet6|완전한 투구
-itm_angle_helmet6_pl|완전한 투구
-itm_elf_helmet|엘프의 투구
-itm_elf_helmet_pl|엘프의 투구
-itm_noble_helm_smith|장식 달린 투구
-itm_noble_helm_smith_pl|장식 달린 투구
-itm_hersir_helm|헤르시어 투구
-itm_hersir_helm_pl|헤르시어 투구
+itm_angle_helmet5|구식 완성형 투구
+itm_angle_helmet5_pl|구식 완성형 투구
+itm_angle_helmet6|완성형 투구
+itm_angle_helmet6_pl|완성형 투구
+itm_elf_helmet|요정의 투구
+itm_elf_helmet_pl|요정의 투구
+itm_noble_helm_smith|귀족 투구
+itm_noble_helm_smith_pl|귀족 투구
+itm_hersir_helm|헤르시르 투구
+itm_hersir_helm_pl|헤르시르 투구
 itm_crown1|왕관
 itm_crown1_pl|왕관
 itm_sarranid_horseman_helmet|No head
@@ -1526,52 +1526,52 @@ itm_wooden_stick|나뭇가지
 itm_wooden_stick_pl|나뭇가지
 itm_club_hard|곤봉
 itm_club_hard_pl|곤봉
-itm_club_troll|트롤의 곤봉
-itm_club_troll_pl|트롤의 곤봉
-itm_knife|사냥용 칼
-itm_knife_pl|사냥용 칼
-itm_knife2|사냥용 칼
-itm_knife2_pl|사냥용 칼
-itm_knife3|사냥용 칼
-itm_knife3_pl|사냥용 칼
-itm_knife4|사냥용 칼
-itm_knife4_pl|사냥용 칼
-itm_knife5|사냥용 칼
-itm_knife5_pl|사냥용 칼
-itm_longseax1|색슨 장검
-itm_longseax1_pl|색슨 장검
-itm_longseax2|색슨 장검
-itm_longseax2_pl|색슨 장검
-itm_longseax3|색슨 장검
-itm_longseax3_pl|색슨 장검
-itm_longseax4|색슨 장검
-itm_longseax4_pl|색슨 장검
-itm_longseax5|색슨 장검
-itm_longseax5_pl|색슨 장검
-itm_longseax6|색슨 장검
-itm_longseax6_pl|색슨 장검
-itm_longseax7|색슨 장검
-itm_longseax7_pl|색슨 장검
-itm_longseax8|색슨 장검
-itm_longseax8_pl|색슨 장검
-itm_longseax9|색슨 장검
-itm_longseax9_pl|색슨 장검
-itm_longseax10|색슨 장검
-itm_longseax10_pl|색슨 장검
-itm_seax_1|색슨 검
-itm_seax_1_pl|색슨 검
-itm_seax_2|색슨 검
-itm_seax_2_pl|색슨 검
-itm_seax_3|색슨 검
-itm_seax_3_pl|색슨 검
-itm_seax_4|색슨 검
-itm_seax_4_pl|색슨 검
-itm_seax_5|색슨 검
-itm_seax_5_pl|색슨 검
-itm_ragnar_seax|라그나르의 색슨 검
-itm_ragnar_seax_pl|라그나르의 색슨 검
-itm_elf_seax|엘프의 색슨 검
-itm_elf_seax_pl|엘프의 색슨 검
+itm_club_troll|트롤의 도끼
+itm_club_troll_pl|트롤의 도끼
+itm_knife|수렵용 나이프
+itm_knife_pl|수렵용 나이프
+itm_knife2|수렵용 나이프
+itm_knife2_pl|수렵용 나이프
+itm_knife3|수렵용 나이프
+itm_knife3_pl|수렵용 나이프
+itm_knife4|수렵용 나이프
+itm_knife4_pl|수렵용 나이프
+itm_knife5|수렵용 나이프
+itm_knife5_pl|수렵용 나이프
+itm_longseax1|브로드색스
+itm_longseax1_pl|브로드색스
+itm_longseax2|브로드색스
+itm_longseax2_pl|브로드색스
+itm_longseax3|브로드색스
+itm_longseax3_pl|브로드색스
+itm_longseax4|브로드색스
+itm_longseax4_pl|브로드색스
+itm_longseax5|브로드색스
+itm_longseax5_pl|브로드색스
+itm_longseax6|랑색스
+itm_longseax6_pl|랑색스
+itm_longseax7|랑색스
+itm_longseax7_pl|랑색스
+itm_longseax8|랑색스
+itm_longseax8_pl|랑색스
+itm_longseax9|랑색스
+itm_longseax9_pl|랑색스
+itm_longseax10|랑색스
+itm_longseax10_pl|랑색스
+itm_seax_1|색스
+itm_seax_1_pl|색스
+itm_seax_2|색스
+itm_seax_2_pl|색스
+itm_seax_3|색스
+itm_seax_3_pl|색스
+itm_seax_4|색스
+itm_seax_4_pl|색스
+itm_seax_5|색스
+itm_seax_5_pl|색스
+itm_ragnar_seax|라그나르의 랑색스
+itm_ragnar_seax_pl|라그나르의 랑색스
+itm_elf_seax|요정의 랑색스
+itm_elf_seax_pl|요정의 랑색스
 itm_spatha|검
 itm_spatha_pl|검
 itm_spatha_2|검
@@ -1596,82 +1596,82 @@ itm_sword_3|검
 itm_sword_3_pl|검
 itm_sword_4|검
 itm_sword_4_pl|검
-itm_sword_5|검
-itm_sword_5_pl|검
-itm_sword_6|검
-itm_sword_6_pl|검
-itm_sword_7|검
-itm_sword_7_pl|검
-itm_sword_8|검
-itm_sword_8_pl|검
-itm_new_sword1|검
-itm_new_sword1_pl|검
-itm_new_sword2|검
-itm_new_sword2_pl|검
-itm_new_sword3|검
-itm_new_sword3_pl|검
-itm_new_sword4|검
-itm_new_sword4_pl|검
-itm_new_sword5|검
-itm_new_sword5_pl|검
-itm_new_sword6|검
-itm_new_sword6_pl|검
+itm_sword_5|소검
+itm_sword_5_pl|소검
+itm_sword_6|소검
+itm_sword_6_pl|소검
+itm_sword_7|소검
+itm_sword_7_pl|소검
+itm_sword_8|소검
+itm_sword_8_pl|소검
+itm_new_sword1|소검
+itm_new_sword1_pl|소검
+itm_new_sword2|소검
+itm_new_sword2_pl|소검
+itm_new_sword3|소검
+itm_new_sword3_pl|소검
+itm_new_sword4|소검
+itm_new_sword4_pl|소검
+itm_new_sword5|소검
+itm_new_sword5_pl|소검
+itm_new_sword6|소검
+itm_new_sword6_pl|소검
 itm_noble_sword|고급 검
 itm_noble_sword_pl|고급 검
-itm_noble_sword_2|고급 검
-itm_noble_sword_2_pl|고급 검
-itm_noble_sword_3|고급 검
-itm_noble_sword_3_pl|고급 검
+itm_noble_sword_2|울프베르트 검
+itm_noble_sword_2_pl|울프베르트 검
+itm_noble_sword_3|모조 울프베르트
+itm_noble_sword_3_pl|모조 울프베르트
 itm_noble_sword_4|고급 검
 itm_noble_sword_4_pl|고급 검
-itm_noble_sword_5|고급 검
-itm_noble_sword_5_pl|고급 검
-itm_noble_sword_6|고급 검
-itm_noble_sword_6_pl|고급 검
-itm_old_swordv|브리타니아 검
-itm_old_swordv_pl|브리타니아 검
-itm_old_swordv2|브리타니아 검
-itm_old_swordv2_pl|브리타니아 검
-itm_old_swordv3|브리타니아 검
-itm_old_swordv3_pl|브리타니아 검
-itm_old_swordv4|브리타니아 검
-itm_old_swordv4_pl|브리타니아 검
-itm_old_swordv5|브리타니아 검
-itm_old_swordv5_pl|브리타니아 검
-itm_old_swordv6|브리타니아 검
-itm_old_swordv6_pl|브리타니아 검
-itm_old_swordv7|브리타니아 검
-itm_old_swordv7_pl|브리타니아 검
-itm_noble_sword_7|고급 브리타니아 검
-itm_noble_sword_7_pl|고급 브리타니아 검
-itm_noble_sword_8|고급 브리타니아 검
-itm_noble_sword_8_pl|고급 브리타니아 검
-itm_noble_sword_9|고급 브리타니아 검
-itm_noble_sword_9_pl|고급 브리타니아 검
-itm_noble_sword_10|고급 브리타니아 검
-itm_noble_sword_10_pl|고급 브리타니아 검
-itm_noble_sword_11|고급 브리타니아 검
-itm_noble_sword_11_pl|고급 브리타니아 검
-itm_noble_sword_12|고급 브리타니아 검
-itm_noble_sword_12_pl|고급 브리타니아 검
-itm_noble_sword_13|고급 브리타니아 검
-itm_noble_sword_13_pl|고급 브리타니아 검
-itm_noble_swordv|귀족용 검
-itm_noble_swordv_pl|귀족용 검
-itm_noble_swordv3|귀족용 검
-itm_noble_swordv3_pl|귀족용 검
-itm_noble_swordv4|귀족용 검
-itm_noble_swordv4_pl|귀족용 검
-itm_noble_swordv5|귀족용 검
-itm_noble_swordv5_pl|귀족용 검
-itm_noble_swordv6|귀족용 검
-itm_noble_swordv6_pl|귀족용 검
-itm_noble_swordv7|귀족용 검
-itm_noble_swordv7_pl|귀족용 검
-itm_irish_long_sword1|게일 장식 달린 장검
-itm_irish_long_sword1_pl|게일 장식 달린 장검
-itm_irish_long_sword2|게일 장식 달린 장검
-itm_irish_long_sword2_pl|게일 장식 달린 장검
+itm_noble_sword_5|울프베르트 검
+itm_noble_sword_5_pl|울프베르트 검
+itm_noble_sword_6|모조 울프베르트
+itm_noble_sword_6_pl|모조 울프베르트
+itm_old_swordv|브리튼 검
+itm_old_swordv_pl|브리튼 검
+itm_old_swordv2|브리튼 검
+itm_old_swordv2_pl|브리튼 검
+itm_old_swordv3|브리튼 검
+itm_old_swordv3_pl|브리튼 검
+itm_old_swordv4|브리튼 검
+itm_old_swordv4_pl|브리튼 검
+itm_old_swordv5|브리튼 검
+itm_old_swordv5_pl|브리튼 검
+itm_old_swordv6|브리튼 검
+itm_old_swordv6_pl|브리튼 검
+itm_old_swordv7|브리튼 검
+itm_old_swordv7_pl|브리튼 검
+itm_noble_sword_7|고급 브리튼 검
+itm_noble_sword_7_pl|고급 브리튼 검
+itm_noble_sword_8|고급 브리튼 검
+itm_noble_sword_8_pl|고급 브리튼 검
+itm_noble_sword_9|고급 브리튼 검
+itm_noble_sword_9_pl|고급 브리튼 검
+itm_noble_sword_10|고급 브리튼 검
+itm_noble_sword_10_pl|고급 브리튼 검
+itm_noble_sword_11|고급 브리튼 검
+itm_noble_sword_11_pl|고급 브리튼 검
+itm_noble_sword_12|고급 브리튼 검
+itm_noble_sword_12_pl|고급 브리튼 검
+itm_noble_sword_13|고급 브리튼 검
+itm_noble_sword_13_pl|고급 브리튼 검
+itm_noble_swordv|모조 울프베르트
+itm_noble_swordv_pl|모조 울프베르트
+itm_noble_swordv3|모조 울프베르트
+itm_noble_swordv3_pl|모조 울프베르트
+itm_noble_swordv4|울프베르트 검
+itm_noble_swordv4_pl|울프베르트 검
+itm_noble_swordv5|검
+itm_noble_swordv5_pl|검
+itm_noble_swordv6|검
+itm_noble_swordv6_pl|검
+itm_noble_swordv7|고급 검
+itm_noble_swordv7_pl|고급 검
+itm_irish_long_sword1|게일 귀족 장검
+itm_irish_long_sword1_pl|게일 귀족 장검
+itm_irish_long_sword2|게일 귀족 장검
+itm_irish_long_sword2_pl|게일 귀족 장검
 itm_irish_long_sword3|게일 장검
 itm_irish_long_sword3_pl|게일 장검
 itm_irish_long_sword4|게일 장검
@@ -1684,12 +1684,12 @@ itm_irish_long_sword7|게일 장검
 itm_irish_long_sword7_pl|게일 장검
 itm_irish_long_sword8|게일 장검
 itm_irish_long_sword8_pl|게일 장검
-itm_irish_short_sword1|게일 짧은 검
-itm_irish_short_sword1_pl|게일 짧은 검
-itm_irish_short_sword2|게일 짧은 검
-itm_irish_short_sword2_pl|게일 짧은 검
-itm_irish_short_sword3|게일 짧은 검
-itm_irish_short_sword3_pl|게일 짧은 검
+itm_irish_short_sword1|게일 소검
+itm_irish_short_sword1_pl|게일 소검
+itm_irish_short_sword2|게일 소검
+itm_irish_short_sword2_pl|게일 소검
+itm_irish_short_sword3|게일 소검
+itm_irish_short_sword3_pl|게일 소검
 itm_championsword1|게일 투사의 검
 itm_championsword1_pl|게일 투사의 검
 itm_championsword2|게일 투사의 검
@@ -1700,70 +1700,70 @@ itm_suttonhoosword2|도적왕의 검
 itm_suttonhoosword2_pl|도적왕의 검
 itm_siren_song|매력적인 노래
 itm_siren_song_pl|매력적인 노래
-itm_sword_of_war|올리비어의 검
-itm_sword_of_war_pl|올리비어의 검
+itm_sword_of_war|올비르의 검
+itm_sword_of_war_pl|올비르의 검
 itm_sword_premium1|네이드
 itm_sword_premium1_pl|네이드
-itm_sword_premium2|드레게운디르
-itm_sword_premium2_pl|드레게운디르
-itm_sword_premium3|블뤼뉴비트르
-itm_sword_premium3_pl|블뤼뉴비트르
+itm_sword_premium2|드라구안딜
+itm_sword_premium2_pl|드라구안딜
+itm_sword_premium3|블뤼뉴비트
+itm_sword_premium3_pl|블뤼뉴비트
 itm_hatchet|도끼
 itm_hatchet_pl|도끼
 itm_axe|도끼
 itm_axe_pl|도끼
-itm_axe_2|도끼
-itm_axe_2_pl|도끼
-itm_hand_axe|도끼
-itm_hand_axe_pl|도끼
+itm_axe_2|짧은 도끼
+itm_axe_2_pl|짧은 도끼
+itm_hand_axe|짧은 도끼
+itm_hand_axe_pl|짧은 도끼
 itm_axe_3|긴 도끼
 itm_axe_3_pl|긴 도끼
 itm_axe_4|긴 도끼
 itm_axe_4_pl|긴 도끼
-itm_one_handed_war_axe_a|큰 도끼
-itm_one_handed_war_axe_a_pl|큰 도끼
-itm_one_handed_war_axe_b|큰 도끼
-itm_one_handed_war_axe_b_pl|큰 도끼
-itm_one_handed_war_axe_c|큰 도끼
-itm_one_handed_war_axe_c_pl|큰 도끼
-itm_one_handed_war_axe_d|큰 도끼
-itm_one_handed_war_axe_d_pl|큰 도끼
-itm_one_handed_war_axe_e|전투용 도끼
-itm_one_handed_war_axe_e_pl|전투용 도끼
-itm_one_handed_war_axe_f|전투용 도끼
-itm_one_handed_war_axe_f_pl|전투용 도끼
-itm_axe_5|한손용 도끼
-itm_axe_5_pl|한손용 도끼
-itm_axe_6|한손용 도끼
-itm_axe_6_pl|한손용 도끼
-itm_axe_7|한손용 도끼
-itm_axe_7_pl|한손용 도끼
-itm_axe_8|한손용 도끼
-itm_axe_8_pl|한손용 도끼
-itm_axe_9|긴 한손용 도끼
-itm_axe_9_pl|긴 한손용 도끼
-itm_axe_10|긴 한손용 도끼
-itm_axe_10_pl|긴 한손용 도끼
+itm_one_handed_war_axe_a|전투용 짧은 도끼
+itm_one_handed_war_axe_a_pl|전투용 짧은 도끼
+itm_one_handed_war_axe_b|전투용 짧은 도끼
+itm_one_handed_war_axe_b_pl|전투용 짧은 도끼
+itm_one_handed_war_axe_c|전투용 짧은 도끼
+itm_one_handed_war_axe_c_pl|전투용 짧은 도끼
+itm_one_handed_war_axe_d|전투용 짧은 도끼
+itm_one_handed_war_axe_d_pl|전투용 짧은 도끼
+itm_one_handed_war_axe_e|전투용 짧은 도끼
+itm_one_handed_war_axe_e_pl|전투용 짧은 도끼
+itm_one_handed_war_axe_f|전투용 긴 도끼
+itm_one_handed_war_axe_f_pl|전투용 긴 도끼
+itm_axe_5|긴 한손 도끼
+itm_axe_5_pl|긴 한손 도끼
+itm_axe_6|한손 도끼
+itm_axe_6_pl|한손 도끼
+itm_axe_7|짧은 한손 도끼
+itm_axe_7_pl|짧은 한손 도끼
+itm_axe_8|짧은 한손 도끼
+itm_axe_8_pl|짧은 한손 도끼
+itm_axe_9|한손 도끼
+itm_axe_9_pl|한손 도끼
+itm_axe_10|큰 한손 도끼
+itm_axe_10_pl|큰 한손 도끼
 itm_pictish_hatchet|게일 도끼
 itm_pictish_hatchet_pl|게일 도끼
 itm_pictish_hatchet2|게일 도끼
 itm_pictish_hatchet2_pl|게일 도끼
-itm_pictish_hatchet3|게일 도끼
-itm_pictish_hatchet3_pl|게일 도끼
-itm_pictish_hatchet4|게일 도끼
-itm_pictish_hatchet4_pl|게일 도끼
+itm_pictish_hatchet3|긴 게일 도끼
+itm_pictish_hatchet3_pl|긴 게일 도끼
+itm_pictish_hatchet4|긴 게일 도끼
+itm_pictish_hatchet4_pl|긴 게일 도끼
 itm_pictish_hatchet5|픽트 도끼
 itm_pictish_hatchet5_pl|픽트 도끼
 itm_pictish_hatchet6|픽트 도끼
 itm_pictish_hatchet6_pl|픽트 도끼
 itm_pictish_hatchet7|픽트 도끼
 itm_pictish_hatchet7_pl|픽트 도끼
-itm_pictish_hatchet8|픽트 도끼
-itm_pictish_hatchet8_pl|픽트 도끼
-itm_pictish_hatchet9|픽트 도끼
-itm_pictish_hatchet9_pl|픽트 도끼
-itm_pictish_hatchet10|픽트 도끼
-itm_pictish_hatchet10_pl|픽트 도끼
+itm_pictish_hatchet8|짧은 픽트 도끼
+itm_pictish_hatchet8_pl|짧은 픽트 도끼
+itm_pictish_hatchet9|큰 픽트 도끼
+itm_pictish_hatchet9_pl|큰 픽트 도끼
+itm_pictish_hatchet10|큰 픽트 도끼
+itm_pictish_hatchet10_pl|큰 픽트 도끼
 itm_pictish_hatchet11|게일 손도끼
 itm_pictish_hatchet11_pl|게일 손도끼
 itm_pictish_hatchet12|게일 손도끼
@@ -1772,18 +1772,18 @@ itm_pictish_hatchet13|게일 손도끼
 itm_pictish_hatchet13_pl|게일 손도끼
 itm_pictish_hatchet14|게일 손도끼
 itm_pictish_hatchet14_pl|게일 손도끼
-itm_pictish_hatchet15|게일 손도끼
-itm_pictish_hatchet15_pl|게일 손도끼
-itm_pictish_hatchet16|게일 손도끼
-itm_pictish_hatchet16_pl|게일 손도끼
-itm_pictish_hatchet17|장식 달린 게일 도끼
-itm_pictish_hatchet17_pl|장식 달린 게일 도끼
-itm_pictish_hatchet18|장식 달린 게일 도끼
-itm_pictish_hatchet18_pl|장식 달린 게일 도끼
-itm_long_axe_b|고급 게일 도끼
-itm_long_axe_b_pl|고급 게일 도끼
-itm_frankish_axe|프랑크 도끼
-itm_frankish_axe_pl|프랑크 도끼
+itm_pictish_hatchet15|긴 게일 손도끼
+itm_pictish_hatchet15_pl|긴 게일 손도끼
+itm_pictish_hatchet16|긴 게일 손도끼
+itm_pictish_hatchet16_pl|긴 게일 손도끼
+itm_pictish_hatchet17|게일 귀족 도끼
+itm_pictish_hatchet17_pl|게일 귀족 도끼
+itm_pictish_hatchet18|게일 귀족 도끼
+itm_pictish_hatchet18_pl|게일 귀족 도끼
+itm_long_axe_b|벌목 도끼
+itm_long_axe_b_pl|벌목 도끼
+itm_frankish_axe|전투용 프랑크 도끼
+itm_frankish_axe_pl|전투용 프랑크 도끼
 itm_staff|스태프
 itm_staff_pl|스태프
 itm_quarter_staff|짧은 스태프
@@ -1806,24 +1806,24 @@ itm_war_spear2|전투용 창
 itm_war_spear2_pl|전투용 창
 itm_war_spear3|전투용 창
 itm_war_spear3_pl|전투용 창
-itm_heavy_spear1|무거운 창
-itm_heavy_spear1_pl|무거운 창
-itm_heavy_spear2|무거운 창
-itm_heavy_spear2_pl|무거운 창
-itm_heavy_spear3|무거운 창
-itm_heavy_spear3_pl|무거운 창
+itm_heavy_spear1|중창
+itm_heavy_spear1_pl|중창
+itm_heavy_spear2|중창
+itm_heavy_spear2_pl|중창
+itm_heavy_spear3|중창
+itm_heavy_spear3_pl|중창
 itm_long_light_spear1|가벼운 장창
 itm_long_light_spear1_pl|가벼운 장창
 itm_long_light_spear2|가벼운 장창
 itm_long_light_spear2_pl|가벼운 장창
-itm_long_war_spear1|긴 전투용 창
-itm_long_war_spear1_pl|긴 전투용 창
-itm_long_war_spear2|긴 전투용 창
-itm_long_war_spear2_pl|긴 전투용 창
-itm_long_heavy_spear1|무거운 장창
-itm_long_heavy_spear1_pl|무거운 장창
-itm_long_heavy_spear2|무거운 장창
-itm_long_heavy_spear2_pl|무거운 장창
+itm_long_war_spear1|전투용 장창
+itm_long_war_spear1_pl|전투용 장창
+itm_long_war_spear2|전투용 장창
+itm_long_war_spear2_pl|전투용 장창
+itm_long_heavy_spear1|대창
+itm_long_heavy_spear1_pl|대창
+itm_long_heavy_spear2|대창
+itm_long_heavy_spear2_pl|대창
 itm_new_mace|레이
 itm_new_mace_pl|레이
 itm_premium_spear1|궁니르
@@ -1846,24 +1846,24 @@ itm_viking_shield_round_10|원형 방패
 itm_viking_shield_round_10_pl|원형 방패
 itm_viking_shield_round_11|원형 방패
 itm_viking_shield_round_11_pl|원형 방패
-itm_viking_shield_round_08|강화된 원형 방패
-itm_viking_shield_round_08_pl|강화된 원형 방패
-itm_viking_shield_round_09|강화된 원형 방패
-itm_viking_shield_round_09_pl|강화된 원형 방패
-itm_viking_shield_round_12|강화된 원형 방패
-itm_viking_shield_round_12_pl|강화된 원형 방패
-itm_viking_shield_round_13|강화된 원형 방패
-itm_viking_shield_round_13_pl|강화된 원형 방패
-itm_viking_shield_round_01|강화된 생가죽 방패
-itm_viking_shield_round_01_pl|강화된 생가죽 방패
-itm_viking_shield_round_02|강화된 생가죽 방패
-itm_viking_shield_round_02_pl|강화된 생가죽 방패
-itm_viking_shield_round_03|강화된 생가죽 방패
-itm_viking_shield_round_03_pl|강화된 생가죽 방패
-itm_viking_shield_round_14|강화된 생가죽 방패
-itm_viking_shield_round_14_pl|강화된 생가죽 방패
-itm_viking_shield_round_15|강화된 생가죽 방패
-itm_viking_shield_round_15_pl|강화된 생가죽 방패
+itm_viking_shield_round_08|원형 방패
+itm_viking_shield_round_08_pl|원형 방패
+itm_viking_shield_round_09|원형 방패
+itm_viking_shield_round_09_pl|원형 방패
+itm_viking_shield_round_12|원형 방패
+itm_viking_shield_round_12_pl|원형 방패
+itm_viking_shield_round_13|원형 방패
+itm_viking_shield_round_13_pl|원형 방패
+itm_viking_shield_round_01|생가죽 방패
+itm_viking_shield_round_01_pl|생가죽 방패
+itm_viking_shield_round_02|생가죽 방패
+itm_viking_shield_round_02_pl|생가죽 방패
+itm_viking_shield_round_03|생가죽 방패
+itm_viking_shield_round_03_pl|생가죽 방패
+itm_viking_shield_round_14|생가죽 방패
+itm_viking_shield_round_14_pl|생가죽 방패
+itm_viking_shield_round_15|생가죽 방패
+itm_viking_shield_round_15_pl|생가죽 방패
 itm_viking_shield_round_04|생가죽 원형 방패
 itm_viking_shield_round_04_pl|생가죽 원형 방패
 itm_viking_shield_round_05|생가죽 원형 방패
@@ -1902,24 +1902,24 @@ itm_shield_9|광전사 방패
 itm_shield_9_pl|광전사 방패
 itm_shield_10|원형 방패
 itm_shield_10_pl|원형 방패
-itm_shield_11|원형 방패
-itm_shield_11_pl|원형 방패
-itm_shield_12|원형 방패
-itm_shield_12_pl|원형 방패
-itm_shield_13|생가죽 방패
-itm_shield_13_pl|생가죽 방패
-itm_shield_14|생가죽 방패
-itm_shield_14_pl|생가죽 방패
-itm_shield_15|원형 방패
-itm_shield_15_pl|원형 방패
-itm_shield_16|원형 방패
-itm_shield_16_pl|원형 방패
-itm_shield_17|덴마크 방패
-itm_shield_17_pl|덴마크 방패
-itm_shield_18|노섬브레 방패
-itm_shield_18_pl|노섬브레 방패
-itm_shield_19|원형 방패
-itm_shield_19_pl|원형 방패
+itm_shield_11|생가죽 방패
+itm_shield_11_pl|생가죽 방패
+itm_shield_12|스베아 방패
+itm_shield_12_pl|스베아 방패
+itm_shield_13|원형 방패
+itm_shield_13_pl|원형 방패
+itm_shield_14|원형 방패
+itm_shield_14_pl|원형 방패
+itm_shield_15|생가죽 방패
+itm_shield_15_pl|생가죽 방패
+itm_shield_16|생가죽 방패
+itm_shield_16_pl|생가죽 방패
+itm_shield_17|원형 방패
+itm_shield_17_pl|원형 방패
+itm_shield_18|원형 방패
+itm_shield_18_pl|원형 방패
+itm_shield_19|덴마크 방패
+itm_shield_19_pl|덴마크 방패
 itm_shield_20|노스 방패
 itm_shield_20_pl|노스 방패
 itm_shield_21|원형 방패
@@ -1938,8 +1938,8 @@ itm_gael_bigroundshield_06|게일 원형 방패
 itm_gael_bigroundshield_06_pl|게일 원형 방패
 itm_gael_bigroundshield_07|게일 원형 방패
 itm_gael_bigroundshield_07_pl|게일 원형 방패
-itm_elf_shield|엘프의 방패
-itm_elf_shield_pl|엘프의 방패
+itm_elf_shield|요정의 방패
+itm_elf_shield_pl|요정의 방패
 itm_tab_shield_round_c|장식된 볼록한 방패
 itm_tab_shield_round_c_pl|장식된 볼록한 방패
 itm_tab_shield_round_01_device|장식된 원형 방패
@@ -2004,18 +2004,18 @@ itm_small_roundsh5|작은 원형 방패
 itm_small_roundsh5_pl|작은 원형 방패
 itm_small_roundsh6|작은 원형 방패
 itm_small_roundsh6_pl|작은 원형 방패
-itm_h_shield1|H 모양 방패
-itm_h_shield1_pl|H 모양 방패
-itm_h_shield2|H 모양 방패
-itm_h_shield2_pl|H 모양 방패
-itm_h_shield3|H 모양 방패
-itm_h_shield3_pl|H 모양 방패
-itm_h_shield4|H 모양 방패
-itm_h_shield4_pl|H 모양 방패
-itm_h_shield5|H 모양 방패
-itm_h_shield5_pl|H 모양 방패
-itm_h_shield6|H 모양 방패
-itm_h_shield6_pl|H 모양 방패
+itm_h_shield1|픽트 방패
+itm_h_shield1_pl|픽트 방패
+itm_h_shield2|픽트 방패
+itm_h_shield2_pl|픽트 방패
+itm_h_shield3|픽트 방패
+itm_h_shield3_pl|픽트 방패
+itm_h_shield4|픽트 방패
+itm_h_shield4_pl|픽트 방패
+itm_h_shield5|픽트 방패
+itm_h_shield5_pl|픽트 방패
+itm_h_shield6|픽트 방패
+itm_h_shield6_pl|픽트 방패
 itm_squaresh_1|사각 방패
 itm_squaresh_1_pl|사각 방패
 itm_squaresh_2|사각 방패
@@ -2028,26 +2028,26 @@ itm_squaresh_5|사각 방패
 itm_squaresh_5_pl|사각 방패
 itm_squaresh_6|사각 방패
 itm_squaresh_6_pl|사각 방패
-itm_darts|단순한 투창
-itm_darts_pl|단순한 투창
-itm_darts_melee|단순한 투창
-itm_darts_melee_pl|단순한 투창
-itm_javelin|투창
-itm_javelin_pl|투창
-itm_javelin_melee|투창
-itm_javelin_melee_pl|투창
-itm_javelin_skirmishes|투창
-itm_javelin_skirmishes_pl|투창
-itm_javelin_skirmishes_melee|투창
-itm_javelin_skirmishes_melee_pl|투창
-itm_javelin_skirmishesel|기병용 투창
-itm_javelin_skirmishesel_pl|기병용 투창
-itm_javelin_skirmishesel_melee|기병용 투창
-itm_javelin_skirmishesel_melee_pl|기병용 투창
-itm_javelin_jinetes|기병용 투창
-itm_javelin_jinetes_pl|기병용 투창
-itm_javelin_jinetes_melee|기병용 투창
-itm_javelin_jinetes_melee_pl|기병용 투창
+itm_darts|간이형 자벨린
+itm_darts_pl|간이형 자벨린
+itm_darts_melee|간이형 자벨린
+itm_darts_melee_pl|간이형 자벨린
+itm_javelin|자벨린
+itm_javelin_pl|자벨린
+itm_javelin_melee|자벨린
+itm_javelin_melee_pl|자벨린
+itm_javelin_skirmishes|척후용 자벨린
+itm_javelin_skirmishes_pl|척후용 자벨린
+itm_javelin_skirmishes_melee|척후용 자벨린
+itm_javelin_skirmishes_melee_pl|척후용 자벨린
+itm_javelin_skirmishesel|대형 자벨린
+itm_javelin_skirmishesel_pl|대형 자벨린
+itm_javelin_skirmishesel_melee|대형 자벨린
+itm_javelin_skirmishesel_melee_pl|대형 자벨린
+itm_javelin_jinetes|기병용 자벨린
+itm_javelin_jinetes_pl|기병용 자벨린
+itm_javelin_jinetes_melee|기병용 자벨린
+itm_javelin_jinetes_melee_pl|기병용 자벨린
 itm_throwing_spears|투척용 창
 itm_throwing_spears_pl|투척용 창
 itm_throwing_spear_melee|투척용 창
@@ -2060,34 +2060,34 @@ itm_stones|돌
 itm_stones_pl|돌
 itm_long_bow|장궁
 itm_long_bow_pl|장궁
-itm_long_bow2|정예병용 장궁
-itm_long_bow2_pl|정예병용 장궁
+itm_long_bow2|정예병 장궁
+itm_long_bow2_pl|정예병 장궁
 itm_long_bow3|특색 있는 장궁
 itm_long_bow3_pl|특색 있는 장궁
 itm_hunting_crossbow|픽트 쇠뇌
 itm_hunting_crossbow_pl|픽트 쇠뇌
 itm_strong_bow|어두운 사냥꾼
 itm_strong_bow_pl|어두운 사냥꾼
-itm_war_bow|눈 쏘는 활
-itm_war_bow_pl|눈 쏘는 활
-itm_sling_rock1|투석
-itm_sling_rock1_pl|투석
-itm_sling_lead|투석 끈
-itm_sling_lead_pl|투석 끈
-itm_sling|투석 끈
-itm_sling_pl|투석 끈
-itm_sling2|투석 끈
-itm_sling2_pl|투석 끈
-itm_sling3|투석 끈
-itm_sling3_pl|투석 끈
-itm_sling_militar|제식 투석 끈
-itm_sling_militar_pl|제식 투석 끈
-itm_fustibalus1|막대 투석 끈
-itm_fustibalus1_pl|막대 투석 끈
-itm_fustibalus2|막대 투석 끈
-itm_fustibalus2_pl|막대 투석 끈
-itm_fustibalus_military|제식 막대 투석 끈
-itm_fustibalus_military_pl|제식 막대 투석 끈
+itm_war_bow|눈따개
+itm_war_bow_pl|눈따개
+itm_sling_rock1|슬링 탄환
+itm_sling_rock1_pl|슬링 탄환
+itm_sling_lead|슬링
+itm_sling_lead_pl|슬링
+itm_sling|슬링
+itm_sling_pl|슬링
+itm_sling2|슬링
+itm_sling2_pl|슬링
+itm_sling3|슬링
+itm_sling3_pl|슬링
+itm_sling_militar|군용 슬링
+itm_sling_militar_pl|군용 슬링
+itm_fustibalus1|스태프 슬링
+itm_fustibalus1_pl|스태프 슬링
+itm_fustibalus2|스태프 슬링
+itm_fustibalus2_pl|스태프 슬링
+itm_fustibalus_military|군용 스태프 슬링
+itm_fustibalus_military_pl|군용 스태프 슬링
 itm_torch|횃불
 itm_torch_pl|횃불
 itm_lyre|리라
@@ -2096,8 +2096,8 @@ itm_lute|류트
 itm_lute_pl|류트
 itm_instruments_end|Instruments End
 itm_instruments_end_pl|Instruments End
-itm_court_dress|궁정용 드레스
-itm_court_dress_pl|궁정용 드레스
+itm_court_dress|궁정 드레스
+itm_court_dress_pl|궁정 드레스
 itm_stones_siege|공성용 돌
 itm_stones_siege_pl|공성용 돌
 itm_trophy_a|전투 기념품
@@ -2154,10 +2154,10 @@ itm_velvet|벨벳
 itm_velvet_pl|벨벳
 itm_work_axe|도끼
 itm_work_axe_pl|도끼
-itm_work_pickaxe|군용 도끼
-itm_work_pickaxe_pl|군용 도끼
-itm_work_pitchfork|군용 삼지창
-itm_work_pitchfork_pl|군용 삼지창
+itm_work_pickaxe|곡괭이
+itm_work_pickaxe_pl|곡괭이
+itm_work_pitchfork|쇠스랑
+itm_work_pitchfork_pl|쇠스랑
 itm_work_basket|바구니
 itm_work_basket_pl|바구니
 itm_torch2|횃불
@@ -2180,8 +2180,8 @@ itm_magic_broom|이상한 버섯
 itm_magic_broom_pl|이상한 버섯
 itm_stones_mp|돌멩이
 itm_stones_mp_pl|돌멩이
-itm_invisible_armor|케세렌스 녜 클레더
-itm_invisible_armor_pl|케세렌스 녜 클레더
+itm_invisible_armor|케이세렌스 네이 클레더
+itm_invisible_armor_pl|케이세렌스 네이 클레더
 itm_dog_bite|물기
 itm_dog_bite_pl|물기
 itm_addon_mail4|곰 가죽 갑옷
@@ -2204,80 +2204,80 @@ itm_trophy_saxon|앵글로 색슨 트로피
 itm_trophy_saxon_pl|앵글로 색슨 트로피
 itm_bonus_tunic_1|외교관의 튜닉
 itm_bonus_tunic_1_pl|외교관의 튜닉
-itm_bonus_tunic_2|얼도르멘의 튜닉
-itm_bonus_tunic_2_pl|얼도르멘의 튜닉
+itm_bonus_tunic_2|앨더먼 튜닉
+itm_bonus_tunic_2_pl|앨더먼 튜닉
 itm_bonus_tunic_3|상인의 튜닉
 itm_bonus_tunic_3_pl|상인의 튜닉
 itm_bonus_dress_1|정교한 픽트 드레스
 itm_bonus_dress_1_pl|정교한 픽트 드레스
-itm_bonus_dress_2|호화로운 색슨 드레스
-itm_bonus_dress_2_pl|호화로운 색슨 드레스
+itm_bonus_dress_2|색슨 궁정 드레스
+itm_bonus_dress_2_pl|색슨 궁정 드레스
 itm_bonus_dress_3|노스 귀족 드레스
 itm_bonus_dress_3_pl|노스 귀족 드레스
-itm_thors_javelins|토르의 투창
-itm_thors_javelins_pl|토르의 투창
+itm_thors_javelins|토르의 자벨린
+itm_thors_javelins_pl|토르의 자벨린
 itm_decap_head|머리 없음
 itm_decap_head_pl|머리 없음
 itm_work_axe_mp|도끼
 itm_work_axe_mp_pl|도끼
-itm_pickaxe_mp|군용 도끼
-itm_pickaxe_mp_pl|군용 도끼
+itm_pickaxe_mp|곡괭이
+itm_pickaxe_mp_pl|곡괭이
 itm_seax_1_mp|오래된 색스
 itm_seax_1_mp_pl|오래된 색스
 itm_spear_1_mp|오래된 창
 itm_spear_1_mp_pl|오래된 창
 itm_crossbow_mp|픽트식 쇠뇌
 itm_crossbow_mp_pl|픽트식 쇠뇌
-itm_bolts_mp|쇠뇌용 화살
-itm_bolts_mp_pl|쇠뇌용 화살
+itm_bolts_mp|볼트
+itm_bolts_mp_pl|볼트
 itm_items_end|Items End
 itm_items_end_pl|Items End
 itm_noswing_club_troll|트롤의 도끼
 itm_noswing_club_troll_pl|트롤의 도끼
-itm_noswing_knife|사냥용 칼
-itm_noswing_knife_pl|사냥용 칼
-itm_noswing_knife2|사냥용 칼
-itm_noswing_knife2_pl|사냥용 칼
-itm_noswing_knife3|사냥용 칼
-itm_noswing_knife3_pl|사냥용 칼
-itm_noswing_knife4|사냥용 칼
-itm_noswing_knife4_pl|사냥용 칼
-itm_noswing_knife5|사냥용 칼
-itm_noswing_knife5_pl|사냥용 칼
-itm_noswing_longseax1|색슨 장검
-itm_noswing_longseax1_pl|색슨 장검
-itm_noswing_longseax2|색슨 장검
-itm_noswing_longseax2_pl|색슨 장검
-itm_noswing_longseax3|색슨 장검
-itm_noswing_longseax3_pl|색슨 장검
-itm_noswing_longseax4|색슨 장검
-itm_noswing_longseax4_pl|색슨 장검
-itm_noswing_longseax5|색슨 장검
-itm_noswing_longseax5_pl|색슨 장검
-itm_noswing_longseax6|색슨 장검
-itm_noswing_longseax6_pl|색슨 장검
-itm_noswing_longseax7|색슨 장검
-itm_noswing_longseax7_pl|색슨 장검
-itm_noswing_longseax8|색슨 장검
-itm_noswing_longseax8_pl|색슨 장검
-itm_noswing_longseax9|색슨 장검
-itm_noswing_longseax9_pl|색슨 장검
-itm_noswing_longseax10|색슨 장검
-itm_noswing_longseax10_pl|색슨 장검
-itm_noswing_seax_1|색슨 검
-itm_noswing_seax_1_pl|색슨 검
-itm_noswing_seax_2|색슨 검
-itm_noswing_seax_2_pl|색슨 검
-itm_noswing_seax_3|색슨 검
-itm_noswing_seax_3_pl|색슨 검
-itm_noswing_seax_4|색슨 검
-itm_noswing_seax_4_pl|색슨 검
-itm_noswing_seax_5|색슨 검
-itm_noswing_seax_5_pl|색슨 검
-itm_noswing_ragnar_seax|라그나르의 색슨 검
-itm_noswing_ragnar_seax_pl|라그나르의 색슨 검
-itm_noswing_elf_seax|엘프의 색슨 검
-itm_noswing_elf_seax_pl|엘프의 색슨 검
+itm_noswing_knife|수렵용 나이프
+itm_noswing_knife_pl|수렵용 나이프
+itm_noswing_knife2|수렵용 나이프
+itm_noswing_knife2_pl|수렵용 나이프
+itm_noswing_knife3|수렵용 나이프
+itm_noswing_knife3_pl|수렵용 나이프
+itm_noswing_knife4|수렵용 나이프
+itm_noswing_knife4_pl|수렵용 나이프
+itm_noswing_knife5|수렵용 나이프
+itm_noswing_knife5_pl|수렵용 나이프
+itm_noswing_longseax1|브로드색스
+itm_noswing_longseax1_pl|브로드색스
+itm_noswing_longseax2|브로드색스
+itm_noswing_longseax2_pl|브로드색스
+itm_noswing_longseax3|브로드색스
+itm_noswing_longseax3_pl|브로드색스
+itm_noswing_longseax4|브로드색스
+itm_noswing_longseax4_pl|브로드색스
+itm_noswing_longseax5|브로드색스
+itm_noswing_longseax5_pl|브로드색스
+itm_noswing_longseax6|랑색스
+itm_noswing_longseax6_pl|랑색스
+itm_noswing_longseax7|랑색스
+itm_noswing_longseax7_pl|랑색스
+itm_noswing_longseax8|랑색스
+itm_noswing_longseax8_pl|랑색스
+itm_noswing_longseax9|랑색스
+itm_noswing_longseax9_pl|랑색스
+itm_noswing_longseax10|랑색스
+itm_noswing_longseax10_pl|랑색스
+itm_noswing_seax_1|색스
+itm_noswing_seax_1_pl|색스
+itm_noswing_seax_2|색스
+itm_noswing_seax_2_pl|색스
+itm_noswing_seax_3|색스
+itm_noswing_seax_3_pl|색스
+itm_noswing_seax_4|색스
+itm_noswing_seax_4_pl|색스
+itm_noswing_seax_5|색스
+itm_noswing_seax_5_pl|색스
+itm_noswing_ragnar_seax|라그나르의 랑색스
+itm_noswing_ragnar_seax_pl|라그나르의 랑색스
+itm_noswing_elf_seax|요정의 랑색스
+itm_noswing_elf_seax_pl|요정의 랑색스
 itm_noswing_spatha|검
 itm_noswing_spatha_pl|검
 itm_noswing_spatha_2|검
@@ -2302,82 +2302,82 @@ itm_noswing_sword_3|검
 itm_noswing_sword_3_pl|검
 itm_noswing_sword_4|검
 itm_noswing_sword_4_pl|검
-itm_noswing_sword_5|검
-itm_noswing_sword_5_pl|검
-itm_noswing_sword_6|검
-itm_noswing_sword_6_pl|검
-itm_noswing_sword_7|검
-itm_noswing_sword_7_pl|검
-itm_noswing_sword_8|검
-itm_noswing_sword_8_pl|검
-itm_noswing_new_sword1|검
-itm_noswing_new_sword1_pl|검
-itm_noswing_new_sword2|검
-itm_noswing_new_sword2_pl|검
-itm_noswing_new_sword3|검
-itm_noswing_new_sword3_pl|검
-itm_noswing_new_sword4|검
-itm_noswing_new_sword4_pl|검
-itm_noswing_new_sword5|검
-itm_noswing_new_sword5_pl|검
-itm_noswing_new_sword6|검
-itm_noswing_new_sword6_pl|검
+itm_noswing_sword_5|소검
+itm_noswing_sword_5_pl|소검
+itm_noswing_sword_6|소검
+itm_noswing_sword_6_pl|소검
+itm_noswing_sword_7|소검
+itm_noswing_sword_7_pl|소검
+itm_noswing_sword_8|소검
+itm_noswing_sword_8_pl|소검
+itm_noswing_new_sword1|소검
+itm_noswing_new_sword1_pl|소검
+itm_noswing_new_sword2|소검
+itm_noswing_new_sword2_pl|소검
+itm_noswing_new_sword3|소검
+itm_noswing_new_sword3_pl|소검
+itm_noswing_new_sword4|소검
+itm_noswing_new_sword4_pl|소검
+itm_noswing_new_sword5|소검
+itm_noswing_new_sword5_pl|소검
+itm_noswing_new_sword6|소검
+itm_noswing_new_sword6_pl|소검
 itm_noswing_noble_sword|고급 검
 itm_noswing_noble_sword_pl|고급 검
-itm_noswing_noble_sword_2|고급 검
-itm_noswing_noble_sword_2_pl|고급 검
-itm_noswing_noble_sword_3|고급 검
-itm_noswing_noble_sword_3_pl|고급 검
+itm_noswing_noble_sword_2|울프베르트 검
+itm_noswing_noble_sword_2_pl|울프베르트 검
+itm_noswing_noble_sword_3|모조 울프베르트
+itm_noswing_noble_sword_3_pl|모조 울프베르트
 itm_noswing_noble_sword_4|고급 검
 itm_noswing_noble_sword_4_pl|고급 검
-itm_noswing_noble_sword_5|고급 검
-itm_noswing_noble_sword_5_pl|고급 검
-itm_noswing_noble_sword_6|고급 검
-itm_noswing_noble_sword_6_pl|고급 검
-itm_noswing_old_swordv|브리타니아 검
-itm_noswing_old_swordv_pl|브리타니아 검
-itm_noswing_old_swordv2|브리타니아 검
-itm_noswing_old_swordv2_pl|브리타니아 검
-itm_noswing_old_swordv3|브리타니아 검
-itm_noswing_old_swordv3_pl|브리타니아 검
-itm_noswing_old_swordv4|브리타니아 검
-itm_noswing_old_swordv4_pl|브리타니아 검
-itm_noswing_old_swordv5|브리타니아 검
-itm_noswing_old_swordv5_pl|브리타니아 검
-itm_noswing_old_swordv6|브리타니아 검
-itm_noswing_old_swordv6_pl|브리타니아 검
-itm_noswing_old_swordv7|브리타니아 검
-itm_noswing_old_swordv7_pl|브리타니아 검
-itm_noswing_noble_sword_7|고급 브리타니아 검
-itm_noswing_noble_sword_7_pl|고급 브리타니아 검
-itm_noswing_noble_sword_8|고급 브리타니아 검
-itm_noswing_noble_sword_8_pl|고급 브리타니아 검
-itm_noswing_noble_sword_9|고급 브리타니아 검
-itm_noswing_noble_sword_9_pl|고급 브리타니아 검
-itm_noswing_noble_sword_10|고급 브리타니아 검
-itm_noswing_noble_sword_10_pl|고급 브리타니아 검
-itm_noswing_noble_sword_11|고급 브리타니아 검
-itm_noswing_noble_sword_11_pl|고급 브리타니아 검
-itm_noswing_noble_sword_12|고급 브리타니아 검
-itm_noswing_noble_sword_12_pl|고급 브리타니아 검
-itm_noswing_noble_sword_13|고급 브리타니아 검
-itm_noswing_noble_sword_13_pl|고급 브리타니아 검
-itm_noswing_noble_swordv|귀족용 검
-itm_noswing_noble_swordv_pl|귀족용 검
-itm_noswing_noble_swordv3|귀족용 검
-itm_noswing_noble_swordv3_pl|귀족용 검
-itm_noswing_noble_swordv4|귀족용 검
-itm_noswing_noble_swordv4_pl|귀족용 검
-itm_noswing_noble_swordv5|귀족용 검
-itm_noswing_noble_swordv5_pl|귀족용 검
-itm_noswing_noble_swordv6|귀족용 검
-itm_noswing_noble_swordv6_pl|귀족용 검
-itm_noswing_noble_swordv7|귀족용 검
-itm_noswing_noble_swordv7_pl|귀족용 검
-itm_noswing_irish_long_sword1|게일 장식 달린 장검
-itm_noswing_irish_long_sword1_pl|게일 장식 달린 장검
-itm_noswing_irish_long_sword2|게일 장식 달린 장검
-itm_noswing_irish_long_sword2_pl|게일 장식 달린 장검
+itm_noswing_noble_sword_5|울프베르트 검
+itm_noswing_noble_sword_5_pl|울프베르트 검
+itm_noswing_noble_sword_6|모조 울프베르트
+itm_noswing_noble_sword_6_pl|모조 울프베르트
+itm_noswing_old_swordv|브리튼 검
+itm_noswing_old_swordv_pl|브리튼 검
+itm_noswing_old_swordv2|브리튼 검
+itm_noswing_old_swordv2_pl|브리튼 검
+itm_noswing_old_swordv3|브리튼 검
+itm_noswing_old_swordv3_pl|브리튼 검
+itm_noswing_old_swordv4|브리튼 검
+itm_noswing_old_swordv4_pl|브리튼 검
+itm_noswing_old_swordv5|브리튼 검
+itm_noswing_old_swordv5_pl|브리튼 검
+itm_noswing_old_swordv6|브리튼 검
+itm_noswing_old_swordv6_pl|브리튼 검
+itm_noswing_old_swordv7|브리튼 검
+itm_noswing_old_swordv7_pl|브리튼 검
+itm_noswing_noble_sword_7|고급 브리튼 검
+itm_noswing_noble_sword_7_pl|고급 브리튼 검
+itm_noswing_noble_sword_8|고급 브리튼 검
+itm_noswing_noble_sword_8_pl|고급 브리튼 검
+itm_noswing_noble_sword_9|고급 브리튼 검
+itm_noswing_noble_sword_9_pl|고급 브리튼 검
+itm_noswing_noble_sword_10|고급 브리튼 검
+itm_noswing_noble_sword_10_pl|고급 브리튼 검
+itm_noswing_noble_sword_11|고급 브리튼 검
+itm_noswing_noble_sword_11_pl|고급 브리튼 검
+itm_noswing_noble_sword_12|고급 브리튼 검
+itm_noswing_noble_sword_12_pl|고급 브리튼 검
+itm_noswing_noble_sword_13|고급 브리튼 검
+itm_noswing_noble_sword_13_pl|고급 브리튼 검
+itm_noswing_noble_swordv|모조 울프베르트
+itm_noswing_noble_swordv_pl|모조 울프베르트
+itm_noswing_noble_swordv3|모조 울프베르트
+itm_noswing_noble_swordv3_pl|모조 울프베르트
+itm_noswing_noble_swordv4|울프베르트 검
+itm_noswing_noble_swordv4_pl|울프베르트 검
+itm_noswing_noble_swordv5|검
+itm_noswing_noble_swordv5_pl|검
+itm_noswing_noble_swordv6|검
+itm_noswing_noble_swordv6_pl|검
+itm_noswing_noble_swordv7|고급 검
+itm_noswing_noble_swordv7_pl|고급 검
+itm_noswing_irish_long_sword1|게일 귀족 장검
+itm_noswing_irish_long_sword1_pl|게일 귀족 장검
+itm_noswing_irish_long_sword2|게일 귀족 장검
+itm_noswing_irish_long_sword2_pl|게일 귀족 장검
 itm_noswing_irish_long_sword3|게일 장검
 itm_noswing_irish_long_sword3_pl|게일 장검
 itm_noswing_irish_long_sword4|게일 장검
@@ -2390,12 +2390,12 @@ itm_noswing_irish_long_sword7|게일 장검
 itm_noswing_irish_long_sword7_pl|게일 장검
 itm_noswing_irish_long_sword8|게일 장검
 itm_noswing_irish_long_sword8_pl|게일 장검
-itm_noswing_irish_short_sword1|게일 짧은 검
-itm_noswing_irish_short_sword1_pl|게일 짧은 검
-itm_noswing_irish_short_sword2|게일 짧은 검
-itm_noswing_irish_short_sword2_pl|게일 짧은 검
-itm_noswing_irish_short_sword3|게일 짧은 검
-itm_noswing_irish_short_sword3_pl|게일 짧은 검
+itm_noswing_irish_short_sword1|게일 소검
+itm_noswing_irish_short_sword1_pl|게일 소검
+itm_noswing_irish_short_sword2|게일 소검
+itm_noswing_irish_short_sword2_pl|게일 소검
+itm_noswing_irish_short_sword3|게일 소검
+itm_noswing_irish_short_sword3_pl|게일 소검
 itm_noswing_championsword1|게일 투사의 검
 itm_noswing_championsword1_pl|게일 투사의 검
 itm_noswing_championsword2|게일 투사의 검
@@ -2410,24 +2410,24 @@ itm_noswing_sword_of_war|올비르의 검
 itm_noswing_sword_of_war_pl|올비르의 검
 itm_noswing_sword_premium1|네드
 itm_noswing_sword_premium1_pl|네드
-itm_noswing_sword_premium2|드레구안딜
-itm_noswing_sword_premium2_pl|드레구안딜
-itm_noswing_sword_premium3|블린츠비어
-itm_noswing_sword_premium3_pl|블린츠비어
-itm_noswing_one_handed_war_axe_a|큰 도끼
-itm_noswing_one_handed_war_axe_a_pl|큰 도끼
-itm_noswing_one_handed_war_axe_b|큰 도끼
-itm_noswing_one_handed_war_axe_b_pl|큰 도끼
-itm_noswing_one_handed_war_axe_c|큰 도끼
-itm_noswing_one_handed_war_axe_c_pl|큰 도끼
-itm_noswing_one_handed_war_axe_d|큰 도끼
-itm_noswing_one_handed_war_axe_d_pl|큰 도끼
-itm_noswing_one_handed_war_axe_e|큰 긴 도끼
-itm_noswing_one_handed_war_axe_e_pl|큰 긴 도끼
-itm_noswing_one_handed_war_axe_f|큰 긴 도끼
-itm_noswing_one_handed_war_axe_f_pl|큰 긴 도끼
-itm_noswing_frankish_axe|프랑크 도끼
-itm_noswing_frankish_axe_pl|프랑크 도끼
+itm_noswing_sword_premium2|드라구안딜
+itm_noswing_sword_premium2_pl|드라구안딜
+itm_noswing_sword_premium3|블뤼뉴비트
+itm_noswing_sword_premium3_pl|블뤼뉴비트
+itm_noswing_one_handed_war_axe_a|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_a_pl|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_b|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_b_pl|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_c|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_c_pl|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_d|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_d_pl|짧은 전투 도끼
+itm_noswing_one_handed_war_axe_e|긴 전투 도끼
+itm_noswing_one_handed_war_axe_e_pl|긴 전투 도끼
+itm_noswing_one_handed_war_axe_f|긴 전투 도끼
+itm_noswing_one_handed_war_axe_f_pl|긴 전투 도끼
+itm_noswing_frankish_axe|프랑크 전투 도끼
+itm_noswing_frankish_axe_pl|프랑크 전투 도끼
 itm_noswing_staff|스태프
 itm_noswing_staff_pl|스태프
 itm_noswing_quarter_staff|짧은 스태프
@@ -2450,24 +2450,24 @@ itm_noswing_war_spear2|전투용 창
 itm_noswing_war_spear2_pl|전투용 창
 itm_noswing_war_spear3|전투용 창
 itm_noswing_war_spear3_pl|전투용 창
-itm_noswing_heavy_spear1|무거운 창
-itm_noswing_heavy_spear1_pl|무거운 창
-itm_noswing_heavy_spear2|무거운 창
-itm_noswing_heavy_spear2_pl|무거운 창
-itm_noswing_heavy_spear3|무거운 창
-itm_noswing_heavy_spear3_pl|무거운 창
+itm_noswing_heavy_spear1|중창
+itm_noswing_heavy_spear1_pl|중창
+itm_noswing_heavy_spear2|중창
+itm_noswing_heavy_spear2_pl|중창
+itm_noswing_heavy_spear3|중창
+itm_noswing_heavy_spear3_pl|중창
 itm_noswing_long_light_spear1|가벼운 장창
 itm_noswing_long_light_spear1_pl|가벼운 장창
 itm_noswing_long_light_spear2|가벼운 장창
 itm_noswing_long_light_spear2_pl|가벼운 장창
-itm_noswing_long_war_spear1|긴 전투용 창
-itm_noswing_long_war_spear1_pl|긴 전투용 창
-itm_noswing_long_war_spear2|긴 전투용 창
-itm_noswing_long_war_spear2_pl|긴 전투용 창
-itm_noswing_long_heavy_spear1|무거운 장창
-itm_noswing_long_heavy_spear1_pl|무거운 장창
-itm_noswing_long_heavy_spear2|무거운 장창
-itm_noswing_long_heavy_spear2_pl|무거운 장창
+itm_noswing_long_war_spear1|전투용 장창
+itm_noswing_long_war_spear1_pl|전투용 장창
+itm_noswing_long_war_spear2|전투용 장창
+itm_noswing_long_war_spear2_pl|전투용 장창
+itm_noswing_long_heavy_spear1|대창
+itm_noswing_long_heavy_spear1_pl|대창
+itm_noswing_long_heavy_spear2|대창
+itm_noswing_long_heavy_spear2_pl|대창
 itm_noswing_new_mace|레이
 itm_noswing_new_mace_pl|레이
 itm_noswing_premium_spear1|궁니르
@@ -2476,24 +2476,24 @@ itm_noswing_standard|군기
 itm_noswing_standard_pl|군기
 itm_noswing_standard_dragon|용장식 군기
 itm_noswing_standard_dragon_pl|용장식 군기
-itm_noswing_darts_melee|단순한 투창
-itm_noswing_darts_melee_pl|단순한 투창
-itm_noswing_javelin_melee|투창
-itm_noswing_javelin_melee_pl|투창
-itm_noswing_javelin_skirmishes_melee|투창
-itm_noswing_javelin_skirmishes_melee_pl|투창
-itm_noswing_javelin_skirmishesel_melee|기병용 투창
-itm_noswing_javelin_skirmishesel_melee_pl|기병용 투창
-itm_noswing_javelin_jinetes_melee|기병용 투창
-itm_noswing_javelin_jinetes_melee_pl|기병용 투창
+itm_noswing_darts_melee|간이형 자벨린
+itm_noswing_darts_melee_pl|간이형 자벨린
+itm_noswing_javelin_melee|자벨린
+itm_noswing_javelin_melee_pl|자벨린
+itm_noswing_javelin_skirmishes_melee|척후용 자벨린
+itm_noswing_javelin_skirmishes_melee_pl|척후용 자벨린
+itm_noswing_javelin_skirmishesel_melee|대형 자벨린
+itm_noswing_javelin_skirmishesel_melee_pl|대형 자벨린
+itm_noswing_javelin_jinetes_melee|기병용 자벨린
+itm_noswing_javelin_jinetes_melee_pl|기병용 자벨린
 itm_noswing_throwing_spear_melee|투척용 창
 itm_noswing_throwing_spear_melee_pl|투척용 창
 itm_noswing_throwing_spear2_melee|투척용 창
 itm_noswing_throwing_spear2_melee_pl|투척용 창
 itm_noswing_torch|횃불
 itm_noswing_torch_pl|횃불
-itm_noswing_work_pitchfork|군용 삼지창
-itm_noswing_work_pitchfork_pl|군용 삼지창
+itm_noswing_work_pitchfork|쇠스랑
+itm_noswing_work_pitchfork_pl|쇠스랑
 itm_noswing_dog_bite|물기
 itm_noswing_dog_bite_pl|물기
 itm_noswing_seax_1_mp|오래된 색스

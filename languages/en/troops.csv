@@ -70,10 +70,10 @@ trp_mercenary_horseman|아키텐 척후병
 trp_mercenary_horseman_pl|아키텐 척후병
 trp_mercenary_leader|늙은 선장
 trp_mercenary_leader_pl|늙은 선장
-trp_hired_blade|스베아 바이킹
-trp_hired_blade_pl|스베아 바이킹
-trp_mercenary_crossbowman|수오미 궁수
-trp_mercenary_crossbowman_pl|수오미 궁수
+trp_hired_blade|스베아 전사
+trp_hired_blade_pl|스베아 전사
+trp_mercenary_crossbowman|핀족 궁수
+trp_mercenary_crossbowman_pl|핀족 궁수
 trp_mercenaries_end|마을 사람
 trp_mercenaries_end_pl|마을 사람
 trp_norse_slave|노스 해방노예
@@ -426,14 +426,14 @@ trp_trainer|훈련 교관
 trp_trainer_pl|훈련 교관
 trp_constable_hareck|치안관 하렉
 trp_constable_hareck_pl|치안관 하렉
-trp_ramun_the_slave_trader|노예 상인 에델메어
-trp_ramun_the_slave_trader_pl|노예 상인 에델메어
+trp_ramun_the_slave_trader|노예 상인 애설머
+trp_ramun_the_slave_trader_pl|노예 상인 애설머
 trp_guide|울릭
 trp_guide_pl|울릭
 trp_xerina|픽트인 안초렛
 trp_xerina_pl|픽트인 안초렛
-trp_dranton|브리튼인 니얼
-trp_dranton_pl|브리튼인 니얼
+trp_dranton|브리타니아인 니알
+trp_dranton_pl|브리타니아인 니알
 trp_kradus|색슨인 어드레드
 trp_kradus_pl|색슨인 어드레드
 trp_tutorial_trainer|훈련장 관리자
@@ -442,7 +442,7 @@ trp_galeas|발린
 trp_galeas_pl|발린
 trp_farmer_from_bandit_village|농부
 trp_farmer_from_bandit_village_pl|농부
-trp_trainer_2|하랄
+trp_trainer_2|하랄드
 trp_trainer_2_pl|훈련 교관
 trp_trainer_1|오딘 릭 선원장
 trp_trainer_1_pl|오딘 릭 선원장
@@ -584,24 +584,24 @@ trp_npc2|에길
 trp_npc2_pl|에길
 trp_npc3|브륀힐드
 trp_npc3_pl|브륀힐드
-trp_npc4|던차흐
-trp_npc4_pl|던차흐
+trp_npc4|도너하
+trp_npc4_pl|도너하
 trp_npc5|모르간트
 trp_npc5_pl|모르간트
 trp_npc6|보도
 trp_npc6_pl|보도
-trp_npc7|드리웨이
-trp_npc7_pl|드리웨이
-trp_npc8|레인허드
-trp_npc8_pl|레인허드
+trp_npc7|두이웨
+trp_npc7_pl|두이웨
+trp_npc8|레긴하르트
+trp_npc8_pl|레긴하르트
 trp_npc9|클로비스
 trp_npc9_pl|클로비스
-trp_npc10|시벨린
-trp_npc10_pl|시벨린
+trp_npc10|시올린
+trp_npc10_pl|시올린
 trp_npc11|솔베이그
 trp_npc11_pl|솔베이그
-trp_npc12|아스비욘
-trp_npc12_pl|아스비욘
+trp_npc12|아스비요른
+trp_npc12_pl|아스비요른
 trp_npc13|헬기
 trp_npc13_pl|헬기
 trp_npc14|에일츠
@@ -610,344 +610,344 @@ trp_npc15|아가티노스
 trp_npc15_pl|아가티노스
 trp_npc16|베다
 trp_npc16_pl|베다
-trp_kingdom_1_lord|코닌굴 호릭 고드프레드손
-trp_kingdom_1_lord_pl|호릭 고드프레드손
-trp_kingdom_2_lord|코닌굴 헤럴드 하프다나르손
-trp_kingdom_2_lord_pl|헤럴드 하프다나르손
-trp_kingdom_3_lord|코닌굴 구드로드 라그나르손
+trp_kingdom_1_lord|코닝굴 호릭 고트프레드손
+trp_kingdom_1_lord_pl|호릭 고트프레드손
+trp_kingdom_2_lord|코닝굴 하랄드 할프다나르손
+trp_kingdom_2_lord_pl|하랄드 할프다나르손
+trp_kingdom_3_lord|코닝굴 구드로드 라그나르손
 trp_kingdom_3_lord_pl|구르로드 라그나르손
-trp_kingdom_4_lord|코닌굴 흐로리크 헤밍손
+trp_kingdom_4_lord|코닝굴 흐로리크 헤밍손
 trp_kingdom_4_lord_pl|흐로리크 헤밍손
-trp_kingdom_5_lord|브리튼왈다 에셀드 에델울핑
-trp_kingdom_5_lord_pl|에셀드 에델울핑
-trp_kingdom_6_lord|시닝 에드먼드 에델버팅
-trp_kingdom_6_lord_pl|에드먼드 에델버팅
-trp_kingdom_7_lord|시닝 브러그레드 베오울핑
+trp_kingdom_5_lord|브리튼왈다 애설레드 애셀울핑
+trp_kingdom_5_lord_pl|애설레드 애셀울핑
+trp_kingdom_6_lord|키닝 에드먼드 애설버팅
+trp_kingdom_6_lord_pl|에드먼드 애설버팅
+trp_kingdom_7_lord|키닝 브러그레드 베오울핑
 trp_kingdom_7_lord_pl|브러그레드 베오울핑
-trp_kingdom_8_lord|야를 하프단 라그나르손
-trp_kingdom_8_lord_pl|하프단 라그나르손
-trp_kingdom_9_lord|리 로드리 마프 메르핀
-trp_kingdom_9_lord_pl|로드리 마프 메르핀
-trp_kingdom_10_lord|리 엘리세드 마프 테우드
-trp_kingdom_10_lord_pl|엘리세드 마프 테우드
-trp_kingdom_11_lord|리 아스갈 마프 더니골
-trp_kingdom_11_lord_pl|아스갈 마프 더니골
-trp_kingdom_12_lord|리 던야트 마프 에페르퍼딘
-trp_kingdom_12_lord_pl|던야트 마프 에페르퍼딘
-trp_kingdom_13_lord|리 하이웰 마프 리스
-trp_kingdom_13_lord_pl|하이웰 마프 리스
-trp_kingdom_14_lord|로어 레솔바르 맥 로잉시그
-trp_kingdom_14_lord_pl|레솔바르 맥 로잉시그
-trp_kingdom_15_lord|로어 던라잉 맥 뮤어데이그
-trp_kingdom_15_lord_pl|던라잉 맥 뮤어데이그
-trp_kingdom_16_lord|로어 센 파이어에드 후아 마스골
-trp_kingdom_16_lord_pl|센 파이어에드 후아 마스골
-trp_kingdom_17_lord|로어 무그론 맥 마엘 코세이드
-trp_kingdom_17_lord_pl|무그론 맥 마엘 코세이드
-trp_kingdom_18_lord|아드 로어 에드 맥 니얼
-trp_kingdom_18_lord_pl|아드 맥 니얼
-trp_kingdom_19_lord|로어 던차드 맥 이어초케이
-trp_kingdom_19_lord_pl|던차드 맥 이어초케이
-trp_kingdom_20_lord|로어 카우산틴 맥 시네다
-trp_kingdom_20_lord_pl|카우산틴 맥 시네다
-trp_kingdom_21_lord|로어 커발 맥 던레인지
-trp_kingdom_21_lord_pl|커발 맥 던레인지
+trp_kingdom_8_lord|야를 할프단 라그나르손
+trp_kingdom_8_lord_pl|할프단 라그나르손
+trp_kingdom_9_lord|리 로드리 아프 메르핀
+trp_kingdom_9_lord_pl|로드리 아프 메르핀
+trp_kingdom_10_lord|리 엘리세드 아프 테우드
+trp_kingdom_10_lord_pl|엘리세드 아프 테우드
+trp_kingdom_11_lord|리 아스갈 아프 두너갈
+trp_kingdom_11_lord_pl|아스갈 아프 두너갈
+trp_kingdom_12_lord|리 두너아르트 아프 에페르퍼딘
+trp_kingdom_12_lord_pl|두너아르트 아프 에페르퍼딘
+trp_kingdom_13_lord|리 허웰 아프 리스
+trp_kingdom_13_lord_pl|허웰 아프 리스
+trp_kingdom_14_lord|리레 레솔바르 막 로잉시그
+trp_kingdom_14_lord_pl|레솔바르 막 로잉시그
+trp_kingdom_15_lord|리레 둔러인 막 미레다그
+trp_kingdom_15_lord_pl|둔러인 막 미레다그
+trp_kingdom_16_lord|리레 켄 팔라드 후아 마스골
+trp_kingdom_16_lord_pl|켄 팔라드 후아 마스골
+trp_kingdom_17_lord|리레 무그론 막 말 코사이
+trp_kingdom_17_lord_pl|무그론 막 말 코사이
+trp_kingdom_18_lord|아드 리레 애드 막 니알
+trp_kingdom_18_lord_pl|애드 막 니알
+trp_kingdom_19_lord|리레 도너하 막 이오소카
+trp_kingdom_19_lord_pl|도너하 막 이오소카
+trp_kingdom_20_lord|리레 카우산틴 막 키나다
+trp_kingdom_20_lord_pl|카우산틴 막 키나다
+trp_kingdom_21_lord|리레 커발 막 둔러인
+trp_kingdom_21_lord_pl|커발 막 둔러인
 trp_knight_1_1|야를 시기프리드 아간티르손
 trp_knight_1_1_pl|시기프리드 아간티르손
-trp_knight_1_2|야를 베그세크
-trp_knight_1_2_pl|베그세크
-trp_knight_1_3|야를 하프단 아간티르손
-trp_knight_1_3_pl|하프단 아간티르손
-trp_knight_1_4|헤르시어 구트럼
-trp_knight_1_4_pl|구트럼
+trp_knight_1_2|야를 바그세크
+trp_knight_1_2_pl|바그세크
+trp_knight_1_3|야를 할프단 아간티르손
+trp_knight_1_3_pl|할프단 아간티르손
+trp_knight_1_4|헤르시르 구트룸
+trp_knight_1_4_pl|구트룸
 trp_knight_1_5|야를 시구르드 라그나르손
 trp_knight_1_5_pl|시구르트 라그나르손
-trp_knight_1_6|헤르시어 헬기 하바시
-trp_knight_1_6_pl|헤르시어 하바시
-trp_knight_2_1|야를 구도름 헤럴드손
-trp_knight_2_1_pl|구도름 헤럴드손
+trp_knight_1_6|헤르시르 헬기 하시
+trp_knight_1_6_pl|헬기 하시
+trp_knight_2_1|야를 구소름 하랄드손
+trp_knight_2_1_pl|구소름 하랄드손
 trp_knight_2_2|코닝굴 에이리크
 trp_knight_2_2_pl|에이리크
 trp_knight_2_3|야를 쿄트비 힌 아우드기
 trp_knight_2_3_pl|쿄트비 힌 아우드기
-trp_knight_2_4|헤르시어 케텔리 비요른손
-trp_knight_2_4_pl|케텔리 비요른손
-trp_knight_2_5|헤르시어 비요른 케텔리손
-trp_knight_2_5_pl|비요른 케텔리손
+trp_knight_2_4|헤르시르 케틸 비요른손
+trp_knight_2_4_pl|케틸 비요른손
+trp_knight_2_5|헤르시르 비요른 케틸손
+trp_knight_2_5_pl|비요른 케틸손
 trp_knight_3_1|야를 올라프 구드로드손
 trp_knight_3_1_pl|올라프 구드로드손
 trp_knight_3_2|야를 이바르 구드로드손
 trp_knight_3_2_pl|이바르 구드로드손
-trp_knight_3_3|야를 에이슬 구드로드손
-trp_knight_3_3_pl|에이슬 구드로드손
+trp_knight_3_3|야를 아슬 구드로드손
+trp_knight_3_3_pl|아슬 구드로드손
 trp_knight_3_4|야를 오르칸
 trp_knight_3_4_pl|오르칸
-trp_knight_3_5|야를 헬기 케텔리손
-trp_knight_3_5_pl|헬기 케텔리손
-trp_knight_3_6|헤르시어 아이스테인 올라프손
-trp_knight_3_6_pl|아이스테인 올라프손
-trp_knight_3_7|헤르시어 시그트리그 이바르손
+trp_knight_3_5|야를 헬기 케틸손
+trp_knight_3_5_pl|헬기 케틸손
+trp_knight_3_6|헤르시르 에이스테인 올라프손
+trp_knight_3_6_pl|에이스테인 올라프손
+trp_knight_3_7|헤르시르 시그트리그 이바르손
 trp_knight_3_7_pl|시그트리그 이바르손
-trp_knight_3_8|헤르시어 토르스테인 올라프손
+trp_knight_3_8|헤르시르 토르스테인 올라프손
 trp_knight_3_8_pl|토르스테인 올라프손
-trp_knight_4_1|야를 헤럴드 헤밍손
-trp_knight_4_1_pl|헤럴드 헤밍손
-trp_knight_4_2|야를 고드릭 헤럴드손
-trp_knight_4_2_pl|고드릭 헤럴드손
-trp_knight_4_3|야를 흐로덜프 헤럴드손
-trp_knight_4_3_pl|흐로덜프 헤럴드손
-trp_knight_5_1|에델링 엘프레드 에델울핑
-trp_knight_5_1_pl|엘프레드 에델울핑
-trp_knight_5_2|얼도르멘 에델모드
-trp_knight_5_2_pl|에델모드
-trp_knight_5_3|얼도르멘 울프히어
-trp_knight_5_3_pl|울프히어
-trp_knight_5_4|얼도르멘 알프스탄
-trp_knight_5_4_pl|알프스탄
-trp_knight_5_5|얼도르멘 쿠스레드
+trp_knight_4_1|야를 하랄드 헤밍손
+trp_knight_4_1_pl|하랄드 헤밍손
+trp_knight_4_2|야를 고트릭 하랄드손
+trp_knight_4_2_pl|고트릭 하랄드손
+trp_knight_4_3|야를 흐로둘프 하랄드손
+trp_knight_4_3_pl|흐로둘프 하랄드손
+trp_knight_5_1|애설링 앨프레드 애설울핑
+trp_knight_5_1_pl|앨프레드 애설울핑
+trp_knight_5_2|앨더먼 애설모드
+trp_knight_5_2_pl|애설모드
+trp_knight_5_3|앨더먼 울프헤레
+trp_knight_5_3_pl|울프헤레
+trp_knight_5_4|앨더먼 앨프스탄
+trp_knight_5_4_pl|앨프스탄
+trp_knight_5_5|앨더먼 쿠스레드
 trp_knight_5_5_pl|쿠스레드
-trp_knight_5_6|얼도르멘 부카
+trp_knight_5_6|앨더먼 부카
 trp_knight_5_6_pl|부카
-trp_knight_5_7|얼도르멘 울프레드
+trp_knight_5_7|앨더먼 울프레드
 trp_knight_5_7_pl|울프레드
-trp_knight_5_8|얼도르멘 위그스탄
+trp_knight_5_8|앨더먼 위그스탄
 trp_knight_5_8_pl|위그스탄
-trp_knight_5_9|얼도르멘 시지버드 시지울핑
-trp_knight_5_9_pl|시지버드 시지울핑
-trp_knight_5_10|얼도르멘 가룰프
+trp_knight_5_9|앨더먼 시지버트 시지울핑
+trp_knight_5_9_pl|시지버트 시지울핑
+trp_knight_5_10|앨더먼 가룰프
 trp_knight_5_10_pl|가룰프
-trp_knight_5_11|드라이든 드라이발드
-trp_knight_5_11_pl|드라이발드
-trp_knight_6_1|얼도르멘 오스왈드
+trp_knight_5_11|드리히텐 드리히트왈드
+trp_knight_5_11_pl|드리히트왈드
+trp_knight_6_1|앨더먼 오스왈드
 trp_knight_6_1_pl|오스왈드
-trp_knight_6_2|얼도르멘 에델레드
-trp_knight_6_2_pl|에델레드
-trp_knight_6_3|얼도르멘 얼흐리
-trp_knight_6_3_pl|얼흐리
-trp_knight_6_4|이언프리드
-trp_knight_6_4_pl|이언프리드
+trp_knight_6_2|앨더먼 애설레드
+trp_knight_6_2_pl|애설레드
+trp_knight_6_3|앨더먼 엘헤레
+trp_knight_6_3_pl|엘헤레
+trp_knight_6_4|이언프리트
+trp_knight_6_4_pl|이언프리트
 trp_knight_6_5|에크왈드
 trp_knight_6_5_pl|에크왈드
-trp_knight_7_1|얼도르멘 세오울프 세오울핑
+trp_knight_7_1|앨더먼 세오울프 세오울핑
 trp_knight_7_1_pl|세오울프 세오울핑
-trp_knight_7_2|얼도르멘 히어버드
-trp_knight_7_2_pl|히어버드
-trp_knight_7_3|얼도르멘 에셀드
-trp_knight_7_3_pl|에셀드
-trp_knight_7_4|얼도르멘 에셀드 뮤셀
-trp_knight_7_4_pl|에셀드 뮤셀
-trp_knight_7_5|얼도르멘 알프가
-trp_knight_7_5_pl|알프가
-trp_knight_7_6|얼도르멘 아돌프
-trp_knight_7_6_pl|아돌프
-trp_knight_7_7|얼도르멘 베오노스
+trp_knight_7_2|앨더먼 헤러버트
+trp_knight_7_2_pl|헤러버트
+trp_knight_7_3|앨더먼 애설드
+trp_knight_7_3_pl|애설드
+trp_knight_7_4|앨더먼 애설드 뮤셀
+trp_knight_7_4_pl|애설드 뮤셀
+trp_knight_7_5|앨더먼 앨프거
+trp_knight_7_5_pl|앨프거
+trp_knight_7_6|앨더먼 애설프
+trp_knight_7_6_pl|애설프
+trp_knight_7_7|앨더먼 베오노스
 trp_knight_7_7_pl|베오노스
-trp_knight_7_8|얼도르멘 시그버드
-trp_knight_7_8_pl|시그버드
-trp_knight_7_9|드라이든 에델울프 에델레딩
-trp_knight_7_9_pl|에델울프 에델레딩
-trp_knight_8_1|시닝 에그버트
-trp_knight_8_1_pl|에그버트
-trp_knight_8_2|야를 라스버스 라그나르손
-trp_knight_8_2_pl|라스버스 라그나르손
-trp_knight_8_3|엘도르멘 얼드레드
+trp_knight_7_8|앨더먼 시그버트
+trp_knight_7_8_pl|시그버트
+trp_knight_7_9|드리히텐 애설울프 애설레딩
+trp_knight_7_9_pl|애설울프 애설레딩
+trp_knight_8_1|키닝 엑버트
+trp_knight_8_1_pl|엑버트
+trp_knight_8_2|야를 라스바르스 라그나르손
+trp_knight_8_2_pl|라스바르스 라그나르손
+trp_knight_8_3|앨더먼 얼드레드
 trp_knight_8_3_pl|얼드레드
-trp_knight_8_4|원로 야를 시드락
-trp_knight_8_4_pl|원로 시드락
-trp_knight_8_5|엘도르멘 릭시지
+trp_knight_8_4|야를 늙은 시드록
+trp_knight_8_4_pl|늙은 시드록
+trp_knight_8_5|앨더먼 릭시지
 trp_knight_8_5_pl|릭시지
-trp_knight_8_6|엘도르멘 에그버트 2세
-trp_knight_8_6_pl|에그버트 2세
+trp_knight_8_6|앨더먼 엑버트 2세
+trp_knight_8_6_pl|엑버트 2세
 trp_knight_8_7|야를 비요른 라그나르손
 trp_knight_8_7_pl|비요른 라그나르손
-trp_knight_8_8|헤르시어 구드레드 크누트
-trp_knight_8_8_pl|구드레드 크누트
-trp_knight_8_9|헤르시어 레그날드
-trp_knight_8_9_pl|레그날드
-trp_knight_8_10|헤르시어 헤럴드
-trp_knight_8_10_pl|헤럴드
-trp_knight_8_11|헤르시어 시드락
-trp_knight_8_11_pl|시드락
-trp_knight_8_12|헤르시어 프레나
-trp_knight_8_12_pl|프레나
-trp_knight_8_13|야를 이바르 인 베인라우시
-trp_knight_8_13_pl|이바르 인 베인라우시
-trp_knight_8_14|야를 허비 라그나르손
-trp_knight_8_14_pl|허비 라그나르손
-trp_knight_8_15|코닝굴 베그세크
-trp_knight_8_15_pl|베그세크
-trp_knight_9_1|마엘 아나라드 마프 로드리
-trp_knight_9_1_pl|아나라드 마프 로드리
-trp_knight_9_2|마엘 카델 마프 로드리
-trp_knight_9_2_pl|카델 마프 로드리
-trp_knight_9_3|마엘 메르핀 마프 로드리
-trp_knight_9_3_pl|메르핀 마프 로드리
-trp_knight_9_4|리 곤 마프 마우리그
-trp_knight_9_4_pl|곤 마프 마우리그
-trp_knight_9_5|고이딕 그리와드 마프 메르핀
-trp_knight_9_5_pl|그리와드 마프 메르핀
-trp_knight_9_6|마엘 투드왈 마프 로드리
-trp_knight_9_6_pl|투드왈 마프 로드리
-trp_knight_9_7|고이딕 하이파이드 마프 브레드리
-trp_knight_9_7_pl|하이파이드 마프 브레드리
-trp_knight_9_8|티에른 오웨인 마프 하이웰
-trp_knight_9_8_pl|오웨인 마프 하이웰
-trp_knight_9_9|티에른 를로판 마프 클리민 브로투
-trp_knight_9_9_pl|를로판 마프 클리민 브로투
-trp_knight_10_1|마엘 고이딕
+trp_knight_8_8|헤르시르 구트레드 크누트
+trp_knight_8_8_pl|구트레드 크누트
+trp_knight_8_9|헤르시르 랑발드
+trp_knight_8_9_pl|랑발드
+trp_knight_8_10|헤르시르 하랄드
+trp_knight_8_10_pl|하랄드
+trp_knight_8_11|헤르시르 젊은 시드록
+trp_knight_8_11_pl|젊은 시드록
+trp_knight_8_12|헤르시르 프라에나
+trp_knight_8_12_pl|프라에나
+trp_knight_8_13|야를 뼈없는 이바르
+trp_knight_8_13_pl|뼈없는 이바르
+trp_knight_8_14|야를 후비 라그나르손
+trp_knight_8_14_pl|후비 라그나르손
+trp_knight_8_15|코닝굴 바그세크
+trp_knight_8_15_pl|바그세크
+trp_knight_9_1|말 아나라우드 아프 로드리
+trp_knight_9_1_pl|아나라우드 아프 로드리
+trp_knight_9_2|말 카델 아프 로드리
+trp_knight_9_2_pl|카델 아프 로드리
+trp_knight_9_3|말 메르핀 아프 로드리
+trp_knight_9_3_pl|메르핀 아프 로드리
+trp_knight_9_4|리 구온 아프 마우리그
+trp_knight_9_4_pl|구온 아프 마우리그
+trp_knight_9_5|고이딕 그리와드 아프 메르핀
+trp_knight_9_5_pl|그리와드 아프 메르핀
+trp_knight_9_6|말 티달 아프 로드리
+trp_knight_9_6_pl|티달 아프 로드리
+trp_knight_9_7|고이딕 하이파 아프 브레드리
+trp_knight_9_7_pl|하이파 아프 브레드리
+trp_knight_9_8|티에른 페른팔 아프 마우리그
+trp_knight_9_8_pl|페른팔 아프 마우리그
+trp_knight_9_9|티에른 를로판 아프 클리민 브로투
+trp_knight_9_9_pl|를로판 아프 클리민 브로투
+trp_knight_10_1|말 고이딕
 trp_knight_10_1_pl|고이딕
-trp_knight_11_1|마엘 룬 마프 아스갈
-trp_knight_11_1_pl|룬 마프 아스갈
-trp_knight_11_2|마엘 에초 마프 룬
-trp_knight_11_2_pl|에초 마프 룬
-trp_knight_11_3|고이딕 다이핀왈 마프 룬
-trp_knight_11_3_pl|다이핀왈 마프 룬
-trp_knight_11_4|고이딕 기릭 마프 라스
-trp_knight_11_4_pl|기릭 마프 라스
-trp_knight_11_5|시논 마프 신드웬
-trp_knight_11_5_pl|시논 마프 신드웬
-trp_knight_11_6|기온 마프 신드웬
-trp_knight_11_6_pl|기온 마프 신드웬
-trp_knight_11_7|마독 마프 카델
-trp_knight_11_7_pl|마독 마프 카델
-trp_knight_11_8|카라독 마프 리월
-trp_knight_11_8_pl|카라독 마프 리월
-trp_knight_12_1|고이딕 에일루드 마프 에페르퍼딘
-trp_knight_12_1_pl|에일루드 마프 에페르퍼딘
-trp_knight_12_2|고이딕 알라노러스 마프 에일루드
-trp_knight_12_2_pl|알라노러스 마프 에일루드
-trp_knight_12_3|마엘 리카투스 마프 던야트
-trp_knight_12_3_pl|리카투스 마프 던야트
-trp_knight_13_1|고이딕 마우리그 마프 아스파엘
-trp_knight_13_1_pl|마우리그 마프 아스파엘
-trp_knight_13_2|마엘 오웨인 마프 하이웰
-trp_knight_13_2_pl|오웨인 마프 하이웰
-trp_knight_13_3|티에른 브로크웰 마프 마우리그
-trp_knight_13_3_pl|브로크웰 마프 마우리그
-trp_knight_14_1|마엘 카살란 마프 인드레티그
-trp_knight_14_1_pl|카살란 마프 인드레티그
-trp_knight_14_2|마엘 코날란 맥 멜레 두인
-trp_knight_14_2_pl|코날란 맥 멜레 두인
-trp_knight_14_3|아드 티아르나 모체어지 맥 인드레티그
-trp_knight_14_3_pl|모체어지 맥 인드레티그
-trp_knight_14_4|티아르나 에인비스 맥 에도
-trp_knight_14_4_pl|에인비스 맥 에도
-trp_knight_14_5|티아르나 쿠마스카흐 맥 카살란
-trp_knight_14_5_pl|쿠마스카흐 맥 카살란
-trp_knight_15_1|아드 티아르나 에일릴 맥 던레인지
-trp_knight_15_1_pl|에일릴 맥 던레인지
-trp_knight_15_2|아드 티아르나 카이르프레 맥 던레인지
-trp_knight_15_2_pl|카이르프레 맥 던레인지
-trp_knight_15_3|티아르나 뮤어다흐 맥 브레인
-trp_knight_15_3_pl|뮤어다흐 맥 브레인
-trp_knight_15_4|티아르나 도네일 맥 뮤어케인
-trp_knight_15_4_pl|도네일 맥 뮤어케인
-trp_knight_15_5|티아르나 커발 맥 뮤어케인
-trp_knight_15_5_pl|커발 맥 뮤어케인
-trp_knight_15_6|티아르나 아우가이레 맥 에일렐라
-trp_knight_15_6_pl|아우가이레 맥 에일렐라
-trp_knight_16_1|아드 티아르나 던차흐 맥 두브 다 뷰어렌
-trp_knight_16_1_pl|던차흐 맥 두브 다 뷰어렌
-trp_knight_16_2|아드 티아르나 두브 라흐나이 맥 마엘 고이루
-trp_knight_16_2_pl|두브 라흐나이 맥 마엘 고이루
-trp_knight_16_3|티아르나 포가르타흐 맥 수이빈
-trp_knight_16_3_pl|포가르타흐 맥 수이빈
-trp_knight_16_4|티아르나 롱보탄 맥 피나타
-trp_knight_16_4_pl|롱보탄 맥 피나타
+trp_knight_11_1|말 룬 아프 아스갈
+trp_knight_11_1_pl|룬 아프 아스갈
+trp_knight_11_2|말 에코 아프 룬
+trp_knight_11_2_pl|에코 아프 룬
+trp_knight_11_3|고이딕 더프날 아프 룬
+trp_knight_11_3_pl|더프날 아프 룬
+trp_knight_11_4|고이딕 기릭 아프 라스
+trp_knight_11_4_pl|기릭 아프 라스
+trp_knight_11_5|커논 아프 컨드런
+trp_knight_11_5_pl|커논 아프 컨드런
+trp_knight_11_6|귀온 아프 컨드런
+trp_knight_11_6_pl|귀온 아프 컨드런
+trp_knight_11_7|마독 아프 카델
+trp_knight_11_7_pl|마독 아프 카델
+trp_knight_11_8|카라독 아프 리왈
+trp_knight_11_8_pl|카라독 아프 리왈
+trp_knight_12_1|고이딕 엘리우드 아프 에페르퍼딘
+trp_knight_12_1_pl|엘리우드 아프 에페르퍼딘
+trp_knight_12_2|고이딕 알라노루스 아프 엘리우드
+trp_knight_12_2_pl|알라노루스 아프 엘리우드
+trp_knight_12_3|말 리카투스 아프 두너아르트
+trp_knight_12_3_pl|리카투스 아프 두너아르트
+trp_knight_13_1|고이딕 마우리그 아프 아스팔
+trp_knight_13_1_pl|마우리그 아프 아스팔
+trp_knight_13_2|말 오웨인 아프 허웰
+trp_knight_13_2_pl|오웨인 아프 허웰
+trp_knight_13_3|티에른 브로월 아프 마우리그
+trp_knight_13_3_pl|브로월 아프 마우리그
+trp_knight_14_1|말 카살란 아프 인드레하
+trp_knight_14_1_pl|카살란 아프 인드레하
+trp_knight_14_2|말 코날란 막 멜레 두인
+trp_knight_14_2_pl|코날란 막 멜레 두인
+trp_knight_14_3|아드 티아르나 모체어지 막 인드레하
+trp_knight_14_3_pl|모체어지 막 인드레하
+trp_knight_14_4|티아르나 에인비스 막 에도
+trp_knight_14_4_pl|에인비스 막 에도
+trp_knight_14_5|티아르나 쿠마스카흐 막 카살란
+trp_knight_14_5_pl|쿠마스카흐 막 카살란
+trp_knight_15_1|아드 티아르나 에일릴 막 둔러인
+trp_knight_15_1_pl|에일릴 막 둔러인
+trp_knight_15_2|아드 티아르나 카이르프레 막 둔러인
+trp_knight_15_2_pl|카이르프레 막 둔러인
+trp_knight_15_3|티아르나 미레다흐 막 브란
+trp_knight_15_3_pl|미레다흐 막 브란
+trp_knight_15_4|티아르나 도네일 막 미르칸
+trp_knight_15_4_pl|도네일 막 미르칸
+trp_knight_15_5|티아르나 커발 막 미르칸
+trp_knight_15_5_pl|커발 막 미르칸
+trp_knight_15_6|티아르나 아우가이레 막 에일렐라
+trp_knight_15_6_pl|아우가이레 막 에일렐라
+trp_knight_16_1|아드 티아르나 도너하 막 두브 다 뷰어렌
+trp_knight_16_1_pl|도너하 막 두브 다 뷰어렌
+trp_knight_16_2|아드 티아르나 두브 라흐나이 막 말 고이루
+trp_knight_16_2_pl|두브 라흐나이 막 말 고이루
+trp_knight_16_3|티아르나 포가르타흐 막 수이빈
+trp_knight_16_3_pl|포가르타흐 막 수이빈
+trp_knight_16_4|티아르나 롱보탄 막 피나타
+trp_knight_16_4_pl|롱보탄 막 피나타
 trp_knight_16_5|티아르나 레타브라 맥브란 핀
 trp_knight_16_5_pl|레타브라 맥브란 핀
-trp_knight_16_6|티아르나 콜만 맥 키오네이스
-trp_knight_16_6_pl|콜만 맥 키오네이스
-trp_knight_17_1|마엘 콘초바르 맥 타이그 모르
-trp_knight_17_1_pl|콘초바르 맥 타이그 모르
-trp_knight_17_2|티아르나 에데 맥 콘초바르
-trp_knight_17_2_pl|에데 맥 콘초바르
-trp_knight_17_3|티아르나 타이그 맥 콘초바르
-trp_knight_17_3_pl|타이그 맥 콘초바르
-trp_knight_17_4|티아르나 피니쉬네타 맥 멜레 코르크라이
-trp_knight_17_4_pl|피니쉬네타 맥 멜레 코르크라이
-trp_knight_17_5|티아르나 도블란 맥 고름구스
-trp_knight_17_5_pl|도블란 맥 고름구스
-trp_knight_17_6|티아르나 카살 맥 콘초바르
-trp_knight_17_6_pl|카살 맥 콘초바르
-trp_knight_18_1|마엘 도네일 맥 에다
-trp_knight_18_1_pl|도네일 맥 에다
-trp_knight_18_2|마엘 다베일
-trp_knight_18_2_pl|다베일
-trp_knight_18_3|마엘 두브 맥 에다
-trp_knight_18_3_pl|두브 맥 에다
-trp_knight_18_4|로어 콘갈라흐 맥 피나타
-trp_knight_18_4_pl|콘갈라흐 맥 피나타
-trp_knight_18_5|티아르나 쿠마스카흐 맥 뮤어데이그
-trp_knight_18_5_pl|쿠마스카흐 맥 뮤어데이그
-trp_knight_18_6|마엘 파드레이그 맥 마엘 쿠라라다
-trp_knight_18_6_pl|파드레이그 맥 마엘 쿠라라다
-trp_knight_18_7|티아르나 레이드넨 맥 도나게인
-trp_knight_18_7_pl|레이드넨 맥 도나게인
-trp_knight_19_1|마엘 세크네일 맥 니얼
-trp_knight_19_1_pl|세크네일 맥 니얼
-trp_knight_19_2|마엘 디어마이트 맥 에터스케일리
-trp_knight_19_2_pl|디어마이트 맥 에터스케일리
-trp_knight_19_3|마엘 플랑 시나 맥 세크네일
-trp_knight_19_3_pl|플랑 시나 맥 세크네일
-trp_knight_19_4|티아르나 플랑 맥 코나잉
-trp_knight_19_4_pl|플랑 맥 코나잉
-trp_knight_19_5|코날 크란도나 맥 에차흐
-trp_knight_19_5_pl|코날 크란도나 맥 에차흐
-trp_knight_20_1|마엘 도네일 다사타흐 맥 카우산틴
-trp_knight_20_1_pl|도네일 다사타흐 맥 카우산틴
-trp_knight_20_2|아드 티아르나 에드 맥 시네이다
-trp_knight_20_2_pl|에드 맥 시네이다
-trp_knight_20_3|티아르나 카우산틴 맥 에다
-trp_knight_20_3_pl|카우산틴 맥 에다
-trp_knight_20_4|티아르나 돈할 맥 에다
-trp_knight_20_4_pl|돈할 맥 에다
-trp_knight_20_5|마엘 코루임 맥 도네일
-trp_knight_20_5_pl|코루임 맥 도네일
-trp_knight_20_6|돈레흐
-trp_knight_20_6_pl|돈레흐
+trp_knight_16_6|티아르나 콜만 막 키오나
+trp_knight_16_6_pl|콜만 막 키오나
+trp_knight_17_1|말 콘코바르 막 타이그 모르
+trp_knight_17_1_pl|콘코바르 막 타이그 모르
+trp_knight_17_2|티아르나 애드 막 콘코바르
+trp_knight_17_2_pl|애드 막 콘코바르
+trp_knight_17_3|티아르나 타이그 막 콘코바르
+trp_knight_17_3_pl|타이그 막 콘코바르
+trp_knight_17_4|티아르나 피네하 막 멜레 코르크라이
+trp_knight_17_4_pl|피네하 막 멜레 코르크라이
+trp_knight_17_5|티아르나 도블란 막 고름구스
+trp_knight_17_5_pl|도블란 막 고름구스
+trp_knight_17_6|티아르나 카살 막 콘코바르
+trp_knight_17_6_pl|카살 막 콘코바르
+trp_knight_18_1|말 도날 막 아다
+trp_knight_18_1_pl|도날 막 아다
+trp_knight_18_2|말 다발
+trp_knight_18_2_pl|다발
+trp_knight_18_3|말 두브 막 에다
+trp_knight_18_3_pl|두브 막 에다
+trp_knight_18_4|리레 콘갈라흐 막 피나타
+trp_knight_18_4_pl|콘갈라흐 막 피나타
+trp_knight_18_5|티아르나 쿠마스카흐 막 미레다그
+trp_knight_18_5_pl|쿠마스카흐 막 미레다그
+trp_knight_18_6|말 파드라그 막 말 쿠라라다
+trp_knight_18_6_pl|파드라그 막 말 쿠라라다
+trp_knight_18_7|티아르나 라드넨 막 도나게인
+trp_knight_18_7_pl|라드넨 막 도나게인
+trp_knight_19_1|말 세날 막 니알
+trp_knight_19_1_pl|세날 막 니알
+trp_knight_19_2|말 디아마트 막 에테르셀
+trp_knight_19_2_pl|디아마트 막 에테르셀
+trp_knight_19_3|말 플랑 시나 막 세날
+trp_knight_19_3_pl|플랑 시나 막 세날
+trp_knight_19_4|티아르나 플랑 막 코난
+trp_knight_19_4_pl|플랑 막 코난
+trp_knight_19_5|코날 크란도나 막 에사흐
+trp_knight_19_5_pl|코날 크란도나 막 에사흐
+trp_knight_20_1|말 도날 다사타흐 막 카우산틴
+trp_knight_20_1_pl|도날 다사타흐 막 카우산틴
+trp_knight_20_2|아드 티아르나 에드 막 키나다
+trp_knight_20_2_pl|에드 막 키나다
+trp_knight_20_3|티아르나 카우산틴 막 아다
+trp_knight_20_3_pl|카우산틴 막 아다
+trp_knight_20_4|티아르나 돈할 막 아다
+trp_knight_20_4_pl|돈할 막 아다
+trp_knight_20_5|말 콜룸 막 도날
+trp_knight_20_5_pl|콜룸 막 도날
+trp_knight_20_6|도레흐
+trp_knight_20_6_pl|도레흐
 trp_knight_20_7|엔티피다흐
 trp_knight_20_7_pl|엔티피다흐
 trp_knight_20_8|루흐레니
 trp_knight_20_8_pl|루흐레니
-trp_knight_21_1|마엘 도네일 다사타흐 맥 카우산틴
-trp_knight_21_1_pl|다사타흐 맥 카우산틴
-trp_knight_21_2|마엘 셀라흐 맥 커베일
-trp_knight_21_2_pl|셀라흐 맥 커베일
-trp_knight_21_3|아드 티아르나 리아칸 맥 던레인지
-trp_knight_21_3_pl|리아칸 맥 던레인지
+trp_knight_21_1|말 디아마트 막 카우산틴
+trp_knight_21_1_pl|디아마트 막 카우산틴
+trp_knight_21_2|말 셀라 막 커발
+trp_knight_21_2_pl|셀라 막 커발
+trp_knight_21_3|아드 티아르나 리아칸 막 둔러인
+trp_knight_21_3_pl|리아칸 막 둔러인
 trp_kingdom_1_pretender|야를 토르길
 trp_kingdom_1_pretender_pl|토르길
 trp_kingdom_2_pretender|아드 티아르나 던갈
 trp_kingdom_2_pretender_pl|던갈
-trp_kingdom_3_pretender|에델링 오스윈
+trp_kingdom_3_pretender|애설링 오스윈
 trp_kingdom_3_pretender_pl|오스윈
-trp_kingdom_4_pretender|에델링 세오를
+trp_kingdom_4_pretender|애설링 세오를
 trp_kingdom_4_pretender_pl|세오를
 trp_kingdom_5_pretender|타니스트 빌리
 trp_kingdom_5_pretender_pl|빌리
-trp_kingdom_6_pretender|마엘 엘리세드 마프 싱겐
-trp_kingdom_6_pretender_pl|엘리세드 마프 싱겐
+trp_kingdom_6_pretender|말 엘리세드 아프 킹겐
+trp_kingdom_6_pretender_pl|엘리세드 아프 킹겐
 trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
 trp_knight_1_1_wife_pl|knight 1 1 wife
 trp_kingdom_1_lady_1|오슬라파
 trp_kingdom_1_lady_1_pl|오슬라파
-trp_kingdom_1_lady_2|브레야
-trp_kingdom_1_lady_2_pl|브레야
+trp_kingdom_1_lady_2|블레야
+trp_kingdom_1_lady_2_pl|블레야
 trp_kingdom_1_lady_3|라그힐드 라그나르도티르
 trp_kingdom_1_lady_3_pl|라그힐드 라그나르도티르
 trp_kingdom_1_lady_4|잉군
 trp_kingdom_1_lady_4_pl|잉군
-trp_kingdom_2_lady_1|기에다 에이리크도티르
-trp_kingdom_2_lady_1_pl|기에다
+trp_kingdom_2_lady_1|기다 에이리크도티르
+trp_kingdom_2_lady_1_pl|기다
 trp_kingdom_2_lady_2|잉그빌드
 trp_kingdom_2_lady_2_pl|잉그빌드
-trp_kingdom_2_lady_3|토룬 케틸도티르
-trp_kingdom_2_lady_3_pl|토룬
+trp_kingdom_2_lady_3|쏘룬 케틸도티르
+trp_kingdom_2_lady_3_pl|쏘룬
 trp_kingdom_2_lady_4|할베라
 trp_kingdom_2_lady_4_pl|할베라
-trp_kingdom_3_lady_1|살브요르
-trp_kingdom_3_lady_1_pl|살브요르
+trp_kingdom_3_lady_1|살비요르그
+trp_kingdom_3_lady_1_pl|살비요르그
 trp_kingdom_3_lady_2|베라
 trp_kingdom_3_lady_2_pl|베라
 trp_kingdom_3_lady_3|그륀힐드
@@ -956,10 +956,10 @@ trp_kingdom_3_lady_4|아스게르드
 trp_kingdom_3_lady_4_pl|아스게르드
 trp_kingdom_4_lady_1|헬가
 trp_kingdom_4_lady_1_pl|헬가
-trp_kingdom_4_lady_2|하콘
-trp_kingdom_4_lady_2_pl|하콘
-trp_kingdom_4_lady_3|잉기비요르
-trp_kingdom_4_lady_3_pl|잉기비요르
+trp_kingdom_4_lady_2|아스프리드
+trp_kingdom_4_lady_2_pl|아스프리드
+trp_kingdom_4_lady_3|잉기비요르그
+trp_kingdom_4_lady_3_pl|잉기비요르그
 trp_kingdom_4_lady_4|사쿤
 trp_kingdom_4_lady_4_pl|사쿤
 trp_kingdom_5_lady_1|오스버러
@@ -984,8 +984,8 @@ trp_kingdom_6_lady_3|아델부르가
 trp_kingdom_6_lady_3_pl|아델부르가
 trp_kingdom_6_lady_4|힐드
 trp_kingdom_6_lady_4_pl|힐드
-trp_kingdom_7_lady_1|에델스위스
-trp_kingdom_7_lady_1_pl|에델스위스
+trp_kingdom_7_lady_1|애설스위스
+trp_kingdom_7_lady_1_pl|애설스위스
 trp_kingdom_7_lady_2|에드버러
 trp_kingdom_7_lady_2_pl|에드버러
 trp_kingdom_7_lady_3|에디드
@@ -1060,8 +1060,8 @@ trp_kingdom_13_lady_2|메드웰
 trp_kingdom_13_lady_2_pl|메드웰
 trp_kingdom_13_lady_3|그웰라두스
 trp_kingdom_13_lady_3_pl|그웰라두스
-trp_kingdom_14_lady_1|뮤어린
-trp_kingdom_14_lady_1_pl|뮤어린
+trp_kingdom_14_lady_1|미린
+trp_kingdom_14_lady_1_pl|미린
 trp_kingdom_14_lady_2|메드브
 trp_kingdom_14_lady_2_pl|메드브
 trp_kingdom_14_lady_3|크레이드
@@ -1112,8 +1112,8 @@ trp_kingdom_18_lady_5|모르
 trp_kingdom_18_lady_5_pl|모르
 trp_kingdom_18_lady_6|에이네
 trp_kingdom_18_lady_6_pl|에이네
-trp_kingdom_19_lady_1|뮤어 잉겐 시네이다
-trp_kingdom_19_lady_1_pl|뮤어
+trp_kingdom_19_lady_1|미르 잉겐 키나다
+trp_kingdom_19_lady_1_pl|미르
 trp_kingdom_19_lady_2|고름레이스
 trp_kingdom_19_lady_2_pl|고름레이스
 trp_kingdom_19_lady_3|에드네
@@ -1134,8 +1134,8 @@ trp_kingdom_20_lady_5|잉겐 그웨드
 trp_kingdom_20_lady_5_pl|잉겐 그웨드
 trp_kingdom_20_lady_6|브리데이
 trp_kingdom_20_lady_6_pl|브리데이
-trp_kingdom_20_lady_7|뮤어
-trp_kingdom_20_lady_7_pl|뮤어
+trp_kingdom_20_lady_7|미르
+trp_kingdom_20_lady_7_pl|미르
 trp_kingdom_21_lady_1|에이딘
 trp_kingdom_21_lady_1_pl|에이딘
 trp_kingdom_21_lady_2|에드나
@@ -1148,7 +1148,7 @@ trp_town_3_seneschal|게일 역사기록가
 trp_town_3_seneschal_pl|역사기록가
 trp_town_4_seneschal|앵글 역사기록가
 trp_town_4_seneschal_pl|역사기록가
-trp_town_25_seneschal|마엘 브레세일
+trp_town_25_seneschal|말 브레살
 trp_castle_1_seneschal|성내 행정관
 trp_castle_2_seneschal|성내 행정관
 trp_castle_3_seneschal|성내 행정관
@@ -1283,7 +1283,7 @@ trp_town_11_armorer|방어구 제작자
 trp_town_12_armorer|방어구 제작자
 trp_town_13_armorer|방어구 제작자
 trp_town_14_armorer|방어구 제작자 에드윈
-trp_town_15_armorer|방어구 제작자 던차흐
+trp_town_15_armorer|방어구 제작자 도너하
 trp_town_16_armorer|방어구 제작자 페가
 trp_town_17_armorer|방어구 제작자 리프리스
 trp_town_18_armorer|방어구 제작자 피어차이르
@@ -1306,8 +1306,8 @@ trp_town_4_weaponsmith|무기 제작자
 trp_town_5_weaponsmith|무기 제작자 아틀리
 trp_town_6_weaponsmith|무기 제작자 하렌빌리
 trp_town_7_weaponsmith|무기 제작자 에길
-trp_town_8_weaponsmith|무기 제작자 고디푸
-trp_town_9_weaponsmith|무기 제작자 우오르뮤인
+trp_town_8_weaponsmith|무기 제작자 고디프
+trp_town_9_weaponsmith|무기 제작자 우오무인
 trp_town_10_weaponsmith|무기 제작자
 trp_town_11_weaponsmith|무기 제작자
 trp_town_12_weaponsmith|무기 제작자
@@ -1734,10 +1734,10 @@ trp_scotch_elite_pl|알반 챔피언
 trp_nurse|시종
 trp_quick_battle_troop_1|칸타브리아인 보도
 trp_quick_battle_troop_1_pl|칸타브리아인 보도
-trp_quick_battle_troop_2|스벤 불 넥
-trp_quick_battle_troop_2_pl|스벤 불 넥
-trp_quick_battle_troop_3|커발 맥 던레인지
-trp_quick_battle_troop_3_pl|커발 맥 던레인지
+trp_quick_battle_troop_2|황소목 스벤
+trp_quick_battle_troop_2_pl|황소목 스벤
+trp_quick_battle_troop_3|커발 막 둔러인
+trp_quick_battle_troop_3_pl|커발 막 둔러인
 trp_quick_battle_troop_4|아르토리우스
 trp_quick_battle_troop_4_pl|아르토리우스
 trp_quick_battle_troop_5|시네이드
@@ -1815,8 +1815,8 @@ trp_mule_troop|개구리
 trp_mule_troop_pl|개구리
 trp_leader_playerrf|노련한 전사
 trp_leader_playerrf_pl|노련한 전사
-trp_mountain_bandit_leader|울버트
-trp_mountain_bandit_leader_pl|울버트
+trp_mountain_bandit_leader|늑대 심장
+trp_mountain_bandit_leader_pl|늑대 심장
 trp_last_druid|드루이드
 trp_last_druid_pl|드루이드
 trp_old_roman|늙은 로마인
@@ -1841,21 +1841,21 @@ trp_port_pirate|노예 상인
 trp_port_pirate_pl|노예 상인
 trp_fisher|어부
 trp_fisher_pl|어부들
-trp_thiaderd|시어더드
-trp_thiaderd_pl|시어더드
+trp_thiaderd|티데르트
+trp_thiaderd_pl|티데르트
 trp_sea_raider_prisoner|선장
 trp_sea_raider_prisoner_pl|선장들
 trp_doccinga_torturador|고문기술자
 trp_doccinga_torturador_pl|고문기술자
-trp_leader_svenlair|헤럴드
+trp_leader_svenlair|하랄드
 trp_leader_svenlair_pl|선장들
 trp_farmstead_prisoner|죄수
 trp_farmstead_prisoner_pl|죄수
-trp_sven_brother|'하얀 머리의' 올리비어
-trp_sven_brother_pl|올리비어
+trp_sven_brother|'하얀 머리의' 올비르
+trp_sven_brother_pl|올비르
 trp_atli_eiriksson|아틀리 에이릭손
 trp_atli_eiriksson_pl|아틀리
-trp_sven_bull_neck|스벤 불 넥
+trp_sven_bull_neck|황소목 스벤
 trp_sven_bull_neck_pl|스벤
 trp_frisianship_merchant|선장
 trp_sailors|오딘 릭 선원
@@ -1871,8 +1871,8 @@ trp_your_motherold_pl|눍은 어머니
 trp_ulf_thefarmer|울프
 trp_hija_granja|토라
 trp_hija_granja_pl|토라
-trp_orm_robagranjas|욤 스바르티
-trp_orm_robagranjas_pl|욤 스바르티
+trp_orm_robagranjas|오름 스바르티
+trp_orm_robagranjas_pl|오름 스바르티
 trp_pagano|고디 올라프
 trp_pagano_pl|고디 올라프
 trp_pseudo_troop_01|pt01
@@ -1895,24 +1895,24 @@ trp_pseudo_troop_09|pt09
 trp_pseudo_troop_09_pl|pt
 trp_pseudo_troop_end|Second Outfit
 trp_pseudo_troop_end_pl|pseudo troop end
-trp_the_snake|스네이크
-trp_the_snake_pl|스네이크
-trp_campeon_1|에드 맥 에인머레치
-trp_campeon_1_pl|에드 맥 에인머레치
-trp_campeon_2|올초발 맥 시네이다
-trp_campeon_2_pl|올초발 맥 시네이다
+trp_the_snake|뱀
+trp_the_snake_pl|뱀
+trp_campeon_1|애드 막 에인머러
+trp_campeon_1_pl|애드 막 에인머러
+trp_campeon_2|올초발 막 키나다
+trp_campeon_2_pl|올초발 막 키나다
 trp_slave|노예
 trp_slave_pl|노예
 trp_morrigan_npc|모리안
 trp_morrigan_npc_pl|모리안
 trp_dog|개
 trp_dog_pl|개
-trp_caliacas_son|브란 맥 칼리아카스
-trp_caliacas_son_pl|브란 맥 칼리아카스
-trp_maelbresail_man|퍼거스 맥 콜메이크
-trp_maelbresail_man_pl|퍼거스 맥 콜메이크
-trp_maelbressail_nother|마엘 브레세일의 엄마
-trp_maelbressail_nother_pl|마엘 브레세일의 엄마
+trp_caliacas_son|브란 막 칼리아카스
+trp_caliacas_son_pl|브란 막 칼리아카스
+trp_maelbresail_man|퍼거스 막 코르막
+trp_maelbresail_man_pl|퍼거스 막 코르막
+trp_maelbressail_nother|말 브레세일의 엄마
+trp_maelbressail_nother_pl|말 브레세일의 엄마
 trp_mp_norse_peasant|농부
 trp_mp_norse_peasant_pl|농부
 trp_mp_saxon_peasant|농부
@@ -1975,30 +1975,30 @@ trp_scotch_peasant_ai|픽트 농부
 trp_scotch_peasant_ai_pl|픽트 농부
 trp_fake_berserker|광전사
 trp_fake_berserker_pl|광전사
-trp_copy_npc1|키오
-trp_copy_npc1_pl|키오
+trp_copy_npc1|카이오
+trp_copy_npc1_pl|카이오
 trp_copy_npc2|에길
 trp_copy_npc2_pl|에길
 trp_copy_npc3|브륀힐드
 trp_copy_npc3_pl|브륀힐드
-trp_copy_npc4|던차흐
-trp_copy_npc4_pl|던차흐
+trp_copy_npc4|도너하
+trp_copy_npc4_pl|도너하
 trp_copy_npc5|모르간트
 trp_copy_npc5_pl|모르간트
 trp_copy_npc6|보도
 trp_copy_npc6_pl|보도
-trp_copy_npc7|드리웨이
-trp_copy_npc7_pl|드리웨이
-trp_copy_npc8|레인허드
-trp_copy_npc8_pl|레인허드
+trp_copy_npc7|두이웨
+trp_copy_npc7_pl|두이웨
+trp_copy_npc8|레긴하르트
+trp_copy_npc8_pl|레긴하르트
 trp_copy_npc9|클로비스
 trp_copy_npc9_pl|클로비스
-trp_copy_npc10|시벨린
-trp_copy_npc10_pl|시벨린
+trp_copy_npc10|시올린
+trp_copy_npc10_pl|시올린
 trp_copy_npc11|솔베이그
 trp_copy_npc11_pl|솔베이그
-trp_copy_npc12|아스비욘
-trp_copy_npc12_pl|아스비욘
+trp_copy_npc12|아스비요른
+trp_copy_npc12_pl|아스비요른
 trp_copy_npc13|헬기
 trp_copy_npc13_pl|헬기
 trp_copy_npc14|에일츠
