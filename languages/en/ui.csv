@@ -56,7 +56,7 @@ ui_character_playername_imported_successfully|인물 %s을(를) 불러왔습니�
 ui_unable_to_open_import_file|불러올 수 없습니다.
 ui_are_you_sure_you_want_to_import_the_character|인물을 불러오시겠습니까?
 ui_unable_to_find_character_import_file|불러올 인물 정보를 찾을 수 없습니다.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&Blade is running in trial mode. Please buy the game for importing a character.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|마운트 앤 블레이드가 체험판으로 구동되고 있습니다. 인물을 불러오려면 게임을 구매해주십시오.
 ui_change_skin|피부
 ui_change_hair|머리
 ui_change_hair_color|머리 색상
@@ -179,10 +179,10 @@ ui_late_afternoon|늦은 오후
 ui_dusk|황혼
 ui_evening|저녁
 ui_midnight|자정
-ui_level_limit_reached|Level Limit Reached!
-ui_explanation_level_limit|Hail Adventurer, Mount&Blade has not been activated yet and is running in trial mode. In this mode, the game is limited to Level 8. In order to continue playing, please restart the game and activate it with your 16-digit serial key which is included in your boxed copy. After activating, you can continue playing right from here. Now, Mount&Blade will save your game and exit.
-ui_time_limit_reached|Time Limit Reached!
-ui_explanation_time_limit|Hail Adventurer, Mount&Blade has not been activated yet and is running in trial mode. In this mode, the game is limited to 30 game days. In oder to continue playing, please restart the game and activate it with your 16-digit serial key which is included in your boxed copy. After activating, you can continue playing right from here. Now, Mount&Blade will save your game and exit.
+ui_level_limit_reached|제한 레벨 도달!
+ui_explanation_level_limit|안녕하세요 모험자님, 마운트 앤 블레이드가 아직 활성화되지 않고 체험판으로 구동되고있습니다. 이 모드에서는 최대 레벨이 8로 제한됩니다. 이어서 플레이 하시려면, 게임을 재시작하여 박스에 동봉된 16자리 시리얼 키를 입력하여 활성화해 주세요. 활성화 후, 여기서부터 이어서 하실수 있습니다. 이제 마운트 앤 블레이드는 저장후 종료됩니다.
+ui_time_limit_reached|제한 시간 도달!
+ui_explanation_time_limit|안녕하세요 모험자님, 마운트 앤 블레이드가 아직 활성화되지 않고 체험판으로 구동되고있습니다. 이 모드에서는 최대 일수가 30일로 제한됩니다. 이어서 플레이 하시려면, 게임을 재시작하여 박스에 동봉된 16자리 시리얼 키를 입력하여 활성화해 주세요. 활성화 후, 여기서부터 이어서 하실수 있습니다. 이제 마운트 앤 블레이드는 저장후 종료됩니다.
 ui_target_lost|목표 놓침
 ui_waiting|정지
 ui_travelling_to|이동 중 
@@ -588,7 +588,7 @@ ui_quick|빠름
 ui_none|그만둔다
 ui_change|변경
 ui_how_to_change|이렇게 설정을 변경할 것입니까?
-ui_change_directx_explanation|You can change the render method between DirectX 7 and DirectX 9 by clicking on the Configure button at the launch menu that comes up when you first start the game.
+ui_change_directx_explanation|게임을 처음실행했을때 나오는 런쳐메뉴에 있는 Configure에서 다이렉트X7과 다이렉트X9 사이에서 렌더방법변경이 가능합니다.
 ui_dropping_picking_up|%s을(를) 버리고 %s을(를) 집어들었습니다.
 ui_dropping|%s을(를) 버렸습니다.
 ui_picking_up|%s을(를) 집어들었습니다.
@@ -705,16 +705,16 @@ ui_round_starts_in_value_seconds|%d초 안에 시작합니다...
 ui_watching_value|%s의 화면
 ui_capital_spec|관중
 ui_capital_dead|사망
-ui_instancing_error1|Could not lock Instance Buffer (size: %d), Disabled mesh-instancing (Error Code: %d)
-ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
+ui_instancing_error1|인스턴스 버퍼에(규모: %d) 락을 걸지 못했습니다. 메쉬 인스턴싱을 비활성화합니다. (에러 코드: %d)
+ui_instancing_error2|인스턴스된 객체에 맞지 않습니다. 메쉬 인스턴싱을 비활성화 합니다.
 ui_by_keyboard|이동키로 조작
 ui_combat_speed_slowest|매우 느림
 ui_combat_speed_slower|느림
 ui_combat_speed_normal|보통
 ui_combat_speed_faster|빠름
 ui_combat_speed_fastest|매우 빠름
-ui_module_newer_than_application|The module you have selected requires a newer version of the game.
-ui_module_older_than_application|The module you have selected requires an older version of the game.
+ui_module_newer_than_application|당신이 선택한 모듈은 게임의 최신버전을 요구합니다.
+ui_module_older_than_application|당신이 선택한 모듈은 게임의 구버전을 요구합니다.
 ui_unbalanced|불안정함
 ui_can_crush_through_blocks|방어를 뚫을 수 있음
 ui_turn_camera_with_horse|1인칭 시점으로 승마시 카메라 회전 설정
@@ -731,19 +731,19 @@ ui_campaign_ai|군사 작전 인공지능:
 ui_downloading_map|지도 다운로드 중 (%d KB)
 ui_download_completed|다운로드 완료.
 ui_server_filter|서버 필터
-ui_has_players|Has players
-ui_is_not_full|Not full
-ui_is_password_free|No password
-ui_native_only|Native only
-ui_ping_limit|Ping limit
-ui_filter_info|%d games and %d players filtered
-ui_is_version_compatible|Compatible with version
-ui_ttnet_account|TTNET Oyun account
+ui_has_players|플레이어 있음
+ui_is_not_full|빈자리 있음
+ui_is_password_free|비밀번호 없음
+ui_native_only|Native 만
+ui_ping_limit|핑 제한
+ui_filter_info|%d 개의 게임들과 %d 명의 플레이어들이 필터링되었습니다.
+ui_is_version_compatible|버전 호환
+ui_ttnet_account|TTNET Oyun 계정
 ui_username|사용자 이름
 ui_password|비밀번호
 ui_error_incorrect_username_or_password|사용자 이름이나 비밀번호가 일치하지 않습니다
-ui_validating_account|Validating account...
-ui_plase_enter_your_serial_key|Please enter your serial key
+ui_validating_account|계정 인증 중...
+ui_plase_enter_your_serial_key|시리얼 키를 입력해주세요
 ui_texture_detail2|텍스쳐 품질:
 ui_antialiasing2|안티얼리어싱:
 ui_troop_upgrades|병종 관계도
