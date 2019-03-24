@@ -647,7 +647,7 @@ str_npc16_2ary_morality_speech|I think it was a brave decision you took to {s21}
 str_npc1_personalityclash_speech|주군 -- 무례하게 굴 생각은 없지만, {s11}는 나를 좀 지치게 만들고 있소. 그녀는 자신이 당신의 겸손한 종인 카이오 보다 뭐라도 나은듯이 거드름을 피우고 있소.
 str_npc2_personalityclash_speech|{reg59?부인:경}, 당신이 알고 있는 것 처럼, 나는 리베에 살았었죠. 난 벌꿀주와 여자를 좋아하는 사내들을 존중합니다. 하지만 과하게 엄격하고 상대하기 어려운 사람들에겐 아니에요. 지금 {s11}에 대해서 하는 말입니다.
 str_npc3_personalityclash_speech|주군, 제 의견을 감히 말씀드리자면, {s11}는 정말 끔찍한 남자에요. 그가 저를 침대로 끌어들이려고 저를 유혹한것도 벌써 몇번이에요. 게다가 저번엔 제가 혼자 있었던 밤을 틈타서 저를 따라오기까지 하더군요.^확실히 말해둘게요. 저는 그 사람때문에 무섭다구요!
-str_npc4_personalityclash_speech|{s11}가 공개적으로 나에게 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 내가 그를 죽여버리겠소. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
+str_npc4_personalityclash_speech|{s11}은 공개적으로 나에게 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 그를 죽여버릴 것이오. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
 str_npc5_personalityclash_speech|A moment of your time, warlord. {s11} seems to think I'm a common bandit, just because I have rewarded myself in the past to the legitimate spoils of war from caravans passing through my family's lands.
 str_npc6_personalityclash_speech|용서하시오, {playername}. 하지만 더 이상은 말을 참을 수가 없구려. 그 창녀같은, {s11}가 말이오, 나를 볼 때마다 다섯 손가락을 펼쳐 나를 가르키더군. 농부들이 악귀를 쫓을 때나 쓰는 그 손짓을 나에게 보낸단 말이오!
 str_npc7_personalityclash_speech|주군, 나는 무례한 말투에 더러운 습관들을 가진 당신의 부하들을 참아내는데 최선을 다 했어요. 그런데 {s11}라 불리는 녀석은 인내심의 한계를 넘어서네요.
