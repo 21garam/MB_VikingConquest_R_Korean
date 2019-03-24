@@ -6383,11 +6383,11 @@ dlga_trade_requested_weapons:merchant_trade|아, 좋소, {reg59?부인:경}. 이
 dlga_trade_requested_armor:merchant_trade|문제 없소, {reg59?부인:경}. 이보다 더 좋은 가격으로 구매할 수는 없을 거요!
 dlga_trade_requested_horse:merchant_trade|당신은 말을 볼 줄 아는 사람이오, {reg59?부인:경}. 이 녀석들보다 좋은 말들을 찾을 수는 없을 거요.
 dlga_town_merchant_talk:smith_requested_repair_1|내 무기중 하나를 수리해주시오.
-dlga_smith_requested_repair_1:smith_requested_repair_2|흠, 살펴보니. 당신의 {s7}은(는) {s8} 상태에 있소. 내 생각에 이걸 수리하는 데 {reg1} 페닝을 필요로 할 것 같소.
+dlga_smith_requested_repair_1:smith_requested_repair_2|어떤 것을 봐주면 되겠소?
 dlga_smith_requested_repair_2:item_improve_1|{s1}.
 dlga_smith_requested_repair_2:merchant_trade|내 마음이 바뀌었소.
-dlga_item_improve_1:item_improve_2|흠, 한번 보세... 당신의 {s7}은(는) {s8}. 내 생각에는 {s9}로, {reg1} 페닝이면 될 거 같소. {s10}
-dlga_item_improve_1:merchant_trade|흠, 한번 보세... 당신의 {s7}에게는 더 이상 할 수 있는게 없군. 난 더는 다듬을 수 없소.
+dlga_item_improve_1:item_improve_2|흠... 살펴보니, 당신의 {s7}은(는) {s8} 상태에 있소. 내 생각에는 이걸 수리해서 {s9}로 만드는 데 {reg1} 페닝이면 될 거 같소.
+dlga_item_improve_1:merchant_trade|흠... 살펴보니, 당신의 {s7}에게는 더 이상 할 수 있는게 없군. 더는 다듬을 수 없소.
 dlga_item_improve_2:item_improve_3|좋소!
 dlga_item_improve_2:merchant_trade|마음이 바뀌었소.
 dlga_item_improve_2:merchant_trade.1|그만한 돈이 없소.
