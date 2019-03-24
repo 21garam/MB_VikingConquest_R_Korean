@@ -418,7 +418,7 @@ str_npc11_intro_response_2|오, 나는 그럴 시간이 없소!
 str_npc12_intro_response_2|미안하오, 나는 지금 해야만 하는 일이 있소.
 str_npc13_intro_response_2|아무 것도 아니오, 내 사과하겠소.
 str_npc14_intro_response_2|못들어봤소. 그다지 당신과 친해지고 싶단 생각이 들지 않는구려.
-str_npc15_intro_response_2|당신의 사업 파트너는 다른 사람을 알아 보시오, 선생
+str_npc15_intro_response_2|당신의 사업 파트너는 다른 사람을 알아 보시오, 샌님 같으니라고.
 str_npc16_intro_response_2|나는 가겠소, 당신은 먼저 말 부터 배워야 할 것 같군.
 str_npc1_backstory_a|장군, 나는 늙은 로마인의 막내 아들이오. 당신도 알다시피 우리 가족은 이 지역의 전설이나 다름 없소. 우리는 하드리아누스의 장벽을 순찰했던 우리의 옛 조상들의 역사를 보존해왔소.
 str_npc2_backstory_a|잠깐이면 됩니다, {reg59?부인:경}. 내 이야기를 들어보세요. 나는 당신에게 중요한 사람입니다.
@@ -450,7 +450,7 @@ str_npc11_backstory_b|당신의 얼굴을 보니 내가 무슨 말을 하고 있
 str_npc12_backstory_b|다시 오딘스베로 돌아가는 길에, 나는 리베에 도착하고 몇 달 동안 그 곳에 머무르다가 결국, 지역 귀족에게 봉사하게 되었소. -- 하지만 그는 전혀 귀족 같지 않았지. 나는 그가 내 봉사를 위해서가 아니라 내 명성을 이용해 총회에서 며칠 간 장식으로 데리고 다닐 생각이었다고 생각하오.
 str_npc13_backstory_b|나는 노스비거의 땅 동쪽에 있는 헤르시르의 둘째 아들이오. 나는 스베아 바이킹이지. 루스 인들과 함께 동쪽으로 떠난 내 많은 동포들과는 달리 나는 서쪽인 앵글리아에서 내 행운을 찾고 있소. 나는 공격을 지휘하거나 남자들에게 전쟁에 필요한 각종 기예들을 가르치는데 능숙하오. 불행하게도, 이 곳의 야를들은 그들의 오합지졸들을 훈련시켜 훌륭한 전사로 만드는 방법에 대해선 별다른 관심이 없었소. 나는 그에게 그들을 파묻게 될 바에는 지금 채찍질을 하는게 현명한 방법이라고 말했소. 그러나 그들은 내 말을 듣기는 커녕 다른곳이나 알아보라고 하더군.
 str_npc14_backstory_b|나는 항상 전사로 살아왔소, 농부나 그 외의 다른 어떤 일도 한 적 없이 오직 전사일 뿐이었소. 이 땅에 대한 나의 애정이 그리 대단치 않다는건 인정하오. 지난 몇 년 동안 나는 내 재능을 최대한 활용해 그 곳의 도시, 요새, 마을 등을 전전하며 돌아다녔소.
-str_npc15_backstory_b|오, 나는 불행한 사람이었소. 나는 콘스탄티노폴리스에서 왔지, 그 곳은 여기에서 아주 먼 곳이오... 아마도 당신은 들어본 적이 있을 것이오, 미크리가드라고 불리는 바랑기아인에 대해서 말이오. 몇 년 전, 그들은 나를 납치해서 여기, 이 먼 북쪽 땅으로 데려왔소. 그들은 나를 노예로 만들었고, 흐로달란드의 야를에게 나를 팔아치웠지. 며칠 전까지 그를 위해서 일했지만, 나는 충분한 돈을 모아 내 자유를 구입했소.
+str_npc15_backstory_b|오, 나는 불행한 사람이었소. 나는 콘스탄티노폴리스에서 왔지, 그 곳은 여기에서 아주 먼 곳이오... 아마도 당신은 들어본 적이 있을 것이오, 미크리가드라고 불리는 바랑기아인에 대해서 말이오. 몇 년 전, 그들은 나를 납치해서 여기 이 먼 북쪽 땅으로 데려왔소. 그들은 나를 노예로 만들었고, 흐로달란드의 야를에게 나를 팔아치웠지. 며칠 전까지 그를 위해서 일했지만, 나는 충분한 돈을 모아 내 자유를 구입했소.
 str_npc16_backstory_b|미안하오... 내가 바보였소. 내 스스로에 대해 이야기해보겠소. 내 이름은 베다라고 하고, 나는 태어날 때부터 성 교회에 있었고, 결국 소년이 되고, 성직자가 되었소. 나는 가장 힘든 전사의 마음 속에도 그리스도를 위한 공간이 있을 거라고 믿고 있고, 나는 하나님이 나에게 주신 더 나은 임무를 위해 방패 벽 안에서 성물을 지킬 것이오.
 str_npc1_backstory_c|나에 대해서 말하자면, 나는 그저 여행하며 넓은 세상을 직접 보길 원하오. 당신은 나에게 기회를 주었소. 아버지가 내 형제들과 나에게 우리 중에서 누가 당신에게 빚을 갚겠느냐고 물었을 때, 나는 내가 스스로 가겠다고 자원했고 나는 그걸 기쁘게 생각하고 있소. .
 str_npc2_backstory_c|지금은 호릭 왕의 근위병으로서 봉사하고 있습니다. 단지 내가 왕의 서자인 덕분에 보장받았던 그 자리에서, 그들의 노력만으로 그 일을 쟁취해 낸 수백명의 사람들의 그림자 속에 산다는건 별로 행복한 일이 아니에요.
@@ -546,7 +546,7 @@ str_npc11_signup_2|하지만 나는 스칼드메르에요. 나는 발키리처�
 str_npc12_signup_2|노른들이 그들의 운명을 맺는 것은 매우 흥미로운 일인 것 같소. 몇일 전까지, 나는 오딘스베에 있는 집에 돌아갈 거라고 생각했소, 나는 내 일을 매일 상처들을 수습하는 것으로 마무리지을 것이오. 그리고 당신을 만난 나는, 이 모든 것이 바뀔 것이라고 생각하고 있었소.
 str_npc13_signup_2|나는 뛰어난 검사요, 나는 또한 전투에서 병력들을 지휘할 수도 있소. 하지만 나는 규율을 위해 당신의 병력들을 내 임의로 처벌할 수도 있음을 알아두어야 할 것이오, 그렇지 않으면 장기적으로 그들은 당신을 따르지 않게 되겠지.
 str_npc14_signup_2|검, 창, 활 할것 없이 내 전투 기술은 서사시에나 나올 법한 수준의 기술이오. 우리가 함께 써나갈 업적들은 여러 세대에 걸쳐 회상될 것이오. 축제에서도, 모닥불 근처에서도, 더러운 주점은 물론 왕의 전당에서도 노래될 그런 업적들 말이오.
-str_npc15_signup_2|공성 작업은 내 전문 분야요, 내가 이해하겠지만, 나는 야전에서도 나 자신을 충분히 지킬 수 있소, 그 경우에 대해서는 생각할 필요가 없소. 이 땅의 요새들은 내 땅에 있던 어느 요새와도 비교할 수 없을 정도로 약하고, 나는 진정으로 당신이 공격하고자 원하는 곳을 어떤 자리이든지 찾아서 점령하게 해 줄 수 있을 것이오.
+str_npc15_signup_2|공성 작업은 내 전문 분야요, 내가 이해하겠지만, 나는 야전에서도 나 자신을 충분히 지킬 수 있소. 그 경우에 대해서는 생각할 필요가 없소. 이 땅의 요새들은 내 땅에 있던 어느 요새와도 비교할 수 없을 정도로 약하고, 나는 진정으로 당신이 공격하고자 원하는 곳을 어떤 자리이든지 찾아서 점령하게 해 줄 수 있을 것이오.
 str_npc16_signup_2|나는 모든 종류의 전투에서 도움이 될 것이오, 그것은 일상적인 일이나 영적인 일이지. -- 지옥의 무리들에 대해 저항할 수 있게 도울 수 있소.
 str_npc1_signup_response_1|좋소, 당신은 우리에게 도움이 될 수 있을 것이오.
 str_npc2_signup_response_1|그 이상의 자세한 정보는 필요 없소, 에길. 그냥 내게 문제를 일으키지만 마시오.
@@ -578,7 +578,7 @@ str_npc11_signup_response_2|미안하오, 레이디. 우리는 이미 충분한 
 str_npc12_signup_response_2|전장은 학자들이 있을 곳이 아니오, 아마 당신은 다른 곳에서 일거리를 찾아야 할 것이오.
 str_npc13_signup_response_2|내 전사들은 충분히 훈련되어 있소, 그럼 이만, 선생.
 str_npc14_signup_response_2|다시 생각해보니, 영광과 여자에 안달나있는 싸움꾼은 부리기에 위험한것 같소.
-str_npc15_signup_response_2|사실, 나는 다른 종류의 전문가가 필요하오, 내 사과하겠소.
+str_npc15_signup_response_2|사실, 나는 다른 종류의 전문가가 필요하오. 미안하오.
 str_npc16_signup_response_2|솔직히 말하면, 나는 광신자가 아닌 동료를 원하고 있소.
 str_npc1_payment|나는 당신에게 매우 유용할 것이오, {reg59?부인:경}, 내기를 해도 좋소. 다만 한 가지 더 우리가 떠나기 전에, 당신은 나에게 {reg3} 페닝을 빌려줄 수 있소? 부끄러운 말이지만, 나는 여기에 진 빚이 있어서 말이오, 지난 몇 주 동안 선술집에서 머무는 동안, 선술집 주인은 내가 더 이상 돈을 가져오지 않을 것이라고 생각하고 있소. 당신도 알겠지만, 이 곳에서 빚을 청산하지 않으면 나중에 상황이 추하게 될 수도 있소.
 str_npc2_payment|내가 합류하기 전에, 나는 300 페닝을 받을 것이오.
@@ -690,7 +690,7 @@ str_npc11_personalityclash2_speech|{reg59?예쁜이:멋쟁이}, 나는 우리가
 str_npc12_personalityclash2_speech|Warlord. I can no longer abide the rank ignorance of {s11}. As I was treating the wounded during our last battle, he saw fit to disparage my use of laudanum in relieving the pain while I conducted surgery, and of treating wounds with a poultice of honey.
 str_npc13_personalityclash2_speech|이쯤 되면 {s11}의 존재가 나를 불쾌하게 만든다는걸 꼭 말해야겠소. 그 데인족은 말이오, 내 부하 중 한명과 그의 부하 사이의 대립을 가지고 날 비방하고 있소. 그 땐 우리가 확실히 패배하긴 했소. 그리고그 때 내가 그 자리에서 같이 싸웠던것도 알고 있더군...
 str_npc14_personalityclash2_speech|{reg59?부인:주군}. {s11}는 끔찍한 동료인데다 세대를 거쳐 영원히 불려진 우리의 방패벽에 대한 영광스런 서사시에 언급될 명예조차 누릴 자격조차 없는 사람이오.
-str_npc15_personalityclash2_speech|장군, {s11}에 대해 말 해야겠소. 나는 {s11}의 의학적 소양이 의심스럽소.^지난 전투를 마치고 부상병을 돌보는 동안이었소. 위대한 의사 히포크라테스가 강변했던 것과 같이, 나는 체액 불균형을 회복하기 위해 비트를 증류해 사용하는 것이 적절하다고 보오. 그래서 {s11}에게 히포크라테스의 지식을 상기시켜 주었소.
+str_npc15_personalityclash2_speech|스트라테고스, {s11}에 대해 말 해야겠소. 나는 {s11}의 의학적 소양이 의심스럽소.^지난 전투를 마치고 부상병을 돌보는 동안이었소. 위대한 의사 히포크라테스가 강변했던 것과 같이, 나는 체액 불균형을 회복하기 위해 비트를 증류해 사용하는 것이 적절하다고 보오. 그래서 {s11}에게 히포크라테스의 지식을 상기시켜 주었소.
 str_npc16_personalityclash2_speech|If you have any fear ofo God, pay heed to the warnings I am about to speak. The demon called {s11} must be put to death right now.
 str_npc1_personalityclash2_speech_b|I have no interest in becoming a Christian, and, in my opinion, this priest only brings us bad luck. Maybe we should burn him.
 str_npc2_personalityclash2_speech_b|적이 우리를 향해 오고 있을 때 그가 그러더군요, '훌륭한 전사는 전투중에 벌꿀주를 마시지 않는다.' 라구요. 다음번엔 한 발 비켜서서 그 녀석 창자에 창 꼬챙이가 박히는 모습이나 봐야겠군요.
@@ -706,7 +706,7 @@ str_npc11_personalityclash2_speech_b|내가 알기론, 레긴하르트는 추방
 str_npc12_personalityclash2_speech_b|Warlord, if that man knew the slightest thing about medical matters, he would know that one should never undermine a patient's confidence in his medic, particularly not during a complicated operation. He should stick to military matters only. If you would be kind enough to dismiss him from this shield-wall, you would be doing all of us a great service.
 str_npc13_personalityclash2_speech_b|그는 계속해서 나더러 뒤를 조심하는게 좋을거라고 말하고 있소. 언젠간 그가 내 '검은 스베아 심장'에 그의 창을 깊게 꽂아넣고 말겠다며 협박했소. 그리고는 다음 전투에선 나를 죽이고 말겠다고 맹세했소.^당신은 보도가 멍청한 짓거리를 벌이지 못하게 주시하고 있어야 할 것이오.
 str_npc14_personalityclash2_speech_b|마지막 전투에서 말이오, 내가 우리를 승리로 이끌어냈던 당신의 지도력과 내 용기를 보여준 수 많은 전투들에서 노래하고 있을 때, 그는 땅에 침을 뱉더니 나에게 거만한 아가리좀 닥치라는 식으로 말했단 말이오.^그가 우리가 쌓아가고 있는 전설적인 위업의 기개를 이해하지 못한다면, 우리의 영광과 행운을 나눠 가질 자격이 없다고 생각하오.
-str_npc15_personalityclash2_speech_b|그런데 {s11}는 히포크라테스를 갈레누스의 지식과는 비교도 할 수 없는 '케케묵은 무식자'라고 말하는 게 아니겠소?^장군이시여, 진정한 의사는 과거의 위대한 거장을 두고 결코 그런 무례를 저지르지 않을 것이오.^나는 {s11}같은 사기꾼을 곁에 두어선 안된다고 생각하오.
+str_npc15_personalityclash2_speech_b|그런데 {s11}는 히포크라테스를 갈레누스의 지식과는 비교도 할 수 없는 '케케묵은 무식자'라고 말하는 게 아니겠소?^스트라테고스, 진정한 의사는 과거의 위대한 거장을 두고 결코 그런 무례를 저지르지 않을 것이오.^나는 {s11}같은 사기꾼을 곁에 두어선 안된다고 생각하오.
 str_npc16_personalityclash2_speech_b|This awful woman has openly declared that she follows the pagan gods Odin and Thor, and that the teachings of Christ are nothing more than the babblings of weak men. She even made an absurd remark suggesting that I, a holy priest, brought us all bad luck with my 'gibberish preaching.' If you have no intention of leading all of your men to Hell, this Norse woman should be immediately sent to her afterlife by fire.
 str_npc1_personalitymatch_speech|주군. 지난 전투에서 {s11}은 단 한 구석도 서투른 모습을 보이지 않았소. 그는 믿을 수 있는 사람이오.
 str_npc2_personalitymatch_speech|{reg59?부인:경}. {s11}가 비록 거친 부류의 사람이고 나만한 술고래이긴 하지만, 내가 그를 동료라고 부르는걸 자랑스럽게 여긴다는걸 말하고 싶군요.
@@ -847,7 +847,7 @@ str_npc8_honorific|{playername}
 str_npc9_honorific|나의 유능한 {reg59?부인:경}
 str_npc10_honorific|드리히텐
 str_npc11_honorific|{reg59?부인:아내} -- 아, 전쟁 군주를 말하는 거였소.
-str_npc12_honorific|전쟁 군주
+str_npc12_honorific|주군
 str_npc13_honorific|전쟁 군주
 str_npc14_honorific|대장
 str_npc15_honorific|스트라테고스
@@ -866,7 +866,7 @@ str_npc11_kingsupport_1|뭐라구요? 그거 정말 멋진 생각이네요, {reg
 str_npc12_kingsupport_1|I am sure that you would make a fine king, warlord. I flatter myself that I am a good judge of character, and you have demonstrated a capacity for compassion that far exceeds that of these others who call themselves monarchs.
 str_npc13_kingsupport_1|좋소, {reg59?부인:나리}, 이 세상의 계급은 하늘이 정해준 것이오. 일반적으로, 나는 주권을 빼앗는 거래에 끼어들고 싶진 않소만, 이 땅의 왕들은 너무도 허약하고 안쓰럽다고 생각하고 있기도 하오. 왕의 이름을 가질만한 자격이 없을만큼 말이오.^그런 정황은... 왕관이 누군가 더 나은 지배자가 빼앗을 수 있도록 하고 있소. 당신과 같은 군주 말이오.
 str_npc14_kingsupport_1|좋은 일이 될것 같소, {reg59?부인:주군}! 많은 이야기들이 왕관을 쟁취하기 위해 스스로 용기와 무용을 보여주었던 왕들에 대해 이야기 하고 있소. 당신도 쿠 훌린의 이야기에 대해서 알고 있을것이오. 그의 용맹함과 그의 두 손으로 만들어낸 무훈들은 하이버니아는 물론 브리튼에서도 비교할만한 사람이 없지. 이 어찌 멋진 이야기가 아니라고 하겠소!
-str_npc15_kingsupport_1|좋소, 대체적으로, 가능한한 당신은 부하들에게 급료를 제때 지불하고 있소. 그것이야 말로 내 사전에선 왕권을 위한 최고의 자격이라 할 수 있소. 당신은 또한 다른 사람들의 권리에 대한 존중을 보여주고 있지 않소.
+str_npc15_kingsupport_1|아주 좋소, 스트라테고스. 당신은 가능한한 부하들의 급료를 제때 지불하고 있소. 그것이야 말로 내 사전에선 왕이 되기 위한 최고의 자격이라고 보고 있소. 게다가 당신은 다른 사람들의 권리에 대한 존중을 보여주고 있지 않소이까.
 str_npc16_kingsupport_1|It seems to me that you hear my words and that your soul stirs before Christ's teachings. Yes, I am sure that God not only approves but is planning your ascension as a rightful king over the sinful people of these lands.
 str_npc1_kingsupport_2|Sure would, warlord, but let me tell you what might bring others to your cause -- particularly us poor folk. They tell us that in the old days, the great Roman lords -- they were called governors, or maybe senators, I can't remember -- would, upon ascending to power, issue amnesty for all but the worst prisoners in the land's dungeons, giving people a second chance to make something of themselves.
 str_npc2_kingsupport_2|Most of the lords of this land, well, let's just say that they never held a pening that they didn't keep as rent or loot. You, on the other hand, have some experience of commerce and trade, due to acting as warlord and managing your domains. If you like, warlord, I reckon I could find some support for you among the men of this realm.
