@@ -4835,7 +4835,7 @@ dlga_esposabarco_15:close_window|그래요, 하지만 저는 어머니를 위해
 dlga_esposabarco_16:close_window|{s2}^^오, 그런... 나는 잠시 혼자 생각해봐야겠구나. 가 보거라.
 dlga_esposabarco_17:esposabarco_18|{s2}^^나는 그런 치료가 필요 없단다, 내 {reg59?딸:아들}아.
 dlga_esposabarco_18:close_window|우리는 거의 다 왔어요. 지금 포기하지 마세요. 우리는 나중에 더 이야기할 수 있을 거에요.
-dlga_start:close_window.93|음, {s21} 근처에 거의 다 왔군, 이제 여기부터는 우리 스스로 갈 수 있을 것 같소. 여기, 당신의 보수인 {reg14} 페닝을 받으시오. 우리를 호위해 줘서 고마웠소, 그럼 행운을 빌겠소.
+dlga_start:close_window.93|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
 dlga_start:sailors_merchant_1|{playername}, 나는 당신과 더 이야기하고 싶지만, 나는 내 일을 끝내러 가야 하오. 우리 나중에 이야기하는게 어떻소?
 dlga_sailors_merchant_1:close_window|알겠소, 우리는 오늘 밤 내가 이 곳에서 내릴 때, 그곳에서 더 이야기할 수 있을 거요.
 dlga_start:close_window.94|저를 집에 데려다 주셔서 고마워요! 저는 우리 가족을 한시라도 빨리 만나고 싶네요, 그럼 이만.
@@ -4843,7 +4843,7 @@ dlga_start:arquerosb_merchant_1|선원장과 이야기해보시오, {playername}
 dlga_arquerosb_merchant_1:close_window|감사하오, 한번 그에게 가보겠소.
 dlga_start:frisianship_merchant_1|좋은 날이오, {playername}. 오늘 잘 지냈소? 당신은 자면서 격렬하게 몸부림치고, 이해할 수 없는 잠꼬대를 외치던데. 내 선원들은 당신이 악령에라도 씌인 줄 알고 있었소.
 dlga_frisianship_merchant_1:frisianship_merchant_2|당신은 누구요? 또 여기는 어디고?
-dlga_frisianship_merchant_2:frisianship_merchant_3|오, 그건 별로 좋지 않은 일이군. 당신은 아무것도 기억나지 않소? 내 이름은 레오프의 아보요. 나는 이 선박, 오딘 릭의 선장이오. 당신은 몇 주 전에 우리에게 돈을 주고 선박에 탔고, 지금 우리는 프리지아 근처의 바다에 와 있소.
+dlga_frisianship_merchant_2:frisianship_merchant_3|오, 그건 별로 좋지 않은 일이군. 당신은 아무것도 기억나지 않소? 나는 레오프의 아보요. 나는 이 선박, 오딘 릭의 선장이오. 당신은 몇 주 전에 우리에게 돈을 주고 선박에 탔고, 지금 우리는 프리지아 근처의 바다에 와 있소.
 dlga_frisianship_merchant_3:frisianship_merchant_4a|알겠소, 이제 기억나는군.
 dlga_frisianship_merchant_3:frisianship_merchant_4b|음, 그건 기억나는군, 그런데 당신은 왜 내가 여기로 오려 했는지 기억하고 있소?
 dlga_frisianship_merchant_4a:frisianship_merchant_5|음, 걱정하지 마시오. 다른 사람들에게 한번 물어보겠소.
