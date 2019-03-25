@@ -4835,19 +4835,19 @@ dlga_esposabarco_15:close_window|그래요, 하지만 저는 어머니를 위해
 dlga_esposabarco_16:close_window|{s2}^^오, 그런... 나는 잠시 혼자 생각해봐야겠구나. 가 보거라.
 dlga_esposabarco_17:esposabarco_18|{s2}^^나는 그런 치료가 필요 없단다, 내 {reg59?딸:아들}아.
 dlga_esposabarco_18:close_window|우리는 거의 다 왔어요. 지금 포기하지 마세요. 우리는 나중에 더 이야기할 수 있을 거에요.
-dlga_start:close_window.93|음, {s21} 근처에 거의 다 왔군, 이제 여기부터는 우리 스스로 갈 수 있을 것 같소. 여기, 당신의 보수인 {reg14} 페닝을 받으시오. 우리를 호위해 줘서 고마웠소, 그럼 행운을 빌겠소.
+dlga_start:close_window.93|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
 dlga_start:sailors_merchant_1|{playername}, 나는 당신과 더 이야기하고 싶지만, 나는 내 일을 끝내러 가야 하오. 우리 나중에 이야기하는게 어떻소?
 dlga_sailors_merchant_1:close_window|알겠소, 우리는 오늘 밤 내가 이 곳에서 내릴 때, 그곳에서 더 이야기할 수 있을 거요.
 dlga_start:close_window.94|저를 집에 데려다 주셔서 고마워요! 저는 우리 가족을 한시라도 빨리 만나고 싶네요, 그럼 이만.
 dlga_start:arquerosb_merchant_1|선원장과 이야기해보시오, {playername}, 선원장은 저기 보트의 뱃머리에 있소. 그는 당신에게 잘 싸울수 있는 방법을 가르쳐줄 것이오.
 dlga_arquerosb_merchant_1:close_window|감사하오, 한번 그에게 가보겠소.
-dlga_start:frisianship_merchant_1|좋은 날이오, {playername}. 오늘 잘 지냈소? 당신은 자면서 격렬하게 몸부림치고, 이해할 수 없는 잠꼬대를 외치던데. 내 선원들은 당신이 악령에라도 씌인 줄 알고 있었소.
+dlga_start:frisianship_merchant_1|좋은 날이오, {playername}. 몸은 괜찮소? 어젯밤, 당신은 격렬하게 몸부림치며 이해할 수 없는 잠꼬대를 외치던데... 내 선원들은 당신이 악령에라도 씌인 줄 알았다고 하더이다.
 dlga_frisianship_merchant_1:frisianship_merchant_2|당신은 누구요? 또 여기는 어디고?
-dlga_frisianship_merchant_2:frisianship_merchant_3|오, 그건 별로 좋지 않은 일이군. 당신은 아무것도 기억나지 않소? 내 이름은 레오프의 아보요. 나는 이 선박, 오딘 릭의 선장이오. 당신은 몇 주 전에 우리에게 돈을 주고 선박에 탔고, 지금 우리는 프리지아 근처의 바다에 와 있소.
+dlga_frisianship_merchant_2:frisianship_merchant_3|이런, 그건 조금 걱정되는 말이군... 아무것도 기억이 나지 않는단 말이오? 나는 레오프의 아보요. 나는 이 선박, 오딘 릭의 선장이오. 당신은 몇 주 전에 우리에게 돈을 주고 선박에 탔지 않소? 지금 우리는 프리지아 근처의 바다에 와 있소.
 dlga_frisianship_merchant_3:frisianship_merchant_4a|알겠소, 이제 기억나는군.
-dlga_frisianship_merchant_3:frisianship_merchant_4b|음, 그건 기억나는군, 그런데 당신은 왜 내가 여기로 오려 했는지 기억하고 있소?
-dlga_frisianship_merchant_4a:frisianship_merchant_5|음, 걱정하지 마시오. 다른 사람들에게 한번 물어보겠소.
-dlga_frisianship_merchant_4b:frisianship_merchant_5|슬슬 정말 당신에 대해서 걱정되기 시작하는군. 나는 자세히 듣지는 못했지만, 나는 당신이 당신의 어머니를 걱정하는 것에 대해서 들을 수 있었소. 그녀는 아픈 상태고, 당신은 프리지아의 항구에 있다는 용한 사제에게 그녀를 데려가 치료하려고 한다고 들었소만.
+dlga_frisianship_merchant_3:frisianship_merchant_4b|음... 그건 기억나는군. 그런데 왜 내가 여기로 오려고 했는지도 기억하고 있소?
+dlga_frisianship_merchant_4a:frisianship_merchant_5|음, 걱정하지 마시오. 다른 사람들에게도 한번 물어보겠소.
+dlga_frisianship_merchant_4b:frisianship_merchant_5|슬슬 정말 당신에 대해서 걱정되기 시작하는군. 자세히는 모르겠지만, 당신이 당신의 어머니를 걱정하고 있다는 것 정도는 알고 있소. 당신의 아픈 어머니를 데리고 프리지아의 항구에 있다는 용한 사제에게 데려간다고 하지 않았소? 오딘 릭이 가기로 한 항구로 말이오.
 dlga_frisianship_merchant_5:frisianship_merchant_6|고맙소! 이제 명확해지는군. 그런데 왜 선박의 돛이 내려가 있소? 선박이 전혀 움직이지 않고 있잖소! 무슨 일이 일어난 거고? 왜 우리는 여기에 정박해 있는 거요?
 dlga_start:close_window.95|행운을 빌겠소!
 dlga_start:frisianship_merchant_talk|좋은 날이오. 우리는 이 곳을 떠날 준비가 되었소. 당신은 준비를 끝냈소?
@@ -4856,15 +4856,15 @@ dlga_frisianship_merchant_talk:close_window|아니, 나는 아직 떠나기 전�
 dlga_frisianship_merchant_1x:frisianship_merchant_2x|{s2}^^우리는 이 항해를 시작하기 전에 약간의 시간적 여유가 있소. 당신은 선박에 올라타 보겠소? 그녀는 상선을 매우 빠르게 몰 줄 아는 사람이오.
 dlga_frisianship_merchant_2x:close_window|왜 나는 당신이 나에게 아무것도 묻지 않는지 묻고 싶소.
 dlga_frisianship_merchant_2x:close_window.1|아니, 나를 믿으시오. 나는 이 일을 처리하기 위한 최후의 수단을 사용할 것이오!
-dlga_frisianship_merchant_6:frisianship_merchant_7|우리는 거의 침몰 직전인 난파선을 발견했소. 최근에 여기서 전투가 있었던 것 같은데, 지금 내 선원들이 거기서 생존자가 있나 찾아보고 있소. 그 불쌍한 자들은 바이킹 롱 보트로부터 도망칠 기회조차도 없었을 거요. 하지만 우리는 우리 나름대로 살아남아야겠지.
+dlga_frisianship_merchant_6:frisianship_merchant_7|우리는 거의 침몰 직전인 난파선을 발견했소. 최근에 여기서 전투가 있었던 것 같은데, 지금 내 선원들이 거기서 생존자가 있나 찾아보고 있소. 그 불쌍한 자들은 바이킹의 롱 보트로부터 도망칠 기회조차도 없었을 거요. 어쨌든 곧 우리는 우리의 길을 갈 예정이오.
 dlga_frisianship_merchant_7:frisianship_merchant_8|오 맙소사, 그러면 그 작업을 빨리 끝내줄 수 있겠소? 그들을 습격한 놈들이 근처에 있을 지도 모르잖소.
 dlga_frisianship_merchant_7:close_window|음, 흥분되는군! 내가 가서 그들을 도와주겠소.
 dlga_frisianship_merchant_8:frisianship_merchant_9|{s2}^^진정하시오, {reg59?부인:경}. 당신의 친구인 보도가 주변을 감시해보자고 주장했었고, 나는 그들이 우리에게서 멀리 떨어져 있을 거라고 확신하오.
 dlga_frisianship_merchant_9:frisianship_merchant_10|보도? 당신이 그렇게 말한다고는 해도, 나는 여전히 걱정되는데 말이오.
 dlga_frisianship_merchant_9:frisianship_merchant_11|나는 당신이 확실히 무엇을 알고 있는지 알기를 원할 뿐이오.
-dlga_frisianship_merchant_10:close_window|{s2}^^만약 당신이 저 선박들에 남겨진 생존자중 한 명이라면, 당신은 우리가 이 작업을 하는 것을 그만두길 원하겠소? 그건 뱃사람의 법이오 -- 특히 이 바다에서는 말이지.
-dlga_frisianship_merchant_11:close_window|내가 확신하오, {reg59?부인:경}. 당신이 제기한 문제에 대해서 우리는 더 문제를 크게 만들지 않을 거요.
-dlga_start:frisianship_mer_1|오, 이런, 우리에게 문제가 생겼소!
+dlga_frisianship_merchant_10:close_window|{s2}^^만약 당신이 저 선박들에 남겨진 생존자중 한 명이라고 생각해 보시오, 그래도 우리가 그만두길 원하시오? 이건 뱃사람의 법이오.^... 특히 이 바다에서는 말이오.
+dlga_frisianship_merchant_11:close_window|내가 보장하겠소, {reg59?부인:경}. 내게 맞겨 보시오. 계속 방해하면 오히려 더 늦어질거요.
+dlga_start:frisianship_mer_1|젠장, 오단! 우리에게 문제가 생겼소!
 dlga_start:close_window.96|미안하오, {reg59?부인:경}. 지금은 늦은 시간이고, 나는 집에 들어가봐야만 하오. 나에게 볼 일이 있다면 내일 다시 와 주시오.
 dlga_frisianship_mer_1:frisianship_mer_2|무슨 일이오?
 dlga_frisianship_mer_2:frisianship_mer_3|오, 오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움 연습에 한눈을 파는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 황소목 스벤의 깃발이오! 이런, 젠장! 이제 우리들이 할 수 있는 거라곤 신들에게 지옥에 가지 않도록 비는것 뿐이오. 그들은 포로를 잡지 않고 모두 죽여버리니까.
