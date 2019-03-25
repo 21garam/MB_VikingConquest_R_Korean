@@ -1884,7 +1884,7 @@ qstr_The_{s15}_complies_w|{s15}은(는) {s16}와의 전쟁을 통해 {s17}와의
 qstr_The_{s1}_and_the_{s2|{s1}와 {s2}가 평화 조약을 맺었습니다.
 qstr_{s2}_{reg3?was:is_cu|{s2}은(는) {reg3?얼마 전에:현재} {s3}에 {reg3?있었소:있을 것이오}.
 qstr_{s2}_{reg3?was:is}_t|{s2}은(는) {reg3?얼마 전에:현재} {s3}로 여행을 떠났고, {reg4?그녀:그}는 아마도 {s4}{reg3?: 근방}에 있을 것이오.
-qstr_{s2}_{reg3?was:is}_i|{s2}은(는) {reg3?얼마 전에 전투를 치뤘고:현재 전투 중이고}, {reg4?그녀:그}는 {s4}{reg3?: 근방}에 있을 것이오.
+qstr_{s2}_{reg3?was:is}_i|{s2}은(는) {reg3?얼마 전에 전투를 치뤘고:현재 전투 중이고}, {reg4?그녀:그}는 {s3}{reg3?: 근방}에 있을 것이오.
 qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?:은(는) 현재} {s3}에 붙잡혀 있소.
 qstr_{s2}_{reg3?was:has_b|{s2}{reg3?:은(는) 현재} {reg4?그녀:그의} 적에게 붙잡혀 있소.
 qstr_I_don_t_know_where_{|당장은 {s2}이(가) 어디에 있는지 모르겠소.
