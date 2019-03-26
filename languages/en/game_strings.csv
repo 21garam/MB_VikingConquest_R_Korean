@@ -251,72 +251,72 @@ str_countersign_1|하지만 의상이나 촛대를 위한 춤은 추지 않으�
 str_countersign_2|파란색으로 가지고 있는 것은 없나요?
 str_countersign_3|그러나, 내 친구, 친구의 친구 중에도 나 같은 친구는 없습니다.
 str_countersign_4|아파본 적 있나요?
-str_name_1|런데위치의 {s50}
-str_name_2|도르스 세스터의 {s50}
-str_name_3|베번버러의 {s50}
-str_name_4|시어 웬돌루의 {s50}
-str_name_5|이멘 마하의 {s50}
-str_name_6|시렌 세스터의 {s50}
-str_name_7|딘 드레이하우의 {s50}
-str_name_8|리시드펠스의 {s50}
-str_name_9|시어 로이드의 {s50}
-str_name_10|콘 세스터의 {s50}
-str_name_11|딘 얼의 {s50}
-str_name_12|노르위치의 {s50}
-str_name_13|라이더치의 {s50}
-str_name_14|두인 올레이흐의 {s50}
-str_name_15|디나이제스버나의 {s50}
-str_name_16|던 비세드의 {s50}
-str_name_17|스와나위치의 {s50}
-str_name_18|우데턴의 {s50}
-str_name_19|바던의 {s50}
-str_name_20|에이크 레임의 {s50}
-str_name_21|'붉은' {s50}
-str_name_22|'용감한' {s50}
-str_name_23|'공정한' {s50}
-str_name_24|'재빠른' {s50}
-str_name_25|'음유시인' {s50}
-str_surname_1|아엘
-str_surname_2|알두이니
-str_surname_3|베르둔
-str_surname_4|케드먼
-str_surname_5|서른
-str_surname_6|코레드
-str_surname_7|이드발드
-str_surname_8|아드파엘
-str_surname_9|이어퍼
-str_surname_10|이프왈드
-str_surname_11|헨지스트
-str_surname_12|호르사
-str_surname_13|오스레드
-str_surname_14|시어덜프
-str_surname_15|윅트레드
-str_surname_16|우파
-str_surname_17|시니
-str_surname_18|컨도그
-str_surname_19|이드너스
-str_surname_20|다이프리그
-str_surname_21|트레니
-str_surname_22|캐드판
-str_surname_23|캐드건
-str_surname_24|리이왈론
-str_surname_25|하이웰
-str_surname_26|시구르드
-str_surname_27|시그프리드
-str_surname_28|엘드레드
-str_surname_29|에드
-str_surname_30|오스윈
-str_surname_31|세오를
-str_surname_32|에이리크
-str_surname_33|토르핀
-str_surname_34|레이브
-str_surname_35|스노리
-str_surname_36|오웨인
-str_surname_37|그리와드
-str_surname_38|고드릭
-str_surname_39|할프단
-str_surname_40|에델모드
-str_surname_41|드리히텐
+str_name_1|아엘
+str_name_2|알두이니
+str_name_3|베르둔
+str_name_4|케드먼
+str_name_5|서른
+str_name_6|코레드
+str_name_7|이드발드
+str_name_8|아드파엘
+str_name_9|이어퍼
+str_name_10|이프왈드
+str_name_11|헨지스트
+str_name_12|호르사
+str_name_13|오스레드
+str_name_14|시어덜프
+str_name_15|윅트레드
+str_name_16|우파
+str_name_17|시니
+str_name_18|컨도그
+str_name_19|이드너스
+str_name_20|다이프리그
+str_name_21|트레니
+str_name_22|캐드판
+str_name_23|캐드건
+str_name_24|리이왈론
+str_name_25|하이웰
+str_surname_1|런데위치의 {s50}
+str_surname_2|도르스 세스터의 {s50}
+str_surname_3|베번버러의 {s50}
+str_surname_4|시어 웬돌루의 {s50}
+str_surname_5|이멘 마하의 {s50}
+str_surname_6|시렌 세스터의 {s50}
+str_surname_7|딘 드레이하우의 {s50}
+str_surname_8|리시드펠스의 {s50}
+str_surname_9|시어 로이드의 {s50}
+str_surname_10|콘 세스터의 {s50}
+str_surname_11|딘 얼의 {s50}
+str_surname_12|노르위치의 {s50}
+str_surname_13|라이더치의 {s50}
+str_surname_14|두인 올레이흐의 {s50}
+str_surname_15|디나이제스버나의 {s50}
+str_surname_16|던 비세드의 {s50}
+str_surname_17|스와나위치의 {s50}
+str_surname_18|우데턴의 {s50}
+str_surname_19|바던의 {s50}
+str_surname_20|에이크 레임의 {s50}
+str_surname_21|'길쭉한' {s50}
+str_surname_22|'외로운' {s50}
+str_surname_23|'부드러운 수염' {s50}
+str_surname_24|'참새' {s50}
+str_surname_25|'빈곤한' {s50}
+str_surname_26|'흉터난' {s50}
+str_surname_27|'공명정대한' {s50}
+str_surname_28|'잔혹한' {s50}
+str_surname_29|'불은' {s50}
+str_surname_30|'검은' {s50}
+str_surname_31|'큰 키' {s50}
+str_surname_32|'별이 비치는 눈' {s50}
+str_surname_33|'겂없는' {s50}
+str_surname_34|'용감한' {s50}
+str_surname_35|'교활한' {s50}
+str_surname_36|'겁쟁이' {s50}
+str_surname_37|'영리한' {s50}
+str_surname_38|'날쌘' {s50}
+str_surname_39|'시적인' {s50}
+str_surname_40|'대담한' {s50}
+str_surname_41|'성급한' {s50}
 str_surnames_end|surnames end
 str_number_of_troops_killed_reg1|다음의 군사가 죽음: {reg1}명
 str_number_of_troops_wounded_reg1|다음의 군사가 부상: {reg1}명
