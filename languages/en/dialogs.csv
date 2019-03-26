@@ -2390,8 +2390,8 @@ dlga_lord_buy_prisoner_deny:lord_pretalk|, 좋으실 대로, {playername}. 하�
 dlga_lord_start:lord_talk|당신의 건강을 위하여, {s5}에 {s5}을(를) 듭시다!, {playername}! 이런 특별한 날 우리 주인에게 당신은 매우 큰 은총이오. 그렇지 않소?
 dlga_lord_start:lord_talk.1|{reg59?부인:경}의 건강을 위하여 {s5}을(를) 듭시다! 만수무강하소서, 폐하. 당신의 명령은 무엇입니까?
 dlga_lord_start:lord_talk.2|당신의 명령은 무엇이오?
-dlga_lord_start:lord_talk.3|나는 당신을 이 경사스러운 행사의 연회장에 초대하고 싶군. 자, 무슨 일인가?
-dlga_lord_start:lord_talk.4|우리 모두 개최자 {s4}의 건강을 위해 {s5}을(를) 듭시다. 자, 무슨 일이오?
+dlga_lord_start:lord_talk.3|환영하오. 오늘같은 경사스러운 날에 나의 홀을 와 주어서 고맙소.^그건 그렇고, 무슨 일이오?
+dlga_lord_start:lord_talk.4|우리 모두 개최자 {s4}의 건강을 위해 {s5}을(를) 듭시다.^그건 그렇고, 무슨 일이오?
 dlga_lord_start:close_window.3|나는 선물을 받았소, 내 듣기로 {s11}(이)가 {s10}을(를) 통해 보낸 거라더군. 그 것은 숭고한 일이오, {reg59?부인:경}, 그리고 나는 당신과 싸웠던 것이 후회되기까지 하오.
 dlga_lord_start:close_window.4|나는 선물을 받았소, 내 듣기로 {s11}(이)가 {s10}을(를) 통해 보낸 거라더군. 당신의 이익을 위해, 내 예전 일들은 기꺼이 넘기겠소.
 dlga_lord_start:close_window.5|나는 선물을 받았소, 내 듣기로 {s11}(이)가 {s10}을(를) 통해 보낸 거라더군. 하! 당신은 내 우정을 살 수 있을 거라 생각하시오?
@@ -5676,8 +5676,8 @@ dlga_merchant_quest_what_if_fail:mayor_pretalk.1|음, 그냥 이 일을 하기 �
 dlga_merchant_quest_what_if_fail:reeve_pretalk.1|음, 그냥 이 일을 하기 위해 최선을 다해 주시오.
 dlga_merchant_quest_taken:mayor_pretalk|훌륭하오, 나는 당신만 믿고 있겠소. 행운을 비오.
 dlga_merchant_quest_taken:reeve_pretalk|훌륭하오, 나는 당신만 믿고 있겠소. 행운을 비오.
-dlga_merchant_quest_stall:mayor_pretalk|글쌔, 아직 그 일을 할 수 있을 만한 시간적 여유가 몇 일 더 있으니, 당신이 이 일을 하기로 결정할 경우 나에게로 와서 말하시오.
-dlga_merchant_quest_stall:reeve_pretalk|글쌔, 아직 그 일을 할 수 있을 만한 시간적 여유가 몇 일 더 있으니, 당신이 이 일을 하기로 결정할 경우 나에게로 와서 말하시오.
+dlga_merchant_quest_stall:mayor_pretalk|아쉽구려... 아직 이 일을 할 만한 사람을 찾을 시간적 여유가 며칠 더 있소. 생각이 바뀌면 다시 와서 말해주시오.
+dlga_merchant_quest_stall:reeve_pretalk|아쉽구려... 아직 이 일을 할 만한 사람을 찾을 시간적 여유가 며칠 더 있소. 생각이 바뀌면 다시 와서 말해주시오.
 dlga_mayor_economy_report_1:mayor_economy_report_2|{s32}
 dlga_mayor_economy_report_2:mayor_economy_report_3|{s42}
 dlga_mayor_economy_report_3:mayor_pretalk|{s47}

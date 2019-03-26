@@ -449,7 +449,7 @@ mno_visit_lady_8|{s12}을(를) 방문합니다.
 menu_town_tournament_lost|당신은 경기에서 탈락했습니다.{s8}
 menu_town_tournament_won|당신은 {s3}에서 벌어지는 경기의 우승자가 되었습니다!^^경기를 관람하던 군중들이 당신의 이름을 외치며 연호하고 있습니다. 당신은 스스로의 명예를 드높였고, 영광과 명성을 얻었습니다. 거기에 더해 경기의 우승 상금으로 {reg9} 페닝을 수여받았습니다.^{s8}
 menu_town_tournament_won_by_another|이 날 벌어진 경기에서 마지막까지 남아 승리한 {reg3?전사:남자}로서, {s1}은(는) 이 경기의 우승자가 되는 영광을 차지했습니다.
-menu_town_tournament|{s1}당신은 경기 {reg0}회전까지 올라왔고, 경기에는 {reg1}명의 참가자가 남았습니다. 이번 경기에서는 {reg3}명의 전사들로 이루어진 {reg2}개의 팀이 참전할 것입니다.
+menu_town_tournament|{s1}^당신은 경기 {reg0}회전까지 올라왔고, 경기에는 {reg1}명의 참가자가 남았습니다. 이번 경기에서는 {reg3}명의 전사들로 이루어진 {reg2}개의 팀이 참전할 것입니다.
 mno_tournament_view_participants|경기에 남은 참가자의 목록을 봅니다.
 mno_tournament_bet|당신이 이기는 것에 돈을 걸고 도박을 합니다.
 mno_tournament_join_next_fight|다음 경기에 참가합니다.
@@ -466,7 +466,7 @@ mno_bet_5_denars|5페닝을 걸어봅니다.
 menu_tournament_bet_confirm|만약 당신이 {reg1} 페닝을 걸어 둔다면, 당신이 경기에서 우승했을 때 {reg2} 페닝을 받을 수 있을 것입니다. 당신은 베팅할 것입니까?
 mno_tournament_bet_accept|도박에 걸어봅니다.
 mno_tournament_bet_cancel|도박에 걸어보지 않습니다.
-menu_tournament_participants|당신은 경기 관리자중 한 명에게 경기에서 살아남은 참가자들에 대해 물어보았습니다. 경기에서 살아남은 참가자:^{s11}
+menu_tournament_participants|당신은 경기 관리자중 한 명에게 경기에서 살아남은 참가자들에 대해 물어보았습니다.^경기에서 살아남은 참가자:^{s11}
 menu_collect_taxes|당신의 부대에서 가장 높은 상술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s1}에 의하면} 당신이 마을에서 세금을 전부 징수하는 데에는 {reg4}일이 걸릴 것입니다.
 mno_start_collecting|세금을 징수합니다.
 mno_collect_later|다음 기회로 미뤄둡니다.
