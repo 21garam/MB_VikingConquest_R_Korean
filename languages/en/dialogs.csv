@@ -6088,28 +6088,28 @@ dlga_village_elder_recruit_start:village_elder_recruit2_b|{s4}
 dlga_village_elder_recruit2_b:village_elder_talk|그런 사람은 아무도 없소! 내가 왜 우리 왕국의 적에게 병력을 제공해야만 하는 거요?
 dlga_village_elder_recruit2_b:village_elder_talk.1|그런 사람은 아무도 없소! 당신을 환영할 사람은 여기에는 아무도 없소.
 dlga_village_elder_recruit2_b:village_elder_recruit6|물론, 당신을 환영하겠소!
-dlga_village_elder_recruit2_b:village_elder_recruit2_1|당신은 특별한 사람처럼 보이지는 않는군, 그저 다른 많은 방랑자와 다를게 없는 것 같소. 당신은 나에게 약속도, 영주의 명령도, 아무것도 들고 오지 않았소. 그렇다면 내가 왜 당신을 위해 징집할 만한 마을 남자들을 찾아주어야만 하오?
-dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|나는 당신이 무서운 사람이라는 것을 잘 알고 있소. 나는 당신을 따라갈 사람이 거의 없을 거라는 것을 거의 확신하오.
+dlga_village_elder_recruit2_b:village_elder_recruit2_1|당신은 특별한 사람처럼 보이지는 않는군, 그저 다른 많은 방랑자와 다를게 없는 것 같소. 당신은 나에게 협상할 것도, 영주의 명령도, 아무것도 들고 오지 않았소. 그런데 내가 왜 당신을 위해 징집할 만한 마을 남자들을 찾아주어야만 하오?
+dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|나는 당신이 무서운 사람이라는 것을 잘 알고 있소. 당신을 따라갈 사람은 거의 없을 것이오.
 dlga_village_elder_recruit2_b:village_elder_recruit2|내가 말할 수 있는 것은...
-dlga_village_elder_recruit2_1:village_elder_recruit4_2|나는 이 마을에서 아무런 기여도 하지 않지만, 이 마을 내에서 문제를 일으키는 몇몇 남자들을 내가 데려가는 대신, 당신에게 충분한 대가를 줄 수 있소.
-dlga_village_elder_recruit2_1:village_elder_recruit4_2threat|당신은 나에 대해서 잘 들어봤을 것이오. 당신의 마을 사람들이 다치는 것을 보기 싫으면, 나에게 병력을 모집할 권한을 주는 것이 좋을 거요.
-dlga_village_elder_recruit2_1:village_elder_recruit4_3|나는 당신이 이 300 페닝을 받고 우리의 우정을 위하여, 약간의 불편을 감수할 수 있을 것이라고 생각하고 있소.
+dlga_village_elder_recruit2_1:village_elder_recruit4_2|이 마을에서 아무것도 하지 않고 문제만 일으키는 남자들을 데려가겠소. 게다가 당신에게 값도 치루겠소.
+dlga_village_elder_recruit2_1:village_elder_recruit4_2threat|당신은 나에 대해서 잘 들어봤을 것이오. 마을 사람들이 다치는 것을 보기 싫으면, 병력을 모집할 권한을 주는 것이 좋을 거요.
+dlga_village_elder_recruit2_1:village_elder_recruit4_3|여기, 300페닝을 받으시오. 나 때문에 겪을 곤란함을 눈감아주는 값으로 말이오.
 dlga_village_elder_recruit2_1:village_elder_recruit4_1|{s10}
-dlga_village_elder_recruit2_1:close_window|내가 보기에, 내가 그리 좋지 않은 날에 여기로 온 것 같소. 우리는 이 주제를 나중에 이야기할 수 있을 것이오, 그럼 이만.
+dlga_village_elder_recruit2_1:close_window|내가 별로 좋지 않은 날에 왔나보군... 나중에 다시 이야기 하겠소, 그럼 이만.
 dlga_village_elder_recruit4_1:village_elder_recruit4_11|{s4}
-dlga_village_elder_recruit4_11:village_elder_recruit2|당신에게 좋은 돈벌이를 제안하겠소. 지금부터, 내 이야기를 잘 들으시오.
-dlga_village_elder_recruit4_11:close_window|나는 이 이야기에 대해 생각해보겠소. 그럼 이만.
-dlga_village_elder_recruit4_3:village_elder_recruit2|돈 소리가 내 귀에서 음악을 연주하는 것 같군. 좋소, 당신의 제안을 이야기해보시오.
-dlga_village_elder_recruit4_3:close_window|나는 정직한 사람이오. 당신은 내가 뇌물을 받을 것이라고 생각했소? 이 이야기는 끝났소. 그럼 가보시오.
+dlga_village_elder_recruit4_11:village_elder_recruit2|당신에게 좋은 돈벌이를 제안하겠소. 지금부터 내 이야기를 잘 들으시오.
+dlga_village_elder_recruit4_11:close_window|흠... 이 대화는 여기서 끝난 것 같군... 그럼 이만.
+dlga_village_elder_recruit4_3:village_elder_recruit2|당신이 내는 은전 소리가 음악처럼 들리는군. 좋소, 당신의 제안을 이야기해보시오.
+dlga_village_elder_recruit4_3:close_window|나는 정직한 사람이오. 당신은 내가 뇌물을 받을 것이라고 생각했소? 이 이야기는 끝났소. 이만 가보시오.
 dlga_village_elder_recruit4_2:village_elder_recruit2|{s4}
 dlga_village_elder_recruit4_2threat:village_elder_recruit2|그렇소, 당신이 저지른 죄악들은 잘 들었지, 그리고 당신이 마을 사람들에게 무슨 짓을 할 것인지도... 눈에 선하오.
-dlga_village_elder_recruit2:village_elder_recruit3|내 영향력은 이 마을 여기 저기에 퍼져 있소. 많은 사람들이 내 말을 듣고, 나는 그들에게 제안을 할 것이오. 나는 당신이 밭에서 일할 남성들을 데려가게 놔 두지는 것이오, 그러나 다른 사람들이라면... 아무런 토지도 경작하지 않고, 지역 사회에 고통 이외에는 아무 것도 안겨주지 않는 패배자들이라면, 나는 그들을 당신에게 합류시키도록 할 수도 있소. 하지만 그들 중 대다수는 당신을 순순히 따르지는 않을 것이오, 그리고 당신은 그들을 죽을 가능성이 높은 곳에 보내야만 하오, 그들은 절대 살아 돌아와서는 안 될 것이오. 물론, 그들은 사람 대접을 받을 필요가 없는 자들이오.
+dlga_village_elder_recruit2:village_elder_recruit3|내 영향력은 이 마을 여기 저기에 퍼져 있소. 많은 사람들이 내 말을 듣고, 내가 제안하는 대로 하곤 하지... 당신이 밭에서 일할 남성들을 데려가는걸 보고만 있지는 않을 것이오.^그러나 다른 사람들이라면... 땅도 없이 아무런 일도 하지 않고 지역 사회에 고통만 안겨주는 패배자들이 있소. 나는 그들에게 당신의 군대에 합류하라고 말해줄 수 있소만, 당신은 그다지 따를만 한 사람처럼 보이지 않는구려...^어쩄거나, 그들을 데려간다면 당신이 그들의 목숨까지 가져가는 셈이오. 무슨 말인지 알겠소? 그들은 절대 살아 돌아와서는 안 될 것이오. 물론, 그들은 사람 대접을 받을 필요가 없는 자들이오.
 dlga_village_elder_recruit3:village_elder_recruit5_1|문제 없소, 당신의 시간을 써서 도우는 것에 대한 보상은 충분히 할 것이오.
-dlga_village_elder_recruit3:village_elder_recruit6|당신과 이야기하러 다시 왔소, 늙은이. 여기, 500 페닝을 받으시오.
-dlga_village_elder_recruit3:close_window|좋은 시간에 오지 못한 거 같군. 다음번에 이야기하세. 잘 있게나.
+dlga_village_elder_recruit3:village_elder_recruit6|무슨 말을 하려는지 잘 알겠소, 늙은이. 자, 500 페닝을 받으시오.
+dlga_village_elder_recruit3:close_window|내가 별로 좋지 않은 날에 왔나보군... 나중에 다시 이야기 하겠소, 그럼 이만.
 dlga_village_elder_recruit5_1:village_elder_recruit6|문제 없소, 그것에 대해서 지금부터 이야기해보시오.
-dlga_village_elder_recruit5_1:village_elder_talk|당신이 너무 막연한 것들에 대해 왜 논의하려고 하는지 잘 이해되지 않소. 내 생각에, 그건 당신과 내 시간을 낭비하는 일이라고 생각하오. 그럼 이만.
-dlga_village_elder_recruit6:village_elder_talk|좋소, 이제 당신은 내 손에서 그 말썽꾼들을 데려갈 권한을 얻었소. 나는 어찌 되었든 그들이 모험을 열망할 것이라고 생각하오. 당신은 마을 중앙으로 가시오, 그리고 거길 배회하는 아무나 징집하시오. 이 마을에서 당신이 원하는 사람을 아무나 징집해도 좋소, 나에게 수수료만 준다면.
+dlga_village_elder_recruit5_1:village_elder_talk|당신이 이런 막연한 것들에 대해 왜 논의하려고 하는지 잘 이해되지 않소. 내 생각에, 그건 당신과 내 시간을 낭비하는 일이라고 생각하오. 그럼 이만.
+dlga_village_elder_recruit6:village_elder_talk|좋소, 이제 당신은 내 손에서 그 말썽꾼들을 데려갈 권한을 얻었소. 나는 어찌 되었든 그들은 모험을 열망하고 있을 것이오. 마을 한복판으로 가서 거기를 배회하는 아무나 징집해도 좋소. 대신 이 마을에서 징집을 할 때마다 나에게 수수료를 챙겨주시오.
 dlga_village_elder_active_mission_1:village_elder_active_mission_2|알겠소, {reg59?부인:경}, 일은 잘 진전되고 있소?
 dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|잘 끝났소, 여기 당신이 원하던 밀 {reg5}자루요.
 dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|자비로우신 {reg59?부인:경}. 당신은 굶주림과 절망으로부터 우리를 구했소. 이 감사를 어찌 표해야 될 지 잘 모르겠소, 하지만 우리가 언제나 당신을 위해 기도하고 있음을 잊지 말아 주시오. {s13}의 마을 주민들은 당신이 우리에게 해준 일에 대해 잊을 수 없을 것이오.
