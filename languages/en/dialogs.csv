@@ -5491,7 +5491,7 @@ dlga_start:reeve_talk|안녕하시오, 이방인. {s9}에는 처음 오신거 �
 dlga_start:reeve_begin.1|좋은 날이오, {playername}.
 dlga_reeve_begin:reeve_friendly_pretalk|범인을 찾아 내 소중한 {s13}을(를) 되찾았다고 들었소. 그들이 말한 것만큼 당신은 정말 좋은 사람이오. 여기 당신의 보상: {reg5} 페닝이오.
 dlga_reeve_begin:close_window|나는 당신이 도망친 경비병으로 부터 패배하고 내 소중한 {s9}도 영원히 사라져 버렸단 소식을 들었소. 여태껏 당신이 믿을만하다는 수 많은 이야기를 들어왔는데 이렇게 되다니... 매우 실망이오, {playername}.
-dlga_reeve_begin:reeve_friendly_pretalk.1|당신이 도적들을 찾아내 벌을 줬다 들었소. 그들이 말한 것만큼 당신은 정말 좋은 사람이오. 여기 당신의 보상: {reg5} 페닝이오. 더 주고 싶지만 도적들이 다 가져간 탓에 이것밖에 없구려.
+dlga_reeve_begin:reeve_friendly_pretalk.1|당신이 도적들을 찾아내 벌을 줬다 들었소. 그들에겐 응당한 처벌이었겠지... 사람들이 말한 대로, 당신은 정말 좋은 사람이오. 여기, {reg5} 페닝이오. 더 주고 싶지만 도적들이 다 가져간 탓에 이것밖에 없구려.
 dlga_reeve_begin:reeve_talk|무슨 일이시오?
 dlga_reeve_friendly_pretalk:reeve_talk|이젠... 다른 필요한 거라도 있으시오?
 dlga_reeve_pretalk:reeve_talk|예?
@@ -5726,7 +5726,7 @@ dlga_merchant_caravan_follow_lead:close_window|좋소, 당신 뒤를 따라가�
 dlga_escort_merchant_caravan_talk:merchant_caravan_stay_here|여기서 잠깐 기다리시오, 먼저 가서 길을 확인하고 오겠소.
 dlga_merchant_caravan_stay_here:close_window|좋소, 당신 말대로 여기서 기다리도록 하겠소.
 dlga_merchant_quest_requested:merchant_quest_brief.4|사실대로 말하면, 나는 최근에 특히 두드러지게 활동하는 도적 한 무리를 잡기 위해 당신 같은 모험가를 찾고 있었소. 그들은 우리 도시 근처를 신출귀몰하게 돌아다니면서 지나가는 상단들에게 돈과 물품을 갈취하고 있소, 그 놈들은 우리가 보낸 민병대나 병사들도 잘 피해서 도망쳤더군. 이대로라면 나는 파산하고 말 거요.
-dlga_merchant_quest_brief:troublesome_bandits_quest_brief|만약, 당신이 그 망할 놈들을 지옥으로 보내 준다면 당신에게 {reg8} 페닝을 주겠소. 이건 위험한 일일 것이오. 하지만 나는 당신이 이 일을 해내리라 믿어 의심치 않고 있소. 당신이 일을 맡아주겠소?
+dlga_merchant_quest_brief:troublesome_bandits_quest_brief|만약, 당신이 그 망할 놈들을 지옥으로 보내 준다면 정중하게 보상 하도록 하겠소. 이건 위험한 일일 것이오. 하지만 나는 당신이 이 일을 해내리라 믿어 의심치 않고 있소. 이 일을 맡아주겠소?
 dlga_troublesome_bandits_quest_brief:merchant_quest_taken_bandits|좋소, 내가 그 놈들을 지옥으로 보내 주겠소.
 dlga_merchant_quest_taken_bandits:close_window|당신이 해주시겠소? 고맙소, 당신에게 행운이 있길 빌겠소.
 dlga_troublesome_bandits_quest_brief:merchant_quest_stall|미안하오, 지금은 그 일을 하지 못할 것 같소.
