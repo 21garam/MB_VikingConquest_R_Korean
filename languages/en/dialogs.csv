@@ -5830,10 +5830,10 @@ dlga_start:close_window.114|미안하오, {reg59?부인:경}. 밤이 깊었으�
 dlga_start:village_elder_thonkrik1|{s9}에 온 것을 환영하... 오, 맙소사! 당신은 우리가 해변에서 발견했던 그 {reg59?여자:남자}가 아니오! 당신을 보게 되어 정말 반갑소! 나는 당신이 살아서 여기 올 거라고는 생각지도 않았소, 그 치유사는 아버지의 유산이 가치있음을 증명했구려, 그의 영혼이 신의 품에서 지금 모습을 보고 편히 쉬기를!
 dlga_village_elder_thonkrik1:village_elder_thonkrik2a|당신이 손크릭이오? 내 이름은 {playername}(이)라고 하오, 당신과 독싱가에게 빚을 졌군.
 dlga_village_elder_thonkrik1:village_elder_thonkrik2b|독싱가의 손크릭이오? 내 이름은 {playername}(이)라고 하오, 나는 당신에게 몇 가지 질문이 있소.
-dlga_village_elder_thonkrik2a:village_elder_thonkrik3|아무것도 아니오, 너무 마음에 두지 마시오, 내 친구! 바다에서 조난당한 사람을 구하는 것은 모든 어부의 의무라오.^우리가 당신을 발견했을 때 당신은 의식이 없었고, 단지 판자 조각 하나에 의지해 버티고 있었지. 다행스럽게도, 당신은 해변에서 멀지 않은 곳에 있었소.
+dlga_village_elder_thonkrik2a:village_elder_thonkrik3|그럴 필요 없소. 너무 마음에 두지 마시오, 친구! 바다에서 조난당한 사람을 구하는 것은 모든 어부의 의무라오.^우리가 당신을 발견했을 때 당신은 의식이 없었고, 단지 판자 조각 하나에 의지해 버티고 있었지. 다행스럽게도, 당신은 해변에서 멀지 않은 곳에 있었소.
 dlga_village_elder_thonkrik2b:village_elder_thonkrik3|좋소, {playername}, 나에게 물어 보시오.
 dlga_village_elder_thonkrik3:village_elder_thonkrik4|우리는 오딘 릭이라고 하는 선박을 타고 여행하고 있었소, 그러나 우리는 바이킹들의 공격을 받았소! 그 것이 당신이 바다에서 나를 발견하게 된 사연이오.
-dlga_village_elder_thonkrik4:village_elder_thonkrik5|나는 오딘 릭에 대해서 알고 있소! 그들은 독싱가에 몇 번 정박했었소, 그들은 매 번 끔찍한 상태에 있는 환자들을 싣고 오곤 했지.^당신을 살려준 그 치유사의 아버지는 그의 치유술로 아주 명망 높은 사람이었소, 그리고 그를 만나기 위해 천명 정도 되는 사람들이 매년 이 곳을 들렸다 갔지. 그리고 지금 그 사람은 죽었고, 불행하게도 그의 아들은 그가 사용했던 마법을 사용할 수가 없소.^미안하오, 당신은 분명 그를 찾아온 것일 텐데, 오딘 릭에서 바이킹에게 습격을 받았다니...
+dlga_village_elder_thonkrik4:village_elder_thonkrik5|오딘 릭에 대해서는 알고 있소! 오딘 릭은 독싱가에 여러번 번 정박했었소. 그들은 매 번 끔찍한 병에 걸려 치료법을 찾는 사람들을 데리고 왔었지.^당신을 살려준 그 치유사의 아버지는 그의 치유술로 아주 명망 높은 사람이었소. 그리고 그를 만나기 위해 천명도 넘는 사람들이 모든것을 버리고 떠나 이곳으로 왔지...^그 치유사는 이제 죽었고, 불행하게도 그의 아들은 그가 사용했던 마법을 사용할 수가 없소.^오딘 릭이 바이킹에게 습격을 받았다니, 안타깝게 되었군...
 dlga_village_elder_thonkrik5:village_elder_thonkrik7|나는 그에게 치료를 받으러 온 사람 중 하나였소. 내 어머니가 아팠기 때문에, 그러나 지금은, 아마도 그녀는... 죽었을 것이오.
 dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|내 어머니는 나와 함께 같이 여행하고 있었소, 당신은 다른 사람이나... 혹은 시체를 발견한 적이 있소?
 dlga_village_elder_thonkrik7:village_elder_thonkrik8|바다는 이따금 우리의 해안에 시체와 난파선들을 실어나르곤 하오, 하지만 당신 이외에는 아무 것도 없었소. 일반적으로, 바이킹들은 그들의 포로를 노예로 팔곤 한다오.
