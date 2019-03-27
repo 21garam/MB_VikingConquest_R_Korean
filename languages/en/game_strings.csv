@@ -853,7 +853,7 @@ str_npc14_honorific|대장
 str_npc15_honorific|스트라테고스
 str_npc16_honorific|{reg59?부인:경}
 str_npc1_kingsupport_1|좋은 생각이오, 주군! 지금 이 땅을 지배하는 사람들과 귀족들은 말이오, 감옥과 처형대, 교수대로 사람들을 지배하고 있소. 우는 아이 때문에 어쩔 수 없이 빵 한덩이를 훔치는 남자에게 조차도 그들은 채찍질을 하고 낙인을 찍고 심지어 교수대에 매달아버리고 있소.^이 땅은 더 나은 대우를 받을 자격이 있소.
-str_npc2_kingsupport_1|오, 저는 당신을 지지해요, 주군. 당신은 이 세상이 오랬동안 갈망해왔던 일종의... 깨우친 통치자가 될거라고 생각해요.
+str_npc2_kingsupport_1|당연하죠! 저는 당신을 지지해요, 주군. 당신은 이 세상이 오랬동안 갈망해왔던 일종의... 깨우친 통치자가 될거라고 생각해요.
 str_npc3_kingsupport_1|글쎄요, 나의 주군이시여. 저는 조금 걱정이 되네요. 우리의 역사는 권력이 언젠간 더러워진다는걸 말해주고 있어요. 하지만 어쨌든 나는 당신이 군주로써 이 방패벽 안에서 보여준 자비와 판단에 위안을 받고 있어요.
 str_npc4_kingsupport_1|내 생각엔 당신이 전사들의 명문가 출신의 {reg59?여왕:왕}처럼 될 수 있다고 생각하오. 나 스스로가 전투에서 당신을 따르는게 자랑스러운 그런 {reg59?여왕:왕} 말이오.
 str_npc5_kingsupport_1|훌륭한 발상이오! 당신은 당신이 얼마나 사람들을 관리하는 방법을 잘 알고있는지 몸소 보여주었소. 지금까지 잘 해 왔지만, 앞으로도 그들을 공정하게 관리해야 한다는 것을 잊지 말아야 할 것이오.
@@ -869,7 +869,7 @@ str_npc14_kingsupport_1|좋은 일이 될것 같소, {reg59?부인:주군}! 많�
 str_npc15_kingsupport_1|아주 좋소, 스트라테고스. 당신은 가능한한 부하들의 급료를 제때 지불하고 있소. 그것이야 말로 내 사전에선 왕이 되기 위한 최고의 자격이라고 보고 있소. 게다가 당신은 다른 사람들의 권리에 대한 존중을 보여주고 있지 않소이까.
 str_npc16_kingsupport_1|It seems to me that you hear my words and that your soul stirs before Christ's teachings. Yes, I am sure that God not only approves but is planning your ascension as a rightful king over the sinful people of these lands.
 str_npc1_kingsupport_2|Sure would, warlord, but let me tell you what might bring others to your cause -- particularly us poor folk. They tell us that in the old days, the great Roman lords -- they were called governors, or maybe senators, I can't remember -- would, upon ascending to power, issue amnesty for all but the worst prisoners in the land's dungeons, giving people a second chance to make something of themselves.
-str_npc2_kingsupport_2|Most of the lords of this land, well, let's just say that they never held a pening that they didn't keep as rent or loot. You, on the other hand, have some experience of commerce and trade, due to acting as warlord and managing your domains. If you like, warlord, I reckon I could find some support for you among the men of this realm.
+str_npc2_kingsupport_2|이 땅의 대부분의 군주들은 말입니다, 까놓고 이야기 해 볼게요. 그들은 돈을 제대로 다룰 줄 모릅니다. 임대료나 전리품도 어떻게 써야 하는지 잘 모르죠. 반면에 당신은 상업이나 거래에 대한 경험도 가지고 있고 장군으로써나 당신만의 영역을 관리하는 데 정당한 소임을 다 하고 있어요.^원한다면 내가 나서서 이 지역 사람들의 지지를 모아보겠어요. 예상컨데 어느정도의 지지는 얻어낼 수 있을것 같군요.
 str_npc3_kingsupport_2|I would, my {reg59?lady:lord}, but I would ask you to establish at least a minimal amount of rights for slaves. They need to be protected from further abuse. You know I was a slave, and we are the most abused people in the land. Slaves really need to be protected by a rightful and fair ruler.
 str_npc4_kingsupport_2|Of course, warlord. The trick is now to get others to follow you. As you know, one's lineage is a great determinant of one's worthiness. Perhaps you have a long-lost ancestor of whom you have not told me...
 str_npc5_kingsupport_2|I would, but there is something I should say on behalf of men that have been wronged like I have. There must be a way for feuding nobles to have their disputes resolved without bloodshed. I lost everything I cherished in life because the only honorable option my king had left me was to murder my enemies. There should be some kind of law, some kind of... common law, to settle this kind of feud, or, maybe, any kind of dispute. That law would be based on the uses and customs of the land.
@@ -884,27 +884,27 @@ str_npc13_kingsupport_2|I would indeed, {reg59?madame:sir}. I think you can unit
 str_npc14_kingsupport_2|Of course, my {reg59?lady:lord}. Also, when claiming a throne, it does not hurt to be the subject of an epic poem, recited around camp and hearth fires, describing one's heroic deeds. As you no doubt know, I fancy myself a fair crafter of couplets. You could be as famous as Cu Chulainn, if only you let me sing of your deeds.
 str_npc15_kingsupport_2|I would. People might say that perhaps you don't have royal blood in your veins, but from what I've seen, royal blood makes one essentially a beggar. Kings and nobles take out loans or commission building projects without half a thought to how they're ever going to pay back all those commoners who expect little more than to eat after an honest day's work. If you ask me, an honest tongue makes a {reg59?woman:man} a {reg59?queen:king}, not a fancy pedigree.
 str_npc16_kingsupport_2|Of course! I know that you plan to search out and burn any remnant of heresy and paganism in these lands. I know that you will only rest when there is no trace of the Devil in the hearts of your subjects, when every man, woman and child will have only the Holy Bible as their guide, as properly interpreted by a priest. Is your soul so pure as to do as I say?
-str_npc1_kingsupport_2a|Please go on...
-str_npc2_kingsupport_2a|Please continue...
-str_npc3_kingsupport_2a|I'm interested in hearing it...
-str_npc4_kingsupport_2a|Of course! Let me tell you all about him...
-str_npc5_kingsupport_2a|Please go on...
-str_npc6_kingsupport_2a|Splendid! That was exactly what I was thinking.
-str_npc7_kingsupport_2a|Well, yes, I try to be fair to everyone...
-str_npc8_kingsupport_2a|Fair enough.
-str_npc9_kingsupport_2a|That seems sensible enough...
-str_npc10_kingsupport_2a|Of course! Everyone knows only Saxons are fit to be nobles.
-str_npc11_kingsupport_2a|Tell me more.
-str_npc12_kingsupport_2a|Interesting. Please go on...
-str_npc13_kingsupport_2a|Please go on...
-str_npc14_kingsupport_2a|Very good, captain.
-str_npc15_kingsupport_2a|Well spoken, Strategos!
-str_npc16_kingsupport_2a|Of course I am. We are nothing but instruments of God.
-str_npc1_kingsupport_2b|Forget it.
-str_npc2_kingsupport_2b|I do not ask for their support, as they would no doubt wish to make a profit on the transaction.
-str_npc3_kingsupport_2b|I have no intention of helping any more slaves, sorry.
-str_npc4_kingsupport_2b|I don't have any, unfortunately.
-str_npc5_kingsupport_2b|No, I believe the lords should resolve their disputes by blood, and blood only. Laws are only useful to the weak.
+str_npc1_kingsupport_2a|계속 말 해 보시오...
+str_npc2_kingsupport_2a|듣고 있소, 말 해 보시오...
+str_npc3_kingsupport_2a|흥미로운 이야기로군...
+str_npc4_kingsupport_2a|물론이지! 그에 대한 모든 것을 말해주시오...
+str_npc5_kingsupport_2a|계속 이야기 해 보시오...
+str_npc6_kingsupport_2a|훌륭해! 내가 생각하고 있던게 바로 그런 것 이었소.
+str_npc7_kingsupport_2a|물론이지, 나는 모두에게 공정하게 대할 것이오...
+str_npc8_kingsupport_2a|충분히 좋은 이야기로군.
+str_npc9_kingsupport_2a|꽤 현명한 소견인 것 같군...
+str_npc10_kingsupport_2a|물론이지! 오직 색슨족만이 진정한 귀족이란건 누구나 알고 있는 사실이오.
+str_npc11_kingsupport_2a|더 이야기 해 주시오.
+str_npc12_kingsupport_2a|흥미롭군. 말 해 보시오...
+str_npc13_kingsupport_2a|계속 말 해 보시오...
+str_npc14_kingsupport_2a|아주 좋소, 대장.
+str_npc15_kingsupport_2a|잘 말했소, 스트라테고스!
+str_npc16_kingsupport_2a|물론 내가 그런 사람이오. 우리는 위대하신 신의 도구일 뿐 그 외엔 아무것도 아니오.
+str_npc1_kingsupport_2b|잊어버리시오.
+str_npc2_kingsupport_2b|그들이 그저 거래로 돈을 벌기 위한 자들이라면, 그런 자들의 도움은 필요 없소.
+str_npc3_kingsupport_2b|나는 이제 더이상 다른 노예들을 돕는 데에는 관심이 없소. 미안하오.
+str_npc4_kingsupport_2b|불행하게도, 이제 더 가진게 없소.
+str_npc5_kingsupport_2b|그렇지 않소. 군주는 혈통주의와 혈통에 의한 분쟁을 해결해야만 한다는게 내 신념이오. 오직 법률만이 약자들에게 유용할 것이오.
 str_npc6_kingsupport_2b|I am sorry, but my future kingdom will not meddle with continental affairs.
 str_npc7_kingsupport_2b|Sorry. I respect you for your abilities, but warriors, men, and Britons are much more deserving than others.
 str_npc8_kingsupport_2b|That's a pretty tall condition. By the time I am {reg59?queen:king}, Friese will probably have freed itself from the Danish.
@@ -917,7 +917,7 @@ str_npc14_kingsupport_2b|Hmm. I'm not sure about that. Cu Chulainn had a tragic 
 str_npc15_kingsupport_2b|{reg59?Queen:King} of the weak and the poor, maybe. Enough of such talk.
 str_npc16_kingsupport_2b|No disrespect, but I'm not as sure that's what I'd do. Perhaps God would not like that at all.
 str_npc1_kingsupport_3|If I could go about this land for a few weeks, I'd tell the common folk that you would give amnesty to their kinfolk like the Roman -- um, consuls, I think -- of old. Well, soon they would start talking of you as a rightful king, and that would pave your way to the throne. Shall I do that, warlord?
-str_npc2_kingsupport_3|If you like, warlord, I can take a few weeks to visit the areas where I have contacts. I'll explain to them that, in you, they will have a {reg59?ruler:king} who will check the rapacious nobles, who, with their tariffs and taxes, strangle commerce for the sake of a few extra peningas to spend on their wars and their feasts. What do you say to that, warlord?
+str_npc2_kingsupport_3|주군께서 원하신다면 몇 주 동안 내가 알고 있는 몇몇 지역을 돌아보고 올게요. 내가 가서 사람들에게 전하겠어요. 전쟁과 자신을 위한 잔치와 연회를 위해 관세와 세금을 먹이고, 푼돈을 빼앗기 위해 상행위를 악의적으로 가로막는 탐욕스런 귀족들을 감시할 수 있는 {reg59?지배자:왕}을 세울 수 있다고 말이죠. 내 계획이 어때요, 주군?
 str_npc3_kingsupport_3|If you were to protect the poor slaves, even slave girls, I am sure most of the common people would see you as a kind and just {reg59?queen:king}. So, if you can give me a few weeks, I will travel the countryside, telling every poor man and woman that fears enslavement due to debt or war that, under your rule, they would still have protection and rights.
 str_npc4_kingsupport_3|I shall travel about the villages and forts over the next several weeks and spread word of your rights. Of course, I hope that you will remember your faithful subject when it comes to distributing lands after you are a crowned and powerful monarch.
 str_npc5_kingsupport_3|Anyway, {reg59?lady:lord}, if I could take a few weeks, I'd let men know that, when you are {reg59?queen:king}, you will institute a common law, based on tradition and customs, to resolve the disputes within the realm, be they about nobles or commoners. I am pretty sure they will all be more than happy to support your claim, since you will bring justice consistently to all the lands under your rule.
