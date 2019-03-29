@@ -4460,16 +4460,16 @@ dlga_deserter_paid_talk:deserter_paid_talk_2a|당신과 문제를 일으키고 �
 dlga_deserter_paid_talk_2a:close_window|그래, 장난은 그만 두고 돈을 벌러 가야겠군, 먼저 나는 네놈이 가진 지갑에 있는 돈부터 세어보고 싶은데.
 dlga_deserter_paid_talk:deserter_paid_talk_2b|아니, 당신이 나에게 목숨을 지불할 시간이오.
 dlga_deserter_paid_talk_2b:close_window|무슨 말도 안되는 소리를 하는 거야? 너는 문제를 일으키길 원하나? 네 뜻대로 되었군.
-dlga_start:deserter_talk|우리는 자유로운 형제들이오. 우리는 당신과 싸울 것이오. 우리에게 금을 내놓지 않으면 당신은 우리와 싸워야 할 것이오.
-dlga_deserter_talk:close_window|당신이 나에게 끝장날 때, 당신은 당신의 주인을 떠난 것을 후회하게 될 것이오.
+dlga_start:deserter_talk|우리 형제들은 자유의 몸이다! 이제부터 우리는 오직 우리만을 위해 싸울 것이다. 당장 네 놈이 가진 금을 내놓지 않으면 칼 맛을 보게 해 주지.
+dlga_deserter_talk:close_window|배신자들 이로군. 주인을 떠난 것을 후회하게 해 주겠소.
 dlga_deserter_talk:deserter_barter|나는 당신들과 싸우기를 원하지 않소. 얼마를 주면 되겠소?
-dlga_deserter_talk:deserters_2bribe|당신은 나에 대해 들은 적이 있소? 나에게 합류하면 나는 당신들을 죽이지 않을 것이오.
+dlga_deserter_talk:deserters_2bribe|지금 당신이 누구랑 이야기 하고 있는줄은 알고 있소? 내 군대에 합류하시오. 그러면 당신들을 죽이지 않겠소.
 dlga_deserters_2bribe:close_window|나는 네놈이 누구인지 관심 없어. 이제 죽을 시간이다!
 dlga_deserters_2bribe:deserters_2bribeg|그렇소, 나는 당신에 대해 들은 적이 있소. 그들은 당신의 부하들이 최고의 전리품을 얻는다고 말했지. 우리를 용서해주시오, 그리고 우리는 당신의 편에 서는 것을 기쁘게 생각하겠소.
 dlga_deserters_2bribe:deserters_2bribere|당신이 우리에게 {reg0} 페닝을 준다면 고려해보겠소.
 dlga_deserters_2bribere:close_window|그건 좋은 거래인 것 같소, 당신들의 전투기술은 잘 입증되었지. 내 부대에 온 것을 환영하오.
 dlga_deserters_2bribere:deserters_bribe12|이런! 당신들의 가치가 그 정도는 아닌 것 같소. 내 제안은 잊어버리시오.
-dlga_deserters_2bribere:deserters_bribe12.1|Ouch! You value your worth over much, methinks. Forget it. {***}
+dlga_deserters_2bribere:deserters_bribe12.1|이런, 자신의 가치를 너무 높게 평가 하는것 같군. 제안은 없던 것으로 하겠소.
 dlga_deserters_2bribeg:close_window|왜, 우리가 당신을 따르는 꿈이라도 꾸고 있었나?!
 dlga_deserters_2bribeg:deserters_bribe13|신경쓰지 마시오. 우리 부대에는 이미 전리품을 나눠가질만한 병사들이 충분히 많소.
 dlga_deserters_bribe12:close_window|오, 알겠소, 우리는 당신의 부대에 합류할 날만을 기다리고 있겠소.
@@ -5465,7 +5465,7 @@ dlga_farmstead_boss_talk:farmstead_boss_angry|나는 당신이 여기서 문제�
 dlga_farmstead_boss_angry:farmstead_boss_extortion|문제? 나는 문제가 생기길 원하지 않소. 오, 알겠소. 좋소, 우리는 문제를 원하지 않소. 당신에게 보호세를 내겠소.
 dlga_farmstead_boss_extortion:farmstead_boss_pretalk|좋소, 나는 당신을 믿고 있소, 문제는 당신에게서 멀리 있을 것이오.
 dlga_farmstead_boss_angry:close_window|문제? 다신 귀찮게 하지 마시오. 그렇지 않으면 내가 문제가 뭔지 보여주겠소!
-dlga_start:close_window.109|당신은 아직 일을 끝내지 않았소. 뜰 근처 두 밀밭에 있는 건초들을 쌓아 놓도록 하시오.
+dlga_start:close_window.109|자... {s21}에 거의 다 왔군요. 여기부터는 우리끼리 갈 수 있겠소. 보수를 줘야지... 여기, {reg14} 페닝이오. 우리를 호위해주어서 고맙소. 행운을 빌겠소.
 dlga_farmstead_boss_talk:farmstead_work_0|여기서 일하고 싶소.
 dlga_farmstead_work_0:farmstead_work_1|우린 일당으로 하루에 3 페닝을 지급해주오.
 dlga_farmstead_work_1:close_window|관심 없소.
@@ -5539,7 +5539,7 @@ dlga_mayor_looters_quest_response:mayor_looters_quest_destroyed|나는 약간의
 dlga_mayor_looters_quest_response:mayor_looters_quest_goods|나는 당신에게 부탁받은 물건들을 가져왔소.
 dlga_mayor_looters_quest_response:close_window|아직은 딱히 없군, 그럼. 다녀오겠소.
 dlga_mayor_looters_quest_destroyed:mayor_looters_quest_destroyed_2|내 정찰병들이 모든 것을 전부 지켜보았소, 다른 사람들이 그냥 듣는다면 믿지 못할 광경이었소! 한 무리당 40 페닝의 현상금이 걸려 있으니, 당신은 총 {reg1} 페닝을 받게 될 것이오. 여기 약속한 당신의 돈이 있소.
-dlga_mayor_looters_quest_destroyed_2:close_window|그리고 그것뿐만이 아니오! 고맙소, 약탈자는 더 이상 우리를 위협하지 못할 것이오. 우리는 최근 몇 시간 동안 한 번의 공격조차 보고받은 적이 없소. 그들이 만약 살아서 도망갔다면, 아마 그들은 도망쳤거나 그들의 깊고 은밀한 은신처에 숨어있을 것이오. 이것은 오로지 당신이 한 일의 성과 같소, {playername}. 이 돈은 내 보답이오, 고맙소, 그리고 잘 가시오.
+dlga_mayor_looters_quest_destroyed_2:close_window|좋은 소식은 그것뿐만이 아니오! 그 약탈자들이 더 이상 우리를 위협하지 않고 있소. 최근에는 한 동안 그 어떤 공격조차 보고받은 적이 없소. 당신에게서 살아남은 놈들이 있다면, 아마 도망쳤거나 은밀한 곳에 숨어있을 것이오. 내 사업엔 좋은 일이오! 물론, 사업에 좋은 일은 이 도시에도 마찬가지로 좋은 일이지.^이제 우리의 계약을 기쁘게 마무리 지어야 할 때가 왔소, {playername}. 이 돈은 내 보답이오, 감사의 표현으로 받아주시오. 고맙소.
 dlga_mayor_looters_quest_destroyed_2:mayor_looters_quest_response|뭐 다른 일이라도 있소?
 dlga_mayor_looters_quest_goods:mayor_looters_quest_goods_response|나는 당신이 도와줄 것이라고 믿고 있소! 당신은 우리가 원하는 물건을 구해다 주시오. 그리고 우리는 그 물건들을 받아갈 몇 명의 남자들을 보낼 것이오. 나는 {reg1} 페닝어치만큼의 그 물건을 필요로 하고 있소.
 dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
