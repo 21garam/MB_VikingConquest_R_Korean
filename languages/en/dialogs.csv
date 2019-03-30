@@ -1449,10 +1449,10 @@ dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|항상 충성스럽게 따르�
 dlga_rebel_thanks_answer_2:close_window|당신과 함께 모험을 떠난 날들을 그리워할 겁니다. 하지만 제 임무가 절 기다리고 있군요. 그러니... 지금으로서는 작별이군요, {playername}. 나중에 다시 볼 수 있기를 바랍니다.
 dlga_event_triggered:companion_political_grievance_response|{s21}
 dlga_companion_political_grievance_response:close_window|당신의 의견은 잘 알겠소.
-dlga_event_triggered:companion_rejoin_response|안녕하십니까, {s21}. 절 다시 받아줄 준비가 되셨는지요?
-dlga_event_triggered:companion_rejoin_response.1|어, {s21}. 드디어 당신을 찾았군요. 당신이 원하는 이상에 대해 설파하고 왔습니다. 그리고 방벽에 재합류할 준비도 마쳤고요.
-dlga_event_triggered:companion_rejoin_response.2|드디어, {s21} 당신을 찾았네요! {s11}. 나머지 보고는 서면으로 제출하겠습니다.
-dlga_event_triggered:companion_embassy_results|아, {s21}. 마침내 당신을 찾았군요. {s31}에 가서 임무를 마치고 돌아왔습니다. 전반적으로 {s14}.
+dlga_event_triggered:companion_rejoin_response|{s21}, 드디어 당신을 찾았군요. 당신이 원하는 이상에 대해 설파하고 왔소. 이제 다시 당신의 방패벽에 설 준비도 되었소.
+dlga_event_triggered:companion_rejoin_response.1|{s21}, 마침내 당신을 찾았군요! {s11}. 자세한 이야기는 서면으로 제출하도록 하겠소.
+dlga_event_triggered:companion_rejoin_response.2|다시 만나서 반갑소, {s21}! 내가 다시 부대에 합류하면 되겠소?
+dlga_event_triggered:companion_embassy_results|{s21}. 마침내 당신을 찾았군요. {s31}에 가서 임무를 마치고 돌아왔습니다. 그곳은 전반적으로 {s14}하다고 할 수 있습니다.
 dlga_companion_embassy_results:companion_rejoin_response|이 편지에는 {s12}가 당신을 {s4}의 {reg59?귀부인:영주}로 임명하겠답니다. 이거면 당신이 독립된 영주이자 하나의 권력을 지니고 있다는 사실을 증명해줄겁니다.
 dlga_companion_embassy_results:companion_rejoin_response.1|이 편지에는 {s12}는 당신을 아무 호칭도 없이 그냥 {playername}이라고 칭하겠답니다. 이로써 당신이 지도자로서 권리를 가졌다고 하기엔 턱없이 모자랄 겁니다.
 dlga_companion_embassy_results:companion_rejoin_response.2|{s12}는 지금 당신의 휴전 협정이 적절하다고 합니다.
