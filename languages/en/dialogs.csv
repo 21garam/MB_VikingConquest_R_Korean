@@ -2750,28 +2750,28 @@ dlga_kennemerjarl_3:kennemerjarl_4|스벤은 상선과 우리들의 땅을 잔�
 dlga_kennemerjarl_4:kennemerjarl_51|나도 스벤을 잡는 데 가담하고자 하오. 내 목표는 어머니의 죽음을 복수하는 것이오.
 dlga_kennemerjarl_4:kennemerjarl_52|{s10}
 dlga_kennemerjarl_52:kennemerjarl_6|{s2}
-dlga_kennemerjarl_51:kennemerjarl_6|{s1}^^내가 언제 스벤을 잡게 될 지는 확실하지 않아, 너는 얼마나 많은 병사와 선박을 가지고 있지?
+dlga_kennemerjarl_51:kennemerjarl_6|{s1}^^글쎄, 가능할지 모르겠군... 얼마나 많은 병사와 선박을 가지고 있지?
 dlga_kennemerjarl_6:kennemerjarl_71|내 팔은 내 병력이고, 내 용기가 곧 내 선박이오. 우리가 함께 황소목 스벤을 죽일 것이오.
 dlga_kennemerjarl_6:kennemerjarl_72|사실, 난 모든 것을 잃었지만, 나는 내 복수를 달성할 수 있을만한 용기는 부족하지 않다고 생각하오.
-dlga_kennemerjarl_6:kennemerjarl_73|난 단지 한 사람이오, {reg59?부인:경}, 하지만 나는 당신에게 영원한 충성을 맹세하겠소.
-dlga_kennemerjarl_71:kennemerjarl_8|좋아, 그럼, 네놈 마음대로 해라. 나는 그를 잡으러 갈 것이다, 한, 10년쯤 뒤에? 나는 그런 일에 신경쓸 여유가 없을 정도로 아주 바쁘지.
-dlga_kennemerjarl_72:kennemerjarl_8|좋아, 네놈의 복수에 대한 열망을 잘 알았다. 하지만, 네놈을 도와줄 수는 없어. 나에겐 지금 당장 싸울 준비가 된 선박과 병력이 없다. 너무 실망하지는 마라, 어차피 네놈같이 스벤에게 당한 놈들은 널렸어.
+dlga_kennemerjarl_6:kennemerjarl_73|나는 혼자요, {reg59?부인:경}, 하지만 나는 당신에게 영원한 충성을 맹세하겠소.
+dlga_kennemerjarl_71:kennemerjarl_8|그래, 뭐, 그런 일이군... 나는 그런 일에 신경쓸 여유가 없을 정도로 아주 바쁘다고. 다음에 다시 오는게 어떤가? 한, 10년쯤 뒤에 말이야.
+dlga_kennemerjarl_72:kennemerjarl_8|좋아, 네놈의 복수에 대한 열망은 잘 알겠다. 하지만, 지금은 네놈을 도울 수 없어... 나에겐 지금 당장 싸울 준비가 된 선박과 병력이 필요해. 비탄에 빠진 빈털터리 고아 따위가 아니라 전사 말이야.
 dlga_kennemerjarl_73:kennemerjarl_8|네놈의 충성에는 관심이 없...  네놈은 무슨 말을 하고 있는 거지? 네놈은 꽤나 머리가 잘 돌아가는 {reg59?여자:남자}로군. 왜, 스벤을 찾아다니는 것보다 독싱가에서 {reg59?좋은 남자를 만나 결혼:자리를 잡고 정착}하는 것이 네놈의 인생에는 더 도움이 될 텐데?
 dlga_kennemerjarl_8:kennemerjarl_91|{s10}
 dlga_kennemerjarl_8:kennemerjarl_92|당신이 나와 같은 상황에 처할 경우, 당신은 이런 상황에서 당신 또한 나와 같은 선택을 하지 않겠소?
 dlga_kennemerjarl_91:kennemerjarl_92|{s2}
-dlga_kennemerjarl_92:kennemerjarl_93|네놈은 참으로 너무 영광에 의존하고 있지 않나? 좋아, 그 일을 한다 치자: 네놈이 내가 그 일을 하게 만들만큼 충분한 가치가 있는 사람임을 증명해야 할 것이야. 나는 지금 당장은 네놈 따위를 위해 스벤을 잡으러 가고 싶지는 않군.
-dlga_kennemerjarl_93:kennemerjarl_94|{s1}^^내가 해결해야 될 문제가 있어. 여기서 멀지 않은 곳에 그리스도인의 수도원이 있지, 젠장, 나는 오딘이 아니야, 그들은 그들의 재산 분배 분쟁에 중재 요청을 보냈어.^솔직히, 나는 그들의 문제에 대해서 거의 신경쓰고 싶지도 않아. 하지만 왕은 그리스도 신앙을 믿는 신부들의 행복을 원하지, 프리지아인들의 반란을 피하고 싶으니까.
-dlga_kennemerjarl_94:kennemerjarl_95|어떻게든지, 내 부하들은 바빠, 해안에 있는 사람들과 같은 중요한 것들을 보호해야 하니까. 그래서, 너는 가서 내 이름으로 가장 내 관심에 맞는 결정을 내리고 오라구.^ 가장 중요한 건 수도사들을 자극하지 않는것이야, 나는 그들이 정당한 덴마크인의 지배에 대한 의문을 가지고 사람들을 선동하길 바라지 않으니까.
+dlga_kennemerjarl_92:kennemerjarl_93|네놈이 하는 일이 정말 명예를 위한 일인가? 좋아, 그렇다면 내가 이건 보장할 수 있지. 네가 스스로 충분한 가치가 있는 사람임을 증명한다면 스벤을 잡으러 가는 무리에 너를 끼워주는 것으로 하지. 
+dlga_kennemerjarl_93:kennemerjarl_94|{s1}^^내가 해결해야 될 문제가 있어. 여기서 멀지 않은 곳에 그리스도인의 수도원이 있지. 젠장, 오딘이 벌 할 것들. 그들은 그들의 재산 분배 분쟁에 중재 요청을 보냈어.^솔직히, 나는 그들의 문제에 대해선 일푼어치도 신경쓰고 싶지 않아. 하지만 왕은 그리스도 신앙을 믿는 신부들의 행복을 원하지, 프리지아인들의 반란을 피하고 싶으니까.
+dlga_kennemerjarl_94:kennemerjarl_95|어찌 됐든간에, 내 부하들은 해안에 있는 사람들과 같은 중요한 것들을 지키느라 바빠. 그러니 네놈은 그리로 가서 내 이름으로 가장 내가 마음에 들만한 결정을 내리고 오라구.^ 가장 중요한 건 수도사들이 시끄럽게 굴지 않도록 만드는거야. 나는 그들이 데인족 지배자들에 대한 정통성을 문제삼아서 사람들을 선동하길 바라지 않으니까.
 dlga_kennemerjarl_95:kennemerjarl_10|감사합니다, 내 주인이시여, 당신을 실망시키지 않겠소.
 dlga_kennemerjarl_95:kennemerjarl_10.1|보상이 있습니까?
-dlga_kennemerjarl_95:kennemerjarl_10.2|그것은 신속하게 수행될 것이오, 그럼 이만.
+dlga_kennemerjarl_95:kennemerjarl_10.2|금방 끝내고 돌아오겠소, 그럼 이만.
 dlga_kennemerjarl_10:lord_pretalk|네가 왜 아직도 여기에 있지? 너에겐 해야 할 임무가 있어! 임무를 끝내면, 스벤을 향한 네 복수는 훨씬 더 가까워질거야. 여기서 나가, 당장!
-dlga_kennemerjarl_juicio_1:kennemerjarl_juicio_3|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 그들은 네 결정에 만족하고 사람들에게 나를 잘 이야기하도록 약속했어, 이 보상을 받고 떨어져라.
-dlga_kennemerjarl_juicio_2:kennemerjarl_juicio_4|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 그들은 네 결정에 불행해하고, 널 보낸 나를 비난했어. 그들은 내가 전부 부당한 줄 알고 있다고! 망할 자식!
+dlga_kennemerjarl_juicio_1:kennemerjarl_juicio_3|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 수도원은 네 결정에 만족하고 사람들에게 나에 대한 좋은 이야기를 해주기로 약속했지. 수고했네, 보상을 주도록 하지.
+dlga_kennemerjarl_juicio_2:kennemerjarl_juicio_4|그래, 알고 있어. 이미 수도원에서 소식을 전하기 위해 전령을 보내왔지. 수도원은 네 결정에 불만족스러워 하며 널 보낸 나를 비난하고 있더군. 빌어먹을! 그 놈들이 뭐라고 말하는지 알고 있나? 내가 부당하다는 걸 모두가 알게 될 것이라고 협박하더군. 멍청한 녀석!
 dlga_kennemerjarl_juicio_3:kennemerjarl_juicio_5|우리 거래는 어떻게 된 거요? 내가 스벤을 잡는 데 참여할 수 있는 것이오?
 dlga_kennemerjarl_juicio_4:kennemerjarl_juicio_41|당신이 정의에 따라 행동했을 때, 아무도 당신이 부당하다고 생각하지 않을 것이오.
-dlga_kennemerjarl_juicio_41:kennemerjarl_juicio_42|오호! {reg59?숙녀:신사}께서 납셨구만. 법들은 보기에는 모두 좋지, 하지만 이 세상이 그렇게 옳지 않아! 그걸 모르는건가? 물론, 그 땅은 중요해, 하지만 나는 그까짓 땅보다 수도원과의 관계가 더 중요하단 말이다. 다시는 나를 화나게 하지 않는 것이 좋을 거야!
+dlga_kennemerjarl_juicio_41:kennemerjarl_juicio_42|오호! {reg59?숙녀:신사}께서 납셨구만. 정의가 좋다는건 누구나 알지, 하지만 이 세상이 그렇게 바르지도 않을 뿐더러 정의가 뭔지도 몰라! 그걸 모르는건가? 나에겐 그까짓 땅보다 수도원과의 관계가 더 중요하다고. 다시는 나를 화나게 하지 않는 것이 좋을 거야!
 dlga_kennemerjarl_juicio_42:kennemerjarl_juicio_5|그럼, 우리의 거래는 어떻게 된 거요. 내가 스벤을 잡는 데 참여할 수 있겠소?
 dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|어, 아니, 아직. 지금은 네가 네 가치, 전사로서의 가치를 증명하기 위해 다른 일을 해야 할 거야. 나에게 두통을 일으키는 원인인 프리지아인 반란군 티데르트를 없애버려, 나는 지금 그 놈을 손봐줄 시간이 없어.^나는 내 땅에서 네가 모집할 수 있는 권한을 부여할 것이고, 그와 마찬가지로 네가 프리지아 전역에서 병력을 모집할 수 있도록 왕에게 서신을 보내주도록 하지.
 dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|이게 내가 너에게 원하는 거야. 이 페닝을 받아서 15명을 모집해. 저렴하게 수도원에서 마을 아이들이나 난민을 모집해도 좋고. 그런 다음 여기 와서 어떻게 티데르트를 찾을 수 있는지 설명해 주도록 하지.
