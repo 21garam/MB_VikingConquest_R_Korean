@@ -5083,11 +5083,11 @@ dlga_problema_juicio2:problema_juicio3|내 이름은 {playername}이라고 하�
 dlga_problema_juicio2:problema_juicio3.1|내 이름은 {playername}이라고 하오, 같은 독실한 기독교 신자로서, 여기에서 당신의 도움을 필요로 하오, 파테르.
 dlga_problema_juicio2:problema_juicio3.2|내 이름은 {playername}이라고 하오. 내 이름을 기억해두시오, 신부, 아니면 내 신들이 당신이 입은 초라한 로브를 불태울 것이오. 지금, 당신이 원한 그 문제는 뭐요?
 dlga_problema_juicio3:problema_juicio4|{s2}
-dlga_problema_juicio4:problema_juicio5|{s2}^^몇 주 전에, 수도사 중 한 명이 문서 보관실에서 이 문서를 발견했소. 그건 3대 전의 이 곳의 지배자가 우리에게 토지를 증여하는 것을 증명하는 서류였소. 당신은 글을 읽을 수 있소?
+dlga_problema_juicio4:problema_juicio5|{s2}^^몇 주 전, 한 수도사가 문서 보관실에서 이 문서를 발견했소. 그건 이 곳의 옛 지배자, 그러니까 세 세대 전의 영주가 우리에게 토지를 기증한 것을 증명하는 서류였소. 원한다면 읽어봐도 좋소.
 dlga_problema_juicio5:problema_juicio6|나는 글을 읽을 수 있소.
 dlga_problema_juicio5:problema_juicio6.1|(당신은 글을 모른다, 하지만 당신은 원장에게 글을 읽고 있는 척 가장했다.)
 dlga_problema_juicio5:problema_juicio6.2|나는 글을 읽을 줄 모르오. 그냥 무슨 일인지 나에게 말하시오.
-dlga_problema_juicio6:problema_juicio7|{s2}좋소, 정당한 법에 따라서 그 문서대로 기증자가 우리에게 땅을 증여했고, 그 땅은 우리 것이 되어야 할 것이오. 문제는 한 가족이 그 땅의 한 부분에 살고 있다는 것이오. 그들은 그 땅이 대대로 그들의 것이었다고 주장하고 있소. 하지만 수도원의 생각은 그들이 그 땅을 떠나야만 한다는 것이오.
+dlga_problema_juicio6:problema_juicio7|{s2} 정당한 법에 따라서 그 문서대로 기증자가 우리에게 땅을 증여했고, 그 땅은 우리 것이 되어야 할 것이오. 문제는 한 가족이 그 땅 중 한 곳에 살고 있다는 것이오. 그들은 그 땅이 대대로 그들의 것이었다고 주장하고 있소. 하지만 그 땅은 수도원의 것이고, 그들은 그 땅을 떠나야만 하오.
 dlga_problema_juicio7:close_window|좋소, 그 가족의 가장과 문서를 발견한 수도사를 부르시오. 나는 결정을 내리기 전에 그들에게 질문을 할 것이오.
 dlga_problema_juicio7:close_window.1|나는 지금 시간이 없소. 나는 나중에 다시 돌아오겠소.
 dlga_problema_juicio8:problema_juicio9|좋소, 내 판결은 이 땅이 수도원에 속해야 한다고 판결을 내리겠소.
