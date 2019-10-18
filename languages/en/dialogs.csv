@@ -5716,7 +5716,7 @@ dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|좋소, 내가 그
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|나는 내가 그들을 호위할 수 없을 것 같소.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|미안하오, 지금은 그 일을 하지 못할 것 같소.
 dlga_start:close_window.110|남은 여정은 우리끼리도 해낼 수 있을 거 같소. 고마웠소.
-dlga_start:close_window.111|흠, 이제 {s21}에 거이 다왔소. 남은 여정은 우리끼리도 해낼 수 있을 거 같소. 여기 보상금... {reg14} 페닝이오. 호위해줘서 고맙소. 그럼 행운을 비오.
+dlga_start:close_window.111|운명은 그녀의 결정에 맡깁시다!(Wyrd bith ful araed!)
 dlga_start:merchant_caravan_intro_1|안녕하시오, 당신이 우리를 호위하러 온 사람이 맞소?
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|그렇소, 내 이름은 {playername}(이)라고 하오. 내가 당신들을 {s1}까지 이끌게 되었소.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|잘 됐군, 사실, 우리끼리만 출발한다고 해서 좀 불안했소. 이제 출발할 거요?
