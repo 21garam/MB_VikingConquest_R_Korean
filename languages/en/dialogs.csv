@@ -2789,18 +2789,18 @@ dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^좋아, 좋아... 솔
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|재산? 걱정 마시오, 나는 그냥 스벤을 원하오.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|내가 무엇을 들어도 좋소! 계속 이야기하시오.
 dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|나도 그건 잘 알고있어! 그러나 두 일은 관련된 일이라고. 모든 이야기를 듣고 난 뒤에나 결정해.
-dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|솔직히 말해서, 나는 스벤을 사냥하려는 사람들을 독싱가 근처에 배치해뒀지. 난 네가 그 사냥에 참여하는게 낫다고 생각하지만...^우리에겐 왕에 대한 문제가 있다. 왕, 나의 삼촌, 그는 황소목 스벤을 공격하고 싶어하지 않아. 왜냐하면 그가 스벤의 주인인 '눈 속의 뱀' 야를 시구르드를 무서워하고 있기 때문이야. 시구르드.. 그는 노스의 로드록이라고 불리는 '털 바지' 라그나르의 아들 중 가장 강력한 남자지.
+dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|사실은 이미 독싱가 근처에 스벤을 사냥할 사람들을 배치해뒀지. 나도 네가 스벤을 잡는 데 동참했으면 좋겠다고...^하지만 문제가 있어. 나의 삼촌이기도 한 왕이 문제야. 그는 황소목 스벤을 공격하고 싶어하지 않아. 왜냐하면 그가 스벤의 주인인 '눈 속의 뱀' 야를 시구르드를 무서워하고 있기 때문이야. 시구르드.. 그는 노스의 로드브록이라고 불렸던 '털 바지' 라그나르의 아들 중 가장 강력한 남자지.
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm52|이런 이름들은 나에게 아무런 의미도 없소, 시구르드나, 그의 아버지 라그나르는 누구고, 나는 그들을 두려워해야 하오?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm51|지금까지 이 모든 정보를 숨겨온 거요?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm6|난 듣고 있소, 계속 이야기하시오.
-dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|널 이해한다. 그건 그렇게 쉬운 일이 아니지. 그건 민감한 문제고, 너는 바다에 떠밀려 온 표류자일 뿐이었으니까. 지금은 달라, 너는 내가 믿을만한 심복중 한명이니까.
-dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 왕으로 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다니던 전설적인 남자야. 라그나르는 몇년 전 죽었지만, 지금은 앵글리아를 침공하고 있는 그의 많은 아들들이 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 그의 가장 나이든 아들중 하나지. 지금은 비록 늙었지만 아직도 두려워해야 할 사람이고, 존경받는 덴마크인 야를이야.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
+dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|이해를 못하는군, 이건 그렇게 간단한 문제가 아니라고. 이건 우리에게 민감한 문제야. 게다가 방금 전까지 우리에게 넌 바다를 떠돌다 표류해온 이방인에 불과했단 말이지... 물론 이제는 상황이 달라졌어. 내 생각엔 너는 내가 믿어줄 만한 사람인 것 같군.
+dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 전설적인 왕이야. 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다녔지. 라그나르는 몇년 전 죽었지만, 지금은 그의 여러 아들들이 앵글리아를 침략하고 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 나이 많은 아들중 하나야. 그가 비록 지금은 나이가 들었지만 아직도 두려움과 존경을 한 몸에 받는 덴마크인 야를이지.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
 dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 황소목 스벤을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 나를 이용해서 왕이 되고싶은것이오? 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니란 말이오!
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 티데르트는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm74|{s10}
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|제안을 받아들이겠소. 나는 가서 당신의 왕을 죽일것이오.
-dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|더 이상의 거래, 거짓말, 임무는 없다! 그냥 이 하나의 조건만 이루어지면 모든게 네 것이 될거야. 네 대답은 뭐지?
+dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|이 것만 해결해주면 앞으로 더 이상의 거래나 속임수, 임무는 없다! 이 하나의 조건만 이루어지면 모든게 네 것이 될거야. 네 대답은 뭐지?
 dlga_kennemerjarl_thiaderdm74:kennemerjarl_thiaderdm8|{s2}
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|알겠소, {s10}을(를) 죽이겠소.
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|아니, 당신은 다른 암살자를 알아보시오. 난 스스로 황소목 스벤을 사냥할 것이오.
