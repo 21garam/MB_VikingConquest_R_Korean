@@ -2675,7 +2675,7 @@ dlga_ragnarssons_13:ragnarssons_15|흠, 나는 전령의 대가로 어떤 보수
 dlga_ragnarssons_14:close_window|나도 행운을 비오, 나는 당신이 돌아가는 것이 쉽지 않을까 걱정되오. 머시아의 앵글인은 당신을 보았고, 숲에 더 많은 병력을 데려왔소.
 dlga_ragnarssons_15:close_window|물론! 이 돈과 행운을 위해 우리의 소원도 가져가시오. 나는 당신이 돌아가는 것이 쉽지 않을까 걱정되오. 머시아의 앵글인은 당신을 보았고, 숲에 더 많은 병력을 데려왔소.
 dlga_lord_talk:kennemerjarl_muy_angry|{s11}, 나는 스벤으로부터 독싱가를 지켰소.
-dlga_kennemerjarl_muy_angry:kennemerjarl_enemistad1|{s2}^^내가 네놈에게 준 임무가 있었을 텐데? 네놈은 왕을 죽이려고 하느라 바빠야 하지 않나? 그리고 대체 무슨 짓을 한 거야? 독싱가로 지원하러 가다니, 나는 그걸 기쁘게 생각하지 않아. 네가 왕을 죽인 후에, 내가 왕이 될 수 있도록 지지할 수 있는 수하들을 죽인거라고! 네놈은 나를 배신했어, 자네의 야를을! 내 이름에 맹세코, {s11}, 내가 친히 그 대가를 받아내도록 하지!
+dlga_kennemerjarl_muy_angry:kennemerjarl_enemistad1|{s2}^^내가 네놈에게 준 임무가 있었을 텐데? 네놈은 왕을 죽이려고 하느라 바빠야 하지 않나? 그리고 대체 무슨 짓을 한 거야? 독싱가로 지원하러 가다니, 나는 그걸 기쁘게 생각하지 않아. 네가 왕을 죽인 후에 내가 왕이 될 수 있도록 지지할 수 있는 수하들을 죽인거라고! 네놈은 나를 배신했어, 자네의 야를을! 내 이름 {s11}에 맹세코, 그 대가를 받아내도록 하지!
 dlga_lord_talk:kennemerjarl_doccingacano|나의 주인이여, 독싱가가 황소목 스벤에게 공격받았소! 그들은 병력이 필요하오.
 dlga_lord_talk:king_doccingacano|독싱가가 황소목 스벤에게 공격받고 있소! 그들은 도움이 필요하오!
 dlga_lord_talk:kennemerjarl_thiaderdm1|{s11}, 나는 티데르트에 관한 임무에서 돌아왔소
@@ -2813,7 +2813,7 @@ dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|조심하시오, 야를! �
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad3|{s10}
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad4|나는 당신에게 잘 봉사했소, 그 대신에 당신은 스벤에 대해 나에게 거짓말을 했소. 그리고 지금 당신이 나를 협박했고.
 dlga_kennemerjarl_enemistad2:kennemerjarl_enemistad21|맞아, 그건 확실하지. 네가 제공한 봉사에 대한 보답으로, 나는 너에게 몇일 유예기간을 주도록 하지. 그 후에 나는 네 머리에 현상금을 걸 것이고, 그럼 너는 너에게 오는 자객들을 맞이하게 되겠지. 너는 한쪽 눈을 항상 뜨고 베게 밑에 칼을 숨겨야 할 것이다.^네가 프리지아를 떠나지 않거나 내 부하들에게 걸린다면 내가 맨손으로 직접 너를 때려죽여주지.
-dlga_kennemerjarl_enemistad4:kennemerjarl_enemistad21|좋아, 그 자들은 내가 마을의 방비를 보강하기 위해 보냈고, 덴마크에서 더 많은 병력이 오도록 기다리기 위해서 가고 있었다. 그러나 이제 그건 불가능해! 너는 내 계획을 망쳤어! '눈 속의 뱀' 시구르드 라그나르손은 나를 배신자라고 여기고는 내 머리를 가지려 들겠지. 저리 꺼져! 나는 너와 길게 이야기하고 싶지 않고, 만약 다시 만난다면 참지 못하고 너를 죽일 지도 모르겠군.^^너는 이 프리지아에서 곱게 떠나는 것이 좋을 것이다!
+dlga_kennemerjarl_enemistad4:kennemerjarl_enemistad21|말해주지. 그 자들은 내가 마을을 점령한 뒤 덴마크에서 더 많은 병력이 올 때까지 마을을 지키게 하기 위해 보냈던 것이다. 그러나 이제 물거품이 됐어! 네놈이 내 꿈을 망쳐버렸다고! 네놈 때문에 이제 '눈 속의 뱀' 시구르드 라그나르손은 나를 배신자라고 여기고는 내 머리를 가지려 들겠지. 저리 꺼져! 네놈이 다시 내 눈앞에 띈다면 참지 못하고 너를 죽여버릴지도 모르니까.^^네놈은 더 이상 여기서 환영받지 못할꺼다. 차라리 프리지아에서 흔적도 없이 사라지는 것이 신상에 좋을꺼야!
 dlga_kennemerjarl_enemistad3:kennemerjarl_enemistad21|{s4}
 dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22|언젠가 우리는 다시 만날 것이고, 내가 당신을 죽일 거요.
 dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22_f|지금 떠나야겠군.
