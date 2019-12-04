@@ -84,7 +84,7 @@ qstr_some|약간의
 qstr_few|몇 개의
 qstr_There_are_too_many_m|당신의 은신처에 너무 많은 병력이 주둔해 있습니다, 그들은 불행해하고 굶주리고 있습니다!
 qstr_Refuge_Garrison|은신처 주둔병
-qstr_You_receive_word_tha|You receive word that the trainer at {s1} has completed his task.{***}
+qstr_You_receive_word_tha|{s1}의 훈련 교관이 임무를 마쳤다는 소식을 전해받았습니다.
 qstr_TEST:_I_moved_Lords_|TEST: I moved Lords to St Helena.
 qstr_TEST:_I_bring_Lords_|TEST: I bring Lords back.
 qstr_Physicians_in_larger|큰 도시에 있는 의사들은 비용을 받고 당신의 상처를 치료할 수 있으며, 그럴 경우 이후 몇일 안에 상처는 치유되고, 상처에 따른 페널티도 사라질 것입니다.
@@ -1848,9 +1848,9 @@ qstr_Your_opponents_are_r|당신의 상대가 전투준비를 완료했습니다
 qstr_Try_to_destroy_as_ma|2분 30초 동안 가능한 많은 적을 물리쳐야 합니다.
 qstr_Stay_behind_the_line|선 뒤에 서서 목표를 노려야 합니다. 한발 한발을 함부로 낭비해서는 안됩니다.
 qstr_Garrison_Troops|주둔병
-qstr_Camp_Troops|Camp Troops{***}
+qstr_Camp_Troops|캠프 주둔병
 qstr_Refuge_Troops|난민 부대
-qstr_Even_though_nearby_{|Even though nearby, {s1} does not come to your aid.{***}
+qstr_Even_though_nearby_{|{s1}이(가) 가까이 있었음에도 불구하고 그는 당신을 돕지 않기로 했습니다.
 qstr_Battle_Advantage_=_{|전투의 유리함 = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9}은(는) 다음 통지가 있을 때까지 다시 그의 군대를 따라오라고 했습니다.
 qstr__Being_Raided_|(급습이 시작됨)
@@ -2613,7 +2613,7 @@ qstr_^^Alt_Clut_the_rock_|^^Alt Clut, the rock high over the Clyde. This is the 
 qstr_^^This_formidable_st|^^This formidable stronghold is the jewel of the Dumnonian kingdom. Here many ships from Mediterannea arrive full of wine and luxuries. Legend says the warlord, Arthur, was born here.{***}
 qstr_^^Dun_Taruo_the_fort|^^Dun Taruo, the fortress of the bull. This place seems like the work of giants, and for centuries, the Picts have known its reputation.{***}
 qstr_^^The_seat_of_the_br|^^The seat of the brave Goutodin warriors. From here, they launched their attacks against the Bernicians, and their heroic end will never be forgotten. You can almost smell their courage from here, even though Goutodin disappeared long ago.{***}
-qstr_^^This_place_is_just|^^This place is just waiting for you to conquer it.{***}
+qstr_^^This_place_is_just|^^이 장소는 그저 당신이 정복해 주기만을 기다리고 있습니다.
 qstr_As_a_last_defensive_|저항을 계속하려는 최후의 노력으로, 당신은 중앙 회당에서 항전을 시작했습니다. 당신과 당신의 몇 안되는 병사들은 이 곳에서 최후의 항전을 진행할 것입니다. 만약 당신이 패배한다면, 당신은 더 이상 뒤로 물러설 곳이 없을 것입니다.
 qstr_You_ve_been_driven_a|당신은 성벽 위에서 후퇴했습니다. 그리고 지금 공격자들이 거리로 쏟아져 들어오고 있습니다, 만약 당신이 그들을 격퇴한다면, 당신은 다시금 성벽으로 돌아가 수성을 계속할 수 있을 것입니다.
 qstr_You_ve_breached_the_|당신은 성벽을 넘어 도시 내부로 진입하는 데 성공했습니다, 하지만 고집스러운 적들이 거리에서 당신의 병력에게 저항을 계속하고 있습니다! 당신은 도시의 중심부를 공격하기 위해 그들을 처리해야만 할 것입니다.
@@ -2646,8 +2646,8 @@ qstr_Try_as_you_might_you|당신은 도적들을 막으려고 시도했지만, �
 qstr_castle|요새
 qstr_The_{s17}_has_no_imp|{s17}은(는) 더 개선 가능한 것들이 없습니다.
 qstr_The_{s17}_has_the_fo|{s17}은(는) 개선 가능한 것들이 있습니다: {s18}.
-qstr___Christian_riots_co| (Christian riots could cause: {reg33} relations drop){***}
-qstr___Pagan_riots_could_| (Pagan riots could cause: {reg33} relations drop){***}
+qstr___Christian_riots_co| (기독교도들이 폭동을 일으킴: 관계 {reg33} 감소 ){***}
+qstr___Pagan_riots_could_| (이교도들이 폭동을 일으킴: 관계 {reg33} 감소){***}
 qstr_Your_enemies_beat_yo|당신의 적들은 당신이 죽은 줄 알았고, 당신을 버려두고 떠났습니다.
 qstr_You_have_fallen._You|당신은 운이 좋았습니다. 당신의 적들은 당신의 품을 뒤져 돈이 될만한 것들을 찾기 위해 다가왔고, 그들은 밤까지 물건들을 찾다가 사라졌습니다. 당신은 그들에게 간신히 틀키지 않을 수 있었습니다.
 qstr_Luckily_some_of_your|운 좋게도 당신의 동료들 중 일부는 잡히지 않았고, 당신이 길에 쓰러져 있는 것을 발견했습니다. 그들은 서둘러 당신을 안전한 장소로 옮기고 상처를 치료해 주었습니다.
@@ -2680,9 +2680,9 @@ qstr_You_have_been_bested|당신은 이 경기에서 패배했습니다, 하지�
 qstr_You_were_beaten._The|당신은 쓰러졌습니다. 농부는 그의 공격에 자신감을 얻었습니다, 하지만 당신은 그 농부에게 가르치려고 했던 것들을 제대로 이해시키지 못했습니다.
 qstr_After_beating_your_l|마지막 농부를 쓰러뜨린 후, 당신은 농부에게 간단한 호신술과 무기를 사용하는 요령에 대해 가르쳐 주었습니다. 다행스럽게도 그들은 이해했고, 다음에는 스스로를 지킬 수 있을 것입니다.
 qstr_The_bandits_are_brok|도적들은 와해되었습니다! 도적들 중 몇 명만이 단지 살아남을 수 있었고, 농부들과 그들의 새로운 챔피언에 대해 겁에 질린 채로 빠르게 달아났습니다.
-qstr_Can_t_merge_both_fle|Can't merge both fleets because your sea-king skill isn't high enough.{***}
-qstr_Can_t_merge_both_flee|Can't merge both fleets because this would exceed the fleet limit of seven ships.{***}
-qstr_Fleets_merged.|Fleets merged.{***}
+qstr_Can_t_merge_both_fle|당신의 해상 지휘력은 두 함대를 통합할 수 있을만큼 높지 않습니다.
+qstr_Can_t_merge_both_flee|함대의 규모가 너무 커서 두 합대를 통합할 수 없습니다. 함대의 최대 규모는 배 7척 입니다.
+qstr_Fleets_merged.|함대가 합쳐짐
 qstr_The_trader_you_are_e|당신이 호위하는 상인들은 페리를 사용하지 않습니다.
 qstr_The_ferry_station_is|페리 승강장이 너무 작아, 당신과 당신의 병력들을 모두 수송할 수 없습니다.
 qstr_You_can_t_enter_the_|이 도시는 당신을 환영하지 않으며, 그들은 당신이 항구에 입항하는 것을 막았습니다.

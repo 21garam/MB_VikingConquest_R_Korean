@@ -4003,7 +4003,7 @@ dlga_lady_talk:lady_marriage_discussion|아가씨, 당신과 내가 같은 미�
 dlga_lady_ask_lover:lady_start_lover|네, {playername}, 전 항상 당신을 좋게 생각했는걸요. 당신은 항상 제 마음속에 있을 거예요!
 dlga_lady_ask_lover:lady_talk|아니요, {playername}, 전 이미 결혼한 여성이에요. 전 제 남편을 사랑하고, 우린 그냥 이렇게 있었으면 해요.
 dlga_lady_start_lover:lady_talk|하지만, 제 명성은 당신의 재량에 달렸어요, {playername}. 전 당신이 아무도 우리의 사랑에 대해 모르게 할 거라 믿어요, 특히 남편에게는 해요.
-dlga_lady_ask_lover_no2:lady_talk|No, {playername}, are you crazy? We barely know and I am a married woman! I love my husband and would prefer us to remain friends.{***}
+dlga_lady_ask_lover_no2:lady_talk|안돼요, {playername}. 미친건가요? 우리는 이제 막 알기 시작한 사이고 나는 결혼까지 한 여자에요! 나는 내 남편을 사랑하고, 당신과 나는 친구로 남길 원해요.
 dlga_lady_marriage_discussion:lady_other_suitor|경 -- 당신이 알고 있는 것처럼, 저는 당신과 같은 몇 명의 신사로부터 재미있는 제안을 받고 있어요. 저는 아직 그들 누구와도 결혼할 생각은 없어요.
 dlga_lady_marriage_discussion:lady_proposal_refused|당신이 미래에 대해서 진지하게 생각한다고 듣게 되어 좋아요. 그러나, 나는 당신과의 결혼 의사를 밝히는 걸 결정하기 전에 좀 더 당신이 성공한 모습을 보고 싶어요.
 dlga_lady_marriage_discussion:lady_proposal_refused.1|당신의 관심이 고결하다는걸 듣게 되어 좋아요. 그러나, 저는 강한 도덕심을 가진 남자와만 결혼하기로 굳게 결심했어요. 저는 당신이 이런 제 마음을 좀 더 존중한다는 걸 보여주셨으면 좋겠어요.
@@ -4211,12 +4211,12 @@ dlga_talk_caravan_enemy_2:close_window|그 요구는 절대로 들어줄 수 없
 dlga_merchant_talk:close_window|[떠납니다]
 dlga_start:prison_guard_players|안녕하시오, {reg59?부인:경}. 감옥 안에 무슨 볼일이라도 있으시오?
 dlga_prison_guard_players:close_window|그렇소, 감옥 문을 열어주시오.
-dlga_prison_guard_players:prison_guard_report_missing|Yes. Unlock the door.{***}
+dlga_prison_guard_players:prison_guard_report_missing|좋소. 감옥 문을 열어주시오.
 dlga_prison_guard_players:close_window.1|아니, 지금은 그곳에 볼일이 없소.
-dlga_prison_guard_report_missing:prison_guard_player_2|My {reg59?lady:lord}, just so you know, one of your prisoners is not yet conscious. Do you still desire to enter?{***}
-dlga_prison_guard_report_missing:prison_guard_player_2.1|My {reg59?lady:lord}, just so you know, some of your prisoners are not yet conscious. Do you still desire to enter?{***}
-dlga_prison_guard_player_2:close_window|Yes, I do.{***}
-dlga_prison_guard_player_2:close_window.1|No, not now.{***}
+dlga_prison_guard_report_missing:prison_guard_player_2|{reg59?부인:경}, 아시다시피 죄수들 중 일부는 아직 정신을 차지리 못했소. 그래도 들어가보길 원하시오?
+dlga_prison_guard_report_missing:prison_guard_player_2.1|{reg59?부인:경}, 아시다시피 죄수들 중 일부는 아직 정신을 차지리 못했소. 그래도 들어가보길 원하시오?
+dlga_prison_guard_player_2:close_window|좋소. 합시다.
+dlga_prison_guard_player_2:close_window.1|아니오. 지금은 됐소.
 dlga_start:prison_guard_talk|음? 이곳에 무슨 용무라도 있소?
 dlga_start:prison_guard_talk.1|예, 주군.
 dlga_prison_guard_talk:prison_guard_ask_prisoners|지금 이곳에는 누가 수감되어 있소?
@@ -6287,8 +6287,8 @@ dlga_bandit_meet1:close_window|네가 누구인지는 내 알 바가 아니지. 
 dlga_bandit_meet1:bandit_meet1g|그래, 당신에 대해서 들어본 적이 있소. 듣자하니 당신네 부대들이 버는 전리품 하나는 최고라던데. 용서해주시오. 이처럼 맹렬한 지도자를 따르게 된 것을 아주 감사히 여기겠소.
 dlga_bandit_meet1:bandit_meet1e|그래, 당신에 대해서 들어본 적이 있지. 당신이 월급 하나는 잘 챙겨준다더군. {reg0} 페닝 정도라면 고려해보겠소.
 dlga_bandit_meet1e:close_window|이렇게 좋은 전사들을 내 편에 두지 않고, 싸운다니. 상상이 잘 안되는군. 내 부대에 온 것을 환영하겠소.
-dlga_bandit_meet1e:bandit_meet12|왜 그들이 당신들을 도적이라고 부르는 지 이제 잘 알겠소. 신경 쓰지 마시오.
-dlga_bandit_meet1e:bandit_meet12.1|Now I know why they call you bandits. Never mind.{***}
+dlga_bandit_meet1e:bandit_meet12|그만한 돈이 없소...
+dlga_bandit_meet1e:bandit_meet12.1|사람들이 왜 당신들을 도적이라고 부르는 지 이제 잘 알겠소. 됐소.
 dlga_bandit_meet1g:close_window|나는 내 부대에 그런 용감한 사람들이 합류하는 것을 환영하겠소!
 dlga_bandit_meet1g:bandit_meet13|내 생각에는, 나는 전리품보다 나에게 충성하는 전사를 필요로 하는 것 같소. 신경 쓰지 마시오.
 dlga_bandit_meet12:close_window|나는 내가 '죽이는 자'라고 불리는 걸 상상했소, 시간이 지나면 그게 내 새로운 이름이 되겠지.
@@ -6511,10 +6511,10 @@ dlga_raiders_bribe1:close_window.1|하찮은 것들까지 다 알 바 아니지.
 dlga_raiders_bribe1:raiders_bribe1g|그래, 들어본 적 있어. 당신네 부하들이 전리품 하나는 걸게 건진다더군. 용서해 주십시오, 이처럼 맹렬한 지도자를 따르게 된 것을 아주 감사히 여기겠소.
 dlga_raiders_bribe1:raiders_bribe1e|{reg0} 페닝 정도라면 생각해보도록 하지.
 dlga_raiders_bribe1e:close_window|뭐? 내가 그런 하찮은 것 때문에 우리의 우정을 더럽힐 것 같단 말이오? 내 부대에 온 걸 환영하오.
-dlga_raiders_bribe1e:raiders_bribe12|신경쓰지 마시오. 당신네들은 그냥 완전히 미쳤군.
-dlga_raiders_bribe1e:raiders_bribe12.1|Never mind. You fellows are just plain crazy.{***}
+dlga_raiders_bribe1e:raiders_bribe12|그러기엔 돈이 충분치 않소...
+dlga_raiders_bribe1e:raiders_bribe12.1|됐소. 당신네들은 그냥 미친 사람들이었군.
 dlga_raiders_bribe1g:close_window|당신네들이면 내 부하들이 더 못생기게 보이도록 하지는 않겠군. 환영하오!
-dlga_raiders_bribe1g:raiders_bribe13|신경쓰지 마시오. 내 평판을 생각해봐야 하니.
+dlga_raiders_bribe1g:raiders_bribe13|됐소. 나에겐 신경써야 할 나의 평판이 있소.
 dlga_raiders_bribe12:close_window|왜 그렇게 한 대 맞을 식으로 얘기하는거요? 댁이 미친 놈 같은데.
 dlga_raiders_bribe13:close_window|고민해야할 건 당신 머리고. 그렇게 잘 하진 못하잖아. 가라, 얘들아!
 dlga_start:free|반갑습니다. 뭘 도와드릴까요?
