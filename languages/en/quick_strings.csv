@@ -48,8 +48,8 @@ qstr_{s1}_of_the_{s3}_has|{s3}에 포로로 잡혀 있던 {s1}은(는) 이제 �
 qstr_{s1}_is_no_longer_in|{s1}은(는) 이제 더 이상 밤에 도적들에게 습격당하지 않습니다.
 qstr_{s1}_has_won_the_tou|{s1}은(는) {s2}의 경기에서 우승했습니다.
 qstr_You_pay_for_accommod|당신은 숙박 비용을 지불했습니다.
-qstr_You_have_been_inform|You have been informed that, while you were busy, away from your home, your wife took a lover, a man known as {s33}. You discover that the rumors had already been flying.{***}
-qstr_Adultery_Discovered|Adultery Discovered{***}
+qstr_You_have_been_inform|당신이 집에서 멀리 떨어진 곳에서 바쁜 시간을 보내는 동안 당신의 아내가 {s33}으로 알려진 남자와 정을 맺었다는 소문을 듣게 되었습니다. 소문은 이미 퍼질대로 퍼졌군요.
+qstr_Adultery_Discovered|간음이 들통남
 qstr__Your_tactics_skill_| 당신의 전술 기술이 1만큼 올랐습니다.
 qstr__Your_persuasion_ski| 당신의 설득력 기술이 1만큼 올랐습니다.
 qstr__Your_leadership_ski| 당신의 지휘력 기술이 1만큼 올랐습니다.
@@ -72,11 +72,11 @@ qstr_Christian_monastery_|{s33}의 가톨릭 수도원은 {s34}의 기독 신앙
 qstr_The_scriptorium_in_{|{s1}의 장서관이 당신의 명성을 상승시켰다.
 qstr_Due_to_the_good_word|기독교 신부가 당신에 대해 좋은 말을 퍼트렸고, 당신에 대한 {s1}와(과)의 관계가 높아졌습니다.
 qstr_Due_to_the_bad_word_|기독교 신부가 당신에 대해 나쁜 말을 퍼트렸고, 당신에 대한 {s1}와(과)의 관계가 낮아졌습니다.
-qstr_{s1}_has_become_host|{s1} has become hostile to you due to your mistreatment of Christian subjects.{***}
-qstr_Faction_became_hosti|Faction became hostile{***}
+qstr_{s1}_has_become_host|기독교인에 대한 당신의 학대 때문에 {s1}와(과)의 관계가 낮아졌습니다.
+qstr_Faction_became_hosti|세력 관계가 악화됨
 qstr_Due_to_the_good_word_|이교도들이 당신에 대해 좋은 말을 퍼트렸고, 당신에 대한 {s1}와(과)의 관계가 높아졌습니다.
 qstr_Due_to_the_bad_word_i|이교도들이 당신에 대해 나쁜 말을 퍼트렸고, 당신에 대한 {s1}와(과)의 관계가 낮아졌습니다.
-qstr_{s1}_has_become_hosti|{s1} has become hostile to you due to your mistreatment of Pagan subjects.{***}
+qstr_{s1}_has_become_hosti|이교도인에 대한 당신의 학대 때문에 {s1}와(과)의 관계가 낮아졌습니다.
 qstr_{s13}_has_too_many_t|{s13}에는 너무 많은 병력이 주둔해 있으며, 아마도 총사령관이 병력을 징집해갈 것입니다.
 qstr_most|적은
 qstr_half|절반
@@ -126,8 +126,8 @@ qstr_Congratulations!_You_|축하합니다! 당신은 5명 이상의 여성에�
 qstr_Skirt_Chaser_Achieve|바람둥이 달성
 qstr_Congratulations!_You_v|축하합니다! 당신은 25통보다 많은 와인을 관리했고, 이 업적은 맥주와 벌꿀주 업계에도 잘 알려지게 되었습니다. 어느 쪽이든 당신은 주류 업계의 사람으로 여겨지게 될 것이며, 당신은 진정한 와인 감별사입니다.
 qstr_Wine_Connoisseur_Ach|와인 감별사 달성
-qstr_{s33}_revokes_your_r|{s33} revokes your right to recruit in {s34} due to bad relations between you two.{***}
-qstr_The_village_leader_o|The village leader of {s34} revokes your right to recruit due to bad relations between you and his village.{***}
+qstr_{s33}_revokes_your_r|{s33}와(과)의 관계가 좋지 않은 관계로, 당신은 {s34}에서 징병할 권리를 잃었습니다.
+qstr_The_village_leader_o|{s34} 마을 장로와의 관계가 좋지 않다는 이유로, 당신은 {s34}에서 징병할 권리를 잃었습니다.
 qstr_fixing_banners;_plea|깃발 수정; 당신의 깃발을 다시 정해주세요.
 qstr_unable_to_restore_ba|{reg0}의 {reg1} 부대에 할당된 깃발을 복원할 수 없습니다.
 qstr_Prisoners_revolted!_|{s33} 근처에서 죄수가 반란을 일으켰습니다!
@@ -753,7 +753,7 @@ qstr_As_he_rejoins_his_br|그는 보도의 편지에 대한 결정을 내리기 
 qstr___He_takes_a_deep_bre|--그는 심호흡을 했습니다.--
 qstr___He_smiles_pleased.|--그는 기쁘게 미소지었습니다.--
 qstr_The_time_to_meet_wit|당신은 아스투리아스 왕국의 병력들과 만날 시간이 되었습니다. 보도의 편지에 의하면 그들은 {s3}에 정박하고 있으며, 그리고 {s11}은(는) 당신이 그 곳에 가서 그들과 만나기를 원합니다. 그리고 그 곳에는 실로라는 이름의 배신자가 있으며, 아스투리아스 왕국의 병력의 호의를 얻기 위해 그를 이용해 라그나르의 아들들을 지원하게 설득해야 할 것입니다. 그러나, 만약 그 대화가 실패할 경우, {s11}은(는) 그들을 전부 죽이기를 원하고 있습니다.^^하지만 당신은 앵글리아를 떠나기 전에, 당신은 {s3}의 항구에 있는 늙은 선장과 이야기해볼 필요가 있으며, {s11}은(는) 그 곳에 두아르-안-에네즈로 가는 것을 도와줄 병력과 선박들을 모아두었다고 이야기했습니다.
-qstr_The_king_wants_no_le|The king wants no letters. You have been sent to speak to his brother, {s11}.{***}
+qstr_The_king_wants_no_le|왕은 편지를 원치 않습니다. 그는 그의 동생 {s11}과 대화하기 위해 당신을 보냈습니다.
 qstr___He_takes_the_letter_|--그는 당신의 손에서 편지를 넘겨받았고, 당신은 그의 손가락에 잉크가 묻은 것을 볼 수 있었습니다. 앨프레드는 천천히 편지를 읽어 나갔고, 모든 관심을 흡수하는 것처럼 받고 있었습니다. 그 것을 읽은 후, 그는 아무 말도 하지 않고 그는 보도를 호출해 몇 미터 떨어진 곳으로 불러냈고, 그 곳에서 그들은 긴 시간을 이야기했습니다.--
 qstr_Note_1:_You_gave_the_|첫 번째 기록: 당신은 편지를 웨식스 왕국에 전달했습니다. {s9}은(는) 당신에게 감사를 표했고, 그리고 당신이 지금 그를 도와주기를 원하고 있습니다.
 qstr___For_a_moment_he_sh|--잠시 동안, 그는 놀라움을 금치 못했습니다.--
