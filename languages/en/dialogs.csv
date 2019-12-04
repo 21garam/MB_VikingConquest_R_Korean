@@ -4277,8 +4277,8 @@ dlga_castle_gate_open:close_window.1|내 영주인 {s2}은(는) 지금 여기에
 dlga_castle_gate_open:close_window.2|들어오시오. 당신을 위해 문을 열어 두었소.
 dlga_castle_gate_open:close_window.3|들어오시오, 그러나 당신의 병력들은 성벽 밖에 남아 있어야 할 것이오. 내 영주인 {s2}은(는) 문제가 생기는 걸 원치 않소.
 dlga_castle_gate_open:close_window.4|내 영주인 {s2}은(는) 당신을 들이지 말라고 했소. 이제 여기서 떠나시오.
-dlga_start:close_window.76|당신의 도움에 감사드리오, {reg59?부인:경}. 이 근처에 당신이 있었던게 우리들에게는 너무나도 큰 행운이었소.
-dlga_start:close_window.77|걱정하지 마시오, {reg59?부인:경}, 나는 내 갈길을 가겠소.
+dlga_start:close_window.76|또 한번 우리의 목숨을 지켜주었군, {playername}! 당신은 정말 최고의 친구요. {s43}
+dlga_start:close_window.77|때마침 와줘서 고맙소, {playername}! 당신의 도움에 깊히 감사하오. {s43}
 dlga_start:ally_thanks_meet|나는 당신을 만난 적이 없는 것 같소, 친구. 당신은 내 목숨을 구해주었지만, 나는 당신의 이름조차 모르고 있었소.
 dlga_start:ally_thanks_meet.1|당신의 도움에 감사하오, 이방인이여. 내 이름은 {s1}라고 하오, 당신에 대해서 소개받을 수 있겠소?
 dlga_start:ally_thanks_meet.2|당신의 도움에 감사하오, 이방인이여. 우리는 서로에 대해서 잘 모르는 것 같군, 당신의 이름은 무엇이오?
@@ -4286,14 +4286,14 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|내 이름은 {playername}이라고 하
 dlga_ally_thanks_meet_2:close_window|당신이 정말로 {playername}이 맞소? 당신과 만나게 될 줄은 몰랐군. 내 이름은 {s1}이라고 하오. 그리고 당신에게 영원히 남을 빚을 지게 되었군. 만약 당신에게 어떤 도움이라도 필요하거든, 나를 찾아 주시오.
 dlga_ally_thanks_meet_2:close_window.1|{playername}, 당신을 만나서 참 다행이오. 당신에게 큰 빚을 졌군, 만약 이 빚을 갚을 기회가 생긴다면 언제든지 당신을 돕겠소.
 dlga_ally_thanks_meet_2:close_window.2|{playername}이라고 하는군, 내 이름은 {s1}이라고 하오. 당신의 도움을 고맙게 생각하고, 우리가 다음에 다시 만나기를 기원하겠소.
-dlga_start:close_window.78|도와줘서 고맙소, {reg59?부인:경}. 그 도적들을 박살내주시오!
-dlga_start:close_window.79|제발, 자비로우신 {reg59?부인:경}, 나를 도와주세요! 나는 노예가 되기 싫어요!
+dlga_start:close_window.78|제시간에 나타나 주었구려, {playername}. 이 은혜는 잊지 않을거요. {s43}
+dlga_start:close_window.79|만나게 되어서 반갑소, {playername}. {s43}
 dlga_start:close_window.80|제발, 자비로우신 {reg59?부인:경}, 나를 도와주세요! 나는 노예가 되기 싫어요!
 dlga_start:close_window.81|나는 조금 전에, 안개 속에서 전투선 비스므리한 무언가를 본 것 같소... 아마 아무 것도 아닐 거요, 나는 그게 아무것도 아니길 바라오. 이 선박은 그럭저럭 빠르지만, 전투선을 피해 도망칠 수는 없을 거요.
-dlga_start:close_window.82|나는 당신과 더 이야기하고 싶지만, 나는 내 일을 마무리하러 가야 하오.
-dlga_start:close_window.83|나와 더 이야기하고 싶소, {reg59?부인:경}? 나는 지금 내 선원들에게 지시를 내리느라 바쁘오.
-dlga_start:close_window.84|선장과 대화하시오, 그는 이곳을 담당하고 있소.
-dlga_start:close_window.85|선장과 대화하시오, 그는 이곳을 담당하고 있소.
+dlga_start:close_window.82|도와줘서 고맙소, {reg59?부인:경}. 당신은 {reg1?우리의:내} 생명의 은인이오.
+dlga_start:close_window.83|도와줘서 고맙소, {reg59?부인:경}. 상황이 별로 좋지 않았는데 당신이 와준 덕분에 모든게 바뀌었소.
+dlga_start:close_window.84|도와줘서 고맙소, {reg59?부인:경}. 당신이 가까이에 있었다니, 운이 좋았소.
+dlga_start:close_window.85|내가 아는건 모두 이야기 했소. 이제 날 보내주시오!
 dlga_start:close_window.86|--그녀는 당신에게 이야기하면서 당신의 눈을 보지 못한다, 그녀는 겁에 질려있는 것 같다.--
 dlga_start:kidnapped_girl_liberated_battle|오, {reg59?부인:경}, 나를 구해줘서 너무나도 고마워요. 당신은 제 가족에게 저를 데려다주려고 왔나요?
 dlga_start:freed_hero_answer|나를 자유롭게 해 줘서 고맙소, 당신에게 빚을 졌군. 친구.
