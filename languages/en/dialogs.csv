@@ -1,8 +1,6 @@
 ﻿dlga_start:blocked_agent|이 사람은 바빠보인다. 자리를 비켜주는게 나을것 같다...
 dlga_blocked_agent:close_window|미안하오. 당신이 하던 일을 방해하려는 뜻은 없었소.
 dlga_blocked_agent:close_window.1|[떠납니다]
-dlga_start:dog_talk_2|{s1}!
-dlga_dog_talk_1:dog_talk_2|{s1}!
 dlga_dog_talk_2:close_window|따라와!
 dlga_dog_talk_2:close_window.1|가, {s1}, 가!
 dlga_dog_talk_2:close_window.2|{s1}, 기다려!
@@ -160,7 +158,7 @@ dlga_port_crew_fleet2:the_fleetcrew1|좋소, 시간이 되었군. 두아르-엔-
 dlga_the_fleetcrew1:close_window|몇 주, 혹은 몇 달이 걸릴 지도 모르오. 그러니 행운을 빌겠소. 당신을 데리고 갈 함대가 이 항구 앞바다에서 당신을 기다리고 있소. 선박에 탄 뒤 그들에게 합류하시오.
 dlga_port_crew_fleet2:close_window|아니, 끝내야 할 일이 있소. 나중에 오겠소.
 dlga_port_r_2:close_window|난 가봐야겠소. 그럼 이만.
-dlga_start:close_window.5|왜 날 귀찮게 하는 거지? 난 바쁜 사람이야! 너같은 놈에게 낭비할 시간은 없어. 나중에 다시 오던지, 아니면 오지 말던지.
+dlga_start:close_window.5|왜 이렇게 귀찮게 구는거지? 난 바쁜 사람이야! 너같은 놈에게 낭비할 시간이 없다고. 다음에 다시 오게. 물론 다시 오지 않는게 더 나을꺼야.^^--시구르드는 당신을 맞이할 의사가 없어보입니다. 스벤에 대한 정보를 얻을 수 있는 다른 수단을 찾아야 할 것 같습니다.--
 dlga_start:kinghorik_quest_danmarkprot|여기라면 엿듣는 사람도 없을 테지. 이제 이야기해보시게.
 dlga_start:kinghorik_quest_revenge4|여기라면 엿듣는 사람도 없을 테지. 이제 이야기해보시게.
 dlga_start:kinghorik_quest_thething1|여어, {playername}.
@@ -412,8 +410,7 @@ dlga_start:close_window.17|근무 중이오.
 dlga_start:close_window.18|근무 중이오.
 dlga_start:close_window.19|근무 중이오.
 dlga_start:close_window.20|근무 중이오.
-dlga_start:close_window.21|나는 그저 시종일 뿐이오. 울프와 이야기해보시오.
-dlga_start:close_window.22|{s44}
+dlga_start:close_window.21|나는 그저 시종일 뿐입니다. 울프와 이야기를 해보십시오, {reg59?부인:나리}.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|나는 이 곳을 누구에게 내릴 것인지 결정하기 전에, 나의 봉신들의 의견을 듣고 싶소.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer.1|이번 사항을 결정할 때까지... 영주와의 약속을 미루고 싶소.
 dlga_award_fief_to_vassal_defer:close_window|당신 뜻대로, {reg59?숙녀분:경}. 언제 결정하든 그것은 당신의 고유한 권리요.
@@ -616,7 +613,7 @@ dlga_start:traveller_ship_talk|좋은 날이오, {reg59?부인:경}. 우리는 {
 dlga_traveller_ship_talk:close_window|당신 선박에 올라타 모든 걸 가져가겠소!
 dlga_traveller_ship_talk:close_window.1|좋소, 그 정도면 충분히 들은 것 같소.
 dlga_start:traveller_ship_talk.1|좋은 날이오, {reg59?부인:경}. 우리는 {s11}에서 {s12}(으)로 노예들을 거래하러 가는 중이오.
-dlga_start:close_window.25|부대에 다시 합류해도 되겠습니까?
+dlga_start:close_window.25|{playername}, 켄네머의 야를이 보낸 인사요! 죽음과 함께 말이요!
 dlga_start:wessex_patrol1|{s2}^^멈춰라!
 dlga_wessex_patrol1:wessex_patrol2|지나가게 해주시오. 우린 사절단이오. 우린 웨식스의 앨프레드를 방문하러 왔소.
 dlga_wessex_patrol1:wessex_patrol3|(색슨 정찰대를 공격합니다)
@@ -629,7 +626,7 @@ dlga_foragers_mission_talk:close_window|오늘은 죽기 딱 좋은 날이구나
 dlga_foragers_mission_talk:foragers_mission_talk2|들으시오, 라그나르의 자손들이 당신들의 죽음을 바라고 있소, 죽고 싶지 않다면 당신들의 진영으로 돌아가시오!
 dlga_foragers_mission_talk2:foragers_mission_talk3|무장해라! 이건 함정이다! 덴마크인들이 공격해온다! 웨식스인들이여, 무장하라!
 dlga_foragers_mission_talk3:close_window|모두, 전투를 준비하라!
-dlga_start:close_window.26|부대에 다시 합류해도 되겠습니까?
+dlga_start:close_window.26|안녕하시오, 농부 양반들! 당신을 위한 포로들을 데리고 왔소!
 dlga_start:sven_party1|{playername}, 와주어서 정말 고맙소! 날 기억할지 모르겠지만, 난 마을을 지키던 왕의 부하중 하나였소. 우린 수적으로 불리한 상황에 처했소. 손크릭은 당신이 올 거라고 보장했지만 우린 믿지 않았소. 그런데 당신 말고는 아무도 우릴 지원하러 오지 않았군. 난 왕에게 가서 병사들을 보내도록 설득할 것을 명령받았소. 하지만 제 시간에 도착할 수 없을까봐 두렵소. 바이킹의 선박들이 벌써 나타나고 있소.
 dlga_sven_party1:close_window|가던 길을 가서 왕에게 전하시오. 독싱가를 방어한 것은 그의 야를이 아닌 바로 나라고.
 dlga_sven_party1:close_window.1|당신의 임무는 잊으시오. 독싱가를 방어할 사람이 한 사람이라도 더 남아있어야 하오.
@@ -656,10 +653,8 @@ dlga_member_castellan_talk:member_castellan_join|이 성은 내버려두고 내 
 dlga_member_castellan_join:close_window|여기가 마음에 들던 참이었는데... 하지만 {playername}, 당신이 원하신다면, 같이 가드리겠소.
 dlga_member_castellan_join:member_castellan_pretalk|그럼 우린 어디서 자란 말이오? {playername}, 당신은 지금 전군을 이끌고 있소, 더 이상 우리가 들어갈 자리는 없소.
 dlga_member_castellan_talk:close_window|[떠납니다]
-dlga_start:close_window.28|내가 부대에 다시 합류하길 원하오?
-dlga_start:close_window.29|내가 부대에 다시 합류하길 원하오?
-dlga_start:close_window.30|[적들이 당신의 부대에 맞서 싸울 준비를 완료했습니다. 전투가 시작됩니다.]
-dlga_start:close_window.31|[적들이 당신의 부대에 맞서 싸울 준비를 완료했습니다. 전투가 시작됩니다.]
+dlga_start:close_window.28|[적들이 당신의 부대에 맞서 싸울 준비를 완료했습니다. 전투가 시작됩니다.]
+dlga_start:close_window.29|[적들이 당신의 부대에 맞서 싸울 준비를 완료했습니다. 전투가 시작됩니다.]
 dlga_member_chat:kidnapped_girl_chat_1|고향은 아직입니까?
 dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|아직.
 dlga_kidnapped_girl_chat_2:close_window|돌아가고 싶어서 목이 빠지겠어요. 가족들이 너무 그리워요... 가족들을 다시 볼 수만 있다면 뭐든 바칠 수 있을 거 같아요.
@@ -828,8 +823,8 @@ dlga_looter_leader_1:close_window|아무것도, 당신들은 그냥 보내겠소
 dlga_looter_leader_2:looter_leader_3|하! 포로들은 몸값을 가져 오면 넘겨주겠다. 돈은 가져왔냐?
 dlga_looter_leader_3:close_window|아니, 대신 무기를 들고 왔지.
 dlga_bandit_leader_1b:close_window|아아 축복받으실 겁니다, {reg59?부인:경}. 축복받으실 겁니다. 그 친구에겐 아무 짓도 안 했습니다. {s9} 근처 은신처에 그를 잡아두었습니다. 실수하지 않으시도록 좀더 자세한 위치를 설명해드리겠습니다...
-dlga_start:close_window.32|미안하오, 지금은 말하기 좋은 때가 아니오.
-dlga_start:close_window.33|준비되면 떠나도록 합시다.
+dlga_start:close_window.30|멋지게 해냈소, {playername}! 내 몫으로 {reg33} 페닝을 가져가도록 하겠소. 당신도 울상인 {s33}에게서 정당한 몫을 받아냈길 빌겠소.
+dlga_start:close_window.31|부끄러운 줄 아시오, {playername}! 이렇게 비참하게 실패하다니. {s33}의 울상인 남자들 조차 쳐부수지 못했잖소.
 dlga_start:rescue_prisoner_succeed_2|{playername}, 당신이 그를 살렸소! 내 {s11}를 구해주다니 정말 진심으로 감사하오. 부디 당신의 고귀한 행동의 작은 보답을 받아주오.
 dlga_rescue_prisoner_succeed_2:lord_pretalk|항상 섬기게 되어 영광입니다, {s65}.
 dlga_start_up_quest_1_next:close_window|당신 괜찮소? 음... 어찌 되었든 살아있는 것 같군. 다른 친구들에게도 같은 말을 할 수 있을지 모르겠소. 적어도 밤에 길가에서 사고치는 좀도둑은 하나 줄었군. 하늘만이 이게 마지막이 아니라는 걸 아시겠지... 아무튼, 당신이 날 좀 도와줘야 겠소. 안으로 들어가서 이야기 합시다. 여기선 누가 엿듣고 있을지 모르니.
@@ -866,7 +861,7 @@ dlga_merchant_quest_persuasion:merchant_quest_4b8|그럴싸하게 들리는군. 
 dlga_merchant_quest_persuasion:close_window|말했지만, 다른 곳에 더 중요한 할 일이 있소.
 dlga_merchant_quest_2:merchant_quest_2a|이제 가서 그 도적들을 처리하시오.
 dlga_merchant_quest_3:merchant_quest_3a|이제 가서 도적 은신처를 공격하고 내 형제를 되찾아오시오. 그리고 그 자식들에게 우리 집안을 건드리면 어떻게 되는지 똑똑히 보여주시오.
-dlga_start:close_window.34|제발 제 시간을 낭비하지 말아주시죠. {reg59?부인:경}. 어쩌면 다음 여정에서 다시 만날 수 있을지도 모르죠.
+dlga_start:close_window.32|오- 감사합니다, 신이시여... 신이시여, 감사합니다... 이제 안전한 것이오?
 dlga_start:merchant_closing_statement_2|아... {playername}. 일이 예상대로 잘 풀리지 않았소. {s5}는 내가 잠시 방해한 것을 탐탁치 않게 여기더군. 아, 그래도 썩어빠진 경비대장을 처리해줄 만큼 자애롭긴 했소. 도적들을 들여보내는 경비는 곧 적군도 들여보내는 법이지. 그 대가가 옳은 것이라면 말이오. 하지만 일을 제대로 처리 못 했다고 날 예전처럼 다시 돌아다닐 수 있게 두지는 않을 모양이오.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|그건 정당한 것 같지가 않은데...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|정당? 여긴 Northlands요, {reg59?이 여편네야:이 친구야}! 왕은 자기 내키는 대로 하고, 우린 그저 시키는대로 하면 되는 거요. 날 목매달지는 않았지만, 내 재산을 팔아치울 시간을 주었소. 같이 고발하러 갔던 행상 친구들도 싹 다. 돈 하나는 잘 쳐주던 녀석들이었는데. 뭐 그 정도면 왕 치고는 충분히 자비로운 거지. 하지만 그는 다른 모든 왕들 처럼 약해빠진 왕이오. 그리고 약해빠진 왕은 항상 자기 권력을 생각해야 하고, 정의는 그 뒷 이야기지. 나도 왕의 손아귀 안에선 그렇게 할 수밖에 없소.
@@ -880,22 +875,22 @@ dlga_member_intel_liaison_results:member_intel_liaison|{s11} 당신 요즘 여�
 dlga_member_fief_grant_1:member_fief_grant_2|어떤 영지를 마음에 두고 있소?
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|신경쓰지 마시오. 내겐 제안할 영지가 없소.
+dlga_start:close_window.33|앞장서시오.
 dlga_member_fief_grant_3:close_window|{s5}
-dlga_start:close_window.35|앞장서시오.
 dlga_start:bodo_carta1|{reg59?부인:경}, 편지가 있습니다!
 dlga_start:bodo_choiceside1|잠깐, {reg59?부인:경}, 이제 덴마크인과는 작별인사를 하고 남쪽의 웨식스로 떠날 시간이오. 아스투리아스 국왕의 편지를 웨식스의 왕 에셀드 애셀울핑과 그의 형제 앨프레드에게 전해야 하오. 드디어 내 임무를 완수할 수 있겠군.
 dlga_start:bodo_danishcamp1|{reg59?부인:경}, 덴마크인 초소로 가기 전에 잠시만 시간을 주시오, 부탁이오!
-dlga_start:close_window.36|Bjorn이랑 잘 해보시오.
+dlga_start:close_window.34|비요른에게 행운의 여신이 함께 하길.
 dlga_start:sigurd_quest_revenge10|친구, 날 죽음으로 몰아넣었지만 당신을 헐뜯진 않겠소. 당신 모친을 구하고 싶은 마음을 충분히 이해하오. 내가 후회하는 건 딱 2가지 뿐이오. 적들의 손에 폐하의 편지를 빼앗겨 국왕 폐하를 실망시켜드린 것. 그리고 내게 기회가 있었을 때 당신의 신뢰를 얻지 못한 것.
-dlga_start:close_window.37|그래서, 이 쓰레기 양반아. 덴마크인에게서 돌아서면 돈을 안 내도 될 줄 알았냐? 이제 누군가 이 부대를 올바른 방향으로 이끌어줘야겠어. 이제 나 에길이 이 편지의 소유권을 가지며 이를 나의 아버지, 호릭 국왕께 가져다 드릴 것이다. 네놈 옆에 있으면서 너무 오랜 시간을 낭비했군. 여태까지 일어난 모든 일 때문에 네놈이 믿을 수 없는 쥐새끼라는 것 딱 겨우 그것 하나 알아내기 위해서 말야. 네놈이 군대를 이끌 수 있을지도 정말 의심스러웠다. 하지만 이제 네놈은 죽어줘야겠다. 지금이야말로 내 영광의 순간이다.
-dlga_start:close_window.38|그럼, {reg59?부인:경}! 제발, 다시 기어올라서 문제를 일으키지 마시오. 방금처럼 손쉽게 때려눕혀줄테니. 당신의 침묵을 사과의 인사로 받도록 하지. 좋은 하루 되시오.
-dlga_start:close_window.39|좋소. 요점이 확고하시군. 내가 했던 말은 철회하겠소. 만족하셨길 바라오.
+dlga_start:close_window.35|그래서, 쓰레기 자식아. 대가도 없이 덴마크에 반기를 드는게 가능할 줄 알았나? 누군가 이 부대를 올바른 방향으로 이끌어줘야 할 시간이 왔군. 이제부터 나, 에길이 이 편지의 소유권을 가질 것이며, 이를 나의 아버지인 호릭 왕께 가져다 드릴 것이다. 네놈이 믿을 수 없는 쥐새끼라는 사실, 겨우 그것 하나 알아내기 위해서 네놈 옆에서 너무 오랜 시간을 낭비했어. 그 모든 일을 겪은 다음에야 말이야... 오래전부터 네놈이 군대를 이끌 능력이 있는지 정말 의심스러웠다. 이제 죽을 시간이군. 지금이야말로 내 영광의 순간이다!
+dlga_start:close_window.36|{reg59?부인:경}, 왕에게 합류하려면 서둘러야 합니다. 따라오십시오.
+dlga_start:close_window.37|미안하오, 지금은 이야기 하기 좋은 때가 아니오.
 dlga_start:brunhild_avisa|{reg59?부인:경}, 스벤의 은신처는 위험한 곳이지만, 우리는 간신히 보도의 몸값을 지불해냈어요. 당신의 모친을 찾고 싶으신 마음 충분히 이해하지만, 제가 켄네머 야를의 궁정에서 보았던 일들에 대해서 말하게 해 주세요. 시구르드에 대한 끔찍한 것들을 들은적이 있어요...
 dlga_start:companions_despuesduelo1|{reg59?부인:경}, 저흰 이 결투에서 무슨 일이 일어나든 아무도 당신을 헐뜯지 않고 모두가 당신을 지지하기를 바랍니다.
-dlga_start:close_window.40|하! 그리 용맹하진 않았군. 안 그렇소? 이제 더 이상 문제 일으키지 마시오.
-dlga_start:close_window.41|좋소. 당신이 이겼소. 오늘 이 모든 것들이 당신이 날 이겼다는 증인이 되겠군. 그리고 {s10}에 대한 구혼도 없던 일로 하겠소. 이제 만족하는가, 이 무심한 개자식아?
+dlga_start:close_window.38|준비를 마치는 대로 떠납시다.
+dlga_start:close_window.39|오늘은 더 이상 내 시간을 낭비하지 말아주시오, {reg59?부인:경}. 우리가 모험을 하는 한, 우리는 다시 만날 수 있을겁니다.
 dlga_start:companion_reginhard4x|웬 고아가 가족들을 도와줘서 고맙다고 하더군. 당신은 좋은 사람이요, {playername}! 내 죄책감을 덜어주고 조금이나마 기쁘게 만들어주었소.
-dlga_start:close_window.42|일어나시오. 오늘 일어난 모든 일이 내가 당신을 패배시켰다는 증인이 되도록 하시오. 그리고 이제 당신이 {s10}에게 한 청혼을 포기한 것이오. 그래도 작별인사를 하도록 마지막으로 한 번은 만나게 해주겠소. 그 이후로도 계속 그녀를 보고싶어 한다면 모두가 당신이 명예라곤 쥐뿔도 없는 사람이란걸 알게 될거요.
+dlga_start:close_window.40|아다에게 돈을 주고 온 것이오?
 dlga_start:companion_reginhard43|지금은 돌아설지 몰라도, 분명 티데르트의 은신처에는 관심이 있겠지...
 dlga_start:companion_recruit_intro_responsebodos|{s5}
 dlga_start:companion_recruit_intro_responseregin|{s5}
@@ -1221,8 +1216,8 @@ dlga_start:companion_rehire|당신 부대에 재합류하고 싶은 마음은 �
 dlga_start:companion_rehire.1|살아서 다시 만나게 되다니 정말 다행이오, {s5}! {s6}, 그리고 나는 당신이 죽었는지 살았는지 도망쳤는지 알 도리가 없었소. 그 이후로 나는 당신을 찾아다니며 이곳 저곳을 돌아다녔소. 장비를 챙겨 다시 합류해도 되겠소?
 dlga_start:companion_prison_break_chains|여기서 꺼내주기 위해 왔소.
 dlga_companion_prison_break_chains:close_window|당신이 와주다니, 하늘이시여, 감사합니다! 하지만 다리에 족쇄를 차고서는 아무 곳에도 갈 수 없소. 간수에게서 어떻게든 열쇠를 얻어내야 할 것이오.
+dlga_start:close_window.41|당신과 함께 여행할 수 있길 기대하고 있소.
 dlga_start:companion_rehire.2|{s5}
-dlga_start:close_window.43|좋소. 당신이 이겼소. 오늘 이 모든 것들이 당신이 날 이겼다는 증인이 되겠군. 그리고 {s10}에 대한 구혼도 없던 일로 하겠소. 이제 만족하는가, 이 무심한 개자식아?
 dlga_start:companion_was_dismissed|다시 보게 되어 정말 반갑소, {s21}! 진심으로 당신을 만나기만을 기다렸소.
 dlga_companion_was_dismissed:companion_rehire|{s5}. 당신의 방패벽에 나를 다시 합류시켜 주겠소?
 dlga_companion_rehire:companion_recruit_signup_confirm|돌아와서 반갑소, 친구!
@@ -1480,14 +1475,14 @@ dlga_lord_groom_vows:female_pc_marriage_vow|부인, 이 군중들을 내 증인�
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|저도 당신을 남편으로 맞을 것을 맹세합니다.
 dlga_female_pc_marriage_vow:close_window|잠깐, 이 일은 조금 생각해봐야겠소.
 dlga_lord_groom_wedding_complete:close_window|우린 이제 남편이자 아내요. 축제를 시작하라!
-dlga_start:close_window.44|일어나시오. 오늘 일어난 모든 일이 내가 당신을 패배시켰다는 증인이 되도록 하시오. 그리고 이제 당신이 {s10}에게 한 청혼을 포기한 것이오. 그래도 작별인사를 하도록 마지막으로 한 번은 만나게 해주겠소. 그 이후로도 계속 그녀를 보고싶어 한다면 모두가 당신이 명예라곤 쥐뿔도 없는 사람이란걸 알게 될거요.
-dlga_start:close_window.45|지금 당신은 죽을 것이오!
-dlga_start:close_window.46|지금 당신은 죽을 것이오!
-dlga_start:close_window.47|미안해요, 저는 바쁩니다.
-dlga_start:close_window.48|나는 당신을 상대할만한 시간이 없어요.
-dlga_start:close_window.49|나는 지금 매우 바쁩니다, 내 부하들은 매우 게으르거든요.
-dlga_start:close_window.50|우리는 탈주를 막기 위해 여기에 있겠소, 행운을 비네.
-dlga_start:close_window.51|모두 당신 때문이오! 나는 그의 머리를 세게 때릴 준비를 했소.
+dlga_start:close_window.42|좋소. 당신의 의견은 잘 알겠소. 나는 더 이상 할 말이 없소.
+dlga_start:close_window.43|자, 자, {reg59?부인:경}! 당신을 때려눕히는건 나에게 식은죽 먹기요. 그러니 내가 자리에서 일어날만한 문제를 만들지 말고 제발 자중하시오! 당신의 침묵을 나에 대한 사과로 받아들이도록 하겠소. 오늘 운 좋은 줄 아시오.
+dlga_start:close_window.44|좋소. 당신의 의견은 잘 알겠소. 내가 말한 것에 대해선 철회하도록 하겠소. 이것으로 당신이 만족했길 비는 바요.
+dlga_start:close_window.45|하! 용감하기도 하지, 안그렇소? 이제 더 이상 문제를 들추지 마시오.
+dlga_start:close_window.46|좋겠소, 당신이 이겼소. 오늘 참석한 모든 이들이 당신이 날 패배시켰다는 증인이 되겠군. {s10}에 대한 구혼은 철회하겠소. 이제 만족하시오? 무정한 자식 같으니라고...
+dlga_start:close_window.47|일어나시오. 오늘 참석한 모든 이들이 내가 당신을 이겼다는 것을 알 수 있게 말이오. 이제 당신이 {s10}에게 한 청혼은 포기하기로 한 것이오. 작별인사를 위해 마지막으로 한 번 만나는 것 쯤은 허락해 드리리다. 그러나 그 후에도 그녀를 계속 만나려고 한다면 당신이 명예라곤 쥐뿔도 없는 사람이란걸 온 세상이 알게 될 것이오.
+dlga_start:close_window.48|좋소. 당신의 의견은 잘 알겠소. 내가 한 일에 대해서 사과하도록 하겠소.
+dlga_start:close_window.49|하! 당신은 진거요, {playername}. 입 다물고, 이제 떠나시오.
 dlga_start:player_siege_castle_commander_1|뭘 원하시오?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|항복하라! 너희 상황은 절망적이다!
 dlga_player_siege_castle_commander_1:player_hostage_surrender|{s11}의 안전을 대가로 그대의 항복을 요구한다.
@@ -1665,9 +1660,9 @@ dlga_eormenred_historia3:lord_pretalk|중간에 이야기를 끊어 미안하지
 dlga_eormenred_historia4:eormenred_historia5|그렇소, 당신 생각이 맞소, 나는 알고 있었소, 하지만 우리 모두는 너무나도 성급했소. --그는 스스로의 가슴을 두드렸습니다.--. 그들은... 물론, 그들은 심지어 우리가 마을에 있음을 오래 전에 짐작하고 우리를 기다리고 있었소. 그들의 궁수를 말이지, 오딘이시여! ... 미안하오... 하나님!, 그리고 많은 화살이 쏟아져 내렸소. 그들은 이센쿠르 같았고, 화살의 비 같았소, 당신이 생각하는 바와 같이, 내 병력들은 전부 죽었소... 오직 나만이 살아남았지, 그들은 내가 누구인지 알고... 나를 포로로 잡았소, 그리고 그들의 여왕에게 나를 갖다 바쳤지. 그녀에게 도착했을 때 나는 지루한 상태였소, 그들은 가죽 주머니 안에 내 왼쪽 귀를 잘라 넣고 아버지에게 보냈고, 그는 기꺼이 많은 로마 금 동전을 나의 몸값으로 지불했고, 그 것으로 나는 풀려날 수 있었소. 들으시오! 당신은 픽트란드를 잊어서는 안 되오!
 dlga_eormenred_historia5:lord_pretalk|고맙소, 나는 당신의 이야기에서 많은 것을 배울 수 있었소, 그리고 나는 픽트인들과 문제를 일으키지 말아야겠소.
 dlga_eormenred_historia5:lord_pretalk.1|그 이야기에 대해서는 미안하지만, 당신과 당신 부하들은 마치 신병처럼 멍청한 짓을 했소. -- 그리고 당신은 멍청이들의 대장이었지.
-dlga_start:close_window.52|명령을 기다리고 있소.
+dlga_start:close_window.50|이제 죽을 시간이다!
+dlga_start:close_window.51|이제 죽을 시간이다!
 dlga_start:mother_prisoner_saco|...
-dlga_start:close_window.53|나는 당신에게 쓸 시간이 없소, 그럼 안녕히.
 dlga_mother_prisoner_saco:mother_prisoner_saco2|어머니? 괜찮아요?
 dlga_mother_prisoner_saco:mother_prisoner_saco3|(복면을 벗깁니다)
 dlga_mother_prisoner_saco2:mother_prisoner_saco3|...
@@ -1808,8 +1803,8 @@ dlga_morriganleave_final3:morriganleave_final2_2|일을 어럽게 만들지 마�
 dlga_morriganleave_final2_2:morriganleave_final2_3|모리안, 잘 가시오. 내가 필요하면 언제든 나를 부르시오. 어디서든 달려가리다.
 dlga_morriganleave_final2_2:morriganleave_final2_3.1|모리안, 잘 가시오.
 dlga_morriganleave_final2_3:close_window|[모리안이 뒤돌아 걸어가자, 점차 당신과 멀어져갑니다. 그녀가 잠시 얼굴을 돌렸을 때, 그녀의 눈에는 눈물이 맺혀있었습니다. 잠시후 그녀가 시야에서 사라졌습니다.]
-dlga_start:campeon1_dialog|--키가 큰 남성이 놀라운 표정을 지으며 당신에게 다가왔습니다--^^저 생물은 뭐요? 여기 무슨일이 있었소?
-dlga_start:close_window.54|잘가게.
+dlga_start:campeon1_dialog|--키가 큰 남성이 놀라운 표정을 지으며 당신에게 다가왔습니다--^^저 괴물은 뭐요? 여기 무슨일이 있었소?
+dlga_start:close_window.52|잘 지내시오.
 dlga_campeon1_dialog:campeon1_dialog1|당신은?
 dlga_campeon1_dialog:campeon1_dialog2|도와줘서 고맙소!
 dlga_campeon1_dialog:campeon1_dialog3|모리안과 그녀의 하수인들이오.
@@ -1836,7 +1831,7 @@ dlga_campeon1_dialog8:close_window|행운을 빌겠소. 모리안의 은신처�
 dlga_campeon1_dialog8_2:campeon1_dialog8_3|자네 의견이 내게 중요할 거 같소? 제일 늦게 와서는... 자넨 그냥 듣고 따르기만 하면 될 것이오.
 dlga_campeon1_dialog8_3:close_window|에드, 그렇게까지 할 필요는 없지 않소. {playername}, 날 믿어주게. 자네의 심정도 이해하네만, 우리도 이곳에서 시간 낭비하기 싫다네. 모리안의 은신처를 발견하는데로 전령을 바로 보내주겠네. 그럼 어서 가보게.
 dlga_start:campeon2_dialog|{playername}! 내 전령이 당신을 찾고 있었소. 모리안의 야수들이 우리를 공격해 병사들을 죽였소. 그리고 우린 여기 갇히고 말았지. 모리안의 야영지는 바로 앞이오. 자네와 자네 병사들이 마지막 희망이오. 우릴 여기서 내보내 주시오.
-dlga_start:close_window.55|잘 가게.
+dlga_start:close_window.53|잘 지내시오.
 dlga_campeon2_dialog:campeon2_dialog1|모리안의 야수들이 우리 또한 공격했소.
 dlga_campeon2_dialog:campeon2_dialog2|우리 함께 모리안을 죽이도록 하오.
 dlga_campeon2_dialog1:campeon2_dialog3|그렇다면 당신 또한 여기 갇힐 수 있소. 그들이 돌아오기 전에 우리 어서 도망가세.
@@ -1847,8 +1842,8 @@ dlga_campeon2_dialog4_2:close_window|멍청이, 모리안과 그녀의 야수들
 dlga_campeon2_dialog4:campeon2_dialog5|아니. 당신과 가지 않겠소. 이곳에 남아 탈출할 기회를 엿보겠소. 그렇게나 죽고 싶으면 가서 혼자 죽으시오.
 dlga_campeon2_dialog5:close_window|겁쟁이 놈들! 그렇다면 내 손에 먼저 죽어라.
 dlga_campeon2_dialog5:close_window.1|겁쟁이 놈들! 모리안은 내 혼자 죽이러 가겠소. 잘 가시오.
-dlga_start:thora_dialog|안녕하세요, 환영합니다! 제 이름은 도라 울프손입니다. 저는 울프의 외동딸이고, 당신은 아버지와 이야기해보셔야 합니다.
-dlga_start:close_window.56|나는 당신을 위해 쓸 시간이 없소. 안녕히.
+dlga_start:thora_dialog|안녕하세요, 환영합니다! 제 이름은 도라 울프도티르입니다. 저는 울프의 외동딸입니다. 아버지와 이야기를 해 보시지요.
+dlga_start:close_window.54|미안하지만, 지금은 내가 좀 바쁘오.
 dlga_thora_dialog:thora_dialog_sigurd|도라, 만나서 반갑습니다. 내가 당신의 아버지에게 가서 이야기해보겠소, 그럼 이만.
 dlga_thora_dialog:thora_dialog_romance|도라, 아버지보다는 당신과 이야기하고 싶군요, 당신은 아주 아름다운 여자야.
 dlga_thora_dialog_sigurd:thora_dialog_sigurd2|도라, 당신의 이름은 정말 아름답군요. 나는 에길 호릭손입니다. 내 무기는 칼과 창이지만. 나는 당신의 아름다움이라는 무기에 당하고 말았습니다.
@@ -1864,17 +1859,17 @@ dlga_thora_dialog_romance2:thora_dialog_sigurd|좋아요, 그럼 나는 당신�
 dlga_thora_dialog_romance3:thora_dialog_sigurd|더 이야기하고 싶지 않네요, 아버지는 내가 낯선 이와 이야기하는 걸 원치 않습니다. 아버지와 이야기하러 가세요.
 dlga_thora_dialog_romance4:thora_dialog_romance5|(당신은 그녀의 빛나는 눈에 걸고 도박을 했고, 그녀의 몸 위에 손을 올렸습니다. 그리고 그녀는 저항하지 않았습니다. 당신은 그녀와 키스를 하려고 시도했고, 그녀는 자신의 입에 손을 올렸습니다.)
 dlga_thora_dialog_romance5:close_window|여기선 안 돼요, 아버지는 분명 화낼 거에요. 나는 당신을 위해 오늘 밤 당신의 처소로 갈 거에요. 자, 내 아버지 울프를 만나러 가세요.
-dlga_start:close_window.57|지금은 시간이 없소.
+dlga_start:close_window.55|지금은 시간이 없소..
 dlga_start:ulf_testigo1|{playername}, 다시 여기서 뭐하는 거요?
 dlga_start:ulf_ormvictory1|{s2}^^{playername}, 내 목숨, 내 농장과 내 딸 도라를 지켜줘서 정말 고맙소, 나는 당신을 위해 충분한 보상을 해주고 싶소, 게다가 오름 스바르티의 무기가 있소, 나는 당신이 이 것들을 가져야 한다고 생각하오.
 dlga_start:ulf_dialog|안녕하시오! 내 이름은 울프 토리손이오, 내 야를인 시구르드 라그나르손은 당신이 오는 것을 나에게 알려줬고, 내 농장에 온 것을 환영하오. 당신과 당신의 부하들은 시구르드의 사람들이 도착할 때까지 여기서 먹고 자며 머무를 수 있소. ^^하지만 당신들이 유일하게 지켜줘야 하는 것은 당신들 중 누구도 내 딸, 도라를 건드려서는 안 되오.
 dlga_start:ulf_dialog.1|안녕하시오! 내 이름은 울프 토리손이오, 내 야를인 시구르드 라그나르손은 당신이 올 거라고 경고했지만, 나는 당신이 내 농장에 온 것을 환영하오. 당신과 당신의 부하들은 시구르드의 사람들이 도착할 때까지 여기서 먹고 자며 머무를 수 있소. ^^하지만 당신들이 유일하게 지켜줘야 하는 것은 당신들 중 누구도 내 딸, 도라를 건드려서는 안 되오.
-dlga_start:close_window.58|난 지금 무척 바쁘다오. 노예들이 게을러터졌소.
+dlga_start:close_window.56|난 지금 무척 바쁘다오. 노예들이 게을러터졌소.
 dlga_ulf_dialog:ulf_dialog2|환대에 감사하오. 울프, 내 부하들이 아무도 당신의 딸을 건들지 못하도록 약속하겠소.
 dlga_ulf_dialog:ulf_dialog2.1|울프, 당신의 딸에 대하여 걱정하지 않아도 되오. 난 황소목 스벤을 찾으러 왔고, 또한 내 부하들도 당신의 환대에 감사할 것이오.
 dlga_ulf_dialog2:ulf_dialog3|(울프는 음식을 가져오도록 두 시종에게 명령을 내렸고, 그들은 상한 우유와 버터, 빵을 당신의 부하들에게 주었다.)
 dlga_ulf_dialog3:ulf_dialog4|{s10}
-dlga_ulf_dialog4:ulf_dialog5|내가 가지고 있는 모든 것이며, 내 선의로 당신들에게 제공했소.
+dlga_ulf_dialog4:ulf_dialog5|이게 내가 가진 전부이고, 내 선의로 당신들에게 베푸는 것이오.
 dlga_ulf_dialog5:ulf_dialog6|거짓말! 나는 근처에서 사슴 고기와 맥주 통으로 가득 찬 창고를 보았소, 그는 좋은 것을 먹는 동안 우리는 이 쓰레기를 먹고 있지 않소!
 dlga_ulf_dialog6:ulf_dialog7|{s2}^^그는 우리를 농락하고 있소! 그는 부자이면서 우리에게 최악의 식사를 제공하고 있소, 그는 접대의 율법을 무시하고 있소! 그는 죽어야 마땅하오! 그는 마땅히 우리를 존중하여 모범이 되어야 할 것이오!
 dlga_ulf_dialog7:ulf_dialog81|{s2}^^당신이 이 사람을 죽일 경우, 당신은 그의 가족에게 그에 해당하는 보상을 해야 할 것이오. 또는 그들의 가족이 당신에게 복수를 하기로 결정할 것인데, 당신은 이걸 원하는 거요?
@@ -2101,8 +2096,8 @@ dlga_olvir_dialog55:olvir_dialog6|아니. 에길, 그의 검을 나에게 줘, �
 dlga_olvir_dialog6:olvir_dialog7|{s2}
 dlga_olvir_dialog7:olvir_dialog71|{reg59?부인:경}, 이제 길을 떠날 시간이오. 총회는 살인을 매우 심각한 일로 볼 것이며, 시구르드가 이 점을 악용하여 살인 혐의로 기소하기 전에 우리는 내 아버지, 국호릭 왕에게 이야기하러 가야 하오.
 dlga_olvir_dialog71:close_window|지체할 시간이 없군. 출발하자.
-dlga_start:close_window.59|우린 탈출을 막기 위해 왔소. 행운을 빌지.
-dlga_start:close_window.60|이제 당신 몫이오! 난 이미 그를 있는 힘껏 쳤소.
+dlga_start:close_window.57|우린 탈출을 막기 위해 왔소. 행운을 빌겠소.
+dlga_start:close_window.58|이제 당신 손에 달렸소! 내가 이미 그를 있는 힘껏 쳤소.
 dlga_start:prisionero_interrogation1|토르시여, 새로운 방문자가 왔습니다. 우리의 친구는 힘든 삶을 겪었소. 당신이 그를 보고 좀더 나은 삶을 이뤄줄 수 있습니까?
 dlga_start:prisionero_interrogation1.1|그건 따분한 일이군. 당신이 할 수 있는 더 나은 일이 없나?
 dlga_pretalkdc:prisionero_interrogation1|음?
@@ -2167,13 +2162,13 @@ dlga_prisionero_interrogation44:prisionero_interrogation43|음, 우리는 몇몇
 dlga_prisionero_interrogation45:prisionero_interrogation22th|황소목 스벤은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요. 하지만 그곳이 어딘지 이야기 해줄 생각은 없소. 심지어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신하지 않을것이오.
 dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^더 이상 그를 고문할 필요가 없을것 같소. 리베의 항구에 사는 독싱가 출신의 남자가 있는데, 리베로 상경해 항구 관리로 지내며 바이킹이 잡아온 노예를 거래하고 있소. 종종 부두 바깥에 있는 그를 발견할 수 있을것이오. 그는 그리 좋은 사람이 아니지만, 그는 필요한 온갖 정보를 판매하고 있소. 하지만 당신이 그와 이야기할 때 내 이름을 언급하진 마시오. 몇 년 전에 그를 독싱가에서 추방한 사람이... 바로 나였소.
 dlga_prisionero_interrogation22th2:prisionero_interrogation22|내가 이야기할 것은 더 없소.
-dlga_start:close_window.61|명령을 대기하고 있소.
-dlga_start:close_window.62|당신을 상대할 시간이 없소. 잘 가시오.
+dlga_start:close_window.59|명령을 기다리고 있소.
+dlga_start:close_window.60|당신을 상대할 시간이 없소. 잘 지내시오.
 dlga_start:harald_meeting1|안녕하시오, 선장! 내일 정오에 우리는 노섬브리아의 해안에 도착할 것이오, 때문에 당신에게 이 임무의 세부사항을 전달하고 이 함대를 괴롭히는 문제에 대해 이야기할 생각이오.
 dlga_start:sven_comprapr|남자들은 건강한 치아와 단단한 근육을 갖추고, 강합니다. 여자는 건강하고 둘은 자매입니다. 그들은 내가 가지고 있는 마지막 노예이며 그래서 그들은 패키지로 판매할 생각이오, 그러나 나는 당신에게 할인 혜택을 줄 것이고, 당신이 900 페닝을 지불하면 그들은 당신 소유요.
 dlga_start:svenlair_1|당신은 누구고, 무엇을 원합니까?
 dlga_start:revenge_kingmen|안녕하시오, {playername}! 안녕하시오, 에길, 형제여! 우리는 당신의 서신을 받고 여기에 왔소. 우리는 우리가 부대에 합류하기를 바라오.
-dlga_start:close_window.63|아, {playername}. 당신을 다시 볼 수 있어서 얼마나 좋은지 몰라요. 그러나 전 다른 곳으로 가야만 해요.
+dlga_start:close_window.61|신께서 우릴 지키셨도다!
 dlga_revenge_kingmen:revenge_kingmen2|물론, 하랄드! 우리는 여전히 '눈 속의 뱀' 시구르드를 기다리고 있어. 여기, 내 친구가, 황소목 스벤을 잡기 위해 혈안이 되어 있지.
 dlga_revenge_kingmen2:revenge_kingmen3|환영하오, 하랄드. 우리는 호릭 왕에게 도움을 준 것을 고맙게 생각하고 있소.
 dlga_revenge_kingmen3:revenge_kingmen4|나는 그것을 확신하오. 시간이 될 때까지, 내 부하들을 숨겨두었소, 상황이 좋지 않다면 개입할 준비가 되었소. 그러나 왕은 아주 명확했소, {playername}. 사실 그는 당신이 대결을 피할 수 있는 모든 경우에, 대결을 하지 않기를 바라고 있소.
@@ -2216,8 +2211,8 @@ dlga_svenfinal_ld1:svenfinal_ld3|당신은 우리와 함께 싸울 것이오?
 dlga_svenfinal_ld2:svenfinal_ld11|당신이 말하는 것이 바로 당신의 어머니, 세이드를 의미하오? 그렇소, 그녀는 그들과 함께 있소. 그녀와 황소목 스벤이 리딩엄에 들어갔을 때 우리는 그녀를 보았소. 나는 그녀가 전에 어떤 모습이었는지 모르지만, 지금 그녀는 매우 수척한 상태요. 나는 그녀가 오래 살 거라고 생각하지 않소.
 dlga_svenfinal_ld3:svenfinal_ld11|유감스럽게도 아니오, 내 임무는 다른 것이오, 여기에서의 내 역할은 당신이 도착했을 때 황소목 스벤을 확인할 수 있도록 하는 것이오. 분명히 내 주인은 당신에게 약속했소, 그는 자신의 말을 어기지 않소.
 dlga_svenfinal_ld11:close_window|글쎄, 내가 들은 바로는 당신 또한 위험한 사람이오. 나는 내 부하 100명 중 원하는 자 절반을 마음대로 떠날 수 있게 하도록 하였소. 그들은 용감한 전사이고, 그들이 당신을 도울 경우 한 무더기의 금을 받기로 내 주인에게 약속받았소. 만족스러운 전투가 되기를. 안녕히, {playername}, 그리고 행운이 있기를!
-dlga_start:close_window.64|바로 여기요! 지금 여기에서 {s3}의 성벽이 보이는군. 여기서부터 우리는 안전하오. 여기, 당신의 일에 대한 보상으로 약속한 {reg3} 페닝을 받으시오, 나는 언젠가 우리가 다시 한번 같이 여행할 수 있었으면 좋겠군.
-dlga_start:close_window.65|내 인내심이 바닥을 보이기 전에 당장 꺼져라, 이 망할 거지 같으니!
+dlga_start:close_window.62|당신을 상대할 시간이 없소. 잘 가시오.
+dlga_start:close_window.63|당신을 상대할 시간이 없소. 잘 가시오.
 dlga_svenlair_1:svenlair_2|나는 {playername}요. 나는 당신이 포로를 판매한다는 말을 듣고 왔소.
 dlga_svenlair_1:close_window|나는 {playername}다! 관련이 없는 자나, 바보들은 떠나라. 나머지는 모두 죽일 것이다!
 dlga_svenlair_1:svenlair_3|신이시여! 나는 졌소! 내 실수요, 나는 떠나겠소.
@@ -3880,10 +3875,10 @@ dlga_spouse_feast_confirm_yes:spouse_pretalk|왕국의 사정이 되는 대로 �
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|매우 좋군요, 그렇다면. {s9}의 {reg4?이곳:} 우리의 궁전에서 즉시 연회를 시작하도록 하죠. 당신은 아마도 우리의 식료품 창고에 계속해서 비축을 해야 할 거에요. 손님에 대한 접대가 우리들의 평판을 결정 지을 것이고, 당신이 연회를 선포한다면 군사작전이 시작하는 경우거나 영주들이 그들의 집으로 돌아가는 것을 알게 되더라도 어느 때고 계속 진행 될 거에요.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.2|Very well, then. Let the feast begin immediately in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.{***}
 dlga_spouse_feast_confirm_yes:spouse_pretalk.3|Unfortunately, there are no suitable venues available to host the feast.{***}
-dlga_start:close_window.66|얼마나 멋진지 모르겠어요... 곧 있으면 우리는 결혼해요! 결혼을 며칠 남겨두지 않고, 너무 많은 이야기를 하는 것은 관습에 어긋난다는 것을 말해드리고 싶어요.
-dlga_start:close_window.67|음..{playername}, 우리 결혼 관습에 익숙하지 않으시니, 누군가가 당신에게 말해주길 원해요... 아, {s11}, {s4}에게 가서 이야기해 보세요.
-dlga_start:close_window.68|나는 전통에 따라 우리 결혼을 주관해 줄 {s10}의 {s11}가 어디 있는지 모르겠어요. 우리는 그를 찾을 수 있을 때까지 기다려야 해요.
-dlga_start:close_window.69|존경하는 {s12}께서 우리가 가족의 품으로 돌아갈 수 있도록 허락했어요. 우리는 잠시 떨어져 있어야 해요.
+dlga_start:close_window.64|얼마나 멋진지 모르겠어요... 곧 있으면 우리는 결혼해요! 하지만 결혼을 며칠 앞두고 너무 많은 이야기를 하는 것은 관습에 어긋난다는 것을 말해드리고 싶어요.
+dlga_start:close_window.65|음... {playername}, 우리 결혼 관습에 익숙하지 않으시니 누군가에게 설명을 듣길 바래요... 먼저 나의 {s11}, {s4}에게 가서 이야기해 보세요.
+dlga_start:close_window.66|나는 전통에 따라 우리 결혼을 주관해 줄 나의 {s11}, {s10}가 어디 있는지 모르겠어요. 그가 우리를 찾을 때 까지 기다려야만 해요...
+dlga_start:close_window.67|존경하는 {s12}께서 우리가 우리의 집과 가족의 품으로 돌아갈 수 있도록 허락했어요. 곧 출발하기로 해요.
 dlga_start:kingdom_lady_captive|정말 외롭네요, 가족들이 그리워요.
 dlga_start:kingdom_lady_captive.1|당신은 비열하군요, 이런 식으로 숙녀를 붙들다니...
 dlga_start:kingdom_lady_captive.2|이상해요. 당신이 내게 그런 친절함을 보여주었을 때, 의지와 상관없이 내가 여기 남아있게 되는군요.
@@ -3894,7 +3889,7 @@ dlga_start:escort_bishop_succeeded|여기까지 호위해줘서 고맙소. 감�
 dlga_start:lady_escort_lady_succeeded|이 곳까지 호위해줘서 고마워요, {playername}. 감사의 표시인 이 선물을 받아주세요. 후에 언젠가 다시 만나기를 희망합니다.
 dlga_lady_escort_lady_succeeded:close_window|당신을 모셔서 영광이었습니다, {s65}.
 dlga_escort_bishop_succeeded:close_window|모셔서 영광이었습니다, 신부님.
-dlga_start:close_window.70|우리는 얼마 뒤 {s5}로 떠날 것입니다. 명예를 유지하고 있는 몇몇 사람들을 알게 된 것은 좋은 일이에요.
+dlga_start:close_window.68|우리는 곧 {s5}를 떠날 것입니다. 요즘 시대에 몇 안되는 명예로운 사람들을 알게 되어서 좋았소.
 dlga_lady_talk_refugee:close_window|물론이죠, 부인.
 dlga_lady_talk_refugee:lady_captive_talk|당신이 틀린것 같군요, 부인.
 dlga_lady_captive_talk:lady_captive_confirm|뭐라고?! 이건 무슨 악행이죠?
@@ -3903,8 +3898,8 @@ dlga_lady_captive_confirm:close_window.1|몸 값을 준비할 가족에게 연�
 dlga_kingdom_lady_captive:close_window|그럼 당신의 가족들에게 몸값을 서둘러 준비하라고 편지를 쓰세요.
 dlga_kingdom_lady_captive:close_window.1|생각이 바뀌었소 -- 당신은 자유롭게 떠나도 좋소.
 dlga_start:rescue_prisoner_succeed_1|제 전 연인 '유령'이 절 더 이상 괴롭히러 오지 않아요. 당신이 정말로 해냈어요! 당신은 이제 제 영웅이세요!
-dlga_start:close_window.71|오, {playername}. 이 얼마나 창피한 일이람! 유령한테 패배해 놓고는 무슨 배짱으로 다시 온거죠? 당신 때문에 제 인생은 완전 망했어요! 당장 떠나세요!
-dlga_start:close_window.72|음.. {playername} -- 당신은 {s10}과 결투를 벌였고, 져버렸어요. 우리의 전통과 관습에 따르면 더 이상 당신을 받아들일 수 없어요. 잘 가요. {playername}.
+dlga_start:close_window.69|오, {playername}. 이 얼마나 창피한 일이람! 유령한테 패배해 놓고는 무슨 배짱으로 다시 온거죠? 당신 때문에 제 인생은 완전 망했어요! 당장 떠나세요!
+dlga_start:close_window.70|음.. {playername} -- 당신은 {s10}과 결투를 벌였고, 져버렸어요. 우리의 전통과 관습에 따르면 더 이상 당신을 받아들일 수 없어요. 잘 가요. {playername}.
 dlga_start:lady_duel_lost|오... {playername} -- 당신과 {s10}의 결투에 대해 들었어요. 이제 더 이상 그와 다투지 않길 바래요. 그리고 명예와 전통에 따라 당신이 졌기 때문에 당신의 청혼은 깨졌어요. 잘 가요, {playername}.
 dlga_lady_duel_lost:close_window|알겠소. 우리는 전통에 따라야 하오. 잘 가요. 나의 아씨.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|명예나 전통따위 개나 줘버려!
@@ -3931,7 +3926,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|당신을 돕는 것은 언제나 �
 dlga_start:lady_meet_end|당신은 {playername}이(가) 맞죠. 우리는 {s8}에서 최근 열린 토너먼트에서 당신 스스로 당신을 돋보이게한 경기를 볼수 있어서 영광이었어요.
 dlga_start:lady_meet_end.1|당신은 {playername}이(가) 맞죠. 제 {s15}인 {s16}이(가) 당신을 칭송했답니다. 당신을 만나게 되서 기쁘군요.
 dlga_start:lady_premeet|처음 뵙는 분 같군요.
-dlga_start:close_window.73|{s43}
+dlga_start:close_window.71|아, {playername}. 당신을 다시 볼 수 있어서 얼마나 좋은지 몰라요. 그러나 전 다른 곳으로 가야해요.
 dlga_start:lady_start.3|{playername} -- 당신을 만나서 기쁘군요. (속삭임:) 저는 아직 당신의 애정어린 방문을 기억해요.
 dlga_start:lady_meet_end.2|아, {playername}. 최근 토너먼트에서 돋보이는 당신이 얼마나 훌륭한지 몰라요.
 dlga_start:lady_start.4|{s12}
@@ -4157,7 +4152,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|좋소, 내 정보원들이
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|아무것도 아니오.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.74|당신의 도움에 감사드리오, {reg59?부인:경}. 당신이 {reg1?우리의 목숨을:내 목숨을} 구했소.
+dlga_start:close_window.72|바로 여기요! 지금 여기에서 {s3}의 성벽이 보이는군. 여기서부터 우리는 안전하오. 여기, 당신의 일에 대한 보상으로 약속한 {reg3} 페닝을 받으시오, 나는 언젠가 우리가 다시 한번 같이 여행할 수 있었으면 좋겠군.
 dlga_start:talk_caravan_escort|우리는 꽤 멀리 온 것 같은데... 앞에 도적들은 보이지 않소?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|근처에 도적들이 있는 것 같소, 잠깐 여기서 기다리시오.
 dlga_talk_caravan_escort_2a:close_window|걱정 마시오, {playername}, 우리는 당신을 믿고 여기서 기다리겠소. 먼저 앞장서서 가시오.
@@ -4245,7 +4240,7 @@ dlga_start:castle_guard_players|나의 {reg59?부인:영주}시여, 내게 무�
 dlga_castle_guard_players:close_window|회당으로 들어가고 싶으니, 문을 여시오.
 dlga_castle_guard_players:close_window.1|아무것도 아니오.
 dlga_start:castle_guard_sneaked_intro_1|내 앞에서 당장 꺼져라, 냄새나는 거지놈아!
-dlga_start:close_window.75|당신의 도움에 감사드리오, {reg59?부인:경}. 당신이 온 덕분에 우리는 죽을 운명에서 벗어날 수 있었소.
+dlga_start:close_window.73|내가 성질을 부리기 전에 꺼져라, 비열한 거지자식아!
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|나는 회당에 들어가 당신의 영주와 대화하고 싶소.
 dlga_castle_guard_sneaked_intro_1:close_window|[떠납니다]
 dlga_castle_guard_sneaked_intro_2:close_window|제정신으로 말하는 거야? 영주는 너같은 거지를 만나지 않아! 피투성이가 될 때까지 때리기 전에 어서 여기서 썩 꺼져!
@@ -4277,8 +4272,8 @@ dlga_castle_gate_open:close_window.1|내 영주인 {s2}은(는) 지금 여기에
 dlga_castle_gate_open:close_window.2|들어오시오. 당신을 위해 문을 열어 두었소.
 dlga_castle_gate_open:close_window.3|들어오시오, 그러나 당신의 병력들은 성벽 밖에 남아 있어야 할 것이오. 내 영주인 {s2}은(는) 문제가 생기는 걸 원치 않소.
 dlga_castle_gate_open:close_window.4|내 영주인 {s2}은(는) 당신을 들이지 말라고 했소. 이제 여기서 떠나시오.
-dlga_start:close_window.76|또 한번 우리의 목숨을 지켜주었군, {playername}! 당신은 정말 최고의 친구요. {s43}
-dlga_start:close_window.77|때마침 와줘서 고맙소, {playername}! 당신의 도움에 깊히 감사하오. {s43}
+dlga_start:close_window.74|드디어 도착했군요. 우리의 세력에 합류해 놈들에게 뜨거운 교훈을 가르쳐 줍시다.
+dlga_start:close_window.75|당신은 우리에 대항해 싸우는 것으로 큰 문제를 만들고 있는 중이오.
 dlga_start:ally_thanks_meet|나는 당신을 만난 적이 없는 것 같소, 친구. 당신은 내 목숨을 구해주었지만, 나는 당신의 이름조차 모르고 있었소.
 dlga_start:ally_thanks_meet.1|당신의 도움에 감사하오, 이방인이여. 내 이름은 {s1}라고 하오, 당신에 대해서 소개받을 수 있겠소?
 dlga_start:ally_thanks_meet.2|당신의 도움에 감사하오, 이방인이여. 우리는 서로에 대해서 잘 모르는 것 같군, 당신의 이름은 무엇이오?
@@ -4286,15 +4281,13 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|내 이름은 {playername}이라고 하
 dlga_ally_thanks_meet_2:close_window|당신이 정말로 {playername}이 맞소? 당신과 만나게 될 줄은 몰랐군. 내 이름은 {s1}이라고 하오. 그리고 당신에게 영원히 남을 빚을 지게 되었군. 만약 당신에게 어떤 도움이라도 필요하거든, 나를 찾아 주시오.
 dlga_ally_thanks_meet_2:close_window.1|{playername}, 당신을 만나서 참 다행이오. 당신에게 큰 빚을 졌군, 만약 이 빚을 갚을 기회가 생긴다면 언제든지 당신을 돕겠소.
 dlga_ally_thanks_meet_2:close_window.2|{playername}이라고 하는군, 내 이름은 {s1}이라고 하오. 당신의 도움을 고맙게 생각하고, 우리가 다음에 다시 만나기를 기원하겠소.
+dlga_start:close_window.76|또 한번 우리의 목숨을 지켜주었군, {playername}! 당신은 정말 최고의 친구요. {s43}
+dlga_start:close_window.77|때마침 와줘서 고맙소, {playername}! 당신의 도움에 깊히 감사하오. {s43}
 dlga_start:close_window.78|제시간에 나타나 주었구려, {playername}. 이 은혜는 잊지 않을거요. {s43}
 dlga_start:close_window.79|만나게 되어서 반갑소, {playername}. {s43}
-dlga_start:close_window.80|제발, 자비로우신 {reg59?부인:경}, 나를 도와주세요! 나는 노예가 되기 싫어요!
-dlga_start:close_window.81|나는 조금 전에, 안개 속에서 전투선 비스므리한 무언가를 본 것 같소... 아마 아무 것도 아닐 거요, 나는 그게 아무것도 아니길 바라오. 이 선박은 그럭저럭 빠르지만, 전투선을 피해 도망칠 수는 없을 거요.
-dlga_start:close_window.82|도와줘서 고맙소, {reg59?부인:경}. 당신은 {reg1?우리의:내} 생명의 은인이오.
-dlga_start:close_window.83|도와줘서 고맙소, {reg59?부인:경}. 상황이 별로 좋지 않았는데 당신이 와준 덕분에 모든게 바뀌었소.
+dlga_start:close_window.82|당신의 도움에 감사드리오, {reg59?부인:경}. 당신이 {reg1?우리의 목숨을:내 목숨을} 구했소.
+dlga_start:close_window.83|당신의 도움에 감사드리오, {reg59?부인:경}. 당신이 온 덕분에 우리는 죽을 운명에서 벗어날 수 있었소.
 dlga_start:close_window.84|도와줘서 고맙소, {reg59?부인:경}. 당신이 가까이에 있었다니, 운이 좋았소.
-dlga_start:close_window.85|내가 아는건 모두 이야기 했소. 이제 날 보내주시오!
-dlga_start:close_window.86|--그녀는 당신에게 이야기하면서 당신의 눈을 보지 못한다, 그녀는 겁에 질려있는 것 같다.--
 dlga_start:kidnapped_girl_liberated_battle|오, {reg59?부인:경}, 나를 구해줘서 너무나도 고마워요. 당신은 제 가족에게 저를 데려다주려고 왔나요?
 dlga_start:freed_hero_answer|나를 자유롭게 해 줘서 고맙소, 당신에게 빚을 졌군. 친구.
 dlga_freed_hero_answer:freed_hero_answer_1|당신은 아무 곳에도 갈 수 없을 거요. 이제 당신은 나의 포로요!
@@ -4356,7 +4349,7 @@ dlga_music_4:music_5|나는 아무 곳에도 가지 않을 것이오, 친구. �
 dlga_music_5:music_fight_start|문제없소. 다만 사리분별을 할 줄 모르는게 안타깝구먼.
 dlga_music_fight_start:close_window|죽어라, 인간쓰레기!
 dlga_start:reveal_1|당신 도대체 누구요? 뭘 원하시오?
-dlga_start:close_window.87|내가 아는 건 다 알려드렸소. 이제 날 내버려 두시오!
+dlga_start:close_window.85|내가 아는건 모두 이야기 했소. 이제 날 보내주시오!
 dlga_reveal_1:reveal_2|내 이름은 {playername}이오. 친숙한 이름이오? 당신에게 몇 가지 묻고 싶은게 있소.
 dlga_reveal_1:reveal_fight|내 이름은 {playername}이오. 친숙한 이름이오? 당신의 머리를 가지러 왔소.
 dlga_reveal_fight:close_window|이걸 가지러 왔대했소? {playername}!
@@ -4424,7 +4417,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|으윽! 나는 못 하�
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|{reg59?부인:경}, 지금 한 말은 무슨 뜻이오?
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|도시 안에 당신을 겨냥한 함정이 파여 있소, {s3}은(는) 적을 속이기 위해 내 충실한 전사중 한 명을 희생시키라고 명령했소. 그러나 그는 다른 방법을 찾아야 할 것이오.
 dlga_sacrificed_messenger_cancel_3:close_window|고맙소, {reg59?부인:경}. 나는 당신이 가는 곳이 지옥이라고 해도 당신을 따라갈 것이오. 하지만 이건 결코 좋은 죽음은 아닌 것 같소.
-dlga_start:close_window.88|당신은 우리의 돈을 훔쳤고, 식량을 뺏어서 떠났소. 나는 당신을 다시는 보고 싶지 않소.
+dlga_start:close_window.86|걱정 마십시오, {reg59?부인:경}. 지금 가고 있습니다.
 dlga_start:follow_spy_talk|좋은 날이오, {reg59?부인:경}. 좋은 날씨라고 생각하지 않소? 당신이 나에게 볼일이 없으면, 나는 내 갈길을 가야만 하오.
 dlga_follow_spy_talk:follow_spy_talk_2|{s1}의 이름으로, 당신을 체포하겠소!
 dlga_follow_spy_talk_2:close_window|당신은 결코 나를 살려서 잡을 수 없을 것이오!
@@ -4743,7 +4736,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|내가 왜 �
 dlga_farmer_from_bandit_village_accepted:close_window|신의 축복이 함께 하기를, {reg59?부인:경}. 우리 마을은 {s7}이오. 이 곳에서 멀지 않은 곳에 있소.
 dlga_farmer_from_bandit_village_denied:close_window|알겠소, {reg59?부인:경}. 당신을 귀찮게 해서 미안하오.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|우리는 단지 가난한 농부일 뿐이오, {reg59?부인:경}. 그리고 이미 도적들이 우리가 가진 거의 모든 재산을 가져갔소, 당신이 우리 말을 들어주어서 기쁘오, 당신이 만약 도와준다면 이 이상 기쁠 수 없을 것이오.
-dlga_start:close_window.89|{playername}, 제발, 우리 식량을 돌려주시오.
+dlga_start:close_window.87|우릴 도와주러 와주어서 고맙소, {reg59?부인:경}. 이제 저 날강도들을 무찌릅시다!
 dlga_start:mercenary_tavern_talk01|{s4}
 dlga_mercenary_tavern_talk01:mercenary_tavern_talk02|당신들은 험한 생활에 익숙해 보이는군, 나는 당신들을 고용하는 데 관심이 있소.
 dlga_mercenary_tavern_talk01:close_window|당신들을 귀찮게 했다면 미안하오. 그럼 이만.
@@ -4797,12 +4790,12 @@ dlga_novicemaster_are_you_ready1:novicemaster_ready_to_fight1|준비됐소.
 dlga_novicemaster_ready_to_fight1:close_window|이제 당신은 연습에 들어갈 것이오. 행운을 빌겠소.
 dlga_novicemaster_are_you_ready1:novicemaster_not_ready1|잠깐 기다리시오, 나는 아직 준비가 안 되었소.
 dlga_novicemaster_not_ready1:close_window|이보시오, 당신이 연습을 하지 않으면 교육의 성과를 확인할 수 없잖소.
-dlga_start:close_window.90|당신은 나에게서 돈을 얻을 수는 없을 거요!
+dlga_start:close_window.88|제발, 친절을 베푸시어 우리를 도우소서, {reg59?부인:나리}! 나는 노예가 되고 싶지 않아요!
 dlga_start:bodo_prisoner_sl|안녕하시오, {playername}. 다행히 살아서 당신을 볼 수 있었군. 나는 황소목 스벤과 그의 부하들이 선박을 공격했을 때 당신이 죽은 줄로만 알고 있었소. 나는 정말로 운이 없었소, 당신이 볼 수 있듯이.
 dlga_bodo_prisoner_sl:bodo_prisoner_s2|보도! 대답하시오, 내 어머니는 어디에 있소? 그리고 이 여자들은 누구요?
 dlga_bodo_prisoner_sl:close_window|일단 여기서 나를 내보내준 뒤에, 밖에서 이야기하는 것이 어떻소, 친구?
 dlga_bodo_prisoner_s2:close_window|우리는 여기서는 이야기할 수가 없소, 저들이 듣고 있잖소. 일단 여기서 나를 내보내주시오, 그 다음에 당신에게 아는 걸 다 이야기하겠소.
-dlga_start:close_window.91|당신은 우리에게 페닝을 받을 수 없을 것이오!
+dlga_start:close_window.89|제발, 친절을 베푸시어 우리를 도와주십시오, {reg59?부인:나리}. 노예가 되긴 싫소.
 dlga_start:bodo_merchant_1|좋은 날이오, {playername}. 당신 기분이 좋아보여서 나도 기분이 좋소. 당신이 자면서 잠꼬대를 하는 것을 들었는데, 악몽이라도 꾸는 것 같더군. 나는 당신이 그런 사소한 악몽으로 고민하는 것을 별로 좋지 않게 생각하오.
 dlga_bodo_merchant_1:bodo_merchant_2|난 괜찮소, 걱정해줘서 고맙소.
 dlga_bodo_merchant_1:bodo_merchant_22|{s10}
@@ -4816,7 +4809,7 @@ dlga_bodo_merchant_4a:bodo_merchant_5|왜 그러시오, 나는 보도요. 나는
 dlga_bodo_merchant_5:bodo_merchant_6|나는 당신의 이야기에 대해 잘 알고 있소, 하지만 다시 한번 당신의 이야기를 해줄 수 있겠소?
 dlga_bodo_merchant_5:close_window|음, 알겠소. 보도. 글쌔, 나는 선박에서 내려달라고 이야기하러 가야겠소. 그럼 지금은 이만.
 dlga_bodo_merchant_6:bodo_merchant_7|어쩌면 나중에 이야기해줄 수 있을 거요. 내가 보기에 당신의 목적지가 이 근처인 것 같소. 당신은 선장에게 이야기해서 여기에 내려달라고 말하는게 좋지 않겠소?
-dlga_start:close_window.92|이제 여기부터는 우리 스스로 갈 수 있을 것 같소, 감사하오.
+dlga_start:close_window.90|조금 전 안개속에서 뭔가를 본것만 같소만, 물 위에 안개가 자욱하게 핀걸 보니... 아무것도 아닌걸 내가 착각했나 보오.^ ... 아무것도 아니길 빌겠소. 이 배가 꽤 빠르긴 하지만 전투선을 피해 달아날 순 없을테니 말이오.
 dlga_bodo_merchant_7:bodo_merchant_8|당신의 걱정은 잘 알겠소. 아마 당신이 본 것은 기우일 거요, 내 친구.
 dlga_bodo_merchant_7:close_window|그것이 우리에게 무슨 해를 끼치기나 하겠소? 일단 나는 선장에게 선박에서 내려달라고 이야기하러 가야겠소.
 dlga_bodo_merchant_8:close_window|그리고 당신을 만난 것은 좋은 일이었소. 우리는 이 여행에서 좋은 친구가 되었고, 미안하지만 이제 우리는 서로 떨어져 제 갈길로 가야 하오. 만약 나중에라도 당신이 나를 만나게 되어, 내 도움을 필요로 하게 된다 해도 나는 여전히 당신의 친구일 것이오, 나의 친구.
@@ -4835,10 +4828,10 @@ dlga_esposabarco_15:close_window|그래요, 하지만 저는 어머니를 위해
 dlga_esposabarco_16:close_window|{s2}^^오, 그런... 나는 잠시 혼자 생각해봐야겠구나. 가 보거라.
 dlga_esposabarco_17:esposabarco_18|{s2}^^나는 그런 치료가 필요 없단다, 내 {reg59?딸:아들}아.
 dlga_esposabarco_18:close_window|우리는 거의 다 왔어요. 지금 포기하지 마세요. 우리는 나중에 더 이야기할 수 있을 거에요.
-dlga_start:close_window.93|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
+dlga_start:close_window.91|나도 더 이야기를 나누고 싶지만, 집안일을 마무리 해야 해서요.
 dlga_start:sailors_merchant_1|{playername}, 나는 당신과 더 이야기하고 싶지만, 나는 내 일을 끝내러 가야 하오. 우리 나중에 이야기하는게 어떻소?
 dlga_sailors_merchant_1:close_window|알겠소, 우리는 오늘 밤 내가 이 곳에서 내릴 때, 그곳에서 더 이야기할 수 있을 거요.
-dlga_start:close_window.94|저를 집에 데려다 주셔서 고마워요! 저는 우리 가족을 한시라도 빨리 만나고 싶네요, 그럼 이만.
+dlga_start:close_window.92|[리딩엄의 벽에서 적의 감시병이 당신을 면밀히 지켜보고 있습니다.]
 dlga_start:arquerosb_merchant_1|선원장과 이야기해보시오, {playername}, 선원장은 저기 보트의 뱃머리에 있소. 그는 당신에게 잘 싸울수 있는 방법을 가르쳐줄 것이오.
 dlga_arquerosb_merchant_1:close_window|감사하오, 한번 그에게 가보겠소.
 dlga_start:frisianship_merchant_1|좋은 날이오, {playername}. 몸은 괜찮소? 어젯밤, 당신은 격렬하게 몸부림치며 이해할 수 없는 잠꼬대를 외치던데... 내 선원들은 당신이 악령에라도 씌인 줄 알았다고 하더이다.
@@ -4849,7 +4842,7 @@ dlga_frisianship_merchant_3:frisianship_merchant_4b|음... 그건 기억나는�
 dlga_frisianship_merchant_4a:frisianship_merchant_5|음, 걱정하지 마시오. 다른 사람들에게도 한번 물어보겠소.
 dlga_frisianship_merchant_4b:frisianship_merchant_5|슬슬 정말 당신에 대해서 걱정되기 시작하는군. 자세히는 모르겠지만, 당신이 당신의 어머니를 걱정하고 있다는 것 정도는 알고 있소. 당신의 아픈 어머니를 데리고 프리지아의 항구에 있다는 용한 사제에게 데려간다고 하지 않았소? 오딘 릭이 가기로 한 항구로 말이오.
 dlga_frisianship_merchant_5:frisianship_merchant_6|고맙소! 이제 명확해지는군. 그런데 왜 선박의 돛이 내려가 있소? 선박이 전혀 움직이지 않고 있잖소! 무슨 일이 일어난 거고? 왜 우리는 여기에 정박해 있는 거요?
-dlga_start:close_window.95|행운을 빌겠소!
+dlga_start:close_window.93|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
 dlga_start:frisianship_merchant_talk|좋은 날이오. 우리는 이 곳을 떠날 준비가 되었소. 당신은 준비를 끝냈소?
 dlga_frisianship_merchant_talk:frisianship_merchant_1x|나는 준비가 끝났소. 이제, 우리는 항해를 시작할 시간이 되었소.
 dlga_frisianship_merchant_talk:close_window|아니, 나는 아직 떠나기 전에 해야 할 일이 남아 있소.
@@ -4865,7 +4858,7 @@ dlga_frisianship_merchant_9:frisianship_merchant_11|나는 당신이 확실히 �
 dlga_frisianship_merchant_10:close_window|{s2}^^만약 당신이 저 선박들에 남겨진 생존자중 한 명이라고 생각해 보시오, 그래도 우리가 그만두길 원하시오? 이건 뱃사람의 법이오.^... 특히 이 바다에서는 말이오.
 dlga_frisianship_merchant_11:close_window|내가 보장하겠소, {reg59?부인:경}. 내게 맞겨 보시오. 계속 방해하면 오히려 더 늦어질거요.
 dlga_start:frisianship_mer_1|젠장, 오단! 우리에게 문제가 생겼소!
-dlga_start:close_window.96|미안하오, {reg59?부인:경}. 지금은 늦은 시간이고, 나는 집에 들어가봐야만 하오. 나에게 볼 일이 있다면 내일 다시 와 주시오.
+dlga_start:close_window.94|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
 dlga_frisianship_mer_1:frisianship_mer_2|무슨 일이오?
 dlga_frisianship_mer_2:frisianship_mer_3|오, 오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움 연습에 한눈을 파는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 황소목 스벤의 깃발이오! 이런, 젠장! 이제 우리들이 할 수 있는 거라곤 신들에게 지옥에 가지 않도록 비는것 뿐이오. 그들은 포로를 잡지 않고 모두 죽여버리니까.
 dlga_frisianship_mer_3:frisianship_mer_4c|내가 이럴 줄 알았소, 우리는 정박하지 않고 도망가야 했소!
@@ -5261,8 +5254,8 @@ dlga_abad_talk_wine:abad_pretalk|죄송하오, {reg59?자매여:형제여}. 방�
 dlga_abad_talk_wine2:abad_pretalk|잘 됐군. 지금 구매하고 싶소.
 dlga_abad_talk_wine2:abad_pretalk.1|그렇다면 다른 것에 대해 이야기해 보세.
 dlga_abad_talk:close_window|아무것도 아니오{reg0?, 파테르.:,} 나는 지금 떠나야만 하오.
-dlga_start:troll_treasure1|{s2}^^호오, 누가 내 다리를 넘으러 왔지? 너는 트롤의 다리에 있고, 트롤인 나에게 돈을 내놓아야 한다!
-dlga_start:close_window.97|호오, 넌 트롤의 다리를 건넜다! 트롤은 통행료를 원한다!
+dlga_start:troll_treasure1|{s2}^^호, 호, 호! 누가 내 다리를 넘으러 왔지? 여기는 트롤의 다리다. 이 트롤에게 돈을 내놓아야 한다!
+dlga_start:close_window.95|호, 호, 호! 넌 트롤의 다리를 건넜다! 트롤은 통행료를 원한다!
 dlga_troll_treasure1:troll_treasure2|당신은 거대하군, 하지만 당신은 트롤이 아니라 못생긴 바보일 뿐이오.
 dlga_troll_treasure1:troll_treasure3|나는 당신에게 100 페닝을 주겠소.
 dlga_troll_treasure1:close_window|이상하군, 그럼 나는 내가 온 곳으로 돌아가겠소.
@@ -5310,10 +5303,10 @@ dlga_elf_treasure17:elf_treasure18.3|반지들.
 dlga_elf_treasure18:elf_treasure20|틀렸소! 이 돈은 이제 내 거일세!
 dlga_elf_treasure19:elf_treasure20|좋소, 그건 전투에서 피가 묻게 되고, 그것을 잘 사용하는 사람을 방어해 주지. 상금을 받으시오!^^이것은 내가 줄 수 있는 최고의 상금이오. 이 고대의 투구는 왕의 집에서 몰래 가져온 거요. 매우 오래되고 가치있는 물건이지... 알아서 잘 쓰시오.
 dlga_elf_treasure20:close_window|즐거웠소! 나는 마을에서 도망치기 전엔 항상 내 어머니와 함께 수수께끼를 했지. 하지만 지금 내 집은 여기일세. 너무 늦었군, 이제 내 방으로 돌아가야겠소. 행운을 빌겠소! 그럼 이만.
-dlga_start:close_window.98|선장에게 말하시오. 그가 여길 담당하고 있소.
-dlga_start:close_window.99|선장에게 말하시오. 그가 여길 담당하고 있소.
-dlga_start:close_window.100|--그녀는 당신과 말하면서 다른 곳을 보고 있습니다--
-dlga_start:close_window.101|--그는 당신과 말하면서 다른 곳을 보고 있습니다--
+dlga_start:close_window.96|선장에게 말하시오. 그가 여길 담당하고 있소.
+dlga_start:close_window.97|선장에게 말하시오. 그가 여길 담당하고 있소.
+dlga_start:close_window.98|--그녀는 당신과 눈을 마주치지 않고, 다른 곳을 보며 말하고 있습니다.--
+dlga_start:close_window.99|--그는 당신과 눈을 마주치지 않고, 다른 곳을 보며 말하고 있습니다.--
 dlga_start:battlestones_treasure1|{s2}^^이 곳은 거래장이오. 우리는 이 곳에서 잡아온 노예들을 다른 곳보다 좋은 가격에 사거나 팔고 있지. 당신이 판매할 노예를 데려왔다면, 이야기하시오. 그게 아니라면, 여길 떠나시오.
 dlga_battlestones_treasure1:battlestones_treasure3|나는 당신에게 팔 노예가 있소.
 dlga_battlestones_treasure1:battlestones_treasure2|당신은 무고한 사람을 노예로 잡아다 팔고 있소. 나는 당신을 죽일 것이오.
@@ -5376,8 +5369,8 @@ dlga_start:old_talk|당신은 누구고, 무엇을 원하시오? 우리는 방�
 dlga_old_talk:old_angry|나는 {playername}이라고 하오, 선생. 당신은 누구요?
 dlga_old_talk:close_window|나는 {playername}이라고 하오, 하지만 나는 당신과 이야기 할 시간이 없소.
 dlga_start:old_grainok|나는 당신이 이 곳의 사람들을 위해 밀을 가져왔다는 걸 들었소, 고맙소!
-dlga_start:close_window.102|당신... 당신은 우리 돈을 훔쳐 가고는 굶주리게 내버려 뒀소. 다시는 당신을 보고 싶지 않소.
-dlga_start:close_window.103|{playername}, 제발 음식을 가져다주시오.
+dlga_start:close_window.100|당신... 당신은 우리 돈을 훔쳐 가고는 굶주리게 내버려 뒀소. 다시는 당신을 보고 싶지 않소.
+dlga_start:close_window.101|{playername}, 제발 식량을 가지고 와 주시오.
 dlga_old_grainok:old_grainok2|내가 도움이 될 만한 일이 있소?
 dlga_old_grainok2:old_grainok3|고맙소! 우리는 가난하고, 우리의 우정에 걸맞는 보상을 줄 수가 없어 미안하오. 하지만 당신이 여기 올 때마다, 당신을 환영할 것이오. 또한, 당신에게 군인으로서 복무하기 위해 내 아들 중 한 명을 보낼 것이오. 내 아들은 강하고 용감한 소년이오.
 dlga_old_grainok3:close_window|나는 당신이 이 곳을 떠날 때, 당신의 부대에 합류하라고 내 아들에게 말해 두었소. 정말 고맙소, {playername}. 당신이 우리의 목숨을 살렸소! 이제 우리는 우리의 동굴로 돌아갈 것이고, 그러면 이 끔찍한 세상에서 잠시 동안 몸을 더 숨길 수 있을 것이오.
@@ -5402,7 +5395,7 @@ dlga_capataz_pretalk:capataz_talk|무슨 일이오?
 dlga_capataz_talk:capataz_angry|당신이 본 것을 나에게 말하시오, 아니면 나는 당신에게 고통스러운 대답을 줄 수밖에 없소.
 dlga_capataz_angry:close_window|나는 당신을 모욕하지 않았소, 그리고 법은 우리를 보호할 것이오. 당신은 더 중요한 일이 있지 않소?
 dlga_capataz_talk:capataz_ayuda|나는 나의 노예가 여기서 일하는 것을 보고 싶소.
-dlga_start:close_window.104|당신은 아직 일을 끝내지 않았소. 이곳에 있는 돌들을 채석해내야 하오.
+dlga_start:close_window.102|당신은 아직 일을 끝내지 않았소. 이곳에 있는 돌들을 채석해내야 하오.
 dlga_capataz_talk:quarry_work_0|여기서 일하고 싶소.
 dlga_quarry_work_0:quarry_work_1|우린 일당으로 하루에 5 페닝을 지급해주오.
 dlga_quarry_work_1:close_window|관심 없소.
@@ -5424,7 +5417,7 @@ dlga_start:capataz_talk2|환영하오, 이방인, 여기는 우리의 소금 광
 dlga_capataz_pretalk2:capataz_talk2|내가 당신에게 해줄 수 있는 다른 건 없겠소?
 dlga_capataz_talk2:capataz_angry2|이 곳에서는 무슨 일을 하오?
 dlga_capataz_angry2:close_window|소금을 캐는 일을 하고 있소. 당신이 볼 수 있듯이, 나는 지금 더 많은 소금을 캐기 위해 할 일이 있소.
-dlga_start:close_window.105|당신은 아직 일을 끝내지 않았소. 내 옆에 있는 터널로 가서, 산에서 소금을 캐내야 하오.
+dlga_start:close_window.103|당신은 아직 일을 끝내지 않았소. 내 옆에 있는 터널로 가서, 산에서 소금을 캐내야 하오.
 dlga_capataz_talk2:salt_work_0|여기서 일하고 싶소.
 dlga_salt_work_0:salt_work_1|우린 일당으로 하루에 5 페닝을 지급해주오.
 dlga_salt_work_1:close_window|관심 없소.
@@ -5440,10 +5433,10 @@ dlga_capataz_venta22:capataz_venta32|좋소, 거래하겠소.
 dlga_capataz_venta22:capataz_pretalk2|생각을 좀 더 해보겠소.
 dlga_capataz_venta32:close_window|고맙소. 일손들이 늘었군.
 dlga_capataz_talk2:close_window|나는 지금 떠나야만 하오.
-dlga_start:close_window.106|내게서 돋 뜯어갈 생각 마시오!
+dlga_start:close_window.104|내게서 돋 뜯어갈 생각 마시오!
 dlga_start:capataz_talk3|안녕하시오, 이 곳은 목재 캠프요.
 dlga_capataz_pretalk3:capataz_talk3|내가 도와줄 일은 없겠소?
-dlga_start:close_window.107|당신은 아직 일을 끝내지 않았소. 내 옆에 있는 목재는 작게 조각 내고, 집 뒤에 있는 나무는 벌목하시오.
+dlga_start:close_window.105|당신은 아직 일을 끝내지 않았소. 내 옆에 있는 목재는 작게 조각 내고, 집 뒤에 있는 나무는 벌목하시오.
 dlga_capataz_talk3:lumber_work_0|여기서 일하고 싶소.
 dlga_lumber_work_0:lumber_work_1|우린 일당으로 하루에 4 페닝을 지급해주오.
 dlga_lumber_work_1:close_window|관심 없소.
@@ -5458,14 +5451,14 @@ dlga_capataz_talk3:close_window|나는 지금 떠나야만 하오.
 dlga_capataz_sins3:capataz_sins23|문제 없소! {s4}
 dlga_capataz_sins3:capataz_pretalk3|미안하오, 지역 영주들 중 하나가 우리가 가진 모든 목재들을 징발해갔소..
 dlga_capataz_sins23:capataz_pretalk3|좋소, 나는 몇 가지 물건을 사고 싶소.
-dlga_start:close_window.108|내게서 돋 뜯어갈 생각 마시오!
+dlga_start:close_window.106|내게서 돋 뜯어갈 생각 마시오!
 dlga_start:farmstead_boss_talk|우리 농장에 온 것을 환영하오. 우리는 좋은 빵과 맥주가 있소. 당신이 필요한게 있소?
 dlga_farmstead_boss_pretalk:farmstead_boss_talk|내가 도와줄 일은 없겠소?
 dlga_farmstead_boss_talk:farmstead_boss_angry|나는 당신이 여기서 문제를 일으키길 원하지 않는다고 생각하오, 그리고 당신의 농장은 좋아보이는군. 나는 그것을 지켜줄 수 있소 -- 보호세를 받고 말이지.
 dlga_farmstead_boss_angry:farmstead_boss_extortion|문제? 나는 문제가 생기길 원하지 않소. 오, 알겠소. 좋소, 우리는 문제를 원하지 않소. 당신에게 보호세를 내겠소.
 dlga_farmstead_boss_extortion:farmstead_boss_pretalk|좋소, 나는 당신을 믿고 있소, 문제는 당신에게서 멀리 있을 것이오.
 dlga_farmstead_boss_angry:close_window|문제? 다신 귀찮게 하지 마시오. 그렇지 않으면 내가 문제가 뭔지 보여주겠소!
-dlga_start:close_window.109|자... {s21}에 거의 다 왔군요. 여기부터는 우리끼리 갈 수 있겠소. 보수를 줘야지... 여기, {reg14} 페닝이오. 우리를 호위해주어서 고맙소. 행운을 빌겠소.
+dlga_start:close_window.107|아직 당신의 일을 다 끝내지 못했잖소. 말했다시피, 안뜰 근처에 있는 두 밀밭의 건초를 쌓아두고 오시오.
 dlga_farmstead_boss_talk:farmstead_work_0|여기서 일하고 싶소.
 dlga_farmstead_work_0:farmstead_work_1|우린 일당으로 하루에 3 페닝을 지급해주오.
 dlga_farmstead_work_1:close_window|관심 없소.
@@ -5715,8 +5708,8 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|나는 {s8}에 상
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|좋소, 내가 그 상단을 이끌도록 하겠소.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|나는 내가 그들을 호위할 수 없을 것 같소.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|미안하오, 지금은 그 일을 하지 못할 것 같소.
-dlga_start:close_window.110|남은 여정은 우리끼리도 해낼 수 있을 거 같소. 고마웠소.
-dlga_start:close_window.111|운명은 그녀의 결정에 맡깁시다!(Wyrd bith ful araed!)
+dlga_start:close_window.108|남은 여정은 우리끼리도 해낼 수 있을 거 같소. 고마웠소.
+dlga_start:close_window.109|자... {s21}에 거의 다 왔군요. 여기부터는 우리끼리 갈 수 있겠소. 보수를 줘야지... 여기, {reg14} 페닝이오. 우리를 호위해주어서 고맙소. 행운을 빌겠소.
 dlga_start:merchant_caravan_intro_1|안녕하시오, 당신이 우리를 호위하러 온 사람이 맞소?
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|그렇소, 내 이름은 {playername}(이)라고 하오. 내가 당신들을 {s1}까지 이끌게 되었소.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|잘 됐군, 사실, 우리끼리만 출발한다고 해서 좀 불안했소. 이제 출발할 거요?
@@ -5735,7 +5728,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|그 빌어먹을 도적놈�
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|좋소, 나는 그 도적들에게 몸값을 넘겨준 뒤, 안전하게 그녀를 데려올 것이오.
 dlga_kidnapped_girl_quest_taken:close_window|좋소, 나는 당신만 믿고 있겠소. 여기 그녀의 몸값인, {reg12} 페닝을 받아서 잘 세어보시오. 그리고 제발 부탁이오, 그 도적들 앞에서 경솔하게 행동하지 마시오. 내 친구의 딸의 목숨이 달린 문제라는 걸 잊지 말아주었으면 하고 있소.
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|미안하오, 지금은 그 일을 하지 못할 것 같소.
-dlga_start:close_window.112|바래다줘서 정말 고마워요! 가족을 볼 생각에 지체할 수 없겠어요. 잘 가세요.
+dlga_start:close_window.110|바래다줘서 정말 고마워요! 가족을 볼 생각에 지체할 수 없겠어요. 부디 잘 지내세요.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|좋소, 나를 따라오시오. 우리가 당신을 집까지 바래다주겠소.
 dlga_kidnapped_girl_liberated_map_2a:close_window|불행하게도, 당신 부대에 내가 머무를 만한 여유가 없네요.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|오, 정말인가요? 정말로 고마워요!
@@ -5824,9 +5817,9 @@ dlga_start:village_elder_pretalk|{reg59?부인:경}, 자네의 노력은 고맙�
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{reg59?부인:경}, 부디 우리가 당신을 위해 어떤 일이든 할 수 있게 해 주시오.
 dlga_start:doccinga_interrogation_1|내 생각에, 더 이상 이 자에게서 알아낼 정보는 없을것 같소. 내 친구여, 덴마크로 가시오, 그건 당신의 운명이고, 필연적인 일이오.
 dlga_start:village_elder_talk_p|{playername}, 우리는 이 포로의 심문을 기다리고 있소. 내 생각에 그는 아마도 몇 가지 정보에 대해 알고 있을 것이오.
-dlga_start:close_window.113|좋은 날이오, {reg59?부인:경}. 당신의 {s10} 방문은 언제나 영광이오.
+dlga_start:close_window.111|운명은 그녀의 결정에 맡깁시다!(Wyrd bith ful araed!)
 dlga_start:doccinga_thonkrikca|{playername}, 당신이 여기에 왔군! 당신을 여기에 보낸 우리의 하나님께 감사드리겠소! 이런, 황소목 스벤의 바이킹 롱 보트들이 오고 있소! 그들이 우리 모두 죽이려고 하고 있소!
-dlga_start:close_window.114|미안하오, {reg59?부인:경}. 밤이 깊었으니 나는 집에 가봐야 하오. 다음에 다시 찾아주시오.
+dlga_start:close_window.112|미안하오, {reg59?부인:경}. 밤이 깊었으니 나는 집에 가봐야 하오. 다른 날에 다시 찾아주시오.
 dlga_start:village_elder_thonkrik1|{s9}에 온 것을 환영하... 오, 맙소사! 당신은 우리가 해변에서 발견했던 그 {reg59?여자:남자}가 아니오! 당신을 보게 되어 정말 반갑소! 나는 당신이 살아서 여기 올 거라고는 생각지도 않았소, 그 치유사는 아버지의 유산이 가치있음을 증명했구려, 그의 영혼이 신의 품에서 지금 모습을 보고 편히 쉬기를!
 dlga_village_elder_thonkrik1:village_elder_thonkrik2a|당신이 손크릭이오? 내 이름은 {playername}(이)라고 하오, 당신과 독싱가에게 빚을 졌군.
 dlga_village_elder_thonkrik1:village_elder_thonkrik2b|독싱가의 손크릭이오? 내 이름은 {playername}(이)라고 하오, 나는 당신에게 몇 가지 질문이 있소.
@@ -6448,14 +6441,13 @@ dlga_start:player_castle_guard_talk|무슨 일이시오, {reg59?부인:경}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|병사, 수상한 것을 보지는 못했소?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|별 일 없소, {reg59?부인:경}. 보고할만한 사항은 없소.
 dlga_player_castle_guard_talk_3:close_window|좋소, 수상한 일이 없나 잘 감시하도록 하시오.
-dlga_start:close_window.115|좋은 날이오, {reg59?부인:경}. 당신과 함께 {s10}에 있어 영광이오.
-dlga_start:close_window.116|{s44}
+dlga_start:close_window.113|좋은 날이오, {reg59?부인:경}. 당신의 {s10} 방문은 언제나 영광이오.
 dlga_start:hall_guard_talk|내릴 명령이라도 있으시오, {reg59?부인:경}?
 dlga_start:court_guard_ask_location|우리는 경비 업무를 수행 중에는 대화를 나눌 수가 없소, {reg59?부인:경}.
 dlga_court_guard_ask_location:court_guard_ask_location_2|나는 당신의 영주에 대해 묻고 싶었을 뿐이오, 그가 지금 어디 있는지 알고 있소?
 dlga_court_guard_ask_location:close_window|나는 내 갈 길을 가겠소.
 dlga_court_guard_ask_location_2:close_window|{s1}^^미안하오, 하지만 나는 내 업무를 수행하야만 하오.
-dlga_start:close_window.117|근무를 서는 중에는 잡담을 나눌 수 없습니다, {reg59?부인:경}.
+dlga_start:close_window.115|근무를 서는 중에는 잡담을 나눌 수 없습니다, {reg59?부인:경}.
 dlga_hall_guard_talk:hall_guard_duty|누가 나를 만나러 오면, 나에게 알려 주시오.
 dlga_hall_guard_duty:close_window|알겠소, {reg59?부인:경}. 당신 뜻대로 하겠소.
 dlga_hall_guard_talk:hall_guard_arrest|나는 누군가를 체포하기를 원하고 있소!
