@@ -1631,22 +1631,22 @@ dlga_lord_start:lord_generic_mission_completed|그대의 의원이 간신히 내
 dlga_lord_start:wedding_ceremony_bride_vow|하늘께서 내가 그대에게 청혼함으로써 내 {s11} {s4}를 바칠 준비가 되었다는 것의 증인이 되시길,
 dlga_lord_start:lord_wedding_reschedule|만나게 되어 반갑소, {playername}. 혼인식을 앞두면서 곧 있으면 모두를 모아 연회를 열 것이오.{s12}
 dlga_lord_wedding_reschedule:lord_start|문제될 것 없지. 기다리겠소.
-dlga_lord_wedding_reschedule:lord_ok|Then we should have a feast right now!{***}
-dlga_lord_ok:close_window|As you wish, your highness.{***}
-dlga_lord_ok:close_window.1|Unfortunately, we have no acceptable venue for the event.{***}
+dlga_lord_wedding_reschedule:lord_ok|그럼 당장 연회를 열도록 합시다!
+dlga_lord_ok:close_window|뜻대로 하시옵소서.
+dlga_lord_ok:close_window.1|안타깝지만, 연회를 열 만한 마땅한 장소가 없습니다.
 dlga_lord_wedding_reschedule:lord_return_dower|이 혼인이 성사될지 잘 모르겠습니다. 제 상속산을 돌려주십시오. 
 dlga_lord_return_dower:close_window|그래, 그대가 옳소. 그대가 계속 우리 가문의 약속에 확신을 가질 수 없다면 말이오. 돈 받아가시오.
 dlga_lord_talk:gartnait_historia|그대의 전사 몇 명이 자기 몸에 문양을 칠하던데.
-dlga_gartnait_historia:lord_pretalk|그래서? 그건 중요하지 않소.
-dlga_gartnait_historia:gartnait_talk1|뭐요? -- 눈을 크게 뜨고는 -- 당신이 알다시피 저 것들은 의식을 위한 문양이오, {playername}.
-dlga_gartnait_talk1:gartnait_historia1|왜 저렇게 문양을 그리는지 궁금하고 나도 하나 칠하고 싶소.
+dlga_gartnait_historia:lord_pretalk|그래서? 별일 아니니 신경쓰지 마시오.
+dlga_gartnait_historia:gartnait_talk1|문양 말이오?^- 눈을 크게 뜨고는 -^당신도 알다시피 저 것들은 의식을 위한 문양이오, {playername}.
+dlga_gartnait_talk1:gartnait_historia1|왜 그런 문양을 그리는지 궁금하오. 나도 같은 문양으로 칠하고 싶소.
 dlga_gartnait_talk1:lord_pretalk|고맙소.
-dlga_gartnait_historia1:gartnait_historia2|우리 민족들에겐 고이델인과 픽트인들이 있었소. 특히 후자는 그들의 고대 문화를 그대로 간직하고 있었지. 픽트인들은 그리스도인이었지만, 조상의 풍습을 그대로 보여주었소. -- 그는 작게 속삭였습니다 --. 젊은 전사들은 자기 몸에 문양을 그리고 전쟁이나 전투의 난장판에 끼어듬으로써 고향에서 성인으로 인정받고 싶어하오. ^^여자들은 자기 남자 형제들을 위해 아내를 골라줄 수 있었으며 -그의 목소리가 높아졌다-, 아이들은 어머니가 명하는 대로 유산을 상속받을 수 있었소. 몸에 문양을 그리고 전사로서 일원이 되는 것은 남자와 여자들이 성인이 되기 전 치르는 일종의 시험같은 것이오. 지금은 흔치 않은 일이지만, 여전히 젊은이들이 먼 땅으로 여행을 떠나거나, 가축이나 보물을 찾아 나설때 이 문양을 그리곤 한다오. 그리고 가정을 차리기에 충분한 부와 함께 고향으로 돌아오는 것이지.
-dlga_gartnait_historia2:gartnait_historia3|젊은이들이 몸에서 문양을 지우고 돌아오는 것은 혼인을 하여 사회의 일원이 되었다는 뜻이오. 수많은 픽트 여인들이 이 시험에 들기 위해 몸에 문양을 그리지 -그는 미소지었다-. 몸에 문양을 칠하든 말든 그건 당신의 자유지만, 만약 칠하게 되면 당신은 우리의 이해를 벗어난 아주 오랜 전통과 권력에 당신을 바치는 셈이오. ^^젊은이의 모임을 만들거나 가입하고, 이름을 주고, 동료애, 우정, 픽트인에 속한다는 자부심을 배우게 되는 것과 다름 없소. 지휘하고 따르는 법, 동료를 존중하는 법, 여자를 만나는 법을 배우고... 그리고 그렇게 당신의 가치를 인정받고 나면, 문양을 지우고 사회로 돌아가는 거요.
+dlga_gartnait_historia1:gartnait_historia2|우리 왕국 사람들 중엔 고이델인과 픽트인들이 있소. 우린 기독교인이고, 이제는 고대의 전통을 유지하는 사람은 거의 없소만...^-- 그는 작게 속삭입니다. --^우리들에겐 아직 조상들의 관습이 많이 남아있소. 젊은 전사들은 자기 몸에 문양을 그리고 전투와 전쟁에 참전하여 고향에서 진정한 성인으로 인정받고 싶어하오. 여자들은 형제들의 아내를 골라줄 수 있고 아이들은 어머니가 혈통을 따라 유산을 상속받을 수 있게 된다오.^-그의 목소리가 높아졌다-^몸에 문양을 그리고 전사 집단에 몸담는 것은 우리 전통의 일부로, 젊은이들이 성숙한 성인으로 인정받기 위한 일종의 시험인 것이오. 흔치는 않지만, 어떤 부족은 가족을 일구는 데 필요한 충분한 부를 위해 먼 곳으로 가 가축과 보물을 찾는 여행을 떠나야 하기도 하오.
+dlga_gartnait_historia2:gartnait_historia3|젊은이들이 몸에서 문양을 지우고 돌아오는 것은 혼인을 하여 사회의 일원이 되었다는 뜻이오. 결코 적지 않은 픽트의 여인들이 이 시험에 들기 위해 몸에 문양을 그린다오.^-그는 미소지었다.-^몸에 문양을 칠하든 말든 그건 당신의 자유지만, 만약 칠하게 되면 당신은 우리의 아주 오랜 전통과 우리가 이해할 수 없는 어떤 힘에 당신을 바치는 셈이오.^젊은이의 모임을 만들거나 가입하고, 이름을 주고, 동료애, 우정, 픽트인에 속한다는 자부심을 배우게 되는 것과 다름 없소. 지휘하고 따르는 법, 동료를 존중하는 법, {reg59?남자:여자}를 만나는 법을 배우고... 그리고 그렇게 당신의 가치를 인정받고 나면, 문양을 지우고 사회로 돌아가는 거요.
 dlga_gartnait_historia3:gartnait_historia4|내 몸에 문양을 칠하고 싶소.
 dlga_gartnait_historia3:lord_pretalk|그만, 당신 이야기를 너무 지껄이는군. 그냥 다 멍청이들일 뿐이군.
 dlga_gartnait_historia3:lord_pretalk.1|알려주어서 고맙소.
-dlga_gartnait_historia4:gartnait_historia5|글쎄, 이젠 고대 시대도 아니고, 딱히 엄격한 의식이나 규율도 없소. 사실대로 말하면 전 픽트보다는 고이델쪽에 가까운 것 같소. 옷은 집어치우고 내 노예가 당신 몸에 선을 그릴 수 있도록 하시오. 잘 해보십시오, 젊은이여, 의식을 잘 치러보시오!
+dlga_gartnait_historia4:gartnait_historia5|글쎄, 이젠 고대 시대도 아니고, 딱히 엄격한 의식이나 규율도 없소. 사실대로 말하면 전 픽트보다는 고이델쪽에 가까운 것 같소. 옷을 벗으면 내 노예가 당신 몸에 선을 그려줄 것이오. 행운을 빌겠소, 젊은 {reg59?여인이여:사내여}. 의식을 잘 치러보시오!
 dlga_gartnait_historia5:lord_pretalk|고맙소, 친구여.
 dlga_lord_talk:eormenred_historia|당신이 픽트란드를 안다고 들었소.
 dlga_eormenred_historia:lord_pretalk|미안한데, 난 당신을 잘 알지 못하오. 또 지금은 내 지식을 알려주고 싶은 기분이 아니군. 신께서 당신과 함께 하기를.
