@@ -1657,7 +1657,7 @@ dlga_eormenred_historia1:eormenred_historia2|픽트인들은 낯설고 괴상한
 dlga_eormenred_historia2:eormenred_historia3|얼마간 행군한 뒤, 우리는 주위에 뻗어 있는 이상한 구조의 마을들을 보았소. 그 날, 나는 이 무서운 건물이 고대인에 의해 만들어진 요새인 것을 알게 되었소, 브로크 말이지. 픽트인들은 그 유적을 발견한 뒤, 그 유적을 수복해서 그 유적을 자신들을 지킬 집으로 삼았소. 우리는 갑작스러운 행복감을 느꼈지, 그곳에는 전리품과, 가축, 여자가 있었으니까. --그는 미소지었습니다.--. 마을의 문은 열려 있었소. 그들은 우리에게 생각할 시간을 주지 않았소. 우리는 늑대처럼 울부짖기 시작했고, 전투 직전의 흥분 상태가 되었지. 우리는 우리의 창과 칼을 준비했고, 방패를 집어들었소, 우리는 승리함으로서 수입을 얻어 쉽게 만족할 수 있게 되었을 테니까. 우리는 젊었고, 열정적이었소. 그리고 우리는 우리의 가치를 걱정하고 있었지. 당신이라면 어떻게 했겠소?
 dlga_eormenred_historia3:eormenred_historia4|음, 쉽군. 당신은 함정을 의심했지 않겠소? 계속 이야기해보시오.
 dlga_eormenred_historia3:lord_pretalk|중간에 이야기를 끊어 미안하지만, 당신과 당신 부하들은 마치 신병처럼 멍청한 짓을 했군!
-dlga_eormenred_historia4:eormenred_historia5|그렇소, 당신 생각이 맞소, 나는 알고 있었소, 하지만 우리 모두는 너무나도 성급했소. --그는 스스로의 가슴을 두드렸습니다.--. 그들은... 물론, 그들은 심지어 우리가 마을에 있음을 오래 전에 짐작하고 우리를 기다리고 있었소. 그들의 궁수를 말이지, 오딘이시여! ... 미안하오... 하나님!, 그리고 많은 화살이 쏟아져 내렸소. 그들은 이센쿠르 같았고, 화살의 비 같았소, 당신이 생각하는 바와 같이, 내 병력들은 전부 죽었소... 오직 나만이 살아남았지, 그들은 내가 누구인지 알고... 나를 포로로 잡았소, 그리고 그들의 여왕에게 나를 갖다 바쳤지. 그녀에게 도착했을 때 나는 지루한 상태였소, 그들은 가죽 주머니 안에 내 왼쪽 귀를 잘라 넣고 아버지에게 보냈고, 그는 기꺼이 많은 로마 금 동전을 나의 몸값으로 지불했고, 그 것으로 나는 풀려날 수 있었소. 들으시오! 당신은 픽트란드를 잊어서는 안 되오!
+dlga_eormenred_historia4:eormenred_historia5|그렇소, 당신 생각이 맞소, 나는 알고 있었소, 하지만 우리 모두는 너무나도 성급했소. --그는 스스로의 가슴을 두드렸습니다.-- 그들은... 물론, 그들은 심지어 우리가 마을에 있음을 오래 전에 짐작하고 우리를 기다리고 있었소. 그들의 궁수를 말이지, 오딘이시여! ... 미안하오... 하나님!, 그리고 많은 화살이 쏟아져 내렸소. 그들은 이센쿠르 같았고, 화살의 비 같았소, 당신이 생각하는 바와 같이, 내 병력들은 전부 죽었소... 오직 나만이 살아남았지, 그들은 내가 누구인지 알고... 나를 포로로 잡았소, 그리고 그들의 여왕에게 나를 갖다 바쳤지. 그녀에게 도착했을 때 나는 지루한 상태였소, 그들은 가죽 주머니 안에 내 왼쪽 귀를 잘라 넣고 아버지에게 보냈고, 그는 기꺼이 많은 로마 금 동전을 나의 몸값으로 지불했고, 그 것으로 나는 풀려날 수 있었소. 들으시오! 당신은 픽트란드를 잊어서는 안 되오!
 dlga_eormenred_historia5:lord_pretalk|고맙소, 나는 당신의 이야기에서 많은 것을 배울 수 있었소, 그리고 나는 픽트인들과 문제를 일으키지 말아야겠소.
 dlga_eormenred_historia5:lord_pretalk.1|그 이야기에 대해서는 미안하지만, 당신과 당신 부하들은 마치 신병처럼 멍청한 짓을 했소. -- 그리고 당신은 멍청이들의 대장이었지.
 dlga_start:close_window.50|이제 죽을 시간이다!
@@ -6078,9 +6078,10 @@ dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.7|여덜 마�
 dlga_village_elder_buy_cattle_2:village_elder_pretalk|그냥 잊어버리시오.
 dlga_village_elder_buy_cattle_complete:village_elder_pretalk|목동들에게 이야기해서 소를 당신에게 데려가라고 이야기해두겠소, {reg59?부인:경}. 당신은 그 소를 보고 만족할 거라고 확인하오.
 dlga_village_elder_recruit_start:village_elder_recruit2_b|{s4}
-dlga_village_elder_recruit2_b:village_elder_talk|그런 사람은 아무도 없소! 내가 왜 우리 왕국의 적에게 병력을 제공해야만 하는 거요?
-dlga_village_elder_recruit2_b:village_elder_talk.1|그런 사람은 아무도 없소! 당신을 환영할 사람은 여기에는 아무도 없소.
-dlga_village_elder_recruit2_b:village_elder_recruit6|물론, 당신을 환영하겠소!
+dlga_village_elder_recruit2_b:village_elder_talk|그런 사람은 아무도 없소! 내가 왜 우리 왕국의 적을 도와주어야 하오?
+dlga_village_elder_recruit2_b:village_elder_talk.1|그런 사람은 아무도 없소! 이 곳에서 당신을 환영할 사람은 아무도 없소.
+dlga_village_elder_recruit2_b:village_elder_recruit6|불행하게도 말이오, 거기에 관심 있어할 사람은 아무도 없는 것 같소.
+dlga_village_elder_recruit2_b:village_elder_recruit6.1|물론, 당신을 환영하겠소!
 dlga_village_elder_recruit2_b:village_elder_recruit2_1|당신은 특별한 사람처럼 보이지는 않는군, 그저 다른 많은 방랑자와 다를게 없는 것 같소. 당신은 나에게 협상할 것도, 영주의 명령도, 아무것도 들고 오지 않았소. 그런데 내가 왜 당신을 위해 징집할 만한 마을 남자들을 찾아주어야만 하오?
 dlga_village_elder_recruit2_b:village_elder_recruit2_1.1|나는 당신이 무서운 사람이라는 것을 잘 알고 있소. 당신을 따라갈 사람은 거의 없을 것이오.
 dlga_village_elder_recruit2_b:village_elder_recruit2|내가 말할 수 있는 것은...
