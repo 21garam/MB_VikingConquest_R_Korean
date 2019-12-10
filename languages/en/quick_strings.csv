@@ -1117,7 +1117,7 @@ qstr_{s3}_and_{s5}|{s3}와(과) {s5}
 qstr_{reg20?We_mostly_pro|{reg20?우리가 주로 생산하는 것들은 {s5}이지:최근에는 거의 아무것도 생산해내지 못했소}.^^자세한 이야기는, 이 영지의 {reg4?조합장:마을 장로}에게 들어보시오. 저쪽 어딘가에 있을것이오.
 qstr_Mind_your_manners_wi|성벽 내에서 법을 지키시오, 당신이 문제를 일으키고 싶지 않다면 말이오.
 qstr_Bugger_off_stranger.|꺼지시오, 이방인. 당신은 지금 내가 경계를 서느라 바쁜 것 안 보이시오?
-qstr_Make_sure_to_keep_yo|당신의 손을 주머니에서 빼고 다녀야 할 것이오, 안 그러면 상인 가판대 근처에서 당신은 별 재미를 보지 못할 것이오.
+qstr_Make_sure_to_keep_yo|상점 근처에선 손이 보이게 하고 돌아다니시오. 그러면 벌 문제 없을거요.
 qstr_I_m_very_happy._You_|나는 매우 행복하오. 당신은 당신의 부하들을 행복하게 할 줄 아는 좋은 지도자요!
 qstr_I_m_happy_to_be_here|나는 이 곳에서 행복을 느끼고 있소. 일은 잘 진행되고 있고, 나는 농장을 구매하고 좋은 아가씨와 결혼하기 위한 결혼 지참금을 모아야만 하오.
 qstr_Well_..._I_guess_thi|음... 내가 보기에 상황은 나아질 것 같소. 만약 상황이 이런 식으로 계속된다면, 나는 이 횡렬 대형을 떠나야만 하겠지.
@@ -2947,7 +2947,7 @@ qstr_Your_fame_grows_high|당신의 명성은 음유시인의 노래와 함께 �
 qstr_Beggars_everywhere_b|당신이 지나갈 때 거지가 사방에 당신의 이름을 축복했고, 당신의 관대함을 칭송했습니다.
 qstr_Beggars_soon_tire_of|거지는 당신을 계속 따라다니며 귀찮게 했습니다.
 qstr_You_laugh_to_see_how|당신은 장애를 가지게 된 당신의 옛 부하가 그가 할 수 있는 한 움직이자 그걸 본 당신은 웃을 수밖에 없었습니다.
-qstr_The_young_noble_pref|젋은 귀족들은 당신의 결투에 응하지 않고 도망가는 것을 택했습니다!
+qstr_The_young_noble_pref|젋은 귀족은 당신의 결투에 응하지 않고 도망가는 것을 택했습니다!
 qstr_The_word_spreads_tha|그들의 모욕을 담은 말이 퍼져 당신의 명성을 깎아내리기 시작했습니다!
 qstr_The_woman_and_her_hu|한 여자와 그의 남편은 당신의 관대함에 행복해했다!
 qstr_Other_men_join_in_an|다른 남자가 당신에 합류해 그들의 가족을 돕기 위해 떠났습니다.
