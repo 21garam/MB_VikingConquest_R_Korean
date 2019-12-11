@@ -2729,8 +2729,8 @@ dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^그리고 내가 지불�
 dlga_sigurd_quest_revenge62:sigurd_quest_revenge72|나는 네 거짓말을 참아내기엔 너무 늙었어. 보도는 나에게 너무나도 중요하고, 나는 네가 보도가 어디 있는지 알고 있다는 것 쯤은 알고있다고. 내가 모르는건 그가 너의 부대 속에 숨어 있는지 아니면 다른 어딘가에 숨겼는지야. 그러니 거래를 제안하겠다:
 dlga_sigurd_quest_revenge72:sigurd_quest_revenge82|{s4}^^스카이파 근처에 나에게 충성하는자의 농장이 있다. 거기로 가면 황소목 스벤과 네 어머니를 만날 수 있을것이다. 보도를 데려간다면, 내 부하들이 황소목 스벤과 네 어머니를 내어놓을 것이다. 그러나 보도가 없는 경우 네 어머니는 네 눈앞에서 죽을 것이고, 황소목 스벤은 네가 절대 찾지 못 할 곳으로 보내버릴 것이다.
 dlga_sigurd_quest_revenge8:close_window|당신의 부하들이 나를 따라오게 하시오. 보도에게 작별을 고하고 그들에게 내어주겠소.
-dlga_sigurd_quest_revenge82:sigurd_quest_revenge82_1|나는 스카이파 근처의 농장으로 가보겠소. 잘 지내시오.
-dlga_sigurd_quest_revenge82_1:close_window|글쎄, 그것에 대해선 이야기 할게 없다고 생각하오.
+dlga_sigurd_quest_revenge82:sigurd_quest_revenge82_1|스카이파 근처의 농장으로 가보도록 하겠소. 잘 지내시오.
+dlga_sigurd_quest_revenge82_1:close_window|그럼 이제 이 문제로 이야기 할 일은 없겠군.
 dlga_lord_talk:sigurd_story1|나는 당신에 대해서 자세한 이야기를 듣고 싶소.
 dlga_sigurd_story1:lord_pretalk|내 이름은 시구르드, '눈 속의 뱀'이라고도 하지. 나는 아슬라우그와 라그나르 로드브록의 아들이다. 또한, 스젤란드, 스케네, 그리고 다른 여러 땅들의 주인이지. 그 외의 자세한 내용은 다른 사람들에게 물어 보도록, 그들은 내 명성을, 그리고 나에 대해 들어 잘 알고 있을 것이고, 나에 대해 너에게 말해 줄 수도 있겠지.
 dlga_lord_talk:kennemerjarl_story1|나는 당신에 대해 알고 싶소.
