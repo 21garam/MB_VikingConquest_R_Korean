@@ -427,7 +427,7 @@ mno_walled_center_move_court|당신의 궁정을 이 곳으로 옮깁니다.
 mno_castle_station_troops|{s10}의 수비대를 관리합니다.
 mno_castle_wait|이곳에서 얼마간 머무릅니다.
 mno_castle_wait_door|숙박합니다.
-mno_town_alley|잠재적 모병을 요청합니다.
+mno_town_alley|신병을 모집합니다.
 mno_town_visit_port|도시의 항구를 방문합니다.
 mno_banquete_mead|{reg0?도시:요새}에 주둔한 당시의 부하들에게 술과 음식을 베풉니다.
 mno_banquete_mead_door|돛을 올립니다.
