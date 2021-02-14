@@ -406,10 +406,10 @@ dlga_bedavsagathinos_conv10:close_window|내가 당신에게 질문한 이유는
 dlga_start:ragnarssons_1|당신이 라그나르의 아들들에게 도착했다는 소식을 들었소. 이 머시아인들과 함께 할 정도로 용감하군. 누가 보낸 것이오?
 dlga_start:alfredthegreat1|덴마크의 사절이여, 당신을 웨식스의 앨프레드, 에델울프의 자손, 에델링, 엘도르멘, 신께 총애받고 위대한 에셀드의 정해진 계승자의 형제이자, 웨식스의 왕이자 브리튼왈다에게 보내겠소. 당신의 위에 군림한 자에게 경배하시오.
 dlga_start:close_window.16|미안하지만, 지금은 당신과 이야기나 하고 있을 만한 시기가 아니오. 지도자들은 마을 중앙에 모여 있소.
-dlga_start:close_window.17|근무 중이오.
-dlga_start:close_window.18|근무 중이오.
-dlga_start:close_window.19|근무 중이오.
-dlga_start:close_window.20|근무 중이오.
+dlga_start:close_window.17|주변을 살펴보는 중 입니다.
+dlga_start:close_window.18|주변을 감시하고 있습니다.
+dlga_start:close_window.19|여긴 내가 감시하고 있습니다.
+dlga_start:close_window.20|수상한 것이 없는지 살펴보는 중 입니다.
 dlga_start:close_window.21|나는 그저 시종일 뿐입니다. 울프와 이야기를 해보십시오, {reg59?부인:나리}.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|나는 이 곳을 누구에게 내릴 것인지 결정하기 전에, 나의 봉신들의 의견을 듣고 싶소.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer.1|이번 사항을 결정할 때까지... 영주와의 약속을 미루고 싶소.
@@ -1850,7 +1850,7 @@ dlga_thora_dialog_sigurd:thora_dialog_sigurd2|토라, 당신의 이름은 정말
 dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|감사합니다, 경. 저는 당신의 칭찬에 몸둘 바를 모르겠네요. 당신은 아주 잘 생겼네요.
 dlga_thora_dialog_sigurd2:close_window|(얘기하게 내버려 두고, 울프와 이야기하러 간다)
 dlga_thora_dialog_sigurd2:thora_dialog_sigurd3|에길, 토라는 내버려두고 따라오시오.
-dlga_thora_dialog_sigurd3:close_window|젠장, 당신은 행복한 사람을 보면 참을 수 없소? 그래, 가면 되잖소. 대장
+dlga_thora_dialog_sigurd3:close_window|젠장, 내가 좀 즐기는게 그렇게 눈꼴시린 일입니까? 알겠어요, 대장. 가면 되잖아요.
 dlga_thora_dialog_romance:thora_dialog_romance2|감사합니다, 경. 저는 당신의 칭찬에 몸둘 바를 모르겠네요. 당신은 아주 잘 생겼네요.
 dlga_thora_dialog_romance:thora_dialog_sigurd|감사합니다, 하지만 당신은 제 아버지 울프와 이야기해보셔야 합니다.
 dlga_thora_dialog_romance2:thora_dialog_romance4|(당신은 토라의 관심을 끌기 위해 설득 능력을 사용합니다)
@@ -1862,84 +1862,84 @@ dlga_thora_dialog_romance5:close_window|여기선 안 돼요, 아버지는 분�
 dlga_start:close_window.55|지금은 시간이 없소..
 dlga_start:ulf_testigo1|{playername}, 다시 여기서 뭐하는 거요?
 dlga_start:ulf_ormvictory1|{s2}^^{playername}, 내 목숨, 내 농장과 내 딸 토라를 지켜줘서 정말 고맙소, 나는 당신을 위해 충분한 보상을 해주고 싶소, 게다가 오름 스바르티의 무기가 있소, 나는 당신이 이 것들을 가져야 한다고 생각하오.
-dlga_start:ulf_dialog|안녕하시오! 내 이름은 울프 토리손이오, 내 야를인 시구르드 라그나르손은 당신이 오는 것을 나에게 알려줬고, 내 농장에 온 것을 환영하오. 당신과 당신의 부하들은 시구르드의 사람들이 도착할 때까지 여기서 먹고 자며 머무를 수 있소. ^^하지만 당신들이 유일하게 지켜줘야 하는 것은 당신들 중 누구도 내 딸, 토라를 건드려서는 안 되오.
-dlga_start:ulf_dialog.1|안녕하시오! 내 이름은 울프 토리손이오, 내 야를인 시구르드 라그나르손은 당신이 올 거라고 경고했지만, 나는 당신이 내 농장에 온 것을 환영하오. 당신과 당신의 부하들은 시구르드의 사람들이 도착할 때까지 여기서 먹고 자며 머무를 수 있소. ^^하지만 당신들이 유일하게 지켜줘야 하는 것은 당신들 중 누구도 내 딸, 토라를 건드려서는 안 되오.
+dlga_start:ulf_dialog|안녕하시오! 내 이름은 울프 토리손이오. 내 야를, 시구르드 라그나르손께서 당신이 올 것을 미리 알려줬소. 내 농장에 온 것을 환영하오. 시구르드의 사람들이 도착할 때까지 당신의 부하들이 여기서 먹고 자며 머무를 수 있게 하겠소. ^^이것 한 가지만 지켜주시오, 내 딸 토라는 건드리지 마시오. 아무도 그 애 근처엔 가지 않았으면 좋겠소.
+dlga_start:ulf_dialog.1|안녕하시오. 내 이름은 울프 토리손이오. 내 야를, 시구르드 라그나르손께서 당신이 온다는 것을 미리 경고했소. 내 농장에 온 것을 환영하오. 시구르드의 사람들이 도착할 때까지 당신의 부하들이 여기서 먹고 자며 머무를 수 있게 하겠소. ^^이것 한 가지만 지켜주시오, 내 딸 토라는 건드리지 마시오. 아무도 그 애 근처엔 가지 않았으면 좋겠소.
 dlga_start:close_window.56|난 지금 무척 바쁘다오. 노예들이 게을러터졌소.
-dlga_ulf_dialog:ulf_dialog2|환대에 감사하오. 울프, 내 부하들이 아무도 당신의 딸을 건들지 못하도록 약속하겠소.
-dlga_ulf_dialog:ulf_dialog2.1|울프, 당신의 딸에 대하여 걱정하지 않아도 되오. 난 황소목 스벤을 찾으러 왔고, 또한 내 부하들도 당신의 환대에 감사할 것이오.
-dlga_ulf_dialog2:ulf_dialog3|(울프는 음식을 가져오도록 두 시종에게 명령을 내렸고, 그들은 상한 우유와 버터, 빵을 당신의 부하들에게 주었다.)
+dlga_ulf_dialog:ulf_dialog2|환대에 감사하오, 울프. 내 부하들이 아무도 당신의 딸을 건들지 못하도록 약속하겠소.
+dlga_ulf_dialog:ulf_dialog2.1|딸 이야기는 필요 없소. 손님은 대하는 예에 따라서 내 부하들에게 음식과 음료를 내주시오.
+dlga_ulf_dialog2:ulf_dialog3|(울프가 두 시종에게 음식을 가져오라고 명령을 내리자 그들은 당신의 부하들에게 숙성시킨 우유와 버터, 빵을 내어줍니다.)
 dlga_ulf_dialog3:ulf_dialog4|{s10}
 dlga_ulf_dialog4:ulf_dialog5|이게 내가 가진 전부이고, 내 선의로 당신들에게 베푸는 것이오.
-dlga_ulf_dialog5:ulf_dialog6|거짓말! 나는 근처에서 사슴 고기와 맥주 통으로 가득 찬 창고를 보았소, 그는 좋은 것을 먹는 동안 우리는 이 쓰레기를 먹고 있지 않소!
-dlga_ulf_dialog6:ulf_dialog7|{s2}^^그는 우리를 농락하고 있소! 그는 부자이면서 우리에게 최악의 식사를 제공하고 있소, 그는 접대의 율법을 무시하고 있소! 그는 죽어야 마땅하오! 그는 마땅히 우리를 존중하여 모범이 되어야 할 것이오!
-dlga_ulf_dialog7:ulf_dialog81|{s2}^^당신이 이 사람을 죽일 경우, 당신은 그의 가족에게 그에 해당하는 보상을 해야 할 것이오. 또는 그들의 가족이 당신에게 복수를 하기로 결정할 것인데, 당신은 이걸 원하는 거요?
-dlga_ulf_dialog81:ulf_dialog8|그를 죽이지 말고, 그의 칼을 잡을 오른손을 자르도록 하시오. 그는 발할라로 갈 자격이 없소.
-dlga_ulf_dialog8:ulf_dialog91|우리는 좋은 음료와 음식을 먹을 것이오. 이 곳은 울프의 집이고, 우리는 우리 법칙을 따를 것이오.
-dlga_ulf_dialog8:ulf_dialog91.1|여기에서는 아무도 죽지 않을 것이오. 나는 문제거리를 원하지 않으며, 모두가 만족스럽게 당신이 제공하는 것을 먹고 마실 것이오.
+dlga_ulf_dialog5:ulf_dialog6|거짓말 하지 마시오! 내가 근처 창고에서 사슴 고기와 맥주 통을 보았소. 가장 좋은 것들은 숨겨두고 우리에게 이런 쓰레기를 먹일 셈이오!
+dlga_ulf_dialog6:ulf_dialog7|{s2}^^이건 우릴 비웃는거나 다름 없는 일입니다! 그는 부자인데도 불구하고 우리에게는 최악의 식사를 제공하고 있지 않습니까? 그는 접대에 대한 율법을 무시하고 있어요! 죽입시다! 아무도 이 에길을 비웃을 수 없는 법입니다. 사람들이 우리를 제대로 존중하게 하려면 그의 죽음으로 본보기 삼아야 해요!
+dlga_ulf_dialog7:ulf_dialog81|{s2}^^이 사람을 죽이면 당신은 그의 가족에게 그에 해당하는 보상을 해야만 해요. 아니면 그들의 가족이 당신에게 복수를 하려고 할꺼에요. 이게 정말 당신이 원하는 일인가요?
+dlga_ulf_dialog81:ulf_dialog8|그를 죽이지 말고, 그의 칼을 잡을 오른손을 자르도록 합시다. 그는 발할라로 갈 자격이 없소.
+dlga_ulf_dialog8:ulf_dialog91|충분히 좋은 음료와 음식을 받지 않았소. 이 곳은 울프의 집이고, 우리도 그의 방식을 존중할 것이오.
+dlga_ulf_dialog8:ulf_dialog91.1|여기에서는 아무도 죽지 않을 것이오. 이곳 주인이 제공하는 것들을 먹고 마시며 즐깁시다.
 dlga_ulf_dialog8:ulf_dialog92|에길과 레긴하르트의 말이 맞소, 울프는 접대의 규율을 무시하고 있소. 에길이 그의 칼을 사용할 오른손을 잘라낼 것이오.
 dlga_ulf_dialog92:ulf_dialog93|이 나쁜 놈! 시구르드 라그나르손이 이 사실을 알게 될 것이다!
-dlga_ulf_dialog93:ulf_dialog94|{s2}^^그건 좋은 일이오.
-dlga_ulf_dialog94:ulf_dialog95|그리고 맥주와 음식은 어찌 할 생각이오?
-dlga_ulf_dialog95:ulf_dialog121|내 부하들에게 맥주와 음식을 나눠주시오, 울프는 접대의 규율을 깨었고 우리는 우리 방식대로 할 것이오.
+dlga_ulf_dialog93:ulf_dialog94|{s2}^^그것도 그것 나름대로 좋은 일이군.
+dlga_ulf_dialog94:ulf_dialog95|맥주와 음식은 어떻게 하면 되겠소?
+dlga_ulf_dialog95:ulf_dialog121|내 부하들에게 맥주와 음식을 나눠주시오. 울프가 먼저 접대의 규율을 깨었으니 우리도 우리의 방식대로 합시다.
 dlga_ulf_dialog95:ulf_dialog91|아무도 맥주와 음식에 손대지 마시오, 우리는 도적이 아니오.
-dlga_ulf_dialog91:ulf_dialog10|개같은! 나는 그들의 똥오줌이나 먹고 있진 않을 거요, 에길, 그를 죽일 필요는 없소, 나는 울프의 창고에 가서 내가 원하는 걸 직접 꺼내올 거요.
-dlga_ulf_dialog10:ulf_dialog11|{s2}^^좋은 생각이오, 레긴하르트. 나도 똑같이 할 거요. {playername}(이)가 원하는 경우, 우리는 상한 우유를 마시며 그와 함께 숙박할 수밖에 없겠지만.
-dlga_ulf_dialog11:ulf_dialog121|(창고로 가서 그들이 원하는 음식과 음료를 꺼내 먹고 마신다.)
-dlga_ulf_dialog11:ulf_dialog122|레긴하르트와 에길은 가만히 있으시오, 아니면 월급은 국물도 없소.
-dlga_ulf_dialog11:ulf_dialog123|에길과 레긴하르트, 당신들은 내 부하요? 나는 명령을 내렸고, 거기에 따라 행동하시오! (지휘력)
-dlga_ulf_dialog123:ulf_dialog1231|{s2}^^알겠소, {reg59?부인:경}. 우리는 당신에게 복종하고, 당신의 명령에 따를 것이오.
-dlga_ulf_dialog1231:ulf_dialog121|내 부하들에게 맥주와 음식을 나눠주시오, 울프는 접대의 규율을 깨었고 우리는 우리 방식대로 할 것이오.
-dlga_ulf_dialog122:ulf_dialog1221|당신은 친구인 우리의 얼굴에 먹칠을 했소, 쥐새끼 같은 울프를 보호하기 위해서! 하지만 나는 당신이 우리와 함께 여러 일들을 겪은 기억이 있기에, 당신과 싸우고 싶지는 않소. 하지만 나는 이 결정이 마음에 들지 않아.
-dlga_ulf_dialog1221:ulf_dialog1232|좋은 말이오, 레긴하르트. 나 또한 당신의 결정을 존중하오, {playername}, 하지만 당신은 당신 지휘하의 부하들을 잘 생각해야 할 것이오...
+dlga_ulf_dialog91:ulf_dialog10|이런 개같은! 나는 그들의 똥오줌이나 먹고 있진 않을 거요. 난 에길이 울프를 죽이든지 말든지 상관 없소. 나는 울프의 창고에 가서 내가 원하는 걸 직접 꺼내올 거요.
+dlga_ulf_dialog10:ulf_dialog11|{s2}^^좋은 생각이오, 레긴하르트. 나도 똑같이 할 거요. {playername}(은)는 원하는대로 그와 신 우유나 마시라고 하시오.
+dlga_ulf_dialog11:ulf_dialog121|(그들이 창고에서 원하는 음식과 음료를 꺼내 먹도록 허용한다.)
+dlga_ulf_dialog11:ulf_dialog122|레긴하르트! 에길! 가만히 있으시오! 그렇지 않으면 끔찍한 대가를 치룰 것이오.
+dlga_ulf_dialog11:ulf_dialog123|에길, 레긴하르트. 내가 한 번 결정을 내리면 당신들은 토 달지 말고 따라야 하오. 알겠소? (지휘력)
+dlga_ulf_dialog123:ulf_dialog1231|{s2}^^알겠소, {reg59?부인:경}. 우리는 당신의 부하이니 당신의 명령에 따르겠소.
+dlga_ulf_dialog1231:ulf_dialog121|내 부하들에게 맥주와 음식을 나눠주시오. 울프는 접대의 규율을 깨었고 우리는 우리 방식대로 할 것이오.
+dlga_ulf_dialog122:ulf_dialog1221|당신은 쥐새끼 같은 울프를 보호하기 위해서 친구인 우리의 얼굴에 먹칠을 했소! 나는 당신이 우리와 함께 여러 일들을 겪은 기억이 있기에, 당신과 싸우고 싶지는 않소. 하지만 나는 이 결정이 마음에 들지 않소.
+dlga_ulf_dialog1221:ulf_dialog1232|좋은 말씀입니다, 레긴하르트. 나 또한 당신의 결정을 존중해요, {playername}. 하지만 당신은 당신이 지휘하는 부하들에게 무엇이 좋을지 잘 생각해서 결정해야 합니다...
 dlga_ulf_dialog1231:ulf_dialog1232|창고를 건들지 마시오, 그 음식은 우리 것이 아닙니다.
-dlga_ulf_dialog121:ulf_dialog122|{s2}^^하지만 그건 내 음식과 음료야... 당신은 도둑, 강도야!
-dlga_ulf_dialog122:close_window|그건 당신 물건이 아니야, 우리가 황소목 스벤을 기다리는 동안 이 농장은 우리 것이다.
-dlga_ulf_dialog1232:ulf_dialog1233|고마워, 덕분에 당신에게 신이 보상해 주겠지. 내가 당신에게 한 가지 말하겠지만, 황소목 스벤도 나를 굴복시키지 못했어, 무기는 집어넣는게 좋을 걸.
-dlga_ulf_dialog1233:close_window|내가 무엇을 하던 알 바 아니고, 지금은 내 부하들을 주둔시킬 것이고, 황소목 스벤이 나타날 때까지 우리는 당신의 농장에 있을 것이오.
-dlga_ulf_ormvictory1:ulf_ormvictory21|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오, 그 아이가 어른이 되면 그 때 아버지에 대하여 이야기하시오.
-dlga_ulf_ormvictory1:ulf_ormvictory2|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오, 나는 그걸로 만족하오.
-dlga_ulf_ormvictory1:ulf_ormvictory2.1|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오, 나는 오름의 갑옷과 무기도 남겨두는게 좋다고 생각하오.
-dlga_ulf_ormvictory1:ulf_ormvictory3|감사하오, 울프. 당신의 선물을 고맙게 받겠소
-dlga_ulf_ormvictory21:ulf_ormvictory2|당신의 아이가 자신의 아버지가 누구인지, 내가 항상 기억할 것입니다. 안심하시오
-dlga_ulf_ormvictory2:ulf_ormvictory4|당신은 정말로 관대하군요, 나는 당신에게 총회가 좋게 흘러가기를 바랄 것입니다. 내 집이 당신의 집이라고 생각하시오. 그러면 안녕히..
-dlga_ulf_ormvictory3:ulf_ormvictory4|운명의 흐름은 당신에게 호의적일 것이오.
-dlga_ulf_ormvictory4:close_window|당신의 운이 대부분의 사람들보다 훨씬 좋은 건 의심의 여지가 없군, 친구, 당신을 죽이고 누군가에게 위대함을 제공하게 될 뻔했지만, 당신은 위대해졌군, 존경과 감탄을 받아 마땅해.
+dlga_ulf_dialog121:ulf_dialog122|{s2}^^하지만 그건 내 음식과 음료야... 당신은 도둑이고, 강도야!
+dlga_ulf_dialog122:close_window|이제 그건 더이상 당신 물건이 아니야, 우리가 황소목 스벤을 기다리는 동안 이 농장은 우리 것이다.
+dlga_ulf_dialog1232:ulf_dialog1233|고맙소, 신께서 당신께 보답해 주실 것이오. 내가 당신에게 한 가지만 일러두겠소. 황소목 스벤은 쉽게 볼만한 사람이 아니오. 그러니 그를 대할 땐 늘 무기를 가까이 두시오.
+dlga_ulf_dialog1233:close_window|그러게 하겠소. 나는 이만 내 부하들에게 가서 황소목 스벤이 도착할 때 까지 기다리겠소.
+dlga_ulf_ormvictory1:ulf_ormvictory21|울프, 이 전리품을 미래에 태어날 토라의 아이를 위해 남겨두시오. 그 아이가 어른이 되면 그 때 아버지에 대하여 이야기하시오.
+dlga_ulf_ormvictory1:ulf_ormvictory2|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 받아주면 기쁘겠소.
+dlga_ulf_ormvictory1:ulf_ormvictory2.1|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 오름의 갑옷과 무기도 간직해 주면 기쁘겠소.
+dlga_ulf_ormvictory1:ulf_ormvictory3|감사하오, 울프. 당신의 선물을 고맙게 받겠소.
+dlga_ulf_ormvictory21:ulf_ormvictory2|당신의 아이가 자신의 아버지가 누구인지, 내가 항상 기억할 것입니다. 안심하시오.
+dlga_ulf_ormvictory2:ulf_ormvictory4|당신은 정말로 관대하군요, 나는 당신에게 총회가 좋게 흘러가기를 바랄 것입니다. 내 집이 당신의 집이라고 생각하시오. 무운을 빌겠소.
+dlga_ulf_ormvictory3:ulf_ormvictory4|운명의 흐름은 당신에게 호의를 베풀기를 빌겠소.
+dlga_ulf_ormvictory4:close_window|당신이 누구보다 운 좋은 사람이란건 의심의 여지가 없겠소. 여보시오, 친구여. 당신은 위대해 질 운명인가 보오. 최소한 당신을 죽일 사람을 위대한 사람으로 만들만한 사람이오. 내 존경과 감탄을 받아주시오.
 dlga_ulf_testigo1:ulf_testigo2|울프, 나는 당신이 총회에서 나에게 불리한 증언을 하지 않게 당신을 설득하고자 하오.
 dlga_ulf_testigo1:close_window|나는 그저 지나가는 길이었고, 그냥 인사하고 싶었을 뿐이오, 그럼 이만.
-dlga_ulf_testigo2:ulf_testigo3|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 네 아이를 임신했어! 혼외정사로 임신된 아이로 인한 불명예는 어떻게 할 건가? 너는 내 가문과 내 딸을 불명예스럽게 했어. 나는 총회에 이 사실을 알릴 것이다!
-dlga_ulf_testigo2:ulf_testigo3.1|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 네 동료, 에길의 아이를 임신했어! 혼외정사로 임신된 아이로 인한 불명예는 어떻게 할 건가? 너는 내 가문과 내 딸을 불명예스럽게 했어. 나는 총회에 이 사실을 알릴 것이다!
-dlga_ulf_testigo2:ulf_testigo3.2|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 네 부하중 하나의 아이를 임신했어! 너무 많은 벌꿀주를 마신 알 수 없는 남자의 아이를 임신했어! 혼외정사로 임신된 아이로 인한 불명예는 어떻게 할 건가? ^^너는 내 가문과 내 딸을 불명예스럽게 했어. 나는 총회에 이 사실을 알릴 것이다!
-dlga_ulf_testigo3:ulf_testigo41|미안하오, 나는 그럴 생각이 없었소, 나는 그녀와 결혼하겠소.
-dlga_ulf_testigo3:ulf_testigo42|미안하오, 나는 그럴 생각이 없었소, 에길을 그녀와 결혼시킬 것이오.
-dlga_ulf_testigo3:ulf_testigo43|끔찍한 일이군요, 내 부대에서 당신이 선택한 남자와 그녀를 결혼시킬 것이오.
-dlga_ulf_testigo3:ulf_testigo44|이해합니다. 나는 당신의 딸의 문제를 내 문제로 생각하고, 그녀와 그녀의 아이에 대한 책임을 질 것입니다.
-dlga_ulf_testigo3:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문제에 대해서 웨어길드로 보상하는 데 동의합니다.
-dlga_ulf_testigo3:ulf_testigo46|당신이 확신하는 당신 딸의 아이는 당신 시종중 한 명의 아이가 아닌가?
-dlga_ulf_testigo41:ulf_testigo5|당신과 내 딸을 결혼시켜? 너는 내 딸을 주기엔 아까워! 그리고 넌 곧 죽을 거야, 시구르드 라그나르손이 총회에서 네 머리를 요구할 거라는 걸 알고 있지.
-dlga_ulf_testigo43:ulf_testigo5|네 부하와 결혼? 너는 내 딸이 창녀라고 생각하는 거야?! 생각이나 하고 이야기하는 건가?
-dlga_ulf_testigo44:ulf_testigo5|그건 농담인가? 토라는 너와 함께 갈 수 없어, 그녀는 내 유일한 딸이고, 네 손에 넘기기엔 너무 소중해.
+dlga_ulf_testigo2:ulf_testigo3|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 당신의 아이를 임신했어! 혼외정사로 임신된 아이로 인한 불명예는 어떻게 할 것이오? 당신은 내 가문과 내 딸을 불명예스럽게 했소. 나는 총회에 이 사실을 알릴 것이오!
+dlga_ulf_testigo2:ulf_testigo3.1|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 당신의 동료, 에길의 아이를 임신했소! 혼외정사로 임신된 아이로 인한 불명예는 어떻게 할 것이오? 당신은 내 가문과 내 딸을 불명예스럽게 했소. 나는 총회에 이 사실을 알릴 것이오!
+dlga_ulf_testigo2:ulf_testigo3.2|내 딸에 대해서 이야기하고 넘어가지, 내 딸은 당신의 부하중 하나의 아이를 임신했소! 내 딸이 벌꿀주에 취해 잠든 날 밤 누군가 그녀를 강간했단 말이오! 당신은 내 가문과 내 딸을 불명예스럽게 했소. 나는 총회에 이 사실을 알릴 것이오!
+dlga_ulf_testigo3:ulf_testigo41|미안하오, 이렇게 될 줄 몰랐소. 내가 그녀와 결혼하겠소.
+dlga_ulf_testigo3:ulf_testigo42|미안하오, 이런 일이 생길줄은 몰랐소. 에길을 그녀와 결혼시키겠소.
+dlga_ulf_testigo3:ulf_testigo43|끔찍한 일이군요, 내 부하 중에서 당신이 선택한 남자와 그녀를 결혼시킬 것이오.
+dlga_ulf_testigo3:ulf_testigo44|이해하오. 나는 당신의 딸의 문제를 내 문제로 생각하고, 그녀와 그녀의 아이에 대한 책임을 다하겠소.
+dlga_ulf_testigo3:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문제에 대해서 웨어길드로 보상하는 데 동의하는 바이오.
+dlga_ulf_testigo3:ulf_testigo46|당신 딸의 아이가 당신네 노예들 중 한명의 아이가 아니라는건 확실한거요?
+dlga_ulf_testigo41:ulf_testigo5|당신과 내 딸을 결혼시켜? 내 딸을 주기엔 너는 너무 천해! 그리고 넌 곧 죽을 거야. 시구르드 라그나르손이 총회에서 네 머리를 요구할 거라는 건 누구나 알고 있지.
+dlga_ulf_testigo43:ulf_testigo5|당신 부하와 결혼? 당신은 내 딸이 창녀라고 생각하는 거요? 여기서 더 말을 하려거든 더 현명한 말을 골라야 할거요.
+dlga_ulf_testigo44:ulf_testigo5|농담하시오? 토라는 당신과 함께 갈 수 없소. 그녀는 내 유일한 딸이고, 당신 손에 맡기기엔 너무 소중하단 말이오.
 dlga_ulf_testigo46:ulf_testigo46_1|{s2}
-dlga_ulf_testigo46_1:ulf_testigo46_2|아버지, 진정해요, 나는 {playername}이(가) 생각 없이 말한 것이 아니었다고 확신해요. {reg59?그녀는:그는} 내가 고결한 체 하는 여인이 아니라는 걸 알고 있고, 아무에게나 나를 넘기진 않을 거에요.
-dlga_ulf_testigo46_2:ulf_testigo46_3|{playername}, 당신은 아버지에게 사과해야 해요. 당신이 총회에서 당신에 대한 그의 증언을 피하기 위해서 그가 행복해야 한다는 것을 기억하세요.
+dlga_ulf_testigo46_1:ulf_testigo46_2|진정하세요, 아버지. {playername}이(가) 별 뜻 없이 말한거에요. {reg59?그녀는:그는} 내가 아무나 상대하지 않는 고결한 여자라는걸 알고 있어요.
+dlga_ulf_testigo46_2:ulf_testigo46_3|{playername}, 당신은 아버지에게 사과해야 해요. 아버지가 총회에서 당신에 대한 불리한 증얼을 하지 않게 하려면 그를 기쁘게 해줘야 해요.
 dlga_ulf_testigo46_3:ulf_testigo46_5|{s10}
 dlga_ulf_testigo46_3:ulf_testigo46_4|{s10}
-dlga_ulf_testigo46_4:ulf_testigo5|{s2}^^나는 이 말을 듣지 않은 것으로 하겠네.
-dlga_ulf_testigo46_5:ulf_testigo46_6|{s2}^^이야기는 끝났어, 나는 총회 후 시구르드 라그나르손이 너를 죽일 때, 행복하게 되겠지. 지금 바로, 내 농장에서 나가 주게.
-dlga_ulf_testigo46_6:ulf_testigo46_7|울프, 당신이 총회에서 나에 대해 증언할 경우 나는 당신과 토라를 죽이고 당신의 농장을 불태울 것이다. 알겠나? (잔혹한)
-dlga_ulf_testigo46_7:ulf_testigo8|진정해! 그렇게 이 사람을 모욕할 필요는 없다.
-dlga_ulf_testigo42:ulf_testigo42_1|이봐! 내가 여기에 있는데 무슨 소리를 하는 거야? 결혼? 나는 결혼하지 않을 거야, 토라는 그녀의 뱃속에 가진 왕족의 피를 이은 아이를 자랑스러워 해야 할 거야.
-dlga_ulf_testigo42_1:ulf_testigo42_2|에길은 뼛속까지 난봉꾼이고, 미래가 없고, 항상 취해 있고, 변덕스러워. 너라면 네 딸을 저런 놈과 결혼시키겠어?
+dlga_ulf_testigo46_4:ulf_testigo5|{s2}^^나는 이 말을 듣지 않은 것으로 치겠소.
+dlga_ulf_testigo46_5:ulf_testigo46_6|{s2}^^이야기는 끝났소, 총회가 끝난 후 시구르드 라그나르손이 당신을 죽여준다면 행복하겠군. 이제 내 농장에서 떠나시오.
+dlga_ulf_testigo46_6:ulf_testigo46_7|울프, 당신이 총회에서 나에 대해 증언할 경우 나는 당신과 토라를 죽이고 당신의 농장을 불태울 것이오. 알겠소? (잔혹한)
+dlga_ulf_testigo46_7:ulf_testigo8|진정해요! 그렇게 이 사람을 모욕할 필요는 없다구요.
+dlga_ulf_testigo42:ulf_testigo42_1|이봐요! 내가 여기에 있는데 무슨 소리를 하는 겁니까? 결혼이오? 나는 절대 결혼따윈 안 할 겁니다. 오히려 토라는 가진 왕족의 피를 이은 아이를 품은 것을 자랑스러워 해야 할 거에요.
+dlga_ulf_testigo42_1:ulf_testigo42_2|에길은 뼛속까지 난봉꾼이오. 그는 항상 취해 있고, 변덕스러운 앞이 깜깜한 망나니라고! 당신이라면 딸을 저런 놈과 결혼시키겠소?
 dlga_ulf_testigo42_2:ulf_testigo42_3|그렇소.
 dlga_ulf_testigo42_2:ulf_testigo42_31|아니오.
-dlga_ulf_testigo42_2:ulf_testigo42_31.1|누구? 여기 있는 브륀힐드? 그녀는 내 딸이 아냐.
-dlga_ulf_testigo42_3:ulf_testigo5|글쎄, 당신은 바보인가? 에길은 사생아에 불과하고, 토라는 부잣집 딸이야, 너는 나를 모욕하는 건가?
-dlga_ulf_testigo42_31:ulf_testigo42_32|글쎄, 그게 듣기 좋으라고 한 소린지 모르겠군, 나는 네 말을 듣지 않은 거로 할 거다.
-dlga_ulf_testigo42_32:ulf_testigo5|아무도 가족으로 에길을 원하지 않는다. 그 놈은 사생아에 불과하고, 토라는 부잣집 딸이다.
-dlga_ulf_testigo5:ulf_testigo44|이해합니다. 나는 당신의 딸의 문제를 내 문제로 생각하고, 그녀와 그녀의 아이에 대한 책임을 질 것입니다.
-dlga_ulf_testigo5:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문제에 대해서 웨어길드로 보상하는 데 동의합니다.
-dlga_ulf_testigo5:ulf_testigo46|당신이 확신하는 당신 딸의 아이는 당신 시종중 한 명의 아이가 아닌가?
-dlga_ulf_testigo6:ulf_testigo7_1|덴마크의 법은 그녀가 강간을 당한 것과, 혹은 자발적으로 성관계를 한 것을 구분합니다. 이 차이를 구분하는 것은 중요하고, 당신이 더 문제를 만들지 않도록 이 남자를 만족시킬 제안은 그에게 4000 페닝을 지불하고, 그는 그의 딸을 당신과 함께 살도록 제공하는 것입니다.^^{s2}
-dlga_ulf_testigo7_1:ulf_testigo7|바보같은 에길은 듣지 않을 것입니다. {reg59?부인:경}, 하지만 4000 페닝을 지불할 경우, 울프는 더 이상 당신에게 요구를 하지 않고, 당신에게 불리한 증언 또한 하지 않을 것이라는 사실입니다.
+dlga_ulf_testigo42_2:ulf_testigo42_31.1|누구? 여기 있는 브륀힐드? 그녀는 내 딸이 아니오.
+dlga_ulf_testigo42_3:ulf_testigo5|좀 모자란 것 아니오? 에길은 사생아에 불과하고, 토라는 부잣집 딸이란 말이오. 이건 나에 대한 모욕이오.
+dlga_ulf_testigo42_31:ulf_testigo42_32|글쎄, 그게 듣기 좋으라고 한 소린지 모르겠군, 이 말은 듣지 않은 것으로 하겠소.
+dlga_ulf_testigo42_32:ulf_testigo5|아무도 에길같은 사람을 가족으로 받아들이길 원치 않을 것이오. 그 놈은 사생아에 불과하고, 토라는 부잣집 딸이란 말이오.
+dlga_ulf_testigo5:ulf_testigo44|이해합니다. 나는 당신의 딸의 문제를 내 문제로 생각하고, 그녀와 그녀의 아이에 대한 책임을 지겠소.
+dlga_ulf_testigo5:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문제에 대해서 웨어길드로 보상하는 데 동의하는 바이오.
+dlga_ulf_testigo5:ulf_testigo46|당신 딸의 아이가 당신네 노예들 중 한명의 아이가 아니라는건 확실한거요?
+dlga_ulf_testigo6:ulf_testigo7_1|덴마크의 법에선 강간을 당한 것인지, 자발적인 정사인지에 따라 처분이 다릅니다. 이 차이를 구분하는 것은 매우 중요하지요. 당신이 더 문제를 만들지 않도록 이 남자를 만족시키려면 그에게 4000 페닝을 지불하는게 좋을겁니다. 그러면 그도 당신이 그의 딸과 자는것을 허락할 것입니다.^^{s2}
+dlga_ulf_testigo7_1:ulf_testigo7|멍청한 에길의 말은 들을 필요가 없습니다. 하지만 {reg59?부인:경}, 4000 페닝을 지불하면 울프는 그것에 만족하고 더 이상 당신에게 불리한 증언을 하지 않을 것입니다.
 dlga_ulf_testigo7:ulf_testigo8|오, 돈, 내가 좋아하는 화제로군. 내가 끼어들어야겠어.
 dlga_ulf_testigo8:ulf_testigo9|{s2}^^이 사람좀 봐! 저 키는 2미터가 족히 넘겠군.
 dlga_ulf_testigo8:ulf_testigo9.1|당신은 누구시죠?
@@ -2075,26 +2075,26 @@ dlga_dcprisoner_join2:dcprisoner_join3|경험 많은 베테랑은 언제든지 �
 dlga_dcprisoner_join2:dcprisoner_join4|아니, 당신은 밀정이 분명하오, 떠나시오.
 dlga_dcprisoner_join3:close_window|감사하오, 저는 남자로서 용감하게, 충성을 바칠 것을 맹세하겠소.
 dlga_dcprisoner_join4:close_window|저는 당신의 거절을 이해하오. 당신이 원하는 대로, 당신은 나를 다시는 볼 수 없을 거요.
-dlga_start:olvir_dialog|{s2}^^젠장, '하얀 머리의' 올비르, 당신은 우리를 이길 수 있을 거라고 생각하나? 나는 당신이 현명한 사람이라고 들었다.
-dlga_olvir_dialog:olvir_dialog2|{s2}^^내 삶과 죽음은 오직 내 주인에게 바칠 것이오, 내 승리는 그가 미워하는 적을 뛰어넘을 것이고, 나는 총회 전에는 죽지 않을 것이오, {playername}.
-dlga_olvir_dialog2:olvir_dialog31|그는 총회에 대해 무엇을 이야기하는 거지, 에길?
-dlga_olvir_dialog2:olvir_dialog32|나는 당신의 주인에 대해 걱정하지 않소. 당신의 동생은 어디 있지, 올비르?
-dlga_olvir_dialog2:olvir_dialog33|시구르드는 나를 위해 문제를 많이 일으켰고. 그가 그 대가를 치룰 시간이오.
-dlga_olvir_dialog31:olvir_dialog33|{s2}^^너는 올비르를 살해한 혐의로 총회에 기소될 것이며, 총회의 자유인들, 그리고 그들이 대가로 복수를 요구할 것이오. 시구르드는 네 죽음을 준비했고, 그것을 통해 그들이 깔끔하게 당신을 죽이겠지.
-dlga_olvir_dialog32:olvir_dialog33|{s2}^^걱정하지 않소, 그는 당신을 찾아낼 것이오. 당신은 그를 방해한 것을 후회할 것이며 또한 시구르드 라그나르손이 많은 악의 원인이 아니라는 것을 아시오. 당신은 잘못된 사람에게 화를 내고 있소, {playername}.
-dlga_olvir_dialog33:olvir_dialog4|{s2}^^당신은 바보야! 내가 발할라에서 축제를 즐기고 있을 때 시구르드 라그나르손은 당신을 죽이고 나는 당신을 비웃을 것이오. 당신은 '눈 속의 뱀' 시구르드가 무엇을 생각하는지 감히 알지 못할 거요. 모두가 그를 두려워하지, 심지어 그의 형제들도... 그래, '뼈없는' 이바르는 제외하고 말이오. 이바르는 라그나의 아들들중 가장 무자비하니까.
-dlga_olvir_dialog4:olvir_dialog411|{s2}^^내가 죽어가는군... 나에게 내 칼을 주시오, 발키리가 내가 전사임을 확인하고 오딘의 홀로 데려갈 수 있도록.
+dlga_start:olvir_dialog|{s2}^^빌어먹을, '하얀 머리의' 올비르, 당신은 우리를 이길 수 있을 거라고 생각하나? 나는 당신이 현명한 사람이라고 들었었는데 말이야.
+dlga_olvir_dialog:olvir_dialog2|{s2}^^내 삶과 죽음은 오직 내 주인의 뜻에 맞게 바쳐질 것이오. 내 승리는 그가 미워하는 적을 이기는 것이고, 내 죽음은 총회가 시작되기도 전에 당신을 추방케 만들 것이오, {playername}.
+dlga_olvir_dialog2:olvir_dialog31|그가 말하는 총회에 대한 이야기가 도대체 무엇이오, 에길?
+dlga_olvir_dialog2:olvir_dialog32|당신의 주인에 대해선 내가 알 바 아니오. 당신의 동생은 어디 있지, 올비르?
+dlga_olvir_dialog2:olvir_dialog33|시구르드는 내가 가는 길에 많은 문제를 일으켰소. 그가 대가를 치룰 시간이오.
+dlga_olvir_dialog31:olvir_dialog33|{s2}^^당신은 총회가 시작되기도 전에 올비르를 살해한 혐의로 자유민들의 총회에서 기소될 겁니다. 그리고 그들은 대가를 지불하라고 하거나 복수를 요구할 것이오. 시구르드가 당신의 죽음을 원하고 있었던 것 같이, 그들 역시 당신을 죽이고 싶어할 것이 분명합니다.
+dlga_olvir_dialog32:olvir_dialog33|{s2}^^걱정하지 마시오. 그가 당신을 찾아낼 것이오. 당신은 그를 쫓으며 시구르드에게 많은 문제를 일으킨 것을 후회하게 될 것이오. 당신은 엉뚱한 사람을 건드렸소, {playername}.
+dlga_olvir_dialog33:olvir_dialog4|{s2}^^바보같으니라고! 내가 발할라에서 축제를 즐기고 있는 동안, 시구르드 라그나르손은 당신을 죽이고 나는 당신을 비웃을 것이오. 당신은 '눈 속의 뱀' 시구르드가 무엇을 생각하는지 감히 알지 못할 거요. 모두가 그를 두려워하지, 심지어 그의 형제들도... 그래, '뼈없는' 이바르는 제외하고 말이오. 이바르는 라그나르의 아들들중 가장 무자비하니까.
+dlga_olvir_dialog4:olvir_dialog411|{s2}^^내가 죽어가는군... 나에게 내 칼을 주시오, 발키리가 내가 전사임을 확인하고 오딘의 전당으로 데려갈 수 있도록 말이오.
 dlga_olvir_dialog411:olvir_dialog41|{playername}, 이 자는 당신에게 모욕과 위협을 가하고, 동시에 당신을 죽이려고 했소. 이 자는 동정할만한 가치가 없소. 또한, 검을 주는 것은 이교도의 관습이오. 그가 죽어 지옥에 가도록 내버려두시오.
-dlga_olvir_dialog41:olvir_dialog51|에길, 그에게 칼을 주시오. 그것은 그가 발할라로 떠나게 할 것이오.
-dlga_olvir_dialog41:olvir_dialog52|아니, 맞아. 당신은 발할라로 갈 자격이 없어, 올비르. 에길, 그의 검을 나에게 줘, 그건 내가 가지도록 하지.
+dlga_olvir_dialog41:olvir_dialog51|에길, 그에게 칼을 주시오. 그가 발할라로 떠나게 둡시다.
+dlga_olvir_dialog41:olvir_dialog52|안돼, 그의 말이 맞아. 당신은 발할라로 갈 자격이 없어, 올비르. 에길, 그의 검을 나에게 줘, 그건 내가 가지도록 하지.
 dlga_olvir_dialog41:olvir_dialog51.1|{s10}
-dlga_olvir_dialog51:olvir_dialog7|{s2}^^연회, 여자와 끝없는 전투가 신들의 전당에서 그를 기다리고 있겠군, 올비르. 그는 좋은 전사였고, 언젠가 당신을 보게 되겠지. 어쩌면 우리는 라그나로크에서 서로 함께 싸울지도 모르지.
-dlga_olvir_dialog52:olvir_dialog54|{reg59?부인:경}, 그는 잘 싸웠고, 발할라로 갈 것이다.
+dlga_olvir_dialog51:olvir_dialog7|{s2}^^연회, 여자와 끝없는 전투가 신들의 전당에서 그를 기다리고 있겠군. 올비르, 비록 우리는 적이었지만 당신은 좋은 전사였소. 훗날 다시 만납시다. 어쩌면 우리는 라그나로크에서 서로 함께 싸울지도 모르지.
+dlga_olvir_dialog52:olvir_dialog54|{reg59?부인:경}, 그는 잘 싸웠고, 발할라로 가게 합시다.
 dlga_olvir_dialog54:olvir_dialog55|제발...
-dlga_olvir_dialog55:olvir_dialog51|좋아, 에길, 그에게 칼을 넘겨라.
-dlga_olvir_dialog55:olvir_dialog6|아니. 에길, 그의 검을 나에게 줘, 그는 지옥에 갈 거야.
+dlga_olvir_dialog55:olvir_dialog51|좋아, 에길, 그에게 칼을 주시오.
+dlga_olvir_dialog55:olvir_dialog6|안돼, 에길. 그의 검을 나에게 주시오, 그가 가야할 곳은 지옥이오.
 dlga_olvir_dialog6:olvir_dialog7|{s2}
-dlga_olvir_dialog7:olvir_dialog71|{reg59?부인:경}, 이제 길을 떠날 시간이오. 총회는 살인을 매우 심각한 일로 볼 것이며, 시구르드가 이 점을 악용하여 살인 혐의로 기소하기 전에 우리는 내 아버지, 국호릭 왕에게 이야기하러 가야 하오.
+dlga_olvir_dialog7:olvir_dialog71|{reg59?부인:경}, 이제 길을 떠날 시간입니다. 우리는 내 아버지 호릭 왕에게 가서 이야기를 나눠야 합니다. 총회를 앞두고 살인으로 기소되는 것은 매우 심각한 일입니다. 시구르드도 이런 이점을 최대한 이용하려고 애를 쓸 테니까요.
 dlga_olvir_dialog71:close_window|지체할 시간이 없군. 출발하자.
 dlga_start:close_window.57|우린 탈출을 막기 위해 왔소. 행운을 빌겠소.
 dlga_start:close_window.58|이제 당신 손에 달렸소! 내가 이미 그를 있는 힘껏 쳤소.
@@ -2170,11 +2170,11 @@ dlga_start:svenlair_1|당신은 누구고, 무엇을 원합니까?
 dlga_start:revenge_kingmen|안녕하시오, {playername}! 안녕하시오, 에길, 형제여! 우리는 당신의 서신을 받고 여기에 왔소. 우리는 우리가 부대에 합류하기를 바라오.
 dlga_start:close_window.61|신께서 우릴 지키셨도다!
 dlga_revenge_kingmen:revenge_kingmen2|물론, 하랄드! 우리는 여전히 '눈 속의 뱀' 시구르드를 기다리고 있어. 여기, 내 친구가, 황소목 스벤을 잡기 위해 혈안이 되어 있지.
-dlga_revenge_kingmen2:revenge_kingmen3|환영하오, 하랄드. 우리는 호릭 왕에게 도움을 준 것을 고맙게 생각하고 있소.
-dlga_revenge_kingmen3:revenge_kingmen4|나는 그것을 확신하오. 시간이 될 때까지, 내 부하들을 숨겨두었소, 상황이 좋지 않다면 개입할 준비가 되었소. 그러나 왕은 아주 명확했소, {playername}. 사실 그는 당신이 대결을 피할 수 있는 모든 경우에, 대결을 하지 않기를 바라고 있소.
-dlga_revenge_kingmen4:revenge_kingmen5|그것은 나에게 누구도 전쟁을 시작하지 않기를 바라오, 내가 약속하겠소.
-dlga_revenge_kingmen4:revenge_kingmen5.1|황소목 스벤은 나에게 많은 해악을 저질렀소, 나는 아무것도 약속하지 않겠소.
-dlga_revenge_kingmen5:close_window|왕은 당신이 바라는 소원대로 처형을 집행하기로 했소. 우리는 이제 농장으로 진입할 것이오. 그의 부하들은 배고픔과 갈증에 굶주렸소.
+dlga_revenge_kingmen2:revenge_kingmen3|환영하오, 하랄드. 우리는 호릭 왕의 도움을 감사하게 생각하오.
+dlga_revenge_kingmen3:revenge_kingmen4|나에게도 기쁜 일이오. 적당한 때가 될 때까지 내 부하들을 숨겨두겠소. 상황이 좋지 않다면 개입할 준비가 되었소. 왕의 요구는 명확하오, {playername}. 먼저 적대적으로 대해선 안되오. 사실 왕께선 가능한 한 대립을 피하길 원하고 있소.
+dlga_revenge_kingmen4:revenge_kingmen5|전쟁을 하더라도 그 시작이 나는 아닐 것이오. 약속하겠소.
+dlga_revenge_kingmen4:revenge_kingmen5.1|황소목 스벤은 나에게 많은 해악을 저질렀소. 그건 약속할 수 없소.
+dlga_revenge_kingmen5:close_window|왕꼐서도 그의 바람이 지켜지길 바라고 있소. 우리는 이제 농장으로 진입할 것이오. 내 부하들은 배고픔과 갈증에 굶주렸소.
 dlga_harald_meeting1:harald_meeting21|나는 이 만남에서 오랜 시간 만나지 못한 어머니를 만나는 데에 특별히 관심을 가지고 있소.
 dlga_harald_meeting1:harald_meeting3|(아무 말도 하지 않습니다.)
 dlga_harald_meeting21:harald_meeting3|나는 당신이 우리의 손님으로서 이 것에 대해 말하고, 궁금해할 수 있다 생각하오. 하지만 먼저 우리는 가장 시급한 문제를 해결해야 하오.
