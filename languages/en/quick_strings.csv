@@ -3102,19 +3102,19 @@ qstr_A_voice_is_coming_fr|목소리는 폐허 어딘가에서 나오고 있는 �
 qstr_Do_you_want_to_stop_|당신은 일을 그만두고 일을 끝내면 받을 수 있는 임금을 포기하시겠습니까?
 qstr_Your_own_life_seems_|당신은 이 곳에서 빵 한 조각이라도 얻어 하루라도 더 연명하기 위해 힘들게 일하고 있는 불쌍한 사람들을 볼 수 있었습니다. 그들을 보고 나니 당신 스스로의 생활은 그렇게 나쁘지 않은 것 같습니다.
 qstr_The_rattle_of_spikes|돌이 딸랑이는 소리가 귀에 가시가 박힌 것처럼 터질 것 같습니다. 그 다음, 당신은 사람들이 감독의 지휘하에 열심히 일하고 있는 모습을 볼 수 있었습니다.
-qstr_Bodo_has_received_to|Bodo has received too many blows to continue fighting.{***}
-qstr_Bodo_spots_you_shake|Bodo spots you, shakes his head, and silently indicates that there are still enemies about.{***}
+qstr_Bodo_has_received_to|보도는 전투를 계속하기엔 너무 많은 타격을 받았습니다.
+qstr_Bodo_spots_you_shake|보도가 당신을 먼저 발견하고는 조용히 고개를 저으며 주변에 적이 있다는 것을 알려줍니다.
 qstr_Bandits_strike_at_yo|도적은 격렬하게 당신을 공격했습니다, 그리고 당신은 피웅덩이에 쓰러졌습니다. 그들은 당신이 죽은 것 같다고 생각했습니다...
 qstr_The_bandits_and_slav|도적들과 노예들의 처리가 끝났습니다. 포로를 잡은 뒤, 당신은 떠나기 전에 기념탑을 남겼습니다.^^당신은 떠나고 싶을 때, TAB키를 누르시오.
-qstr_You_can_t_leave_the_|You can't leave the cave while there still enemies!{***}
+qstr_You_can_t_leave_the_|아직 적이 남아 있습니다! 지금은 동굴을 떠날 수 없습니다.
 qstr_You_have_just_killed|당신은 도적질을 시도한 왕의 근위병을 죽였습니다. 그의 품을 뒤져, 당신은 몇 가지 물건을 찾을 수 있었습니다.
 qstr_You_have_killed_the_c|당신은 선장을 죽였습니다, 그는 매우 못생긴 사람이었고, 크고 비뚤어져 있으며 쥐같은 냄새가 났습니다. 그의 품을 뒤져, 당신은 몇 가지 유용한 물품들을 찾을 수 있었습니다.
 qstr_Rising_victorious_ov|당신은 도적왕을 쓰러뜨렸습니다, 당신의 손은 검은 피로 얼룩졌고, 당신은 그의 악행에 종지부를 찍고, 모든 도적들에게 공포를 가져다 주었습니다. 그의 품 속에는 그가 자랑하던 물건이 하나 있었습니다:
 qstr_The_body_of_Atli_Eir|시구르드 라그나르손의 부하들 중 2인자인, 아틀리 에이릭손의 시체가 당신의 발 밑에 거짓말처럼 쓰러져 있었습니다. 당신은 그의 품을 뒤적거리다 곳곳에 피가 묻은 양피지 하나를 찾을 수 있었습니다. 그건 보도의 편지였다.
-qstr_The_Danish_and_Atli_|The Danish and Atli have been dealt with. Talk to Bodo about the letter.{***}
+qstr_The_Danish_and_Atli_|덴마크 병사들과 아틀리를 모두 처리했습니다. 보도와 편지에 대해 이야기 해 봅시다.
 qstr_As_you_advance_you_f|당신이 좀 더 안으로 들어가자, 당신은 내부가 점점 밝아지는 것을 발견할 수 있었습니다. 당신은 그 것을 보고 이 장소가 버려진 장소가 아니라는 생각을 할 수 있었습니다.
 qstr_You_feel_the_tension|당신은 점점 안쪽으로 들어가면서 긴장감이 강해지는 것을 느꼈습니다.
-qstr_The_mouth_of_a_rock_|바위에서 마치 입이 벌어지듯이 바위가 열렸습니다. 주변에는 차가운 돌이 가득합니다, 그리고 주변에는 당신이 모르는 글자로 새겨진 조각이 새겨져 있었습니다. 어떤 놀라운 보물이 이 곳에 숨겨져 있을까요?
+qstr_The_mouth_of_a_rock_|바위가 마치 입을 벌린 듯이 입구를 드러내며 당신 앞에 모습을 나타냅니다. 주변에는 차가운 돌이 가득하고, 주변에는 당신이 모르는 글자들이 새겨져 있습니다. 어떤 놀라운 보물이 이 곳에 숨겨져 있을까요?
 qstr_You_are_overwhelmed_|당신은 시간의 극악무도함에 압도되었습니다. 이 곳에 살던 사람들은 사라진 지 오래된 것 같습니다. 우리는 먼지가 될 것이고, 우리의 삶은 너무나도 짧습니다... 그 누가 영원히 살 수 있을까요?
 qstr_On_the_right_you_see|당신의 오른쪽에서, 벽에 그려진 낙서가 당신에게 말합니다: 당신은 정말 아름답소, 리비아 - 마르쿠스는 말했습니다.
 qstr_It_s_cold_and_smells|이 곳은 차가운 공기가 맴돌고 있고, 옛 향수를 간직한 곳입니다, 이 곳에서 당신은 다른 시간에 돌아온 것만 같은 기분을 느낄 수 있었습니다. 로마인들이 세상을 지배하던 시절, 그리고 그들은 거대한 석조 건물을 만드는 몇 가지 방법에 대해 알고 있었습니다.^^수영장, 오래된 휴게실, 그리고 탈의실... 모든 것이 먼지와 가시 나무에 덮여 있었고, 이 장소는 버려진 것 같았습니다.
