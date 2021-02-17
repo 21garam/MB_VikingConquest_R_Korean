@@ -643,9 +643,9 @@ menu_notification_oath_renounced_faction_defeated|당신의 국가가 멸망했�
 menu_notification_center_lost|우리는 영지를 잃었습니다!^^우리는 {s2}에게 {s1}을(를) 점령당했습니다.
 menu_notification_troop_left_players_faction|우리는 배신당했습니다!^^{s1}은(는) {s2}을(를) 배신하고 그의 영지와 함께 {s3}(으)로 전향했습니다.
 menu_notification_troop_joined_players_faction|좋은 소식이 있습니다!^^{s1}은(는) {s2}을(를) 배신하고 그의 영지와 함께 {s3}(으)로 전향했습니다.
-menu_notification_war_declared|우리는 전쟁을 선포했습니다!^^{s1}이(가) {s2}에게 전쟁을 선포했습니다!^{s57}^^대장간에서는 쟁기를 만드는 것을 그만두고, 창과 칼을 만들기 시작했습니다. 전쟁은 시작되었습니다!
-menu_notification_peace_declared|우리는 평화 협상을 맺었습니다!^^{s1}이(가) {s2}와(과) 평화 협상을 맺었습니다!^{s57}^^두 왕국의 병력들은 전쟁을 그만두었습니다. 그들 중 일부는 또 다른 전쟁을 준비하기 위한 휴전을 했고, 일부는 항구적인 평화를 바라고 있습니다.
-menu_notification_alliance_declared|우리는 동맹을 맺었습니다!^^{s1}이(가) {s2}와(과) 동맹을 맺었습니다!^{s57}^^두 왕국은 서로의 운명을 같이 하기로 했고, 지금 그들은 강력한 유대감을 가지고 있습니다.
+menu_notification_war_declared|전쟁 선포^^{s1}이(가) {s2}에게 전쟁을 선포했습니다!^{s57}^^대장간에서는 쟁기를 만드는 것을 그만두고, 창과 칼을 만들기 시작했습니다. 전쟁은 시작되었습니다!
+menu_notification_peace_declared|평화 협정^^{s1}이(가) {s2}와(과) 평화 협정을 맺었습니다!^{s57}^^두 왕국의 병력들은 전쟁을 그만두었습니다. 그들 중 일부는 또 다른 전쟁을 준비하기 위한 휴전을 했고, 일부는 항구적인 평화를 바라고 있습니다.
+menu_notification_alliance_declared|동맹 협정^^{s1}이(가) {s2}와(과) 동맹을 맺었습니다!^{s57}^^두 왕국은 서로의 운명을 같이 하기로 했고, 지금 그들은 강력한 유대감을 가지고 있습니다.
 menu_notification_alliance_offer|{s1}은(는) 당신과의 동맹을 원하고 있습니다. 당신은 어떤 대답을 할 것입니까?
 mno_offer_accept|승락합니다.
 mno_offer_reject|거부합니다.

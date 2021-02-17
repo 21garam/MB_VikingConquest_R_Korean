@@ -2630,14 +2630,14 @@ str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home|도적�
 str_bandit_lair_quest_description|{s9}을 찾아 파괴한 뒤, {s11}에게 돌아가 보고합니다.
 str_reveal_ass|누군가가 당신을 암살하려고 시도했습니다, 당신은 {s3}에서 암살자와 접촉했던 자를 찾을 수 있을 것입니다.
 str_reveal_ass2|암살을 지시한 연락처에서 당신은 음모의 배후에 위치한 영주를 찾았습니다 - 그는 {s9}입니다. 이제 그와 직접 대면할 시간입니다.
-str_bandit_hideout_preattack|당신은 은거지에 다가갔습니다. {s4}들은 아직 당신을 발견하지 못한 것 같았고, 당신은 계속 들키지 않고 숨어들어갈 수 있었습니다. 접근하기 어려운 장소-- {s5} --는 당신의 부대에서 소수의 병사들만이 공격에 가담할 수 있음과, 그들의 말을 데려갈 수 없음을 의미했습니다. 만약 당신의 첫 공격이 실패하면, {s4}들은 쉽게 도망치고 흩어질 수 있을 것입니다. 당신은 은거지를 공격할 것입니까, 아니면 다른 기회를 기다릴 것입니까?
+str_bandit_hideout_preattack|당신은 은거지에 다가갔습니다. {s4}들은 아직 당신을 발견하지 못한 것 같았고, 당신은 계속 들키지 않고 숨어들어갈 수 있었습니다. 은거지는 접근하기 어려운 {s5} 합니다. 그것은 당신의 부대에서 오직 소수의 병사들만이 공격에 가담할 수 있음은 물론, 말을 데려갈 수 없음을 의미합니다. 만약 당신의 첫 공격이 실패하면 {s4}들은 쉽게 탈출해 흩어져 버릴 것 입니다.^은거지를 공격하겠습니까, 아니면 다음 기회를 기다릴 것입니까?
 str_bandit_hideout_failure|{s4}들은 당신의 공격을 격퇴했습니다. 그들이 주변의 마을로 흩어져서 사라져버렸기 때문에 당신은 병력을 재편성하고 다시 진군하여 그들을 찾으려 했지만 찾지 못했고, 의심할 필요도 없이 그들은 계속 여행자들을 위협할 것입니다
 str_bandit_hideout_success|그들의 퇴각은 차단되었고, 당신의 굳건한 공격 앞에 하나씩 쓰러져 나갔습니다. 그들의 은거지와, 그들이 부정하게 얻은 약탈품들은 이제 당신의 것입니다.
-str_bandit_approach_defile|좁은 골짜기 길을 내려가야 하는
-str_bandit_approach_swamp|소나무 습지을 지나야 하는
-str_bandit_approach_thickets|빽빽한 덤불이 연속된 구간을 지나야 하는
-str_bandit_approach_cliffs|절벽의 측면을 지나 올라야 하는
-str_bandit_approach_cove|바다 절벽을 관통하여 잘린 개울 바닥을 내려가야 하는
+str_bandit_approach_defile|좁은 골짜기 길을 내려가야
+str_bandit_approach_swamp|소나무 습지을 지나야
+str_bandit_approach_thickets|빽빽한 덤불이 연속된 구간을 지나야
+str_bandit_approach_cliffs|절벽의 측면을 지나 올라야
+str_bandit_approach_cove|바다 절벽을 관통하여 잘린 개울 바닥을 내려가야
 str_political_explanation_lord_lacks_center|이번 경우는, 아무런 땅도 수입도 없는 영주에게 영지를 주어야 하오.
 str_political_explanation_lord_took_center|이번 경우는, 요새를 점령한 사람에게 주어야 하오.
 str_political_explanation_most_deserving_friend|이번 경우는 내 근처의 친구와 동료중 영지를 가장 받을 만한 사람으로 결정했소.

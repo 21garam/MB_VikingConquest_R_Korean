@@ -1307,8 +1307,8 @@ dlga_minister_training_lair0:minister_training_lair3|주둔지의 부하들을 �
 dlga_minister_training_lair0:minister_training_lair4_stop|이제 훈련은 그만 시키시오.
 dlga_minister_training_lair0:minister_pretalk|신경쓰지 마시오.
 dlga_minister_training_lair3:minister_training_lair3_a|Do you want me to use an alternative promotion when available?{***}
-dlga_minister_training_lair3_a:minister_training_lair3_b|Yes.{***}
-dlga_minister_training_lair3_a:minister_training_lair3_b.1|No.{***}
+dlga_minister_training_lair3_a:minister_training_lair3_b|예.
+dlga_minister_training_lair3_a:minister_training_lair3_b.1|아니오.
 dlga_minister_training_lair3_b:minister_pretalk|좋습니다, 신입들을 {s11}에서 훈련시키겠소. 훈련시키고 싶은 병사들을 주둔지 목록의 가장 아래쪽에 배치하시오.
 dlga_minister_training_lair4_stop:minister_pretalk|무슨 일이오, {reg59?부인:경}?
 dlga_minister_talk:minister_replace|당신이 재상에서 물러났으면 좋겠군. 
