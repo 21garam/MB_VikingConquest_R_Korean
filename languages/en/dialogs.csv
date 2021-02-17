@@ -2054,20 +2054,20 @@ dlga_lair_captain_add_port_1:lair_captain_pretalk.1|그만한 돈이 없군.
 dlga_lair_captain_add_port_2:lair_captain_pretalk|좋소. 부두를 건설하는 데는 그렇게 시간이 걸리진 않을 거니, 조만간 이곳에 배를 정박할 수 있을게요.
 dlga_lair_captain:lairparty_action|내 부하들의 가족들에게 500 페닝을 기부하겠소.
 dlga_lair_captain:close_window|그거면 충분하오.
-dlga_lair_captain_improve:lair_captain_improve2|지금으로서 우리에게는 50명의 인원을 수용할 수 있는 방어가 빈약한 영구 야영지가 하나 있소. 인원들이 숙박하고 가족을 데려올 집이나, 사기 증진과 휴식을 위한 선술집과 기술을 연마할 훈련장을 짓는 것이 좋겠소. 그러면 앞으로 거점을 방어하기도 쉬워지겠지. 그리고 마지막으로 여유 공간이 더 필요하오. 아마도 더 크고 편한 집이 좋지 않겠소? ^^돈이 엄청나게 들어갈 거요. 관리자를 고용하고 자재를 구매하는데 아마 5000 페닝 정도가 소요될 거요. ^^또 추가로 연장 5개와 목재 5개가 필요하오.
-dlga_lair_captain_improve2:lair_captain_improve3|좋소, 이 은신처는 개선이 필요하오. 그리고 나도 필요한 자재와 비용을 가지고 있소.
-dlga_lair_captain_improve2:lair_captain_pretalk|나는 당신이 요구한 것을 구할 것이고, 나중에 그것들을 가져오겠소.
-dlga_lair_captain_improve2:lair_captain_pretalk.1|그것에 대해 생각해보겠소.
-dlga_lair_captain_improve3:lair_captain_pretalk|대장, 저는 지금 작업할 사람들을 넣어 두었소. 모든 것이 제대로 돌아갈 경우 작업은 일주일 내로 끝날 것이오.
-dlga_lair_captain_improve3:lair_captain_pretalk.1|대장, 어떻게 말을 해야 할 지 모르겠지만, 당신은 충분한 돈을 가지고 있지 않은 것 같소. 최소한 5000 페닝이 필요하오.
-dlga_lair_captain_improve_x1:lair_captain_pretalk|노동자들이 힘들게 작업하고 있잖소, 대장.
+dlga_lair_captain_improve:lair_captain_improve2|현재 우리의 은신처는 기능이 거의 갖춰지지 않은 수준으로, 방어가 매우 빈약하고 단순한 상태이오. 그리고 최대 50명의 인원을 수용할 수 있소.^여기에 주둔할 사람들을 위한 집과 건물들을 짓는 것을 제안하고 싶소. 가족들을 데려올 수 있는 집이나, 휴식 취하며 사기를 회복할 수 있는 선술집 그리고 기술을 연마할 훈련장을 짓는 것이 좋겠소. 방어시설을 더더욱 향상시키는 것도 중요할 것이오. 그리고 마지막으로 여유 공간이 더 필요하오. 아무래도 더 크고 편한 집이 좋지 않겠소?^^돈이 엄청나게 들어갈 것이오. 일꾼들을 고용하고 자재를 구하려면 아마 5000 페닝 정도가 소요될 것이오.^또 추가로 연장 5개와 목재 5개가 필요하오.
+dlga_lair_captain_improve2:lair_captain_improve3|좋소, 이 은신처는 개선이 필요하오. 필요한 자재와 비용을 구해왔소.
+dlga_lair_captain_improve2:lair_captain_pretalk|알겠소. 당신이 요구한 것을 구해서 돌아오겠소.
+dlga_lair_captain_improve2:lair_captain_pretalk.1|한번 생각해보겠소.
+dlga_lair_captain_improve3:lair_captain_pretalk|당장 일을 할 남자들을 투입하겠소, 대장. 모든 것이 제대로 돌아간다면 일주일 내로 작업이 끝날 것이오.
+dlga_lair_captain_improve3:lair_captain_pretalk.1|대장, 어떻게 말을 해야 할 지 모르겠군... 당신은 충분한 돈을 가지고 있지 않은 것 같소. 최소한 5000 페닝이 필요하오.
+dlga_lair_captain_improve_x1:lair_captain_pretalk|일꾼들은 열심히 일하고 있소, 대장.
 dlga_lair_captain_nothing:lair_captain_pretalk|지금은 아무것도 할 말이 없소.
-dlga_lair_captain_improve_torefuge:lair_captain_improve_torefuge2|지금으로서 우리에게는 120명의 인원을 수용할 수 있는 미드 홀과 수용할 수 있는 좋은 은신처가 하나 있소. 인원들이 숙박하고 가족을 데려올 더 많은 집이나, 우리의 무기와 갑옷을 수리하고 우리의 말에 대한 안정적인 보급을 구축하는 데 도움이 될 대장간을 지을 수도 있을 거요. ^^또한 흙으로 된 제방과 도랑, 방벽을 개선하는 것이 중요해 보이는군. 마지막으로 여유 공간이 더 필요하오. 당신의 지위에 걸맞게 선술집을 확장하고, 새로운 거처를 지을 거요. 또한 관리자를 고용하고 자재를 구매하는 데 아마 10000 페닝 정도가 소요될 거라고 생각하오. ^^또 추가로 연장 5개와 목재 5개가 필요하오.
-dlga_lair_captain_improve_torefuge2:lair_captain_improve_torefuge3|좋소, 이 은신처는 개선이 필요하오. 그리고 나도 필요한 자재와 비용을 가지고 있소.
-dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|나는 당신이 요구한 것을 구할 것이고, 나중에 그것들을 가져오겠소.
-dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|그것에 대해 생각해보겠소.
-dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|대장, 나는 지금 작업할 사람들을 넣어 두었소. 모든 것이 제대로 돌아갈 경우 작업은 2주 내로 끝날 것이오.
-dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|대장, 어떻게 말을 해야 할 지 모르겠지만, 당신은 충분한 돈을 가지고 있지 않은 것 같소. 최소한 10000 페닝이 필요하오.
+dlga_lair_captain_improve_torefuge:lair_captain_improve_torefuge2|현재 우리에게는 120명의 인원을 수용할 수 있고 미드 홀이 있는 멋진 은신처가 있소. 여기제 주둔할 사람들과 그 가족들을 위해 더 많은 집을 짓는 것이 어떻소? 한편으로, 무기와 갑옷을 수리할 대장간을 짓거나 말을 관리할 수 있는 마구간을 짓는 것도 좋겠소.^무엇보다 흙을 퍼서 제방을 쌓고 도랑을 내어서 방비를 더 단단하게 하는것이 중요하오. 마지막으로 당신에게도 더 많은 공간이 필요할 것이오. 당신의 지위에 걸맞게 선술집을 확장하고, 새로운 거처를 짓는 것이오.^^일꾼들을 고용하고 자재를 구하려면 아마 10000 페닝 정도가 소요될 거라고 생각하오.^또 추가로 연장 5개와 목재 5개가 필요하오.
+dlga_lair_captain_improve_torefuge2:lair_captain_improve_torefuge3|좋소, 이 은신처는 개선이 필요하오. 필요한 자재와 비용을 구해왔소.
+dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|알겠소. 당신이 요구한 것을 구해서 돌아오겠소.
+dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|한번 생각해보겠소.
+dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|당장 일을 할 남자들을 투입하겠소, 대장. 모든 것이 제대로 돌아간다면 2주 내로 작업이 끝날 것이오.
+dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|대장, 어떻게 말을 해야 할 지 모르겠군... 당신은 충분한 돈을 가지고 있지 않은 것 같소. 최소한 10000 페닝이 필요하오.
 dlga_lairparty_action:lair_captain_pretalk|고맙소, {reg59?부인:경}. 당신의 부하들의 사기와 충성심이 높아질 것이오.
 dlga_start:dcprisoner_join1|{reg59?부인:경}, 확실히 당신은 나를 기억하지 못하나 보오. 고문받지 않았을 때의 내 얼굴은 많이 다르게 보이나 보군. 나는 당신이 전투 후에 심문을 한 남자, 올라프 선장이오.
 dlga_dcprisoner_join1:dcprisoner_join2|사실대로 말하면, 내 패배 이후, 스벤이 나에 대해 점을 봤는데, 그 점에서 나는 용병 일을 하게 되지만, 나쁜 운이 있다고 여겨지게 되어서 쫓겨나게 되었소. -- 나는 그 후, 선술집에서 술과 여자를 전전하며 보냈소. 당신은 가장 어려운 시기에 나에게 동정을 베풀어 준 유일한 사람이기 때문에 나는 당신을 찾고 있었소, 나는 당신을 위해 싸우고 싶고, 당신이 나를 받아들인다면 나는 당신에게 충성을 바쳐 싸울 것을 맹세하겠소.
