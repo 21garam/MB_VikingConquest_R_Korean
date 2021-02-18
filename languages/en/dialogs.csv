@@ -3443,7 +3443,7 @@ dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.1|우리의 총사령
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.2|우리는 그곳으로 갈 것이오. {s7} 그러나, {s5}은(는) {s4}을(를) {s3}. {s6} {s8}.
 dlga_lord_talk_why_not_repeat:lord_strategy_why_not_select|당신은 더 비슷한 질문이 없소? 왜 우리가 하지 않는.....
 dlga_lord_talk_ask_marriage_1:lord_pretalk|내 말에 화내지 말게, 내가 왕으로 그대에게 그것에 대해서 말한다면, 나는 자식들을 위한 다른 계획이 있네.
-dlga_lord_talk_ask_marriage_1:lord_pretalk.1|결혼을 통해 동맹을 공고히 하는 것은 우리들의 관습이지. 유감스럽지만, 우리 가족 중에는 당신의 결혼 상대로 적당한 사람이 없소.
+dlga_lord_talk_ask_marriage_1:lord_pretalk.1|결혼을 통해 동맹을 공고히 하는 것이 우리들의 관습이지. 유감스럽지만, 우리 가족 중에는 당신의 결혼 상대로 적당한 사람이 없소.
 dlga_lord_talk_ask_marriage_1:lord_courtship_pre_permission|{s15}
 dlga_lord_talk_ask_marriage_1:lord_marriage_proposal_female_pc_confirm|당신은 나에게 청혼하는 것이오?
 dlga_lord_courtship_pre_permission:lord_courtship_permission|{s15}, 저를 신부감으로 생각해주실 수 있으시오?
@@ -4334,11 +4334,11 @@ dlga_start:fugitive_1|무슨 일이오?
 dlga_fugitive_1:fugitive_2|나는 {s4}이라는 이름의 살인자를 찾고 있소. 당신이 그 살인자인 것 같군.
 dlga_fugitive_1:close_window|아무것도 아니오. 갑자기 불러세워서 미안하오.
 dlga_fugitive_2:fugitive_3|무슨 소린지 모르겠소, {reg59?부인:경}. 나는 아무도 죽이지 않았소. 나는 당신이 사람을 잘못 봤다고 생각하오.
-dlga_fugitive_3:fugitive_4|당신의 검을 버리시오. 만약 당신이 결백하다면 당신은 아무것도 두려워 할 필요가 없소. 우리는 지금 근처에 가서 당신 이웃에 사는 사람에게 당신에 대해 물어볼 것이오. 나와 같이 가줘야겠소.
-dlga_fugitive_4:fugitive_5|나는 아무 곳에도 가지 않을 것이오, 친구. 당신이 나를 어디론가 데려가려면 나와 싸워야만 할 것이오.
-dlga_fugitive_5:fugitive_fight_start|당신의 저항은 내게 아무런 문제도 되지 않소. 나는 어쨌든 당신을 죽이기만 하면 되니까.
+dlga_fugitive_3:fugitive_4|당신의 검을 버리시오. 만약 당신이 결백하다면 당신은 아무것도 두려워 할 필요가 없소. 나와 같이 가서 당신의 이웃들과 이야기나 해봅시다. 그들이 당신의 말을 증명해주기만 하면 나도 내 길을 가겠소.
+dlga_fugitive_4:fugitive_5|나는 아무 곳에도 가지 않을 것이오, 친구. 돈을 받고싶거든 오늘 나랑 싸워야만 할거야.
+dlga_fugitive_5:fugitive_fight_start|당신의 저항은 내게 아무런 문제도 되지 않소. 어쨌든 당신의 머리만 있으면 되니까.
 dlga_fugitive_5:fugitive_fight_start.1|나는 돈 따위를 바라고 온게 아니라, 정당한 법을 위해 당신을 처형하러 온 것일 뿐이오!
-dlga_fugitive_5:fugitive_fight_start.2|아, 당신은 당신이 죽는 이유를 알 수 없을 것이오.
+dlga_fugitive_5:fugitive_fight_start.2|아아, 당신은 당신이 죽는 이유도 모른 채 죽게 되겠군.
 dlga_fugitive_fight_start:close_window|죽어라, 개자식!
 dlga_start:music_1|뭘 원하시죠?
 dlga_music_1:music_2|{s3}의 {s9}을(를) 훔친 {s13}이란 자를 찾고 있소. 당신이 내가 찾던 자와 매우 유사하게 생겼군.
