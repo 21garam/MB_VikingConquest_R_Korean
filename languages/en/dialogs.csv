@@ -2732,7 +2732,7 @@ dlga_sigurd_quest_revenge8:close_window|당신의 부하들이 나를 따라오�
 dlga_sigurd_quest_revenge82:sigurd_quest_revenge82_1|스카이파 근처의 농장으로 가보도록 하겠소. 잘 지내시오.
 dlga_sigurd_quest_revenge82_1:close_window|그럼 이제 이 문제로 이야기 할 일은 없겠군.
 dlga_lord_talk:sigurd_story1|나는 당신에 대해서 자세한 이야기를 듣고 싶소.
-dlga_sigurd_story1:lord_pretalk|내 이름은 시구르드, '눈 속의 뱀'이라고도 하지. 나는 아슬라우그와 라그나르 로드브록의 아들이다. 또한, 스젤란드, 스케네, 그리고 다른 여러 땅들의 주인이지. 그 외의 자세한 내용은 다른 사람들에게 물어 보도록, 그들은 내 명성을, 그리고 나에 대해 들어 잘 알고 있을 것이고, 나에 대해 너에게 말해 줄 수도 있겠지.
+dlga_sigurd_story1:lord_pretalk|내 이름은 시구르드, '눈 속의 뱀'이라고도 하지. 나는 아슬라우그와 라그나르 로드브록의 아들이다. 또한, 스젤란드, 스케네, 그리고 다른 여러 땅들의 주인이지. 더 알고 싶은 게 있다면 다른 사람들에게 물어 보도록. 명성이란 다른 사람들이 그 사람을 어떻게 이야기 하는지에 의해 드러나는 것이니까.
 dlga_lord_talk:kennemerjarl_story1|나는 당신에 대해 알고 싶소.
 dlga_kennemerjarl_story1:lord_pretalk|네놈에게 말할 필요는 없지만, 나는 '젊은' 하랄드의 아들이자 흐로리크 왕의 조카야. 내 아버지와 내 삼촌, 그리고 고드릭은 같이 이 땅을 정복했어.^이곳의 왕이자 내 삼촌인 흐로릭에 대해서 말하자면, 그는 프랑키아의 황제 로타르의 봉신이지. 내 삼촌은 정말로 그걸 원하는 것 같더군. 내가 아는 유일한 것은 그가 프랑키아의 땅을 공격하고 싶지 않아한다는 거지. 그러나 나는 그런것까지 신경쓰고 싶지 않아, 때때로 나는 프랑키아를 약탈하기 위한 원정대를 구성하기도 하고, 그곳을 약탈하려는 다른 원정대를 지원한 적도 있지.^^나는 네까짓 놈에게 이런 걸 이야기할 필요까지는 없다고 생각하지만, 그는 프랑키아보다는 일부 프리지아인들의 반란을 더 시급한 문제로 생각하더군. 내 삼촌은 금세 그들을 전부 소탕하겠지, 하지만 여전히 그는 너무 약해.
 dlga_lord_talk:kennemerjarl_1|{s11}, 독싱가에서 손크릭은 당신이 나를 도와줄 수 있을 거라고 나에게 말했소.
@@ -3249,9 +3249,9 @@ dlga_lord_challenge_courtship_rival_2:lord_pretalk|용서하시오, 내가 아�
 dlga_lord_talk:message_from_lover_success|{s3}에게서 전령을 가져왔소.
 dlga_message_from_lover_success:lord_pretalk|고맙소, {playername}! 내 아가씨에게서 온 소식이라느 더 좋구려. 물론, 아가씨의 명예를 위해서 이번 일은 비밀로 해주시오.
 dlga_lord_talk:lord_message_delivered|{s9}으(로)부터의 편지를 가져왔소.
-dlga_lord_message_delivered:lord_pretalk|오? 어디보자... 오오, 좋아! 가져다줘서 고맙소, {playername}. {s9}를 다시 만나게 된다면 내 안부를 전해주시오.
+dlga_lord_message_delivered:lord_pretalk|오, 뭐라고 보냈는지 봅시다... 오오, 좋아!^가져다줘서 고맙소, {playername}. 내가 이 편지를 받았다는 증거로 내 인장을 가져가시오, 그리고 {s9}를 다시 만나게 된다면 내 안부를 전해주시오.
 dlga_lord_talk:lord_message_delivered_enemy|{s9}으(로)부터의 편지를 가져왔소.
-dlga_lord_message_delivered_enemy:close_window|? 어디보자... 오오, 좋아! 가져다줘서 고맙소, {playername}. {s9}를 다시 만나게 된다면 내 안부를 전해주시오.
+dlga_lord_message_delivered_enemy:close_window|오, 뭐라고 보냈는지 봅시다... 흐음, 그렇군...^가져다줘서 고맙소, {playername}. 내가 이 편지를 받았다는 증거로 내 인장을 가져가시오. 고맙소.
 dlga_lord_talk:lord_deliver_message_prisoner|{s11}으(로)부터의 편지를 가져왔소.
 dlga_lord_deliver_message_prisoner:lord_deliver_message_prisoner_2|그게 정말이오? 오, 당신의 호의에 감사드리오, {playername}! 당신은 어두운 곳에 희망과 빛을 가져왔군. 언젠가 이 은혜는 꼭 갚겠소.
 dlga_lord_deliver_message_prisoner_2:lord_deliver_message_prisoner_2a|그것이 제가 할 수 있는 모든 일입니다, {s65}.
