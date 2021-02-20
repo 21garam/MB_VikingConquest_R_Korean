@@ -1861,7 +1861,7 @@ dlga_thora_dialog_romance4:thora_dialog_romance5|(당신은 그녀의 빛나는 
 dlga_thora_dialog_romance5:close_window|여기선 안 돼요, 아버지는 분명 화낼 거에요. 나는 당신을 위해 오늘 밤 당신의 처소로 갈 거에요. 자, 내 아버지 울프를 만나러 가세요.
 dlga_start:close_window.55|지금은 시간이 없소..
 dlga_start:ulf_testigo1|{playername}, 다시 여기서 뭐하는 거요?
-dlga_start:ulf_ormvictory1|{s2}^^{playername}, 내 목숨, 내 농장과 내 딸 토라를 지켜줘서 정말 고맙소, 나는 당신을 위해 충분한 보상을 해주고 싶소, 게다가 오름 스바르티의 무기가 있소, 나는 당신이 이 것들을 가져야 한다고 생각하오.
+dlga_start:ulf_ormvictory1|{s2}^^{playername}, 내 목숨과 농장, 내 딸 토라를 지켜줘서 정말 고맙소. 당신에게 이 보물들로 보상하고 싶소. 여기 오름 스바르티의 무기가 있소. 당신이 이 장비들의 주인이 되어 주시오.
 dlga_start:ulf_dialog|안녕하시오! 내 이름은 울프 토리손이오. 내 야를, 시구르드 라그나르손께서 당신이 올 것을 미리 알려줬소. 내 농장에 온 것을 환영하오. 시구르드의 사람들이 도착할 때까지 당신의 부하들이 여기서 먹고 자며 머무를 수 있게 하겠소. ^^이것 한 가지만 지켜주시오, 내 딸 토라는 건드리지 마시오. 아무도 그 애 근처엔 가지 않았으면 좋겠소.
 dlga_start:ulf_dialog.1|안녕하시오. 내 이름은 울프 토리손이오. 내 야를, 시구르드 라그나르손께서 당신이 온다는 것을 미리 경고했소. 내 농장에 온 것을 환영하오. 시구르드의 사람들이 도착할 때까지 당신의 부하들이 여기서 먹고 자며 머무를 수 있게 하겠소. ^^이것 한 가지만 지켜주시오, 내 딸 토라는 건드리지 마시오. 아무도 그 애 근처엔 가지 않았으면 좋겠소.
 dlga_start:close_window.56|난 지금 무척 바쁘다오. 노예들이 게을러터졌소.
@@ -1897,12 +1897,12 @@ dlga_ulf_dialog122:close_window|이제 그건 더이상 당신 물건이 아니�
 dlga_ulf_dialog1232:ulf_dialog1233|고맙소, 신께서 당신께 보답해 주실 것이오. 내가 당신에게 한 가지만 일러두겠소. 황소목 스벤은 쉽게 볼만한 사람이 아니오. 그러니 그를 대할 땐 늘 무기를 가까이 두시오.
 dlga_ulf_dialog1233:close_window|그러게 하겠소. 나는 이만 내 부하들에게 가서 황소목 스벤이 도착할 때 까지 기다리겠소.
 dlga_ulf_ormvictory1:ulf_ormvictory21|울프, 이 전리품을 미래에 태어날 토라의 아이를 위해 남겨두시오. 그 아이가 어른이 되면 그 때 아버지에 대하여 이야기하시오.
-dlga_ulf_ormvictory1:ulf_ormvictory2|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 받아주면 기쁘겠소.
-dlga_ulf_ormvictory1:ulf_ormvictory2.1|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 오름의 갑옷과 무기도 간직해 주면 기쁘겠소.
+dlga_ulf_ormvictory1:ulf_ormvictory2|울프, 이 돈과 전리품을 미래에 태어날 토라의 아이를 위해 남겨두시오. 받아주면 기쁘겠소.
+dlga_ulf_ormvictory1:ulf_ormvictory2.1|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 나는 오름의 갑옷과 무기에 만족하겠소.
 dlga_ulf_ormvictory1:ulf_ormvictory3|감사하오, 울프. 당신의 선물을 고맙게 받겠소.
 dlga_ulf_ormvictory21:ulf_ormvictory2|당신의 아이가 자신의 아버지가 누구인지, 내가 항상 기억할 것입니다. 안심하시오.
 dlga_ulf_ormvictory2:ulf_ormvictory4|당신은 정말로 관대하군요, 나는 당신에게 총회가 좋게 흘러가기를 바랄 것입니다. 내 집이 당신의 집이라고 생각하시오. 무운을 빌겠소.
-dlga_ulf_ormvictory3:ulf_ormvictory4|운명의 흐름은 당신에게 호의를 베풀기를 빌겠소.
+dlga_ulf_ormvictory3:ulf_ormvictory4|운명의 흐름이 당신에게 호의를 베풀기를 빌겠소.
 dlga_ulf_ormvictory4:close_window|당신이 누구보다 운 좋은 사람이란건 의심의 여지가 없겠소. 여보시오, 친구여. 당신은 위대해 질 운명인가 보오. 최소한 당신을 죽일 사람을 위대한 사람으로 만들만한 사람이오. 내 존경과 감탄을 받아주시오.
 dlga_ulf_testigo1:ulf_testigo2|울프, 나는 당신이 총회에서 나에게 불리한 증언을 하지 않게 당신을 설득하고자 하오.
 dlga_ulf_testigo1:close_window|나는 그저 지나가는 길이었고, 그냥 인사하고 싶었을 뿐이오, 그럼 이만.
@@ -1940,37 +1940,37 @@ dlga_ulf_testigo5:ulf_testigo6|그건 불행한 사건이고, 우리는 이 문�
 dlga_ulf_testigo5:ulf_testigo46|당신 딸의 아이가 당신네 노예들 중 한명의 아이가 아니라는건 확실한거요?
 dlga_ulf_testigo6:ulf_testigo7_1|덴마크의 법에선 강간을 당한 것인지, 자발적인 정사인지에 따라 처분이 다릅니다. 이 차이를 구분하는 것은 매우 중요하지요. 당신이 더 문제를 만들지 않도록 이 남자를 만족시키려면 그에게 4000 페닝을 지불하는게 좋을겁니다. 그러면 그도 당신이 그의 딸과 자는것을 허락할 것입니다.^^{s2}
 dlga_ulf_testigo7_1:ulf_testigo7|멍청한 에길의 말은 들을 필요가 없습니다. 하지만 {reg59?부인:경}, 4000 페닝을 지불하면 울프는 그것에 만족하고 더 이상 당신에게 불리한 증언을 하지 않을 것입니다.
-dlga_ulf_testigo7:ulf_testigo8|오, 돈, 내가 좋아하는 화제로군. 내가 끼어들어야겠어.
+dlga_ulf_testigo7:ulf_testigo8|오, 돈 이야기인가? 내가 제일 좋아하는 화제로군. 내가 끼어들어야겠어.
 dlga_ulf_testigo8:ulf_testigo9|{s2}^^이 사람좀 봐! 저 키는 2미터가 족히 넘겠군.
 dlga_ulf_testigo8:ulf_testigo9.1|당신은 누구시죠?
 dlga_ulf_testigo9:ulf_testigo10|저 남자는..
-dlga_ulf_testigo10:ulf_testigo11|나는 '검은' 오름이고, 울프 토리손의 고객과 그의 농장, 딸을 가져갈 남자다. 나는 엿듣는게 취미는 아니지만, 이 농장에 관련된 모든 것이 지금 나의 재산이 될 것이기 때문에, 나는 나 자신을 소개할 필요가 있다고 생각하는데.
-dlga_ulf_testigo11:ulf_testigo12|오름, 좀 더 자세히 이야기해보시오. 이 농장의 소유자는 어떻게 되는 거요?
-dlga_ulf_testigo11:ulf_testigo13|나는 당신이 누군지 상관 없소, 이것은 사적인 문제요, 저리 가시오.
-dlga_ulf_testigo13:ulf_testigo12|어, 나는 그렇게 생각하지 않아. 이 농장에서 너 때문에 임신한 여자는 내일 내 재산이 될 거니까. 그래서 너는 저 늙은 바보가 아니라 나와 협상할 것이다.
-dlga_ulf_testigo12:ulf_testigo14_1|{playername}, 아버지는 나름대로 자부심을 가지고 있지만, 우리는 당신의 도움이 필요해요. 오름 스바르티는 광포하고 또한 검투사입니다. 그는 나쁜 사람이지만, 아무도 그에게 대항할 수 없습니다. 당신이 우리를 떠난 지 얼마 되지 않아서, 저 남자는 나를 가질 것을 요구했고, 곧 농장에 왔습니다. 그리고 그는 아버지에게 죽음의 결투로 도전했습니다. ^^이대로라면 오름은 아버지를 죽이고 난 뒤 농장에서 나를 데리고 살 것입니다. 아버지는 너무 나이가 드셔서 이 남자를 처리할 수 없어요. 우리를 도와주세요.
-dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^이 남자는 쓰레기야, {reg59?부인:경}. 그는 그들이 가진 모든 것을 도적질하기 위해 늙고 무방비한 농민만 골라서 도전하지, 모든 최악의 경우, 그는 울프의 딸을 노예로 삼을 것이고.. 누구라도 토라의 뱃속에 있는 아이의 운명을 알 수 있겠지.
-dlga_ulf_testigo14:ulf_testigo15|저 놈들은 무시해, 너는 내가 여기에 있어서 운이 좋군 그래, 울프는 그래서 죽기 때문에 총회에서 너에게 불리한 증언을 하지 않을 거야. 더불어 나는 쥐새끼같은 그녀에겐 관심이 없기 때문에 여자는 문제가 되지 않아. 나는 네가 마음에 들었기 때문에, 나는 너에게 절반의 웨어길드만을 요구할 거야. 네가 할 일은 나에게 2000 페닝만을 주면 돼. 너는 뭐라고 대답할 생각이지?
-dlga_ulf_testigo15:ulf_testigo16_1|좋은 제안이네요, 오름. 이 돈을 가지고 문제를 끝내줘서 고맙군요. 나는 울프가 살아서 총회에 참석하지 않아 기쁩니다.
-dlga_ulf_testigo15:ulf_testigo16_2|울프가 내일 죽으면 내 문제는 해결될 겁니다. 그런데 왜 당신에게 페닝을 지불합니까? 농장과 토라의 안녕을 빕니다.
-dlga_ulf_testigo15:ulf_testigo16_3|나는 울프에게 4000 페닝의 웨어길드를 지불하고 끝낼 겁니다. 소녀와 농장의 안녕을 빕니다.
-dlga_ulf_testigo15:ulf_testigo16_4|아니, 난 두렵지 않소, 나는 불의를 싫어하오. 나는 울프를 대신하여 싸우고, 그와 토라와 함께 내 빚을 청산할 거요.
-dlga_ulf_testigo15:ulf_testigo16_4.1|두 문제는 별개의 문제요. 지금은 울프에게 4000 페닝의 내 웨어길드를 지불하고, 나는 여전히 울프를 위해 대신 싸울 것입니다.
-dlga_ulf_testigo16_1:ulf_testigo16|좋아, 좋아, 예쁜 여자와 2000 페닝이 덤이군, 신들은 항상 나를 사랑했지. 좋은 여행과 행운이 있도록, 언젠가 이에 대해 당신이 안 좋은 일을 만들 경우, 우리는 다시 만나게 될 거야.
-dlga_ulf_testigo16_2:ulf_testigo16|음, 좋아, 당신 말이 맞아. 그럼 내 농장에서 떠나 줘. 언젠가 이에 대해 당신이 안 좋은 일을 만들 경우, 우리는 다시 만나게 될 거야.
-dlga_ulf_testigo16_3:ulf_testigo16|좋아, 그의 돈이 내 돈이지. 당신은 정말 바보같군, 어차피 내 돈인데. 농장에, 예쁜 여자와 4000 페닝이 덤이군. 신들은 항상 나를 사랑했지. 좋은 여행과 행운이 있도록, 언젠가 이에 대해 당신이 안 좋은 일을 만들 경우, 우리는 다시 만나게 될 거야.
-dlga_ulf_testigo16_4:ulf_testigo20|{reg59?부인:경}, 당신 제정신이야? 당신 상대의 키와, 당신의 오래된 상처를 생각이나 해 봤어? 이 사람은 살인 전문가야!
-dlga_ulf_testigo20:ulf_testigo21|아니, 더, 그는 광전사야. 그가 광란에 빠지면, {playername}, 당신에겐 살아남을 기회가 없어.
-dlga_ulf_testigo21:ulf_testigo22|나는 확신하오.
-dlga_ulf_testigo22:ulf_testigo23|신들의 가호가 있기를, {playername}. 우리는 항상 당신에게 빚만 지는군요.
-dlga_ulf_testigo23:ulf_testigo24|나는 당신이 이렇게 헌신적으로 나올 것을 기대하지 않았소. 내가 오름 스바르티에 대한 승산이 없는 것을 알고, 나는 매우 감사하게 생각하오. 무슨 일이 있어도 내가 총회에서 당신에게 불리한 증언을 하지 않을 거라 맹세하오. 라그나르손이 이 것을 좋아하지 않겠지만, 여기에 나를 위해 싸우는 당신이 있소. ^^그리고 나는 내 딸 몫의 웨어길드를 요구하지 않겠소. 당신이 보여준 행동은 나에게 빚이 되었소. 고맙소. 우리에게 지금 평화가 있기를.
-dlga_ulf_testigo24:close_window|당신은 정말 바보로군, 이런 영웅은 항상 있었지만, 그들은 육평방 피트 내의 땅에 쓰러지고 말았지. 그렇게 같은 이야기를 원하는 경우, 네 시간이 다가왔다. 나는 농장과 소녀에 더해서 너를 죽일 생각을 하니 너무 즐겁군.
-dlga_ulf_testigo16:ulf_testigo17_1|신은 당신을 저주할 거에요, {playername}. 당신은 나의 아버지의 죽음과 내가 노예가 될 운명에 못을 박는군요.
-dlga_ulf_testigo17_1:ulf_testigo17|너무 무르구나, 토라, 내 딸. 이 쓰레기는 저주할 가치도 없어.
-dlga_ulf_testigo17:ulf_testigo18|이 것은 옳지 않다...
-dlga_ulf_testigo18:close_window|네가 죽고 싶지 않은 경우. {playername} 이(가) 잘 하길 비는 수밖에. 가자, 우리는 여기서 끝을 내자고.
+dlga_ulf_testigo10:ulf_testigo11|그는 '검은' 오름이고, 울프 토리손의 손님이오. 그리고 장차 울프의 농장과 딸의 주인이 될 사람이지.^엿듣는게 내 취미는 아니지만, 이제 이 농장에서 일어나는 모든 일은 내 일이거든. 그래서 직접 내 소개를 하기로 했지.
+dlga_ulf_testigo11:ulf_testigo12|그럼... 오름, 좀 더 자세히 이야기해보시오. 이 농장의 소유자는 어떻게 되는 거요?
+dlga_ulf_testigo11:ulf_testigo13|나는 당신이 누군지 상관 없소. 이것은 사적인 문제요. 저리 가시오.
+dlga_ulf_testigo13:ulf_testigo12|어, 그렇게 말 하면 안되지. 이 농장과 당신이 임신시킨 여자는 내일부터 내 재산이 될 거야. 그러니까 당신이 협상해야 하는 사람은 저 멍청한 늙은이가 아니라 나라구.
+dlga_ulf_testigo12:ulf_testigo14_1|{playername}, 아버지는 나름대로 자부심을 가지고 있지만, 지금은 당신의 도움이 필요해요. 오름 스바르티는 광전사이자 결투사 입니다. 그는 나쁜 사람이지만, 에게 맞설 수 있는 사람은 아무도 없어요. 당신이 이곳을 떠난 지 얼마 되지 않아서 우리 농장에 와서는 나를 가질 것을 요구했고, 아버지는 거절했어요. 그러자 그는 아버지에게 목숨을 건 결투를 신청했어요.^이대로라면 오름은 아버지를 죽이고 난 뒤 농장에서 나를 데리고 살 것입니다. 아버지는 너무 나이가 드셔서 이 남자를 상대할 수 없어요. 우리를 제발 도와주세요.
+dlga_ulf_testigo14_1:ulf_testigo14|{s2}^^쓰레기 같은 남자군요, {reg59?부인:경}. 그는 늙고 약한 농부들만 골라서 결투로 그들이 가진 모든 것을 빼았는 놈이에요. 최악의 경우, 그는 울프의 딸을 노예로 만들 만들려고 할 지도 몰라요... 그렇게 되면 토라의 배 속에 있는 아이의 운명은 아무도 책임질 수 없게 되어 버리는 거에요.
+dlga_ulf_testigo14:ulf_testigo15|저런 말은 무시하자고. 내가 여기 있어서 운이 좋은거야. 울프는 곧 죽을테니 의회에서 당신에 대해 증언할 일도 없을테고, 여자애도 당신의 앞길을 방해하는 문제거리가 되지 않을꺼야. 왜냐하면 내가 그녀와 그녀가 품은 쥐새끼를 돌봐줄 테니까 말이야. 난 당신이 썩 맘에 들어. 값을 반으로 깎아주지! 나에게 2000 페닝만 주면 돼. 어떻게 생각해?
+dlga_ulf_testigo15:ulf_testigo16_1|그렇게 합시다, 오름. 이 돈을 받으시오. 이 문제를 해결해줘서 고맙소.
+dlga_ulf_testigo15:ulf_testigo16_2|울프가 내일 죽으면 내 문제는 저절로 해결될텐데, 왜 당신에게 돈을 줘야 합니까?
+dlga_ulf_testigo15:ulf_testigo16_3|나는 울프에게 4000 페닝의 웨어길드를 지불하기로 했소. 이미 끝난 일이오.
+dlga_ulf_testigo15:ulf_testigo16_4|아니, 난 두렵지 않소. 나는 이런 불의도 싫고, 내가 토라와 울프에게 진 빚을 갚아야겠소. 내가 울프를 대신해 싸울 것이오.
+dlga_ulf_testigo15:ulf_testigo16_4.1|아니, 두 문제는 별개의 문제요. 나는 울프를 대신해 싸울 것이고, 4000 페닝의 웨어길드 역시 지불할 것이오.
+dlga_ulf_testigo16_1:ulf_testigo16|좋아, 좋아. 예쁜 여자와 2000 페닝이 동시에 굴러들어왔군. 신들은 항상 나를 사랑했어. 당신의 즐거운 여행과 행운을 빌지. 그럴 일이 있을지 모르겠지만, 언젠가 우연히라도 다시 만나기로 하자구.
+dlga_ulf_testigo16_2:ulf_testigo16|음, 그래, 당신 말도 맞지. 그럼 이제 내 농장에서 떠나라고. 당신의 즐거운 여행과 행운을 빌지. 그럴 일이 있을지 모르겠지만, 언젠가 우연히라도 다시 만나기로 하자구.
+dlga_ulf_testigo16_3:ulf_testigo16|좋아, 이제 그의 돈이 어차피 내 돈이야. 당신이 그런 바보인게 나에겐 더 좋은 일이지. 농장은 물론 예쁜 여자와 4000 페닝까지가 내 몫이 되겠어. 신들은 항상 나를 사랑했어. 당신의 즐거운 여행과 행운을 빌지. 그럴 일이 있을지 모르겠지만, 언젠가 우연히라도 다시 만나기로 하자구.
+dlga_ulf_testigo16_4:ulf_testigo20|{reg59?부인:경}, 제정신이에요? 키 차이를 봐요. 아니, 당신의 오래된 부상들도 아직 남아있다고요. 저 남자는 살인 전문가에요!
+dlga_ulf_testigo20:ulf_testigo21|아니, 그것보다 더 심각해. 그는 광전사입니다. 그가 광란에 빠지면 말이에요, {playername}, 당신에겐 살아남을 기회가 없다고요.
+dlga_ulf_testigo21:ulf_testigo22|하! 이제 더 물러설 방법은 없어! 한번 내뱉은 말은 다신 주워담을 수 없는 법이지!
+dlga_ulf_testigo22:ulf_testigo23|신들의 가호가 있기를, {playername}. 당신에게 진 빚을 늘 기억하겠소.
+dlga_ulf_testigo23:ulf_testigo24|나는 당신이 이렇게 헌신적으로 나올 것을 기대하지 않았소. 나는 나에게 오름 스바르티에 대한 승산이 없는 것을 알고 있었고, 일이 이렇게 된 것에 매우 감사하오. 무슨 일이 있어도 내가 총회에서 당신에게 불리한 증언을 하지 않을 거라 맹세하오. 비록 라그나르손은 좋아하지 않겠지만, 지금 이 자리에서 나를 도와주 사람은 그가 아니라 당신이지 않소.^그리고 내 딸 몫의 웨어길드는 더 이상 요구하지 않겠소. 당신이 보여준 행동으로 우리 사이의 빚은 다 없던 것이 된 것이오. 고맙소. 드디어 우리에게 평화가 왔구려.
+dlga_ulf_testigo24:close_window|당신이 그런 바보인게 나에겐 더 좋은 일이지. 이런 영웅들은 항상 겨우 여섯 평방 피트의 땅에 눕는 것으로 끝나게 되지. 당신이 그런 이야기를 열망한다니, 드디어 당신의 차례가 온 것이야. 농장과 여자에 더해 당신이 가진 모든걸 가지게 된다니 기쁨을 이루 말 할 수 없군!
+dlga_ulf_testigo16:ulf_testigo17_1|신의 이름으로 당신을 저주합니다, {playername}. 당신은 나의 아버지의 죽음과 내가 노예가 될 운명에 못을 박는군요.
+dlga_ulf_testigo17_1:ulf_testigo17|진정해라, 내 딸, 토라야. 이 쓰레기에게는 저주도 과분하다.
+dlga_ulf_testigo17:ulf_testigo18|옳지 않은 일이야...
+dlga_ulf_testigo18:close_window|네가 죽고 싶지 않다면, {playername} 이(가) 잘 하길 비는 수밖에. 가자, 우리는 여기서 끝을 내자고.
 dlga_start:muletroop_1|영웅적인, {playername}. 무엇이 필요한가요?
-dlga_muletroop_1:muletroop_2|나는 말에 타고 약간 돌아다녀보고 싶소.
+dlga_muletroop_1:muletroop_2|내 말에 물건들을 실고 싶소.
 dlga_muletroop_1:close_window|아무것도 아니오, 그럼 이만.
 dlga_muletroop_2:close_window|항상 당신에게 봉사하겠소.
 dlga_start:sacerdote1_action|무슨 일이오?
@@ -2857,14 +2857,14 @@ dlga_kinghorik_quest_atlieiriksson4:kinghorik_quest_atlieiriksson53|내가 무�
 dlga_kinghorik_quest_atlieiriksson51:kinghorik_quest_atlieiriksson6|{s4}
 dlga_kinghorik_quest_atlieiriksson52:kinghorik_quest_atlieiriksson6|알겠소, 하지만 당신의 목도 걸려있다는 걸 잊지 마시오.
 dlga_kinghorik_quest_atlieiriksson53:kinghorik_quest_atlieiriksson6|너는 너를 보호하려는 손을 밀어내지 않는 것이 좋을 것이야. 나는 너를 살해의 위험으로부터 지켜줄 수 있는 유일한 사람이고, 만약 네가 나를 협박하는 경우. 나는 혼자가 되는 한이 있더라도 너를 죽일 것이다.
-dlga_kinghorik_quest_atlieiriksson6:lord_pretalk|좋아, 중요한 건 편지가 불타버린 거지. 너는 총회를 시작하기 전에 할 일을 마쳤나? 다른 일은?
-dlga_kinghorik_ulf_testigo1:kinghorik_ulf_testigo2|물어보자, 너는 내 왕국의 야를들과 친밀한 관계를 구축했나?^^     --현재 좋은 관계:^{s2}--
-dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo31|내가 할 만큼 했소.
-dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo32|아니, 나는 더 많은 시간이 필요하오. 내가 가서 야를들과 친밀한 관계를 구축하겠소.
-dlga_kinghorik_ulf_testigo32:lord_pretalk|좋아, 준비가 되면 너는 돌아와야 할 것이야. 총회가 곧 시작할 것이고, 그건 오래 걸리지 않을 것이다.
-dlga_kinghorik_ulf_testigo31:lord_pretalk|음, 솔직히 나는 별로 놀라지 않았어, 총회에 대한 준비가 되면 나에게 오도록.
-dlga_kinghorik_thething1:kinghorik_thething2|알겠다, 이번 일은 지금 모든 신들의 손에 달려 있다. 총회는 몇일 동안 계속될 거고, 나는 그 동안 네가 이 나라의 사람들의 인기와 명성을 얻어두는 걸 충고해 두지.
-dlga_kinghorik_thething2:lord_pretalk|나는 준비가 끝나면 너에게 전령을 보내겠다. 그동안 준비하고 있도록.
+dlga_kinghorik_quest_atlieiriksson6:lord_pretalk|좋아, 중요한 건 편지가 불타버렸다는 것이지. 총회를 시작하기 전에 해야 할 일들을 마무리 하고 오시오.
+dlga_kinghorik_ulf_testigo1:kinghorik_ulf_testigo2|그렇게 되었다니 기쁘군. 내 왕국의 야를들과의 관계도 좋게 만들어 두었소?^^     --현재 좋은 관계:^{s2}--
+dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo31|할 만큼 했소.
+dlga_kinghorik_ulf_testigo2:kinghorik_ulf_testigo32|아직이오. 시간이 더 필요하오. 야를들과 친밀한 관계를 구축하러 가보겠소.
+dlga_kinghorik_ulf_testigo32:lord_pretalk|좋아, 준비가 되면 다시 돌아오시오. 그러나 총회는 곧 시작될 것이니 너무 오래 걸리지 않는 것이 좋을 것이오.
+dlga_kinghorik_ulf_testigo31:lord_pretalk|좋아, 솔직히 그대의 효과적인 일처리에 놀랐소. 총회에 참가할 준비를 마치면 알려주시오.
+dlga_kinghorik_thething1:kinghorik_thething2|알겠소. 이제 모든 일은 신들의 손에 달렸소. 총회는 몇일 동안 계속될 것이오. 나는 그대에게 총회가 진행되는 며칠을 이 나라 사람들의 인기와 명성을 얻는 기회로 이용해야 한다는 것을 충고하겠소.
+dlga_kinghorik_thething2:lord_pretalk|총회에서 그대가 필요한 때가 오면 전령을 보내도록 하겠소. 준비해 두시오.
 dlga_jarlbjornnegtruce_1:jarlbjornnegtruce_2|좋은 소식이오, 우리는 이제 그들과 평화를 협상하지만, 미래에 우리는 다시 돌아와 웨식스의 치명적인 약점을 찌를 것이오. 당신은 나와 내 형제들에게 좋은 봉사를 마쳤소. 당신에게 내가 우정과 금으로 보상할 수 있는 기회를 주시오.
 dlga_jarlbjornnegtruce_2:jarlbjornnegtruce_3|내 몫은 필요 없습니다. 당신은 라스버스에게 돌아가야 하오.
 dlga_jarlbjornnegtruce_3:lord_pretalk|음.
@@ -5621,7 +5621,7 @@ dlga_mayor_investment_possible:mayor_pretalk.1|{s9}
 dlga_mayor_investment_possible:mayor_investment_advice.1|문제 없소, {reg59?부인:경}. 당신은 이 도시의 영주이고, 이 도시에서 당신을 감히 막을 사람은 아무도 없을 것이오.
 dlga_mayor_investment_possible:mayor_investment|글쌔, 당신은 이 곳 영주인 {s4}와(과) 당신과의 관계를 생각해봐야 할 것이오, 그의 심기를 거스르면서까지 당신에게 농장을 팔 만한 용기가 있는 사람은 적어도 이 도시엔 없을 것 같소.
 dlga_mayor_investment_possible:mayor_pretalk.2|글쌔, 솔직하게 말하겠소, 내 생각에는 당신이 농장을 구매하려 하기 전에, 우리가 당신에 대해서 좀 더 알게 되었으면 하고 있소. 우리는 이방인이 도시에 들어와서 갑자기 농장을 구매하는 것을 달갑게 생각하지는 않고 있소.
-dlga_mayor_investment_possible:mayor_investment_advice.2|좋은 제안이오, {reg59?부인:경}. 우리와 이 도시의 사람들은 당신을 신용할 수 있는 사람이라는 것을 잘 알고 있소, 그리고 나는 당신이 필요로 하는 토지를 판매할 만한 사람을 찾을 수 있을 거라고 생각하오. .
+dlga_mayor_investment_possible:mayor_investment_advice.2|좋은 제안이오, {reg59?부인:경}. 우리와 이 도시의 사람들은 당신을 신용할 수 있는 사람이라는 것을 잘 알고 있소. 그리고 나는 당신이 필요로 하는 토지를 판매할 만한 사람을 찾을 수 있을것 같소.
 dlga_mayor_investment_advice:investment_choose_enterprise|당신이 명심해야 할 몇 가지 이야기가 있소, 능력 있는 장인은 항상 부족하오, 그래서 나는 당신이 이 곳에 한 개 이상의 농장을 마련하지는 못할 것이라고 생각하고 있소. 그리고 당신의 이익을 내기 위해서는 비교적 근처에 판매처가 존재하고, 주변에서 원자재를 싸게 구매할 수 있는 생산품을 만드는 농장을 짓는 것이 좋을 것이오. 당신은 어떤 종류의 농장을 만들길 원하시오?
 dlga_investment_choose_enterprise:investment_summary|나는 풍차와 제분소를 원하오, 그곳에서는 밀로 빵을 만들 수 있지.
 dlga_investment_choose_enterprise:investment_summary.1|나는 에일 양조장을 원하오, 그곳에서는 보리로 에일 맥주를 만들 수 있지.
