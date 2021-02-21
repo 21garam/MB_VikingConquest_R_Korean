@@ -940,18 +940,18 @@ dlga_companion_questions_beda8:companion_questions_beda9|두아르-안-에네즈
 dlga_companion_questions_beda8:companion_questions_beda92|알겠소. 어디로 갔는지 알 것 같군.
 dlga_companion_questions_beda9:companion_recruit_backstory_response|음? 나는 두아르가 누군지 모르겠소. 잘 들으시오, 나는 여기에 머무를 수 없소. 당신 어머니가 나에게 당신을 따라가라고 부탁했으니, 나는 당신과 함께 갈 것이오.
 dlga_companion_questions_beda92:companion_recruit_backstory_response|그거 다행이군! 잘 들으시오, 나는 여기에 머무를 수 없소. 당신 어머니가 나에게 당신을 따라가라고 부탁했으니, 나는 당신과 함께 갈 것이오.
-dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn1|함대에 합류하기 위해서 내 동료를 죽여야만 했는데. 이젠 법관까지 데려가란 말이오?
-dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn2|총회에서 분명 누군가를 보냈겠지. 당신은 아닌 것 같군.
-dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn6|의사 양반, 음? 당신이라면 환영이오. 이제 길을 따라서 바이킹 선단에 합류합시다.
-dlga_companion_questions_asbjorn2:companion_questions_asbjorn2_1|{s2}^^총회가 내가 당신에게 합류하라고 결정을 내렸소. 허나 나도 기쁘게 따를 것이오. 당신에게 이래라저래라 하는게 내 일은 아니지만,, 당신을 앵글리아의 선단에 합류시켜야만 하오. 그때까지만이라도 당신을 동료로서, 부하들이 필요로 하는 의사로서 있기를 바라오.
-dlga_companion_questions_asbjorn2_1:companion_questions_asbjorn1|함대에 들어가려고 동료까지 죽였소. 근데 이젠 법관까지 대동해서 다니라고?
+dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn1|나는 내 동료를 죽여야만 했고 전쟁을 위한 함대에도 참여해야 하오. 이젠 법관까지 데려가란 말이오?
+dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn2|총회에서 나에게 누군가를 보냈을 것이라는 생각은 했소만, 그게 당신이 될 줄은 몰랐소.
+dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn6|의사란 말이오? 좋소, 당신이라면 환영이오. 이제 길을 따라서 바이킹 선단에 합류합시다.
+dlga_companion_questions_asbjorn2:companion_questions_asbjorn2_1|{s2}^^총회의 결정에 따라 당신에게 합류하게 된 것은 맞지만, 나도 기쁘게 따를 것입니다. 당신을 통제하는 것이 내 관심사는 아니지만, 일단 당신을 앵글리아의 선단에 합류시켜서 잉글랜드로 보내야 하죠. 그렇지만 그 뒤 부터는 당신도 저를 당신의 부하들을 치료하기 위해 필요한 의사이자 동료로써 봐 주면 좋겠군요.
+dlga_companion_questions_asbjorn2_1:companion_questions_asbjorn1|나는 내 동료를 죽여야만 했고 전쟁을 위한 함대에도 참여해야 하오. 이젠 법관까지 데려가란 말이오?
 dlga_companion_questions_asbjorn2_1:companion_questions_asbjorn6|선택의 여지가 없군. 길을 따라서 바이킹 선단에 합류합시다.
-dlga_companion_questions_asbjorn1:companion_questions_asbjorn3|{s2}^^쉽지 않은 일이라는 것은 이해하오. 하지만 총회가 곧 법이고, 그것이 모든 덴마크와 왕국의 균형을 유지해주고 있소. 총회의 관할이 없으면 어떻게 될 것 같소? 호릭 국왕과 야를 시구르드 사이에 전쟁이 터지겠지. 누가 알겠소. 이 문제 때문에 아직도 총회가 유지되고 있는 걸지도 모르고. 덴마크에게 있어 가장 중요한 것은 명예와 신뢰요. 그리고 저 두 가지를 만족시키는 것은 딱 두 가지. 돈 아니면 피요. 이 땅을 나누고 있는 두 이웃의 친구와 원수의 경계는 아주 가늘다오. 만약 총회가 존재하지 않는다면, 아주 작은 불평 하나로도 수백 명이 매일같이 죽어나갈 것이오.
+dlga_companion_questions_asbjorn1:companion_questions_asbjorn3|{s2}^^그 일이 쉽지 않은 일이었다는 것은 이해합니다. 하지만 총회가 곧 법이고, 그것이 덴마크는 물론이고 모든 왕국 사이의 균형을 유지하는 역할을 하고 있습니다. 총회의 재판권이 없었다면 무슨 일이 일어났겠 습니까? 호릭 왕과 야를 시구르드 사이에 전쟁이 일어나지 않았겠어요? 총회의 결정에도 불구하고 그런 일이 일어날지도 모르지만 말입니다. 이런 일들이 처음 있는 일도 아니었을 것 입니다.^명예와 진실은 덴마크에서 아주 중요하고, 이 두 가지에 대한 그들의 요구사항을 만족시킬 수 있는 유일한 두 가지 방법이 웨어길드를 지불하거나 피를 흘리는 것 입니다. 같은 땅을 공유해야만 하는 이웃 사이에서 친구와 원수의 경계는 아주 얄팍합니다. 만약 총회가 존재하지 않는다면, 아주 사소한 불평거리 하나로도 매일같이 수백 명이 죽어나가게 되겠죠.
 dlga_companion_questions_asbjorn3:companion_questions_asbjorn4|전쟁을 피하는 것이 중요하다고 해도 총회는 날 전혀 공평하게 대하질 않았소.
 dlga_companion_questions_asbjorn3:companion_questions_asbjorn6|괜찮소. 길을 따라 바이킹 선단에 합류하도록 합시다.
 dlga_companion_questions_asbjorn4:companion_questions_asbjorn5|{s2}^^총회의 결정이 모두를 만족시킬 수는 없소. 감히 말하건대 가끔 총회의 판단은 그저 공정함을 위한 것이 아닐 때도 있다오. 저들의 임무는 질서와 균형을 바로잡는 것이오. 서로가 서로를 죽이는 대신 총회에 의뢰해 분쟁을 끝내는 것.
 dlga_companion_questions_asbjorn5:companion_questions_asbjorn6|길을 따라 바이킹 선단에 합류합시다.
-dlga_companion_questions_asbjorn6:companion_recruit_signup|우린 분명 좋은 친구가 될 수 있을 거요. 가능한 한 빨리 리베의 항구로 가서 항무부장에게 선단에 가입할 수 있는지 물어봅시다.
+dlga_companion_questions_asbjorn6:companion_recruit_signup|우린 분명 좋은 친구가 될 수 있을 겁니다. 가능한 한 빨리 리베의 항구로 가서 항구 관리인에게 선단에 합류할 수 있는지 확인해 봅시다.
 dlga_companion_recruit_backstory_responsebodo:companion_questions_bodo1|어떻게 여기까지 왔소?
 dlga_companion_recruit_backstory_responsebodo:companion_questions_bodo2|보도... 바이킹 급습에서 살아남은 이가 또 있소?
 dlga_companion_recruit_backstory_responsebrunhild:companion_recruit_signup|프리지아는 나에게도 잘 대접하지 않았소, 특히 켄네머의 야를이라는 작자는 더. 난 이 땅을 떠날 거요. 나와 함께 합시다.
@@ -2164,8 +2164,8 @@ dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^더 이상
 dlga_prisionero_interrogation22th2:prisionero_interrogation22|내가 이야기할 것은 더 없소.
 dlga_start:close_window.59|명령을 기다리고 있소.
 dlga_start:close_window.60|당신을 상대할 시간이 없소. 잘 지내시오.
-dlga_start:harald_meeting1|안녕하시오, 선장! 내일 정오에 우리는 노섬브리아의 해안에 도착할 것이오, 때문에 당신에게 이 임무의 세부사항을 전달하고 이 함대를 괴롭히는 문제에 대해 이야기할 생각이오.
-dlga_start:sven_comprapr|남자들은 건강한 치아와 단단한 근육을 갖추고, 강합니다. 여자는 건강하고 둘은 자매입니다. 그들은 내가 가지고 있는 마지막 노예이며 그래서 그들은 패키지로 판매할 생각이오, 그러나 나는 당신에게 할인 혜택을 줄 것이고, 당신이 900 페닝을 지불하면 그들은 당신 소유요.
+dlga_start:harald_meeting1|선장 여러분, 안녕하시오! 내일 정오쯤이면 우리는 노섬브리아의 해안에 도착할 것이고, 그에 앞서 몇가지 이야기를 나누고자 회의를 소집했소. 이제 우리가 해야할 임무의 세부 사항들과 우리의 함대를 좀먹고 있는 문제들에 대해 이야기 할 것이오.
+dlga_start:sven_comprapr|남자는 건강한 치아와 탄탄한 근육을 갖춘 강한 사람이고, 여자도 건강합니다만, 둘은 남매이오. 그들이 내가 가진 마지막 노예이기 때문에, 나는 둘을 함께 팔기를 원하오. 한 명씩 따로 팔고 싶진 않소. 대신 당신에겐 할인을 해 주겠소. 900 페닝만 주면 모두 당신에게 팔겠소.
 dlga_start:svenlair_1|당신은 누구고, 무엇을 원합니까?
 dlga_start:revenge_kingmen|안녕하시오, {playername}! 안녕하시오, 에길, 형제여! 우리는 당신의 서신을 받고 여기에 왔소. 우리는 우리가 부대에 합류하기를 바라오.
 dlga_start:close_window.61|신께서 우릴 지키셨도다!
@@ -2175,35 +2175,35 @@ dlga_revenge_kingmen3:revenge_kingmen4|나에게도 기쁜 일이오. 적당한 
 dlga_revenge_kingmen4:revenge_kingmen5|전쟁을 하더라도 그 시작이 나는 아닐 것이오. 약속하겠소.
 dlga_revenge_kingmen4:revenge_kingmen5.1|황소목 스벤은 나에게 많은 해악을 저질렀소. 그건 약속할 수 없소.
 dlga_revenge_kingmen5:close_window|왕꼐서도 그의 바람이 지켜지길 바라고 있소. 우리는 이제 농장으로 진입할 것이오. 내 부하들은 배고픔과 갈증에 굶주렸소.
-dlga_harald_meeting1:harald_meeting21|나는 이 만남에서 오랜 시간 만나지 못한 어머니를 만나는 데에 특별히 관심을 가지고 있소.
+dlga_harald_meeting1:harald_meeting21|나도 이 회의에 특별한 관심을 가지고 왔소. 나는 오랬동안 내 어머니에 대한 소식을 기다려 왔단 말이오.
 dlga_harald_meeting1:harald_meeting3|(아무 말도 하지 않습니다.)
-dlga_harald_meeting21:harald_meeting3|나는 당신이 우리의 손님으로서 이 것에 대해 말하고, 궁금해할 수 있다 생각하오. 하지만 먼저 우리는 가장 시급한 문제를 해결해야 하오.
-dlga_harald_meeting3:harald_meeting4|노섬브리아에서 우리의 덴마크인 형제는 강력하며, 꼭두각시 왕을 통해 나라를 지배할 수 있을 것이오. 이에 대해 작은 반란이 있었으나, 이러한 지역 반란은 빠르게 진압되었고. 아무것도 심각하지 않소, 우리가 가진 마지막 정보는 라그나르의 아들이 남쪽으로 진군해 머시아의 스노팅햄으로 알려진 장소를 점령한 것이오. 그러나 머시아의 왕에 의해 잘 점령되지는 않은 것으로 보인다오. 그는 웨식스의 왕에게 지원을 받아 그의 군대와 함께 그곳을 포위했소. 우리의 또다른 임무는 요르빅에 가서 그의 형제를 지원하는 것이고, 라스버스는 또 다른 세력이 라그나르의 아들을 막기 위해 연합하여, 라그나르의 아들에게 힘든 전쟁이 될 것을 우려하고 있소. 그곳에서 남쪽으로 이동하면 앵글리아와 색슨이 있을 것이고, 약간의 행운이 따른다면 우리는 그들의 왕을 죽이고 남쪽으로 가는 길을 열 수 있을 것이오. 당신은 내년에 부자가 되어 당신의 부인과 당신의 자식들에게 돌아가기를 원하지 않소?
-dlga_harald_meeting4:harald_meeting4_1|나는 그렇게 되기를 바라오, 나는 먹여살릴 많은 식구가 있소.
-dlga_harald_meeting4_1:harald_meeting4_2|{s2}^^당신은 세 아내와 스물 명의 자식이 있고, 그 생각을 해야 하오!
-dlga_harald_meeting4_2:harald_meeting5_1|그리고 나는 그 아이들 중 시종의 사생아가 몇 명인지 확인하오! (농담)
-dlga_harald_meeting4_2:harald_meeting5_2|이 문제는 심각하오. 얼마나 많은 병력이 머시아와 웨식스에게 있소?
-dlga_harald_meeting4_2:harald_meeting5_3|좋은 계획이오, 하랄드. 내 부하들은 전장으로 가길 원하오!
-dlga_harald_meeting4_2:harald_meeting5|좋소.
+dlga_harald_meeting21:harald_meeting3|당신이 우리의 손님에게 그 문제에 대해 듣고 싶어 하는 것은 이해하고 있고, 아마도 곧 이야기 하게 될 것이오. 하지만 먼저 우리는 가장 시급한 문제를 해결해야 하오.
+dlga_harald_meeting3:harald_meeting4|노섬브리아에 있는 우리의 덴마크인 형제들은 점점 강력해지고 있소. 그들은 꼭두각시 왕을 이용해 왕국을 통제하고 있소. 이에 대해 앵글리아 인들이 일으키는 작은 반란들이 있으나, 이러한 반란들은 지역적이고, 금새 진압되고 있는 상황이오. 즉, 이런 문제들은 심각한 문제가 아니라는 것이오.^우리가 가진 마지막 정보에 따르면 라그나르의 아들들은 남쪽으로 진군해 머시아의 스노팅햄으로 알려진 장소를 점령했다고 하오. 그러나 머시아의 왕은 좀처럼 받아들이지 못하고 있는 것 같소. 그는 웨식스의 왕에게 지원을 받아 그의 군대와 함께 그곳을 포위했소. 우리는 라그나르의 아들들이 곤란한 지경에 빠진것은 아닌지 우려하고 있고, 그들을 돕기 위한 우리의 임무는 요르빅으로 가서 라그나르의 또 다른 아들인 라스버스의 군대에 합류하는 것이오. 그러면 우리는 그와 함께 그의 형제들을 도우러 갈 것이오. 거기에서 부터 우리는 앵글족과 색슨족과 싸우기 위해 남쪽으로 진군할 것이오. 약간의 운이 따라서 우리가 그들의 왕을 죽여서 남쪽으로 가는 길을 열 수만 있다면, 약탈의 문 또한 열리게 되는 것이오. 그러면 당신들은 올해 안에 부자가 되어서 당신들의 부인과 아이들이 있는 곳으로 돌아갈 수 있소.
+dlga_harald_meeting4:harald_meeting4_1|꼭 그렇게 됐으면 좋겠군. 나는 먹여살려야 하는 입이 너무 많소!
+dlga_harald_meeting4_1:harald_meeting4_2|{s2}^^그 생각은 세병의 부인과 스무명의 아이들을 가지기 전에 생각했어야지!
+dlga_harald_meeting4_2:harald_meeting5_1|내 생각엔 그 아이들 중에 당신 종들의 사생아도 꽤 될 것 같은데! (농담)
+dlga_harald_meeting4_2:harald_meeting5_2|진지하게 고민해야 할 문제군. 머시아와 웨식스에게 얼마나 많은 병사들이 있소?
+dlga_harald_meeting4_2:harald_meeting5_3|좋은 계획이오, 하랄드. 내 부하들이 전장에서 맨 앞에 서겠소!
+dlga_harald_meeting4_2:harald_meeting5|동의하는 바이오.
 dlga_harald_meeting5_1:harald_meeting5|{s2}.
-dlga_harald_meeting5_2:harald_meeting5|그 것은 말하기 어렵소, 우리가 가진 정보는 상인이나 여행자에게 오고, 그들은 수천 명의 병력을 이야기하오. 그러나 그것은 중요하지 않소. 앵글인과 색슨인은 완벽하게 왕에 의해 길들여진 약한 자들이고, 그건 여자를 공격하는 것만큼 쉬운 일이오.
-dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^좋아, 좋아, 우리는 여기에 본격적으로 아첨하는 자가 있고, 그가 주인의 호의를 얻기 위해 웅크려서 아첨하는 자가 항상 보이오.
-dlga_harald_meeting5_4:harald_meeting5|나는 아첨꾼이 아니오, {playername}. 이제 본격적으로 진지한 이야기로 들어가죠.
-dlga_harald_meeting5:harald_meeting6|{s2}^^모든 것이 명확하고, 우리의 목표가 근처에 있지만 황소목 스벤의 문제를 언급하는 것을 그만두지는 않을 것 같군. 지금 대장 올라프가, 우리에게 매우 심각한 정보를 가져왔네. 가져오게, 올라프
-dlga_harald_meeting6:harald_meeting7|{s2}^^나는 빙빙 돌려 말하지 않기를 원하오. 황소목 스벤은 하랄드 하랄드손과 명령을 같이 하지 않으려 하오. 첫 번째 기회에, 그는 하랄드를 죽이고 명령을 탈취할 것이오. 우리가 만약 육지에 도착하지 못한다면, 어쩌면 그의 부대와 그의 마음이 바뀔 수도 있소.
-dlga_harald_meeting7:harald_meeting8|나는 경비 근무 순환을 하고 있었소, 우리가 육지에 도착했을 때, 나는 스벤과 죽음의 결투로 도전할 것이오. 황소목 스벤은 미치광이지만, 그는 위험한 미치광이요.
-dlga_harald_meeting8:harald_meeting8_1|좋은 말이오, 당신은 내 전폭적인 지원을 받을 것이오. 만약 당신이 준비가 되어있지 않은 상태에서 그의 선박을 공격할지라도.
-dlga_harald_meeting8_1:harald_meeting9|당신은 내 지원도 받게 될 것이오, 하랄드. 그 남자, 스벤은 매우 위험하오.
-dlga_harald_meeting9:harald_meeting11|나는 오랜 시간동안 기다려 왔소! 내 어머니는?
-dlga_harald_meeting9:harald_meeting11.1|당신은 내 지원을 받을 것이오, 그러나 나는 내 어머니에 대하여 요구하고 싶지 않소.
-dlga_harald_meeting9:harald_meeting10_3|내가 생각하기에 함대 사령관으로는 황소목 스벤보다는 당신이 더 나은 것 같소.
-dlga_harald_meeting10_3:harald_meeting11|알겠소. 당신은 당신 어머니처럼 황소목 스벤의 노예가 될 수 있소. 난 당신을 경멸하오, {playername}, 당신은 내게 수치심을 줬고, 그러나 총회는 우리를 강제로 함께 일하도록 두었소. 내가 당신에게 말하고 있을 때 당신은 듣지 않았소.
-dlga_harald_meeting11:harald_meeting12|그녀는 황소목 스벤과 여행하고 있소. 그녀는 그의 세이드로서, 까마귀의 영혼을 받아 오딘의 말씀을 말하는 것이오. 그녀는 신의 손길이 닿은 여성이기 때문에, 모두가 그녀를 존경하고 있소. 황소목 스벤은 신의 손길이 닿은 아이를 만들려는 욕심에 그녀와 결혼했소, 그러나 그녀는 늙어서 더 이상 아이를 가질 수 없었소. 만약 그녀가 당신의 어머니라면, 기억이 하루도 가지 않을 것이고, 당신을 기억하거나 생각하지도 않을 것이오.
-dlga_harald_meeting12:harald_meeting13|당신의 어머니가 지금 황소목 스벤에 대한 역할을 끝낸 것 같소, 나는 당신의 일이 좋지 않게 되었을 때를 대비하겠소.
+dlga_harald_meeting5_2:harald_meeting5|단정하여 말하긴 어렵소. 우리가 가진 정보는 상인이나 여행자에게 들은 것이오. 그들은 그저 수천 명의 병력이라고만 이야기 할 뿐이오. 그러나 그들의 숫자는 별로 중요한 문제가 아니오. 앵글인과 색슨인은 완전히 왕에게 길들여져 있는 약해 빠진 자들이오. 그들을 상대하는 일은 집안일이나 하던 여자들을 공격하는 것만큼 쉬운 일일 것이오.
+dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^이런, 이런, 오늘의 아첨꾼이 등장했군. 우두머리의 호의를 얻기 위해 어디든 끼고 싶어 하는 사람은 항상 있기 마련이지.
+dlga_harald_meeting5_4:harald_meeting5|나는 아첨꾼을 그냥 놔두지 않소, {playername}. 이제 본격적으로 진지한 이야기를 해 봅시다.
+dlga_harald_meeting5:harald_meeting6|{s2}^^모든 것들이 명확하고 우리의 목표 역시 가까이 왔지만, 황소목 스벤에 대한 문제는 멈출 줄 모르고 튀어나오고 있소. 여기 있는 올라프 선장이 우리에게 매우 심각한 정보를 가져왔소. 말해 보시오, 올라프.
+dlga_harald_meeting6:harald_meeting7|{s2}^^빙빙 돌려 말하지 않겠소. 황소목 스벤은 하랄드 하랄드손과 지휘권을 나눌 생각이 없소. 기회만 있다면, 그는 하랄드를 죽이고 지휘권을 빼앗을 것이오. 확신할 순 없지만, 아마도 우리가 육지에 도착할 때 그가 일을 벌일지도 모르오. 어쩌면 내가 그의 파벌에서 돌아섰다는 이유로 마음을 바꿨을지도 모르지만 말이오.
+dlga_harald_meeting7:harald_meeting8|남은 여행 동안에는 경계 근무를 강화시키도록 하겠소. 우리가 육지에 도착하면, 나는 스벤에게 죽음의 결투로 도전할 것이오. 그런 생각을 하다니, 황소목 스벤이 미치광이인 것은 알았지만 이렇게 위험한 미치광이인 줄은 몰랐소.
+dlga_harald_meeting8:harald_meeting8_1|좋은 생각이오. 나도 당신을 최대한 지원하겠소. 스벤이 준비가 부족한 틈을 타 그의 배를 공격하기로 결정한다고 해도 말이오.
+dlga_harald_meeting8_1:harald_meeting9|당신은 내 지원도 받게 될 것이오, 하랄드. 스벤, 그 자는 너무 위험하오.
+dlga_harald_meeting9:harald_meeting11|나도 충분히 기다린 것 같소! 내 어머니에 대해선 아시오?
+dlga_harald_meeting9:harald_meeting11.1|당신은 내 지원도 받을 것이오, 그러나 일단 내 어머니에 대해서 물어보고 싶소.
+dlga_harald_meeting9:harald_meeting10_3|내가 생각하기에 황소목 스벤이 당신보다 이 함대의 사령관으로 더 나은 것 같소.
+dlga_harald_meeting10_3:harald_meeting11|당신의 의견은 알겠소. 당신도 당신 어머니처럼 황소목 스벤의 노예가 될 수 있소. 당신은 정말 혐오스럽군, {playername}. 당신은 내게 모욕감을 주고 있소. 그러나 총회는 우리를 강제로 함께 일하도록 결정한 바 있소. 당신이 나에게 한 말은 듣지 않은 것으로 하겠소.
+dlga_harald_meeting11:harald_meeting12|황소목 스벤과 여행하고 있는 여자가 한 명 있소. 그녀는 그의 세이드로서, 까마귀의 영혼을 받아 오딘의 말씀을 전하고 있소. 그녀에게 신의 손길이 닿았기 때문에, 그녀는 모두의 존경을 받고 있소. 황소목 스벤은 신의 손길이 닿은 아이를 낳길 바라며 그녀와 결혼까지 했소. 그러나 그녀는 늙었고, 그녀의 배는 가물러 버려서 더 이상 아이를 가질 수 없었소. 만약 그녀가 당신의 어머니가 맞다고 해도, 내 생각엔 그녀는 당신을 기억하지도 못 할 것이오. 그녀는 하룻밤 사이의 기억조차 가질 수 없는 저주에 걸려있소.
+dlga_harald_meeting12:harald_meeting13|당신의 어머니는 이제 황소목 스벤을 섬기고 있는 것 같아 보이는구려. 최악의 상황이 닥치더라도 이 문제에 대처할 준비가 되어 있기를 바라오.
 dlga_harald_meeting13:harald_meeting13_1|나는...
-dlga_harald_meeting13_1:harald_meeting13_2|--모든 주변 사람들의 갑작스런 소란과 소리가 당신의 대답을 묻어버렸습니다. 전사는 회의장에서 뜨겁게 달아올랐고, 그의 눈은 공포로 물들었습니다.--
-dlga_harald_meeting13_2:harald_meeting13_3|헤르시르 하랄드, 선생! 황소목 스벤이 우리를 공격중입니다! 함대 중 절반이 우리에게 돌격하고 있습니다! 토르가 우리에게 가호를 내리기를, 스벤이 우리를 속였습니다!
-dlga_harald_meeting13_3:close_window|{s3}^^선장, 당신의 선박에 돌아가서 선원들을 지휘하시오. 황소목 스벤의 공격에 대한 대가를 치루게 할 것이오. 우리가 이 전투에서 패배할 경우 당신은 황소목 스벤의 배신에 대해 라스버스 라그나르손에게 알려야 하오. 그대에게 행운이 있기를! 이제, 돌격하라!
+dlga_harald_meeting13_1:harald_meeting13_2|--당신의 주변은 갑작스런 소란과 사람들의 고함 소리로 뒤덥혔고, 당신의 대답은 묻혀버리고 말았습니다. 한 전사는 회의에 끼어듭니다. 그는 흥분해 있으며, 그의 눈은 당혹감에 질려있습니다.--
+dlga_harald_meeting13_2:harald_meeting13_3|주군, 헤르시르 하랄드! 황소목 스벤이 우리를 공격중입니다! 함대 중 절반이 우리에게 돌격하고 있습니다! 토르가 우리에게 가호를 내리기를, 스벤이 우리를 속였습니다!
+dlga_harald_meeting13_3:close_window|{s3}^^선장, 당신의 선박에 돌아가서 선원들을 지휘하시오. 황소목 스벤의 공격에 대한 대가를 치루게 할 것이오. 만일 우리가 이 전투에서 패배할 경우 황소목 스벤의 배신에 대해 라스버스 라그나르손에게 알려야만 한다는 것을 기억해 두시오. 그대에게 행운이 있기를! 이제, 전투로!
 dlga_start:svenfinal_ld1|{playername}! 내 주인이 당신이 나에게 올 것이라고 조언했소, 황소목 스벤은 리딩엄을 점령하고 충성을 맹세한 그의 많은 부하들, 주로 덴마크인들을 데리고 있소. 그는 전설적이오. 나는 당신이나 당신의 부하들이 그들의 신발 아래에 쓰러지는 것을 원하지 않소.
 dlga_svenfinal_ld1:svenfinal_ld11|나는 두려워하지 않소, 그것은 복수의 시간이오!
 dlga_svenfinal_ld1:svenfinal_ld2|그와 함께 있는 여성에 대해 알고 있습니까?
