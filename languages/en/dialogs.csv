@@ -501,13 +501,13 @@ dlga_comp_prison_break:comp_prison_break1a|내 부대에 자유롭게 합류해�
 dlga_comp_prison_break1:close_window|오, 신께 경의를! 그나저나, 발에 묶인 족쇄 때문에 어디에도 갈 수가 없소. 나가려면 간수에게서 어떻게든 열쇠를 구해야 할 것이오.
 dlga_comp_prison_break1a:close_window|당신을 볼 수 있다니 신께 감사를! 장비를 챙기자마자 부대에 합류하소.
 dlga_start:drunk_response|뭘 쳐다보는 거요?
-dlga_start:drunk_response.1|뭘 쳐다보는 거요?
-dlga_player_duel_response:close_window|쓰레기같은 놈 같으니.
+dlga_start:drunk_response.1|나를 보고 있는 거요?
+dlga_player_duel_response:close_window|쓰레기같은 놈 같으니...
 dlga_player_duel_response:close_window.1|내가 쓰러지는 것보다는 낫지 않겠소?
 dlga_drunk_response:drunk_fight_start|잘 모르겠군. 개가 한 마리 있는 것 같은데.
 dlga_drunk_response:drunk_fight_start.1|실례했소. 사과를 받아주시겠소?
-dlga_drunk_fight_start:close_window|내 목을 잘라 여기에 장식되게 해주지!
-dlga_drunk_response:drunk_player_high_renown|내가 누군지는 알아보겠소?
+dlga_drunk_fight_start:close_window|네 목을 잘라 여기에 장식되게 해주지!
+dlga_drunk_response:drunk_player_high_renown|내가 누군지는 아시오?
 dlga_drunk_player_high_renown:drunk_fight_start|알게 뭐야?
 dlga_drunk_player_high_renown:drunk_player_high_renown|음, 실은, 알겠소, 알아보겠소, 당신이 누군지 모를 리가 있소? 자비로우신 {reg59?부인:경}. 제발 용서해주시오, 너무 취했던 것 같소. 바로 여기를 떠나도록 하겠소.
 dlga_drunk_player_high_renown:drunk_fight_start.1|네놈이 싸움을 원한다면야 그렇게 해주마!

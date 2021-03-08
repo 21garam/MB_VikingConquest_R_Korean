@@ -1926,7 +1926,7 @@ qstr_Poor|가난
 qstr_Average|보통
 qstr_Rich|풍족
 qstr_Very_Rich|매우 풍족
-qstr_Mead_Hall|Mead Hall{***}
+qstr_Mead_Hall|미드 홀(장원)
 qstr_A_manor_lets_you_res|장원을 건설하면 해당 마을에서 부대를 쉬게 할 수 있습니다. 그리고 머무르는 동안은 부대 유지비용이 절반으로 줄어듭니다.
 qstr_Mill|풍차
 qstr_A_mill_increases_vil|풍차는 마을의 번영율을 5% 향상시킵니다.
