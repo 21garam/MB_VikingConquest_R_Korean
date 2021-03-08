@@ -934,7 +934,7 @@ dlga_companion_questions_beda5:companion_questions_beda62|스벤에게는 관심
 dlga_companion_questions_beda61:companion_questions_beda62|황소목 스벤은 문제투성이요. 거기다 당신이 올비르라는 그의 형제를 죽여서 당신을 잡겠다고 집착하고 있소. 당신의 어머니가 올비르가 당신의 손에 죽을 것이라는 걸 예언했는데, 그래서 스벤은 올비르를 당신이 있는 곳으로 보낸 그의 주인 시구르드 라그나르손에게도 엄청난 불만을 품었소.^^제가 스벤에 대해 아는 것은 없지만, 전령은 그가 한 때 대단한 지도자였다고 했소. 하지만 내가 본 자는 두려움을 이용해 부하들의 충성심을 유지하는 한 명의 남자뿐이었소.
 dlga_companion_questions_beda62:companion_questions_beda63|당신 어머니는 가끔 기억이 돌아와서 자기가 누구인지 기억하기도 하오. 그리고 {reg59?딸:아들}인 당신 얘기를 묻곤 했소. 그녀가 말하길 당신은 중대한 일을 맡을 운명이라 했소. 그리고 당신의 운명은 스벤을 보낸 노른 저 너머에 있다고 했지. 그녀가 유일하게 후회하는 것은 그저 자신의 끝이 다가왔기에 당신을 더 이상 볼 수 없다는 것 뿐이었다고 말했소.^^그녀는 나보고 달아나라고 했었소. 그리고 당신이 태어났을 때가 가장 행복한 순간이었다는 사실을 전해달라고 하더군. 그리고 말하기를 그녀가 더 이상 당신을 보지 못하게 된다고 해도 항상 당신 곁에 있을 것이라고 전해달라고 했소.
 dlga_companion_questions_beda63:companion_questions_beda7|어머니는 어디 계시오?
-dlga_companion_questions_beda63:companion_questions_beda7.1|어머니는 늘 그렇듯 허약한 여자였소. 스벤은 어디 있소?
+dlga_companion_questions_beda63:companion_questions_beda7.1|어머니는 항상 부드러운 사람이었소. 스벤은 어디 있소?
 dlga_companion_questions_beda7:companion_questions_beda8|내가 도망쳐 나왔을 때는 우리는 그렌트브리지 근처에 있었소. 하지만 그건 이미 당신을 만나기 2주 전의 이야기요. 황소목 스벤의 소식을 마지막으로 들은 것은 그가 왕을 섬기기 위해 군사를 모아 선단으로 이끌고 있을 때였소.
 dlga_companion_questions_beda8:companion_questions_beda9|두아르-안-에네즈로 가려는 속셈인가?
 dlga_companion_questions_beda8:companion_questions_beda92|알겠소. 어디로 갔는지 알 것 같군.
@@ -2069,10 +2069,10 @@ dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|한번 생각해보�
 dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|당장 일을 할 남자들을 투입하겠소, 대장. 모든 것이 제대로 돌아간다면 2주 내로 작업이 끝날 것이오.
 dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|대장, 어떻게 말을 해야 할 지 모르겠군... 당신은 충분한 돈을 가지고 있지 않은 것 같소. 최소한 10000 페닝이 필요하오.
 dlga_lairparty_action:lair_captain_pretalk|고맙소, {reg59?부인:경}. 당신의 부하들의 사기와 충성심이 높아질 것이오.
-dlga_start:dcprisoner_join1|{reg59?부인:경}, 확실히 당신은 나를 기억하지 못하나 보오. 고문받지 않았을 때의 내 얼굴은 많이 다르게 보이나 보군. 나는 당신이 전투 후에 심문을 한 남자, 올라프 선장이오.
-dlga_dcprisoner_join1:dcprisoner_join2|사실대로 말하면, 내 패배 이후, 스벤이 나에 대해 점을 봤는데, 그 점에서 나는 용병 일을 하게 되지만, 나쁜 운이 있다고 여겨지게 되어서 쫓겨나게 되었소. -- 나는 그 후, 선술집에서 술과 여자를 전전하며 보냈소. 당신은 가장 어려운 시기에 나에게 동정을 베풀어 준 유일한 사람이기 때문에 나는 당신을 찾고 있었소, 나는 당신을 위해 싸우고 싶고, 당신이 나를 받아들인다면 나는 당신에게 충성을 바쳐 싸울 것을 맹세하겠소.
+dlga_start:dcprisoner_join1|아마도 당신은 나를 기억하지 못하나 보오, {reg59?부인:경}. 고문받지 않은 내 얼굴이 많이 다르게 보이긴 할 것이오. 나는 당신이 독싱가 전투 후에 심문을 한 남자, 올라프 선장이오.
+dlga_dcprisoner_join1:dcprisoner_join2|사실대로 말하면, 독싱가에서의 패배 이후 스벤은 나를 내쳤소. 그 이후로 난 주인 없이 떠돌았소. 그동안 용병이 되었지만 내 운은 그렇게 좋지 않았소.^나는 내가 받았던 모든 돈을 벌꿀주와 여자를 사는 데 써 버렸소. 당신은 내가 가장 어려운 시기에 동정을 베풀어 준 유일한 사람이오. 내가 당신을 찾아온 이유는 이 것이오. 나는 당신을 위해 싸우고 싶소. 당신이 나를 받아들인다면 나는 당신에게 충성을 바쳐 싸울 것을 맹세하겠소.
 dlga_dcprisoner_join2:dcprisoner_join3|경험 많은 베테랑은 언제든지 환영이오.
-dlga_dcprisoner_join2:dcprisoner_join4|아니, 당신은 밀정이 분명하오, 떠나시오.
+dlga_dcprisoner_join2:dcprisoner_join4|안되오. 당신은 밀정이 분명하오, 떠나시오.
 dlga_dcprisoner_join3:close_window|감사하오, 저는 남자로서 용감하게, 충성을 바칠 것을 맹세하겠소.
 dlga_dcprisoner_join4:close_window|저는 당신의 거절을 이해하오. 당신이 원하는 대로, 당신은 나를 다시는 볼 수 없을 거요.
 dlga_start:olvir_dialog|{s2}^^빌어먹을, '하얀 머리의' 올비르, 당신은 우리를 이길 수 있을 거라고 생각하나? 나는 당신이 현명한 사람이라고 들었었는데 말이야.
