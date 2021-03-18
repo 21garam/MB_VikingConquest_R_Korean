@@ -4869,10 +4869,10 @@ dlga_frisianship_mer_4c:frisianship_mer_5|{s2}^^내 생각에는 그저 그들�
 dlga_frisianship_mer_5:frisianship_mer_6|뭐요? 우리는 짙은 안개 속에 숨어서 도망칠 수도 있잖소, 이보시오, 선장, 당신은 목숨이 아깝지 않소?
 dlga_frisianship_mer_5:frisianship_mer_6.1|제발, 진정하시오, 친구. 당신 생각은 잘못됐소, 우리는 빨리 도망가야만 하오!
 dlga_frisianship_mer_6:close_window|{s1}^^스벤이 우리를 발견했소! 그들이 방향을 선회해 우리에게 오고 있소! 소용없겠지만 일단 움직여 보겠소! 빨리 돛줄을 잘라! 오, 젠장, 이건 아무 소용이 없을 거야. 누구라도 우리를 도와주시오!
-dlga_start:petro_leader_1|안녕하시오! 내 이름은 오베토의 공작 페트루스 디아즈요, 그리고 나는 아스투리아스의 왕 알데폰소를 위해 봉사하고 있는 있는 사람이오. 여기 있는 이 사람은 실로고, 그는 갈리시아의 공작이오, 그리고 군딘살보, 그는 아마이아의 공작이고, 칸타브리아에서 왔소. 우리는 당신이 여기에 데리고 온 많은 병력과 선박들을 보고 놀랐소. 당신에 대해서 좀 더 알 수 있겠소?
+dlga_start:petro_leader_1|안녕하시오! 내 이름은 오베토의 공작 페트루스 디아즈요, 그리고 나는 아스투리아스의 왕 알데폰소를 위해 봉사하고 있는 있는 사람이오. 여기 있는 이 사람은 파럼의 갈리시아에서 온 실로이고, 다른 사람은 칸타브리아의 아마이아에서 온 군딘살보이오. 우리는 당신이 여기에 데리고 온 많은 병력과 선박들을 보고 놀랐소. 당신에 대해서 좀 더 알 수 있겠소?
 dlga_petro_leader_1:petro_leader_3|내 이름은 {playername}이라고 하오, 나는 라그나르의 아들들을 대신하여 당신과 협상하러 왔소.
-dlga_petro_leader_1:petro_leaderwessex_4|내 이름은 {playername}이라고 하오. 웨식스의 왕, 에셀드는 그의 왕국을 지키기 위해 나를 당신들에게 보냈소..
-dlga_petro_leader_3:petro_leader_31|나는 그 것을 이야기하지 않겠소.
+dlga_petro_leader_1:petro_leaderwessex_4|내 이름은 {playername}이라고 하오. 웨식스의 왕, 에셀드는 그의 왕국을 지키기 위해 나를 당신들에게 보냈소.
+dlga_petro_leader_3:petro_leader_31|내 생각은 그렇지 않소...
 dlga_petro_leader_31:petro_leader_32|라그나르의 아들들은 강력한 힘을 가진 것으로 잘 알려진 사람들이지. 당신은 그들에게서 어떤 제안을 받아 가지고 왔소?
 dlga_petro_leader_32:petro_leader_33|{s2}^^좋소, 우리는 당신이 마음대로 지껄이는 것을 들어주겠지만, 그 말에 따라서 우리는 당신을 죽일 수도 있소.
 dlga_petro_leader_33:petro_leader_34|라스바르스 라그나르손은 당신이 웨식스로 와서 그의 형제를 돕기를 원하오
@@ -4933,12 +4933,12 @@ dlga_petro_leaderwessex_39:petro_leaderwessex_40|당신은 누구보다 내가 �
 dlga_petro_leaderwessex_40:petro_leaderwessex_41|보도의 말은 다른 증거나 증인보다 내게 훨씬 더 많은 것을 의미하오. 그러나, 우리는 이에 대해 판단하거나 심판할 수 있는 위치에 있지 않소. 그건 오직 왕의 권한이오. 실로, 만약 당신이 배신자라면 당신 스스로를 지키기 위해 신에게 기도해야 할 거요, 왕은 당신을 용서하지 않을 것이오. 그리고 지금, 우리가 웨식스로 출발하는 동안 당신은 투옥될 것이고, 증인으로 {playername}와(과) 함께 아스투리아스로 전송될 것이오.
 dlga_petro_leaderwessex_41:petro_leaderwessex_42|좋소, 나는 실로와 함께 그에 대해 증언하기 위해 아스투리아스로 가겠소.
 dlga_petro_leaderwessex_41:petro_leaderwessex_42.1|미안하오, 나는 아스투리아스로는 갈 수 없소. 나는 앵글리아에서의 내 일을 아직 끝마치지 못했소.
-dlga_petro_leaderwessex_42:petro_leaderwessex_43|내 생각에 나는 아무 곳에도 가지 않을 것이오. 내가 틀리지 않을 경우, 수평선에서 나고 있는 저 연기는 당신의 선박에서 나는 것이오. 아마도 덴마크인들이 온 것 같군, 어쩌면 지금 당신은 내 전술을 이해하고 있을 지도 모르지.
-dlga_petro_leaderwessex_43:petro_leaderwessex_44|신들이시여! 아니, 내 하나님! 두 함대가 서로 싸우고 있소. 이 연기는 불화살에서 나오고 있는 거요.
-dlga_petro_leaderwessex_44:petro_leaderwessex_45|당신은 독수리 같은 눈을 가지고 있소, 칸타브리아인이여. 덴마크인들이 우리들의 동맹을 파멸시키기 전에 우리는 그들을 도와야 할 것이오. 실로, 우리는 당신의 병력들을 원하오. 그들은 우리의 함대에서 가장 좋은 선원들이오.
-dlga_petro_leaderwessex_45:petro_leaderwessex_46|당신은 나를 무덤으로 보내기 위해 비난하기 전에 그걸 생각했어야 했소. 내 병력들은 나와 함께 싸울 거요. 글쌔, 덴마크인들의 선박이 더 많아 보이고, 나는 항상 승자와 동맹을 하지.
-dlga_petro_leaderwessex_46:petro_leaderwessex_48|실로, 당신은 지옥에 갈 배신자요! 나는 모든 이들에게 명령하겠소, {playername}, 당신의 선박으로 돌아가 덴마크인들을 막으러 가시오. 군딘살보가 당신과 함께 갈 것이고, 우리의 함대는 당신과 합류할 것이오. 나는 해안을 방어하기 위해 이 곳에 남아 있겠소, 그러면 전황이 좋지 않더라도 후퇴할 여지가 남아있게 될 거요.^^ 어서 출발하시오!
-dlga_petro_leaderwessex_48:close_window|당신은 미쳤소! 우리는 항복해야 하오. 나와, 내 병사들을 위해서! 갈리시아를 위해서!
+dlga_petro_leaderwessex_42:petro_leaderwessex_43|아무도 이곳을 빠져나갈 수 없을 것이오. 내가 착각한 것이 아니라면, 수평선에서 나고 있는 저 연기는 당신의 선박에서 나는 것이오. 아마도 덴마크인들이 온 것 같군. 이제 당신은 내 전술이 무엇인지 이해하고 있을 지도 모르지.
+dlga_petro_leaderwessex_43:petro_leaderwessex_44|신들... 아니, 신이시여! 두 함대가 서로 싸우고 있소. 이 연기는 불화살에서 나오고 있는 거요.
+dlga_petro_leaderwessex_44:petro_leaderwessex_45|당신은 독수리 같은 눈을 가지고 있구려, 칸타브리아인이여. 덴마크인들이 모든걸 파괴하기 전에 우리는 우리의 동맹을 도와야 하오. 실로, 우리에게는 당신의 병력이 필요하오. 그들은 우리의 함대에서 가장 좋은 선원들이오.
+dlga_petro_leaderwessex_45:petro_leaderwessex_46|그런 생각은 나를 무덤으로 보낼 비난을 하기 전에 했어야 했소. 내 병력들은 나와 함께 싸울 거요. 어디보자... 덴마크인들이 더 많은 선박을 몰고 왔고, 나는 항상 승자와 동맹을 하지.
+dlga_petro_leaderwessex_46:petro_leaderwessex_48|이 배신자 쓰레기 자식! 나는 모든 이들에게 명령하겠소. {playername}, 당신의 선박으로 돌아가 덴마크인들을 막아주시오. 군딘살보가 우리의 함대를 끌고 당신과 함께 갈 것이오. 나는 해안을 방어하기 위해 이 곳에 남아 있겠소, 그러면 전황이 좋지 않더라도 후퇴할 여지가 남아있게 될 거요.^^어서 출발하시오!
+dlga_petro_leaderwessex_48:close_window|당신은 미쳤소! 우리는 항복해야 하오. 내 병사들이여, 내게 오라! 갈리시아를 위해서!
 dlga_start:trainer_intro_1|좋은 날씨요, {reg59?아가씨:청년}. 이 땅에 새로운 모험과 기회를 잡으러 온 것 같아 보이는 구만. 그렇다면 스스로는 지킬 줄 알아야 한다는 점을 잊지 말도록 하게나.
 dlga_trainer_intro_1:trainer_intro_2|조언 감사합니다. 여긴 훈련장 같아 보이는군요. 저도 여기서 훈련할 수 있나요?
 dlga_trainer_intro_2:trainer_intro_3|물론이오. 난 베테랑 병사이지... 평생을 전쟁터에서 보냈네만, 지금은 이곳에서 젊은 수련생들을 훈련시킨다네. 전투 기술에 대해 궁금한게 있다면 부담 같지 말고 물어보게나.
