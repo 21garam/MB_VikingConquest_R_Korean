@@ -637,7 +637,7 @@ str_npc6_2ary_morality_speech|{playername} -- you may choose to {s21}, but I wou
 str_npc7_2ary_morality_speech|I think it was a brave decision you took to {s21}. There is no shame in finding a way to avoid the spilling of blood.
 str_npc8_2ary_morality_speech|I think it was a brave decision you took to {s21}. There is no shame in finding a way to avoid the spilling of blood.
 str_npc9_2ary_morality_speech|Warlord, I am dismayed that you {s21}. A {reg59?gentlewoman:gentleman} such as yourself should exhibit the highest standards of honor at all times.
-str_npc10_2ary_morality_speech|{reg59?Sister:Brother} -- I can't say I like to see us {s21}. If you treat your men well, and they'll repay with interest.
+str_npc10_2ary_morality_speech|{s21}은 결코 좋게 봐줄 수 없소, {reg59?자매여:형제여}. 당신이 당신의 병사들을 잘 대해주면 그들 역시 당신에게 보답할 것이오. 이자까지 쳐서 말이오.
 str_npc11_2ary_morality_speech|I'm not very convinced about decision you took to {s21}. I was not taught that this was a very honorable solution. I'm confused, but maybe it was just an isolated incident, right?
 str_npc12_2ary_morality_speech|I think it was a brave decision you took to {s21}. You have my support in this, as no damages the reputation to live to fight another day.
 str_npc13_2ary_morality_speech|Warlord -- you should not let it bother you that you {s21}. Armies are made to do their leaders' bidding, and hardships are part of a soldier's life.
