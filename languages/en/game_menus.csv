@@ -1460,6 +1460,7 @@ menu_hunting|당신은 {s1}와 맞닥뜨렸습니다. 어떻게 하시겠습니�
 mno_hunt_go|사냥을 나섭니다.
 menu_after_hunt|{s1}
 menu_slave_hideout|당신은 어떤 소굴을 발견했습니다. 어떻게 하시겠습니까?
+mno_not_now|지금은 때가 아니다.
 menu_set_goal_trigger_new_game|{s1}
 menu_set_goal_message_complete_goal|{s1}
 mno_new_goal|새로운 목표를 설정합니다.

@@ -3287,30 +3287,30 @@ str_set_goal_lord|강력한 영주
 str_set_goal_king|강인한 왕
 str_set_goal_expand|안정된 왕국
 str_set_goal_custom_hint|자유 목표 설정
-str_set_goal_raider_hint|Raid towns. Hunt down villagers.^No one will be safe from you.^Use fast ships to travel to distant lands^and your refuge to have a safe home.
-str_set_goal_warrior_hint|You wish to be known as a great warrior.^Fight in tournaments. Protect villagers.^Attack bandits and escort caravans.^You will find plenty of work in towns^and villages, but never forget that your^glory is born on the fields of battle.
-str_set_goal_lord_hint|The common life is not for you.^You wish to become a nobleman,^lead great armies and to be known^as lord and master of your own^lands.
-str_set_goal_king_hint|There is no limit to your ambitions.^Fight for glory, power and gold.^You will make many enemies^and must be ready to face threats^from all four corners of the land!
-str_set_goal_expand_hint|A small fort on a hill is not enough^for you. You desire to be known as the^High King. Sharpen your sword and gather^your troops, for war is coming!
-str_view_goal_hint_renown|Renown: you desire fame above all.^Win battles and competitions. Complete^quests. As your renown grows, you will^be able to command more troops,^gain the respect of the nobility^and hire better mercenaries!^
-str_view_goal_hint_reputation|Reputation: be a hero or a villain.^Your actions in the world will influence^how people see you. It will influence your^relation with other factions and even your^chances of marriage.^
-str_view_goal_hint_army|Army: you wish to balance your^troops. Better troops are also more^expensive to train and keep. Try to^form a army with 25% heavies (high^level units).^
-str_view_goal_hint_marry|Marriage brings the possibility^of feasts, competitions and a^extra helpful hand with kingdom management.^It will also boost your right to rule!^
-str_view_goal_hint_right_to_rule|Right to rule is very important for^kings. It will influence the way other^factions will see you and your diplomatic^relations.^
-str_view_goal_hint_wealth|Wealth: war is expensive. Wages, food,^training, new equipment, healers, wine...^be ready for it!^
-str_set_goal_trigger_new_game|A new world full of adventure awaits you!^^If this is your first time playing^Viking Conquest Sandbox^then check out the SET A GOAL presentation^to learn more about the game^and to see what you can do next!^^(Open Character Report,^Statistics, Choose a Goal)
+str_set_goal_raider_hint|마을을 습격하고, 부락민들을 사냥하십시오. 누구도 당신으로부터 안전할 수 없습니다. 빠른 배를 타고 먼 땅으로 여행하며 안전한 피난처를 마련하십시오.
+str_set_goal_warrior_hint|당신은 위대한 전사로 알려지길 원합니다. 연회의 토너먼트 경기에서 싸우십시오. 부락민들을 보호하십시오. 도적떼를 물리치고 상단을 호위하십시오. 도시와 마을에서도 다양한 할 일들을 찾을 수 있겠지만, 당신에게 필요한 영광과 영애는 전장에서 태어난다는 것을 잊지 마십시오.
+str_set_goal_lord_hint|평범한 삶은 당신을 위한 것이 아닙니다. 당신은 귀족으로서 위대한 군대를 이끌고 당신이 소유한 땅들의 주인이자 군주로서 알려지길 바랍니다.
+str_set_goal_king_hint|당신의 야망엔 끝이 없습니다! 영광과 권력, 금을 위해 싸우십시오. 당신에겐 많은 적들이 생길 것이며, 당신의 영토 사방에서 쇄도할 위협에 맞설 준비를 해야만 합니다!
+str_set_goal_expand_hint|언덕 위의 작은 요새는 당신에게 충분하지 않습니다. 당신은 왕중의 왕이 되길 원합니다. 검에 날을 세우고 군대를 소집하십시오. 전쟁이 다가오고 있습니다!
+str_view_goal_hint_renown|명성: 당신은 무엇보다도 명성을 원합니다. 전투와 경쟁에서 승리하십시오. 임무를 완수하십시오. 당신의 명성이 높아질수록, 더 많은 군대를 지휘할 수 있고 당신의 고귀함은 존중받을 것이며, 더 좋은 용병들을 모집할 수 있을 것입니다!^
+str_view_goal_hint_reputation|평판: 영웅 또는 악당이 될 수 있습니다. 당신이 하는 행동은 세상 사람들이 당신을 어떤 방식으로 보는지에 대해 영향을 미칠 것 입니다. 그것은 당신과 다른 국가들 사이의 관계는 물론, 당신의 결혼 가능성에 대해서도 영향을 미칠 것 입니다.^
+str_view_goal_hint_army|군대: 당신은 당신 부대의 균형을 맞추고 싶습니다. 더 좋은 군대를 훈련시키고 유지하는 데에는 더 많은 비용이 필요합니다. 군대의 25% 이상을 숙련병(고등급 병사)으로 구성해 보십시오.^
+str_view_goal_hint_marry|결혼은 연회와 경기를 개최하는 것을 가능하게 하고, 왕국을 경영하는 데 다양한 도움을 줍니다. 결혼은 또한 당신의 통치권에 대한 정통성을 높힐 수 있는 수단입니다.^
+str_view_goal_hint_right_to_rule|통치권에 대한 정통성은 왕에게 매우 중요합니다. 정통성은 다른 왕국과 세력들이 당신과 당신의 외교적 관계를 보는 방식에 영향을 미칠 것입니다.^
+str_view_goal_hint_wealth|부: 전쟁은 값비싼 대가를 치룹니다. 급료, 음식, 훈련, 장비, 치료사, 와인...^미리 준비하십시오!^
+str_set_goal_trigger_new_game|모험으로 가득한 새로운 새계가 여러분을 기다립니다!^^만약 당신이^바이킹 컨퀘스트의 샌드박스 모드^를 처음으로 플레이 하는 것 이라면, 다음의 '목표 선택'을 확인하고 게임에 대해 배우십시오. 그리고 당신이 다음에 무엇을 할 수 있는지 확인하십시오.^^(개인 메뉴를 열고^통계에서 '목표 선택'을 확인하세요.)
 str_set_goal_already_completed|(당신은 이미 이 목표를 달성했습니다!)
 str_set_goal_you_are_a_noble|(당신은 이미 귀족이나 용병이며^당신은 스스로의 맹세를 포기할 수 없습니다!)
 str_set_goal_open_button_label|목표 선택
 str_set_goal_open_button_label2|목표 현황 확인
-str_set_goal_complete_goal|당신은 당신이 설정한 목표를 달성했습니다!^^크게 어려운 일은 아니었을 것입니다!^^^당신의 성취에 기뻐하세요^그리고 다음 목표를 설정하세요!
-str_set_goal_half_way_there|당신은 여전히 목표를 달성하기 위해 노력해야만 합니다!
+str_set_goal_complete_goal|당신은 당신이 설정한 목표를 달성했습니다!^^당신이 이룰 수 없는 일은 없습니다!^^^당신의 성취에 기뻐하세요^그리고 다음 목표를 설정하세요!
+str_set_goal_half_way_there|당신에겐 여전히 목표를 달성하기 위한 많은 일들이 남아있습니다!
 str_set_goal_almost_there|당신은 목표에 매우 가까이 다가왔습니다!
 str_set_goal_custom_reward|자유 목표 완료: 특별한 보상은 없습니다!
 str_set_goal_raider_reward|약탈자 목표 완료: 용병 부대가 당신에게 합류합니다!
 str_set_goal_warrior_reward|전사 목표 완료: 당신의 검술 기술이 향상되었습니다!
-str_set_goal_lord_reward|영주 목표 완료: 당신이 속한 왕국의 친절한 영주들은 당신과 함께 기뻐해주었고, {reg0?고디:사제}가 당신의 부대에 합류하고 당신의 부대원들이 맛있는 버터를 만들 수 있게 되었습니다!
-str_set_goal_king_reward|왕 목표 달성: 용병 부대가 당신에게 합류하고, 당신은 특별한 책 한권을 얻었습니다!
+str_set_goal_lord_reward|영주 목표 완료: 당신이 속한 왕국의 우호적인 영주들이 당신에게 깊은 인상을 받았습니다. {reg0?고디:사제}가 당신의 부대에 합류했고, 소를 한 마리 얻었습니다. 소는 당신의 부대원들이 맛있게 먹을 수 있는 버터를 만들 수 있게 해줍니다!
+str_set_goal_king_reward|왕 목표 달성: 용병 부대가 당신에게 합류했고, 당신은 특별한 책 한권을 얻었습니다!
 str_set_goal_expand_reward|안정화된 왕국 목표 달성: 온 왕국이 당신과 함께 기쁨을 나누었고, 당신에게 귀한 검 한 자루를 선물했습니다!
 str_com_companions|동료: 
 str_com_view_companions|동료 확인
@@ -3359,7 +3359,7 @@ str_formation_feature|진형 설정
 str_performance_feature|성능 설정
 str_battle_size_text|전투에 나오는 인물들의 숫자의 최대 한계치입니다. 만약 당신이 전투에서 속도 저하가 발생하는 경우, 이 옵션의 수치를 낮춰 주세요.^또한, 이 옵션의 수치를 높임으로서 좀 더 큰 규모의 전투를 즐길 수도 있습니다. 이 설정과 그래픽 품질 관련 설정은 게임 중 ESC 키를 사용해 설정을 바꿀 수 있습니다.
 str_this_setting_affects_all|플레이어 외의 게임 내의 다른 모든 인물들도 이 효과가 적용될 것입니다.
-str_game_concepts_tutorial|^^By now, you have some experience with Viking Conquest. If this is your first game, we recommend making yourself familiar with some of the game concepts. You will be directed to a page that presents them now.^^You can always come back to this page on the campaign map. Simply click the 'Notes' button and from there the 'Game concepts' button.
+str_game_concepts_tutorial|^^이제, 당신은 바이킹 컨퀘스트에 대한 경험이 생겼습니다. 만약 이 것이 당신의 첫 번째 게임 경험이라면, 이 게임의 몇 가지 개념들을 익히고 익숙해 질 것을 추천합니다. 게임 플레이에 유용한 개념들을 소개하는 페이지를 보여드리겠습니다.^^당신은 언제든 이 페이지를 볼 수 있습니다. 캠페인 맵에서 '여행 기록' 버튼을 클릭하고 거기에서 '게임 컨셉' 버튼을 클릭하여 조회할 수 있습니다.
 str_wounds|부상:
 str_blood_loss|출혈:
 str_quantity_bandit_parties|도적 부대:
