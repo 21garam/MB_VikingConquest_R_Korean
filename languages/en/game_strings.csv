@@ -787,7 +787,7 @@ str_npc12_home_intro|Perhaps you didn't know this about Heidabyr, if that intere
 str_npc13_home_intro|내 동포들은 노르웨이인의 땅을 지나 더 북쪽에 사는 스베아인들이오. 그들은 전사이자 강인한 사람들로 다른 사람들을 지배할 운명을 타고났소.
 str_npc14_home_intro|오, 케이지얼! 에리우 기슭에 이런 멋진곳이 있소. 로마인들이 하이버니아라고 불렀던 무메인의내지는 뮌스터의 이 지방은 두말할 것 없이 가장 시적이고 아름다운곳이오.
 str_npc15_home_intro|저기 저 작은 정착지가 보이시오? 저곳이 흐로달란드이오.
-str_npc16_home_intro|Oh my God! That is Witan Ceaster. I was born near here, in a village, but my parents could not take care of me and gave me to the monks of Witan ceaster.
+str_npc16_home_intro|오 신이시여! 위탄 세스터가 보이는군! 나는 이 근처 마을에서 태어났소. 하지만 나의 부모님은 여행자였고, 나를 돌볼 수 없었소. 그래서 어린 나를 위탄 세스터의 한 수도사에게 주었지.
 str_npc1_home_description|내 이름인 '카이오'는 여러 세대에 걸쳐 내려온 이름이오. 처음 이 이름을 가졌던 사람은 '위리오'의 후손으로, 장벽을 방어하고 지키던 사람의 손자였소.
 str_npc2_home_description|사람들은 데인족을 보고 피에 굶주린 족속들이라고 하지만 궂이 말하자면, 그들은 무역에 좋은 머리도 타고났어요. 그들은 사람들을 도자기나 천, 가죽을 만드는 해안을 따라 오르락 내리락 하게 만들죠.^참, 리베는 리베의 여자들로도 유명해요! 음.. 그러니까... 무슨말인지 알죠?
 str_npc3_home_description|지금은 켄네머가 덴마크인의 요새지만 옛날부터 그랬던건 아니에요. 사실, 덴마크인들이 오기 전에 이곳은 프랑크인들이 다스렸어요. 그들은 그들의 종교, 그리스도교를 강요했고, 영주들은 너무 통제가 심했어요. 그래서 덴마크인들이 왔을 때 우린 딱히 꺼릴게 없었죠. 새 지배자들은 더 관대하고, 우리가 경의를 표하기만 하면 더 많은 자유를 허락해요.
@@ -803,7 +803,7 @@ str_npc12_home_description|Heidabyr is not the oldest site in Danmark. Actually 
 str_npc13_home_description|데인족과 노르웨이인이 서쪽에서 번성한것 처럼, 내 동족들은 슬라브족과 그 너머의 땅 뿐만 아니라 미클랑가르드와의 교역까지 목표로 삼고 노력을 쏟고 있소.
 str_npc14_home_description|이곳은 이 땅 최고의 노래와 음유시인들의 고향이라오. 심지어 이 나라의 어린 소년, 소녀들 마저 바깥 세상의 음유시인들 보다 좋은 가수라고 할 수 있소. 많은 사람들이 여전히 옛 전통을 따르고 오래된 신들을 경배하고 있소. 그리고 뮌스터는 에리우 땅에서 가장 부유한 곳이지요.
 str_npc15_home_description|흐로달란드는 노스비거의 작은 왕국들 중 하나이오. 나의 주인 코닝굴 에이리크가 다스리는 곳이라오. 나는 그를 잘 알고있소. 그는 거칠고 폭력적이며 그의 왕국의 독립 외에는 그 어떤것에도 관심이 없는 사람이오. 그래서 그는 한 명의 왕에 의해 다스려지는 통일된 노스비거를 위한 '산발머리' 하랄드 하프다나르손에 대한 서약을 좋아하지 않소.
-str_npc16_home_description|Witan Ceaster is the capital of the Saxons of West Seaxe. The king of West Seaxe is now the most powerful man in Britannia or Englaland, as our land is called. With Mierce weakened, West Seaxe is the only kingdom that can stop the Danish.
+str_npc16_home_description|위탄 세스터는 웨섹스의 색슨인들의 수도이오. 웨섹스는 브리타니아나 잉글랜드라고 불리우는 이 땅에서 가장 강력한 왕국이오. 머시아의 힘이 약해지기 시작하면서 웨섹스는 덴마크를 막아낼 수 있는 유일한 왕국이 되었소.
 str_npc1_home_description_2|그 때부터 이 이름은 아버지로부터 아들로 전해 내려오고 있소. 당신이 '늙은 로마인'으로만 알고있는 나의 아버지 이름도 '카이오'라오. 절대 잊혀질리 없지. 내 형제들의 이름 역시 모두 '카이오'이오. 그래서 나의 어머니는 우리를 부를 때 카이오 마이오르, 카이오 세쿤도, 카이오 미노르라고 부른다오. 각각 큰, 둘째, 막내 라는 뜻이지.
 str_npc2_home_description_2|저는 언젠가 리베 근처의 농장을 살거에요. 그리고 두명이나 세명쯤 되는 여자들과 결혼을 해서 오직 '아이를 만드는일에' 온힘을 다할거에요.^... 아닐수도 있구요, 생각해보니 그것도 금장 지루해 질지도 모르겠네요.
 str_npc3_home_description_2|하지만 이제와서 보니 덴마크인들도 점점 안좋아지고 있네요. 어쩌면 프랑크족 보다도 더요. 많은 프리지아인들이 그들의 지배에 저항했어요. 덴마크 인들은 누가 피해를 보든 그들이 원하는걸 가지는 사람들이고 그들의 힘을 우리의 법보다 가치있게 여겨요. 난 그들이 싫어요! 그들은 날 노예로 부렸다구요!
@@ -819,7 +819,7 @@ str_npc12_home_description_2|I am sure that King Gotrik's name sounds familiar t
 str_npc13_home_description_2|어쨌든, 긴 대화로 당신을 귀찮게 하고싶진 않구려. 미드가르드가 무너지고 라그나로크가 올 때 까지 이야기할 시간은 많으니 말이오. 하하하!
 str_npc14_home_description_2|나도 그 일원으로써 이곳의 귀족에 대해 말하자면, 그들의 고결함이야 말로 가장 숭고한 고귀함이라는걸 인정해야 한다는 것이오. 왜냐하면 우리에겐 우리의 고향땅에 축복을 내렸던 아홉 여신의 피가 한 방울이나마 흐르고 있기 때문이오. 그 여신들로는 아난, 아이네, 그란, 클리오디나, 에임드, 모르 무메인, 베빈, 에이벨, 그리고 유명하진 않지만 너무나도 아름다운 여왕 뮝퓐이 있소.^이곳에 정착하시오, 용감한 이여. 그럼 언젠가 아주 어두운 밤을 틈타 그 여신 중 한명이 당신의 침대로 들어올 것이오. 열 두 겨울 전에 뮝퓐이 나에게 왔던것 처럼 말이오.
 str_npc15_home_description_2|에이리크는 하랄드의 머리속에 노스비거의 통일을 집어넣은 아름다운 여자, 기에다의 아버지라오. 지금 그 멍청한 꼬마는 그가 그녀의 아버지를 이길 때 까지 머리를 빗는걸 용납하지 않을 것이오. 그녀야 말로 '트로이의 헬렌'의 전형이지 않겠소? 아마 그녀를 만나려거든 흐로달란드로 가보는게 좋을것이오.
-str_npc16_home_description_2|I grew up in Witan Ceaster, played in its muddy streets when not forced to study, and I loved running around the stalls when we went to the market. Witan Ceaster was an important town in Roman times, I read, but it was almost abandoned later until King Cenwalh built its first church. He was also the king who brought Christianity to West Seaxe, for which he repudiated his first wife, the sister of pagan King Penda of Mierce.
+str_npc16_home_description_2|나는 위탄 세스터에서 자랐소. 공부를 하지 않아도 될 만큼 어린 시절에는 진창 투성이의 거리를 뛰어다니며 놀곤 했소. 특히 시장에 갈 때마다 마구간 근처를 뛰어다니길 좋아했지. 내가 읽었던 바에 따르면, 위탄 세스터는 로마 시대때 중요한 도시였지만, 웨섹스의 왕 센월이 최초의 교회를 짓기 전 까지는 버려져 있다 시피 했다고 하오. 그는 웨섹스에 처음으로 기독교를 전파한 왕이었고, 머시아 이교도 왕의 여동생이었던 그의 첫번째 아내를 부인했다고 하오.
 str_npc1_home_recap|나는 하드리아누스의 장벽 근처의 동굴 출신이오.
 str_npc2_home_recap|나는 덴마크의 리베에서 태어났어요. 나는 왕과 노예 사이에서 태어난 전사죠.
 str_npc3_home_recap|저는 {s20}에서 노예로 살아왔어요. 하지만 어린 시절은 독싱가에서 보냈어요. 정말 행복했었죠.^저는 단지 우리 아버지, 손크릭이 내가 노예로 살았던 날들을 나쁘게 생각하지 않길 바래요...^만약 내가 야를들의 명령에 복종하지 않았다면 그들은 저를 죽였을거에요. 아버지는 결코 당신의 딸이 얼마나 비참하게 몰락했었는지 모르겠죠...
@@ -835,7 +835,7 @@ str_npc12_home_recap|I am the younger son of a hersir in Odinsve. I traveled to 
 str_npc13_home_recap|난 스베아 사람이오. 우리 종족은 동쪽 전체를 통치할 운명이지. 아직도 덴마크의 왕이 우리 땅을 탐하고 있다면 조만간 덴마크도 스베아 사람들에 의해 파괴될 것이오.
 str_npc14_home_recap|오, 하이버니아의 남쪽, 무메인의 가장 웅대한 지역이자 음유시인과 여신들의 땅이 내 고향이오.
 str_npc15_home_recap|나는 세상에서 가장 거대하고 제일로 아름다운 도시, 콘스탄티노폴리스에서 왔소. 이 땅의 가장 큰 도시조차 콘스탄티노폴리스와 비교하자면 작은 촌락에 불과하오. 젠장, 그곳의 주요 교회당인 아야 소피아는 정말 가볼만 한 곳이오. 당신도 언제 한번 방문할 기회가 있으면 좋겠구려.
-str_npc16_home_recap|I am from Witan Ceaster. That city brings back great memories, but I know my place is not there.
+str_npc16_home_recap|나는 위탄 세스터에서 오랜 시간을 살았소. 그 도시에 대해선 멋진 추억들이 많지만, 그 곳엔 내 자리가 없다는 것을 알고 있소.
 str_npc1_honorific|전쟁 군주
 str_npc2_honorific|{reg59?부인:경}
 str_npc3_honorific|{reg59?부인:경}
