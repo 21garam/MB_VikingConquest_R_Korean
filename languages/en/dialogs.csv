@@ -5568,22 +5568,22 @@ dlga_mayor_dongall_quest2:mayor_dongall_quest3|어디서 그들을 발견할 수
 dlga_mayor_dongall_quest2:mayor_dongall_quest4|이 도시의 발전을 위해 돈을 좀 줄 수 있소. (1000 페닝)
 dlga_mayor_dongall_quest2:mayor_dongall_quest4.1|이 도시의 발전을 위해 돈을 좀 줄 수 있소. (3000 페닝)
 dlga_mayor_dongall_quest2:mayor_dongall_quest4.2|이 도시의 발전을 위해 돈을 좀 줄 수 있소. (5000 페닝)
-dlga_mayor_dongall_quest3:mayor_dongall_quest5|아무도 안보이는 곳으로 숨으시오. 그들에게는 적이 많소.
-dlga_mayor_dongall_quest4:mayor_dongall_quest5|이 어려운 시기에 정말 고맙소. 이 도시 사람들에게 당신의 희생을 널리 알리겠소.
+dlga_mayor_dongall_quest3:mayor_dongall_quest5|그들은 아무도 찾을 수 없는 곳에 숨어있소. 그들에게는 적이 많기 때문이오.
+dlga_mayor_dongall_quest4:mayor_dongall_quest5|이 어려운 시기에 정말 고맙소. 이 도시의 사람들에게 그들의 생활을 지켜주고 싶어하는 당신의 지대한 관심에 대해 알리겠소.
 dlga_mayor_dongall_quest5:mayor_dongall_quest6|난 프레이스베르타흐의 손자들이 어디에 있는지 알고 싶소.
 dlga_mayor_dongall_quest5:mayor_dongall_quest6.1|프레이스베르타흐의 손자들이 어디에 있는지 아는건 내게 무척 중요하오. 이 돈이면 되겠소? (1000 페닝)
 dlga_mayor_dongall_quest5:mayor_dongall_quest6.2|프레이스베르타흐의 손자들이 어디에 있는지 아는건 내게 무척 중요하오. 이 돈이면 되겠소? (3000 페닝)
 dlga_mayor_dongall_quest5:mayor_dongall_quest6.3|프레이스베르타흐의 손자들이 어디에 있는지 아는건 내게 무척 중요하오. 이 돈이면 되겠소? (5000 페닝)
-dlga_mayor_dongall_quest6:mayor_pretalk|당신은 믿을만한 사람으로 보이는군. 프레이스베르타흐의 손자들에게 빚진 것도 없긴 하니, 일단은 내 일을 하러 돌아가겠소. 우선, 사람들을 만족시켜서 자네를 좋아하게 만들어야겠지 않겠소, 그다음에 우리 다시 이야기하세.
-dlga_mayor_dongall_quest6:mayor_dongall_quest7|이 마을을 위해서 당신은 많은 걸 해주었소, 주민들은 당신에게 감사해 할것이오. 자네가 원하던 정보: 프레이스베르타흐의 손자들은 디나스 브란 근방의 농장에 있소. 그들은 겨우 8살밖에 안된 애들인데 당신이 왜 이렇게 관심이 있는지 모르겠소. 그들의 아버지가 죽고나서부터 그들은 혼자 남아있소. 에드 핀들라어스가 자신의 왕좌에 대한 작은 잠재적 위협도 제거하고 싶어 하는 마음도 알겠지만, 저런 애들에게는 지지자가 없소. 저 아이들이 그를 위협하기는 어렵다고 생각하오.
-dlga_mayor_dongall_quest7:close_window|애들은 자라오, 던갈. 그나저나, 이건 우리가 걱정할 일이 아니오. 잘 가시오.
+dlga_mayor_dongall_quest6:mayor_pretalk|당신은 믿을만한 사람으로 보이는군. 하긴, 나도 프레이스베르타흐의 손자에게 빚진 것이 없지... 하지만 지금은 나도 내 일을 하러 돌아가야 하오. 우선 사람들의 삶을 더 낫게 만들면 사람들도 당신을 사랑하게 될 것이오. 그리고 나서 다시 이야기 하기로 합시다.
+dlga_mayor_dongall_quest6:mayor_dongall_quest7|당신은 이 도시를 위해서 많은 걸 해주었고, 주민들도 당신에게 감사해 하고있소. 이제 당신이 알고싶어 하던 정보를 알려주겠소. 프레이스베르타흐의 손자는 디나스 브란 근방의 농장에 있소. 그들은 겨우 8살밖에 안된 애들인데 당신이 왜 이렇게 관심이 있는지 모르겠소. 그들의 아버지가 죽고나서부터 그들은 혼자 남아있소. 에드 핀들라어스가 자신의 왕좌에 대한 작은 잠재적 위협도 제거하고 싶어 하는 마음도 알겠지만, 이 아이들에게는 지지할 세력조차 없소. 저 아이들이 그를 위협하기는 어렵다고 생각하오.
+dlga_mayor_dongall_quest7:close_window|애들은 금세 자라오, 던갈. 어쨌든, 이건 우리가 걱정할 일이 아니오. 잘 있으시오.
 dlga_mayor_dongall_quest7:mayor_dongall_quest8|난 그 불쌍한 아이들을 지켜줄 거요.
-dlga_mayor_dongall_quest8:mayor_dongall_quest9|훌륭하오! 난 처음에 프레이스베르타흐를 죽인 살인자가 그의 손자까지 찾게 하러 당신을 보낸 줄 알았소. 단순히 돌아가서 아이들을 못 찾았다고 하면 그들은 계속해서 아이들을 찾아다닐 거요. 정말 그 아이들을 돕고싶다면 거짓말을 해야하오. 당신이 돌아가 에드 핀들라어스에게 아이들이 어디 있는지 알려주면, 난 그사이 프레이스베르타흐의 손자들을 노예들과 바꿔치기 해놓겠소.
-dlga_mayor_dongall_quest9:mayor_dongall_quest10_1|그러는게 좋겠군. 바로 실행하세.
+dlga_mayor_dongall_quest8:mayor_dongall_quest9|듣던 중 반가운 소리군! 처음에는 프레이스베르타흐를 죽인 살인자가 그의 손자까지 찾게 하러 당신을 보낸 줄로만 알았지 뭐요. 돌아가서 아이들을 찾지 못했다고 하면 그들은 계속해서 아이들을 찾아다닐 거요. 정말 그 아이들을 돕고싶다면 거짓말을 해야하오. 당신이 돌아가 에드 핀들라어스에게 아이들이 어디 있는지 알려주면, 난 그사이 프레이스베르타흐의 손자들을 노예들과 바꿔치기 해놓겠소.
+dlga_mayor_dongall_quest9:mayor_dongall_quest10_1|말이 되는 이야기군. 그렇게 합시다.
 dlga_mayor_dongall_quest9:mayor_dongall_quest10|안되오. 다른 아이들은 해결책이 아니오.
 dlga_mayor_dongall_quest10:mayor_dongall_quest11|그들은 노예일 뿐이오. 뭐, 이건 당신 결정이니 알아서 하시오. 난 프레이스베르타흐의 손자들을 숨길만한 장소를 찾아보겠소. 당신은 가서 당신의 영주에게 농장이 어디 있었는지 알려주시오. 그러면 그들은 빈 농장을 발견할 거요. 물론, 아드 로어 에드 맥 니얼이 빈집을 확인하고 당신을 처형하기전에 당신은 에리우를 떠나야하오. 그는 앞으로 당신의 여정에 가장 강력한 적이 될 것이오. 
-dlga_mayor_dongall_quest10_1:close_window|알겠소. 내 최선을 다해보겠소. 어린 노예들은 별로 비싸지 않으니 걱정 마시오. 행운을 비오.
-dlga_mayor_dongall_quest11:mayor_dongall_quest10_1|내가 한말은 잊으시오. 어린 노예들을 쓰는게 더 나은 것 같소.
+dlga_mayor_dongall_quest10_1:close_window|알겠소. 내 최선을 다해보겠소. 고맙게도 어린 노예들의 웨어길드는 그리 비싸지 않소. 행운을 빌겠소.
+dlga_mayor_dongall_quest11:mayor_dongall_quest10_1|내가 한말은 잊으시오. 어린 노예들을 쓰자는 당신의 생각이 더 좋은 것 같소.
 dlga_mayor_dongall_quest11:mayor_dongall_quest12|두 어린아이의 목숨을 재물로 바칠 바에 내가 왕의 증오를 사겠소.
 dlga_mayor_dongall_quest12:close_window|알겠소. 내 최선을 다해보겠소. 아드 로어 에드는 끔찍한 적이 될 거요. 그럼 행운을 비오.
 dlga_mayor_talk:mayor_historia|당신은 좋은 사람인 것 같군, 이 장소에 대해서 이야기해줄 수 있겠소?
