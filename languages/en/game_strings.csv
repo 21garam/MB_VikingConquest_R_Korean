@@ -1807,7 +1807,7 @@ str_alliance_durantion_days_expire|{s21}^^* The {s5}은(는) {s14}와(과) 공�
 str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
 str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
 str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21} {s14}은 최근 {s5}의 문제로 마찰이 있고, 그것으로 인해 전쟁의 위험이 있습니다.
-str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}는 {s6}의 통치하에 있다.^영토는 {s8}.^봉신은 {s10}.^^{s21}
+str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}은 {s6}^영토는 {s8}.^봉신은 {s10}.^^{s21}
 str_assigned_lord_reputation_and_relations_cheat_mode_reg3|할당된 영주의 평판과 관계도, 치트 모드: {reg3}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} 사망, {reg5} 부상, {reg6} 도주
 str_reg4_killed_reg5_routed|{reg4} 사망, {reg5} 도주
@@ -3320,8 +3320,8 @@ str_com_debug_2|Click for troop: {s1}, id =
 str_com_heroes|  영웅들  
 str_com_morale_reg0|{s1}^^사기: {reg0}
 str_com_relation_reg12|{s1}^^관계도: {reg12}
-str_com_catholic|{s1}^^종교: 기독 신앙
-str_com_pagan|{s1}^^종교: 이교
+str_com_catholic|{s1}에 의해 통치되고 있습니다.^^종교: 기독 신앙
+str_com_pagan|{s1}에 의해 통치되고 있습니다.^^종교: 이교
 str_tactical_controls|키보드의 '숫자키'를 눌러 원하는 부대를 선택하세요. '0'을 누르면 모든 병사를 선택합니다.^^F1-F4 을 이용해 분대에게 명령을 내릴 수 있습니다. F1 키를 누르고 있으면 선택된 부대들의 위치를 지정할 수 있습니다. 이런 방법으로 공격할 적 대상을 지정할 수 있습니다.^^'ENTER' 키를 누르면 전술 카메라를 볼 수 있습니다.^^BACKSPACE 키를 누르면 지도와 전투 명령 화면을 볼 수 있습니다.
 str_division_placement|특정 부대가 선택되면, 표시된 지점에 부대의 최전방 중앙이 위치하게 됩니다.^^다수의 부대가 선택된 경우, 그들은 플레이어 주변에 부대별로 모여 배치됩니다.^^F2와 F7을 누를 때 선택된 부대에 대해 기억할 것은 기본적으로 보병은 좌측에, 기병은 우측에 그리고 장거리 병과는 전방에 선다는 것 입니다.
 str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.
