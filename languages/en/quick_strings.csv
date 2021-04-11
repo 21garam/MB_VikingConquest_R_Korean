@@ -38,6 +38,8 @@ qstr_The_people_of_{s34}_|{s34}의 사람들은 당신이 싫어하는 {s33}이(
 qstr_A_livestock_epidemic|{s4}에서 가축 전염병이 돌았고, 소 떼 중 {reg4}마리가 죽었습니다.
 qstr_A_livestock_epidemic_|가축 전염병은 {s4}에서 {reg5}마리의 양을 죽였습니다.
 qstr_A_livestock_epidemic_h|가축 전염병은 {s4}에서 {reg4}마리의 소와, {reg5}마리의 양을 죽였습니다.
+qstr_You_receive_a_messag|{s1}으로부터 전갈을 받았습니다. 그는 당신이 그에게 세금을 받을 수 있는 땅을 하사하길 요구합니다.
+qstr_You_receive_a_message|{s1}으로부터 전갈을 받았습니다. 그는 당신이 당신의 가신들을 위해 베풀어야 할 의무에 대해 상기시킵니다.
 qstr_Your_men_made_some_d|당신의 부하들은 우유로 맛있는 버터를 만들었습니다.
 qstr_A_livestock_epidemic_ha|가축 전염병은 {s4} 근처의 당신의 농장에 있는 {reg5}마리의 소들을 죽였습니다.
 qstr_A_livestock_epidemic_has|가축 전염병은 {reg4}마리의 소들을 죽였고, {s4} 근처의 당신의 농장에 있는 {reg5}마리의 소들도 죽였습니다.
@@ -197,7 +199,7 @@ qstr_I_am_just_a_poor_far|나는 단지 이 농장의 가난한 농부일 뿐이
 qstr_I_just_work_the_fiel|나는 단지 이 곳에서 일하고 있을 뿐이오, 이야기를 하려거든 저기 농장에 가서 이야기해보시오.
 qstr_Stranger_go_talk_to_|이방인, 이야기를 하려거든 저기 농장에 가서 이야기하는 것이 좋을 것이오, 만약 거래를 하고 싶다면 말이오.
 qstr__Relation:_{reg0}| 관계도: {reg0}
-qstr_{s12}I_want_to_plund|{s12}나는 나 자신의 생업과 {s1}을(를) 유지하기를 원하오. {s2}
+qstr_{s12}I_want_to_plund|{s12}나는 {s1}을(를) 약탈하고, 가질것이오. {s2}
 qstr__no_fiefs_|(영지가 없습니다.)
 qstr__fiefs:_{s0}_|(영지: {s0})
 qstr___The_child_looks_at|--이 아이는 장난기 가득한 눈으로 당신을 보고 있습니다.--
@@ -2398,6 +2400,7 @@ qstr_His_love_interests_a|그는 {s37}에게 사랑의 감정을 가지고 있�
 qstr_{s40}._His_love_inter|{s40}. 그는 {s37}에게 사랑의 감정을 가지고 있는것으로 보여진다.
 qstr_His_love_interest_is|그는 {s37}에게 사랑의 감정을 가지고 있는것으로 보여진다.
 qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^왕국: {s3}^관계: {reg4}^영지: {reg5}^{s5}^{s47}
+qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^왕국: {s3}^관계: {reg4}^영지: {reg5}^{s5}{s47}
 qstr_Army_size:_{reg26}|병력 규모: {reg26}
 qstr_{s40}._His_love_intere|{s40}. 그는 {s39}에게 사랑의 감정을 느끼고 있다.
 qstr_{s40}._He_is_betroth|{s40}은(는) {s39}의 정혼자가 되었습니다.
@@ -2428,6 +2431,7 @@ qstr_{s6}^^{s2}^Relation:|{s6}^^{s2}^관계: {s3}^번영도: {s50}^토지 임대
 qstr_Kingdom_Centers_Repo|왕국 영지 보고서:^^^--도시들-- {s4}^^^^--요새들-- {s5}^^^^--마을들--{s6}^^
 qstr_Appoint_next_marshal|새로운 총사령관을 임명합니다.
 qstr_Award_{s12}_as_fief|{s12}에게 영지를 수여합니다.
+qstr_Political_issue:_{s1|정치적인 문제: {s11}
 qstr_Kingdom_Global_Info:|왕국 종합 정보:^^{s10}^^{s9}
 qstr_From_this_area_you_c|왕국의 영지들에게 다음과 같은 왕국의 명령을 내릴 수 있다:
 qstr_>_Order_the_army_to_|> 병력 징병을 요청.^^> 모든 병력을 왕국의 방어에 집중.^^> 영지의 수비군까지 전부 소집. 이는 큰 위협이나 대규모의 군사 작전에서 사용되며, 영지의 수비군들이 전부 합류하게 되므로 영지의 수비는 공백 상태가 될 것입니다.
@@ -2563,10 +2567,10 @@ qstr__As_you_reach_the_se| 이 요새와 주변의 땅들은 당신에게 속해
 qstr__As_you_reach_the_set| 당신은 이 요새와 주변의 땅들이 {s7}에게 속해 있음을 알아야만 합니다.
 qstr__You_are_greeted_by_| 이 도시와 주변의 땅들은 당신에게 속해 있습니다.
 qstr__You_are_greeted_by_m| 당신은 이 도시와 주변의 땅들이 {s7}에게 속해 있음을 알아야만 합니다.
-qstr_The_rulers_of_the_re|The rulers of the realms are troubled by your offense against the majesty of your lord.{***}
+qstr_The_rulers_of_the_re|이 지역의 지배자들은 군주의 위엄에 대한 당신의 도전에 대해 근심스러워 합니다.
 qstr_You_make_sure_they_s|당신은 당신의 병력들에게 {s11}의 수비대에게 보여주기 위해 그들의 영주를 데려오라 명령했고, 당신의 부하들은 포로로 잡힌 그를 끌고 나왔다.
-qstr_The_{reg6?town_s:for|The {reg6?town's:fort's} food stores should last for {reg3} more days.{***}
-qstr_The_{reg6?town_s:fort|The {reg6?town's:fort's} food stores have run out and the defenders are starving.{***}
+qstr_The_{reg6?town_s:for|{reg6?도시:요새}의 식량은 {reg3}일을 더 버틸 수 있을만큼 비축되어 있습니다.
+qstr_The_{reg6?town_s:fort|{reg6?도시:요새}의 식량은 고갈되었고, {reg6?도시:요새}를 수비하는 병사들은 굶주리고 있습니다.
 qstr_>>Your_men_are_build|>>당신의 병력들은 {s4}을(를) 포위하기 위해 작은 진영들과 초소들을 지어 포위망을 형성하고 있습니다.^^
 qstr_>>Your_perimeter_con|>>포위망이 완성되었습니다. 당신은 {s4}을(를) 완벽하게 통제하고 있고, 그 곳의 포위망이 사람이나 보급품이 들어오거나 나가지 못하게 막고 있습니다.^이 포위망은 당신이 공성중인 지역의 지휘관과 항복 협상을 진행할 때, 특히 도움이 될 것입니다.^^
 qstr_>>Your_men_are_ready|>>당신의 병력들이 전투를 시작할 준비를 마쳤습니다.^^
@@ -2605,9 +2609,9 @@ qstr_{s4}_lost_between_50|{s4}은(는) 50%에서 60%가량의 식량 비축분�
 qstr_{s4}_lost_between_30|{s4}은(는) 30%에서 40%가량의 식량 비축분을 잃었습니다.
 qstr_{s4}_lost_between_10|{s4}은(는) 10%에서 20%가량의 식량 비축분을 잃었습니다.
 qstr_{s4}_have_between_10|{s4}의 수비병 중 10%에서 30%가량이 질병을 앓고 있습니다.
-qstr_It_should_have_food_|It should have food stocks for {reg6} days.^The garrison has {reg5} men.{***}
+qstr_It_should_have_food_|이곳에는 {reg6}일을 견딜 수 있는 식량이 비축되어 있습니다.^방어중인 병사는 {reg5}명 입니다.
 qstr_^^The_following_armi|^^당신을 따라오는 병력:^
-qstr_^{s3}_with_{reg1}_tr|^{s3} with {reg1} troops.{***}
+qstr_^{s3}_with_{reg1}_tr|^{s3}, {reg1}명.
 qstr_^^Commander_this_tow|^^Commander, this town is one big rock. Many before us have fled the place before a single blow was exchanged, so we must keep morale up among the men. The path to the main gate is formidably narrow and steep, but if we set up the camp and build a battering ram, we can break down the wall at the back entrance of the town. When the wall is down, we can charge in without losing breath. The steps up to the town center are fewer there.{***}
 qstr_^^Alt_Clut_the_rock_|^^Alt Clut, the rock high over the Clyde. This is the mightiest fortress of the northern Britons. Nobody has ever taken it by siege in your day. Controlling the mouth of the Clyde, it was where King Riderch Hael fought the Bernicians and the Picts.{***}
 qstr_^^This_formidable_st|^^This formidable stronghold is the jewel of the Dumnonian kingdom. Here many ships from Mediterannea arrive full of wine and luxuries. Legend says the warlord, Arthur, was born here.{***}

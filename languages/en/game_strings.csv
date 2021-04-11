@@ -1807,7 +1807,7 @@ str_alliance_durantion_days_expire|{s21}^^* The {s5}은(는) {s14}와(과) 공�
 str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
 str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
 str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21} {s14}은 최근 {s5}의 문제로 마찰이 있고, 그것으로 인해 전쟁의 위험이 있습니다.
-str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}은 {s6}^영토는 {s8}.^봉신은 {s10}.^^{s21}
+str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}의 통치자: {s6}^^영토: {s8}.^^봉신: {s10}.^^{s21}
 str_assigned_lord_reputation_and_relations_cheat_mode_reg3|할당된 영주의 평판과 관계도, 치트 모드: {reg3}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} 사망, {reg5} 부상, {reg6} 도주
 str_reg4_killed_reg5_routed|{reg4} 사망, {reg5} 도주
@@ -2563,11 +2563,11 @@ str_they_say_that_s9_has_run_away_with_s11_causing_her_family_much_grievance|그
 str_they_say_that_s9_and_s11_have_wed|그들이 말하길 {s9}와 {s11}가 결혼을 했다더군.
 str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|그들이 말하길 {s9}이(가) 최근 {s11}의 방문을 받았다고 하더군. 어디서 만났는지 누가 알겠소?
 str_there_is_not_much_to_tell_but_it_is_still_early_in_the_season|내가 말할만한 소식이 없군, 그러나 이건 아직 너무 이른 시기라 그렇소.
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_but_it_has_been_going_on_for_a_couple_of_days_and_is_about_to_end_|{s12} {s3}의 {s4}에서 연회가 진행되고 있소, 그러나 연회는 이미 몇일 동안이나 진행되었고 곧 끝날 것이오.
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_should_last_for_at_least_another_day_|{s12} {s3}의 {s4}에서 연회가 진행중이고, 연회는 최소한 몇일 후에나 끝이 날 것이오. 
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_has_only_just_begun_|{s12} {s3}의 {s4}에서 연회가 진행중이며, 연회는 이제 막 시작했소. 
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_but_it_has_been_going_on_for_a_couple_of_days_and_is_about_to_end_|{s12} {s3}의 {s4}에서 연회가 진행되고 있소, 그러나 연회는 이미 몇일 동안이나 진행되었고 곧 끝날 것이오.^
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_should_last_for_at_least_another_day_|{s12} {s3}의 {s4}에서 연회가 진행중이고, 연회는 최소한 몇일 후에나 끝이 날 것이오.^
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_has_only_just_begun_|{s12} {s3}의 {s4}에서 연회가 진행중이며, 연회는 이제 막 시작했소.^
 str_not_at_this_time_no|지금은 없군요.
-str_s12the_great_lords_bring_their_daughters_and_sisters_to_these_occasions_to_see_and_be_seen_so_they_represent_an_excellent_opportunity_to_make_a_ladys_acquaintance|{s12} 위대한 영주들은 그들의 딸과 자매을 이런 기회에 데려와 보기도 보여주기도 하는데, 이는 그들에게 귀부인의 지인을 만드는 훌륭한 기회라는데 의미가 있소.
+str_s12the_great_lords_bring_their_daughters_and_sisters_to_these_occasions_to_see_and_be_seen_so_they_represent_an_excellent_opportunity_to_make_a_ladys_acquaintance|{s12}^위대한 영주들은 그들의 딸과 자매을 이런 기회에 데려와 보기도 보여주기도 하는데, 이는 그들에게 귀부인의 지인을 만드는 훌륭한 기회라는데 의미가 있소.
 str_you_will_not_be_disappointed_sirmadam_you_will_not_find_better_warriors_in_all_calradia|실망하실 필요 없다, {reg59?부인:경}. 당신은 우리보다 더 훌륭한 전사를 찾지 못할 거요.
 str_your_excellency|전하
 str_s10_and_s11|{s10} 그리고 {s11}
@@ -2578,9 +2578,9 @@ str_we|우리
 str_track_down_s7_and_defeat_him_defusing_calls_for_war_within_the_s11|{s11}이내에 {s7}을 찾아 그를 패배시켜, 전쟁의 불씨를 제거해야 합니다.
 str_track_down_the_s9_who_attacked_travellers_near_s8_then_report_back_to_the_town|{s8}의 근처에서 여행자들을 공격한 {s9}을 추적한 후에, 도시로 돌아가서 보고합니다.
 str_do_you_wish_to_award_it_to_one_of_your_vassals|당신은 당신의 봉신 중 한 명에게 이 것을 주기 원합니까?
-str_who_do_you_wish_to_give_it_to|누구에게 이것을 줄 것인가?
+str_who_do_you_wish_to_give_it_to|이것을 누구에게 줄 생각이오?
 str_sire_my_lady_we_have_taken_s1_s2|{reg59?아가씨:경},우리가 {s1}을 점령했소. {s2}
-str_s12i_want_to_have_s1_for_myself|{s12}나는 {s1}을 내가 가질 것이네. {s2}
+str_s12i_want_to_have_s1_for_myself|{s12}내가 {s1}을 가질 것이네. {s2}
 str_fiefs_s0|(영지: {s0})
 str_production_setting_buy_from_market|우리는 원자재를 시장에서 구매하고 있소.
 str_production_setting_buy_from_inventory|우리는 창고에 재고가 남은 원자재만 사용하고 있소.
@@ -2602,20 +2602,20 @@ str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_b
 str_strategy_criticism_rash|내 생각에 그 작전은 약간 무모한것 같소. 또한 우리 군은 불필요한 위험에 노출될 것이오.
 str_strategy_criticism_cautious|내 생각에 그 작전은 지나치게 신중해서, 아군은 그 어떤 성취도 없이 지루함에 녹아버릴 것만 같소.
 str_tavernkeeper_invalid_quest| 이(가) 어떤 일을 가지고 있지만, 그 세부적인 내용까지 기억하지는 못하는 것 같소.
-str_faction_title_male_player|영주 {s0}
-str_faction_title_male_1|영주 {s0}
-str_faction_title_male_2|영주 {s0}
-str_faction_title_male_3|호족 {s0}
-str_faction_title_male_4|수령 {s0}
-str_faction_title_male_5|영주 {s0}
-str_faction_title_male_6|토후 {s0}
-str_faction_title_female_player|부인 {s0}
-str_faction_title_female_1|귀부인 {s0}
-str_faction_title_female_2|귀부인 {s0}
-str_faction_title_female_3|귀부인 {s0}
-str_faction_title_female_4|귀부인 {s0}
-str_faction_title_female_5|귀부인 {s0}
-str_faction_title_female_6|귀부인 {s0}
+str_faction_title_male_player|코닝굴 {s0}
+str_faction_title_male_1|야를 {s0}
+str_faction_title_male_2|헤르시르 {s0}
+str_faction_title_male_3|키닝 {s0}
+str_faction_title_male_4|엘더먼 {s0}
+str_faction_title_male_5|드리히텐 {s0}
+str_faction_title_male_6|리 {s0}
+str_faction_title_female_player|고이딕 {s0}
+str_faction_title_female_1|티에른 {s0}
+str_faction_title_female_2|리레 {s0}
+str_faction_title_female_3|티아르나 {s0}
+str_faction_title_female_4|말 {s0}
+str_faction_title_female_5|공작 {s0}
+str_faction_title_female_6|군주 {s0}
 str_name_kingdom_text|당신의 왕국의 이름을 정해주세요.
 str_default_kingdom_name|{s0}의 왕국
 str_lord_defects_ordinary|영주 망명^^{s1}는 {reg4?그녀의:그의} {s3}에 대한 충성 서약을 철회하고, {s2}에 망명했습니다.
@@ -3320,8 +3320,8 @@ str_com_debug_2|Click for troop: {s1}, id =
 str_com_heroes|  영웅들  
 str_com_morale_reg0|{s1}^^사기: {reg0}
 str_com_relation_reg12|{s1}^^관계도: {reg12}
-str_com_catholic|{s1}에 의해 통치되고 있습니다.^^종교: 기독 신앙
-str_com_pagan|{s1}에 의해 통치되고 있습니다.^^종교: 이교
+str_com_catholic|{s1}^^종교: 기독 신앙
+str_com_pagan|{s1}^^종교: 이교
 str_tactical_controls|키보드의 '숫자키'를 눌러 원하는 부대를 선택하세요. '0'을 누르면 모든 병사를 선택합니다.^^F1-F4 을 이용해 분대에게 명령을 내릴 수 있습니다. F1 키를 누르고 있으면 선택된 부대들의 위치를 지정할 수 있습니다. 이런 방법으로 공격할 적 대상을 지정할 수 있습니다.^^'ENTER' 키를 누르면 전술 카메라를 볼 수 있습니다.^^BACKSPACE 키를 누르면 지도와 전투 명령 화면을 볼 수 있습니다.
 str_division_placement|특정 부대가 선택되면, 표시된 지점에 부대의 최전방 중앙이 위치하게 됩니다.^^다수의 부대가 선택된 경우, 그들은 플레이어 주변에 부대별로 모여 배치됩니다.^^F2와 F7을 누를 때 선택된 부대에 대해 기억할 것은 기본적으로 보병은 좌측에, 기병은 우측에 그리고 장거리 병과는 전방에 선다는 것 입니다.
 str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.

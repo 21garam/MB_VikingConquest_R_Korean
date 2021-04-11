@@ -263,7 +263,7 @@ mno_back_behind_esc1|병력들이 당신을 위해 준비를 마쳤고, 이제�
 menu_poner_escaleras_mantlets|당신의 선봉대는 삽과 화살 방패, 기타 공성 도구를 이용해 사다리를 설치했습니다. 당신은 당신의 병사들이 적들의 사격에 대비해 갑옷을 입고 화살 방패를 준비하여 적들의 화살비 사이를 뚫고 진군하는 것을 보았습니다. 당신의 심장은 뼛속까지 고동쳤습니다. 이것은 모든 전투 중에서 전초전이 될 것으로 보입니다.^땀, 스릴과 공포는. 항상 존재합니다. 당신은 당신의 병사들에게 방패 벽 대형을 짜서 진군할 것을 명령했습니다. 이윽고, 그들은 화살 방패를 사용해 많은 사상자를 줄일 수 있었습니다.^^아군 사상자: {s8}^^적군 사상자: {s9}
 mno_back_behind_esc2|병력들이 당신을 위해 준비를 마쳤고, 이제는 당신의 시간입니다.
 menu_informacion_ciudad|정찰병은 당신 앞에 섰습니다: '{s11}^^{s12} {s1} {s5}^^{s17}
-mno_regreso_luchain|Thank you. Your information is important!{***}
+mno_regreso_luchain|중요한 정보를 알려주어 고맙소!
 menu_castle_besiege_inner_battle|{s1}
 menu_build_mantles2|화살 방패는 당신의 병사들이 공성 장비를 사용하려 할 때, 당신의 병력들의 목숨을 보호할 것입니다. 당신의 부대에서 가장 높은 기계술 ({reg2})에 대한 지식을 가진 {reg3?당신에 의하면:{s3}에 의하면} 화살 방패를 제작하는 일에는 {reg4}시간이 걸립니다.
 mno_build_mantles|착수합니다.
@@ -457,13 +457,13 @@ mno_leave_tournament|경기에서 기권합니다.
 menu_tournament_withdraw_verify|당신은 정말로 이 경기에서 기권할 것입니까?
 mno_tournament_withdraw_yes|그렇다. 더 이상의 경기는 무의미하다.
 mno_tournament_withdraw_no|아니, 나는 승리의 기회를 놓치고 싶지 않다.
-menu_tournament_bet|당신에게 걸린 여분은 {reg5}에서 {reg6}입니다. {reg1?당신은 이미 {reg1} 페닝을 당신 스스로에게 걸었고, 당신이 이긴다면 {reg2} 페닝을 받을 것입니다.:} 당신은 얼마나 많은 금액을 걸어볼 것입니까?
+menu_tournament_bet|당신에게 걸린 배당률은 {reg5}대 {reg6}입니다. {reg1?당신은 이미 당신 스스로에게 {reg1} 페닝을 걸었고, 당신이 우승한다면 {reg2} 페닝을 받을 것입니다.:} 얼마의 금액을 걸겠습니까?
 mno_bet_100_denars|100 페닝을 걸어봅니다.
 mno_bet_50_denars|50 페닝을 걸어봅니다.
 mno_bet_20_denars|20 페닝을 걸어봅니다.
 mno_bet_10_denars|10 페닝을 걸어봅니다.
 mno_bet_5_denars|5페닝을 걸어봅니다.
-menu_tournament_bet_confirm|만약 당신이 {reg1} 페닝을 걸어 둔다면, 당신이 경기에서 우승했을 때 {reg2} 페닝을 받을 수 있을 것입니다. 당신은 베팅할 것입니까?
+menu_tournament_bet_confirm|만약 당신이 {reg1} 페닝을 건다면, 경기에서 우승했을 때 {reg2} 페닝을 받을 수 있을 것입니다. 당신은 베팅할 것입니까?
 mno_tournament_bet_accept|도박에 걸어봅니다.
 mno_tournament_bet_cancel|도박에 걸어보지 않습니다.
 menu_tournament_participants|당신은 경기 관리자중 한 명에게 경기에서 살아남은 참가자들에 대해 물어보았습니다.^경기에서 살아남은 참가자:^{s11}
