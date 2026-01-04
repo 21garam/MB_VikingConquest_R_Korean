@@ -49,7 +49,7 @@ dlga_port_chief_info_c_2:port_chief_info_main|두 번째는 목재요. 참나무
 dlga_port_chief_info_d_1:port_chief_info_main|바람이 가장 중요하오! 돛을 펼쳐 바람을 잘 타는 것이 핵심이지. 바람이 멎으면 선원들이 노를 저어야 하오. 노잡이가 많을수록 배는 빨라지는 법. 선단에 배가 여러 척이라면 가장 느린 배의 속도에 맞춰 움직이게 될 거요. 숙련된 항해사가 있다면 선단의 속력을 더 높일 수 있을 것이오.
 dlga_port_chief3:port_chief_travel|다른 항구로 떠나고 싶소.
 dlga_port_chief_travel:close_window|송구하오. 현재 이 항구에는 사령관과 그의 대군을 실어 나를 수 있는 배가 없소.
-dlga_port_chief_travel:close_window.1|송구하오. 현재로서는 귀공의 일행과 짐, 그리고 상인의 화물까지 모두 실을 수 있는 배가 없구려.
+dlga_port_chief_travel:close_window.1|송구하오. 현재로서는 당신의 일행과 짐, 그리고 상인의 화물까지 모두 실을 수 있는 배가 없구려.
 dlga_port_chief_travel:port_chief_travel_2|여기서라면 프리지아, 덴마크, 노스비거나 앵글리아로 갈 수 있소. 어디로 가시겠소?
 dlga_port_chief_travel:port_chief_travel_2.1|여기서라면 앵글리아와 에리우로 갈 수 있소. 어디로 가시겠소?
 dlga_port_chief_travel:close_window.2|미안하오. 지금은 항구에 정박한 선박이 없소.
@@ -247,256 +247,256 @@ dlga_reginhard1_conversationcamp3:close_window.2|난 항상 어떠한 행위든 
 dlga_reginhard1_conversationcamp3:close_window.3|내일부터는 음식이 더 나아질 테니, 그럴 필요는 없을 것 같소.
 dlga_conversation_companioncamp:clovis1_conversationcamp1|주군, 우린 병력이 더 필요하오. 베게티우스라는 책을 읽어 보셨소? 이 책에 보면 옛 조상들은 단 며칠 만에 평범한 농부를 훌륭한 군인으로 만드는 방법을 알았던 것 같소.
 dlga_clovis1_conversationcamp1:clovis1_conversationcamp2|내가 그들을 강도 높게 훈련시키겠소. 날 믿으시오. 맡겨만 준다면 그들이 단기간에 얼마나 베테랑 병사가 되었는지 느낄 수 있을 것이오.
-dlga_clovis1_conversationcamp2:close_window|좋소, 병사들 땀 좀 흘리게 만들어봅시다. 좋은 결과를 기대하오. 여기 최고의 결과를 위한 1000 페닝이오.
-dlga_clovis1_conversationcamp2:close_window.1|좋은 생각이오. 당신을 무기의 달인으로 임명하겠소.
-dlga_clovis1_conversationcamp2:close_window.2|자네의 호의는 고맙네만, 병사들은 현재 지쳐있소. 지금 강요하기에는 좀 그렇구먼...
-dlga_conversation_companioncamp:ceawlin1_conversationcamp1|중요하게 말씀드리고 싶은게 있습니다. 군부대는 명예를 중히 여기는 자가 지휘하여야 합니다만, 지금과 같은 시기에는 자비를 베푸는 것은 무리입니다. 병사들에게는 힘든 결정이라도 내릴 수 있는 강력한 지도자가 필요하다고 생각합니다.
-dlga_ceawlin1_conversationcamp1:ceawlin1_conversationcamp2|--당신의 부하 몇몇이 당신의 대화를 들었다는 사실을 깨달았습니다--^^자비는 어리석은 자들만이 고려하는 약점과 같소.
+dlga_clovis1_conversationcamp2:close_window|좋소, 병사들이 땀 좀 흘리게 만들어봅시다. 좋은 결과를 기대하오. 여기 최고의 성과를 낸 자들에게 포상으로 줄 1000 페닝의 돈이오.
+dlga_clovis1_conversationcamp2:close_window.1|좋은 생각이오. 당신을 무술 교관으로 임명하겠소.
+dlga_clovis1_conversationcamp2:close_window.2|자네의 호의는 고맙네만, 병사들이 현재 지쳐 있소. 지금 강요하기에는 때가 좋지 않구려... 일단은 사양하겠소.
+dlga_conversation_companioncamp:ceawlin1_conversationcamp1|중요하게 드릴 말씀이 있습니다. 군대란 명예를 중히 여기는 자가 지휘해야 마땅하나, 지금처럼 험난한 시기에 자비를 베푸는 것은 사치입니다. 전사들에게는 필요한 순간에 비정한 결정이라도 내릴 수 있는 강력한 지도자가 필요합니다.
+dlga_ceawlin1_conversationcamp1:ceawlin1_conversationcamp2|-- 당신의 부하 몇몇이 대화를 엿들었다는 사실을 깨달았습니다 --^^자비를 약함으로 치부하는 것은 어리석은 자들이나 하는 짓이오.
 dlga_ceawlin1_conversationcamp2:ceawlin1_conversationcamp3|그렇긴 합니다만, 두려움은 사람을 바보로 만드는 법이지요. 약해지지 마십시오, {playername}. 적들은 두려움을 귀신같이 알아차리고는 그곳을 파고들 것입니다.
-dlga_ceawlin1_conversationcamp3:close_window|자네의 걱정 어린 충고는 고맙네만, 나도 내 사람들을 어떻게 다스려야 하는지는 아오.
-dlga_ceawlin1_conversationcamp3:close_window.1|당신이 옳은 것 같소, 친구여. 그대 말대로 하겠소.
-dlga_conversation_companioncamp:ailchu1_conversationcamp1|브륀힐드에 대한 건안은 재고해보겠소. 이번 일만 지나면 그녀는 좋은 전사가 될 수 있다고 생각하오. 왜 그런지 아시오?
+dlga_ceawlin1_conversationcamp3:close_window|자네의 걱정 어린 충고는 고맙네만, 나도 내 사람들을 어떻게 다스려야 하는지는 알고 있소.
+dlga_ceawlin1_conversationcamp3:close_window.1|당신 말이 옳은 것 같소, 친구여. 말한 대로 하겠소.
+dlga_conversation_companioncamp:ailchu1_conversationcamp1|브륀힐드에 대한 내 생각을 재고해 보았소. 어쩌면 그녀도 결국 좋은 전사가 될 수 있을지도 모르겠소. 왜 그런지 아시오?
 dlga_ailchu1_conversationcamp1:ailchu1_conversationcamp2|듣고 있소.
-dlga_ailchu1_conversationcamp2:ailchu1_conversationcamp3|왜냐하면 일주일이나 피를 흘리고도 그녀는 죽지 않았소! 하, 하, 하... 사실은 그녀가 정말 필요한지 모르겠소. 그녀가 끊임없이 수다를 해댈 때는 머리가 깨질 것 같소.
-dlga_ailchu1_conversationcamp3:close_window|사실은 자네도 내게 두통을 준다오. 하지만 난 자네를 쳐내지 않았소...
-dlga_ailchu1_conversationcamp3:close_window.1|여기가 마음에 안든다면, 떠나도 좋소.
-dlga_ailchu1_conversationcamp3:close_window.2|그녀에게 전투는 안 맞는 줄도 모르겠소. 한번 생각해 보겠소.
-dlga_conversation_companioncamp:caio_conversationcamp1|당신 부대에 있으면서 수많은 장소를 들렀고 수많은 사람을 만났죠. 세상이 이렇게 넓은 줄은 몰랐어요!
-dlga_caio_conversationcamp1:caio_conversationcamp2|솔직히 말하면 제 가족들이랑 저는 여태까지 쭈욱 동굴 속에서 살았어요. 물건을 팔러 나갈 때만 가끔 나갔고요. 한 번 제가 베번버러에 들렀는데, 전 거기가 세상에서 가장 위대하고 아름다운 곳인 줄로만 알았어요. 그런데 당신 부대에 있으면서 여러 곳을 다녀 보니 그런건 아무 것도 아니었다는 생각밖에 안 드네요.
-dlga_caio_conversationcamp2:caio_conversationcamp3|그리고 당신이 방문할 장소는 수도 없이 널려있소.
-dlga_caio_conversationcamp2:caio_conversationcamp4|왜 이런 일로 날 귀찮게 하는 거요?
-dlga_caio_conversationcamp3:close_window|분명 들를 곳이 아주 많겠죠. 정말 당신과 함께 하기로 한 것이 제 생에 최고의 결정이었다고 밖에는 말 못 하겠네요. 이제 다시는 우리 부모님의 동굴로 돌아가지 않겠어요.
-dlga_caio_conversationcamp4:close_window|아, 실례했습니다. 죄송해요. 당신같은 사람들에게는 이런 거야 사소한 일이겠죠. 그래도 제게는 모든게 새로워요. 앞으로는 이런 바보같은 일로 방해시켜드리지 않을게요. 그럼.
-dlga_conversation_companioncamp:caio_morgant_conv1|물어볼게 있소...
-dlga_caio_morgant_conv1:caio_morgant_conv2|내가 만났던 사람 중에 카이오는 최악입니다. 그는 전략의 '전'도 모르는 사람입니다. 그의 무지가 우리를 위험에 처하게 만들고 있습니다.
-dlga_caio_morgant_conv2:caio_morgant_conv3|말을 가로채서 미안하오만, 무슨 일이 있었는지 말해줄 수 있소?
-dlga_caio_morgant_conv3:caio_morgant_conv4|--그가 흥분해서 소리치기 시작합니다--^^모르십니까?
-dlga_caio_morgant_conv4:caio_morgant_conv5|카이오한테 기회를 주시오. 그는 부대에 중요한 사람이고 빠르게 배우고 있소.
-dlga_caio_morgant_conv4:caio_morgant_conv6|카이오, 지금 당장 내 앞에 나타나지 않으면, 떠날 준비를 해야 할 것이오.
-dlga_caio_morgant_conv4:close_window|이런 하찮은 일로 날 귀찮게 하지 마시오.
-dlga_caio_morgant_conv5:close_window|이야기해줘서 고맙소.
-dlga_caio_morgant_conv6:close_window|무슨 말인지... 이해하겠소.
-dlga_conversation_companioncamp:brunhild_conversationcamp1|언젠가 제가 잠들 때는, 독싱가와 켄네머에서 지냈던 과거의 꿈을 꾸곤 해요. 제게 노예 생활 시절을 상기시켜주는 악몽이에요.
-dlga_brunhild_conversationcamp1:brunhild_conversationcamp2|이 모든 걸 버려두고 떠날 수 있어서 참 기뻐요. 사실 전 프리지아를 진짜 싫어해요. 그 땅을 밟는 것 만으로도 정말 어두운 기억들이 새록새록 떠오르죠. 언젠가 우리가 프리지아에 들를 일이 있다면 저랑 같이 있을 때 조금만 참아달라고 부탁드릴게요.  움직이거나 싸우는 때가 아니라면 전 막사에서 죽치고 앉아있을 거에요. 뚱해져서 아무와도 얘기하기 싫어지거든요.
-dlga_brunhild_conversationcamp2:close_window|이제 용서해주세요. 그래도 얘기만 해도 벌써 배가 아프네요. 이 모든 기억들이 절 우울하게 몰고 가는 군요. 어쩌면 전 영원히 치유될 수 없을지도 몰라요.
-dlga_conversation_companioncamp:bodo_conversationcamp1|--당신은 그가 참을성이 없고 불안하다는 점을 기록했습니다.--^^안녕하세요 {playername}. 꽤 오랫동안 같이 다녔죠. 그리고 우리 우정도, 적어도 제게는 아주 진지해요. 사실 수 년간 다른 사람을 이렇게 믿어본 적이 없어요.
-dlga_bodo_conversationcamp1:bodo_conversationcamp2|저요, 우리 관계가 이렇게 좋다는 점에 살짝 놀랐어요. 제 인생이 순탄하지는 않았죠. 특히 이 북쪽 지방에서는, 그래서 사람들을 잘 믿지 않게 되었는데, 당신은 제 신뢰를 너무 쉽게 얻어서 조금 무섭기도 했어요.
-dlga_bodo_conversationcamp2:bodo_conversationcamp3|다른 사람을 믿는다는 건 좋은 것이오. 보도.
-dlga_bodo_conversationcamp2:bodo_conversationcamp3_2|나에게도 마찬가지라오.
-dlga_bodo_conversationcamp2:bodo_conversationcamp4|거리는 유지하시오. 당신은 그저 병사일 뿐이오.
-dlga_bodo_conversationcamp3:close_window|그래요. 당신이 맞아요. 제 자신에 대해 좀 더 솔직해져야겠어요. 우정은 그냥 평범한 거지, 위험한 족쇄같은게 아니에요. 고마워요 친구!
-dlga_bodo_conversationcamp3_2:close_window|당신도 그래요? 이제 알겠죠? 우린 다 편집증적이에요. 뒤통수 맞고 위험해지는데 너무 익숙해져있어요. 아무래도 생각을 해봐야겠어요! 시간 내줘서 고마워요.
-dlga_bodo_conversationcamp4:close_window|그렇죠. 죄송해요. 조금 헷갈렸군요. 그래도 당신이 확실하게 정리는 되었네요.
-dlga_conversation_companioncamp:bodo_2conversationcamp1|{playername}, 우리 얘기좀 해요! 복잡한 문제에요. 어떻게 말해야 할 지는 모르겠지만, 어떻게든 말 해야겠어요.
-dlga_bodo_2conversationcamp1:bodo_2conversationcamp2|솔직해질게요, 당신이 절 어떻게 쳐다보는지 주시해왔어요. 그리고 당신이 제게 홀딱 반할까봐 걱정도 됐고요. 이제 확실히 알겠어요. 전 전사의 기술과 리더쉽을 지닌 아주 매력적인 남자라는 걸. 하지만 경고하는데 전 이미 결혼 했어요. 칸타브리아에 아내와 16명의 자식이 있다고요.
-dlga_bodo_2conversationcamp2:bodo_2conversationcamp3|아무래도 버섯 시험은 그만 두는게 좋겠는데, 보도. 난 당신에게 관심이 없소.
-dlga_bodo_2conversationcamp2:bodo_2conversationcamp3_2|사실이지, 정말 당신을 좋아하오.
-dlga_bodo_2conversationcamp2:bodo_2conversationcamp4|제 자리를 지키시오. 당신은 그저 병사요! 난 당신이 있는 줄도 모른단 말이오.
+dlga_ailchu1_conversationcamp2:ailchu1_conversationcamp3|일주일 동안이나 피를 흘리고도 죽지 않았기 때문이지! 하하하... 농담이고, 사실 그녀가 우리에게 정말 필요한 존재인지는 모르겠소. 끊임없이 수다를 떨어댈 때면 머리가 깨질 것 같단 말이오.
+dlga_ailchu1_conversationcamp3:close_window|사실은 자네도 내게 두통을 준다오. 하지만 난 자네를 내치지 않았소...
+dlga_ailchu1_conversationcamp3:close_window.1|여기가 마음에 들지 않는다면, 떠나도 좋소.
+dlga_ailchu1_conversationcamp3:close_window.2|그녀에게 전투 부대는 어울리지 않는 곳일지도 모르겠소. 한번 생각해 보겠소.
+dlga_conversation_companioncamp:caio_conversationcamp1|당신의 군대에 있으면서 수많은 장소를 방문하고 수많은 사람을 만났죠. 세상이 이렇게 넓은 줄은 정말 몰랐어요!
+dlga_caio_conversationcamp1:caio_conversationcamp2|솔직히 말하면 제 가족과 저는 여태껏 동굴 속에서만 살았어요. 물건을 팔러 장벽에 갈 때나 가끔 밖으로 나갔죠. 한번은 베번버러에 들렀는데, 전 거기가 세상에서 가장 위대하고 아름다운 곳인 줄로만 알았어요. 그런데 당신과 함께 여러 곳을 다녀 보니 그건 아무것도 아니었다는 생각이 드네요.
+dlga_caio_conversationcamp2:caio_conversationcamp3|그리고 당신이 방문하게 될 장소는 아직도 수없이 많이 남아 있소.
+dlga_caio_conversationcamp2:caio_conversationcamp4|왜 이런 사소한 일로 나를 귀찮게 하는 거요?
+dlga_caio_conversationcamp3:close_window|분명 들를 곳이 아주 많겠지요. 당신과 함께하기로 한 것이 제 인생 최고의 결정이었다고 확신합니다. 이제 다시는 부모님의 동굴로 돌아가지 않겠어요.
+dlga_caio_conversationcamp4:close_window|아, 실례했습니다. 죄송해요. 당신 같은 분에게는 이런 게 아주 사소한 일이겠지요. 하지만 제게는 모든 게 새로워요. 앞으로는 이런 바보 같은 소리로 방해하지 않을게요. 그럼 이만.
+dlga_conversation_companioncamp:caio_morgant_conv1|당신에게 물어보고 싶은 것이 있소...
+dlga_caio_morgant_conv1:caio_morgant_conv2|내가 만났던 사람 중에 카이오는 최악입니다. 그는 전략의 '전'도 모르는 사람입니다. 기초적인 것조차 매번 되묻고 하죠. 그의 무지가 우리 모두를 위험에 처하게 만들고 있습니다.
+dlga_caio_morgant_conv2:caio_morgant_conv3|내 말이 기분을 상하게 했다면 미안하오만, 난 그저 '쿠에누스'가 무엇인지 알고 싶었을 뿐이오.
+dlga_caio_morgant_conv3:caio_morgant_conv4|-- 그가 흥분해서 더 크게 소리치기 시작합니다 --^^그걸 정말 모른단 말입니까?
+dlga_caio_morgant_conv4:caio_morgant_conv5|카이오에게 인내심을 가져주시오. 그는 부대에 소중한 사람이고 배우는 속도도 빠르오.
+dlga_caio_morgant_conv4:caio_morgant_conv6|카이오, 기대에 부응하지 못한다면 우리 곁을 떠날 준비를 해야 할 것이오.
+dlga_caio_morgant_conv4:close_window|이런 하찮은 일로 다시는 나를 귀찮게 하지 마시오.
+dlga_caio_morgant_conv5:close_window|이야기해 줘서 고맙소.
+dlga_caio_morgant_conv6:close_window|무슨 말씀인지... 이해했습니다.
+dlga_conversation_companioncamp:brunhild_conversationcamp1|가끔 잠들 때면, 독싱가와 켄네머에서 지냈던 과거의 꿈을 꾸곤 해요. 노예 생활 시절을 떠올리게 하는 악몽이죠.
+dlga_brunhild_conversationcamp1:brunhild_conversationcamp2|이 모든 걸 뒤로하고 떠날 수 있어 정말 기뻐요. 사실 전 프리지아를 정말 싫어하거든요. 그 땅을 밟는 것만으로도 어두운 기억들이 되살아나요. 혹시 우리가 프리지아에 들르게 된다면 저를 조금만 이해해 주세요. 이동하거나 싸울 때가 아니면 막사에 박혀서 아무와도 말하지 않고 뚱해 있을 테니까요.
+dlga_brunhild_conversationcamp2:close_window|부디 용서하세요. 그저 이야기만 했는데도 벌써 속이 울렁거리네요. 이 모든 기억이 저를 너무 우울하게 만들어서 영영 치유되지 않을 것만 같아요.
+dlga_conversation_companioncamp:bodo_conversationcamp1|-- 당신은 그가 조바심을 내며 불안해하고 있다는 점을 알아챘습니다 --^^안녕하시오, {playername}. 꽤 오랫동안 같이 다녔군요. 우리의 우정은, 적어도 제게는 아주 진실한 것입니다. 사실 수년간 누군가를 이렇게 믿어본 적이 없어요.
+dlga_bodo_conversationcamp1:bodo_conversationcamp2|사실 우리 관계가 이렇게 좋다는 게 조금 놀랍기도 합니다. 제 인생은 그리 순탄치 않았거든요. 특히 여기 북부 지방에서는 사람을 믿기가 정말 힘들었는데, 당신은 제 신뢰를 너무 쉽게 얻어버려서 조금 무섭기까지 하군요.
+dlga_bodo_conversationcamp2:bodo_conversationcamp3|다른 사람을 믿는다는 건 좋은 일이오, 보도.
+dlga_bodo_conversationcamp2:bodo_conversationcamp3_2|나 역시 마찬가지라오.
+dlga_bodo_conversationcamp2:bodo_conversationcamp4|거리를 유지하시오. 당신은 내게 그저 병사일 뿐이오.
+dlga_bodo_conversationcamp3:close_window|맞습니다. 당신 말이 옳아요. 제 자신에게 좀 더 솔직해져야겠군요. 우정은 평범한 것이지, 위험한 족쇄 같은 게 아니니까요. 고맙소, 친구!
+dlga_bodo_conversationcamp3_2:close_window|당신도 그렇게 느꼈나요? 보이죠? 우린 둘 다 의심이 많은 사람들이에요. 배신당하고 위험에 처하는 데 너무 익숙해져 버린 거죠. 좀 더 생각해 봐야겠군요! 시간 내줘서 고맙소.
+dlga_bodo_conversationcamp4:close_window|그렇군요. 죄송합니다. 제가 잠시 착각했나 보네요. 그래도 당신이 확실히 선을 그어주니 정리가 되는군요.
+dlga_conversation_companioncamp:bodo_2conversationcamp1|{playername}, 우리 이야기 좀 해요! 아주 복잡한 문제입니다. 어떻게 말해야 할지 모르겠지만, 그래도 해야겠어요.
+dlga_bodo_2conversationcamp1:bodo_2conversationcamp2|솔직히 말할게요. 당신이 나를 어떻게 쳐다보는지 다 보고 있었소. 당신이 나에게 홀딱 반할까 봐 걱정될 정도였지. 충분히 이해하오. 내가 전사로서의 실력과 지도력을 갖춘 아주 매력적인 사내이긴 하니까. 하지만 경고하는데 난 이미 유부남이오. 칸타브리아에 아내와 16명의 자식이 있단 말이오.
+dlga_bodo_2conversationcamp2:bodo_2conversationcamp3|버섯 먹고 환각을 보는 건 그만두는 게 좋겠소, 보도. 난 당신에게 전혀 관심 없소.
+dlga_bodo_2conversationcamp2:bodo_2conversationcamp3_2|사실이오. 난 정말 당신을 좋아하오.
+dlga_bodo_2conversationcamp2:bodo_2conversationcamp4|선을 지키시오. 당신은 비천한 병사일 뿐이오! 난 당신이 옆에 있는지도 모른단 말이오.
 dlga_bodo_2conversationcamp3:close_window|진짜요? 좀 놀랍네요. 전 진짜 사나이고, 완전 마초맨에, 여자들을 수도 없이 꼬시는 사람인데. 뭐, 다행이네요. 이제야 숨통이 트이네.
-dlga_bodo_2conversationcamp3_2:bodo_2conversationcamp5|그거 좀 걱정이네요. 당신은 분명 매력적인 여자지만, 전 결혼을 했고 아내에게 빚이 있어요. 그것만 청산하고 나면 우리 사이를 가로막는 것은 아무 것도 없겠죠.
-dlga_bodo_2conversationcamp4:close_window|예, 죄송해요. 조금 헷갈렸네요. 그래도 당신이 확실하게 정리는 되었군요.
-dlga_bodo_2conversationcamp5:close_window|농담이었소. 난 당신을 좋아하지 않소. 이 못생긴 돼지새끼야.
-dlga_bodo_2conversationcamp5:close_window.1|걱정 마요. 이제부터 우리 관계는 계속 전쟁군주와 병사로만 남아있을 거니까.
-dlga_bodo_2conversationcamp5:close_window.2|문제 없죠, 하지만 당신의 이름을 소원 목록에 적어놓을 거에요.
-dlga_conversation_companioncamp:solveig_conversationcamp1|살면서 처음으로 진정한 군대에 있다는 생각이 들어요. 이 정도 규모의 집단에서 전사로서, 그리고 아름다워진다는게 절대 쉬운 일은 아니죠.  하지만 당신은 명령도 칼같이 내리고, 사람들도 날 존중해요.
-dlga_solveig_conversationcamp1:solveig_conversationcamp2|덴마크인과 노스인들, 그리고 이 세상은 집을 떠나 싸움터에 나서는 여자들을 곱게 보지 않죠. 그런 의미에서 스칼드메르는 진짜보다는 전설같아요. 지금은 저같은 사람이 아주 적지만, 곧 한 명도 없게 될 거에요. 믿어보세요.
-dlga_solveig_conversationcamp2:solveig_conversationcamp3|내 군대에서 여자와 남자는 중요하지 않소. 좋은 전사와 나쁜 전사만이 있을 뿐이오.
-dlga_solveig_conversationcamp2:solveig_conversationcamp3_2|당신이라면 언제든지 잘 대접해드리겠소.
-dlga_solveig_conversationcamp2:solveig_conversationcamp4|이 여편네야, 당신이 있을 곳은 남편과 같이 집에 있는 것이오.
-dlga_solveig_conversationcamp3:close_window|알아요. 거기다 전 여기가 좋아요. 제가 당신을 얼마나 충성스럽게 따르는지 꼭 아셔야 해요. 당신에게만 전념하겠어요.
-dlga_solveig_conversationcamp3_2:close_window|고마워요, {playername}. 언제든지 같이 있었으면 좋겠어요.
-dlga_solveig_conversationcamp4:close_window|조금 당황스럽네요. 저를 군대에 받아주셨으면서, 지금은 결혼해서 집으로 돌아가라고 하시다니. 농담하시자는 거겠죠. 하하! 늙은 솔베이그가 한 방 먹었군요.
-dlga_conversation_companioncamp:solveig_2conversationcamp1|{playername}, 저 당신을 아주 많이 좋아해요. 당신에게 푹 빠져 죽을 것만 같아요.
-dlga_solveig_2conversationcamp1:solveig_2conversationcamp2|아시다시피, 전 남자와 사랑에게서 순결을 지키기 위해 싸움꾼의 길을 택했죠. 쉽지도, 편하지도 않은 방법이었어요. 그래도 규칙이란게 있는 거에요. 만약 그 규칙을 어기게 된다면 제 인생은 다 헛된 것이겠죠. 제 무기는 제 남편 뿐이고, 제 방패는 제 고향이에요. 그 점을 이해해주시지 않겠다면 당신 부대를 떠나겠어요.
-dlga_solveig_2conversationcamp2:solveig_2conversationcamp3|이해하오, 솔베이그. 그리고 당신에게 딱히 감정은 없소.
-dlga_solveig_2conversationcamp2:solveig_2conversationcamp4|미안하오, 솔베이그. 아무래도 당신을 사랑하게 된 것 같소.
-dlga_solveig_2conversationcamp3:close_window|글쎄요, 한 편으로는 별로 화답받은 것 같지는 않지만, 다른 편으로는 당신 깃발에 계속 충성할 수 있어서 좋네요. 마음을 좀 추스려야 겠어요. 행운을 빌어요, 친구.
-dlga_solveig_2conversationcamp4:solveig_2conversationcamp5|이해해요. 우린 서로를 사랑하지만, 함께 있을 수는 없어요. 이 일에 굴복하면, 결국엔 농장 구석에 틀어박혀 10명의 애들 뒤치닥꺼리나 하겠죠. 전 그런 건 절대 못 참아요. 전 자유롭고 열정적이게 태어난 삶이에요. 저도 남자같은 자유를 누리고 싶어요. 아무래도 제가 떠나는게 가장 최선인 것 같아요.
-dlga_solveig_2conversationcamp5:solveig_2conversationcamp6|떠나지 마시오, 솔베이그. 이 일에 대해서는 더 이상 얘기 하지 맙시다. 그리도 나도 생각을 다시 해봐야겠소.
-dlga_solveig_2conversationcamp5:solveig_2conversationcamp7|그래, 떠나는 것이 최우선이겠지.
-dlga_solveig_2conversationcamp6:close_window|저도 여기 남고 싶어요. 이 일에 대해선 더 말하지 말고 거리를 유지하죠. 이제부턴 제 막사를 당신에게서 최대한 멀리 떨어트려 놔야겠어요. 그럼 이만.
-dlga_solveig_2conversationcamp7:close_window|그래요, 아무래도 그게 좋겠어요. 행운을 빌어요 ,친구. 운명이 당신을 받아들이기를.
-dlga_conversation_companioncamp:asbjorn_conversationcamp1|기독교 성직자들이 종말에 대해서 떠들고 다니다니 참 웃기지. 덴마크 녀석들이 하는 생각이랑 똑같아. 어느 쪽이 되었든, 언제 종말이 찾아올 지는 알 수 없지. 하지만 언젠가는 찾아 올거야. 어느 쪽이 되었든 엄청난 규모의 대재앙이겠지. 그리고 수많은 군대가 황폐화된 세계에서 계속 싸울 것이고.
-dlga_asbjorn_conversationcamp1:asbjorn_conversationcamp2|하지만 저들은 서로 다르게 생각해. 덴마크인들에겐 이그드라실이라는 아홉 세계를 붙들고 있는 큰 나무가 있어. 가장 중요한 세계는 신들이 거주하며 오딘과 그의 아내 프리그가 다스리는 아스가르드라고 하지. 거긴 비프로스트라는 무지개 다리를 통해서만 건너갈 수 있는데, 헤임달이 그곳을 지키고 있지.
-dlga_asbjorn_conversationcamp2:asbjorn_conversationcamp3|더 말해주시오.
-dlga_asbjorn_conversationcamp2:close_window|아주 재밌지만 더 들을 시간이 없소. 그럼 이만.
+dlga_bodo_2conversationcamp3_2:bodo_2conversationcamp5|그거 좀 걱정이군요. 당신은 분명 매력적인 여자지만, 난 이미 결혼한 몸이고 아내에게 신의를 지켜야 하오. 우리 사이에 아무 일도 없을 거라는 점을 확실히 해두고 싶소.
+dlga_bodo_2conversationcamp4:close_window|네, 죄송합니다. 잠시 착각을 했나 보군요. 그래도 당신이 확실하게 정리해 주시니 마음은 편하네요.
+dlga_bodo_2conversationcamp5:close_window|농담이었소. 난 당신을 좋아하지 않소, 이 못생긴 돼지 같은 놈아.
+dlga_bodo_2conversationcamp5:close_window.1|걱정 마시오. 이제부터 우리 관계는 철저히 전쟁 군주와 병사로만 남을 테니까.
+dlga_bodo_2conversationcamp5:close_window.2|문제없소. 하지만 당신의 이름을 내 소원 목록에 적어두겠소.
+dlga_conversation_companioncamp:solveig_conversationcamp1|살면서 처음으로 진정한 군대에 있다는 생각이 들어요. 이 정도 규모의 집단에서 전사이자 여성으로서 아름다움을 유지하는 게 쉬운 일은 아니죠. 하지만 당신은 질서를 유지할 줄 알고, 사람들도 저를 존중해 줘요.
+dlga_solveig_conversationcamp1:solveig_conversationcamp2|데인족 사람들과 노스인, 그리고 세상 사람들은 무기를 들고 집을 떠나 싸우는 여자들을 곱게 보지 않죠. 그런 의미에서 '스칼드메르'는 실제라기보다 전설에 가까워요. 지금은 저 같은 사람이 아주 적지만, 곧 한 명도 남지 않게 될 거예요. 제 말을 믿으세요.
+dlga_solveig_conversationcamp2:solveig_conversationcamp3|내 군대에서 남녀의 구분은 중요하지 않소. 오직 훌륭한 전사와 형편없는 전사만이 있을 뿐이오.
+dlga_solveig_conversationcamp2:solveig_conversationcamp3_2|당신이라면 여기서 언제든 귀한 대접을 받을 것이오.
+dlga_solveig_conversationcamp2:solveig_conversationcamp4|이보시오, 여자가 있을 곳은 남편과 함께하는 집안이오.
+dlga_solveig_conversationcamp3:close_window|알고 있어요. 게다가 전 여기가 좋습니다. 제가 당신을 얼마나 충성스럽게 따르는 추종자인지 꼭 알아주셨으면 해요. 당신의 대의에만 전념하겠습니다.
+dlga_solveig_conversationcamp3_2:close_window|고마워요, {playername}. 당신과 오랫동안 함께 머물 수 있기를 바랄게요.
+dlga_solveig_conversationcamp4:close_window|조금 당황스럽네요. 저를 부대에 받아주셨으면서, 이제 와서 결혼이나 해서 집에 가라고 하시다니요. 분명 농담이시겠죠. 하하! 늙은 솔베이그가 한 방 먹었군요.
+dlga_conversation_companioncamp:solveig_2conversationcamp1|{playername}, 저 당신을 아주 많이 좋아해요. 당신에 대한 이 끌림을 멈출 수가 없군요.
+dlga_solveig_2conversationcamp1:solveig_2conversationcamp2|아시다시피, 전 남자와 사랑으로부터 순결을 지키기 위해 전사의 길을 택했어요. 쉽지도 편하지도 않은 길이었죠. 하지만 거기에도 규칙이 있어요. 그 규칙을 어긴다면 제 인생은 의미를 잃게 될 거예요. 무기는 제 남편이고, 방패는 제 고향이죠. 당신이 이 점을 존중해 주지 않는다면 전 부대를 떠나겠어요.
+dlga_solveig_2conversationcamp2:solveig_2conversationcamp3|그 뜻을 존중하오, 솔베이그. 사실 나도 당신에게 이성적인 끌림을 느끼지는 않소.
+dlga_solveig_2conversationcamp2:solveig_2conversationcamp4|미안하오, 솔베이그. 하지만 아무래도 당신을 사랑하게 된 것 같소.
+dlga_solveig_2conversationcamp3:close_window|글쎄요, 제 마음이 화답받지 못한 것은 슬프지만, 한편으로는 당신의 깃발 아래서 계속 복무할 수 있어 다행이네요. 이 감정을 좀 정리할 시간이 필요할 것 같아요. 행운을 빌어요, 친구.
+dlga_solveig_2conversationcamp4:solveig_2conversationcamp5|이해해요. 우린 서로를 사랑하지만 함께할 수는 없어요. 제가 이 감정에 굴복하면 결국 어느 농장에 갇혀 아이 열 명이나 뒤치다꺼리하며 살게 되겠죠. 전 그런 삶을 견딜 수 없어요. 전 자유롭고 치열하게 살기 위해 태어났어요. 남자들처럼 자유를 누리고 싶단 말이에요. 아무래도 제가 떠나는 게 최선인 것 같네요.
+dlga_solveig_2conversationcamp5:solveig_2conversationcamp6|떠나지 마시오, 솔베이그. 이 일에 대해서는 다시는 언급하지 않겠소. 나도 내 마음을 다스려 보겠소.
+dlga_solveig_2conversationcamp5:solveig_2conversationcamp7|그래요, 떠나는 것이 가장 좋겠군.
+dlga_solveig_2conversationcamp6:close_window|저도 여기 남고 싶어요. 이제 이 일은 잊어버리고 거리를 두기로 하죠. 앞으로 제 천막은 당신의 천막에서 최대한 멀리 떨어진 곳에 칠게요. 그럼 이만.
+dlga_solveig_2conversationcamp7:close_window|네, 그게 가장 적절할 것 같네요. 좋은 여행 되기를, 친구여. 운명이 당신을 받아들여 주길.
+dlga_conversation_companioncamp:asbjorn_conversationcamp1|기독교 성직자들이 종말에 대해서 떠들고 다니다니 참 웃기지. 데인족들이 생각하는 방식과 아주 비슷하거든. 어느 쪽이 되었든 언제 종말이 찾아올 지는 알 수 없지만, 언젠가 온다는 것만은 확실하지. 대재앙이 닥치면 거대한 군대들이 황폐해진 세계에서 전투를 벌이게 되겠지.
+dlga_asbjorn_conversationcamp1:asbjorn_conversationcamp2|하지만 다른 부분은 서로 다르게 생각해. 데인족들에겐 아홉 세계를 지탱하는 '이그드라실'이라는 큰 나무가 있어. 가장 중요한 세계는 신들이 거주하며 오딘과 그의 아내 프리그가 다스리는 '아스가르드'라고 하지. 그곳은 오직 헤임달이 지키는 무지개다리 '비프로스트'를 통해서만 갈 수 있어.
+dlga_asbjorn_conversationcamp2:asbjorn_conversationcamp3|더 이야기해 보시오.
+dlga_asbjorn_conversationcamp2:close_window|매우 흥미롭지만, 더 들을 시간이 없구려. 그럼 이만.
 dlga_asbjorn_conversationcamp3:asbjorn_conversationcamp4|다른 곳은 우리의 신, 에시르에게 추방당한 거인들이 살고 있는 요툰헤임이라는 설원이야. 거기엔 또 빛의  요정들의 세계 알프헤임이라는 곳이 있고, 난쟁이와 어둠의 엘프들이 거주하는 스바르탈파헤임이라는 곳도 있어. 우리는 중간의 땅, 미드가르드에 살고 있고. 그리고 저 아래, 니드회그라는 용이 거주하는 극한의 세계 니플헤임이 있는데 태초부터 이 용은 이그드라실의 뿌리를 갉아먹고 있었지. 뿌리가 다 갉아먹히면 이그드라실이 무너지고, 라그나로크가 시작되는 거야.
-dlga_asbjorn_conversationcamp4:asbjorn_conversationcamp5|더 말해주시오.
-dlga_asbjorn_conversationcamp4:close_window|아주 재미있군, 하지만 더 들을 시간이 없소. 이만.
-dlga_asbjorn_conversationcamp5:asbjorn_conversationcamp6|그렇게 종말이 다가오면 로키랑, 그의 괴물들과 죽은 자들이 다른 세계로 진격하지. 헤임달은 무지개 다리에서부터 그가 진군하는 뿔나팔 소리를 들을 것이고, 신과 인간들은 종말이 다가왔다는 사실에 두려움에 떨겠지. 거대한 전투인 라그나로크는 신과 인간들이 악마의 군단에 대항해 싸우는 전투야. 이미 적들은 대비가 잘 되어있었기에 신들은 패퇴하고, 세계는 혼돈의 도가니에 빠지고. 오딘은 펜리르라는 늑대에게 삼켜지게 되지.
-dlga_asbjorn_conversationcamp6:asbjorn_conversationcamp7|그럼, {playername}. 그렇게 믿을 만한 운명은 아닌 것 같지만, 이것 하나만은 확실하게 알 수 있네. 우리가 뭘 어떻게 하든 우린 망했다는 것. 고로 그저 하루하루를 즐기는 것만이 최선이라고 할 수 있네.
-dlga_asbjorn_conversationcamp7:close_window|운명이란 인정사정을 보지 않소, 아스비요른.
-dlga_asbjorn_conversationcamp7:close_window.1|난 내 길을 개척하겠소, 아스비요른.
-dlga_conversation_companioncamp:helgi_conversationcamp1|{playername}, 당신도 알겠지만 아주 오래 전 나는 동쪽의 루스라는 땅에 살고 있었어요. 난 슬라브인들의 땅을 지나 머나먼 길을 여행했었죠. 상당히 좋은 부츠를 신었고 부자도 되었지. 운명이 모든 것을 뒤틀어놓고 날 서쪽으로 불러놓기 전까지는.
-dlga_helgi_conversationcamp1:helgi_conversationcamp2|내가 당신에게 말하지 않은 것이 있는데 난 사랑때문에 가슴앓이를 했어. 난 야를의 아내를 사랑했고, 또 그녀도 날 사랑했지. 우린 서로의 감정을 비밀로 부쳤지만 누군가 우릴 배신했던 거야. 야를은 그녀의 아내를 죽였고 내 목에 현상금을 걸었지만 난 도망치지 않았어.
+dlga_asbjorn_conversationcamp4:asbjorn_conversationcamp5|더 이야기해 보시오.
+dlga_asbjorn_conversationcamp4:close_window|재미있는 이야기지만 더 들을 시간이 없소. 이만 가보겠소.
+dlga_asbjorn_conversationcamp5:asbjorn_conversationcamp6|그렇게 종말이 다가오면 로키와 그의 괴물들, 그리고 죽은 자들의 군대가 다른 세계로 진격하지. 헤임달은 무지개 다리에서부터 뿔나팔을 불어 침공을 알릴 것이고, 신들과 인간들은 종말이 다가왔음을 직감하고 두려움에 떨겠지. 선과 악의 군대가 격돌하는 거대한 전투, 라그나로크가 벌어지는 거야. 예언에 따라서 신들은 패배하고 세계는 혼돈에 휩싸여 파괴될테지. 오딘은 늑대 펜리르에게 잡아먹히게 될 것이고.
+dlga_asbjorn_conversationcamp6:asbjorn_conversationcamp7|자, {playername}. 그리 희망적인 운명은 아니지만, 여기서 배울 수 있는 건 하나야. 우리가 무엇을 하든 결국 멸망은 정해져 있다는 것. 그러니 매일매일의 삶을 온전히 즐기는 것이 최선이라는 마음으로 살아야 해.
+dlga_asbjorn_conversationcamp7:close_window|운명이란 냉혹한 법이지, 아스비요른.
+dlga_asbjorn_conversationcamp7:close_window.1|난 내 운명을 스스로 개척하겠소, 아스비요른.
+dlga_conversation_companioncamp:helgi_conversationcamp1|{playername}, 당신도 알겠지만 아주 오래 전 나는 동쪽의 루스라는 땅에 살고 있었어요. 난 슬라브인들의 땅을 지나 머나먼 길을 여행했었죠. 상당히 좋은 장화를 신었고 부자도 되어봤지. 운명이 모든 것을 뒤틀어 나를 서쪽으로 불러들이기 전까지는 말이에요.
+dlga_helgi_conversationcamp1:helgi_conversationcamp2|내가 당신에게 말하지 않은 것이 있는데 난 사랑때문에 가슴앓이를 했어. 난 야를의 아내를 사랑했고, 또 그녀도 나를 사랑했지. 우린 서로의 감정을 비밀로 부쳤지만 누군가 우릴 배신했던 거야. 야를은 아내를 죽이고 내 목에 현상금을 걸었지만, 난 도망치지 않았어.
 dlga_helgi_conversationcamp2:helgi_conversationcamp4|듣고 있소.
-dlga_helgi_conversationcamp2:close_window|이제 그만. 당신 아무래도 다른 사람 아내에게서 손 떼야 할 것 같소.
-dlga_helgi_conversationcamp4:helgi_conversationcamp5|난 내 얼굴에 검댕을 칠하고 시커먼 옷을 업있다. 그 날, 난 그의 농장에 쳐들어가 잠들어있는 그를 죽였어. 그리고 날 아는 사람이 없는 서쪽으로 도망쳤지. 여태까지 내가 당신에게 말했던 것은 모두 진짜였지만, 이것이 내가 여기 있는 진짜 이유야. 그런데다, 당신이 내가 믿고 따를 수 있는 진정한 지도자라는 사실을 깨달았지.
-dlga_helgi_conversationcamp5:close_window|솔직히 말해줘서 고맙군.
-dlga_helgi_conversationcamp5:close_window.1|멋진 얘기군. 하지만 당신 다른 사람 아내에게 손 떼셔야 할 것이오.
-dlga_conversation_companioncamp:helgiromance_conversationcamp1|내가 사랑했던 여인 헬가가 죽은 이후로, 난 다시는 사랑에 빠질 수 없을거라 생각했소, {playername}.
-dlga_helgiromance_conversationcamp1:helgiromance_conversationcamp3|내 오랜 상처가 이제야 아문 것 같군. 이제 새로운 관계를 맺을 때가 되었어.
-dlga_helgiromance_conversationcamp3:helgiromance_conversationcamp4|그렇다고 하니 기쁘군.
-dlga_helgiromance_conversationcamp3:close_window|글쎄, 어디 방패벽 진형에 세워도 잘 싸울 수 있는지 보자고.
-dlga_helgiromance_conversationcamp4:close_window|나도 그렇다고 하니 기쁘오.
-dlga_conversation_companioncamp:helgiromance2_conversationcamp1|얘기를 좀 해야겠소, {playername}. 내겐 심각한 문제요. 허나 딱 한 번만 말하겠소.
-dlga_helgiromance2_conversationcamp1:helgiromance2_conversationcamp3|당신도 알다시피, 난 당신이 흥미로웠소. 당신에게 감사하고 좋아했지. 당신이 날 볼때도 서로 같은 감정을 느낀다고 생각하지만, 확실하지는 않소.
+dlga_helgi_conversationcamp2:close_window|그만하시오. 남의 아내에게서 손을 떼는 법부터 배워야겠구려.
+dlga_helgi_conversationcamp4:helgi_conversationcamp5|난 내 얼굴에 검댕을 칠하고 시커먼 옷을 입있어. 그날 밤, 그의 농장에 쳐들어가 잠들어있는 야를을 죽여버렸지. 그리고 나를 아는 사람이 없는 서쪽으로 도망쳤어. 여태까지 내가 당신에게 말했던 것은 모두 진실이지만, 이것이 내가 여기 있는 진짜 이유야. 하지만 이제 당신이야말로 내가 믿고 따를 수 있는 진정한 지도자라는 사실을 깨달았지.
+dlga_helgi_conversationcamp5:close_window|솔직하게 말해줘서 고맙소.
+dlga_helgi_conversationcamp5:close_window.1|그럴듯한 이야기군. 하지만 앞으로는 남의 아내를 탐하지 마시오.
+dlga_conversation_companioncamp:helgiromance_conversationcamp1|내가 사랑했던 여인, 헬가가 죽은 뒤로 다시는 사랑에 빠질 수 없을 거라 생각했소, {playername}.
+dlga_helgiromance_conversationcamp1:helgiromance_conversationcamp3|오랜 상처가 마침내 아문 것 같소. 이제 새로운 관계를 시작할 준비가 되었네.
+dlga_helgiromance_conversationcamp3:helgiromance_conversationcamp4|그 말을 들으니 기쁘구려.
+dlga_helgiromance_conversationcamp3:close_window|글쎄, 이제 방패벽 안에서 더 잘 싸우는지 지켜보겠소.
+dlga_helgiromance_conversationcamp4:close_window|나에 대해 그렇게 좋게 말해주니 정말 기쁘오.
+dlga_conversation_companioncamp:helgiromance2_conversationcamp1|당신과 대화가 필요하오, {playername}. 내게는 아주 중대한 문제지만, 딱 한 번만 말하겠소.
+dlga_helgiromance2_conversationcamp1:helgiromance2_conversationcamp3|알다시피 난 당신에게 흥미를 느끼고 있고, 당신을 아끼고 좋아하오. 당신이 나를 볼 때도 같은 감정을 느낀다고 생각하는데 확실치가 않구려.
 dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4|그렇소, 헬기. 나도 당신을 많이 좋아하오.
-dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4_2|미안하오, 하지만 난 관심이 없소.
-dlga_helgiromance2_conversationcamp4:helgiromance2_conversationcamp5|그런 말을 들으니 정말로 행복하네! 헬가가 죽고난 이후로 다시는 사랑에 빠질 수 없을 것만 같았지. 하지만 여기 우리가 있소. 우린 잘 지낼 수 있을 것이오.
-dlga_helgiromance2_conversationcamp4_2:close_window|미안하네, 미안하오. 이거 부끄럽군. 난 그저... 내가 틀렸군. 미안하오. 다시는 방해하지 않겠소. 해야할 일이 있군.
-dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp6|그래, 우린 함께 할 수 있소. 그러니 헬가 얘기는 그만 합시다.
-dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp7|아니, 그냥 장난이었소. 난 당신에게 전혀 관심 없소.
+dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4_2|미안하지만, 난 당신에게 이성적인 관심이 없소.
+dlga_helgiromance2_conversationcamp4:helgiromance2_conversationcamp5|그 말을 들으니 정말 행복하오! 헬가가 떠난 뒤로 다시는 누군가를 사랑할 수 없을 줄 알았는데, 이렇게 우리가 만났구려. 우린 정말 잘 어울리는 한 쌍이 될 거요.
+dlga_helgiromance2_conversationcamp4_2:close_window|미안하오, 정말 미안하오. 참으로 부끄럽구려. 내가... 착각을 했소. 사과하겠소. 다시는 이 일로 방해하지 않겠소. 나도 할 일이 있으니 이만 실례하지.
+dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp6|좋소, 우린 함께할 수 있소. 하지만 이제 헬가 이야기는 그만합시다.
+dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp7|아니, 그저 장난이었소. 난 당신에게 전혀 관심 없소.
 dlga_helgiromance2_conversationcamp6:close_window|정말 행복하오, 정말 사랑한다오. 내 짐들을 당신 막사로 옮겨놔야겠군!
 dlga_helgiromance2_conversationcamp7:close_window|그딴 농담은 개도 안 받아주겠소, 이 개같은 년! 썩 꺼져!
-dlga_conversation_companioncamp:agathinos_conversationcamp1|안녕하신가 {playername}! 안 그래도 당신 얘기를 하던 참이었소. 당신이 그냥 전쟁군주로 남든지 브리튼왈다가 되고 싶은지에 대해 말이오. 실례하지만 조금 무례할 수도 있소. 여기 헤라클리오를 만나보시오.
-dlga_agathinos_conversationcamp1:agathinos_conversationcamp2|--아가티노스는 그의 목소리를 날카롭게 바꿨습니다.--^^안녕하십니까 {playername}, 전 니케아의 헤라클리오라고 합니다.
-dlga_agathinos_conversationcamp2:agathinos_conversationcamp3|아가티노스, 무슨 뜻이지?
-dlga_agathinos_conversationcamp2:agathinos_conversationcamp3.1|안녕하시오, 헤라클리오.
-dlga_agathinos_conversationcamp2:close_window|또 독버섯을 먹은 것이오? 가서 조금 주무시구려.
-dlga_agathinos_conversationcamp3:agathinos_conversationcamp4|헤라클리오는 니케아로 돌아가기 전 우리와 시간을 보내는 중이라오. 노스인들 사이에서 힘들고 고통스러운 노예 생활을 하느라 오랫동안 그를 보지 못했거든. 그는 곧 떠날 거요, 하지만 떠나기 전에 당신을 보고 싶다더군.
-dlga_agathinos_conversationcamp4:agathinos_conversationcamp5|만나서 반갑소, 헤라클리오.
-dlga_agathinos_conversationcamp4:close_window|이 일에 쓸 시간 없소. 그럼.
-dlga_agathinos_conversationcamp5:agathinos_conversationcamp6|--아가티노스는 그의 목소리를 날카롭게 바꿨습니다.--^^내 형제는 배다른 형제에요, 걸출한 기술자 아가티노스가 당신 얘기를 많이 해줬죠. 그는 당신이 브리튼왈다가 될 거라고 하지만 전 그냥 당신이 전쟁군주라고 생각해요.
-dlga_agathinos_conversationcamp6:agathinos_conversationcamp7|아가티노스가 옳소. 언젠가 난 브리튼왈다가 될 것이오.
-dlga_agathinos_conversationcamp6:agathinos_conversationcamp7.1|당신이 옳소. 난 그냥 전쟁하는 사람일 뿐이오.
-dlga_agathinos_conversationcamp7:close_window|--당신의 눈 앞에서 아가티노스는 자기 자신과 이야기하기 시작했습니다. 그의 목소리를 바꿔가며 당신에겐 신경도 쓰지 않았습니다.--
-dlga_conversation_companioncamp:brunhildvsegil_conv1|진심이오, 에길? 정말 추종자들이랑 지냈단 말이오? 난 당신이 우릴 진심으로 돌봐주는 줄 알았는데, 이제 보니 내가 틀렸구려. 당신은 그저 개자식일 뿐이었소.
-dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|브륀힐드, 자기, 당신은 그저 노예이고 난 왕자요. 우리 얘기가 진심일 리 없잖소. 그냥 재미좀 보는 거지, 다른 건 없소. 당신이 아는 줄 알았는데, 정말 왕자를 사귈 수 있다고 생각하다니 진심으로 멍청하기 짝이 없구려. 당신을 좋아하긴 했지만, 난 다른 사람들과도 즐거운 시간을 가질 것이오. 누가 알겠소? 어쩌면 언젠가 결혼할 여자를 찾을 수 있을지도 모르지.
-dlga_brunhildvsegil_conv2:brunhildvsegil_conv3|진정해!
-dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(아무 말도 하지 않습니다)
-dlga_brunhildvsegil_conv3:brunhildvsegil_conv4|정말 그렇게 생각해요? 당신도 그렇게 특별할 건 없어요. 당신의 아버지가 왕일지 몰라도 당신 어머니는 나와 같은 노예일 뿐이죠. 나보다 더 좋은 여자는 만날 수 없을 거에요. 그리고 당신 태도를 바꾸지 않는다면 절 가질 수도 없을 거고요.
-dlga_brunhildvsegil_conv4:brunhildvsegil_conv5|내가 상속자라는 걸 공식적으로 증명해야 할 필요도 없소. 모두가 내가 덴마크의 왕자라는걸 알고 이 왕국의 여자들은 내가 보고 싶어 땅이 꺼져라 한숨을 쉬지. 너무 오해하지 마시오. 당신을 좋아하고 할 수 있는 대로 하는 건 좋지만, 그 이상으로 갈 수는 없소.
-dlga_brunhildvsegil_conv5:close_window|...^^--이곳에서 더 이상 할 수 있는 것이 없었습니다. 당신은 필사적으로 달렸습니다.--
-dlga_conversation_companioncamp:clovisvshegil_conv1|당신네 사람들은 강한 군대가 어떤 전투든 이길 수 있을 것이라 생각하지만 항상 그런건 아니오. 좋은 진형과 영리한 전략이 용감한 전사들보다 훨씬 중요해. 심지어 결투에서도 병사의 힘이 승리나 패배의 주요 요인은 아니라오.
-dlga_clovisvshegil_conv1:clovisvshegil_conv2|당신같은 약한 족속들은 항상 그렇게 생각하지. 바로 그점이 스베아의 용맹한 군사들, 아니면 그냥 단순한 덴마크인들조차도 당신네 땅을 터는 이유가 되는 것이오. 서로를 붙잡고 춤추는 대신에 훈련에 조금 더 신경을 써서 훌륭한 전사가 되는데 집중했다면, 이런 프랑키아의 코딱지만한 땅 대신에 진짜 왕국을 손에 넣을 수 있었을것을.
-dlga_clovisvshegil_conv2:clovisvshegil_conv3|어디 놀래킬 건덕지도 하나 없이 개방적으로 해보시오.  어떻게 되나 한 번 봅시다. 교육도 제대로 못 받은 당신네 군대는 순식간에 무너지고 당신들 중 아무도 살아남지 못 할거요. 왜냐면 당신네들은 후퇴해야 할 때를 모르니까.
-dlga_clovisvshegil_conv3:clovisvshegil_conv4|하! 겁쟁이들! 패배자로서 망신살 뻗치는 것 보다 용감히 죽는게 낫다! 승리가 아니면 죽음 뿐!
-dlga_clovisvshegil_conv4:clovisvshegil_conv5|프랑키아가 스베아보다 좋은 전사들을 육성하오.
-dlga_clovisvshegil_conv4:clovisvshegil_conv5_2|스베아가 프랑키아보다 좋은 전사들을 육성하오.
-dlga_clovisvshegil_conv4:clovisvshegil_conv5_3|아무래도 둘 다 틀린 것 같소. 좋은 군대는 강한 군사와 엄격한 규율 두 가지가 모두 필요하오.
-dlga_clovisvshegil_conv5:clovisvshegil_conv6|하! 전쟁군주께서 날 좋아하시는 모양이군.
-dlga_clovisvshegil_conv6:close_window|할 말을 아껴둬야겠군.
-dlga_clovisvshegil_conv5_2:clovisvshegil_conv6_2|그 말 대로요. 하!
-dlga_clovisvshegil_conv6_2:close_window|누가 물어보기나 했소? 난 여태까지 사적인 회의로 알고 있었는데.
-dlga_conversation_companioncamp:bedavsagathinos_conv1|--아가티노스는 초소의 한 여인을 굉장히 흥미롭게 바라보았습니다...--
-dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|--...브룬힐드를.--
-dlga_bedavsagathinos_conv2:bedavsagathinos_conv3|--땅에 침을 뱉으며--^^그리스 놈들은 다 색골이라니까.
+dlga_conversation_companioncamp:agathinos_conversationcamp1|반갑소, {playername}! 안 그래도 당신 이야기를 하던 참이었소. 당신이 그저 한 명의 전쟁 군주로 남을 것인지, 아니면 '브리튼왈다'가 되려는 야심이 있는지에 대해서 말이오. 아, 실례했구려. 여기 내 친구 헤라클리오를 소개하겠소.
+dlga_agathinos_conversationcamp1:agathinos_conversationcamp2|-- 아가티노스가 목소리를 날카롭게 바꿉니다 --^^안녕하십니까 {playername}, 저는 니케아에서 온 헤라클리오라고 합니다.
+dlga_agathinos_conversationcamp2:agathinos_conversationcamp3|아가티노스, 이게 대체 무슨 장난이지?
+dlga_agathinos_conversationcamp2:agathinos_conversationcamp3.1|반갑소, 헤라클리오.
+dlga_agathinos_conversationcamp2:close_window|또 독버섯을 먹은 것이오? 가서 잠이나 좀 자두구려.
+dlga_agathinos_conversationcamp3:agathinos_conversationcamp4|헤라클리오는 니케아로 돌아가기 전 며칠 동안 우리와 함께 지낼 것이오. 노스비거의 노예로 고통스러운 나날을 보낸 이후로 아주 오랫동안 그를 보지 못했거든. 그는 곧 떠나겠지만, 그전에 당신을 꼭 만나고 싶어 했소.
+dlga_agathinos_conversationcamp4:agathinos_conversationcamp5|마침내 당신을 만나게 되어 정말 반갑소, 헤라클리오.
+dlga_agathinos_conversationcamp4:close_window|이런 장난에 낭비할 시간 없소. 그럼 이만.
+dlga_agathinos_conversationcamp5:agathinos_conversationcamp6|-- 아가티노스가 다시 목소리를 날카롭게 바꿉니다 --^^내 형제 아가티노스는 배다른 형제지만, 아주 뛰어난 기술자이자 당신에 대해 칭찬을 아끼지 않더군요. 그는 당신이 브리튼왈다가 될 거라 믿지만, 내가 보기엔 당신은 그저 흔한 전쟁 군주일 뿐입니다.
+dlga_agathinos_conversationcamp6:agathinos_conversationcamp7|아가티노스의 말이 맞소. 언젠가 난 브리튼왈다가 될 것이오.
+dlga_agathinos_conversationcamp6:agathinos_conversationcamp7.1|당신 말이 맞소. 난 그저 전쟁터에서 살아가는 사람일 뿐이오.
+dlga_agathinos_conversationcamp7:close_window|-- 당신의 눈앞에서 아가티노스는 자기 자신과 논쟁을 벌이기 시작합니다. 목소리를 바꿔가며 당신에게는 신경도 쓰지 않은 채 말입니다. --
+dlga_conversation_companioncamp:brunhildvsegil_conv1|진심이오, 에길? 정말 캠프의 잡부 여인과 바람을 피웠단 말이오? 당신은 우리를 진심으로 아끼는 특별한 사람인 줄 알았는데, 이제 보니 내가 틀렸구려. 당신은 그저 개자식일 뿐이었소.
+dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|브륀힐드, 이봐. 당신은 그저 노예일 뿐이고 난 왕의 아들이오. 우리 사이가 진심이 될 순 없지. 우린 그냥 즐긴 것뿐이오. 설마 당신이 왕자를 가질 수 있을 거라 생각할 만큼 멍청할 줄은 몰랐군. 당신을 아끼긴 하지만, 난 다른 여자들과도 즐거운 시간을 보낼 거요. 누가 알겠소? 언젠가 결혼할 귀부인을 찾게 될지.
+dlga_brunhildvsegil_conv2:brunhildvsegil_conv3|진정하시오!
+dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(아무 말도 하지 않는다)
+dlga_brunhildvsegil_conv3:brunhildvsegil_conv4|진심으로 그렇게 생각해요? 당신도 그렇게 대단할 것 없어요. 당신 아버지가 왕일지 몰라도 당신 어머니는 나 같은 노예일 뿐이었잖아요. 나보다 나은 여자는 절대 못 만날 거예요. 그런 태도를 고치지 않으면 나조차 잃게 될 거고요.
+dlga_brunhildvsegil_conv4:brunhildvsegil_conv5|내가 공식적인 후계자임을 증명할 필요는 없소. 모두가 내가 덴마크 왕의 아들임을 알고, 이 왕국의 모든 여인이 내가 보고 싶어 땅이 꺼져라 한숨을 내쉬지. 오해하지 마시오. 당신을 사랑하고 지금 우리 사이가 좋긴 하지만, 그 이상은 기대하지 마시오.
+dlga_brunhildvsegil_conv5:close_window|...^^-- 이곳에서 더 이상 할 수 있는 것이 없습니다. 당신은 서둘러 자리를 피했습니다. --
+dlga_conversation_companioncamp:clovisvshegil_conv1|당신네 프랑키아인들은 강한 팔의 힘이 모든 전투를 이길 거라 믿지만 항상 그렇지는 않소. 용맹한 전사보다 정교한 진형과 영리한 전략이 훨씬 중요하단 말이오. 심지어 결투에서도 병사의 힘이 승패를 가르는 절대적인 요소는 아니오.
+dlga_clovisvshegil_conv1:clovisvshegil_conv2|그건 당신들처럼 약해 빠진 족속들이나 하는 생각이지. 그래서 우리 스베아의 용맹한 전사들이나 평범한 데인인들조차 당신네 땅을 약탈하는 것이오. 서로 붙잡고 춤이나 출 시간에 훈련에 매진해 훌륭한 전사가 되었다면, 프랑키아의 그 코딱지만 한 영지 대신 진짜 왕국을 가졌을 텐데 말이오.
+dlga_clovisvshegil_conv2:clovisvshegil_conv3|어디 함정이나 기습 없이 정면으로 한번 부딪쳐 봅시다. 어떤 일이 벌어지는지. 규율이라곤 없는 당신네 부대는 순식간에 무너지고 단 한 명도 살아남지 못할 거요. 당신들은 후퇴해야 할 때조차 모르니까 말이오.
+dlga_clovisvshegil_conv3:clovisvshegil_conv4|하! 겁쟁이들 같으니! 패배자로 수치를 당하느니 용감하게 죽는 게 낫다! 승리가 아니면 죽음뿐이다!
+dlga_clovisvshegil_conv4:clovisvshegil_conv5|프랑키아가 스베아보다 더 뛰어난 전사들을 길러내오.
+dlga_clovisvshegil_conv4:clovisvshegil_conv5_2|스베아가 프랑키아보다 더 뛰어난 전사들을 길러내오.
+dlga_clovisvshegil_conv4:clovisvshegil_conv5_3|둘 다 틀렸소. 좋은 군대에는 강한 전사와 엄격한 규율, 이 두 가지가 모두 필요하오.
+dlga_clovisvshegil_conv5:clovisvshegil_conv6|하! 전쟁 군주께서 내 마음을 잘 아시는군.
+dlga_clovisvshegil_conv6:close_window|더는 말 섞지 않겠소.
+dlga_clovisvshegil_conv5_2:clovisvshegil_conv6_2|정확히 보셨소. 하!
+dlga_clovisvshegil_conv6_2:close_window|누가 물어보기나 했소? 난 이게 우리끼리의 사적인 대화인 줄 알았는데 말이오.
+dlga_conversation_companioncamp:bedavsagathinos_conv1|-- 아가티노스가 야영지의 여인 중 한 명을 아주 흥미롭게 바라봅니다... --
+dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|-- 바로 브륀힐드입니다. --
+dlga_bedavsagathinos_conv2:bedavsagathinos_conv3|--땅에 침을 뱉으며--^^그리스 놈들은 죄다 색골이라니까.
 dlga_bedavsagathinos_conv3:bedavsagathinos_conv4|왜 그렇게 생각하오?
-dlga_bedavsagathinos_conv4:bedavsagathinos_conv5|당신네 수도사들도 죄악의 시대에 살고 있소. 엘비라의 의회에서 성직자들에게 집사람과 같이 일하는 것을 금했소. 안 그러면 어떻게 매일같이 성체 성사를 드리겠소? 만약 저들이 육욕에 굴복했다면, 저들에게 더 무엇을 바라겠소?
-dlga_bedavsagathinos_conv5:bedavsagathinos_conv6|독신주의와 금욕을 헷갈리지 마시오. 엘비라의 의회는 성직자들의 결혼을 금한 적이 없소. 성사를 하기 전 잠자리에 들지 말라는 것 뿐이오.
-dlga_bedavsagathinos_conv6:bedavsagathinos_conv7|섹스는 성적인 행위요. 우린 그 때문에 기독교의 길에서 점점 멀어지는 거지. 순결이야말로 진정한 신의 사자의 의무요. 내가 틀렸소, {playername?}?
-dlga_bedavsagathinos_conv7:bedavsagathinos_conv8|나도 동감하오, 베다. 이들은 호색한이어야 해.
-dlga_bedavsagathinos_conv7:bedavsagathinos_conv9|섹스가 뭘 어쨌다는 것이오? 난 노아보다 많은 자식을 가진 성직자도 봤소.
-dlga_bedavsagathinos_conv7:bedavsagathinos_conv10|난 관여하고 싶지 않소. 이건 당신과 아가티노스의 문제요.
-dlga_bedavsagathinos_conv8:close_window|말 잘했소. 아주 충실하게 행동했더니 하늘의 왕국에 계시는구만.
-dlga_bedavsagathinos_conv9:bedavsagathinos_conv9_2|하! 아주 좋았소!
-dlga_bedavsagathinos_conv9_2:close_window|내가 왜 신경쓰는 건지... 나도 성욕에 포위당했소.
-dlga_bedavsagathinos_conv10:close_window|내가 당신에게 질문한 이유는 당신은 용맹하고 즉답하길 피하는 겁쟁이가 아닐 거라 생각해서였소. 그럼 이만.
-dlga_start:ragnarssons_1|라그나르의 아들들에게 당신이 도착했다는 소식을 전했소. 저 머시아인들 사이를 통과해 들어오다니, 이렇게 용맹할수가! 누가 당신을 보낸 것이오?
-dlga_start:alfredthegreat1|덴마크의 사절이여, 당신을 웨식스의 앨프레드, 에델울프의 자손이자 에델링이고 엘도르멘이오. 나는 또한 신께 총애받았던 위대한 에셀드의 정당한 계승자이자, 웨식스의 왕, 브리튼왈다의 형제이오. 당신의 위에 군림한 자에게 경의를 표하시오.
-dlga_start:close_window.16|미안하지만, 지금은 당신과 이야기나 하고 있을 만한 시기가 아니오. 지도자들은 마을 중앙에 모여 있소.
-dlga_start:close_window.17|주변을 살펴보는 중 입니다.
+dlga_bedavsagathinos_conv4:bedavsagathinos_conv5|당신네 수도사들도 죄악 속에 살고 있잖소. 엘비라 공의회에서는 성직자들이 아내와 동거하는 것을 금지했소. 그렇지 않으면 어떻게 매일 성찬례를 집전할 수 있겠소? 만약 그들이 육욕에 굴복한다면, 그 신도들에게서 무엇을 더 기대하겠소?
+dlga_bedavsagathinos_conv5:bedavsagathinos_conv6|독신주의와 절제를 헷갈리지 마시오. 엘비라 공의회는 성직자의 결혼을 금한 것이 아니라, 성사를 집전하기 전에 합방하는 것을 금했을 뿐이오.
+dlga_bedavsagathinos_conv6:bedavsagathinos_conv7|섹스는 육체적인 행위요. 그것이 우리를 그리스도의 길에서 멀어지게 하는 거요. 순결이야말로 진정한 신의 사자에게 주어진 의무란 말이오. 내 말이 틀렸소, {playername}?
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv8|나도 동감하오, 베다. 이 사람들은 호색한임에 틀림없소.
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv9|섹스가 대체 뭐가 문제라는 거요? 난 노아보다 자식이 더 많은 성직자도 본 적 있소.
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv10|난 관여하고 싶지 않소. 이건 당신과 아가티노스 사이의 문제요.
+dlga_bedavsagathinos_conv8:close_window|옳은 말씀이오. 당신은 하늘나라의 왕국에 아주 가까이 있구려.
+dlga_bedavsagathinos_conv9:bedavsagathinos_conv9_2|하! 아주 통쾌하구려!
+dlga_bedavsagathinos_conv9_2:close_window|내가 왜 이런 소릴 하고 있는지... 내 주변은 온통 육욕에 눈먼 자들뿐이로군.
+dlga_bedavsagathinos_conv10:close_window|용맹하고 정직한 분이라 생각해서 물었는데, 답변을 피하는 겁쟁이였을 줄이야. 그럼 이만.
+dlga_start:ragnarssons_1|라그나르의 아들들에게 당신이 도착했다는 전갈을 보냈소. 이 수많은 머시아인 사이를 뚫고 오다니, 참으로 담대하구려! 대체 누가 당신을 보낸 것이오?
+dlga_start:alfredthegreat1|데인인의 사절이여, 당신을 웨식스의 앨프레드에게 소개하겠소. 에델울프의 아들이자 에델링, 엘도르멘이며 신의 총애를 받는 자요. 또한 위대한 에델레드의 정당한 후계자이자 웨식스의 왕, 브리튼왈다의 형제이기도 하오. 당신보다 높은 지위에 있는 분께 경의를 표하시오.
+dlga_start:close_window.16|미안하지만, 지금은 당신과 한가하게 이야기할 때가 아니오. 지도자들은 마을 광장에 모여 있소.
+dlga_start:close_window.17|주변을 경계하는 중입니다.
 dlga_start:close_window.18|주변을 감시하고 있습니다.
-dlga_start:close_window.19|여긴 내가 감시하고 있습니다.
-dlga_start:close_window.20|수상한 것이 없는지 살펴보는 중 입니다.
+dlga_start:close_window.19|이곳은 제가 감시하고 있습니다.
+dlga_start:close_window.20|수상한 것이 없는지 살펴보는 중입니다.
 dlga_start:close_window.21|나는 그저 시종일 뿐입니다. 울프와 이야기를 해보십시오, {reg59?부인:나리}.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|나는 이 곳을 누구에게 내릴 것인지 결정하기 전에, 나의 봉신들의 의견을 듣고 싶소.
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer.1|이번 사항을 결정할 때까지... 영주와의 약속을 미루고 싶소.
-dlga_award_fief_to_vassal_defer:close_window|당신 뜻대로, {reg59?숙녀분:경}. 언제 결정하든 그것은 당신의 고유한 권리요.
-dlga_award_fief_to_vassal:award_fief_to_vassal_2|이곳을 약탈 하고 떠날것이오.
-dlga_award_fief_to_vassal:award_fief_to_vassal_2.1|이곳을 완전히 황폐화 시키고 떠날것이오.
-dlga_award_fief_to_vassal_2:close_window|당신 뜻대로, {reg59?:숙녀분:경}.
-dlga_award_fief_to_vassal_2:close_window.1|당신 뜻대로, {reg59?숙녀분:경}. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새로운 {reg3?귀부인:귀족}이 될 것이오.
-dlga_award_fief_to_vassal_2:close_window.2|당신 뜻대로, {reg59?부인:주군}. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새로운 {reg3?귀부인:귀족}이 될 것이오.
-dlga_award_fief_to_vassal_2:close_window.3|We have no possibility of doing this. Men want to devastate this site and leave, {reg59?my lady:my lord}.{***}
-dlga_event_triggered:center_captured_rebellion|{s1}은(는) 누구에게도 관리받지 않고 있소. 누구를 책임자로 세울 것이오?
-dlga_center_captured_rebellion:center_captured_rebellion_2.1|부탁하겠소, {s65}. 나는 {s1}을(를) 내가 가지고 싶소. ({fiefs: {s0})
-dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}. 당신이 {s1}을(를) 소유해야 하오. (fiefs: {s0})
-dlga_center_captured_rebellion_2:close_window|흐음. 알겠소, {playername}. 당신의 의견을 높게 치겠소. {reg?내가:{reg7?당신이:{s11}이(가)}}} {s1}의 새로운 {reg3?귀부인:귀족}이 될 것이오.
-dlga_start:fighter_talk|안녕하시오. 우리는 연습 대전을 해서 전투 기술을 연마하는 중이오. 당신이라면 꽤나 훈련좀 했을 것 같은데. 우리와 함께 해서 몇 가지 기술을 좀 보여주는 건 어떻겠소. 또 전투의 개념에 대해 설명이 필요하시면 그냥 물어보시오. 최대한 성심성의껏 대답해주겠소.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer.1|이 결정을 내리기 전까지... 영지의 가치를 좀 더 파악하며 임명을 미루고 싶소.
+dlga_award_fief_to_vassal_defer:close_window|당신 뜻대로 하소서, {reg59?부인:경}. 언제 결정하시든 그것은 당신의 고유한 권리요.
+dlga_award_fief_to_vassal:award_fief_to_vassal_2|이곳을 약탈하고 떠날 생각이오.
+dlga_award_fief_to_vassal:award_fief_to_vassal_2.1|이곳을 완전히 황폐화시키고 떠날 생각이오.
+dlga_award_fief_to_vassal_2:close_window|당신 뜻대로 하소서, {reg59?부인:경}.
+dlga_award_fief_to_vassal_2:close_window.1|당신 뜻대로 하소서, {reg59?부인:경}. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새로운 {reg3?귀부인:영주}가 될 것이오.
+dlga_award_fief_to_vassal_2:close_window.2|당신 뜻대로 하소서, {reg59?부인:경}. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새로운 {reg3?귀부인:영주}가 될 것이오.
+dlga_award_fief_to_vassal_2:close_window.3|우리에겐 그럴 여력이 없소. 병사들은 이곳을 황폐화시키고 떠나야 한다고 주장하고 있소, {reg59?부인:주군}.
+dlga_event_triggered:center_captured_rebellion|{s1}은(는) 누구의 관리도 받지 않고 있소. 누구를 책임자로 세울 것이오?
+dlga_center_captured_rebellion:center_captured_rebellion_2.1|부탁하오 {s65}, 나는 {s1}을 내가 갖고 싶소. (영지: {s0})
+dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, 당신이 {s1}을 직접 소유해야 하오. (영지: {s0})
+dlga_center_captured_rebellion_2:close_window|흠, 알겠소 {playername}. 당신의 조언을 높이 사겠소. {reg6?내가:{reg7?당신이:{s11}이(가)}}} {s1}의 새로운 {reg3?귀부인:영주}가 될 것이오.
+dlga_start:fighter_talk|안녕하시오. 우리는 대련을 통해 전투 기술을 연마하는 중이오. 당신도 훈련을 꽤 받은 것 같은데, 우리와 합류해서 기술을 좀 보여주는 건 어떻겠소? 전투 개념에 대해 설명이 필요하다면 무엇이든 물어보시오. 성심껏 알려주겠소.
 dlga_start:fighter_talk.1|무엇을 연습하겠소?
 dlga_fighter_pretalk:fighter_talk|연습하고 싶은 종목을 말하시오.
-dlga_fighter_talk:fighter_talk_train_attack|공격을 연습하고 싶소.
-dlga_fighter_talk:fighter_talk_train_parry|무기로 방어하는 것을 연습하고 싶소.
-dlga_fighter_talk:fighter_talk_train_combat|연습 대전을 해봅시다.
-dlga_fighter_talk:close_window|[떠납니다]
-dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|좋소. 공격에는 4가지 방향이 있소. 내려치기, 우로 베기, 좌로 베기와 찌르기. 이제 어떻게 공격해야 하는지 알려줄 테니 올바른 방향으로 공격해 보시오. ^^(마우스 좌클릭을 한 상태에서 특정한 방향으로 마우스를 움직이십시오. 예를 들어 내려치기를 하고자 한다면 마우스 좌클릭을 한 상태로 마우스를 위로 올려 리십시오. 화면의 아이콘이 정확하게 행동할 수 있도록 도움을 줄 겁니다.)
-dlga_fighter_talk_train_attack_2:close_window|그럼 시작해봅시다. 난 준비됐소.
-dlga_fighter_talk_train_attack_2:fighter_pretalk|실은 다른 연습이 하고 싶소.
+dlga_fighter_talk:fighter_talk_train_attack|공격 연습을 하고 싶소.
+dlga_fighter_talk:fighter_talk_train_parry|무기로 방어하는 법을 연습하고 싶소.
+dlga_fighter_talk:fighter_talk_train_combat|연습 대전을 해보고 싶소.
+dlga_fighter_talk:close_window|[떠난다]
+dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|좋소. 공격에는 네 가지 방향이 있소. 내려치기, 오른쪽 베기, 왼쪽 베기, 그리고 찌르기요. 이제 내가 지시하는 방향에 맞춰 공격해 보시오. ^^(마우스 왼쪽 버튼을 누른 채 특정 방향으로 마우스를 움직여 공격 방향을 지정하십시오. 예를 들어 내려치기를 하려면 버튼을 누르며 마우스를 위로 올리면 됩니다. 화면의 아이콘이 길잡이가 되어줄 것이오.)
+dlga_fighter_talk_train_attack_2:close_window|그럼 시작해 봅시다. 준비됐소.
+dlga_fighter_talk_train_attack_2:fighter_pretalk|실은 다른 연습을 하고 싶소.
 dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|방패와는 달리, 무기 방어는 오직 한 방향에서 오는 공격만 막을 수 있소. 예를 들어 위로 방어를 하면 내려치기를 막게 되지만, 측면 베기와 찌르기는 막을 수 없을 거요.^^(방어를 하려면 마우스 우클릭을 하고 있어야 합니다.)
-dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|이제 당신에게 다른 방향으로 공격할 자세를 취할 거요. 그리고 당신이 올바른 방향으로 막을 때까지 기다릴 거요. 할 수 있을 만큼 올바르게 방어해보시오.^^(이 훈련은 기본 설정인 '방어 방향 자동 조절' 세팅을 놓고 하면 쉽게 할 수 있습니다. 옵션 메뉴로 들어가 방어 방향 조절을 '마우스 움직임'이나 '키보드'로 조절하면, 방어 방향을 수동으로 정해야 합니다. 훨씬 어렵겠지만, 게임을 훨씬 재밌게 만들어줍니다. 이 연습은 당신이 수동 방어를 사용하고 있다면 훨씬 유용할 겁니다.)
-dlga_fighter_talk_train_parry_3:close_window|그럼 시작해봅시다. 준비됐소.
+dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|이제 내가 다양한 동작으로 공격할 것이고, 당신이 올바른 방향을 막을 때까지 기다려 줄 테니 가능한 한 빨리 반응해 보시오.^^(이 훈련은 기본 설정인 '방어 방향 자동 조절' 세팅을 놓고 하면 쉽게 할 수 있습니다. 옵션 메뉴로 들어가 방어 방향 조절을 '마우스 움직임'이나 '키보드'로 조절하면, 방어 방향을 수동으로 정해야 합니다. 훨씬 어렵겠지만, 게임을 훨씬 재밌게 만들어줍니다. 이 연습은 당신이 수동 방어를 사용하고 있다면 훨씬 유용할 겁니다.)
+dlga_fighter_talk_train_parry_3:close_window|그럼 시작합시다. 준비됐소.
 dlga_fighter_talk_train_parry_3:fighter_pretalk|실은 다른 연습을 하고 싶소.
-dlga_fighter_talk_train_combat:fighter_talk_train_combat_2a|연습 대전은 실전을 대비하는데 아주 좋은 방법이오. 이제 우리 중 하나가 쓰러질 때까지 비살상 무기를 사용해 대결을 펼칠 것이오. 물론 여기저기 멍은 들 수 있겠지만, 실제 무기에 베이는 것보다야 낫지 않겠소?
-dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|연습 대전은 실전을 대비하는 아주 좋은 방법이오. 이제 우리 중 하나가 쓰러질 때까지 비살상 무기를 이용해 대결을 펼칠 것이오. 물론 여기저기 멍은 들 수 있겠지만 진짜 무기에 베이는 것보다야 낫지 않겠소?
-dlga_fighter_talk_train_combat_2:close_window|그럼 시작해봅시다. 준비됐소.
-dlga_fighter_talk_train_combat_2a:fighter_talk_train_combat_2b|그럼 시작해봅시다. 준비됐소.
+dlga_fighter_talk_train_combat:fighter_talk_train_combat_2a|대련은 실전을 대비하는 가장 좋은 방법이오. 이제 우리 중 하나가 쓰러질 때까지 비살상 무기로 싸워봅시다. 멍은 좀 들겠지만, 실전에서 칼에 베이는 것보다는 낫지 않겠소?
+dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|대련은 실전을 대비하는 가장 좋은 방법이오. 이제 비살상 무기를 사용해 승부를 겨뤄봅시다. 멍은 좀 들겠지만 진짜 무기에 베이는 것보다는 나을 거요.
+dlga_fighter_talk_train_combat_2:close_window|그럼 시작합시다. 준비됐소.
+dlga_fighter_talk_train_combat_2a:fighter_talk_train_combat_2b|그럼 시작합시다. 준비됐소.
 dlga_fighter_talk_train_combat_2b:close_window|행운을 빌겠소.
-dlga_fighter_talk_train_combat_2:fighter_pretalk|실은 다른 연습이 하고 싶소.
-dlga_fighter_talk_train_combat_2a:fighter_pretalk|실은 다른 연습이 하고 싶소.
-dlga_start:fighter_parry_try_again|좋소. 공격을 성공적으로 방어했군. 예전보다 익숙하고 훨씬 빠르게 방어할 수 있게 계속 연습해도 좋소. 한 번 더 하겠소?
-dlga_start:fighter_parry_try_again.1|잘 된 것 같지는 않군. 안 그렇소? (기억하시오. 방어하기 위해서는 마우스 우클릭한 상태를 유지해야 합니다.) 다시 하시겠소?
+dlga_fighter_talk_train_combat_2:fighter_pretalk|사실 다른 연습을 하고 싶소.
+dlga_fighter_talk_train_combat_2a:fighter_pretalk|사실 다른 연습을 하고 싶소.
+dlga_start:fighter_parry_try_again|좋소. 내 공격을 성공적으로 막아냈군. 방어 기술에 자신이 생길 때까지 계속 반복해서 속도를 높여 보시오. 한 번 더 해보겠소?
+dlga_start:fighter_parry_try_again.1|그리 잘 되지는 않은 것 같군, 안 그렇소? (기억하시오, 방어를 유지하려면 마우스 오른쪽 버튼을 계속 누르고 있어야 하오.) 다시 해보겠소?
 dlga_fighter_parry_try_again:fighter_talk_train_parry|좋소. 다시 해봅시다.
-dlga_fighter_parry_try_again:fighter_talk_leave_parry|아니, 이 정도면 충분한 것 같소.
-dlga_start:fighter_parry_warn|이보시오! 우린 지금 방어 연습을 하는 중이오! 당신은 방어를 해야지, 반격을 하는게 아니지 않소.
-dlga_fighter_parry_warn:fighter_talk_train_parry|미안하오. 다시 해봅시다.
-dlga_fighter_parry_warn:fighter_talk_leave_parry|미안하오. 이 연습은 관둬야겠소.
-dlga_fighter_talk_leave_parry:close_window|좋소. 원하는 대로 하시오.
-dlga_start:fighter_combat_try_again|제대로 된 것 같지는 않군, 그렇지 않소? 너무 기분 상하지 말고, 다음에는 실수 없이 끝내보도록 하시오. 다시 한 번 해 보겠소?
+dlga_fighter_parry_try_again:fighter_talk_leave_parry|아니오, 이 정도면 충분한 것 같소.
+dlga_start:fighter_parry_warn|이보시오! 지금은 방어 연습 중이오! 내 공격을 막아야지, 왜 나를 공격하는 거요!
+dlga_fighter_parry_warn:fighter_talk_train_parry|미안하오. 다시 한번 해봅시다.
+dlga_fighter_parry_warn:fighter_talk_leave_parry|미안하오. 이 연습은 그만둬야겠소.
+dlga_fighter_talk_leave_parry:close_window|좋소. 당신 뜻대로 하시오.
+dlga_start:fighter_combat_try_again|제대로 된 것 같지 않군, 안 그렇소? 너무 낙담하지 말고 다음번엔 실수를 줄여 보시오. 다시 한번 도전해 보겠소?
 dlga_fighter_combat_try_again:fighter_talk_train_combat|좋소. 한 번 더 하지.
-dlga_fighter_combat_try_again:fighter_talk_leave_combat|아니, 이 정도면 충분하오.
-dlga_fighter_talk_leave_combat:close_window|그럼, 좋소. 언제라도 마음이 바뀌면 얘기해주시오.
-dlga_start:fighter_combat_try_again.1|좋은 승부였소. 이번에는 내가 졌지만, 다음에는 내가 이길 거요. 한 번 더 해보는게 어떻소?
-dlga_start:fighter_talk.2|좋소. 원하는 방향으로 공격하는 법을 배우는 데 성공했군. 원한다면 다시 해도 되고, 아니라면 다른 연습을 해봅시다.
-dlga_start:archer_challenge_2|나쁘지 않군! 궁술의 기초를 잘 파악하고 있는 것 같소. 이제 투석구로도 한 번 해봅시다. 저기 있는 투석구와 투석을 챙기시고 저기 있는 3개의 목표를 맞춰보시오. 투석구는 활과 비교했을 때 훨씬 사용하기 쉽지만 한 번 던지고 나서 재장전을 해야 할거요.
-dlga_start:archer_challenge_2.1|좋소. 투석구를 사용하는 데도 아무런 어려움이 없군. 다음은 던지는 무기요. 저기 보이는 투창들을 집어서 저기 있는 3개의 목표를 맞춰보시오.
-dlga_start:ranged_end2|매일같이 훈련하시오. 그러면 언젠가는 최고의 명사수가 될 수 있을 거요.
-dlga_ranged_end2:close_window|아직 훈련을 하지 않았다면 근접 전투 전문가나 승마술 교관에게 가서 얘기해봐도 괜찮소. 저들도 중요한 기술을 가르쳐줄 거요.
-dlga_start:ranged_end|자, 이로써 당신은 3가지 원거리 무기를 사용하는 법을 배웠소. 나머지는 연습으로 이루어지는 것이지. 매일같이 훈련하시오. 그럼 언젠가는 최고의 명사수가 될 수 있을 거요.
-dlga_ranged_end:close_window|아직 훈련을 하지 않았다면 근접 전투 전문가나 승마술 교관에게 가서 얘기해봐도 괜찮소. 저들도 중요한 기술을 가르쳐줄 거요.
-dlga_start:archer_talk2|좋은 날이오, 젊은이. 나는 내 일생을 켄네머의 야를에게 원거리 무기 사용법을 가르치는데 바쳤소. 활이나 투창이 필요하다면 알려주시오. 그럼 50 페닝에 둘 다 주도록 하겠소.
-dlga_archer_talk2:archer_challenge2|좋소, 당신 부하들과 같이 궁술을 배우고 싶소. (50 페닝)
-dlga_archer_talk2:close_window|아니, 아직은 아니오.
+dlga_fighter_combat_try_again:fighter_talk_leave_combat|아니오, 이 정도면 충분하오.
+dlga_fighter_talk_leave_combat:close_window|좋소. 언제라도 마음이 바뀌면 다시 말해주시오.
+dlga_start:fighter_combat_try_again.1|훌륭한 대련이었소. 이번엔 내가 졌지만 다음번엔 좀 더 조심할 거요. 한 번 더 해보겠소?
+dlga_start:fighter_talk.2|좋소. 원하는 방향으로 공격하는 법을 성공적으로 익혔군. 다시 연습해도 좋고, 다른 과제로 넘어가도 좋소.
+dlga_start:archer_challenge_2|나쁘지 않군! 궁술의 기초를 잘 파악했소. 이제 투석구로도 해봅시다. 저기 있는 투석구와 돌멩이를 챙겨서 목표물 세 개를 맞춰 보시오. 투석구는 활보다 다루기 쉽지만 발사 후 재장전이 필요하오.
+dlga_start:archer_challenge_2.1|좋소. 투석구 사용에도 큰 어려움이 없군. 다음은 투척 무기요. 저기 있는 투창들을 집어서 세 개의 목표물을 맞춰 보시오.
+dlga_start:ranged_end2|매일 훈련하시오. 그러면 언젠가는 최고의 명사수가 될 수 있을 거요.
+dlga_ranged_end2:close_window|아직 훈련 전이라면 근접 전사들이나 승마 교관과도 이야기해 보시오. 그들도 중요한 기술을 가르쳐줄 것이오.
+dlga_start:ranged_end|자, 이것으로 세 가지 원거리 무기의 기초 사용법을 모두 배웠소. 나머지는 연습에 달려 있지. 매일 훈련하시오. 언젠가는 최고의 명사수가 될 거요.
+dlga_ranged_end:close_window|아직 훈련 전이라면 근접 전사들이나 승마 교관과도 이야기해 보시오. 그들도 중요한 기술을 가르쳐줄 것이오.
+dlga_start:archer_talk2|반갑소, 젊은이. 나는 켄네머의 야를 밑에서 사람들에게 원거리 무기 다루는 법을 가르치며 지내고 있소. 연습용 활과 투창이 필요하다면 50 페닝의 돈을 내고 빌려 가시오.
+dlga_archer_talk2:archer_challenge2|좋소, 당신의 부하들과 함께 궁술을 배우고 싶소. (50 페닝 지불)
+dlga_archer_talk2:close_window|아니오, 지금은 됐소.
 dlga_archer_challenge2:close_window|좋은 거래였소.
-dlga_start:archer_talk|좋은 날이오, 젊은이. 나는 내 일생을 배우고자 하는 이들에게 원거리 무기 사용법을 가르쳐주는데 바쳤다오. 스승이 필요하다면 알려주시오. 그러면 활과 투석구, 투창을 쓰는 법을 가르쳐주도록 하겠소.
-dlga_archer_talk:archer_challenge|좋소, 어떻게 사용하는지 알려주시오.
-dlga_archer_talk:close_window|아니, 아직은 아니오.
-dlga_archer_challenge:archer_challenge_2|좋소. 처음 배울 것은 궁술이오. 활은 숙달하기 매우 어려운 무기지. 하지만 한 번 손에 익고 나면 빠르고 강력하게 쏠 수 있소. 저기 보이는 활과 화살을 집어 저 3개의 목표를 맞춰보시오.
-dlga_archer_challenge_2:close_window|좋소, 준비가 끝났소.
-dlga_archer_challenge_2:close_window.1|잠시만, 다른 걸 먼저 해야겠소.
-dlga_start:horseman_melee_challenge_2|말 타는게 즐거웠으면 좋겠군. 이제 좀 더 어려운 걸로 해보는게 어떻겠소. 저기 보이는 장창을 잡고 말에 타고 코스를 돌면서 한 번에 각 목표를 공격해보시오.
-dlga_start:horseman_melee_challenge_2.1|좋소! 말에 탄 상태로 모든 목표를 공격하는 데 성공했군. 초보자에게 쉬운 일은 아니지. 다음 도전은 달리면서 활과 화살로 길 옆의 목표들을 맞추는 거요. 성공적으로 완수하려면 한 목표에 적어도 화살 1개는 꽂아야 하지 않겠소?
-dlga_start:horsemanship_end2|계속 말에 타서 연습한다면 언젠가 최고의 기수가 될 수 있을 거요.
+dlga_start:archer_talk|반갑소, 젊은이. 나는 배우고자 하는 이들에게 원거리 무기 사용법을 가르치며 지내고 있소. 스승이 필요하다면 알려주시오. 활과 투석구, 투창 사용법을 가르쳐주겠소.
+dlga_archer_talk:archer_challenge|좋소, 어떻게 사용하는지 보여주시오.
+dlga_archer_talk:close_window|아니오, 지금은 됐소.
+dlga_archer_challenge:archer_challenge_2|좋소. 첫 훈련은 궁술이오. 활은 숙달하기 어려운 무기지만, 일단 손에 익으면 매우 빠르고 강력하게 쏠 수 있소. 저기 있는 활과 화살을 집어 목표물을 맞추어 보시오.
+dlga_archer_challenge_2:close_window|좋소, 준비됐소.
+dlga_archer_challenge_2:close_window.1|잠시만요, 먼저 다른 걸 좀 하고 싶소.
+dlga_start:horseman_melee_challenge_2|말 타는 게 즐거웠길 바라오. 이제 좀 더 어려운 걸 해봅시다. 저기 있는 기창을 잡고 코스를 돌며 모든 목표물을 한 번씩 타격해 보시오.
+dlga_start:horseman_melee_challenge_2.1|훌륭하오! 마상에서 모든 목표물을 타격하는 데 성공했군. 초보자에겐 쉽지 않은 일이지. 다음 도전은 달리면서 활로 길가에 있는 목표물을 맞히는 것이오. 각 과녁에 적어도 한 발은 꽂아야 성공으로 간주하겠소.
+dlga_start:horsemanship_end2|잘했소. 계속 말 타기와 연습을 게을리하지 않는다면 언젠가 기마 전문가가 될 거요.
 dlga_horsemanship_end2:close_window|아직 훈련을 받지 않았다면 근접 전투 전문가나 궁술 교관에게 가서 이야기해보아도 괜찮소. 스스로를 지키기 위해서 배울 수 있는 건 모두 배울 필요가 있으니 말이오.
-dlga_start:horsemanship_end|계속 말에 타서 연습한다면 언젠가 최고의 기수가 될 수 있을 거요.
+dlga_start:horsemanship_end|매일 말 타기와 연습을 게을리하지 않는다면 언젠가 기마 전문가가 될 거요.
 dlga_horsemanship_end:close_window|아직 훈련을 받지 않았다면 근접 전투 전문가나 궁술 교관에게 가서 이야기해보아도 괜찮소. 스스로를 지키기 위해서 배울 수 있는 건 모두 배울 필요가 있으니 말이오.
-dlga_start:horseman_talk2|좋은 날이오! 나는 여기서 말타기를 연습하려고 했는데, 이 뼛골이 하도 쑤셔서, 오늘은 좀 쉬기로 했소. 승마술을 연습하시고 싶으면 저기 있는 내 말을 타시오. 저 녀석한테는 좋은 일이 될 거요.
-dlga_horseman_talk2:horseman_challenge2|알겠소. 말을 빌려주어서 고맙소.
-dlga_horseman_talk2:close_window|음, 아마도 나중에 할 수 있을 것이오.
-dlga_horseman_challenge2:close_window|문제될 것 없소. 잘 해보시오.
-dlga_start:horseman_talk|좋은 날이오! 나는 여기서 말타기를 연습하려고 했는데, 이 뼛골이 하도 쑤셔서, 오늘은 좀 쉬기로 했소. 승마술을 연습하시고 싶으면 저기 있는 내 말을 타시오. 저 녀석한테는 좋은 일이 될 거요.
-dlga_horseman_talk:horseman_challenge|좋소, 나도 말 타는 연습을 좀 해야겠소.
-dlga_horseman_talk:close_window|음, 아마도 나중에 할 수 있을 것이오.
-dlga_horseman_challenge:horseman_melee_challenge_2|좋소. 이제 승마와 기마 전투를 배울 수 있는 몇 가지 활동을 알려주겠소. 첫 번째는 간단하오. 말을 타고 코스를 한 번 돌아보시오. 느리게든 빠르게든 상관 없소. 슬슬 말을 타는데 익숙졌다면 다시 나에게로 오시오. 그럼 더 거친 훈련을 준비해드리지.
-dlga_horseman_melee_challenge_2:close_window|좋소. 나는 준비를 마쳤소.
-dlga_horseman_melee_challenge_2:close_window.1|잠시만, 먼저 해야 할 일이 있소.
-dlga_tutorial_troop_default:close_window|이보시오, 나는 연습 중이오. 원거리 무기에 대해 배우고 싶으면 저기 궁술 교관에게 말해보시오.
-dlga_start:lord_prison_break_confirm_3|계획에 변경된 점이 있소?
+dlga_start:horseman_talk2|좋은 날이오! 기마 연습을 하려 했는데 늙은 뼈마디가 쑤셔서 오늘은 쉬기로 했소. 승마를 연습하고 싶다면 내 말을 타보시오. 이 녀석에게도 운동이 되어 좋을 거요.
+dlga_horseman_talk2:horseman_challenge2|알겠소. 말을 빌려주어 고맙소.
+dlga_horseman_talk2:close_window|음, 나중에 해야 할 것 같소.
+dlga_horseman_challenge2:close_window|문제없소. 잘 해보시오.
+dlga_start:horseman_talk|좋은 날이오! 기마 연습을 하려 했는데 늙은 뼈마디가 쑤셔서 오늘은 쉬기로 했소. 승마를 연습하고 싶다면 내 말을 타보시오. 이 녀석에게도 운동이 되어 좋을 거요.
+dlga_horseman_talk:horseman_challenge|좋소, 나도 승마 연습을 좀 해야겠소.
+dlga_horseman_talk:close_window|음, 나중에 해야 할 것 같소.
+dlga_horseman_challenge:horseman_melee_challenge_2|좋소. 이제 승마와 기마 전투를 익힐 수 있는 몇 가지 훈련을 주겠소. 첫 과제는 간단하오. 말을 타고 코스를 한 바퀴 돌아보시오. 속도는 상관없소. 승마에 자신이 생기면 다시 오시오. 그때 더 거친 훈련을 주겠소.
+dlga_horseman_melee_challenge_2:close_window|좋소. 준비됐소.
+dlga_horseman_melee_challenge_2:close_window.1|잠시만요, 먼저 해야 할 일이 있소.
+dlga_tutorial_troop_default:close_window|이보시오, 나는 여기서 연습 중이오. 원거리 무기에 대해 배우고 싶다면 저기 궁술 교관에게 말해 보시오.
+dlga_start:lord_prison_break_confirm_3|계획에 변경이라도 있소?
 dlga_start:lord_prison_break|무슨 일이오?
 dlga_start:comp_prison_break|무슨 일이오?
-dlga_comp_prison_break:comp_prison_break1|당신을 탈출시키기 위해 왔소.
-dlga_comp_prison_break:comp_prison_break1a|내 부대에 자유롭게 합류해도 좋소, 친구여.
-dlga_comp_prison_break1:close_window|오, 신께 경의를! 그나저나, 발에 묶인 족쇄 때문에 어디에도 갈 수가 없소. 나가려면 간수에게서 어떻게든 열쇠를 구해야 할 것이오.
-dlga_comp_prison_break1a:close_window|당신을 볼 수 있다니 신께 감사를! 장비를 챙기자마자 부대에 합류하소.
+dlga_comp_prison_break:comp_prison_break1|당신을 구출하러 왔소.
+dlga_comp_prison_break:comp_prison_break1a|다시 내 부대에 합류해도 좋소, 친구여.
+dlga_comp_prison_break1:close_window|오, 신께 경의를! 그나저나, 하지만 다리에 족쇠가 채워져 있어 움직일 수가 없소. 간수에게서 어떻게든 열쇠를 뺏어와야 할 거요.
+dlga_comp_prison_break1a:close_window|당신을 볼 수 있다니 신께 감사를! 짐을 챙기는 대로 최대한 빨리 당신의 부대에 다시 합류하겠소.
 dlga_start:drunk_response|뭘 쳐다보는 거요?
 dlga_start:drunk_response.1|나를 보고 있는 거요?
 dlga_player_duel_response:close_window|쓰레기같은 놈 같으니...
-dlga_player_duel_response:close_window.1|내가 쓰러지는 것보다는 낫지 않겠소?
-dlga_drunk_response:drunk_fight_start|잘 모르겠군. 개가 한 마리 있는 것 같은데.
-dlga_drunk_response:drunk_fight_start.1|실례했소. 사과를 받아주시겠소?
-dlga_drunk_fight_start:close_window|네 목을 잘라 여기에 장식되게 해주지!
-dlga_drunk_response:drunk_player_high_renown|내가 누군지는 아시오?
+dlga_player_duel_response:close_window.1|나보다는 그놈이 쓰러지는 게 낫지 않겠소?
+dlga_drunk_response:drunk_fight_start|잘 모르겠군. 보아하니 어떤 짐승 새끼인 게 분명하군.
+dlga_drunk_response:drunk_fight_start.1|실례했소. 내 사과를 받아주겠소?
+dlga_drunk_fight_start:close_window|네 얼굴의 그 거만한 미소를 단칼에 지워주마!
+dlga_drunk_response:drunk_player_high_renown|내가 누군지 알고나 하는 소리요?
 dlga_drunk_player_high_renown:drunk_fight_start|알게 뭐야?
 dlga_drunk_player_high_renown:drunk_player_high_renown|음, 실은, 알겠소, 알아보겠소, 당신이 누군지 모를 리가 있소? 자비로우신 {reg59?부인:경}. 제발 용서해주시오, 너무 취했던 것 같소. 바로 여기를 떠나도록 하겠소.
 dlga_drunk_player_high_renown:drunk_fight_start.1|네놈이 싸움을 원한다면야 그렇게 해주마!
