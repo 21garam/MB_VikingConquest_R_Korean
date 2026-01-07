@@ -498,105 +498,105 @@ dlga_drunk_response:drunk_fight_start.1|실례했소. 내 사과를 받아주겠
 dlga_drunk_fight_start:close_window|네 얼굴의 그 거만한 미소를 단칼에 지워주마!
 dlga_drunk_response:drunk_player_high_renown|내가 누군지 알고나 하는 소리요?
 dlga_drunk_player_high_renown:drunk_fight_start|알게 뭐야?
-dlga_drunk_player_high_renown:drunk_player_high_renown|음, 실은, 알겠소, 알아보겠소, 당신이 누군지 모를 리가 있소? 자비로우신 {reg59?부인:경}. 제발 용서해주시오, 너무 취했던 것 같소. 바로 여기를 떠나도록 하겠소.
+dlga_drunk_player_high_renown:drunk_player_high_renown|음... 실은... 아, 예, 당신이 누구신지 당연히 알고 말고요, {reg59?부인:나리}. 제발 용서해 주십시오, {reg59?마님:나리} -- 술 기운에 그만 실수를 했습니다. 지금 바로 떠나겠습니다...
 dlga_drunk_player_high_renown:drunk_fight_start.1|네놈이 싸움을 원한다면야 그렇게 해주마!
-dlga_drunk_player_high_renown:close_window|충분히 고려했다. 이제 여기서 썩 꺼져라.
-dlga_start:fistfight_response|당신은 주먹을 몇 번 맞아도 버틸 수 있는 {reg59?여자:남자}처럼 보이는군, 나는 주먹으로 손봐줘야 할 만한 일을 의뢰하고 싶소.
-dlga_fistfight_response:fistfight_response_2|어떻게?
+dlga_drunk_player_high_renown:close_window|그럴 줄 알았다. 이제 여기서 당장 꺼져라.
+dlga_start:fistfight_response|당신은 주먹질 몇 번은 거뜬히 견딜 수 있는 {reg59?여자:남자}처럼 보이는군. 마침 주먹을 써서 돈을 벌 만한 일을 하나 제안하고 싶소.
+dlga_fistfight_response:fistfight_response_2|어떻게 말이오?
 dlga_fistfight_response_2:fistfight_response_2a|좋아. 관심이 있다 하니 잘 됐소. 계획은 이러하오, 좀 복잡한 일이니 잘 들어야 할 거요.
-dlga_fistfight_response_2a:fistfight_response_3|당신과 이 친구가 여기서 싸움을 벌일 거요. 무기도, 갑옷도 없이. 나는 여기 앉아서 배당금을 건 다음, 승자랑 상금을 나눠 가질 것이오. 설령 손해가 있다 하더라도 내가 만회하겠소. 당신은 잃을게 없을 거요. 물론, 피 좀 흘리는 것 빼고.
-dlga_fistfight_response_3:fistfight_response_4|그런데, 당신도 알겠지만 이걸 그럴싸한 투기장 시합처럼 사전에 돈을 모이게 할 능력이 안 된단 말이지. 사람들이 들어오고, 소란스러우니까 몰려들고, 싸우는 사람들에게 한두 푼 던지고 할 거란 말이오. 사람들에게 덤도 좀 주고. 나머지 알아야 할 점이 있다면 이미 맥주 3병이나 들이킨 사람한테는 잘 안 먹힐지도 모른다는 것이지만.
-dlga_fistfight_response_4:fistfight_response_4a|그래서 당신도 알겠지만, 최대한 싸움을 질질 끌어서 당신이 지는 것처럼 보이게 해야 하오. 그럼 사람들은 상대에게 돈을 걸지 않겠소. 그러다 배당금이 돌아가기 전에 바람같이 일어나서 역전승을 거두는 거요. 최대한 돈을 많이 모으고 싶거든 우선 개패듯이 맞고 바닥에 쓰러질 것처럼 있다가 추진력을 얻기 위한 것처럼 일어나 바로 이 단 한방을 날리는 거요. 어찌 되었든 나와 그리고 당신, 그리고 돈을 위해서 마지막에는 꼭 이겨야 하오.
-dlga_fistfight_response_4a:fistfight_response_5|그리고, 싸움을 또 너무 오래 끌면 사람들도 이게 짜고 치는 거라는 걸 눈치챌 거요. 그러니 당신네들 중 한 명도 때리기만 하지 말고 맞아주기도 해야지. 누가 피를 흘리는지는 상관 없지만, 누군가는 피를 꼭 흘려야 하오.
-dlga_fistfight_response_5:fistfight_response_5a|그리고 하나 더, 친구. 당신 상대는 복잡한 건 잘 모르고 있소. 그래서 그냥 당신에게 냅다 달려들 거요. 거기에 예술성을 더하는 건 당신에게 달린 문제요.
+dlga_fistfight_response_2a:fistfight_response_3|당신과 이 친구가 여기서 싸움을 벌일 거요. 무기도, 갑옷도 없이. 나는 여기 앉아서 배당금을 건 다음, 승자랑 상금을 나눠 가질 것이오. 설령 손해가 있다 하더라도 내가 메꾸어 주겠소. 당신은 피를 좀 흘리는 것 말고는 잃을 게 없소.
+dlga_fistfight_response_3:fistfight_response_4|하지만 알다시피 이건 미리 돈을 거는 격식 있는 투기장 시합이 아니오. 사람들은 소란을 듣고 몰려와서, 자기들이 보기에 이길 것 같은 쪽에 돈 한두 푼을 던질 거란 말이오. 나는 그들에게 비슷한 배당을 줄 거요 -- 이미 맥주 세 통을 비운 놈들에게 복잡한 계산은 안 먹힐 테니까.
+dlga_fistfight_response_4:fistfight_response_4a|그래서 말이오, 최대한 싸움을 길게 끌어서 당신이 지고 있는 것처럼 보이게 해야 하오. 그래야 사람들이 상대에게 돈을 걸지 않겠소? 그러다 판돈이 굳기 전에 순식간에 역전해서 이겨버리는 거요. 돈을 가장 많이 버는 방법은 거의 바닥에 쓰러질 정도로 두들겨 맞다가 갑자기 일어나서 상대를 눕히는 거지. 하지만 나와 당신, 그리고 우리 돈을 위해서 결국엔 꼭 이겨야 하오.
+dlga_fistfight_response_4a:fistfight_response_5|그리고 싸움을 너무 오래 끌면 사람들이 조작된 경기라는 걸 눈치챌 거요. 그러니 가끔은 주먹을 일부러 맞아주기도 해야 하오. 누구의 피가 튀는지는 상관없지만, 반드시 피를 봐야 사람들이 믿는 법이지.
+dlga_fistfight_response_5:fistfight_response_5a|한 가지 더. 내 동료인 당신 상대는 복잡한 걸 잘 못하는 친구라 그냥 무턱대고 덤벼들 거요. 그러니 경기에 예술성을 더하는 건 전적으로 당신 손에 달렸소.
 dlga_fistfight_response_5a:fistfight_response_confirm|그래서, 어떻게 생각하시오?
 dlga_fistfight_response_confirm:close_window.1|나는 다른 중요한 일이 있소.
-dlga_start:ramun_introduce_1|좋은 날이요, {reg59?부인:경}.
-dlga_ramun_introduce_1:ramun_introduce_2|미안하지만, 당신은 꼭 상인 같은데 상품은 하나도 안 보이지 않는 것 같소.
+dlga_start:ramun_introduce_1|반갑소, {reg59?아가씨:젊은이}.
+dlga_ramun_introduce_1:ramun_introduce_2|미안하오만, 당신은 상인처럼 보이는데 상품이 하나도 보이지 않는구려.
 dlga_ramun_introduce_1:close_window|신경 쓰지 마시오.
-dlga_ramun_introduce_2:ramun_introduce_3|상인? 아, 그렇소. 물론 거래를 하지. 내 상품은 다른 상품들과는 많이 다를 거요. 밥도 먹여줘야 하고 이틀에 한 번 물도 줘야 하고 내가 돌아서면 곧장 도망치려고도 하는 상품이오.
-dlga_ramun_introduce_3:ramun_introduce_4|가축이오?
-dlga_ramun_introduce_4:ramun_introduce_5|거의 맞췄소. 나로 말할 것 같으면 이 바다에서 움직이는 모든 선박을 관리하는 사람이라고 할 수 있지. 알다시피 선박은 노로 움직이잖소. 그리고 노는 저어주거나 멈출 사람이 필요하지. 내가 취급하는 건 그런 것이오.
+dlga_ramun_introduce_2:ramun_introduce_3|상인? 아, 그렇소. 물론 거래를 하지. 내 상품은 다른 상품들과는 많이 다를 거요. 하루에 두 번씩 밥과 물을 줘야 하고, 눈만 떼면 도망치려고 하거든.
+dlga_ramun_introduce_3:ramun_introduce_4|가축 말이오?
+dlga_ramun_introduce_4:ramun_introduce_5|거의 맞췄소. 나로 말할 것 같으면 이 바다에서 움직이는 모든 배를 움직이게 하는 사람이라고 할 수 있지. 알다시피 선박은 노를 저어야 움직이잖소. 그리고 노는 저어주거나 멈출 사람이 필요하지. 내가 취급하는 건 그런 것이오.
 dlga_ramun_introduce_5:ramun_introduce_6|노 젓는 노예들이로군.
-dlga_ramun_introduce_6:ramun_introduce_7|이제야 알아차리는구만! 이런 무역항은 노잡이 없이는 살아남을 수가 없지. 선박들은 항해를 떠나는 족족 선원들을 잃는 법이니까. 그래서 수요는 언제나 가득 차 있소. 선장들이 내게 와서 짭짤하게 쳐주고 간다오.
+dlga_ramun_introduce_6:ramun_introduce_7|이제야 알아차리는구만! 이런 무역항은 노잡이 없이는 살아남을 수가 없지. 배들은 항해를 떠나는 족족 선원들을 잃는 법이니까. 그래서 수요는 넉넉하게 있소. 선장들이 내게 와서 짭짤하게 쳐주고 간다오.
 dlga_ramun_introduce_7:ramun_introduce_8|노예들은 주로 어디에서 구해오시오?
-dlga_ramun_introduce_8:ramun_introduce_9|대부분은 유죄 선고를 받은 범죄자들을 왕국에서 구해오고 있소. 나머지는 다양한 국가에서 잡혀오는 전쟁 포로, 아니면 빚을 갚을 능력이 안 되는 사람들이지. 내게 불려오는 이유는 내가 값을 제일 잘 쳐주기 때문일 거요. 사략선이나 다른... '개인'에게서 사오기도 하오. 이런 일을 하면서 공급자들이 까다로울 수는 없으니. 당신은 포로를 잡을 일이 없지 않소, 아닌가?
-dlga_ramun_introduce_9:ramun_introduce_10|나를 말하는 것이오?
-dlga_ramun_introduce_10:ramun_introduce_11|안 될 건 또 뭐요? 당신이 여기서 나갈 작정이라면, 곧 아니면 언젠가 다른 이와 칼을 맞대게 될 거요. 그리고 신의 뜻대로 당신이 승자가 될 지도 모르지. 여기서 부수입좀 더 버는게 뭐가 어떻소? 산 채로 잡아서, 내게 데려오면 한 명당 50 페닝을 주겠소. 나는 그가 어디서 뭘 하던 누구였는지는 상관하지 않겠소.
-dlga_ramun_introduce_11:ramun_introduce_12|흠, 생각해봐야겠소.
-dlga_ramun_introduce_12:close_window|생각해봐야겠지 않겠소! 우리는 돈을 많이 벌어야 할 테니, 실수하지 마시오. 우리 두 사람을 위해.
+dlga_ramun_introduce_8:ramun_introduce_9|대부분은 유죄 선고를 받은 범죄자들을 왕국에서 구해오고 있소. 나머지는 다양한 국가에서 잡혀오는 전쟁 포로, 아니면 빚을 갚을 능력이 안 되는 사람들이지. 내게 불려오는 이유는 내가 값을 제일 잘 쳐주기 때문일 거요. 사략선이나 다른... '개인'에게서 사오기도 하오. 이 바닥에서 공급자를 가릴 처지는 아니니까. 혹시 당신에게 넘길 만한 포로가 있지는 않소?
+dlga_ramun_introduce_9:ramun_introduce_10|나 말이오?
+dlga_ramun_introduce_10:ramun_introduce_11|안 될 건 또 뭐요? 당신이 이 도시 밖으로 발을 내딛는다면, 조만간 누군가와와 칼을 맞대게 될 거요. 그리고 신의 뜻대로 당신이 승자가 될 지도 모르지. 그떄 부수입을 좀 더 챙기는 게 어떻겠소? 놈들을 산 채로 잡아 내게 데려오면 한 명당 50 페닝의 돈을 주겠소. 나는 그가 어디서 뭘 하던 누구였는지는 상관하지 않겠소.
+dlga_ramun_introduce_11:ramun_introduce_12|흠. 생각해 보겠소.
+dlga_ramun_introduce_12:close_window|꼭 생각해보시오! 아주 많은 돈을 벌 기회니까 말이오. 우리 두 사람 모두에게 충분할 만큼 말이오.
 dlga_start:ramun_talk|안녕하신가, {playername}.
 dlga_ramun_pre_talk:ramun_talk|다른 건 없소?
 dlga_ramun_talk:ramun_sell_prisoners|포로를 몇 명 데려왔소. 한 번 보겠소?
-dlga_ramun_sell_prisoners:ramun_sell_prisoners_2|어디 한 번 보겠소.
+dlga_ramun_sell_prisoners:ramun_sell_prisoners_2|어디 한번 봅시다...
 dlga_ramun_sell_prisoners_2:close_window|만족스러운 거래였소.
 dlga_ramun_talk:ramun_ask_about_capturing|어떻게 포로를 잡을 수 있소?
 dlga_ramun_talk:ramun_ask_about_capturing.1|포로를 잡는 방법에 대해서 알려줄 수 있겠소?
-dlga_ramun_ask_about_capturing:ramun_have_blunt_weapon|이런 일엔 익숙하지 않은 것 같은데, 안 그렇소? 간단한 방법을 알려드리지. 다른 이를 포로로 잡는 기본은 칼로 그들의 목을 날려버리는게 아니라, 둔기로 기절시켜야만 하오. 메이스나 몽둥이같은 것으로 말이지. 피 흘리며 죽어가는 대신 잠깐 혼수상태에 빠뜨리는 거요. 무슨 소린지 이해하겠소? 분명 당신이 둔기 하나 정도는 갖고 있을 거라고 생각하지만.
-dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes|그렇소.
-dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no|사실대로 말하면, 없소.
-dlga_ramun_have_blunt_weapon_yes:ramun_ask_about_capturing_2|좋소. 이제 남은 일은 그들을 당신이 가진 둔기로 두들겨 패서, 싸움이 끝나면 쇠팔찌를 끼우는 거요. 귀족들에게는 그러기 힘들 것이오. 당신이 무슨 무기를 쓰던 간에 호신술을 몸으로 기억하는 자들이기 마련이라서, 나는 그 것들에 대해 딱히 바라는 바가 없지만, 포로를 구매할 때는 최소한 숨이라도 붙어 있어야만 하오.
+dlga_ramun_ask_about_capturing:ramun_have_blunt_weapon|이런 일엔 익숙하지 않은 것 같은데, 안 그렇소? 간단한 방법을 알려드리지. 다른 이를 포로로 잡는 기본은 칼로 그들의 목을 날려버리는게 아니라, 둔기로 기절시켜야만 하오. 메이스나 몽둥이같은 것으로 말이지. 피 흘리며 죽게 내버려 두는 대신 잠깐 혼수상태에 빠뜨리는 거요. 무슨 소린지 이해하겠소? 분명 당신이 둔기 하나 정도는 갖고 있을 거라고 믿겠소만...
+dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes|물론이오.
+dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no|사실대로 말하자면, 없소.
+dlga_ramun_have_blunt_weapon_yes:ramun_ask_about_capturing_2|좋소. 이제 남은 일은 그들을 당신이 가진 둔기로 두들겨 패서, 싸움이 끝나면 쇠팔찌를 끼우는 거요. 귀족들은 조금 다르지만, 일반적인 폭도들은 날카로운 것에 찔리면 죽어버리기 마련이오. 내 상품에 요구 사항은 많지 않지만, 살아서 숨은 쉬고 있어야 한다는 점은 확실히 해두겠소.
 dlga_ramun_have_blunt_weapon_no:ramun_have_blunt_weapon_no_2|없소? 당신 운 좋은 줄 아시오. 안 그래도 여기 웬 오래된 몽둥이가 있길래 버리려던 참이었소. 조금 낡긴 했지만, 사람 하나 움직이지 못 할 때까지 두들겨 패기에는 충분하지. 자, 가져가시오.
-dlga_ramun_have_blunt_weapon_no_2:ramun_have_blunt_weapon_yes|고맙소. 아무래도 직접 시도해봐야 알 수 있을 것 같군.
-dlga_ramun_ask_about_capturing:ramun_ask_about_capturing_2|좋소, 다시 간단한 방법에 대해 설명해 주겠소. 다른 이를 포로로 잡는 기본은 칼로 그들의 목을 날려버리는게 아니라, 둔기로 기절시켜야만 하오. 메이스나 몽둥이같은 것으로 말이지. 피 흘리며 죽어가는 대신 잠깐 혼수상태에 빠뜨리는 거요. 무슨 소린지 이해하겠소?
-dlga_ramun_ask_about_capturing_2:ramun_ask_about_capturing_3|알겠소, 그건 이해할 수 있겠소. 그 밖에 다른 주의사항은 없소?
-dlga_ramun_ask_about_capturing_3:ramun_ask_about_capturing_4|음, 이게 또 그렇게 쉽지만은 않소. 둔기는 날무기에 비해서 위력이 약하거든, 그래서 적들을 빨리 쓰러트리지는 못할 거요. 그러니까 검 대신 둔기를 뽑아 들 때에는 격식 차릴 생각같은 건 하지 않는 것이 좋을 거요. 거기다, 포로를 데리고 있으면 부대 움직임이 좀 느려질 거요. 사람들이 싸우고 나서 포로들을 놓아주는 이유이기도 다 그것 때문이오. 미친 짓이지. 어떤 양반이 그렇게 많은 돈줄들을 그냥 풀어주겠소?
+dlga_ramun_have_blunt_weapon_no_2:ramun_have_blunt_weapon_yes|고맙소. 한번 직접 해보도록 하겠소.
+dlga_ramun_ask_about_capturing:ramun_ask_about_capturing_2|좋소, 다시 간단하게 설명해 주지. 포로를 잡는 기본은 칼로 베는 게 아니라, 메이스나 몽둥이 같은 둔기로 기절시키는 거요. 피 흘려 죽게 하는 대신 잠시 재우는 거지. 귀족들은 갑옷이 좋아서 어떤 무기를 써도 상관없을 때가 많지만, 무법자 놈들은 날카로운 무기에 닿으면 그냥 죽어버린다오.
+dlga_ramun_ask_about_capturing_2:ramun_ask_about_capturing_3|알겠소, 이해했소. 그 밖에 주의할 점은 없소?
+dlga_ramun_ask_about_capturing_3:ramun_ask_about_capturing_4|음, 이게 또 그렇게 쉽지만은 않소. 둔기는 날무기에 비해서 위력이 약하거든, 그래서 적들을 빨리 쓰러트리지는 못할 거요. 그러니까 검 대신 둔기를 뽑아 들 때에는 격식 차릴 생각같은 건 하지 않는 것이 좋을 거요. 거기다, 포로를 데리고 있으면 부대의 움직임이 좀 느려질 거요. 사람들이 싸우고 나서 포로들을 놓아주는 이유이기도 다 그것 때문이오. 미친 짓이지. 어떤 양반이 그렇게 많은 돈줄들을 그냥 풀어주겠소?
 dlga_ramun_ask_about_capturing_4:ramun_ask_about_capturing_5|그게 끝이오?
 dlga_ramun_ask_about_capturing_5:ramun_ask_about_capturing_7|마지막으로 하나. 포로를 안전하게 관리한다는 것도 쉬운 일이 아닐 것이오. 이 것도 하나의 기술이라고 봐도 될 것이오. 더 많은 포로를 잡고 싶거든, 더 시도해보고 여러 재주를 익혀야만 할 것이오. 그렇지 않으면 기껏 잡아놓은 포로들이 한 명도 남지 않고 도망쳐버릴 것이오.
 dlga_ramun_ask_about_capturing_7:ramun_pre_talk|고맙소. 잘 기억해두겠소.
-dlga_ramun_talk:ramun_ask_prisoners|그 외에 포로 생포에 대해 더 알아야 할게 있소?
-dlga_ramun_ask_prisoners:ramun_pre_talk|만약 당신이 원한다면, 야영을 하는 동안 포로들을 심문하여 당신의 부대에 합류할 기회를 줄 수 있소. 물론, 이들이 합류한다면 당신의 부대 사기는 떨어질 것이고 어떤 녀석들은 도망가기 위해 거짓 맹세를 하기도 할 것이오. 또한 당신 포로들 중에 도적 두목 같은 부대를 지휘할 줄 아는 자가 있다면, 포로들로 부대를 만들어 (최소 50명 이상의 포로가 필요), 자유의 대가로 적의 마을 중 하나를 약탈하게 하거나 성을 직접적으로 공격하게 지시할 수 있다오. 하지만 나에게 데려오는 것이 가장 최고의 선택일 것이오. 하하
+dlga_ramun_talk:ramun_ask_prisoners|내 포로들로 할 수 있는 다른 일은 없소?
+dlga_ramun_ask_prisoners:ramun_pre_talk|만약 당신이 원한다면, 야영을 하는 동안 포로들을 심문하여 당신의 부대에 합류할 기회를 줄 수 있소. 물론, 이들이 합류한다면 당신의 부대 사기는 떨어질 것이고 어떤 녀석들은 그저 도망치기 위해 거짓 맹세를 하기도 할 것이오. 또한 당신 포로들 중에 도적 두목 같은 부대를 지휘할 줄 아는 자가 있다면, 포로들로 부대를 만들어 (최소 50명 이상의 포로가 필요할 것이오.), 자유를 대가로 적의 마을 중 하나를 약탈하게 하거나 성을 직접적으로 공격하게 지시할 수 있다오. 하지만 나에게 데려오는 것이 가장 최고의 선택일 것이오. 하하!
 dlga_ramun_talk:ramun_leave|가봐야겠군.
-dlga_ramun_leave:close_window|기억해 두시오, 포로를 잡게 되거든, 내게 데려오는게 좋을 거요.
-dlga_start:nurse_talk|허튼짓은 하지 않는게 좋으실 거예요.
-dlga_nurse_talk:close_window|걱정 마시오. 안 그래도 주머니도 없소.
+dlga_ramun_leave:close_window|기억하시오, 포로를 잡으면 내게 데려오는 게 좋소. 한 명당 두둑한 돈을 쳐주겠소.
+dlga_start:nurse_talk|허튼짓은 하지 않는 게 좋을 거예요.
+dlga_nurse_talk:close_window|걱정 마시오. 내 옷엔 주머니도 없소.
 dlga_nurse_talk:nurse_talk1|아가씨와 결혼을 하고 싶은데 어떻게 하면 좋을지 말해줄 수 있소?
-dlga_nurse_talk1:nurse_talk2|맨 입으로는 힘들고... 25 페닝이면 어떤가요?
+dlga_nurse_talk1:nurse_talk2|맨 입으로는 힘들고...  제 주머니에 25 페닝의 돈이 들어온다면 생각이 달라질 것 같군요.
 dlga_nurse_talk2:close_window|이런 일로 돈을 줄 수는 없소.
 dlga_nurse_talk2:nurse_talk3|여기 있소. 이제 말해보시오!
-dlga_nurse_talk3:close_window|고맙니다, 영주님. 신랑이 되고 싶다 하셨죠? 신랑이 되시려면 면, 가신이 되거나 전쟁 영웅 같은 저명한 사람이 되셔야 해요. 적어도 주변 영주들 만큼의 명성은 얻으셔야 한다는 거죠. 두 번째로는 아가씨의 아버지나 아버지가 없다면 후견인과 사이가 좋으셔야 해요. 아가씨와 관계가 좋아야 하는 건 당연하고요. 마지막으로 가장 중요한 건 아가씨와 궁합이 맞아야 한답니다. 궁합은 전적으로 영주님의 카리스마에 달려있어요. 따라서 못생기거나, 뚱뚱하거나, 싸구려 수염, 입냄새 등은 단점으로 작용할 수 있어요. 한번 아가씨께 거절당한다고 해서 포기하지 마세요. 아가씨의 마음을 얻기란 쉽지 않답니다. 여러번 시도하셔야 할 수도 있어요. 높은 설득력과 카리스마로 계속 접근하시다 보면 아가씨도 결국엔 결혼 승낙을 하실 거예요. 결혼 승낙을 받고 나면 아가씨의 아버지나 후견인에게 가서 최종적으로 공식적인 축복을 받으시면 된답니다.
+dlga_nurse_talk3:close_window|고맙니다, 나리. 신랑이 후보가 되고 싶다 하셨죠? 우선 가신이 되거나 전쟁 영웅 같은 저명한 사람이 되셔야 해요. 적어도 하급 영주들 만큼의 명성은 얻으셔야 한다는 거죠. 둘째로, 아가씨의 아버지나 후견인과도 사이가 좋아야 해요. 아가씨와 관계가 좋아야 하는 건 당연하고요. 마지막으로 가장 중요한 건 아가씨와 '궁합'이 맞아야 한답니다. 궁합은 전적으로 나리의 카리스마에 달려있어요. 못생겼거나, 뚱뚱하거나, 입에서 술 냄새나 쩐내가 나면 곤란해요. 한 번 거절당했다고 포기 마세요. 아가씨들은 원래 튕기기 마련이니까요. 높은 설득력과 카리스마로 계속 도전하면 결국 승낙할 거예요. 그 후에 아버지나 후견인에게 가서 공식적인 축복을 받으시면 된답니다.
 dlga_start:manhunter_talk_b|이보시오, 당신! 혹시 이 근처에서 무법자 놈들 돌아다니는 거 못 봤소?
 dlga_start:manhunter_talk_b.1|이봐, 거기 당신! 이 주변에 돌아다니던 무법자들을 못 봤소?
 dlga_manhunter_talk_b:manhunter_talk_b1|봤소, 한 시간 전에 이 길을 따라갔소.
-dlga_manhunter_talk_b1:close_window|그럴 줄 알았소, 출발하시오, 친구들. 그 도적놈들을 죽이러 가겠소! 고맙소, 친구.
+dlga_manhunter_talk_b1:close_window|그럴 줄 알았소! 가자, 얘들아! 그 빌어먹을 놈들을 잡으러 가자! 고맙소, 친구.
 dlga_manhunter_talk_b:manhunter_talk_b2|아니, 근래에 들어서는 본 적이 없소.
-dlga_manhunter_talk_b2:close_window|으. 쥐새끼마냥 쥐구멍 파고 숨었나 보군. 하지만 언젠가 다 찾아내고 말 것이오.
+dlga_manhunter_talk_b2:close_window|쳇. 쥐새끼처럼 숨어버린 모양이군. 하지만 조만간 다 찾아내고 말 거요.
 dlga_manhunter_talk_b:manhunter_talk_b3|내가 잡은 범죄자들의 현상금을 받고 싶소.
 dlga_manhunter_talk_b3:close_window|여기, 당신이 받을 현상금이오. 이제 나는 이 친구들과 더 많은 범죄자들을 잡으러 가야겠소.
 dlga_manhunter_talk_b:manhunter_talk_b4|당신들은 마을을 약탈하고 주민들을 납치해 간 쓰레기요. 당신들은 죽어 마땅할 것이오.
 dlga_manhunter_talk_b4:close_window|어디서 감히! 죽을 준비나 해라.
-dlga_manhunter_talk_b:manhunter_talk_b1close|행운을 비오.
+dlga_manhunter_talk_b:manhunter_talk_b1close|좋은 여행 되기를. 작별이오.
 dlga_manhunter_talk_b1close:close_window|잘가시오.
-dlga_looters_2:close_window|나는 하나도 두렵지 않소. 덤빌 테면, 덤벼보시오!
+dlga_looters_2:close_window|나는 당신들이 전혀 두렵지 않소. 덤빌 테면 덤벼 보시오!
 dlga_looters_2:close_window.1|네게 줄 거라곤 이 차디찬 칼날밖에 없다, 이 쓰레기야.
 dlga_looters_2:looters_2bribe|지금 당신이 누구와 이야기하고 있는 것인지 알고 말하는 것이오? 나에게 합류하기로 하면 당신들을 살려주겠소.
 dlga_looters_2bribe:close_window|네가 누구인지는 내 알 바가 아니지. 이제 네가 죽을 시간이다.
-dlga_looters_2bribe:looters_2bribeg|그래, 당신에 대해서 들어본 적이 있소. 듣자하니 당신네 부대들이 버는 전리품 하나는 최고라던데. 용서해주시오. 이처럼 맹렬한 지도자를 따르게 된 것을 아주 감사히 여기겠소.
+dlga_looters_2bribe:looters_2bribeg|그래, 당신에 대해서 들어본 적이 있소. 듣자하니 당신네 부대들이 버는 전리품 하나는 최고라던데. 용서해주시오. 이런 강력한 지도자를 따르게 된다면 우리야 영광이지.
 dlga_looters_2bribe:looters_2bribere|그래, 당신에 대해서 들어본 적이 있지. 당신이 월급 하나는 잘 챙겨준다더군. {reg0} 페닝 정도라면 고려해보겠소.
-dlga_looters_2bribere:close_window|이렇게 좋은 전사들을 내 편에 두지 않고, 싸운다니. 상상이 잘 안되는군. 내 부대에 온 것을 환영하겠소.
-dlga_looters_2bribere:looters_bribe12|오호! 내가 보기에 이 정도 기회면 돈을 좀 더 주셔야 할 것 같은데. 집어치우쇼!
-dlga_looters_2bribere:looters_bribe12.1|Oho! The way I see it, you should be paying me for such an opportunity. Forget it!{***}
-dlga_looters_2bribeg:close_window|뭐요, 당신 여태까지 내가 힘들게 찾아다녔던 그 부대지 않소!
+dlga_looters_2bribere:close_window|이런 훌륭한 전사들을 적으로 돌리는 건 상상도 할 수 없지. 내 부대에 온 것을 환영하오.
+dlga_looters_2bribere:looters_bribe12|나에겐 충분한 돈이 없소...
+dlga_looters_2bribere:looters_bribe12.1|어허! 내가 보기에 이 정도 기회라면 당신이 돈을 더 내야 할 것 같은데. 관두시오!
+dlga_looters_2bribeg:close_window|오, 당신이야말로 내가 그토록 찾아 헤매던 그런 인재요!
 dlga_looters_2bribeg:looters_bribe13|신경 쓰지 마시오. 그냥 해본 말이었소.
 dlga_looters_bribe12:close_window|아, 돈이라면 얼마든지 지불할 수 있지, 애송이.
 dlga_looters_bribe13:close_window|재미있는 말이군, 근데 내 창이 당신에게 할 말이 있다고 하는데.
 dlga_looters_2:close_window.2|그냥 당신을 이 곳에 두고 떠나겠소.
 dlga_start:village_farmer_talk|{reg59?부인:경}, 나는 그저 {s11}에서 온 가난한 농부일 뿐이오. {reg1?{s12}의 시장에 생산품들을 가져다 팔러 가는 길이오.:{s12}의 시장에서 우리 마을로 다시 돌아가는 길이오.}
 dlga_village_farmer_talk:farmer_bandit_information|나는 이 근처에서 도적들을 쫓고 있소, 최근에 도적들을 본 적이 있소?
-dlga_village_farmer_talk:close_window|당신들이 얼마나 가난한지는 일단 뺏어보면 알 수 있을 것이오!
-dlga_village_farmer_talk:close_window.1|그러면, 당신이 가던 길을 계속 가시오. 그럼 이만.
-dlga_start:sea_king_talk|안녕하오. 나는 {s1}의 영주이오. 내 유일한 영지라곤 바다뿐이지. 그나저나 원하는게 무엇이오?
-dlga_start:sea_king_talk.1|
-dlga_start:sea_king_talk.2|
-dlga_sea_king_talk:close_window|선원들을 준비시켜야 할 것이오, 우리는 곧 싸우게 될 거니깐!
-dlga_sea_king_talk:close_window.1|만나서 반갑소. 나는 당신의 왕국과는 우호적이오.
-dlga_sea_king_talk:close_window.2|아무것도 아니오. 내 가던 길이나 계속 가겠소.
-dlga_start:fisher_talk|{reg59?부인:경}, 나는 그저 {s11}의 가난한 어부일 뿐이오.
-dlga_fisher_talk:close_window|당신들이 얼마나 가난한지는 일단 뺏어보면 알 수 있을 것이오!
-dlga_fisher_talk:fisher_talk_1|낚시가 {s11}에서 중요하오?
-dlga_fisher_talk:close_window.1|그러면, 당신이 가던 길을 계속 가시오. 그럼 이만.
-dlga_fisher_talk_1:fisher_talk_2|{s11}은(는) {s21} 낚시 선단이 있소. 그리고 우리 {s22}은(는) 선단이 실어나르는 생선들을 보관하기 위한 소금도 충분히 생산하고 있소.
-dlga_fisher_talk_2:close_window|좋소, 그 정도면 충분히 들은 것 같소.
+dlga_village_farmer_talk:close_window|당신들이 얼마나 가난한지는 일단 털어보면 알 수 있겠지!
+dlga_village_farmer_talk:close_window.1|그럼 계속 가던 길 가시오. 잘 가시오.
+dlga_start:sea_king_talk|반갑소! 나는 {s1}의 영주요. 내 유일한 영지는 이 넓은 바다뿐이지. 그런데 용건이 무엇이오?
+dlga_start:sea_king_talk.1|이봐 거기! 나는 {s1}의 영주지만, 내 유일한 영지는 바다요. 가만 보니 당신이 내 영지를 무단 침범한 것 같군!
+dlga_start:sea_king_talk.2|이봐 거기! 나는 {s1}의 영주지만, 내 유일한 영지는 바다요. 가만 보니 당신이 내 영지를 무단 침범한 것 같군!
+dlga_sea_king_talk:close_window|선원들을 준비시켜라! 곧 싸우게 될 것이다!
+dlga_sea_king_talk:close_window.1|만나서 반갑소. 나는 당신의 왕국과 우호적인 관계요.
+dlga_sea_king_talk:close_window.2|별일 아니오. 이만 가보겠소.
+dlga_start:fisher_talk|{reg59?부인:나리}, 저는 그저 {s11}에서 온 가난한 어부일 뿐입니다.
+dlga_fisher_talk:close_window|당신들이 얼마나 가난한지는 일단 털어보면 알 수 있겠지!
+dlga_fisher_talk:fisher_talk_1|{s11}에서는 낚시가 중요한 생업이오?
+dlga_fisher_talk:close_window.1|그럼 계속 가던 길 가시오. 잘 가시오.
+dlga_fisher_talk_1:fisher_talk_2|{s11}에는 {s21} 낚시 선단이 있소. 그리고 우리 {s22}은 선단이 잡아온 생선들을 보관할 소금도 충분히 생산하고 있지요.
+dlga_fisher_talk_2:close_window|좋소, 그 정도면 충분히 알겠소.
 dlga_start:traveller_ship_talk|좋은 날이오, {reg59?부인:경}. 우리는 {s11}에서 {s12}(으)로 항해하는 중이오.
 dlga_traveller_ship_talk:close_window|당신 선박에 올라타 모든 걸 가져가겠소!
 dlga_traveller_ship_talk:close_window.1|좋소, 그 정도면 충분히 들은 것 같소.
