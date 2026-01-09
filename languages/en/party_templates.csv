@@ -1,68 +1,68 @@
 ﻿pt_none|없음
 pt_rescued_prisoners|구출된 포로들
 pt_enemy|적군
-pt_hero_party|장군 부대
+pt_hero_party|영주 부대
 pt_village_defenders|마을 자경단
 pt_cattle_herd|소 떼
 pt_looters|도적
-pt_manhunters|젊은 전사
-pt_steppe_bandits|노르 바이킹
-pt_taiga_bandits|바이킹
+pt_manhunters|청년 전사단
+pt_steppe_bandits|노르드 바이킹
+pt_taiga_bandits|바이킹 군단
 pt_desert_bandits|노련한 반군
-pt_forest_bandits|강도단
+pt_forest_bandits|노상강도
 pt_mountain_bandits|반군
-pt_sea_raiders|탈주 전사들
+pt_sea_raiders|부랑 전사들
 pt_sea_raiders2|덴마크 정예 바이킹
 pt_fianna|피아나 반군
-pt_frank_looters_1|도적
-pt_frank_looters_2|도적
+pt_frank_looters_1|프랑크 도적단
+pt_frank_looters_2|프랑크 습격단
 pt_deserters|탈주병
 pt_merchant_caravan|상단
 pt_troublesome_bandits|골칫거리 강도단
-pt_bandits_awaiting_ransom|몸 값을 기다리는 강도단
+pt_bandits_awaiting_ransom|몸값을 기다리는 강도단
 pt_kidnapped_girl|납치된 소녀
 pt_village_farmers|마을 농부들
 pt_spy_partners|평범한 여행자들
 pt_runaway_serfs|탈주한 농노
 pt_spy|평범한 시민
 pt_sacrificed_messenger|희생된 전령
-pt_scout_party|정찰병
+pt_scout_party|정찰대
 pt_messenger_party|전령
 pt_raider_party|습격단
 pt_raider_captives|습격단의 포로들
 pt_kingdom_caravan_party|상인
-pt_prisoner_train_party|포로 무리
-pt_default_prisoners|죄수
+pt_prisoner_train_party|포로 압송대
+pt_default_prisoners|포로들
 pt_routed_warriors|패주한 적군
 pt_center_reinforcements|보충병
 pt_kingdom_hero_party|군단
-pt_steppe_bandit_lair|전사들의 캠프
-pt_taiga_bandit_lair|바이킹의 선착장 요새
+pt_steppe_bandit_lair|노르드 바이킹 캠프
+pt_taiga_bandit_lair|바이킹 선착장 요새
 pt_desert_bandit_lair|노련한 탈주자들의 캠프
 pt_forest_bandit_lair|강도단의 소굴
-pt_mountain_bandit_lair|배반자들의 캠프
-pt_sea_raider_lair|노르 바이킹의 선착장 요새
-pt_sea_raider_lair2|덴마크 바이킹의 선착장 요새
+pt_mountain_bandit_lair|반군 캠프
+pt_sea_raider_lair|부랑 전사들의 캠프
+pt_sea_raider_lair2|덴마크 바이킹 요새
 pt_looter_lair|납치단의 은신처
 pt_leaded_looters|강도단 무리
 pt_sacerdotes_party|기독교 성직자들
 pt_paganos_party|다신교 사제단
-pt_sea_raiders_ships|습격단
-pt_sea_raiders_ships2|덴마크 바이킹
-pt_sea_raiders_ships3|습격단
-pt_sea_raiders_ships4|노르 바이킹
-pt_sea_raiders_ships5|스웨덴 바이킹
-pt_sea_raiders_ships6|바이킹
+pt_sea_raiders_ships|프랑크 습격선
+pt_sea_raiders_ships2|덴마크 바이킹 선단
+pt_sea_raiders_ships3|바이킹 습격선
+pt_sea_raiders_ships4|노스비거 바이킹
+pt_sea_raiders_ships5|스베아 바이킹
+pt_sea_raiders_ships6|해적 습격단
 pt_chimney_smoke|연기
 pt_epic_fleet|위대한 바이킹 함대
 pt_port|항구
-pt_ferry_port|항구
-pt_landet_ships|당신의 선박들
+pt_ferry_port|나룻배 선착장
+pt_landet_ships|플레이어의 선박
 pt_fisher_ship|어부
-pt_traveller_ship|여행자
-pt_slave_trader_ship|노예 상인
-pt_sea_king_danish|덴마크 바이킹 침략자
-pt_sea_king_norweg|노르 바이킹 침략자
+pt_traveller_ship|여행자 선박
+pt_slave_trader_ship|노예 상인 선박
+pt_sea_king_danish|덴마크 해상왕
+pt_sea_king_norweg|노르웨이 해상왕
 pt_walrus_hunter|바다코끼리 사냥꾼
 pt_viking_raider|바이킹 습격단
 pt_ambushers|복병
@@ -70,12 +70,12 @@ pt_ship|선박
 pt_sven_doccinga_ca|스벤의 습격단
 pt_sven_lair_deffense|스벤의 은신처
 pt_kennemer_revenge|습격자
-pt_sigurd_farm_men|시구르드의 농부
-pt_wessex_foragers|웨식스 왕국 정찰대
-pt_wessex_patrol|웨식스 왕국 정찰대
-pt_norway_looters|도적
-pt_jetty_port|항구
+pt_sigurd_farm_men|시구르드의 일꾼들
+pt_wessex_foragers|웨식스 정찰대
+pt_wessex_patrol|웨식스 순찰대
+pt_norway_looters|노스비거 도적
+pt_jetty_port|간이 선착장
 pt_boar_herd|멧돼지 무리
 pt_adv_party|전쟁 파티
-pt_slave_hideout|아지트
-pt_village_elder|징집
+pt_slave_hideout|노예 은신처
+pt_village_elder|징집병

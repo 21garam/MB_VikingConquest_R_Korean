@@ -30,8 +30,8 @@ dlga_port_chief2:port_chief3|무엇이 필요하오?
 dlga_port_chief3:port_chief_fleet1|반갑소. 앵글리아로 향하는 '황소목 스벤'과 '하랄드 하랄드손'의 선단에 합류하러 왔소.
 dlga_port_chief3:port_chief_bodoletter1|얼마 전 아틀리 에이릭손이라는 자가 이 항구를 떠났소. 혹 그가 어디로 향했는지 아시오?
 dlga_port_chief3:port_chief_pieles|호그니에게 가죽을 전했으니 이제 당신 차례요. 아틀리 에이릭손은 어디 있소?
-dlga_port_chief3:port_chief_catach|글렌 다 로크에서 '콜룸 카일의 시편'을 가져왔소.
-dlga_port_chief3:port_chief_catach32|아쉽지만 글렌 다 로크는 너무 멀구려. 대신 돈이라도 받아가겠소?
+dlga_port_chief3:port_chief_catach|글렌 다 로흐에서 '콜룸 카일의 시편'을 가져왔소.
+dlga_port_chief3:port_chief_catach32|아쉽지만 글렌 다 로흐는 너무 멀구려. 대신 돈이라도 받아가겠소?
 dlga_port_chief3:port_chief_svenlair|내가 무엇을 원하는지 잘 알 텐데. '황소목 스벤'의 은신처가 어디요?
 dlga_port_chief3:port_chief_buy_ship|배를 한 척 사고 싶소.
 dlga_port_chief_buy_ship:close_window|나를 따르시오!
@@ -105,7 +105,7 @@ dlga_port_chief_catach5_1:port_chief2|내가 더 고맙소.
 dlga_port_chief_catach31:port_chief_catach31_1|음, 고맙소. 은신처는 여기요. 덴마크의 리베 북동쪽, 강 상류에 있소. 좋은 여행 되기를.
 dlga_port_chief_catach31_1:port_chief2|내가 더 고맙소.
 dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^목소리가 너무 크구려, 친구. 이 항구의 누구도 우리가 말하는 내용을 알 필요는 없지 않소? 아무래도 누가 나에 대해서 이야기한 것 같군. 그건 상관 없소. 그게 내 사업을 키우는 방식이니까.^^그럼, 그 쪽은 스벤이 있는 곳을 알고 싶은 거로군. 알려주기는 쉽지만, 당연히 공짜는 아니지. 거기다 싸게 먹힐 일도 아니고. 황소목 스벤은 당신 생각보다 아주 위험한 사람이오.
-dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^내 말을 잘 들으시오. 운 좋게도 내게는 당신 같은 자가 필요하오. 귀공이... 흠, 일종의 '약탈자'가 되어 에리우로 가주어야겠소. 그곳의 어느 수도원에 유물로 보관된 책을 노리는 의뢰인이 있소. '글렌 다 로크'라는 수도원이지. 책의 이름은 '콜룸 카일의 시편'이라오. 난 오직 그 책에만 관심이 있소. 나머지는 당신이 다 가져도 좋소. 책만 가져오면 스벤이 어디 숨었는지 알려주리다.
+dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^내 말을 잘 들으시오. 운 좋게도 내게는 당신 같은 자가 필요하오. 귀공이... 흠, 일종의 '약탈자'가 되어 에리우로 가주어야겠소. 그곳의 어느 수도원에 유물로 보관된 책을 노리는 의뢰인이 있소. '글렌 다 로흐'라는 수도원이지. 책의 이름은 '콜룸 카일의 시편'이라오. 난 오직 그 책에만 관심이 있소. 나머지는 당신이 다 가져도 좋소. 책만 가져오면 스벤이 어디 숨었는지 알려주리다.
 dlga_port_chief_svenlair3:port_chief_svenlair31|제안이 나쁘지 않군! 책을 가져오겠소. 곧 다시 봅시다.
 dlga_port_chief_svenlair3:port_chief_svenlair32|난 수도원을 습격할 생각도 없고, 수도사를 죽일 생각도 없소.
 dlga_port_chief_svenlair3:port_chief_svenlair33|책은 집어치우고 돈으로 해결하는게 어떻소?
@@ -620,12 +620,12 @@ dlga_sven_party1:close_window|가던 길을 가서 왕에게 전하시오. 독�
 dlga_sven_party1:close_window.1|당신의 임무는 잊으시오. 독싱가를 방어할 사람이 한 사람이라도 더 남아있어야 하오.
 dlga_start:thiaderd2|난 당신이 누군지 모르오, 여행자여. 하지만 내 부하들이 당신을 포위했고 계속 움직이겠다면 당신을 죽이려고 서두르지도 않을 것이오. 여긴 우리의 땅이오. 이제 왔던 곳으로 돌아가시오.
 dlga_start:thiader_battle|병사들이여, 무장해라. 저들을 모두 죽여라!
-dlga_thiaderd2:thiaderd_reginhard1|당신이 티데르트요? 내 이름은 {playername}이요. 이야기를 나누고 싶소.
-dlga_thiaderd2:thiaderd_reginhard2|반역자 티데르트? {s4}가 당신에게 인사를 보냈소. 이제 죽을 시간이오.
+dlga_thiaderd2:thiaderd_reginhard1|당신이 티아데르트요? 내 이름은 {playername}이요. 이야기를 나누고 싶소.
+dlga_thiaderd2:thiaderd_reginhard2|반역자 티아데르트? {s4}가 당신에게 인사를 보냈소. 이제 죽을 시간이오.
 dlga_thiaderd2:thiaderd_reginhard3|글쎄, 당신과 맞서고 싶지 않소. 난 가겠소.
-dlga_thiaderd_reginhard1:thiaderd_reginhard31|티데르트여, 당신의 충성스러운 레긴하르트가 여기 왔습니다. 제가 당신 형제에게 무슨 일이 일어났는지 알릴 수 있도록 {playername}가 절 호위하여주겠다고 했습니다.
-dlga_thiaderd_reginhard2:thiaderd_reginhard21|안 돼, 멈춰! 티데르트에게 말해야만 하오!
-dlga_thiaderd_reginhard3:thiaderd_reginhard31|멈추십시오, 티데르트! 당신의 충성스러운 레긴하르트가 여기 왔습니다. 제가 당신 형제에게 무슨 일이 일어났는지 알릴 수 있도록 하기 위해 {playername}가 절 호위하여주겠다고 했습니다.
+dlga_thiaderd_reginhard1:thiaderd_reginhard31|티아데르트여, 당신의 충성스러운 레긴하르트가 여기 왔습니다. 제가 당신 형제에게 무슨 일이 일어났는지 알릴 수 있도록 {playername}가 절 호위하여주겠다고 했습니다.
+dlga_thiaderd_reginhard2:thiaderd_reginhard21|안 돼, 멈춰! 티아데르트에게 말해야만 하오!
+dlga_thiaderd_reginhard3:thiaderd_reginhard31|멈추십시오, 티아데르트! 당신의 충성스러운 레긴하르트가 여기 왔습니다. 제가 당신 형제에게 무슨 일이 일어났는지 알릴 수 있도록 하기 위해 {playername}가 절 호위하여주겠다고 했습니다.
 dlga_thiaderd_reginhard31:thiader_battle|당신과 같이 있는 저자가 레긴하르트라고? 망할 배신자 같으니! 내 형제에게 무슨 짓을 저지른지 알고도 내 앞으로 찾아올 배짱이 있다고 생각했나? 먼저 네 친구 녀석을 죽이고 네 녀석의 흉곽을 까서 허파를 도려내 주겠다. 네 녀석의 야를이 내 형제에게 했던 것처럼 말이다! 병사들이여 무장하라! 저들을 모두 죽여라!
 dlga_thiaderd_reginhard21:thiader_battle|망할! 배신자 레긴하르트가 네놈과 같이 있다니! 레긴하르트, 야를의 부하를 데려온 대가를 아주 톡톡히 치르게 될 거다! 병사들이여 무장하라! 저들을 모조리 죽여라!
 dlga_thiader_battle:close_window|뭐?
@@ -866,7 +866,7 @@ dlga_start:close_window.38|준비를 마치는 대로 떠납시다.
 dlga_start:close_window.39|오늘은 더 이상 내 시간을 낭비하지 말아주시오, {reg59?부인:경}. 우리가 모험을 하는 한, 우리는 다시 만날 수 있을겁니다.
 dlga_start:companion_reginhard4x|웬 고아가 가족들을 도와줘서 고맙다고 하더군. 당신은 좋은 사람이요, {playername}! 내 죄책감을 덜어주고 조금이나마 기쁘게 만들어주었소.
 dlga_start:close_window.40|아다에게 돈을 주고 온 것이오?
-dlga_start:companion_reginhard43|지금은 돌아설지 몰라도, 분명 티데르트의 은신처에는 관심이 있겠지...
+dlga_start:companion_reginhard43|지금은 돌아설지 몰라도, 분명 티아데르트의 은신처에는 관심이 있겠지...
 dlga_companion_recruit_intro_responsebodos:companion_recruit_backstory_a|오딘 릭이 황소목 스벤에게 공격당했을 당시 상황에 대해서 알려주십시오. 제 어머니는 살아계십니까?
 dlga_companion_recruit_intro_responsebrunhilds:companion_recruit_backstory_a|진정하시오. 당신 부친 손크릭이 당신을 찾으라고 날 보냈소.
 dlga_companion_recruit_intro_response:companion_recruit_egil1|조금만 떨어져서 뭘 원하는지 말해보시오.
@@ -959,7 +959,7 @@ dlga_companion_brunhild_conv:companion_brunhild_conv3|저 아름다운 브륀힐
 dlga_companion_brunhild_conv3:companion_brunhild_conv4|그가 그렇게 악질이라니 믿을 수 없소. 켄네머의 야를이야말로 믿을 수 없는 사람이오. 다른 이들을 맘대로 조종하기 위해 할 수 있는 모든 방법을 동원하지요. 만약 그가 시구르드 앞에서 겁을 먹고 소심하게 굴다가도 스쳐 지나가는 이점을 하나라도 찾아낸다면, 분명 진작에 그 이점을 이용해냈을 것이오. 저라면 그를 아주 주의깊게 대할 것이오. 왜냐하면 그는 앞에서는 웃음을 지어 보이다가도 등을 돌리는 순간 칼을 찔러넣을 사람이란 말이오.^우리가 시구르드와 함께 있는다면 최소한 스벤이 어디에서 오는지는 알 수 있지 않겠소?
 dlga_companion_brunhild_conv4:companion_brunhild_conv5|레긴하르트는 시구르드를 모르니까 하는 말이에요. 저는 제가 보고 들을 이야기들이 있어요. 아참, 레긴하르트는 술에 취해있거나 '누군가'를 배신하느라 바빠서 몰랐나보네요.^시구르드는 악의에 젖어있고 절대 용서하는 법이 없어요. 물론 절대 잊어버리지도 않구요.
 dlga_companion_brunhild_conv5:companion_brunhild_conv6|이런 뻔뻔한년! 감히 내 면전에서 날 술 취한 배신자라고 하다니! 넌 나에 대해 아무것도 몰라! 신중하게 말하는 법을 배워야 할거야. 그렇지 않으면 뒤를 조심해야 할거야.
-dlga_companion_brunhild_conv6:companion_brunhild_conv71|브륀힐드! 레긴하르트는 고된 삶을 살아왔소. 티데르트와 있었던 일로 조롱하지 마시오.
+dlga_companion_brunhild_conv6:companion_brunhild_conv71|브륀힐드! 레긴하르트는 고된 삶을 살아왔소. 티아데르트와 있었던 일로 조롱하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv72|레긴하르트! 과거와 후회는 극복해버리고 다시는 부대원들을 위협하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv73|내가 성인이랑 지내는 거요 아니면 애들이랑 지내는 거요? 모두 조용히 하시오! 보도, 어떻게 생각하오?
 dlga_companion_brunhild_conv6:companion_brunhild_conv73.1|보도, 시구르드에 대해 말해줄 것이 없습니까?
@@ -1016,7 +1016,7 @@ dlga_companion_reginhard3:companion_reginhard4|{s2}^^내 가족들이 죽자 난
 dlga_companion_reginhard4:companion_reginhard41|그런데 왜 이제는 함께하지 않는 것이오?
 dlga_companion_reginhard4:companion_reginhard42|지도자에 대해 말해줄 수 있소?
 dlga_companion_reginhard4:companion_reginhard421|그들은 어떻게 찾을 수 있소?
-dlga_companion_reginhard421:companion_reginhard422|찾을 수 없소. 발견되길 원치 않는다오. 그들은 야를을 두려워하오. 티데르트만이 믿을 수 있는 사람들을 가입시킨다오.
+dlga_companion_reginhard421:companion_reginhard422|찾을 수 없소. 발견되길 원치 않는다오. 그들은 야를을 두려워하오. 티아데르트만이 믿을 수 있는 사람들을 가입시킨다오.
 dlga_companion_reginhard422:companion_reginhard423|나라면 충분히 믿을 만하잖소. 원하는 건 다 물어보시오.
 dlga_companion_reginhard422:companion_reginhard423.1|날 갖고 노는 것 같소. 그리고 전혀 마음에 들지 않소. 난 떠나겠소.
 dlga_companion_reginhard423:close_window|{s3}^^날 똑바로 보고 잘 들으시오. 이 반역을 치르면서 수많은 사람들이 힘든 시대를 보내고 있소. 특히 과부들과 고아들이 말이오. 두어스테드에 여자가 한 명 있는데 과부와 고아들을 도와주기 위해 기부금을 모으고 있소. 그녀를 찾아가서 도와주시오. 당신이 좋은 사람인 것 같긴 하지만, 증명해보시오. 이 여자에게 가서 대화해보시오. 이름은 아다라고 하는데, 부두에 있는 큰 집들중 사다리를 올라가야 하는 상점 안에서 찾을 수 있을 거요. 내 이름으로 기부금을 내고 오시오. 이거면 사람들이 날 다른 시선으로 보아주겠지.
@@ -1101,7 +1101,7 @@ dlga_companions_despuesduelo3:companions_despuesduelo3_3|내가 그를 죽였어
 dlga_companions_despuesduelo3_2:companions_despuesduelo3_1|당신에 대해 걱정할 필요가 없을 것 같군. 당신은 감정이라곤 없는 사람이니.
 dlga_companions_despuesduelo3_3:companions_despuesduelo3_4|이건 중요하지 않은 일이오. 난 당신이 좀 더 꿋꿋하고 강인한 사람인 줄 알았는데.
 dlga_companions_despuesduelo3_4:companions_despuesduelo3_1|{s2}^^그는 무시해버리시오. 일이 얼마나 힘들어질지 전혀 모를거요.
-dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^신이시여, 신이시여, 저... 저는 죄인입니다. 대체 왜 저를 용서해주셨는지 알 수가 없습니다. 전 시구르드가 거짓말을 하게 내버려뒀습니다. 집과 아내도 얻고 행복하게 살 수 있을 기회인 줄로만 알았는데, 거기다 전 티데르트의 죽음을 당신 탓으로 몰아갔습니다... 하지만 사실은 제 잘못이었던 겁니다. 제가 켄네머의 야를을 배신했을 때부터 모든게 시작된 겁니다. 제가 했던 모든 일, 전부 잘못 된 일이었습니다. 게다가 이젠 에길마저 저 때문에 죽었습니다. 전 죽어 마땅합니다. 부디 절 죽여주십시오.
+dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^신이시여, 신이시여, 저... 저는 죄인입니다. 대체 왜 저를 용서해주셨는지 알 수가 없습니다. 전 시구르드가 거짓말을 하게 내버려뒀습니다. 집과 아내도 얻고 행복하게 살 수 있을 기회인 줄로만 알았는데, 거기다 전 티아데르트의 죽음을 당신 탓으로 몰아갔습니다... 하지만 사실은 제 잘못이었던 겁니다. 제가 켄네머의 야를을 배신했을 때부터 모든게 시작된 겁니다. 제가 했던 모든 일, 전부 잘못 된 일이었습니다. 게다가 이젠 에길마저 저 때문에 죽었습니다. 전 죽어 마땅합니다. 부디 절 죽여주십시오.
 dlga_companions_despuesduelo3_1:companions_despuesduelo5|{s2}^^왜 그렇게 우는지 이해가 안 되오. 그가 우릴 배신했소. 난 그를 믿었소. 모두가 그리했지. 난 그가 좋은 사람인 줄로만 알았는데, 정작 그는 시구르드의 첩자였고 겨우 집과 여자 하나 때문에 우릴 팔아넘겼소. 레긴하르트는 죽어 마땅한 똥쓰레기같은 녀석이오.
 dlga_companions_despuesduelo3_1:companions_despuesduelo5.1|레긴하르트가 우리를 배신했고, 나는 그를 믿었습니다. 모두가 그를 신뢰했지만 그가 한 짓은 시구르드의 밀정으로서 모두를 배신했습니다.
 dlga_companions_despuesduelo5:companions_despuesduelo5_1|사실입니다, 레긴하르트는 죽어 마땅한 똥쓰레기 자식입니다.
@@ -1115,19 +1115,19 @@ dlga_companions_despuesduelo4:companions_despuesduelo4_2|그래, 당신은 죄�
 dlga_companions_despuesduelo4:companions_despuesduelo4_3|시구르드가 당신을 속인 거요. 당신 잘못이 아니오. 난 이미 당신을 용서했소.--.
 dlga_companions_despuesduelo4_1:close_window|제 목숨을 높이 사주시다니 정말 감사드립니다. 당신의 결정을 이해 합니다. 제가 이렇게 말해도 될지 모르겠지만, 당신이야 말로 소굴가, 전설로 쓰여질 만한 인물입니다. 후일에 악감정은 모두 잊고 우리가 함께 보낸 좋은 날들만 생각하며 다시 친구로 만납시다.
 dlga_companions_despuesduelo4_3:close_window|{s2}^^제 목숨을 높이 사주시고 절 용서해주신 바 깊이 감사드립니다. 다시는 이런 일이 일어나지 않을 겁니다. 이제 모든 이들을 제치고 당신만을 충성스럽게 섬기겠습니다. 제 목숨은 당신에게 달려있습니다. 이런 말 해도 될지는 모르겠지만, 당신은 소굴가, 전설로 쓰여질 만한 인물입니다.
-dlga_companion_reginhard4x:companion_reginhard43|알겠지만 난 믿을만한 사람이잖소. 이제, 티데르트와 부하들은 어디 숨어있소?
-dlga_companion_reginhard41:companion_reginhard4|{s2}^^제가 그들을 배신했기 때문에... 슬픔과 벌꿀주에 잠겨 여기로 오게 된 것이오. 그들은 제 형제이자 친구였는데도... 돈 때문에 켄네머의 야를에게 제 형제를 팔아치웠다구요! 지도자의 형제였던 티데르트도 팔아넘겼습니다. 이제 그들은 절 죽이려 하고, 그저 배신자로서의 최후를 맞기를 기다릴 뿐이란말이오. 빌어먹을 내가 여태까지 야를을 섬겼다니! 빌어먹을 야를!
-dlga_companion_reginhard42:companion_reginhard4|티데르트? 그 자를 아시오? 그가 어떤 사람인지 말로는 표현할 수 없습니다. 대신 죽어줄 수라도 있는 사람, 이거 하나는 확실하오. 덴마크인들도 언젠가 티데르트가 프리지아의 군대를 일으켜 자기들을 이 땅에서 내던져버릴까봐 벌벌 떨고 있습니다.
+dlga_companion_reginhard4x:companion_reginhard43|알겠지만 난 믿을만한 사람이잖소. 이제, 티아데르트와 부하들은 어디 숨어있소?
+dlga_companion_reginhard41:companion_reginhard4|{s2}^^제가 그들을 배신했기 때문에... 슬픔과 벌꿀주에 잠겨 여기로 오게 된 것이오. 그들은 제 형제이자 친구였는데도... 돈 때문에 켄네머의 야를에게 제 형제를 팔아치웠다구요! 지도자의 형제였던 티아데르트도 팔아넘겼습니다. 이제 그들은 절 죽이려 하고, 그저 배신자로서의 최후를 맞기를 기다릴 뿐이란말이오. 빌어먹을 내가 여태까지 야를을 섬겼다니! 빌어먹을 야를!
+dlga_companion_reginhard42:companion_reginhard4|티아데르트? 그 자를 아시오? 그가 어떤 사람인지 말로는 표현할 수 없습니다. 대신 죽어줄 수라도 있는 사람, 이거 하나는 확실하오. 덴마크인들도 언젠가 티아데르트가 프리지아의 군대를 일으켜 자기들을 이 땅에서 내던져버릴까봐 벌벌 떨고 있습니다.
 dlga_companion_reginhard43:companion_reginhard5|왜 물어보는것이오? 별로 밝히고 싶지 않은 비밀이오.
 dlga_companion_reginhard5:companion_reginhard51|글쎄, 그들에게 합류하고 싶은데. 난 이제 반란군이오!
-dlga_companion_reginhard5:companion_reginhard52|티데르트와 대화하고 싶소. 그와 상의해야 할 일이 있소. 300 페닝을 줄테니 어디있는지 알려주시오.
+dlga_companion_reginhard5:companion_reginhard52|티아데르트와 대화하고 싶소. 그와 상의해야 할 일이 있소. 300 페닝을 줄테니 어디있는지 알려주시오.
 dlga_companion_reginhard5:companion_reginhard54|당신의 비밀은 내 비밀이기도 하오. 아니면 당신을 한 방 갈기고 이 우정을 끝내겠소. (공격성)
-dlga_companion_reginhard5:companion_reginhard53|티데르트는 이제 당신의 적이요. 난 당신이 걱정되고 티데르트와 대화하고 싶소. 분명 그들도 당신을 용서해줄거요. (설득)
+dlga_companion_reginhard5:companion_reginhard53|티아데르트는 이제 당신의 적이요. 난 당신이 걱정되고 티아데르트와 대화하고 싶소. 분명 그들도 당신을 용서해줄거요. (설득)
 dlga_companion_reginhard5:close_window|음, 알겠소. 돈을 더 들고 오도록 해야겠군. 300 페닝 정도라든가.
 dlga_companion_reginhard51:companion_reginhard5|그들은 알지 못하는 사람은 절대 받아주지 않을것이오.
-dlga_companion_reginhard52:companion_recruit_backstory_response2|당신은 좋은 사람 같아 보이는군요. 당신의 부대에 합류 하겠소, 물론 돈도 챙기고.^저도 그 사람과 할 얘기가 있소. 티데르트는 힘을 높게 쳐주는 사람이니, 부하 몇 명도 데려가는게 좋을 겁니다.
-dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^감사합니다, {playername}. 당신말이 옳소. 그들과 대화를 해봐야겠소. 당신을 따르겠소. 티데르트의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
-dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^농담하는 것일 수도 있겠지만, {playername}, 당신말이 옳소. 우리에게 비밀이란 건 있을 수 없소! 그리고 야를이 제게 거짓말을 했다고 그들에게 알려야 하오. 여기서 계속 있을 바에야 차라리 죽는게 낫지. 당신을 따르겠소. 티데르트의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
+dlga_companion_reginhard52:companion_recruit_backstory_response2|당신은 좋은 사람 같아 보이는군요. 당신의 부대에 합류 하겠소, 물론 돈도 챙기고.^저도 그 사람과 할 얘기가 있소. 티아데르트는 힘을 높게 쳐주는 사람이니, 부하 몇 명도 데려가는게 좋을 겁니다.
+dlga_companion_reginhard53:companion_recruit_backstory_response2|{s2}^^감사합니다, {playername}. 당신말이 옳소. 그들과 대화를 해봐야겠소. 당신을 따르겠소. 티아데르트의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
+dlga_companion_reginhard54:companion_recruit_backstory_response2|{s2}^^농담하는 것일 수도 있겠지만, {playername}, 당신말이 옳소. 우리에게 비밀이란 건 있을 수 없소! 그리고 야를이 제게 거짓말을 했다고 그들에게 알려야 하오. 여기서 계속 있을 바에야 차라리 죽는게 낫지. 당신을 따르겠소. 티아데르트의 은신처는 동쪽 산에 있소. 내가 길을 안내해드리리다.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest|환영하오! 어서 갑시다.
 dlga_companion_recruit_backstory_response2:companion_recruit_signup_quest.1|은신처로 안내해 줄 사람이 필요하긴 하지만, 꼭 당신이 우릴 거기에 버려둘 것만 같소. 더 이상의 배신자는 필요 없소.
 dlga_companion_recruit_backstory_response:companion_egilrefuse|저와 호릭 왕과의 관계는... 민감합니다. 당신을 데려간다면 제게도 문제가 생기겠죠.
@@ -1292,8 +1292,8 @@ dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}내가 {s1
 dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}. 당신이 {s1}을(를) 받아야 하오. {영지: {s0})
 dlga_center_captured_lord_advice_2:minister_issues|바라실대로, {reg59?부인:경}. {reg6?제가:[reg7?페하께서:{s11}가}} {s1}의 새 {reg3?귀부인:영주}가 될 것입니다.
 dlga_center_captured_lord_advice_2:close_window|흠. 알겠소, {playername}. 당신의 조언을 중히 받아들이겠소. {reg6?내가:{reg7?당신이:{s11}가}} {s1}의 새 {reg3?귀부인이:영주가} 될 것이오.
-dlga_event_triggered:reginhard_calm1|신이시여, 신이시여, 그가 죽었어. 우리가 티데르트를 죽였소.
-dlga_event_triggered:reginhard_mission3_1|좋소, {playername}. 이쯤하면 야를이 어떤 사람인지 아셨겠고, 또 그가 무슨 짓을 저질렀는지 잘 아셨으리라 믿소. 그가 원하는 건 딱 하나, 권력이오. 그는 그 권력을 차지하려고 당신을 이용하고 있는 것이란 말이오. 티데르트를 찾기 위해 날 이용했던 것처럼... 그에게 우린 소모성 도구일 뿐이고, 당신이 쓸모가 없어지고 위험한 존재가 되면 켄네머의 야를에게 제거당할것이오. 그가 나에게 하려던 것처럼 말이오.
+dlga_event_triggered:reginhard_calm1|신이시여, 신이시여, 그가 죽었어. 우리가 티아데르트를 죽였소.
+dlga_event_triggered:reginhard_mission3_1|좋소, {playername}. 이쯤하면 야를이 어떤 사람인지 아셨겠고, 또 그가 무슨 짓을 저질렀는지 잘 아셨으리라 믿소. 그가 원하는 건 딱 하나, 권력이오. 그는 그 권력을 차지하려고 당신을 이용하고 있는 것이란 말이오. 티아데르트를 찾기 위해 날 이용했던 것처럼... 그에게 우린 소모성 도구일 뿐이고, 당신이 쓸모가 없어지고 위험한 존재가 되면 켄네머의 야를에게 제거당할것이오. 그가 나에게 하려던 것처럼 말이오.
 dlga_event_triggered:reginhard_postdoccingaca|켄네머의 야를은 야심적이고 위험한 인물이오. 나는 당신이 그를 한 방 먹여준것과 이런 일을 겪으면서도 독싱가를 도와 구해준 그 불굴의 의지를 존경하오.^당신은 좋은 사람이고, 이제 프리지아는 우리에게 적대적인 땅이지만, 나는 우리가 다른 곳에서 우리의 운명을 찾을 수 있을거라고 확신하오.
 dlga_event_triggered:egil_mensajerey|{reg59?부인:경}, 제가 감히 호릭 왕에게 전갈을 보냈습니다. 제가 생각하건데 왕의 부하들의 지지도 좀 있는 편이 최선일 것 같습니다. 특히나 스벤을 죽이려면 말입니다.^당신과 그리 오래 본 것은 아니지만 이런식으로 가다간 싸움이 일어날 겁니다. 내가 왕의 군대를 끌어올 수 있습니다. 내 제안을 고려해 줬으면 좋겠습니다.
 dlga_egil_mensajerey:egil_mensajerey1|좋은 생각이오, 에길. 고맙소.
@@ -1303,13 +1303,13 @@ dlga_egil_mensajerey1:close_window|{s2}^^예, 저도 압니다. 내 결정은 �
 dlga_egil_mensajerey2:close_window|{s2}^^네, 알았습니다. 모든 걸 통제하려고 하는군요. 뭐, 어쨌든 당신 마음이니까요.
 dlga_egil_mensajerey3:close_window|{s2}^^당신이 맞네요. 용서해주십시오, 가끔씩 제가 충동적으로 행동해서 말입니다. 제 경거망동으로 이 부대를 위험에 빠트리고 싶지는 않습니다. 앞으로는 모든 일은 당신과 상의하겠습니다.
 dlga_reginhard_calm1:reginhard_calm2|그가 당신을 싫어하기에 싸우기로 결정했소. 우리에겐 선택권이 없었소.
-dlga_reginhard_calm2:reginhard_calm3|{s2}^^그렇소... 내 말을 듣지도 않더군...^야를은 나를 속였었소. 그는 평화 협상을 맺기 위해 티데르트를 만나고 싶어한다고 했지만, 티데르트는 나보다 똑똑했기에 그 말이 함정이라고 말했었소.^나는 고집을 피웠고, 그의 형제가 나를 야를과의 밀회에 동행시켜 주었소. 그래서... 야를의 고디(제사장)가 티데르트의 형제를 '블러드 이글형'에 처했소.
+dlga_reginhard_calm2:reginhard_calm3|{s2}^^그렇소... 내 말을 듣지도 않더군...^야를은 나를 속였었소. 그는 평화 협상을 맺기 위해 티아데르트를 만나고 싶어한다고 했지만, 티아데르트는 나보다 똑똑했기에 그 말이 함정이라고 말했었소.^나는 고집을 피웠고, 그의 형제가 나를 야를과의 밀회에 동행시켜 주었소. 그래서... 야를의 고디(제사장)가 티아데르트의 형제를 '블러드 이글형'에 처했소.
 dlga_reginhard_calm3:reginhard_calm4|블러드 이글형이 뭐요?
 dlga_reginhard_calm3:reginhard_calm42|그는 전사와 같이 죽었소. 이젠 가야 할 시간이오. 켄네머의 야를이 우릴 기다리고 있소.
 dlga_reginhard_calm3:reginhard_calm43|그는 전사와 같이 죽었지만, 당신은 쥐새끼마냥 살아있군. 내 부대에서 당장 떠난 뒤 야를에게 소식이나 전하시오.
 dlga_reginhard_calm4:reginhard_calm3|덴마크인은 그걸 블루드 오른이라고 부르더군. 척추에서 갈비뼈를 다 잘라낸 다음 열어젖혀서 살아있는 폐가 마치 독수리 날개처럼 펼쳐지게 하는 형벌이오.^아주 끔찍한 형벌이오! 당신은 절대로 보고 싶지 않을 것이오.
-dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^어쨌든 당신은 켄네머의 야를을 위해 일하고... 그는 결국 원하는 모든 것을 얻게 될것이오. 하지만, 누구도 운명과 맞설 수는 없소. 티데르트는 죽었고, 이제는 당신이 나의 새 가족이오.
-dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^그렇소. 나는 쥐새끼일지도 모르지만, 당신이라고 더 나은 건 아니오. 티데르트를 찾아가려고 나를 이용했잖소! 티데르트는 좋은 사람이었소. 그의 유일한 죄는 덴마크인에게 저항하여 자유를 얻어내려고 한 것일 뿐이오. ^신이시여 저를 용서하소서! 제 명을 받아들이겠나이다!^야를에게 가서 얘기해보시오. 그리고 말한대로 이 부대를 나가겠소. 좋은 여행 되기를!
+dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^어쨌든 당신은 켄네머의 야를을 위해 일하고... 그는 결국 원하는 모든 것을 얻게 될것이오. 하지만, 누구도 운명과 맞설 수는 없소. 티아데르트는 죽었고, 이제는 당신이 나의 새 가족이오.
+dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^그렇소. 나는 쥐새끼일지도 모르지만, 당신이라고 더 나은 건 아니오. 티아데르트를 찾아가려고 나를 이용했잖소! 티아데르트는 좋은 사람이었소. 그의 유일한 죄는 덴마크인에게 저항하여 자유를 얻어내려고 한 것일 뿐이오. ^신이시여 저를 용서하소서! 제 명을 받아들이겠나이다!^야를에게 가서 얘기해보시오. 그리고 말한대로 이 부대를 나가겠소. 좋은 여행 되기를!
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|운명은 가고 싶은 대로 가는 법이오!
 dlga_reginhard_calm_finalcon2:close_window|운명은 항상 그녀가 가야 할 곳으로 가는 법이오!
 dlga_reginhard_mission3_1:reginhard_mission3_2|황소목 스벤을 찾기 위해선 그가 필요하오.
@@ -2386,10 +2386,10 @@ dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|모든 것은 때
 dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|시구르드 라그나르손, 당신의 고발은 매우 중차대한 사안이오. 당신의 주장을 확인할 수 있는 증거나 증인이 있소?
 dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|그렇소, 지금까지 {playername}와(과) 모든 시간을 함께 여행한 사람이 있소. 그도 지금 여기에 있고, 기꺼이 이 총회에서 증언을 할 것이오. 그의 이름은 레긴하르트이고, 켄네머의 야를의 시종이었소.
 dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|레긴하르트, 나와주시오. 당신은 시구르드 라그나르손의 말이 사실인 것을 확인해줄 수 있소?
-dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^전... 그게... 네, 맞습니다. 나는 {playername}을(를) 프리지아에서 만났는데, 그 때 {reg59?그녀:그}는 내가 친애하고 사랑하던 티데르트를 죽여서 켄네머 야를의 신뢰를 얻으려고 하고 있었소. 그 다음, {reg59?그녀:그}는 켄네머의 야를을 배신하고 황소목 스벤과 시구르드 라그나르손을 쫒아 덴마크로 왔소. {reg59?그녀:그}는 스벤과 시구르드를 적으로 삼아 증오하고 있소. 그래서 {reg59?그녀:그}는 호릭 왕과 동맹을 맺고 올비르와 아틀리를 죽인 것이오. 맹세하건데, 이 모든것은 사실이오.
+dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^전... 그게... 네, 맞습니다. 나는 {playername}을(를) 프리지아에서 만났는데, 그 때 {reg59?그녀:그}는 내가 친애하고 사랑하던 티아데르트를 죽여서 켄네머 야를의 신뢰를 얻으려고 하고 있었소. 그 다음, {reg59?그녀:그}는 켄네머의 야를을 배신하고 황소목 스벤과 시구르드 라그나르손을 쫒아 덴마크로 왔소. {reg59?그녀:그}는 스벤과 시구르드를 적으로 삼아 증오하고 있소. 그래서 {reg59?그녀:그}는 호릭 왕과 동맹을 맺고 올비르와 아틀리를 죽인 것이오. 맹세하건데, 이 모든것은 사실이오.
 dlga_kinghorik_quest_thething16_3:kinghorik_quest_thething16_4|{s2}^^레긴하르트? 이게 무슨 짓이야!?
-dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}은(는) 살인자입니다. 티데르트는 나에게 형제 같은 사람이었소. 그리고 {playername)은(는) 그와 그의 가족을 모두 죽였소! 심지어 그의 아들까지! 나는 언젠가 티데르트를 위해 복수할 것이라고 약속했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
-dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^내 화살은 그대를 향한게 아니오, 에길. 티데르트는 나에게 형제 같은 사람이었소. 그리고 {playername}은(는) 그를 찾기 위해, 그리고 그를 죽이기 위해 나에게 거짓말을 했소. 나는 언젠가 티데르트의 죽음을 복수하기 위해 {playername}의 신뢰를 얻겠노라 다짐했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
+dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}은(는) 살인자입니다. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername)은(는) 그와 그의 가족을 모두 죽였소! 심지어 그의 아들까지! 나는 언젠가 티아데르트를 위해 복수할 것이라고 약속했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
+dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^내 화살은 그대를 향한게 아니오, 에길. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername}은(는) 그를 찾기 위해, 그리고 그를 죽이기 위해 나에게 거짓말을 했소. 나는 언젠가 티아데르트의 죽음을 복수하기 위해 {playername}의 신뢰를 얻겠노라 다짐했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
 dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething17_1|레긴하르트, 당신은 나를 알고있소. 내가 배신자를 어떻게 처단하는지 당신도 잘 알 것이오. 곧 다시 보기로 합시다.
 dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething18|당신이 언젠가 말했듯이, 운명은 뒤돌아보지 않는 법이오! 운명은 항상 그녀의 앞으로만 간다오.
 dlga_kinghorik_quest_thething17_1:kinghorik_quest_thething18|그럴 일은 없소. 우리는 서로를 다시 볼 수 없을 거요. 나와 내 농장, 그리고 내 부인은 야를의 보호를 받을 거고, 당신은 죽거나 추방자가 되겠지.
@@ -2397,8 +2397,8 @@ dlga_kinghorik_quest_thething18:kinghorik_quest_thething19|호릭 왕, 시구르
 dlga_kinghorik_quest_thething19:kinghorik_quest_thething20|{s2}^^나는 레긴하르트라는 이름의 남자를 모르오. 나는 그가 {playername}와(과) 분쟁을 빌미로 시구르드에게 매수된 거짓말쟁이로 의심하고 있소. 어쨌든, 그의 증언은 {playername}에 대한 것이지, 나에게 대항하는 것은 없소. 그는 내가 {playername}를 도왔던 일에 어떤 잘못이 있었던 것인지 보여주지도 못했고, 심지어 나를 언급조차 하지 않았소. 이 것이 나에 대해 시구르드 라그나르손이 고발하려고 하는 전부라면, 이 총회에 요청컨데, 나의 명예에 대한 모욕에 대한 보상을 요청하는 바이오.
 dlga_kinghorik_quest_thething20:kinghorik_quest_thething20_1|{s2}^^신들은 당신이 내 증거와 증인들을 제거한 사실을 모두 알고있소! 당신이 아틀리 에이릭손과 울프 토리손에게 당신의 개를 보냈을 때도 이 자는 {playername}와(과) 함께 있었소. 따라서 그는 당신이 그 모든 일들에 관여했다는 것을 증언할 수 있소!
 dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_2|나는 레긴하르트가 나에 대한 증오에 눈이 먼 거짓말쟁이라고 말 하겠소. 그의 주장은 나에게 반대하는 그 말이 전부이오.
-dlga_kinghorik_quest_thething20_1:kinghorik_quest_thethingdialogextend1|우선, 레긴하르트의 첫번째 주인은 켄네머의 야를이 아닌, 티데르트였소. (설득)
-dlga_kinghorik_quest_thethingdialogextend1:kinghorik_quest_thething20_2|지금 그가 나를 배신하듯이, 레긴하르트는 그의 첫번째 주인인 티데르트도 배신했소. 어떤 사람이 알려진 적을 그의 부대에 두려고 하겠소? 그 남자는 단지 그가 신뢰할 수 없음을 보여 주었소.
+dlga_kinghorik_quest_thething20_1:kinghorik_quest_thethingdialogextend1|우선, 레긴하르트의 첫번째 주인은 켄네머의 야를이 아닌, 티아데르트였소. (설득)
+dlga_kinghorik_quest_thethingdialogextend1:kinghorik_quest_thething20_2|지금 그가 나를 배신하듯이, 레긴하르트는 그의 첫번째 주인인 티아데르트도 배신했소. 어떤 사람이 알려진 적을 그의 부대에 두려고 하겠소? 그 남자는 단지 그가 신뢰할 수 없음을 보여 주었소.
 dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_3|레긴하르트는 진실을 말하고 있소. 그가 설명한 대로 모든 일이 사실이오.
 dlga_kinghorik_quest_thething20_3:kinghorik_quest_thething20_4|뭐라고? 나 역시 {playername}의 부대에 있었소. 그리고 이 자가 거짓말을 한다는 것을 신에게 맹세하오. 나는 그들의 주장에 대해서 죽음의 결투를 요구하오.
 dlga_kinghorik_quest_thething20_4:kinghorik_quest_thething20_5|나, 하랄드 하랄드손, 에길에 이어 두 번째 도전하겠소.
@@ -2501,7 +2501,7 @@ dlga_lord_talk:kennemerjarl_muy_angry|{s11}, 나는 스벤으로부터 독싱가
 dlga_kennemerjarl_muy_angry:kennemerjarl_enemistad1|{s2}^^내가 네놈에게 준 임무가 있었을 텐데? 네놈은 왕을 죽이려고 하느라 바빠야 하지 않나? 그리고 대체 무슨 짓을 한 거야? 독싱가로 지원하러 가다니, 나는 그걸 기쁘게 생각하지 않아. 네가 왕을 죽인 후에 내가 왕이 될 수 있도록 지지할 수 있는 수하들을 죽인거라고! 네놈은 나를 배신했어, 자네의 야를을! 내 이름 {s11}에 맹세코, 그 대가를 받아내도록 하지!
 dlga_lord_talk:kennemerjarl_doccingacano|나의 주인이여, 독싱가가 황소목 스벤에게 공격받았소! 그들은 병력이 필요하오.
 dlga_lord_talk:king_doccingacano|독싱가가 황소목 스벤에게 공격받고 있소! 그들은 도움이 필요하오!
-dlga_lord_talk:kennemerjarl_thiaderdm1|{s11}, 나는 티데르트에 관한 임무에서 돌아왔소
+dlga_lord_talk:kennemerjarl_thiaderdm1|{s11}, 나는 티아데르트에 관한 임무에서 돌아왔소
 dlga_lord_talk:kennemerjarl_juicio_1|{s11}, 나는 수도원에 가서 당신의 이름으로 판결을 내렸소.
 dlga_lord_talk:kennemerjarl_recruit_back1|{s11}, 당신이 나에게 모아오라고 한 전사를 모아왔소.
 dlga_lord_talk:kennemerjarl_juicio_2|{s11}, 나는 수도원에 가서 당신의 이름으로 옳은 일을 했소.
@@ -2590,18 +2590,18 @@ dlga_kennemerjarl_juicio_3:kennemerjarl_juicio_5|우리 거래는 어떻게 된 
 dlga_kennemerjarl_juicio_4:kennemerjarl_juicio_41|당신이 정의에 따라 행동했을 때, 아무도 당신이 부당하다고 생각하지 않을 것이오.
 dlga_kennemerjarl_juicio_41:kennemerjarl_juicio_42|오호! {reg59?숙녀:신사}께서 납셨구만. 정의가 좋다는건 누구나 알지, 하지만 이 세상이 그렇게 바르지도 않을 뿐더러 정의가 뭔지도 몰라! 그걸 모르는건가? 나에겐 그까짓 땅보다 수도원과의 관계가 더 중요하다고. 다시는 나를 화나게 하지 않는 것이 좋을 거야!
 dlga_kennemerjarl_juicio_42:kennemerjarl_juicio_5|그럼, 우리의 거래는 어떻게 된 거요. 내가 스벤을 잡는 데 참여할 수 있겠소?
-dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|어, 아니, 아직. 지금은 네가 네 가치, 전사로서의 가치를 증명하기 위해 다른 일을 해야 할 거야. 나에게 두통을 일으키는 원인인 프리지아인 반란군 티데르트를 없애버려, 나는 지금 그 놈을 손봐줄 시간이 없어.^나는 내 땅에서 네가 모집할 수 있는 권한을 부여할 것이고, 그와 마찬가지로 네가 프리지아 전역에서 병력을 모집할 수 있도록 왕에게 서신을 보내주도록 하지.
-dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|이게 내가 너에게 원하는 거야. 이 페닝을 받아서 15명을 모집해. 저렴하게 수도원에서 마을 아이들이나 난민을 모집해도 좋고. 그런 다음 여기 와서 어떻게 티데르트를 찾을 수 있는지 설명해 주도록 하지.
+dlga_kennemerjarl_juicio_5:kennemerjarl_juicio_6_old|어, 아니, 아직. 지금은 네가 네 가치, 전사로서의 가치를 증명하기 위해 다른 일을 해야 할 거야. 나에게 두통을 일으키는 원인인 프리지아인 반란군 티아데르트를 없애버려, 나는 지금 그 놈을 손봐줄 시간이 없어.^나는 내 땅에서 네가 모집할 수 있는 권한을 부여할 것이고, 그와 마찬가지로 네가 프리지아 전역에서 병력을 모집할 수 있도록 왕에게 서신을 보내주도록 하지.
+dlga_kennemerjarl_juicio_6_old:kennemerjarl_juicio_6_final|이게 내가 너에게 원하는 거야. 이 페닝을 받아서 15명을 모집해. 저렴하게 수도원에서 마을 아이들이나 난민을 모집해도 좋고. 그런 다음 여기 와서 어떻게 티아데르트를 찾을 수 있는지 설명해 주도록 하지.
 dlga_kennemerjarl_juicio_6_final:lord_pretalk|--그는 자신의 코를 긁습니다.--^^좋아, 행운을 빌도록 하지. 넌 지금 할 일을 하도록 해.
-dlga_kennemerjarl_recruit_back1:kennemerjarl_juicio_6_new|음, 너는 네가 유용하다는 걸 다시 입증했군. 내가 전에 언급한 바와 같이. 프리지아인 반란군 티데르트는 내 골칫거리지. 그러나 나는 그를 손봐줄 시간이 없어. 너! 바로 네가 나를 위해 그일을 해야 할 거야.^^그리고 여기, 더 좋은 물건을 살 돈이다. 나는 내 부하가 초라한 물건을 쓰는 걸 생각조차 하기 싫군.
+dlga_kennemerjarl_recruit_back1:kennemerjarl_juicio_6_new|음, 너는 네가 유용하다는 걸 다시 입증했군. 내가 전에 언급한 바와 같이. 프리지아인 반란군 티아데르트는 내 골칫거리지. 그러나 나는 그를 손봐줄 시간이 없어. 너! 바로 네가 나를 위해 그일을 해야 할 거야.^^그리고 여기, 더 좋은 물건을 살 돈이다. 나는 내 부하가 초라한 물건을 쓰는 걸 생각조차 하기 싫군.
 dlga_kennemerjarl_juicio_6_new:kennemerjarl_juicio_61|좋은 말씀입니다.
 dlga_kennemerjarl_juicio_6_new:kennemerjarl_juicio_61.1|나는 이 제안을 별로 좋아하지 않소.
-dlga_kennemerjarl_juicio_61:kennemerjarl_juicio_7|솔직히 말하면, 나는 네가 그 일을 좋아하는지 아닌지 별로 관심 없어. 너는 네 일을 하고, 나는 너에게 명령을 내릴 뿐이야.^나를 위해 이 작업을 수행하면, 스벤을 따라가 네 복수를 수행하는 일에 더 가까워지겠지. 이 돈을 가지고 두어스테드로 가라. 그가 어디 있을지 알고 있을 녀석이 있다. 그 녀석의 이름은 레긴하르트고, 듣기로는 그놈이 매춘부와 다른 술주정뱅이들과 선술집에서 찌들어 있다는군.^그는 내 부하와는 이야기하려 하지 않아. 하지만 어쩌면 너는 반란군이 숨어있는 곳을 발견하고 그를 죽일 수 있어, 티데르트는 반드시 죽어야 해!
+dlga_kennemerjarl_juicio_61:kennemerjarl_juicio_7|솔직히 말하면, 나는 네가 그 일을 좋아하는지 아닌지 별로 관심 없어. 너는 네 일을 하고, 나는 너에게 명령을 내릴 뿐이야.^나를 위해 이 작업을 수행하면, 스벤을 따라가 네 복수를 수행하는 일에 더 가까워지겠지. 이 돈을 가지고 두어스테드로 가라. 그가 어디 있을지 알고 있을 녀석이 있다. 그 녀석의 이름은 레긴하르트고, 듣기로는 그놈이 매춘부와 다른 술주정뱅이들과 선술집에서 찌들어 있다는군.^그는 내 부하와는 이야기하려 하지 않아. 하지만 어쩌면 너는 반란군이 숨어있는 곳을 발견하고 그를 죽일 수 있어, 티아데르트는 반드시 죽어야 해!
 dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71|그걸 수행하도록 하죠. 안녕히.
 dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71.1|나는 이 임무를 좋아하지 않지만, 내 거래의 일부로서 받아들이겠소. 그럼 이만.
 dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|아직도 여기에 있나? 넌 임무가 있어! 난 너를 지켜볼 거다, {playername}!
 dlga_kennemerjarl_juicio_71_fin:lord_pretalk|--그는 자신의 코를 긁습니다.--
-dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|매우 기분이 좋군! 티데르트가 죽었다는 소식은 이미 들어 알고있다.^^나는 네 능력을 의심했지만, 확실히 너는 내가 생각했던 것보다 더 유능하군. 또한 너는 신뢰와 충성을 증명했다. 너의 노력에 대한 보상으로 이 돈을 챙겨두라고.^유감이게도, 넌 레긴하르트를 죽이지 않은채 데리고 다니는군. 내 생각에, 네 부대에는 애완동물이 필요한가보지? 그러나 나는 내 주변에 그 쥐새끼같은 놈이 오는 걸 원치 않아. 앞으로 나를 만나러 올 때는 저 쥐새끼를 데려오지 않는 편이 좋을 거야.
+dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|매우 기분이 좋군! 티아데르트가 죽었다는 소식은 이미 들어 알고있다.^^나는 네 능력을 의심했지만, 확실히 너는 내가 생각했던 것보다 더 유능하군. 또한 너는 신뢰와 충성을 증명했다. 너의 노력에 대한 보상으로 이 돈을 챙겨두라고.^유감이게도, 넌 레긴하르트를 죽이지 않은채 데리고 다니는군. 내 생각에, 네 부대에는 애완동물이 필요한가보지? 그러나 나는 내 주변에 그 쥐새끼같은 놈이 오는 걸 원치 않아. 앞으로 나를 만나러 올 때는 저 쥐새끼를 데려오지 않는 편이 좋을 거야.
 dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^좋아, 좋아... 솔직히 말하자면, 나는 오랜 시간 너같은 놈을 찾고 있었지.^너는 받은 명령의 해결책을 찾고 달성할 수 있는 놈이로군. 그건 매우 중요한 능력이라고. 가끔 나는 멍청한 얼간이들에게 둘러쌓인 듯한 막막한 기분이 든단 말이야.^^...^이제 너를 부자로 만들어줄 수 있는 아주 민감한 주제에 대해서 이야기 해 보자고.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|재산? 걱정 마시오, 나는 그냥 스벤을 원하오.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|내가 무엇을 들어도 좋소! 계속 이야기하시오.
@@ -2614,15 +2614,15 @@ dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|이해를 못하는군, �
 dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 전설적인 왕이야. 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다녔지. 라그나르는 몇년 전 죽었지만, 지금은 그의 여러 아들들이 앵글리아를 침략하고 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 나이 많은 아들중 하나야. 그가 비록 지금은 나이가 들었지만 아직도 두려움과 존경을 한 몸에 받는 덴마크인 야를이지.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
 dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 황소목 스벤을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 나를 이용해서 왕이 되고싶은것이오? 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니란 말이오!
-dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 티데르트는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
+dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 티아데르트는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|제안을 받아들이겠소. 나는 가서 당신의 왕을 죽일것이오.
 dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|이 것만 해결해주면 앞으로 더 이상의 거래나 속임수, 임무는 없다! 이 하나의 조건만 이루어지면 모든게 네 것이 될거야. 네 대답은 뭐지?
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|알겠소, {s10}을(를) 죽이겠소.
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|아니, 당신은 다른 암살자를 알아보시오. 난 스스로 황소목 스벤을 사냥할 것이오.
 dlga_kennemerjarl_thiaderdm9:kennemerjarl_thiaderdm9a|그렇게 대답할줄 알았어! 역시 내가 널 잘못보지 않았군. {s10}은 아무나 라고 할만한 사람이 아니야. 그를 두려워하지 않는 사람은 없어. 왜냐하면 그는 항상 충실한 전사들의 호위를 동반하고 있거든.^그의 죽음은 그를 두려워하는 사람 눈 앞에 보여져야만 해. 그러기에 가장 이상적인 시간은 바로 축제 기간이지. 네가 독을 쓰든 단검을 쓰든 내가 알바 아니지만, 이 중요한 두 가지 사항은 명심하는게 좋을거야...
-dlga_kennemerjarl_thiaderdm9a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지.^자, 이제 어서 가서 날 왕으로 만들어!
+dlga_kennemerjarl_thiaderdm9a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티아데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지.^자, 이제 어서 가서 날 왕으로 만들어!
 dlga_kennemerjarl_thiaderdm91:kennemerjarl_thiaderdm91a|하, 내가 생각했던것 보다 멍청하군. 스벤을 찾기 위해 필요한 돈이나 병력은 네 한계를 한참 넘어선 것이야. 어쩌다 네가 스벤을 찾는다고 해도 스벤은 아주 쉽게 너를 죽일 수 있을 거야.^만약 네가 마음을 바꿔먹고 내 제안을 받아들인다면, 이걸 기억하도록 해. 그의 죽음은 그를 두려워하는 사람 눈 앞에 보여져야만 해. 그러기에 가장 이상적인 시간은 바로 축제 기간이지. 네가 독을 쓰든 단검을 쓰든 내가 알바 아니지만, 이 중요한 두 가지 사항은 명심하는게 좋을거야...
-dlga_kennemerjarl_thiaderdm91a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지. 네게도 머리가 있다면 일을 마치고 빨리 프리지아를 뜨는게 좋을거야. 그렇지 않으면 안좋은 꼴을 보게 될 테니까.
+dlga_kennemerjarl_thiaderdm91a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티아데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지. 네게도 머리가 있다면 일을 마치고 빨리 프리지아를 뜨는게 좋을거야. 그렇지 않으면 안좋은 꼴을 보게 될 테니까.
 dlga_kennemerjarl_salida:lord_pretalk|아주 좋소.
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|조심하시오, 야를! 그 자들은 스벤의 수하들이었소. 당신은 배신자요! 그리고 나는 지금부터 당신의 적이오.
 dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad4|나는 당신에게 잘 봉사했소, 그 대신에 당신은 스벤에 대해 나에게 거짓말을 했소. 그리고 지금 당신이 나를 협박했고.

@@ -1,29 +1,29 @@
 skinkey_pucker|잔주름
-skinkey_chin_shape|아래턱 외형
-skinkey_chin_forward|아래턱을 앞으로
-skinkey_jaw_position|턱 위치
-skinkey_jaw_width|턱 넓이
-skinkey_mouth_nose_distance|인중
-skinkey_mouth_width|입 넓이
-skinkey_cheeks|뺨
+skinkey_chin_shape|턱 모양
+skinkey_chin_forward|턱 돌출
+skinkey_jaw_position|턱 상하 위치
+skinkey_jaw_width|턱 너비
+skinkey_mouth_nose_distance|인중 길이
+skinkey_mouth_width|입 너비
+skinkey_cheeks|볼살
 skinkey_nose_height|코 높이
-skinkey_nose_width|코 넓이
+skinkey_nose_width|코 너비
 skinkey_nose_size|코 크기
 skinkey_nose_shape|코 외형
-skinkey_nose_bridge|콧날
+skinkey_nose_bridge|콧대
 skinkey_cheek_bones|광대뼈
-skinkey_eye_width|눈 넓이
-skinkey_eye_to_eye_dist|눈 사이
-skinkey_eye_shape|눈 외형
+skinkey_eye_width|눈 너비
+skinkey_eye_to_eye_dist|미간 너비
+skinkey_eye_shape|눈 모양
 skinkey_eye_depth|눈 깊이
 skinkey_eyelids|눈꺼풀
 skinkey_eyebrow_position|눈썹 위치
 skinkey_eyebrow_height|눈썹 높이
-skinkey_eyebrow_depth|눈썹 넓이
-skinkey_eyebrow_shape|눈썹 외형
-skinkey_temple_width|관자놀이 넓이
+skinkey_eyebrow_depth|눈썹 깊이
+skinkey_eyebrow_shape|눈썹 모양
+skinkey_temple_width|관자놀이 너비
 skinkey_face_depth|얼굴 깊이
 skinkey_face_ratio|얼굴 비율
-skinkey_face_width|얼굴 넓이
+skinkey_face_width|얼굴 너비
 skinkey_post_edit|사후 편집
-skinkey_chin_size|턱 넓이
+skinkey_chin_size|턱 끝 크기

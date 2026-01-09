@@ -1,179 +1,179 @@
-qst_deliver_message|{s13}에게 편지를 전달하라
-qst_deliver_message_text|{s9}(은)는 {s13}에게  편지를 전달해 달라고 요청했습니다. {s13}은(는) 당신이 이 임무를 받았을 때 {s4}에 있었습니다.
-qst_deliver_message_to_enemy_lord|{s13}에게 편지를 전달하라
-qst_deliver_message_to_enemy_lord_text|{s9}은(는) {s15}의 {s13}에게 편지를 전달해 달라고 요청했습니다. {s13}은(는) 당신이 이 임무를 받았을 때 {s4}에 있었습니다.
-qst_raise_troops|{reg1} {s14}명을 양성하라
-qst_raise_troops_text|{s9}는 당신에게 {reg1}를 {s14}로 양성하라고 요청하였고 그 다음 그들을 데려오라고 요청했습니다.
-qst_escort_lady|{s13}을(를) {s14}(으)로 호위하라
-qst_deal_with_bandits_at_lords_village|{s15}을(를) 약탈자들로부터 보호하라
-qst_deal_with_bandits_at_lords_village_text|{s13}은 당신에게 그의 마을인 {s15}에서 거부된 노상 강도를 처리하고 자신에게 보고해 달라고 요청하였습니다.
-qst_collect_taxes|{s3}에서 세금을 징수하라
-qst_collect_taxes_text|{s9}는 당신에세 {s3}에서 세금을 징수하라고 요청하였습니다. 그는 걷은 세금의 5분의 1을 당신에게 주겠다고 제안하였습니다.
-qst_hunt_down_fugitive|{s4}을(를) 추적하라
-qst_hunt_down_fugitive_text|{s9}은 당신에게 도망자인 {s4}를 처리해달라고 요청하였습니다. 그는 {s4}가 현재 {s3}에 있다고 믿고 있습니다.
-qst_kill_local_merchant|{s3}의 지역 상인을 암살하라
-qst_kill_local_merchant_text|{s9}는 {s3}에서 지역 상인을 암살하라고 요청하였습니다.
-qst_bring_back_runaway_serfs|도망친 농노를 붙잡아라
-qst_bring_back_runaway_serfs_text|{s9}는 당신에게 도망친 농노 3무리를 {s2}으(로) 데려오라고 요청하였습니다. 그는 3무리의 농도들은 분명히 {s3} 방향으로 도망갔다고 했습니다.
-qst_follow_spy|접선 장소까지 밀정을 미행하라
-qst_follow_spy_text|{s11}은(는) 당신에게 {s12}에서 떠날 스파이들을 따라가라고 요청하였습니다. 당신은 반드시 반드시 스파이들이 이동할때 발각되지 않도록(의심을 가지거나 돌아오는 행동) 주의해야 합니다. 일단 스파이가 그들의 공범자를 만나면, 매복했다가 그들을 잡아서 {s11}에게 데려가면 됩니다.
-qst_capture_enemy_hero|{s13}로부터 영주를 포로로 붙잡아라
-qst_lend_companion|당신의 동료 {s3}을(를) {s9}에게 대여
-qst_lend_companion_text|{s9}은(는) 당신에게 당신의 동료인 {s3}을 일주일간 대여해달라고 요청하였습니다.
-qst_collect_debt|{s3}에게서 {s9}의 빚을 회수하라
-qst_collect_debt_text|{s9}은 당신에게 {s3}가 빚지고 있는 {reg4}페닝의 빛을 회수하라고 요청하였습니다.
-qst_incriminate_loyal_commander|{s13}의 충성스러운 사령관인 {s16}에게 누명을 씌워라
-qst_meet_spy_in_enemy_town|{s13}에서 밀정과 접선하라
-qst_capture_prisoners|{reg1}명의 {s3} 포로를 확보하라
-qst_capture_prisoners_text|{s9}은 당신에게 {reg1}명의 {s3}포로를 데려오길 원했습니다.
-qst_lend_surgeon|당신의 동료인 {s3}을(를) {s1}에게 빌려준다.
-qst_lend_surgeon_text|경험많은 외과 전문의인 {s3}를 {s1}에게 빌려준다.
+qst_deliver_message|{s13}에게 전령 보내기
+qst_deliver_message_text|{s9}(이)가 {s13}에게 편지를 전달해 달라고 요청했습니다. 당신이 이 임무를 받았을 때 {s13}(은)는 {s4}에 머물고 있었습니다.
+qst_deliver_message_to_enemy_lord|{s13}에게 서신 전달
+qst_deliver_message_to_enemy_lord_text|{s9}(이)가 {s15} 세력의 {s13}에게 편지를 전달해 달라고 요청했습니다. {s13}(은)는 당신이 이 임무를 받았을 때 {s4}에 있었습니다.
+qst_raise_troops|{s14} {reg1}명 양성
+qst_raise_troops_text|{s9}(이)가 당신에게 {s14} {reg1}명을 훈련시켜 자신에게 데려와 달라고 요청했습니다.
+qst_escort_lady|귀부인 {s13}을 {s14}(으)로 호위
+qst_deal_with_bandits_at_lords_village|약탈자로부터 {s15} 마을 구출
+qst_deal_with_bandits_at_lords_village_text|{s13}(이)가 자신의 마을인 {s15}에 숨어든 도적들을 처단하고 보고해 달라고 요청했습니다.
+qst_collect_taxes|{s3}에서 세금 징수
+qst_collect_taxes_text|{s9}(이)가 {s3}에서 세금을 징수해 달라고 요청했습니다. 그는 징수액의 1/5을 보상으로 주기로 약속했습니다.
+qst_hunt_down_fugitive|도주자 {s4} 추적
+qst_hunt_down_fugitive_text|{s9}(이)가 도주 중인 {s4}(을)를 추적해 달라고 요청했습니다. 현재 {s3}에 숨어 있는 것으로 추정됩니다.
+qst_kill_local_merchant|{s3}의 지역 상인 암살
+qst_kill_local_merchant_text|{s9}(이)가 {s3}에 있는 지역 상인을 암살해 달라고 요청했습니다.
+qst_bring_back_runaway_serfs|도망친 농노 송환
+qst_bring_back_runaway_serfs_text|{s9}(이)가 도망친 세 무리의 농노들을 {s2}(으)로 다시 데려오라고 요청했습니다. 그들은 {s3} 방향으로 도주한 것으로 보입니다.
+qst_follow_spy|접선 장소까지 밀정 미행
+qst_follow_spy_text|{s11}(이)가 {s12}에서 출발할 밀정을 미행하라고 요청했습니다. 들키지 않도록 주의해야 하며, 공범과 접선하는 순간 습격하여 두 명 모두 생포해 {s11}에게 데려가야 합니다.
+qst_capture_enemy_hero|{s13} 세력의 영주 생포
+qst_lend_companion|동료 {s3}을 {s9}에게 파견
+qst_lend_companion_text|{s9}(이)가 당신의 동료인 {s3}(을)를 일주일 동안 빌려달라고 요청했습니다.
+qst_collect_debt|{s3}에게서 {s9}의 채무 회수
+qst_collect_debt_text|{s9}(이)가 {s3}에게 빌려준 {reg4} 페닝을 대신 받아달라고 요청했습니다.
+qst_incriminate_loyal_commander|{s13}의 충신 {s16}에게 누명 씌우기
+qst_meet_spy_in_enemy_town|{s13} 안에서 밀정 접선
+qst_capture_prisoners|{s3} 포로 {reg1}명 생포
+qst_capture_prisoners_text|{s9}(이)가 {s3} 포로 {reg1}명을 잡아다 달라고 요청했습니다.
+qst_lend_surgeon|군의관 {s3}을 {s1}에게 파견
+qst_lend_surgeon_text|숙련된 군의관인 {s3}(을)를 {s1}에게 잠시 빌려줍니다.
 qst_follow_army|{s9}의 군대에 종군하라
 qst_report_to_army|총사령관 {s13}에게 보고하라
-qst_deliver_cattle_to_army|소 {reg3}마리를 {s13}(으)로 배달하라
+qst_deliver_cattle_to_army|군수용 소 {reg3}마리를 {s13}에게 보급
 qst_join_siege_with_army|{s14}의 공성전에 참여하라
-qst_screen_army|{s13} 군대의 진격을 막아라
-qst_scout_waypoints|{s13}, {s14} 그리고 {s15}을(를) 정찰하라
-qst_rescue_lord_by_replace|{s13}을(를) {s14}에서 구출하라
-qst_deliver_message_to_prisoner_lord|{s14}의 {s13}에게 편지를 전달하라
-qst_duel_for_lady|{s13}에게 결투를 도전하라
-qst_duel_courtship_rival|{s13}에게 결투를 도전하라 (선택)
-qst_duel_avenge_insult|{s13}에게 결투를 도전하라
-qst_move_cattle_herd|소 떼를 {s13}(으)로 배달하라
-qst_move_cattle_herd_text|{s10}의 시장(조합장)은 당신에게 소 떼를 {s13}으로 배달해 달라고 요청하였습니다.
-qst_escort_merchant_caravan|상인단을 {s8}(으)로 호위하라
-qst_escort_merchant_caravan_text|상인단을 {s8}(으)로 호위하라
-qst_deliver_wine|{reg5}개의 {s6}을 {s4}(으)로 배달하라
-qst_deliver_wine_text|{s3}의 {s9}은(는) 당신에게 {reg5}개의 {s6}를 7일 안에 {s4}의 여관으로 배달해달라고 요청하였습니다.
-qst_troublesome_bandits|도적들을 추격하라
-qst_troublesome_bandits_text|{s4}의 {s9}은(는) 당신에게 마을 부근의 골칫거리인 도적단을 추격해 달라고 요청하였습니다.
-qst_kidnapped_girl|도적들로부터 소녀를 구출하라
-qst_kidnapped_girl_text|{s4}의 시장은 당신에게 도적들에 의해 납치된 소녀의 몸값을 지불하기 위해 {reg12}페닝을 주었습니다. 당신은 {s3} 인근에 있는 도적단을 만나고 그들에게 몸값을 지불해야 합니다. 그 뒤에 그 소녀를 {s4}으(로) 데려가야 합니다.
+qst_screen_army|{s13} 군대의 전방 엄호
+qst_scout_waypoints|{s13}, {s14}, {s15} 정찰
+qst_rescue_lord_by_replace|{s14}에 갇힌 {s13} 구출
+qst_deliver_message_to_prisoner_lord|{s14}에 투옥된 {s13}에게 서신 전달
+qst_duel_for_lady|{s13}에게 무력 대결 도전
+qst_duel_courtship_rival|구애 경쟁자 {s13}에게 결투 도전 (선택)
+qst_duel_avenge_insult|모욕에 대한 복수로 {s13}에게 결투 도전
+qst_move_cattle_herd|소 떼를 {s13}(으)로 배달
+qst_move_cattle_herd_text|{s10}의 조합장이 당신에게 소 떼를 {s13}으로 배달해 달라고 요청하였습니다.
+qst_escort_merchant_caravan|상단을 {s8}(으)로 호위
+qst_escort_merchant_caravan_text|상인단을 {s8} 도시까지 호위하여 인도하십시오.
+qst_deliver_wine|{s6} {reg5}개를 {s4}(으)로 배달
+qst_deliver_wine_text|{s3}의 {s9}(이)가 {s6} {reg5}개를 7일 이내에 {s4}의 여관으로 배달해 달라고 요청했습니다.
+qst_troublesome_bandits|골칫거리 도적 소탕
+qst_troublesome_bandits_text|{s4}의 {s9}(이)가 도시 근처에서 암약하는 골칫거리 도적들을 추적해 달라고 요청했습니다.
+qst_kidnapped_girl|도적에게서 소녀 구출
+qst_kidnapped_girl_text|{s4}의 조합장이 도적에게 납치된 소녀의 몸값으로 {reg12} 페닝을 주었습니다. {s3} 근처의 도적들을 만나 몸값을 지불한 뒤, 소녀를 {s4}(으)로 안전하게 데려오십시오.
 qst_persuade_lords_to_make_peace|두 명의 영주가 평화 서약을 하도록 설득하라
-qst_persuade_lords_to_make_peace_text|{s4}의 시장은 만약 당신이 {s15}와(과) {s14}이(가) 더 이상 평화 문제에 대한 위협을 제기하지 않게 할 수 있다면 당신에게 {reg12}페닝을 주겠다고 약속했습니다. 분쟁을 해결하기 위해, 당신은 반드시 평화 협정이 이루어지는 동안 그들을 설득하거나 그들 중 한명을 포로로 잡아야만 합니다.
-qst_deal_with_looters|약탈자 처리
-qst_deal_with_looters_text|{s4}의 시장은 당신에게 {s4}근처의 약탈자 무리를 처리해 달라고 요청했습니다. 그리고 당신에게 쓸만한 물건을 주겠다고 하였습니다.
-qst_deal_with_night_bandits|밤에 기승을 부리는 도적을 처리하라
-qst_deliver_grain|밀을 {s3}(으)로 배달하라
-qst_deliver_grain_text|{s3}의 마을장로는 당신에게 밀 {reg5}포대를 가져와 달라고 요청하였습니다.
-qst_deliver_cattle|소 {reg5}마리를 {s3}(으)로 배달하라
-qst_deliver_cattle_text|{s3}의 마을장로는 당신에게 소 {reg5}마리를 가져와 달라고 요청하였습니다.
-qst_train_peasants_against_bandits|도적들에 대항하여 {s13}명의 농부들을 훈련시켜라
-qst_eliminate_bandits_infesting_village|{s7} 마을을 약탈자들에게서 보호하라
-qst_eliminate_bandits_infesting_village_text|{s7}에서 온 마을 사람은 노상 강도들에게 침략당한 그들의 마을을 구해달라고 당신에게 간청했습니다.
+qst_persuade_lords_to_make_peace_text|{s4}의 조합장은 당신이 {s12}와 {s13}의 방해를 막아 {s15}와 {s14} 사이의 평화 협정을 성사시킨다면 {reg12} 페닝을 주겠다고 약속했습니다. {s12}와 {s13}를 설득하거나 협정이 끝날 때까지 생포해야 합니다.
+qst_deal_with_looters|약탈자 무리 처단
+qst_deal_with_looters_text|{s4}의 조합장은 도시 근처의 약탈자들을 처리하고 회수한 물자들을 가져와 달라고 요청했습니다.
+qst_deal_with_night_bandits|야간 도적 습격 방어
+qst_deliver_grain|{s3} 마을에 곡물 보급
+qst_deliver_grain_text|{s3} 마을의 지도자가 밀 {reg5}자루를 구해와 달라고 요청했습니다.
+qst_deliver_cattle|{s3} 마을에 소 {reg5}마리 보급
+qst_deliver_cattle_text|{s3} 마을의 지도자가 소 {reg5}마리를 가져다 달라고 요청했습니다.
+qst_train_peasants_against_bandits|도적에 대비해 {s13} 마을 농민들 훈련
+qst_eliminate_bandits_infesting_village|{s7} 마을의 도적 떼 소탕
+qst_eliminate_bandits_infesting_village_text|{s7}에서 온 마을 사람이 자기 마을에 둥지를 튼 도적들로부터 마을을 구해달라고 간청했습니다.
 qst_visit_lady|귀부인 방문
 qst_formal_marriage_proposal|정식 청혼
-qst_obtain_liege_blessing|정식 청혼
+qst_obtain_liege_blessing|주군의 축복 얻기
 qst_wed_betrothed|약혼자와 결혼
 qst_wed_betrothed_female|약혼자와 결혼
-qst_join_faction|{s1}에게 충성 서약을 하라
-qst_join_faction_text|{s1}을(를) 찾아서 그에게 당신의 충성을 서약하라.
-qst_rebel_against_kingdom|{s13}(이)가 {s14}의 왕위를 되찾는 것을 도와라
-qst_consult_with_minister|대신의 조언을 듣는다
-qst_consult_with_minister_text|현재 {s12}에 있는 당신의 장관에게 {s11}을(를) 상의해라.
-qst_organize_feast|축제 개최
-qst_organize_feast_text|연회를 위해 상품을 현재 {s12}에 있는 당신의 배우자{s11}에게 가지고 가라.
-qst_resolve_dispute|논쟁 해결
-qst_resolve_dispute_text|{s11}와(과) {s12}의 논쟁을 해결하라.
-qst_offer_gift|선물하기
-qst_offer_gift_text|{s10}에게 (~{reg4?her:his} {s11}, {s12} 하기 위해)선물을 주어라.
-qst_denounce_lord|영주를 비난하라
-qst_denounce_lord_text|{s11}을(를) 사람들 앞에서 맹렬히 비난해라.
-qst_intrigue_against_lord|주군에 대한 음모
-qst_intrigue_against_lord_text|{s11}을(를) 다른 사람이 없는 데서 비판해라.
+qst_join_faction|{s1}에게 충성 맹세
+qst_join_faction_text|{s1}을(를) 찾아서 그에게 당신의 충성을 서약하고, 가신이 되십시오.
+qst_rebel_against_kingdom|{s13}의 {s14} 왕위 찬탈 지원
+qst_consult_with_minister|대신의 조언을 듣다
+qst_consult_with_minister_text|현재 {s12}에 머물고 있는 당신의 대신 {s11}과 왕국 운영에 대해 상의하십시오.
+qst_organize_feast|연회 준비
+qst_organize_feast_text|현재 {s12}에 있는 당신의 배우자 {s11}에게 연회에 필요한 물자들을 가져다주십시오.
+qst_resolve_dispute|분쟁 중재
+qst_resolve_dispute_text|{s11}와 {s12} 사이의 갈등을 해결하십시오.
+qst_offer_gift|선물 전달
+qst_offer_gift_text|{s10}에게 (~{reg4?her:his} {s11}, {s12} 하기 위해)선물을 전달하십시오.
+qst_denounce_lord|영주 공개 비난
+qst_denounce_lord_text|{s11}(을)를 사람들 앞에서 공개적으로 비난하십시오.
+qst_intrigue_against_lord|영주에 대한 음모 가담
+qst_intrigue_against_lord_text|개인적인 자리에서 {s11}(을)를 비판하여 입지를 좁히십시오.
 qst_track_down_bandits|도적들을 추적하라
 qst_track_down_bandits_text|{s4}의 {s9}은(는) 당신에게 도시 근처 도로에서 여행객을 공격한 {s6}을(를) 찾아달라고 요청했습니다.
 qst_track_down_provocateurs|선동자를 추적하라
 qst_track_down_provocateurs_text|{s4}의 {s9}은(는) 당신에게 {s5}와 {s6}의 국경 분쟁을 만들도록 고용된 선동자 무리를 추적해 달라고 요청하였습니다.
-qst_retaliate_for_border_incident|국경 분쟁에 대한 보복을 하여라
-qst_retaliate_for_border_incident_text|{s4}의 {s9}은(는) 당신에게 {s7}의 전쟁에서 {s5}을(를) 격파해달라고 요청하였습니다. 전쟁을 하기 위해 {s8}에서의 긴장을 해결해야만 합니다.
-qst_raid_caravan_to_start_war|중립국의 상인을 공격하여 전쟁을 일으켜라
-qst_cause_provocation|왕국을 자극하여 다른 나라를 공격하도록 만들어라
-qst_rescue_prisoner|포로를 구해내거나 몸값을 지불하라
-qst_destroy_bandit_lair|도적들의 은신처를 파괴하라
-qst_destroy_bandit_lair_text|{s4}의 {s9}은(는) 당신에게 {s6}를 발견하고 파괴해달라고 요청하였습니다.
-qst_kennemer_jarl|복수 : 켄네머의 야를과 대화하라
-qst_kennemer_jarl_missions|복수 : 야를을 위한 임무
-qst_kennemer_mission_1|야를의 임무 : 수도원에서의 재판
-qst_kennemer_mission_2|야를의 임무 : 티데르트를 죽여라
-qst_kennemer_mission_3|야를의 임무 : 왕을 암살하라
-qst_reginhard_donations|레긴하르트의 부탁 : 전쟁 희생자들을 위한 기부
-qst_recruit_an_army|야를의 임무 : 전사들 모집
-qst_doccinga_assault|바이킹의 습격 : 스벤의 습격으로부터 독싱가를 구하라
-qst_doccinga_interrogation|바이킹의 습격 : 바이킹 포로를 심문하다
-qst_getting_ship|바이킹의 습격 : 스벤의 배와 소녀
+qst_retaliate_for_border_incident|국경 분쟁에 대한 보복 공격
+qst_retaliate_for_border_incident_text|{s4}의 {s9}(이)가 {s7} 세력의 {s5}(을)를 전투에서 격파하여 {s8} 지역의 긴장을 전쟁으로 국면 전환하라고 요청했습니다.
+qst_raid_caravan_to_start_war|중립국 상단 습격으로 전쟁 유도
+qst_cause_provocation|상대 국가를 도발하여 선제 공격 유도
+qst_rescue_prisoner|포로 구출 또는 몸값 협상
+qst_destroy_bandit_lair|도적 은신처 파괴
+qst_destroy_bandit_lair_text|{s4}의 {s9}(이)가 이 지역에 있는 {s6}(을)를 찾아내 파괴해 달라고 요청했습니다.
+qst_kennemer_jarl|복수: 켄네머의 야를과 대면
+qst_kennemer_jarl_missions|복수: 야를을 위한 업무
+qst_kennemer_mission_1|야를의 임무: 수도원에서의 재판
+qst_kennemer_mission_2|야를의 임무: 티아데르트 처단
+qst_kennemer_mission_3|야를의 임무: 국왕 암살
+qst_reginhard_donations|레긴하르트의 부탁: 전쟁 희생자들을 위한 기부
+qst_recruit_an_army|야를의 임무: 전사 모집
+qst_doccinga_assault|바이킹의 습격: 스벤의 습격으로부터 독싱가를 구하라
+qst_doccinga_interrogation|바이킹의 습격: 바이킹 포로를 심문하다
+qst_getting_ship|바이킹의 습격: 스벤의 배와 소녀
 qst_notes_companions|동료에 대한 기록
-qst_notes_global|당신의 여정의 기록
-qst_notes_frisa|프리지아에서의 당신의 여정
-qst_notes_danmork|덴마크에서의 당신의 여정
-qst_notes_englaland|앵글리아에서의 당신의 여정
-qst_sven_lair|복수 : 늑대의 소굴
-qst_danmork_protection|복수 : 호릭 왕의 보호 아래
-qst_revenge_sigurd|복수 : '눈 속의 뱀' 시구르드의 요구
-qst_collect_smen|시구르드의 임무 : 시구르드를 위한 군대 모집
-qst_bodo_letter|복수 : 가장 중요한 편지 되찾기
-qst_the_holmgang|작은 섬에서의 결투 : 홀름강
-qst_the_fleet|복수 : 앵글리아 침공
-qst_sven_traitor|복수 : 반역자 스벤
-qst_wessex_foragers|공성 : 웨식스 왕국의 정찰대
-qst_the_messengersn|공성 : 전령
-qst_the_alliance|복수 : 동맹
-qst_welsh_and_pictish|정복자 : 대의명분
-qst_cathach_colum|바이킹의 길 : 콜룸 카일의 시편
-qst_entregando_pieles|바이킹의 길 : 가죽 배달
-qst_revenge_exchange|복수 : 농장
-qst_ulf_testigo|화를 모면하다 : 구애하는 농부들과 야를들
-qst_the_thing|복수 : 집회
-qst_douar_an_enez|복수 : 두아르-안-에네즈
-qst_aescesdun|전투 : 에셰던
-qst_svenbn_final|복수 : 황소목 스벤
-qst_old_roman|하드리아누스의 장벽 : 기근 모면하기
+qst_notes_global|여정의 기록
+qst_notes_frisa|프리지아 견문록
+qst_notes_danmork|덴마크 견문록
+qst_notes_englaland|잉글랜드 견문록
+qst_sven_lair|복수: 늑대의 소굴
+qst_danmork_protection|복수: 국왕의 비호
+qst_revenge_sigurd|복수: '눈 속의 뱀' 시구르드와의 접선
+qst_collect_smen|시구르드의 임무: 시구르드를 위한 군대 모집
+qst_bodo_letter|복수: '가장 중요한 편지' 되찾기
+qst_the_holmgang|홀름강: 전사와의 결투
+qst_the_fleet|복수: 앵글리아 침공
+qst_sven_traitor|복수: 반역자 스벤
+qst_wessex_foragers|공성: 색슨족 정찰대
+qst_the_messengersn|공성: 전령
+qst_the_alliance|복수: 동맹 체결
+qst_welsh_and_pictish|정복자: 대의를 위한 복무
+qst_cathach_colum|바이킹의 길: 콜룸 카일의 시편
+qst_entregando_pieles|바이킹의 길: 가죽 무역
+qst_revenge_exchange|복수: 농장
+qst_ulf_testigo|복수: 농부와 야를
+qst_the_thing|복수: 의회 집결
+qst_douar_an_enez|복수: 두아르-안-에네즈 탐사
+qst_aescesdun|전투: 에셰던 전투
+qst_svenbn_final|복수: '황소목' 스벤
+qst_old_roman|하드리아누스의 장벽: 기근 구제
 qst_vc_menu|바이킹 컨퀘스트 메뉴 시스템
 qst_vc_wounds|바이킹 컨퀘스트 부상 시스템
 qst_sea_battle_spawn|해상 전투 스폰 시스템
 qst_team_0_ships|해상 전투 스폰 시스템
 qst_team_1_ships|해상 전투 스폰 시스템
-qst_blank_quest_2|주교를 {s14}까지 호위하라.
-qst_blank_quest_2_text|{s11}은(는) 당신에게 주교를 {s22}에서 {s14}까지 호위해 달라고 요청하였습니다.
-qst_blank_quest_3|{s14} 수도원 급습
-qst_blank_quest_3_text|{s11}은(는) 당신에게 {s34}부근에 있는 {s14} 수도원을 급습하고 그에게 {reg33} 페닝을 가져와달라고 요청하였습니다.
-qst_blank_quest_4|주인 없는 병력 집단을 찾아 죽여라.
-qst_blank_quest_4_text|{s8}은 당신에게 그의 마을({s9})을 약탈한 주인 없는 병력 집단을 찾아서 파괴해 달라고 요청했습니다.
-qst_blank_quest_6|{reg5}명의 여성을 납치하고 {s3}로 데려가라.
-qst_blank_quest_6_text|{s3}의 마을 장로는 당신에게 {reg5}명의 여성을 포로로 잡아 마을로 데려와 달라고 요청했습니다.
-qst_blank_quest_7|달아난 노예들을 {s3}로 돌려보내다.
-qst_blank_quest_7_text|{s3}의 마을 지도자는 당신에게 달아난 노예들을 데려와 달라고 요청했습니다.
-qst_blank_quest_9|{reg33}개의 벌꿀 술을 {s3}로 가져와라.
-qst_blank_quest_9_text|{s3}의 성직자는 당신에게 {reg33}개의 벌꿀 술을 가져와 달라고 요청하였습니다.
-qst_blank_quest_10|{s3}의 {s9}에게서 도난당한 {s13}을(를) 되찾아와라.
-qst_blank_quest_10_text|{s3}의 {s9}은(는) 당신에게 그에게서 도난당한 {s13}을(를) 되찾아 달라고 요청하였습니다. ^^{s10}을(를) 보세요.
-qst_blank_quest_11|{reg33}개의 {s33}짐을 {s3}로 가져와라.
-qst_blank_quest_11_text|{s3}의 {s9}은(는) 당신에게 {reg33}개의 {s33}짐을 그에게 가져오기를 요청하였습니다.
-qst_blank_quest_12|{reg33}개의 목재 운반대를 {s3}에게 가져가라.
-qst_blank_quest_12_text|{s3}의 수도원장은 당신에게 {reg33}개의 목재 운반대를 가져와 달라고 요청하였습니다.
-qst_blank_quest_13|과거를 폭로하다.
-qst_blank_quest_13_text|{s11}은(는) 당신에게 그녀의 전 남자친구인 '귀신'({s33}에 있다고 믿는)을 처리해 달라고 요청하였습니다. {s11}은(는) '유령'이 {s33}에서 다른 사랑을 찾았을 것이라고 믿고 있습니다.
-qst_blank_quest_14|암살 음모를 드러내다.
-qst_blank_quest_14_text|누군가 당신을 살해하려 시도하였습니다. 당신은 {s3}에서 암살자와 접촉하여 당신을 죽이려 한 사람을 찾아볼 수 있을 것입니다.
-qst_blank_quest_15|암살 음모를 드러내다(2).
-qst_blank_quest_15_text|연락에 의해 암살을 명령한 사람은 귀족({s9})으로 밝혀졌습니다. 이제 그 귀족과 대면할 시간입니다.
-qst_blank_quest_16|{s17} {reg25}개 조각을 {s11}에 가져다 주어라.
-qst_blank_quest_16_text|{s11}은(는) 당신에게 {s17} {reg25}개 조각을 그녀에게 가져다 주라고 요청하였습니다.
-qst_blank_quest_17|2조각의 치즈와 와인 {reg25}바틀을 {s11}에 가져다 주어라.
-qst_blank_quest_17_text|{s11}은(는) 당신에게 2조각의 치즈와 와인 {reg25}바틀을 그녀에게 가져다 주라고 요청하였습니다.
-qst_blank_quest_18|{s3}에게 편지를 전달하라.
-qst_blank_quest_18_text|{s11}은(는) 당신에게 그녀의 사랑인 {s3}에게 편지를 전달해 달라고 요청하였습니다.
+qst_blank_quest_2|주교를 {s14}(으)로 호위
+qst_blank_quest_2_text|{s11}(이)가 {s22}에서 {s14}까지 주교를 호위해 달라고 요청했습니다.
+qst_blank_quest_3|{s14} 수도원 습격
+qst_blank_quest_3_text|{s11}(이)가 {s34} 인근의 {s14} 수도원을 약탈하고 {reg33} 페닝을 가져오라고 요청했습니다.
+qst_blank_quest_4|주인 없는 패잔병 소탕
+qst_blank_quest_4_text|{s8}(이)가 자신의 마을인 {s9}(을)를 약탈한 주인 없는 패잔병들을 추적해 달라고 요청했습니다.
+qst_blank_quest_6|여성 {reg5}명 생포 후 {s3}(으)로 이송
+qst_blank_quest_6_text|{s3} 마을의 이장이 여성 {reg5}명을 포로로 잡아 마을로 데려와 달라고 요청했습니다.
+qst_blank_quest_7|탈주 노예 {s3}(으)로 송환
+qst_blank_quest_7_text|{s3} 마을의 지도자가 달아난 노예를 찾아 마을로 복귀시켜 달라고 요청했습니다.
+qst_blank_quest_9|벌꿀술 {reg33}잔을 {s3}(으)로 전달
+qst_blank_quest_9_text|{s3}의 사제가 벌꿀술 {reg33}잔을 가져와 달라고 요청했습니다.
+qst_blank_quest_10|{s3}의 {s9}에게서 도난당한 {s13} 회수
+qst_blank_quest_10_text|{s3}의 {s9}(이)가 도난당한 {s13}(을)를 되찾아 달라고 요청했습니다. {s10}(을)를 조사하십시오.
+qst_blank_quest_11|{s33} {reg33}개를 {s3}(으)로 운반
+qst_blank_quest_11_text|{s3}의 {s9}(이)가 {s33} {reg33}개를 가져와 달라고 요청했습니다.
+qst_blank_quest_12|목재 {reg33}묶음을 {s3}(으)로 배달
+qst_blank_quest_12_text|{s3}의 수도원장이 목재 {reg33}묶음을 가져와 달라고 요청했습니다.
+qst_blank_quest_13|과거로부터의 그림자
+qst_blank_quest_13_text|{s11}(이)가 {s33}에 있는 것으로 알려진 그녀의 옛 연인(유령)을 처리해 달라고 요청했습니다.
+qst_blank_quest_14|암살 음모 폭로
+qst_blank_quest_14_text|누군가 당신을 살해하려 했습니다. {s3}에서 암살자의 접선책을 만나 배후를 알아내십시오.
+qst_blank_quest_15|암살 음모 폭로(2)
+qst_blank_quest_15_text|암살을 지시한 자가 귀족 {s9}(으)로 밝혀졌습니다. 이제 그를 대면하여 대가를 치르게 할 시간입니다.
+qst_blank_quest_16|{s17} {reg25}개를 {s11}에게 전달
+qst_blank_quest_16_text|{s11}(이)가 {s17} {reg25}개를 가져다 달라고 요청했습니다.
+qst_blank_quest_17|식료품(치즈와 와인)을 {s11}에게 전달
+qst_blank_quest_17_text|{s11}(이)가 치즈 2덩이와 와인 {reg25}병을 가져와 달라고 요청했습니다.
+qst_blank_quest_18|{s3}에게 서신 전달
+qst_blank_quest_18_text|{s11}(이)가 자신의 연인인 {s3}에게 편지를 전해 달라고 요청했습니다.
 qst_blank_quest_19|모든 스칸디나비아 노스인의 왕이 되다
 qst_blank_quest_20|모든 브리튼 알바인의 왕이 되다
 qst_blank_quest_21|모든 에리우인의 왕이 되다
-qst_blank_quest_22|모든 앵글리아 앵글로 색슨의 왕이 되다
+qst_blank_quest_22|모든 앵글리아의 브레튼왈다가 되다
 qst_blank_quest_23|마지막 투아하 데 다난
 qst_blank_quest_24|뱀
-qst_blank_quest_25|프레이스베르타흐의 위대한 자손
-qst_blank_quest_26|말 브레살
-qst_blank_quest_27|에리우에서의 여정
-qst_collect_men|복수 : 독싱가 방문
-qst_learn_where_merchant_brother_is|{reg3}마리의 소를 {s13}에게 데려가라
-qst_save_relative_of_merchant|도적들의 소굴을 공격하라
-qst_save_town_from_bandits|도적들로부터 마을을 구하라
+qst_blank_quest_25|프레이스베르타흐의 자손들
+qst_blank_quest_26|말 브레살의 행방
+qst_blank_quest_27|에리우 견문록
+qst_collect_men|복수: 독싱가 방문
+qst_learn_where_merchant_brother_is|소 {reg3}마리를 {s13}에게 전달
+qst_save_relative_of_merchant|도적 은신처 습격
+qst_save_town_from_bandits|도적들로부터 도시 구출
 qst_quests_end|임무 완료

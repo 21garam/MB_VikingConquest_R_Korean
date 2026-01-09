@@ -1,8 +1,8 @@
-﻿fac_no_faction|팩션 없음
+﻿fac_no_faction|소속 없음
 fac_commoners|평민
 fac_outlaws|무법자
 fac_neutral|중립
-fac_innocents|악의 없는 세력
+fac_innocents|무고한 자들
 fac_merchants|상인
 fac_culture_norse|노스
 fac_culture_saxon|색슨
@@ -11,7 +11,7 @@ fac_culture_welsh|브리튼
 fac_culture_irish|게일
 fac_culture_scotch|픽트
 fac_player_faction|주인공의 국가
-fac_player_supporters_faction|주인공의 후견인들
+fac_player_supporters_faction|주인공의 지지자들
 fac_kingdom_1|덴마크 왕국
 fac_kingdom_2|노스비거 왕국
 fac_kingdom_3|레이슬린트 왕국
