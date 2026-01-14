@@ -45,7 +45,7 @@ dlga_port_chief_info_main_1:port_chief2|그 정도면 충분하오. 고맙소!
 dlga_port_chief_info_a_1:port_chief_info_main|바다 건너로 물자나 노예를 거래하면 꽤나 짭짤하게 벌 수 있지.  아니면 해안가 정착지를 약탈하거나 말이오. 그리고 훌륭한 배를 갖추지 못한 자를 지도자로 존경할 바이킹은 이 세상에 없소.
 dlga_port_chief_info_b_1:port_chief_info_main|낮에는 태양을 보고, 밤에는 쉬는 것이지. 항해술이 뛰어날수록 여정은 짧아지는 법이라오.
 dlga_port_chief_info_c_1:port_chief_info_c_2|먼저 어떤 배를 원하는지 정해야 하오. 무역이 목적이라면 노르가 좋겠지. 적재 공간은 넓지만 그리 빠르진 않소. 스네크야, 스케이드, 부세는 병력을 가득 실을 수 있는 빠른 군선이라오. 카르비는 그 중간쯤 되고. 부하가 적다면 비르딩 같은 작은 배가 적당할 거요.
-dlga_port_chief_info_c_2:port_chief_info_main|두 번째는 목재요. 참나무로 만든 배가 으뜸이지만 그만큼 비싸다오. 물푸레나무는 값은 싸지만 훨씬 빨리 썩지.
+dlga_port_chief_info_c_2:port_chief_info_main|두 번째는 목재요. 참나무로 만든 배가 으뜸이지만 그만큼 비싸다오. 너도밤나무는 값은 싸지만 훨씬 빨리 썩지.
 dlga_port_chief_info_d_1:port_chief_info_main|바람이 가장 중요하오! 돛을 펼쳐 바람을 잘 타는 것이 핵심이지. 바람이 멎으면 선원들이 노를 저어야 하오. 노잡이가 많을수록 배는 빨라지는 법. 선단에 배가 여러 척이라면 가장 느린 배의 속도에 맞춰 움직이게 될 거요. 숙련된 항해사가 있다면 선단의 속력을 더 높일 수 있을 것이오.
 dlga_port_chief3:port_chief_travel|다른 항구로 떠나고 싶소.
 dlga_port_chief_travel:close_window|송구하오. 현재 이 항구에는 사령관과 그의 대군을 실어 나를 수 있는 배가 없소.
@@ -78,7 +78,7 @@ dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|미안하오만, �
 dlga_port_chief_build_ship_main_2:port_chief_info_main_3|어떤 목재를 사용하시겠소?
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4|품질이 중요하니, 참나무로 해주시오.
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|소나무면 적당할 것 같소.
-dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|돈을 너무 낭비해서는 안 되지. 물푸레나무로 해 주시오.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|돈을 너무 낭비해서는 안 되지. 너도밤나무로 해 주시오.
 dlga_port_chief_info_main_3:port_chief2|생각이 바뀌었소.
 dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|{s12}로 {s11}을 건조하려면 {reg11} 페닝이 필요하오. {s2} 완공까지는 {reg12}일이 걸릴 거요. 
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|그 배를 건조해주시오!
