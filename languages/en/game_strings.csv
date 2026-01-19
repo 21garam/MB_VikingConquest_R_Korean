@@ -439,7 +439,7 @@ str_npc16_backstory_a|실례하겠소, {reg59?부인:선생}. 나는 신에게 �
 str_npc1_backstory_b|나는 개인적으로 내가 아주 뛰어난 추적자라고 생각하고 있소. 사실, 나는 이 근방에선 최고의 추적자이오. 언제나 나의 임무는 우리가 동굴을 떠날 때 내 가족을 보호하는 일이었소. 당신이 내 봉사를 받는다면, 내 아버지가 당신을 기쁘게 생각할 것이오.
 str_npc2_backstory_b|나는 호릭 왕의 아들입니다만, 서자이지요. 왕은 예쁜 여자를 좋아하는데... 그러다가 뭐, 본처의 여종들 사이에서 내 어머니를 만났죠. 그래서 내가 지금 여기에 있는 겁니다.^리베에서 지냈던 내 어린 시절은 행복했죠, 하지만 곧 왕이 그의 허스칼-그러니까 왕의 근위병 중 한 명을 나와 함께 살게 했습니다. 아주 거칠고 폭력적인 남자였죠. 그는 내가 창을 사용하는 법이나, 검과 방패를 쓰는 법을 배우길 강요했어요. 게다가 벌꿀주를 마시는것도 허락하지 않았고 여자들을 만나는것도 거의 허락하지 않았죠. 타인에 의해 이런 고난을 겪을 수 있다는게 믿어지십니까?
 str_npc3_backstory_b|나는 독싱가라는 작은 마을에서 살고 있었어요. 나는 내 아버지 손크릭과 함께 행복하게 살고 있었죠, 아버지는 어머니가 돌아가신 뒤 나를 위해 많이 신경 써 주셨으니까요. 하지만, 그러던 어느 날 켄네머의 야를이 우리 마을에 왔고, 그는 저를 보고. 그, 망할 놈이, 제 아버지에게 그의 아내의 시종으로 보내도록 강요했어요. 그는 나를 존중해줄 것이라고 약속했지만, 그건 죄다 거짓말이었어요. 그 것에 대해서는 이야기하고 싶지 않네요...^음, 그 이후... 저는 정말 노예가 되어버렸어요. 저는 그의 부하들에게 제 몸을 내줄 수밖에 없었어요...
-str_npc4_backstory_b|당신이 알아야 할 것은 그저 내가 달 리아타의 도너하고 스코틀랜드 사람이라는 것이오.
+str_npc4_backstory_b|당신이 알아야 할 것은 그저 내가 달 리아타의 돈카브고 스코틀랜드 사람이라는 것이오.
 str_npc5_backstory_b|내 기억대로라면, 우리 가족은 근처의 다른 부족들과 반목했소. 그리고 그 싸움에서 양쪽 모두 많은 사람이 죽었소, 그 중에는 내 형제중 두 명이 포함되어 있었지. 코르누비아의 왕은 당장 그 싸움을 중단하라고 명령을 내렸소. 그러나 나는 내 권리를 알고 있었소, 내 형제의 피가 복수를 위해 울고 있음을. 나는 산등성이에 숨어 적들을 죽였고, 나는 밤 중에 우리의 회당을 떠나기로 했소, 심지어 나는 내 아버지에게 작별 인사조차도 하지 않았지. 나중에 나는 왕이 나를 추방했다고 들었소, 그리고 내 귀족으로서의 권리도 회수했다고 말이오. 나는 지금 세상을 비난하며 떠돌아다니고 있소, 영원히 내 친족들과 고향으로부터 추방된 채 말이오.
 str_npc6_backstory_b|나는 바보가 아니오. 나는 우리가 전투에서 패배할 가능성이 높다는 것을 알고 있었소. 우리는 분명히 열세였지, 그들은 우리보다 더 잘 무장하고 있었소, 하지만 나는 내가 천국으로 가기 전에, 좀 더 많은 사람을 죽일 수 있도록 에루디노에게 빌었소. 그리고 내 희생으로 다른 사람들이 도망칠 기회를 얻거나, 바이킹들에게 공포를 심어주길 바랬소. 하지만 바이킹들은 흔들리지 않고 그들이 할 일을 다 하더구려... 그러던 중 바이킹 대 여섯명이 나를 포위했고, 그들이 나를 상대하는 동안 그들의 동료가 오딘 릭을 공격했고, 그 곳에 있던 사람들 모두가 죽었소...
 str_npc7_backstory_b|내가 멍청한 픽트인 군주에 의해 밤 중에 숲을 정찰하라는 명령을 받았던 일은 불행이었어요. 그리고 그 곳에서 적들이 상당히 신중하게 계획하고 매복하고 있었던 것도, 매복한 적들이 우리의 작은 부대보다 훨씬 더 많았던것도 불행이었죠. 내가 그 피바다에서 빠져나온 유일한 사람이 된 것 마저 불행이었어요. 그리고 전쟁 협의회가 나를 배신자로 간주하는 바람에 밤 중에 내 부족에서 도망쳐 나온것도 불행이었어요. 이런 일들을 전부 다 당신에게 알려주고 있는것 자체가 불행 아니겠어요?
@@ -660,7 +660,7 @@ str_npc13_personalityclash_speech|실례하오, 주군. 나는 그 벌레같은 
 str_npc14_personalityclash_speech|대장, {s11}라는 못생긴 여자가 우리 부하들에게 악영향을 미치고 있다는걸 알아주었으면 하오. 그 여자는 내가 자기를 유혹하려고 한다고 불평하는것 같던데, 그건 진실은 커녕 그 근처에도 못간 소리요. 심지어 나는 그 여자가 풍기는 냄새조차 견디기 힘들더군.
 str_npc15_personalityclash_speech|잠시 실례하겠소. 내 말이 불쾌하지 않았으면 좋겠소만, 내 의견은 이렇소. {s11}는 우리 일행에 위험한 존재이오. 그에겐 종교나 지옥 따위에만 신경 쓸 뿐, 군사 활동에 대한 권위나 원칙에 대해서는 무시하고 있소.
 str_npc16_personalityclash_speech|Just so you know -- there's something demonic about {s11}. He makes strange scrawlings in the dirt, and mutters to himself all the time before battle.
-str_npc1_personalityclash_speech_b|두이웨가 특별한 사람도 아니고 방금전에 그녀가 나에게 한듯이 나를 멀리하겠다는 말을 할 만한 권리도 없소.
+str_npc1_personalityclash_speech_b|두이웨이가 특별한 사람도 아니고 방금전에 그녀가 나에게 한듯이 나를 멀리하겠다는 말을 할 만한 권리도 없소.
 str_npc2_personalityclash_speech_b|나는 {s11}가 소박하고 순수한 삶에 흡족해 한다는것 따위엔 관심도 없어요. 나는 발할라에 닿고 싶은 전사일 뿐이지, {s11}의 성자가 아니란 말입니다.
 str_npc3_personalityclash_speech_b|저도 군대라는 곳이 보통은 남자들의 사회라는것 쯤은 알고 있어요. 하지만 그래도 저는 제가 약간은 존중 받을만한 자격이 있다고 믿고 있어요. 난 창녀같은게 아니라구요!^... 아무튼... 제 말을 괜히 담아두지 않으셨으면 좋겠네요.
 str_npc4_personalityclash_speech_b|이 색슨인 {s11}는 죽고싶은 모양이오.
@@ -669,11 +669,11 @@ str_npc6_personalityclash_speech_b|내가 최고의 남자가 아니라는것쯤
 str_npc7_personalityclash_speech_b|나는 식사를 마친 후 모닥불 근처에서 날 쏘아보는것 따위엔 신경도 안써요. 그가 이를 쑤시며 그 악취나는 맥주를 마시는것도요. 내가 받아들일 수 없는건 카이오가 항상 그가 나보다 더 나은 추적자라고 말하고 다니는거라구요. 물론 말도 안되는 개소리죠.^그는 천하고, 무식한데다 머저리같은 꼬맹이에요. 추적 기술은 물론 나랑은 뭣도 비교할 만한 수준이 안된다고요! 그런 녀석은 신경 끄고 다닐 생각이에요.
 str_npc8_personalityclash_speech_b|It is true I do not know how to read and write, nor how to speak Latin. But I know much more of life and battle than {s11}, and a great warrior like me should not be mocked by some weak-minded thinker. It was only out of respect for you that I refrained from cutting his throat when I overheard his jokes about me. I thought it only fitting that I should warn you.
 str_npc9_personalityclash_speech_b|그래서 내가 물었소, 정말 헬기와 그 부하들이 프랑크족 전사들보다 그렇게 잘 훈련되었다면, 어떻게 그가 덴마크 적들을 정복하는데 실패하고 심지어 그거 그렇게 경멸하는 색슨족에게도 추방당했는지 말이오.^그는 대답도 못한채 얼굴을 붉히더니 나와 내 모든 조상들에 대한 저주를 퍼부었소. 그러더니 거의 나에게 결투를 신청하려고 하더군.^그는 그가 굉장히 잘 훈련됐다고 말하지만, 내 생각엔 당신이 그를 좀 '훈련'시켜 줄 필요가 있을것 같소.
-str_npc10_personalityclash_speech_b|누구나 알고있듯, 진정 고귀한 피를 타고난 웨일스인은 없소. 진정으로 고귀한 피는 절대 브리손어따위는 쓰지도 않거니와 고귀한 혈통인척 하는 웨일스인은 하나같이 단순하고, 멍청한데다 참고 보고있기 힘겹기까지 하오.^어쨌거나 나는 방금 전 도너하에게 '당신이 진정 고귀하다면 당신의 아버지가 색슨족 이었기 때문이다.' 라는식으로 쏘아붙일 수 밖에 없었소. 그랬더니 공격적으로 쏘아보더군... 어쨌거나, 당신이 알아둬야 할 것 같아서 말이오.
+str_npc10_personalityclash_speech_b|누구나 알고있듯, 진정 고귀한 피를 타고난 웨일스인은 없소. 진정으로 고귀한 피는 절대 브리손어따위는 쓰지도 않거니와 고귀한 혈통인척 하는 웨일스인은 하나같이 단순하고, 멍청한데다 참고 보고있기 힘겹기까지 하오.^어쨌거나 나는 방금 전 돈카브에게 '당신이 진정 고귀하다면 당신의 아버지가 색슨족 이었기 때문이다.' 라는식으로 쏘아붙일 수 밖에 없었소. 그랬더니 공격적으로 쏘아보더군... 어쨌거나, 당신이 알아둬야 할 것 같아서 말이오.
 str_npc11_personalityclash_speech_b|확신컨데, {s11}은 우리에게 불운과 슬픔 외에 아무것도 가져다 주지 못할 꺼에요. 저는 그 남자 주변에 다가가고 싶지도 않고, 그가 우리와 함께 해야 한다고 생각하지도 않아요.^제가 {s11}에게 스칼드모는 반드시 처녀를 유지해야 한다고 말했는데도, 그는 계속해서 바보처럼 사랑 타령만 하더군요. 저는 더 이상 그를 받아줄 수가 없어요.^제가 할 말은 이게 다에요. 분란을 만들어서 미안해요, {reg59?나의 예쁜 숙녀분:나의 멋지신 분}.
 str_npc12_personalityclash_speech_b|It is not my fault that this stupid barbarian is incapable of understanding the beautiful world of medicine, nor that he prefers to die with an infected wound than to be helped by my knowledge of nature and human body. Warlord, I am deeply tired of standing such an ungrateful and ignorant lot.
 str_npc13_personalityclash_speech_b|아직까지 그런적은 없었지만, 그런식으로 하다간 그 밥맛없는 {s11}는 내 부하들의 조롱거리가 되기 딱 좋을것이오. 내가 잉글랜드에서 덴마크인들에 대항해 싸우다 패배했던걸 궂이 언급하지 않더라도 말이오.^앞으로 나는 그 녀석 앞에서 내 방식을 제시하시도 신념에 대한 의문을 묻지도 않을것이며, 그런 불복종과 어리석음을 방패벽 속에 받아들여주는 군주를 위해 일하지 않을것이오.^... 시간내서 내 말을 들어주어서 고맙소.
-str_npc14_personalityclash_speech_b|그 여자는 이미 여러번이나 밤중에 내 텐트로 숨어들어온적이 있는 여자이오. 게다가 나와 단 둘이 있을 기회만 노리고 있으면서 내가 감히 큰소리를 내지 못할만한 짓들을 하면서 날 자극시키려고 하고 있소.^부디 그 뻔뻔스러운 여자에게 나는 예쁜 여자에게만 관심이 있고 브륀힐드같은 여자에겐 볼일이 없다고 말 해주시오.
+str_npc14_personalityclash_speech_b|그 여자는 이미 여러번이나 밤중에 내 텐트로 숨어들어온적이 있는 여자이오. 게다가 나와 단 둘이 있을 기회만 노리고 있으면서 내가 감히 큰소리를 내지 못할만한 짓들을 하면서 날 자극시키려고 하고 있소.^부디 그 뻔뻔스러운 여자에게 나는 예쁜 여자에게만 관심이 있고 부룬힐드같은 여자에겐 볼일이 없다고 말 해주시오.
 str_npc15_personalityclash_speech_b|나는 그가 병사들에게 포위전이나 전투를 벌이기 전에 하는 전투 준비가 쓸모 없다는 연설을 하는 것을 들었소. 그에 따르면 승리는 신의 뜻에 의해서만 결정된다고 하오. 나 역시 그리스도를 믿지만, 그런 순수한 기독교인의 영혼만으로는 승리를 쟁취해낼 수 없다고 환신하오. 지금 당장 이런 종류의 설교를 그만두라고 해야한다고 생각하오.
 str_npc16_personalityclash_speech_b|Fearing witchcraft, I asked {s11} about it, and told me that I should mind my own business. So I had to look in his baggage, and found a heretical Odin Symbol. I am sure that this symbol is corrupt, a thing of the Devil, surely. We should definitely get rid of {s11} for the sake of our immortal souls.
 str_npc1_personalityclash2_speech|주군, 나쁜 뜻으로 하는 말은 아니오나, {s11}는 도저히 견딜수가 없소. 그는 계속 나더러 미친놈이라던가, 지옥에나 떨어질 멍청한 젊은이라고 욕하고 있소.
@@ -802,7 +802,7 @@ str_npc11_home_description|당신이 알고있듯이 저는 여기 출신이에�
 str_npc12_home_description|Heidabyr is not the oldest site in Danmark. Actually it was founded a few generations ago, but it is becoming an important site by the Rerik merchants, who came here when their city was destroyed by King Gotrik more than sixty winters ago.
 str_npc13_home_description|데인족과 노르웨이인이 서쪽에서 번성한것 처럼, 내 동족들은 슬라브족과 그 너머의 땅 뿐만 아니라 미클랑가르드와의 교역까지 목표로 삼고 노력을 쏟고 있소.
 str_npc14_home_description|이곳은 이 땅 최고의 노래와 음유시인들의 고향이라오. 심지어 이 나라의 어린 소년, 소녀들 마저 바깥 세상의 음유시인들 보다 좋은 가수라고 할 수 있소. 많은 사람들이 여전히 옛 전통을 따르고 오래된 신들을 경배하고 있소. 그리고 뮌스터는 에리우 땅에서 가장 부유한 곳이지요.
-str_npc15_home_description|흐로달란드는 노스비거의 작은 왕국들 중 하나이오. 나의 주인 코닝굴 에이리크가 다스리는 곳이라오. 나는 그를 잘 알고있소. 그는 거칠고 폭력적이며 그의 왕국의 독립 외에는 그 어떤것에도 관심이 없는 사람이오. 그래서 그는 한 명의 왕에 의해 다스려지는 통일된 노스비거를 위한 '산발머리' 하랄드 하프다나르손에 대한 서약을 좋아하지 않소.
+str_npc15_home_description|흐로달란드는 노스비거의 작은 왕국들 중 하나이오. 나의 주인 코눙구르 에이리크가 다스리는 곳이라오. 나는 그를 잘 알고있소. 그는 거칠고 폭력적이며 그의 왕국의 독립 외에는 그 어떤것에도 관심이 없는 사람이오. 그래서 그는 한 명의 왕에 의해 다스려지는 통일된 노스비거를 위한 '산발머리' 하랄드 하프다나르손에 대한 서약을 좋아하지 않소.
 str_npc16_home_description|위탄 세스터는 웨섹스의 색슨인들의 수도이오. 웨섹스는 브리타니아나 잉글랜드라고 불리우는 이 땅에서 가장 강력한 왕국이오. 머시아의 힘이 약해지기 시작하면서 웨섹스는 덴마크를 막아낼 수 있는 유일한 왕국이 되었소.
 str_npc1_home_description_2|그 때부터 이 이름은 아버지로부터 아들로 전해 내려오고 있소. 당신이 '늙은 로마인'으로만 알고있는 나의 아버지 이름도 '카이오'라오. 절대 잊혀질리 없지. 내 형제들의 이름 역시 모두 '카이오'이오. 그래서 나의 어머니는 우리를 부를 때 카이오 마이오르, 카이오 세쿤도, 카이오 미노르라고 부른다오. 각각 큰, 둘째, 막내 라는 뜻이지.
 str_npc2_home_description_2|저는 언젠가 리베 근처의 농장을 살거에요. 그리고 두명이나 세명쯤 되는 여자들과 결혼을 해서 오직 '아이를 만드는일에' 온힘을 다할거에요.^... 아닐수도 있구요, 생각해보니 그것도 금장 지루해 질지도 모르겠네요.
@@ -2602,10 +2602,10 @@ str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_b
 str_strategy_criticism_rash|내 생각에 그 작전은 약간 무모한것 같소. 또한 우리 군은 불필요한 위험에 노출될 것이오.
 str_strategy_criticism_cautious|내 생각에 그 작전은 지나치게 신중해서, 아군은 그 어떤 성취도 없이 지루함에 녹아버릴 것만 같소.
 str_tavernkeeper_invalid_quest| 이(가) 어떤 일을 가지고 있지만, 그 세부적인 내용까지 기억하지는 못하는 것 같소.
-str_faction_title_male_player|코닝굴 {s0}
+str_faction_title_male_player|코눙구르 {s0}
 str_faction_title_male_1|야를 {s0}
 str_faction_title_male_2|헤르시르 {s0}
-str_faction_title_male_3|키닝 {s0}
+str_faction_title_male_3|퀴닝 {s0}
 str_faction_title_male_4|엘더먼 {s0}
 str_faction_title_male_5|드리히텐 {s0}
 str_faction_title_male_6|리 {s0}

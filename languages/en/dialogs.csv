@@ -166,7 +166,7 @@ dlga_start:close_window.8|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:close_window.9|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:close_window.10|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:close_window.11|무엇을 원하시오? 당신과 같은 자와 한가하게 떠들 시간은 없소! 사제나 찾아가 보시오!
-dlga_start:close_window.12|말 브레살이 당신과 이야기하고 싶다했소.
+dlga_start:close_window.12|마엘 브레살이 당신과 이야기하고 싶다했소.
 dlga_start:close_window.13|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:conversation_companioncamp|-- 야영지에서 동료를 찾았습니다. --
 dlga_start:close_window.14|지금은 바쁘오, {playername}. 나중에 얘기합시다.
@@ -192,15 +192,15 @@ dlga_donnachdh_conversationcamp3:donnachdh_conversationcamp4|바이킹들이 섬
 dlga_donnachdh_conversationcamp3_2:donnachdh_conversationcamp4|맞습니다. 전쟁은 약자를 도태시키고 살아남은 자들에겐 싸우는 법을 배우도록 강요합니다. 군대에 쓸 전사를 양성하기에는 더없이 좋은 곳이죠. 하지만 당신이 게일인들의 정쟁에 휘말리거나 타라의 왕이 되려 한다면, 이 섬에는 확고한 정치적 전통이 있으며 당신이 무엇을 하든 에리우를 근본적으로 바꿀 수는 없다는 사실을 깨닫게 될겁니다.
 dlga_donnachdh_conversationcamp3_3:donnachdh_conversationcamp4|모든 사내와 씨족들이 타라의 왕좌를 탐내지만, 실제로 그 자리에 앉을 자격을 갖춘 자는 정말로 흔치 않죠. 도전했던 자들은 대개 단명했으나, 늘 또 다른 사람들과 씨족들이 나타나 그 굴레를 반복해 왔습니다. 만약 타라의 왕좌가 당신의 차지가 된다면, 누릴 수 있을 때 최대한 누리시는게 좋을겁니다. 당신의 집단은 명성을 떨치고 존경받겠지만, 당신의 수명은 아주 짧아질테니까요.
 dlga_donnachdh_conversationcamp4:close_window|확실히 에리우, 아니 로마인들이 불렀던 '히베르니아'는 전혀 다른 땅이구려. 지금까지 알던 모든 것을 잊으시오. 에리우는 특별한 곳이니까!
-dlga_conversation_companioncamp:donnachdh_dwywei_conv1|제가 당신의 이름으로 명령을 내릴 때마다, 두이웨는 병사들 앞에서 제 권위에 의문을 제기합니다. 이제는 몇몇 전사들을 모아놓고 제 뒷담화를 하기까지 하는군요. 우리는 같은 왕국 출신인데 왜 저를 이토록 증오하는지 이해할 수 없습니다.
+dlga_conversation_companioncamp:donnachdh_dwywei_conv1|제가 당신의 이름으로 명령을 내릴 때마다, 두이웨이는 병사들 앞에서 제 권위에 의문을 제기합니다. 이제는 몇몇 전사들을 모아놓고 제 뒷담화를 하기까지 하는군요. 우리는 같은 왕국 출신인데 왜 저를 이토록 증오하는지 이해할 수 없습니다.
 dlga_donnachdh_dwywei_conv1:donnachdh_dwywei_conv2|달 리아타의 스코트인들은 피비린내 나는 배신자들입니다. 그들은 우리의 서쪽 영토를 빼앗으려 에리우에서 건너왔지요. 몇 년 전, 우리는 노르드인들에 맞서 싸우던 위대한 브리데이 왕을 잃었습니다. 픽트 귀족들 대부분이 그분과 함께 전사했지요. 그러자 달 리아타의 왕 '키나이드 맥 알핀'이 살아남은 픽트 일곱 왕가와 왕위를 놓고 다툰 것입니다.
 dlga_donnachdh_dwywei_conv2:donnachdh_dwywei_conv3|-- 그녀가 이를 갈았습니다. --^^키나이드는 전투에서 우리를 패배시켰고, 이후 스콘에서 픽트 왕위의 모든 권리 주창자들을 만났습니다. 벌꿀 술과 에일 맥주가 넘쳐나는 연회를 베풀었지요. 그다음 벌어진 일이 바로 '맥 알핀의 배신'입니다. '정복자'라 불리는 그는 우리 귀족들을 모조리 도륙하고 홀로 픽트의 왕관을 차지했습니다. 이제 그의 후계자인 알반의 왕이 픽트와 스코트 모두를 다스리고 있지요. 이런 배신자의 혈통을 누가 믿겠습니까? 나라고요? 천만에요!
 dlga_donnachdh_dwywei_conv3:donnachdh_dwywei_conv4|어리석고 고집 센 픽트인들이로군...
 dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv5|그 오래된 원한은 이제 잊으시오. 이제 당신들에게는 공동의 적이 있지 않소. 함께 힘을 합쳐 노르드인들에 맞서야 하오.
-dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv6|스코트인에 대한 당신의 걱정은 이해하겠소. 하지만 도너하는 명예를 중시하는 사람임을 여러번 증명했소.
+dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv6|스코트인에 대한 당신의 걱정은 이해하겠소. 하지만 돈카브는 명예를 중시하는 사람임을 여러번 증명했소.
 dlga_donnachdh_dwywei_conv4:donnachdh_dwywei_conv7|스코트인들이 그랬단 말이오? 당신의 기분에 충분히 공감하오. 더러운 반역자!
 dlga_donnachdh_dwywei_conv5:close_window|당신이 원하는대로 하겠습니다.
-dlga_donnachdh_dwywei_conv6:close_window|도너하는 상관없는 일이란 건 잘 알겠습니다. 그와 잘 지내도록 노력해보죠.
+dlga_donnachdh_dwywei_conv6:close_window|돈카브는 상관없는 일이란 건 잘 알겠습니다. 그와 잘 지내도록 노력해보죠.
 dlga_donnachdh_dwywei_conv7:close_window|재미를 위한 농담으로 알아듣겠습니다. 하지만 그런 농담은 별로 안 좋아 보이는군요.
 dlga_conversation_companioncamp:morgant_conversationcamp1|{reg59?부인:경}, 코르누비아에서 깡있는 남자들이란 죽어가는 녀석들입니다. 예전에는 모두 자랑스러운 사람들이었고 우리들의 재산은 저 멀리 남쪽 브리튼로 뻗어나갔죠. 그런데 색슨인이 쳐들어왔고, 우린 땅을 잃었습니다.
 dlga_morgant_conversationcamp1:morgant_conversationcamp2|이젠 바다가 덴마크인들을 데려왔죠. 그 이전 앵글인과 색슨인을 불러온 것 처럼. 이제 색슨인은 우리에게서 뺏은 땅을 덴마크인들에게 뺏길 것을 두려워할 일만 남았습니다. 운명이란 참 잔혹하죠?
@@ -230,11 +230,11 @@ dlga_dwyweiromance_conversationcamp4:close_window|아, 알겠어요. 그럼, 그
 dlga_dwyweiromance_conversationcamp4_2:close_window|제가 의도한건 저도 얼마든지 말 할 수 있다는 거였어요. 하지만 제가 당신을 존경하고 감사한다는 것도 알아주길 바랐죠. 글쎄, 이 얘기는 더 하고 싶지 않네요. 너무 힘든 문제에요. 나중에 얘기하죠.
 dlga_conversation_companioncamp:dwyweiromance2_conversationcamp1|저랑 얘기좀 해요, {playername}. 제겐 아주 중요한 문제이고, 딱 한 번만 얘기할게요.
 dlga_dwyweiromance2_conversationcamp1:dwyweiromance2_conversationcamp3|제가 당신에게 관심이 있었다는 것 정도야 아시겠죠. 당신께 감사하고, 또 좋아하고. 아무래도 서로 마주볼 때 같은 감정을 느끼는 것 같지만, 확실치가 않아요. 혹시...?
-dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4|그렇소, 두이웨, 당신을 많이 좋아하오.
+dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4|그렇소, 두이웨이, 당신을 많이 좋아하오.
 dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4_2|미안하지만, 난 당신에게 관심이 없소.
 dlga_dwyweiromance2_conversationcamp4:dwyweiromance2_conversationcamp5|그 말을 들으니 정말 날아갈 것 같네요! 그럼 이제 우린 쭉 함께인거죠, 네?
 dlga_dwyweiromance2_conversationcamp4_2:close_window|죄송해요, 죄송해요. 부끄럽네요. 전 그냥... 제가 틀렸네요. 죄송해요. 더 이상 방해하지 않을게요. 할 일이 있어서 이만.
-dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|물론, 두이웨, 당신은 이제 내 여자요.
+dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|물론, 두이웨이, 당신은 이제 내 여자요.
 dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp7|아니, 방금 그건 농담이었소. 당신에겐 전혀 관심 없소.
 dlga_dwyweiromance2_conversationcamp6:close_window|정말 기뻐요. 사랑해요. 빨리 제 물건들을 당신 막사에 가져다 놓고 와야겠어요!
 dlga_dwyweiromance2_conversationcamp7:close_window|농담이요? 이 망할 자식! 대체 어떤 병신이 이딴 식으로 농담을 해?! 혼자 있게 좀 내버려 두시죠. 다시는 당신과 말도 섞고 싶지 않군요.
@@ -255,7 +255,7 @@ dlga_ceawlin1_conversationcamp1:ceawlin1_conversationcamp2|-- 당신의 부하 �
 dlga_ceawlin1_conversationcamp2:ceawlin1_conversationcamp3|그렇긴 합니다만, 두려움은 사람을 바보로 만드는 법이지요. 약해지지 마십시오, {playername}. 적들은 두려움을 귀신같이 알아차리고는 그곳을 파고들 것입니다.
 dlga_ceawlin1_conversationcamp3:close_window|자네의 걱정 어린 충고는 고맙네만, 나도 내 사람들을 어떻게 다스려야 하는지는 알고 있소.
 dlga_ceawlin1_conversationcamp3:close_window.1|당신 말이 옳은 것 같소, 친구여. 말한 대로 하겠소.
-dlga_conversation_companioncamp:ailchu1_conversationcamp1|브륀힐드에 대한 내 생각을 재고해 보았소. 어쩌면 그녀도 결국 좋은 전사가 될 수 있을지도 모르겠소. 왜 그런지 아시오?
+dlga_conversation_companioncamp:ailchu1_conversationcamp1|부룬힐드에 대한 내 생각을 재고해 보았소. 어쩌면 그녀도 결국 좋은 전사가 될 수 있을지도 모르겠소. 왜 그런지 아시오?
 dlga_ailchu1_conversationcamp1:ailchu1_conversationcamp2|듣고 있소.
 dlga_ailchu1_conversationcamp2:ailchu1_conversationcamp3|일주일 동안이나 피를 흘리고도 죽지 않았기 때문이지! 하하하... 농담이고, 사실 그녀가 우리에게 정말 필요한 존재인지는 모르겠소. 끊임없이 수다를 떨어댈 때면 머리가 깨질 것 같단 말이오.
 dlga_ailchu1_conversationcamp3:close_window|사실은 자네도 내게 두통을 준다오. 하지만 난 자네를 내치지 않았소...
@@ -362,7 +362,7 @@ dlga_agathinos_conversationcamp6:agathinos_conversationcamp7|아가티노스의 
 dlga_agathinos_conversationcamp6:agathinos_conversationcamp7.1|당신 말이 맞소. 난 그저 전쟁터에서 살아가는 사람일 뿐이오.
 dlga_agathinos_conversationcamp7:close_window|-- 당신의 눈앞에서 아가티노스는 자기 자신과 논쟁을 벌이기 시작합니다. 목소리를 바꿔가며 당신에게는 신경도 쓰지 않은 채 말입니다. --
 dlga_conversation_companioncamp:brunhildvsegil_conv1|진심이오, 에길? 정말 캠프의 잡부 여인과 바람을 피웠단 말이오? 당신은 우리를 진심으로 아끼는 특별한 사람인 줄 알았는데, 이제 보니 내가 틀렸구려. 당신은 그저 개자식일 뿐이었소.
-dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|브륀힐드, 이봐. 당신은 그저 노예일 뿐이고 난 왕의 아들이오. 우리 사이가 진심이 될 순 없지. 우린 그냥 즐긴 것뿐이오. 설마 당신이 왕자를 가질 수 있을 거라 생각할 만큼 멍청할 줄은 몰랐군. 당신을 아끼긴 하지만, 난 다른 여자들과도 즐거운 시간을 보낼 거요. 누가 알겠소? 언젠가 결혼할 귀부인을 찾게 될지.
+dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|부룬힐드, 이봐. 당신은 그저 노예일 뿐이고 난 왕의 아들이오. 우리 사이가 진심이 될 순 없지. 우린 그냥 즐긴 것뿐이오. 설마 당신이 왕자를 가질 수 있을 거라 생각할 만큼 멍청할 줄은 몰랐군. 당신을 아끼긴 하지만, 난 다른 여자들과도 즐거운 시간을 보낼 거요. 누가 알겠소? 언젠가 결혼할 귀부인을 찾게 될지.
 dlga_brunhildvsegil_conv2:brunhildvsegil_conv3|진정하시오!
 dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(아무 말도 하지 않는다)
 dlga_brunhildvsegil_conv3:brunhildvsegil_conv4|진심으로 그렇게 생각해요? 당신도 그렇게 대단할 것 없어요. 당신 아버지가 왕일지 몰라도 당신 어머니는 나 같은 노예일 뿐이었잖아요. 나보다 나은 여자는 절대 못 만날 거예요. 그런 태도를 고치지 않으면 나조차 잃게 될 거고요.
@@ -380,7 +380,7 @@ dlga_clovisvshegil_conv6:close_window|더는 말 섞지 않겠소.
 dlga_clovisvshegil_conv5_2:clovisvshegil_conv6_2|정확히 보셨소. 하!
 dlga_clovisvshegil_conv6_2:close_window|누가 물어보기나 했소? 난 이게 우리끼리의 사적인 대화인 줄 알았는데 말이오.
 dlga_conversation_companioncamp:bedavsagathinos_conv1|-- 아가티노스가 야영지의 여인 중 한 명을 아주 흥미롭게 바라봅니다... --
-dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|-- 바로 브륀힐드입니다. --
+dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|-- 바로 부룬힐드입니다. --
 dlga_bedavsagathinos_conv2:bedavsagathinos_conv3|--땅에 침을 뱉으며--^^그리스 놈들은 죄다 색골이라니까.
 dlga_bedavsagathinos_conv3:bedavsagathinos_conv4|왜 그렇게 생각하오?
 dlga_bedavsagathinos_conv4:bedavsagathinos_conv5|당신네 수도사들도 죄악 속에 살고 있잖소. 엘비라 공의회에서는 성직자들이 아내와 동거하는 것을 금지했소. 그렇지 않으면 어떻게 매일 성찬례를 집전할 수 있겠소? 만약 그들이 육욕에 굴복한다면, 그 신도들에게서 무엇을 더 기대하겠소?
@@ -689,13 +689,13 @@ dlga_morrigan_storytoplayer2:morrigan_storytoplayer3|문명에서 도망쳐 나�
 dlga_morrigan_storytoplayer3:member_talk|다른 할 말이라도 있나요?
 dlga_member_talk:morrigan_storygrandchildren|프레이스베르타흐의 손자에 대해 듣고 싶소.
 dlga_morrigan_storygrandchildren:morrigan_storygrandchildren2|제 형제들의 아이들요? 죽었다는 소문은 들었지만 전 믿을 수는 없겠더라고요.
-dlga_morrigan_storygrandchildren2:morrigan_storygrandchildren3|소문이 아니오. 난 그들이 숨어 있는 곳을 찾아내 말 브레살에게 알렸소.
+dlga_morrigan_storygrandchildren2:morrigan_storygrandchildren3|소문이 아니오. 난 그들이 숨어 있는 곳을 찾아내 마엘 브레살에게 알렸소.
 dlga_morrigan_storygrandchildren2:morrigan_storygrandchildren4|소문이오. 난 그들을 숨겨라고 명령었소. 그들은 안전하오.
 dlga_morrigan_storygrandchildren2:morrigan_storygrandchildren2_ter|자세한건 다음에 이야기하도록 해요.
 dlga_morrigan_storygrandchildren2_ter:member_talk|알겠소.
-dlga_morrigan_storygrandchildren3:morrigan_storygrandchildren3_1|어떻게 했다고요? 의심조차 못했다니. 내 형제를 죽여놓고는 아이들은 살인자에게 맡겼다고요?! 당신은 말 브레살과 똑같은 인간 쓰레기야. 나도 죽여버리시지?
+dlga_morrigan_storygrandchildren3:morrigan_storygrandchildren3_1|어떻게 했다고요? 의심조차 못했다니. 내 형제를 죽여놓고는 아이들은 살인자에게 맡겼다고요?! 당신은 마엘 브레살과 똑같은 인간 쓰레기야. 나도 죽여버리시지?
 dlga_morrigan_storygrandchildren3_1:morrigan_storygrandchildren3_2|그러는게 좋겠군.
-dlga_morrigan_storygrandchildren3_1:morrigan_storygrandchildren3_2.1|나... 난 말 브레살에게 속았었소.
+dlga_morrigan_storygrandchildren3_1:morrigan_storygrandchildren3_2.1|나... 난 마엘 브레살에게 속았었소.
 dlga_morrigan_storygrandchildren3_2:member_talk|날 내버려둬요. 죽고 싶어요. 자살할 수 있게 내버려 둬 주세요.
 dlga_morrigan_storygrandchildren4:member_talk|아이들이 살아있다니! 너무 기뻐서 뭐라 말해야 할지 모르겠네요. 너무 고마워요. 당신은 내가 생각한 것보다 훨씬 착한 사람이군요!
 dlga_member_talk:morrigan_romanceoptions_f1|[그녀에게 키스합니다.]
@@ -955,11 +955,11 @@ dlga_bodo_carta12:bodo_carta13.2|좋소, 편지 얘기는 다음에 합시다.
 dlga_bodo_carta13:bodo_carta14|그렇다면... 호릭 왕에게는 아틀리 에이릭손과 싸우던 도중 편지가 소실되었다 말하는 편이 좋겠소. 그럼 그도 더이상 '눈 속의 뱀' 시구르드가 총회에서 편지를 이용할 것이라는 걱정을 하지 않겠지. 이러면 그도 당신의 대업을 지원해 줄 것이오.
 dlga_bodo_carta14:close_window|시간낭비 하지 말고 이만 이 굴에서 나갑시다.
 dlga_brunhild_avisa:companion_brunhild_conv|'눈 속의 뱀' 시구르드는 켄네머 야를의 연회장에 한 번 이상 들렀었어요. 그는 그냥 평범한 사람이 아니에요, {reg59?부인:경}! 켄네머 야를이 강건한 사람이라는 건 아실테지만, 그마저도 시구르드 앞에서는 벌벌 떨었어요. 시구르드는 말도 많이 하지 않았고, 웃지도 않았고, 뱀같은 눈알은 머릿속을 파고들어서 꼭 생각을 읽어내려는 것 같았어요. 전 그저 노예에 불과했지만 주워들은게 있어요. 사람들은 그가 라그나르의 아들들 중 가장 위험한 남자라고 불러요. 근처에서 재채기를 했다는 이유로 사람을 죽이거나 재수없는 날에 보였다는 이유로 사람을 죽인다는 그런 사람이라구요.
-dlga_companion_brunhild_conv:companion_brunhild_conv3|저 아름다운 브륀힐드의 말이 맞소, {playername}. 내가 아는 바로는 시구르드 라그나르손은 멀리 떨어져 있는게 좋은 사람이오. 재수 없게도 그가 우리 앞길을 막고 있긴 하지만 말이오...
+dlga_companion_brunhild_conv:companion_brunhild_conv3|저 아름다운 부룬힐드의 말이 맞소, {playername}. 내가 아는 바로는 시구르드 라그나르손은 멀리 떨어져 있는게 좋은 사람이오. 재수 없게도 그가 우리 앞길을 막고 있긴 하지만 말이오...
 dlga_companion_brunhild_conv3:companion_brunhild_conv4|그가 그렇게 악질이라니 믿을 수 없소. 켄네머의 야를이야말로 믿을 수 없는 사람이오. 다른 이들을 맘대로 조종하기 위해 할 수 있는 모든 방법을 동원하지요. 만약 그가 시구르드 앞에서 겁을 먹고 소심하게 굴다가도 스쳐 지나가는 이점을 하나라도 찾아낸다면, 분명 진작에 그 이점을 이용해냈을 것이오. 저라면 그를 아주 주의깊게 대할 것이오. 왜냐하면 그는 앞에서는 웃음을 지어 보이다가도 등을 돌리는 순간 칼을 찔러넣을 사람이란 말이오.^우리가 시구르드와 함께 있는다면 최소한 스벤이 어디에서 오는지는 알 수 있지 않겠소?
 dlga_companion_brunhild_conv4:companion_brunhild_conv5|레긴하르트는 시구르드를 모르니까 하는 말이에요. 저는 제가 보고 들을 이야기들이 있어요. 아참, 레긴하르트는 술에 취해있거나 '누군가'를 배신하느라 바빠서 몰랐나보네요.^시구르드는 악의에 젖어있고 절대 용서하는 법이 없어요. 물론 절대 잊어버리지도 않구요.
 dlga_companion_brunhild_conv5:companion_brunhild_conv6|이런 뻔뻔한년! 감히 내 면전에서 날 술 취한 배신자라고 하다니! 넌 나에 대해 아무것도 몰라! 신중하게 말하는 법을 배워야 할거야. 그렇지 않으면 뒤를 조심해야 할거야.
-dlga_companion_brunhild_conv6:companion_brunhild_conv71|브륀힐드! 레긴하르트는 고된 삶을 살아왔소. 티아데르트와 있었던 일로 조롱하지 마시오.
+dlga_companion_brunhild_conv6:companion_brunhild_conv71|부룬힐드! 레긴하르트는 고된 삶을 살아왔소. 티아데르트와 있었던 일로 조롱하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv72|레긴하르트! 과거와 후회는 극복해버리고 다시는 부대원들을 위협하지 마시오.
 dlga_companion_brunhild_conv6:companion_brunhild_conv73|내가 성인이랑 지내는 거요 아니면 애들이랑 지내는 거요? 모두 조용히 하시오! 보도, 어떻게 생각하오?
 dlga_companion_brunhild_conv6:companion_brunhild_conv73.1|보도, 시구르드에 대해 말해줄 것이 없습니까?
@@ -967,7 +967,7 @@ dlga_companion_brunhild_conv71:companion_brunhild_conv73|죄송해요, {reg59?�
 dlga_companion_brunhild_conv72:companion_brunhild_conv73|좋소, 나도 일이 어떻게 돌아가는지는 알고 있소. 협박했던 건 무르겠지만, 저 여자는 말조심 좀 해야겠소.
 dlga_companion_brunhild_conv73:companion_brunhild_conv74|우린 갈림길에 서 있소. '눈 속의 뱀' 시구르드는 우리가 필요한 걸 갖고 있고, 당신 어머니의 목숨이 위험에 처해있소. 내 의견이지만, 그를 찾아가 대화를 해보는 것이 좋을 것 같소. 설령 목숨을 필요로 하더라도 말이오. 선택권이 없지 않소...
 dlga_companion_brunhild_conv74:companion_brunhild_conv75|다른 방법이 있을지도 몰라요. 시구르드를 싫어하는 강력한 권력의 소유자가 있잖아요. 덴마크의 국왕이자 시구르드의 왕이기도 한 호릭 고드프레손 말이에요.
-dlga_companion_brunhild_conv75:companion_brunhild_conv76|왜 국왕이 그를 싫어하는 거요, 브륀힐드?
+dlga_companion_brunhild_conv75:companion_brunhild_conv76|왜 국왕이 그를 싫어하는 거요, 부룬힐드?
 dlga_companion_brunhild_conv75:companion_brunhild_conv8|당신의 제안에 대해서 말 해 보시오. 당신이라면 호릭 왕에게 뭐라고 말 하겠소?
 dlga_companion_brunhild_conv76:companion_brunhild_conv8|글쎄요, 저는 들은것 밖에는 몰라요. 그들은 서로 적이에요. 아마도 시구르드는 왕이 되고 싶어하는것 같아요.
 dlga_companion_brunhild_conv8:companion_brunhild_conv9|그렇다면 시구르드는 멍청한가보구려. 호릭 왕은 아주 작은 잘못 하나로도 그를 추방해서 낙오자로 만들거나 총회에서 제외함으로써 영지를 박탈할 수도 있소.
@@ -1040,7 +1040,7 @@ dlga_bodo_choiceside42:bodo_choiceside43.2|모든 사람들은 바다가 뭘 불
 dlga_bodo_choiceside43:bodo_choiceside5|해야 할 말은 다 했습니다. 당신이 무슨 선택을 내리든 전 당신을 지지할 겁니다. 어차피 운명이란건 다 정해져 있으니 별 상관 없겠죠.
 dlga_bodo_choiceside43:bodo_choiceside5.1|무슨 선택을 하든, 난 여길 떠나 오딘스베로 돌아가겠습니다. 이 부대에 있으면서 좋은 친구를 많이 사귀긴 했지만 이젠 좀 어색해지겠군요. 그러니 우리가 아직 친구일 때 떠나겠습니다.
 dlga_bodo_choiceside5:bodo_choiceside51|전 아스비요른만큼 말하는 데 능숙하지 않습니다. 전 그냥 덴마크인 야를에게서 도망쳐나온 노예일 뿐이니까요. 아시다시피 제가 덴마크인들을, 적어도 켄네머를 차지한 녀석들을 어떻게 생각하나면, 그들이 와서, 사람들을 죽이고 원하는 것들을 훔쳐가죠. 혹 웨식스로 편지를 전달하는 것이 북해의 안전을 의미하는 것이라면 전 당신을 지지하겠습니다. 하지만 편지를 덴마크인에게 전하시겠다면...
-dlga_bodo_choiceside51:bodo_choiceside6|당신 의견도 내 의견 못지 않군, 브륀힐드.
+dlga_bodo_choiceside51:bodo_choiceside6|당신 의견도 내 의견 못지 않군, 부룬힐드.
 dlga_bodo_choiceside51:bodo_choiceside53|뭐요? 내가 덴마크인에게 편지를 전달하겠다면 어쩔 속셈이요?
 dlga_bodo_choiceside53:bodo_choiceside6|당신 곁에 있어드리긴 하겠지만, 당신 결정을 좋아하지는 않을 겁니다.
 dlga_bodo_choiceside53:bodo_choiceside6.1|전 다른 길을 가겠습니다. 이후 생길 문제에 휘말리고 싶지 않습니다.
@@ -1552,9 +1552,9 @@ dlga_mother_prisoner_saco:mother_prisoner_saco2|어머니? 괜찮아요?
 dlga_mother_prisoner_saco:mother_prisoner_saco3|(복면을 벗깁니다)
 dlga_mother_prisoner_saco3:mother_prisoner_saco4|(당신은 조심스럽게 어머니의 얼굴에서 복면을 벗깁니다)
 dlga_mother_prisoner_saco4:close_window|{s2}^^너는 우리가 너에게 네 어머니를 돌려줄 줄 알았나? 너는 독싱가에서의 계획을 망가트렸고, 내 야를의 집에서 모욕을 가했어! 시구르드 라그나르손이 네 죽음을 원한다!
-dlga_start:maelbresail_men1|어서오시오, {playername}. 내 영주이신, 말 브레살님께서 자네가 곧 올 거라고 알려주시더군.
+dlga_start:maelbresail_men1|어서오시오, {playername}. 내 영주이신, 마엘 브레살님께서 자네가 곧 올 거라고 알려주시더군.
 dlga_maelbresail_men1:maelbresail_men2|영주는 어디있소?
-dlga_maelbresail_men1:maelbresail_men3|연회를 할 준비가 되었소. 말 브레살만 오면 되오.
+dlga_maelbresail_men1:maelbresail_men3|연회를 할 준비가 되었소. 마엘 브레살만 오면 되오.
 dlga_maelbresail_men1:close_window|잘 있으시오.
 dlga_maelbresail_men2:maelbresail_men3|지금 오고 계시오. 최근 에일레흐에서 있었던 일 때문에 골머리를 섞고 계시지만 금방 오실 거요. 그동안, 우린 당신과 당신 부하들이 먼저 연회를 즐기게 하라 명령받았소. 영주님은 당신은 존중하시오. 오늘도 당신을 위해 최고의 음식으로만 주문하셨소.
 dlga_maelbresail_men3:maelbresail_men3_1|귀빈께 죄송한 말이오만, 영주님께서는 25명의 자리를 만들라 하셨소. 더 참석시키실 만한 사람이 있소? 공석이 많으면 연회가 허전해보여서 말이오...
@@ -1562,11 +1562,11 @@ dlga_maelbresail_men3:maelbresail_men3_1.1|귀빈께 죄송한 말이오만, 영
 dlga_maelbresail_men3:close_window|모든 것이 준비되었소. 동료들을 데리고 회당으로 가시오, 그곳에 음식과 음료가 있을 것이오.
 dlga_maelbresail_men3_1:close_window|알겠소.
 dlga_start:seneschal_quest_1|안녕합니까, {reg59?부인:경}. 무엇을 도와드리면 되겠습니까?
-dlga_seneschal_quest_1:seneschal_quest_norse|노스의 왕, 코닝굴이 될 준비가 되었소.
+dlga_seneschal_quest_1:seneschal_quest_norse|노스의 왕, 코눙구르이 될 준비가 되었소.
 dlga_seneschal_quest_1:seneschal_quest_briton|브리튼의 왕, 브렌힌 로거가 될 준비가 되었소.
 dlga_seneschal_quest_1:seneschal_quest_irish|게일의 왕, 아드 로어가 될 준비가 되었소.
 dlga_seneschal_quest_1:seneschal_quest_saxon|앵글리아의 왕, 브리튼왈다가 될 준비가 되었소.
-dlga_seneschal_quest_norse:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 노스의 자유를 가치 있게 하셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 노스의 왕, 코닝굴로 말이지요. 또한 당신의 업적을 치하하는 차원에서 노스의 보물을 드리겠습니다.
+dlga_seneschal_quest_norse:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 노스의 자유를 가치 있게 하셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 노스의 왕, 코눙구르로 말이지요. 또한 당신의 업적을 치하하는 차원에서 노스의 보물을 드리겠습니다.
 dlga_seneschal_quest_briton:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 브리타니아인들은 거친 사람들인데 그들을 통합하셨다는데에 아주 감명받았습니다.그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 브리튼의 왕, 브렌힌 로거로 말이지요. 또한 당신의 업적을 치하하는 차원에서 브리튼의 보물을 드리겠습니다.
 dlga_seneschal_quest_irish:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 게일인들은 독립성이 강하여 다른 자를 잘 따르지 않는데 그들을 통합하셨다니 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 게일의 왕, 아드 로어로 말이지요. 또한 당신의 업적을 치하하는 차원에서 게일의 보물을 드리겠습니다.
 dlga_seneschal_quest_saxon:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 앵글과 색슨인들은 불신이 많은 사람들인데 그들의 신임을 얻으셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 앵글리아의 왕, 브리튼왈다로 말이지요. 또한 당신의 업적을 치하하는 차원에서 앵글 및 색슨의 보물을 드리겠습니다.
@@ -1582,7 +1582,7 @@ dlga_seneschal_quest_3:close_window|알겠네. 잘 있게나.
 dlga_seneschal_quest_4:seneschal_quest_5|우선, 당신은 이 세계에서 가장 영향력 있는 인물이 되어야합니다. 이 말의 뜻은, 당신이 현재 집권하고 있는 자를 끌어내리고 그 자리에 당신이 올라가 사람들을 당신의 방식대로 통치할 수 있어야한다는 뜻입니다. 한번 도전해보시겠습니까?
 dlga_seneschal_quest_5:seneschal_quest_6|물론이오.
 dlga_seneschal_quest_5:close_window|아닐세. 잘 있게나.
-dlga_seneschal_quest_6:seneschal_quest_7|좋습니다. 노스의 야를들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 노스의 왕, 코닝굴로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 리베, 툰스버그, 두어스테드.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 노스에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
+dlga_seneschal_quest_6:seneschal_quest_7|좋습니다. 노스의 야를들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 노스의 왕, 코눙구르로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 리베, 툰스버그, 두어스테드.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 노스에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_6:seneschal_quest_7.1|좋습니다. 브리튼의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 브리튼의 왕, 브렌힌 로거로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 잉이스 몬, 보스베네흐, 시어 디프.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 브리튼에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_6:seneschal_quest_7.2|좋습니다. 게일의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 게일의 왕, 아드 로어로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 에일레흐, 크루아한, 테메어.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 게일에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_6:seneschal_quest_7.3|좋습니다. 앵글과 색슨의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 앵글리아의 왕, 브리튼왈다로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 런데위치, 위턴 세스터, 요르빅.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 앵글리아에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
@@ -1639,8 +1639,8 @@ dlga_maelbresail_pactofinal:maelbresail_pactofina2|사실, 당신은 내 생각�
 dlga_maelbresail_pactofina2:maelbresail_pactofina3_1|흠, 우리 둘다 거래에 밝은 사람들이지 않소. 당신 돈을 받겠소. 다신 내 소식을 들을 수 없을 거요.
 dlga_maelbresail_pactofina2:maelbresail_pactofina3_2|동의하오. 하지만 이 거래는 에일레흐 왕국의 아드 로어 에드 맥 니얼 왕을 위한 것임을 잊지 마시오.
 dlga_maelbresail_pactofina2:maelbresail_pactofina3_3|난 그렇게 생각하지 않소만. 피는 피로 갚는 법. 당신은 오늘 내 손에 죽게 될 거요.
-dlga_maelbresail_pactofina3_1:maelbresail_pactofina5|아니! 내 가족들이 무덤 속에서 복수를 원하고 있고, 그리고 이제 아무도 피를 흘리지 않고 끝낼 순 없어!^^말 브레살, 날 기억해? 날 기억하냐고 쥐새끼 같은 놈아. 네놈의 목을 따러 왔다!
-dlga_maelbresail_pactofina3_2:maelbresail_pactofina5|아니! 내 가족들이 무덤 속에서 복수를 원하고 있고, 그리고 이제 아무도 피를 흘리지 않고 끝낼 순 없어!^^말 브레살, 날 기억해? 날 기억하냐고 쥐새끼 같은 놈아. 네놈의 목을 따러 왔다!
+dlga_maelbresail_pactofina3_1:maelbresail_pactofina5|아니! 내 가족들이 무덤 속에서 복수를 원하고 있고, 그리고 이제 아무도 피를 흘리지 않고 끝낼 순 없어!^^마엘 브레살, 날 기억해? 날 기억하냐고 쥐새끼 같은 놈아. 네놈의 목을 따러 왔다!
+dlga_maelbresail_pactofina3_2:maelbresail_pactofina5|아니! 내 가족들이 무덤 속에서 복수를 원하고 있고, 그리고 이제 아무도 피를 흘리지 않고 끝낼 순 없어!^^마엘 브레살, 날 기억해? 날 기억하냐고 쥐새끼 같은 놈아. 네놈의 목을 따러 왔다!
 dlga_maelbresail_pactofina3_1:maelbresail_pactofina3_6|여기 당신 돈이오. 다음에 다시 만날 땐, 난 당신을 모르는 거요. 우리 거래는 끝이오. 더이상 공포도 없고, 죽음도 없소. 이 골드가 우리의 약속을 증명할 것이고, 이 골드가 우리 맹세의 증인이오.
 dlga_maelbresail_pactofina3_2:maelbresail_pactofina3_6|공평한것 같군. 자네에 대해 내 직접 왕께 이야기하겠소, 왕께서는 그 누구보다도 당신을 좋아하게 되실 것이오. 다음에 다시 만날 땐, 난 당신을 모르는 거요. 우리 거래는 끝이오. 더 이상 공포도 없고, 죽음도 없소. 이 골드가 우리의 약속을 증명할 것이고, 이 골드가 우리 맹세의 증인이오.
 dlga_maelbresail_pactofina3_6:maelbresail_pactofina3_7|내 맹세하오. 우리의 적대감은 이곳에 영원히 묻혔소.
@@ -1660,24 +1660,24 @@ dlga_thesnake2_2_dialog:thesnake3_dialog|오직 내 적만이 날 뱀이라 부�
 dlga_thesnake3_dialog:close_window|그렇다면 그곳에서 보겠소.
 dlga_thesnake3_dialog:thesnake4_dialog|음, 잠시만 기다려주시오.
 dlga_thesnake4_dialog:close_window|아니! 내 머리를 원한다면 최소한 싸울 용기는 가지고 왔어야지.^^[당신의 동료들이 당신과 함께 이 결투에 참가할 것입니다.]
-dlga_start:morrigan1_dialog|살인자, 절 죽이러 왔나요? 당신의 영주, 말 브레살이 내 혈통이 끊어진 걸 알면 참으로 좋아하겠군요.
-dlga_start:morriganleave_final1|{playername}, 절 도와줘서 너무 고마워요. 당신이 없었다면 전 결코 복수하지 못했을 거예요. 말 브레살의 죽음이 썩 유쾌하지는 않지만, 전 옳은 일을 했다고 믿어요. 이제 제 가족들이 편히 잘 수 있겠네요. 당신과의 여정도 이제 끝이네요. 제 스스로를 세상에 지우며, 조용히 살아가기 좋은 장소를 찾아 떠날게요. 아마 에리우를 떠나겠죠. 제 미래를 위해선 과거를 털어버려야 해요. 이 말은... 당신을 이젠 떠나겠다는 뜻이에요.
+dlga_start:morrigan1_dialog|살인자, 절 죽이러 왔나요? 당신의 영주, 마엘 브레살이 내 혈통이 끊어진 걸 알면 참으로 좋아하겠군요.
+dlga_start:morriganleave_final1|{playername}, 절 도와줘서 너무 고마워요. 당신이 없었다면 전 결코 복수하지 못했을 거예요. 마엘 브레살의 죽음이 썩 유쾌하지는 않지만, 전 옳은 일을 했다고 믿어요. 이제 제 가족들이 편히 잘 수 있겠네요. 당신과의 여정도 이제 끝이네요. 제 스스로를 세상에 지우며, 조용히 살아가기 좋은 장소를 찾아 떠날게요. 아마 에리우를 떠나겠죠. 제 미래를 위해선 과거를 털어버려야 해요. 이 말은... 당신을 이젠 떠나겠다는 뜻이에요.
 dlga_morrigan1_dialog:morrigan1_dialog1|이제 끝이오, 마녀. 지금 당장 죽여주겠소.
 dlga_morrigan1_dialog:morrigan1_dialog2|마녀, 그게 무슨 말이오?
-dlga_morrigan1_dialog:morrigan1_dialog3|말 브레살은 내 영주가 아니오.
-dlga_morrigan1_dialog1:close_window|제 아버지, 프레이스베르타흐는 왕이 될 수 있었어요. 그러나 형제한테 살해당했죠. 에일레흐의 아드 그리고 당신의 주인, 말 브레살한테 말이죠! 이젠 프레이스베르타흐의 마지막 혈통인 날 죽일 계획이겠죠. 신과 모든 이들이 당신 이름을 저주할거에요.^^이제 난 세상에 아무런 미련이 없어요. 오히려 죽어버리면 이 고통도 끝나겠네요.^^      (당신이 어찌하기도 전에 모리안은 당신의 무기로 달려와 스스로 찔렸다. 죽음을 맞이하는 그녀의 얼굴에선 평온함이 가득해 보였다.)
+dlga_morrigan1_dialog:morrigan1_dialog3|마엘 브레살은 내 영주가 아니오.
+dlga_morrigan1_dialog1:close_window|제 아버지, 프레이스베르타흐는 왕이 될 수 있었어요. 그러나 형제한테 살해당했죠. 에일레흐의 아드 그리고 당신의 주인, 마엘 브레살한테 말이죠! 이젠 프레이스베르타흐의 마지막 혈통인 날 죽일 계획이겠죠. 신과 모든 이들이 당신 이름을 저주할거에요.^^이제 난 세상에 아무런 미련이 없어요. 오히려 죽어버리면 이 고통도 끝나겠네요.^^      (당신이 어찌하기도 전에 모리안은 당신의 무기로 달려와 스스로 찔렸다. 죽음을 맞이하는 그녀의 얼굴에선 평온함이 가득해 보였다.)
 dlga_morrigan1_dialog2:morrigan1_dialog4|살인자, 그럼 당신은 희생자에 대해서 알지도, 왜 죽어야 하는지도 모르고 죽인단 말이에요?
 dlga_morrigan1_dialog3:morrigan1_dialog4|살인자, 그럼 당신은 왜 그와 그의 빌어먹을 왕 에일레흐의 아드를 위해 일하는 거죠?
-dlga_morrigan1_dialog5:morrigan1_dialog6|발 루이흐네? 그 마을을 부순 적은 있지만 공격한 적은 없어요. 그저 겁만줘서 사람들이 땅을 버리고 떠나게 했죠. 난 그저 살 수 있고 보호받을 수 있는 땅이 필요했어요. 그러나 농민들은 완고했고 말 브레살이 제가 어딧는지 알아냈었죠. 그리고 이렇게 당신이 날 죽이고 내 혈통을 끊으러 왔네요. 당신은 어떨지 몰라도, 당신의 후원자는 극악무도해요. 최근에는 제 형제와 아들들을 죽이기 위해 픽트란드의 시어 메기드 근방까지 사람을 보냈다고 들었어요. -- 그냥 아이들까지요 -- 이제 저는 가족 중 유일한 생존자에요. 말 브레살로부터 도망 다니는 건 불가능하다는 걸 이젠 알겠네요. 이 세상 끝까지 도망쳐와서 내 진짜 이름은 잃어버리고 모리안이라는 가명을 안고 저도 이제 죽는군요. 이제 절 죽이세요.
+dlga_morrigan1_dialog5:morrigan1_dialog6|발 루이흐네? 그 마을을 부순 적은 있지만 공격한 적은 없어요. 그저 겁만줘서 사람들이 땅을 버리고 떠나게 했죠. 난 그저 살 수 있고 보호받을 수 있는 땅이 필요했어요. 그러나 농민들은 완고했고 마엘 브레살이 제가 어딧는지 알아냈었죠. 그리고 이렇게 당신이 날 죽이고 내 혈통을 끊으러 왔네요. 당신은 어떨지 몰라도, 당신의 후원자는 극악무도해요. 최근에는 제 형제와 아들들을 죽이기 위해 픽트란드의 시어 메기드 근방까지 사람을 보냈다고 들었어요. -- 그냥 아이들까지요 -- 이제 저는 가족 중 유일한 생존자에요. 마엘 브레살로부터 도망 다니는 건 불가능하다는 걸 이젠 알겠네요. 이 세상 끝까지 도망쳐와서 내 진짜 이름은 잃어버리고 모리안이라는 가명을 안고 저도 이제 죽는군요. 이제 절 죽이세요.
 dlga_morrigan1_dialog6:morrigan1_dialog1|거짓말! 날 혼란스럽게 해서 어떻게든 살아보려는 거군. 이제 죽어라!
 dlga_morrigan1_dialog6:morrigan1_dialog7|그렇다면... 당신이 프레이스베르타흐의 딸이란 소리오? 생각보다 더 위험한 인물이었군!
-dlga_morrigan1_dialog7:morrigan1_dialog8|제 아버지, 프레이스베르타흐는 왕이 될 수 있었어요. 그러나 형제한테 살해당했죠. 바로 당신 주인께 말이죠. 여긴 에리우에요. 왕이되려면 잠재적 경쟁자들도 모두 제거해야하죠. 아드가 그런 점에선 아버지보다 빨랐죠. 아버지를 죽인 이후엔 말 브레살의 도움으로 어머니와 나머지 제 가족들을 모두 죽였어요. 제 형제의 아이들까지요! 혼자 살아남은 전 탈출해서 도망쳤지만 제 앞에 말 브레살의 사람이 있는 걸 보니, 제 목숨도 여기까지인가 보네요.
+dlga_morrigan1_dialog7:morrigan1_dialog8|제 아버지, 프레이스베르타흐는 왕이 될 수 있었어요. 그러나 형제한테 살해당했죠. 바로 당신 주인께 말이죠. 여긴 에리우에요. 왕이되려면 잠재적 경쟁자들도 모두 제거해야하죠. 아드가 그런 점에선 아버지보다 빨랐죠. 아버지를 죽인 이후엔 마엘 브레살의 도움으로 어머니와 나머지 제 가족들을 모두 죽였어요. 제 형제의 아이들까지요! 혼자 살아남은 전 탈출해서 도망쳤지만 제 앞에 마엘 브레살의 사람이 있는 걸 보니, 제 목숨도 여기까지인가 보네요.
 dlga_morrigan1_dialog8:morrigan1_dialog1|자네 사정도 이해하오만, 자넨 발 루이흐네 사람들에게 너무 큰 피해를 줬소. 이제 목숨으로 그 빚을 갚으시오.
-dlga_morrigan1_dialog8:morrigan1_dialog9|말 브레살이 날 이용했하였소? 난 그자의 청부살인업자가 아니오!
+dlga_morrigan1_dialog8:morrigan1_dialog9|마엘 브레살이 날 이용했하였소? 난 그자의 청부살인업자가 아니오!
 dlga_morrigan1_dialog9:morrigan1_dialog1|이건 제 문제에요. 이젠 도망다니기도 피곤해요. 절 돌봐주던 사람들은 모두 죽고 말아요. 이제 저승에서 그자들과 재회하고 안식을 얻고싶어요. 어서 절 죽이고 당신 주인에게 보상이나 받으러 돌아가시죠, 살인자. 당신을 원망하지는 않을게요.
-dlga_morrigan1_dialog9:morrigan1_dialog10|말 브레살은 누구든 이용할 수 있어요. 이젠 어떻게 하실 건가요?
+dlga_morrigan1_dialog9:morrigan1_dialog10|마엘 브레살은 누구든 이용할 수 있어요. 이젠 어떻게 하실 건가요?
 dlga_morrigan1_dialog10:morrigan1_dialog1|자넨 발 루이흐네 사람들에게 너무 큰 피해를 줬소. 이제 목숨으로 그 빚을 갚으시오.
-dlga_morrigan1_dialog10:morrigan1_dialog11|말 브레살이 이번 일에 대해 정확한 답을 줄때까진 살려주겠소. 조만간 다시 오지.
+dlga_morrigan1_dialog10:morrigan1_dialog11|마엘 브레살이 이번 일에 대해 정확한 답을 줄때까진 살려주겠소. 조만간 다시 오지.
 dlga_morrigan1_dialog11:close_window|당신을 따라 가겠어요. 마지막 남은 조력자도 죽었고, 이제 더 이상은 도망치며 살지 않겠어요. 당신 전사 중 한명으로 위장시켜 주세요.
 dlga_morriganleave_final1:morriganleave_final2|알겠소. 이것으로 진정으로 원하던 평화를 얻길 바라오.
 dlga_morriganleave_final1:morriganleave_final3|모리안, 날 떠나선 안되오. 난 당신이 필요하오.
@@ -1808,7 +1808,7 @@ dlga_ulf_testigo42:ulf_testigo42_1|이봐요! 내가 여기에 있는데 무슨 
 dlga_ulf_testigo42_1:ulf_testigo42_2|에길은 뼛속까지 난봉꾼이오. 그는 항상 취해 있고, 변덕스러운 앞이 깜깜한 망나니라고! 당신이라면 딸을 저런 놈과 결혼시키겠소?
 dlga_ulf_testigo42_2:ulf_testigo42_3|그렇소.
 dlga_ulf_testigo42_2:ulf_testigo42_31|아니오.
-dlga_ulf_testigo42_2:ulf_testigo42_31.1|누구? 여기 있는 브륀힐드? 그녀는 내 딸이 아니오.
+dlga_ulf_testigo42_2:ulf_testigo42_31.1|누구? 여기 있는 부룬힐드? 그녀는 내 딸이 아니오.
 dlga_ulf_testigo42_3:ulf_testigo5|좀 모자란 것 아니오? 에길은 사생아에 불과하고, 토라는 부잣집 딸이란 말이오. 이건 나에 대한 모욕이오.
 dlga_ulf_testigo42_31:ulf_testigo42_32|글쎄, 그게 듣기 좋으라고 한 소린지 모르겠군, 이 말은 듣지 않은 것으로 하겠소.
 dlga_ulf_testigo42_32:ulf_testigo5|아무도 에길같은 사람을 가족으로 받아들이길 원치 않을 것이오. 그 놈은 사생아에 불과하고, 토라는 부잣집 딸이란 말이오.
@@ -2241,7 +2241,7 @@ dlga_lord_talk:frisaking_1|나는 당신의 연회가 훌륭하다고 들었소!
 dlga_lord_talk:jarldenunciado1|우리는 켄네머의 야를에 대해 이야기할 필요가 있소.
 dlga_lord_talk:jarldenunciado1extra|나는 켄네머의 야를에 대해 이야기하고 싶소.
 dlga_lord_talk:jarldenunciado2extra|나는 켄네머의 야를에 대해 이야기하고 싶소.
-dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사합니다, 호릭 왕이시여. 저는 저뿐만 아니라 보도와 브륀힐드를 데려왔습니다. 그들은 신뢰할 수 있을 것입니다.
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사합니다, 호릭 왕이시여. 저는 저뿐만 아니라 보도와 부룬힐드를 데려왔습니다. 그들은 신뢰할 수 있을 것입니다.
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|왕께 제 이야기를 하겠습니다...
 dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|알겠네, 알겠어, 만나서 반갑네. 이제, 요점으로 넘어가시게. 시간이 얼마 없네.
 dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|최근에, 저는 보트를 타고 여행하다가 '눈 속의 뱀' 시구르드의 수하 황소목 스벤의 바이킹에게 공격을 받았습니다.
@@ -2271,7 +2271,7 @@ dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|그것은 알-안달루�
 dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|나는 한 때 북쪽에서 지냈소. 하지만 그것은 지금 그다지 중요하지 않소.
 dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|라그나르는 사람보다 한층 높은 존재였지. 스칼드-그러니까 시인들은 그를 신으로서 존경하고, 남자들은 그의 전설에 매혹되었다네. 시구르드는 검을 얻은 뒤, 총회에 그것을 가져와서 라그나르의 권리를 돌려받길 주장할 셈이로군. 그는 필히 왕위를 요구할테고, 심지어 나를 죽이려 할테지... 그렇게 되면 모두가 아버지의 검을 회수한 그를 지지할걸세. 다른 사람이 그 검의 존재를 알기 전에 반드시 그것을 부숴야만 하네.
 dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|그럼 우리는 거래를 할 수 있지 않겠습니까? 검을 위해 지원을 해주십시오.
-dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(브륀힐드가 무언가를 말하고 싶은 것 같다. 그녀에게 기회를 주자.)
+dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(부룬힐드가 무언가를 말하고 싶은 것 같다. 그녀에게 기회를 주자.)
 dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에게 '볼일'이 있습니다. 나는 내가 필요로 할 때 당신의 보호와 지원을 받길 원합니다.
 dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았네, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 하지만 조심해야 할 걸세. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 가서 그를 만나고 그 검을 얻게나.  그를 설득해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 덴마크에 있는 동안 내 보호를 받을 것이며, 그것을 공식적으로 선언해주겠네. 그러면 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 이만 돌아가보겠네.
 dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들이 '눈 속의 뱀' 시구르드와 이야기하기 전에 동료들이 당신과 먼저 이야기 할 수 있도록 이야기 한 것이 저라는걸 알아주세요. 제가 켄네머의 야를에게 봉사하는 동안 그가 위험한 자임을 알게 되었습니다. 우리가 이 일을 하며 당신의 보호와 지원을 요청하는 이유는 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 황소목 스벤의 손안에 있기 때문입니다.
@@ -2331,9 +2331,9 @@ dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playerna
 dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|좋소. 하지만 나는 당신과 당신의 배신을 잊지 않을 것이오, 에길.
 dlga_kinghorik_quest_danmarkprot20:close_window|알겠소, 더 이상 시간을 낭비하지 않도록 합시다.
 dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^너는 거짓말쟁이야, 에길! 너는 나를 속였어, 나는 너를 믿었는데! 나는 우리 사이에 뭔가가 있다고 생각했는데, 네가 원한건 {playername}에 대한 정보가 다였다니. 나는... 우리가... 그런줄 알았는데...^^{s3}
-dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^호릭 왕은 내 아버지고, 내 모든 충성은 그에게 바치고 있습니다. 이 외에 더 설명할 것은 없어요. 나는 브륀힐드를 이용한적 없고, 그냥 우리 둘 다 즐긴 것 뿐입니다. 그녀가 그 이상의 무언가라고 생각했다면 그건 그녀의 잘못이죠. 그녀는 나같은 사람은 절대 결혼 따위는 하지 않는 다는 것을, 특히 프리지아 노예와는 더더욱 그렇다는 것을 미리부터 알았어야 했습니다. 당신이 어떤식으로 생각하든지 간에, 나에게 감사하는게 좋을 거요. 어쩄든 내 아버지의 지원을 받게 되지 않았습니까?
+dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^호릭 왕은 내 아버지고, 내 모든 충성은 그에게 바치고 있습니다. 이 외에 더 설명할 것은 없어요. 나는 부룬힐드를 이용한적 없고, 그냥 우리 둘 다 즐긴 것 뿐입니다. 그녀가 그 이상의 무언가라고 생각했다면 그건 그녀의 잘못이죠. 그녀는 나같은 사람은 절대 결혼 따위는 하지 않는 다는 것을, 특히 프리지아 노예와는 더더욱 그렇다는 것을 미리부터 알았어야 했습니다. 당신이 어떤식으로 생각하든지 간에, 나에게 감사하는게 좋을 거요. 어쩄든 내 아버지의 지원을 받게 되지 않았습니까?
 dlga_kinghorik_quest_danmarkprot23:close_window|이 일이 끝나면, 당신은 우릴 떠나시오. 당신의 소중한 아버지에게 돌아가는게 나을 것이오.
-dlga_kinghorik_quest_danmarkprot23:close_window.1|당신이 브륀힐드에게 한 짓에 대한 대가를 치르시오. 이 일이 끝나고 나면 당신에게 결투를 신청하겠소.
+dlga_kinghorik_quest_danmarkprot23:close_window.1|당신이 부룬힐드에게 한 짓에 대한 대가를 치르시오. 이 일이 끝나고 나면 당신에게 결투를 신청하겠소.
 dlga_kinghorik_quest_danmarkprot23:close_window.2|나는 이 문제에 대해 이야기하고 싶지 않소. 어서 출발 합시다.
 dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^왜 이렇게 늦게 온 것이오? 시구르드 라그나르손이 더 유리한 상황이오.
 dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|몇 가지 문제를 해결하느라 시간이 걸렸소. 어쨌든 제 시간에 온 것이오.
@@ -4187,7 +4187,7 @@ dlga_tavernkeeper_talk:tavernkeeper_herrero|특별한 무기나 갑옷을 구할
 dlga_tavernkeeper_herrero:tavernkeeper_herrero2|흠, 능력 있는 대장장이라, 나는 그들의 이름과 사는 곳을 알고 있지만, 그 전에 당신이 내 정보에 대한 대가로 50 페닝을 먼저 줬으면 좋겠소.
 dlga_tavernkeeper_herrero2:tavernkeeper_herrero3|좋소, 이야기해보시오!
 dlga_tavernkeeper_herrero2:close_window|쥐같은 사람이로군, 나는 가보겠소.
-dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|문제 없소. 당신이 찾을만한 재능 있는 대장장이는: 던윅의 에드윈, 스쿠인의 도너하, 위턴 세스터의 페가, 보스베네흐의 리프리스, 세올 가이레흐의 피어차이르, 툰스버그의 아틀리, 던 브리튼의 하렌빌리, 두브 린의 에길, 시렌 세스터의 고디푸, 시어 디프의 우오르뮤인이오.
+dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|문제 없소. 당신이 찾을만한 재능 있는 대장장이는: 던윅의 에드윈, 스쿠인의 돈카브, 위턴 세스터의 페가, 보스베네흐의 리프리스, 세올 가이레흐의 피어차이르, 툰스버그의 아틀리, 던 브리튼의 하렌빌리, 두브 린의 에길, 시렌 세스터의 고디푸, 시어 디프의 우오르뮤인이오.
 dlga_tavernkeeper_herrero4:close_window|고맙소, 그럼 이만.
 dlga_tavernkeeper_job_search:tavernkeeper_job_result|좀 더 생각해보겠소.
 dlga_tavernkeeper_job_result:tavernkeeper_job_search|나는 {s9} {s7}이(가) {s10}고 들었소, 당신이 {reg4?그녀:그}와 함께 일하는 걸 원할 지는 모르겠군.
@@ -4694,7 +4694,7 @@ dlga_bardo_cancion2:bardo_pretalk|신경쓰지 마시오. 그보다 나는 당�
 dlga_bardo_talk:bardo_bt|나는 '브리튼의 보물'을 듣고 싶소.
 dlga_bardo_bt:bardo_bt2|글쌔, 당신이 정말 듣고 싶다면... 당신에게 들려드리겠소! 브리튼엔 열 세 가지 보물이 있었다네:^첫째는: 딘윈, 하얀 자루를 가진, 리데크 하엘의 검. 뛰어난 자가 잡을 경우, 검의 칼자루에서 불길이 솟았다네. 또한, 그 검은 주인을 가렸다네. 그 특징 떄문에, 리데크는 주인을 거부할 수도 있었다네. 사람들은 그 검을 '관대한' 리데크라 불렀지.^^두 번째로: 그웨드노 가란히르의 상자가 있었다네. 한 사람이 먹기 위한 음식을 담았고, 그들은 문을 닫았다네, 문을 열었을 때에는 이미 1000명이 먹을 만한 음식이 되어 있었네.
 dlga_bardo_bt2:bardo_bt3|세 번째로: '북쪽의' 브란 갈레드의 뿔로 된 잔이 있었다네, 그 안에서는 어떤 음료라도 새어나왔지.^네 번째는: 모르간 므웬파의 전차였다네. 탄 사람이 원하는 곳으로, 어디든지 빠르게 여행할 수 있었다네.^다섯 번째로: 클리드노 에딘의 고삐가 있었다네. 이 고삐는 그의 침대의 밑에 고정되어 있었다네. 원하는 어떤 말이라도 그 고삐로 붙잡을 수 있었다네.^여섯 번째는: 를라우프로디드 파쵸그의 단검이었다네. 그 단검을 이용하면 스물 네 사람이 테이블에서 식사를 할 수 있었다네.^일곱 번째로: '거인' 더니치의 가마솥이 있었다네. 용감한 사람이 그 안에 고기를 넣으면, 바로 요리되어 나왔다네.
-dlga_bardo_bt3:bardo_bt4|여덞 번째로: 투드왈 투드글리드의 숫돌이 있었다네. 어떤 검이든 이 숫돌로 갈아낸 검은 날카롭게 피를 흘리게 만들었고, 어떤 사람을 죽이는 것도 실패하지 않았다네.^아홉 번째로: 파다른 베이스루드의 외투가 있었다네. 뛰어난 사람이 그것을 걸칠 경우, 그의 몸에 맞춰 외투가 커졌다네.^열 번째와 열한 번째는: '치유사' 리게니드의 사금파리와 접시였다네. 그들은 그 물건들에서 어떤 음식들이라도 얻을 수 있었다네.^열두 번째로: 그웬돌루 아프 케이디오의 체스판이 있었다네. 만약 체스말들을 놓으면, 체스말들은 스스로 움직이기 시작했다네. 체스판은 금으로 되어 있었고, 체스말들은 은으로 되어 있었지.^열세 번째로: 콘월의 아서의 망토가 있었다네. 그 망토는 누구에게도 보이지 않았고, 그것을 두르면 그 사람을 아무도 볼 수 없었다네.
+dlga_bardo_bt3:bardo_bt4|여덞 번째로: 투드왈 투드글리드의 숫돌이 있었다네. 어떤 검이든 이 숫돌로 갈아낸 검은 날카롭게 피를 흘리게 만들었고, 어떤 사람을 죽이는 것도 실패하지 않았다네.^아홉 번째로: 파다른 베이스루드의 외투가 있었다네. 뛰어난 사람이 그것을 걸칠 경우, 그의 몸에 맞춰 외투가 커졌다네.^열 번째와 열한 번째는: '치유사' 리게니드의 사금파리와 접시였다네. 그들은 그 물건들에서 어떤 음식들이라도 얻을 수 있었다네.^열두 번째로: 그웬돌루 맙 케이디오의 체스판이 있었다네. 만약 체스말들을 놓으면, 체스말들은 스스로 움직이기 시작했다네. 체스판은 금으로 되어 있었고, 체스말들은 은으로 되어 있었지.^열세 번째로: 콘월의 아서의 망토가 있었다네. 그 망토는 누구에게도 보이지 않았고, 그것을 두르면 그 사람을 아무도 볼 수 없었다네.
 dlga_bardo_bt4:bardo_bt5|나는 그런 보물들을 찾아보고 싶소.
 dlga_bardo_bt4:close_window|재미있는 노래를 불러줘서 고맙소.
 dlga_bardo_bt5:bardo_bt6|미안하오, 친구. 그건 어려운 일이오. 그 보물들의 대부분은 미르딘의 시대에 파괴되거나, 혹은 실종되었소. 나는 그 것들이 아직까지 남아 있지는 않을 거라고 생각하오.
@@ -4779,11 +4779,11 @@ dlga_abad_talk:addonstoryabad1|당신의 전령을 보았소. 무슨 일인지 �
 dlga_abad_talk:addonstoryabad1_re|당신의 제안에 관심이 있을 수 있소.
 dlga_abad_talk:addonsthesnakedead|'뱀'은 죽었소.
 dlga_abad_talk:abadmorrigan_end1|모리안은 더 이상 문제가 되지 않소.
-dlga_abad_talk:abadmaelbresail_1|우린 말 브레살에 대해 이야기해봐야 하오.
+dlga_abad_talk:abadmaelbresail_1|우린 마엘 브레살에 대해 이야기해봐야 하오.
 dlga_abad_talk:addonsflaithbertach1|프레이스베르타흐의 손자들이 어디에 있는지 알고 있소.
-dlga_addonsflaithbertach1:addonsflaithbertach2|좋은 소식이군. 내 후원자는 당신께 직접 이야기를 듣고 싶어 하실 거요. 그는 따분하고 긴 이야기를 듣은 건 싫어하시니, 그가 묻는 거에 대해서만 짧게 대답하면 되오. 자넨 운 좋은 거요, 그분께 강한 인상만 심어준다면 당신 미래는 아주 밝아질 거요. 에일레흐의 궁전에 가서 내 후원자를 찾으시오, 그의 이름은 말 브레살이오.
+dlga_addonsflaithbertach1:addonsflaithbertach2|좋은 소식이군. 내 후원자는 당신께 직접 이야기를 듣고 싶어 하실 거요. 그는 따분하고 긴 이야기를 듣은 건 싫어하시니, 그가 묻는 거에 대해서만 짧게 대답하면 되오. 자넨 운 좋은 거요, 그분께 강한 인상만 심어준다면 당신 미래는 아주 밝아질 거요. 에일레흐의 궁전에 가서 내 후원자를 찾으시오, 그의 이름은 마엘 브레살이오.
 dlga_addonsflaithbertach2:close_window|알겠소, 곧 다시 뵙겠소.
-dlga_abad_talk:addonsmaelflaithbertach1|말 브레살와 이야기했소.
+dlga_abad_talk:addonsmaelflaithbertach1|마엘 브레살와 이야기했소.
 dlga_addonsmaelflaithbertach1:addonsmaelflaithbertach2|나도 알고 있소. 당신도 느꼈겠지만 그는 자신을 섬기는 자에게는 매우 관대하다오.
 dlga_addonsmaelflaithbertach2:addonsmaelflaithbertach3|그렇소, 아주 부자에다가 자기 관리도 철저해 보이더군.
 dlga_addonsmaelflaithbertach2:addonsmaelflaithbertach3_2|내겐 별로 인상 깊지 않은 사람이었소.
@@ -4865,8 +4865,8 @@ dlga_abadmorrigan_end2:abadmorrigan_end3|고맙소, 수도원장.
 dlga_abadmorrigan_end2:abadmorrigan_end3.1|그 돈은 내 부하들에게 주시오. 그들은 그만한 자격이 있소.
 dlga_abadmorrigan_end3:abadmorrigan_end4|안 좋은 소식이 있소. 프레이스베르타흐의 손자를 제거하러 간 자는 성공했다 하였소, 하지만 우리의 아드 로어이신, 에드 맥 니얼이 시체를 보고는, 원했던 자가 아니라 말하고는 매우 화를 냈소. 손자들을 처치했다고 보고한 자는 그 자리에서 처형당했고, 그는 당신이 이번 일에 연관된 걸 알고 있소. 그러니 그에게서 가능한 멀리 떠나 있으시오.
 dlga_abadmorrigan_end3:abadmorrigan_end4.1|안 좋은 소식이 있소. 프레이스베르타흐의 손자를 제거하러 간 자가 농장에 갔을 때에, 거긴 아무도 없었다고 하오. 나도 어찌 된 일인진 모르오만, 우리의 아드 로어이신, 에드 맥 니얼이 이에 대한 책임으로, 당신에게 직접 벌을 내리겠다고 하셨소. 그러니 그에게서 가능한 멀리 떠나있으시오.
-dlga_abadmorrigan_end3:abad_pretalk|내 동반자에게, 내 일은 이제 모두 끝났소. 지금 즉시 말 브레살에게 가시오. 이제부터는, 당신은 그와 직접 거래를 하게 될 거요. 주의를 주자면: 그는 강력한 힘을 가졌고, 쉽게 화를 잘 내오. 나라면 절대 그를 적으로 만들지 않겠소. 그에게 절대 거짓말하지 않고 충성스럽게만 군다면, 모든 게 괜찮을 거요. 그렇지 않았다간... 결코 오래 못 살 거요. 행운을 비오, {playername}.
-dlga_abadmorrigan_end4:abad_pretalk|내 동반자에게, 내 일은 이제 모두 끝났소. 지금 즉시 말 브레살에게 가시오. 이제부터는, 당신은 그와 직접 거래를 하게 될 거요. 주의를 주자면: 그는 강력한 힘을 가졌고, 쉽게 화를 잘 내오. 나라면 절대 그를 적으로 만들지 않겠소. 그에게 절대 거짓말하지 않고 충성스럽게만 군다면, 모든 게 괜찮을 거요. 그렇지 않았다간... 결코 오래 못 살 거요. 행운을 비오, {playername}.
+dlga_abadmorrigan_end3:abad_pretalk|내 동반자에게, 내 일은 이제 모두 끝났소. 지금 즉시 마엘 브레살에게 가시오. 이제부터는, 당신은 그와 직접 거래를 하게 될 거요. 주의를 주자면: 그는 강력한 힘을 가졌고, 쉽게 화를 잘 내오. 나라면 절대 그를 적으로 만들지 않겠소. 그에게 절대 거짓말하지 않고 충성스럽게만 군다면, 모든 게 괜찮을 거요. 그렇지 않았다간... 결코 오래 못 살 거요. 행운을 비오, {playername}.
+dlga_abadmorrigan_end4:abad_pretalk|내 동반자에게, 내 일은 이제 모두 끝났소. 지금 즉시 마엘 브레살에게 가시오. 이제부터는, 당신은 그와 직접 거래를 하게 될 거요. 주의를 주자면: 그는 강력한 힘을 가졌고, 쉽게 화를 잘 내오. 나라면 절대 그를 적으로 만들지 않겠소. 그에게 절대 거짓말하지 않고 충성스럽게만 군다면, 모든 게 괜찮을 거요. 그렇지 않았다간... 결코 오래 못 살 거요. 행운을 비오, {playername}.
 dlga_abadmaelbresail_1:abadmaelbresail_2|긴장한 것 같아 보이는군. 내 후원자와의 이야기는 잘 되었소?
 dlga_abadmaelbresail_2:abadmaelbresail_3|당신 후원자가 나를 죽이려고 하오. 그를 찾으려면 어디로 가야하오?
 dlga_abadmaelbresail_2:close_window|나중에 다시 오겠소.
@@ -4880,12 +4880,12 @@ dlga_abadmaelbresail_8:abadmaelbresail_8_1|이 수도원이 지속적으로 성�
 dlga_abadmaelbresail_8:abadmaelbresail_5_2|당신의 주인이 연회를 열었고, 그 연회장에서 나를 불태워 죽이려 했소. (설득)
 dlga_abadmaelbresail_8:abadmaelbresail_5_3|시간 낭비하지 말고, 어서 대답하시오. 그렇지 않으면 당신을 죽이고 수도원을 불태우겠소. (공격성)
 dlga_abadmaelbresail_8:close_window|나중에 다시 오겠소.
-dlga_abadmaelbresail_8_1:abadmaelbresail_6|바이킹들의 공격으로 수도원의 재정이 궁핍하긴 하오. 그리고 이 정보가 누구에게도 해를 입히지 않는다는 정도는 아오. 하지만, 이야기해줄 수 없소. 말 브레살은 너무 위험한 인물이오.
-dlga_abadmaelbresail_5_2:abadmaelbresail_5_5|말 브레살이 나를 죽이러했다는 건, 프레이스베르타흐의 자손들의 살인과 관련된 모든 요인과 목격자들을 제거하겠다는 소리라는걸 모르겠소? 게다가 당신이 그 내막을 아는 유일한 자요. 당신도 제거될 인물 중 하나란 말이오. 하지만 내가 당신 대장을 찾을 수만 있다면, 우린 더 살 수 있소. 당신도 내 말이 옳다는 건 알 거요.
+dlga_abadmaelbresail_8_1:abadmaelbresail_6|바이킹들의 공격으로 수도원의 재정이 궁핍하긴 하오. 그리고 이 정보가 누구에게도 해를 입히지 않는다는 정도는 아오. 하지만, 이야기해줄 수 없소. 마엘 브레살은 너무 위험한 인물이오.
+dlga_abadmaelbresail_5_2:abadmaelbresail_5_5|마엘 브레살이 나를 죽이러했다는 건, 프레이스베르타흐의 자손들의 살인과 관련된 모든 요인과 목격자들을 제거하겠다는 소리라는걸 모르겠소? 게다가 당신이 그 내막을 아는 유일한 자요. 당신도 제거될 인물 중 하나란 말이오. 하지만 내가 당신 대장을 찾을 수만 있다면, 우린 더 살 수 있소. 당신도 내 말이 옳다는 건 알 거요.
 dlga_abadmaelbresail_5_5:abadmaelbresail_6|하지만, 난 그의 바람과 실행할 사람의 사이를 연결해주는 전령일 뿐이었소. 오, 신이시여! 그가 나도 죽이려 하다니... 제발 나를 도와주시오!
 dlga_abadmaelbresail_5_3:abadmaelbresail_6|나와 당신은 오래 같이 일해왔으니 당신의 사람 죽이는 능력은 나도 아오. 흠, 그가 어디 있는지 알려주겠소. 하지만 난 그의 바람과 실행할 사람의 사이를 연결해주는 전령일 뿐이었소. 그러니 수도원 사람들은 건들지 말아주시오.
-dlga_abadmaelbresail_6:abadmaelbresail_6_11|말 브레살이 안전하다고 느낄만한 장소가 있소, 하지만 아이러니하게도 몇 사람만이 아는 그곳이 가장 치명적인 그의 약점이오. 말 브레살의 어머니는 게일인이 아니라, 코르누비아에서 온 브리타니아인이오. 그녀는 어릴 적 위 네일과의 전쟁 중 납치되어 지도자 중 한명과 결혼하였소. 그 지도자가 말 브레살의 아버지이오.
-dlga_abadmaelbresail_6_11:abadmaelbresail_7|그의 아버지가 죽자, 말 브레살은 어머니의 고향인 보스베네흐으로 돌아가 자신의 어머니를 위해 집을 짓고 스스로를 위해선 요새를 세웠소. 그는 어머니를 방문하거나 휴식이 필요로 할 땐 거기로 간다오. 특히, 요즘 같은 시기라면 그곳에 가서 휴식을 취하며, 늙으신 어머니의 조언을 듣고자 할 거요. 이는 몇명 아는 사람이 없는 일이오. 나는 예전에 그의 늙은 어머니를 치료하기 위해 한번 갔다 왔기 때문에 알게 되었소. 만약 그를 찾게 되면, 말 브레살은 합리적인 사람이란 걸 잊지 마시오. 그가 제안한 건 무엇이든지 승낙하시오. 복수는 아무 짝에도 쓸모가 없소.
+dlga_abadmaelbresail_6:abadmaelbresail_6_11|마엘 브레살이 안전하다고 느낄만한 장소가 있소, 하지만 아이러니하게도 몇 사람만이 아는 그곳이 가장 치명적인 그의 약점이오. 마엘 브레살의 어머니는 게일인이 아니라, 코르누비아에서 온 브리타니아인이오. 그녀는 어릴 적 위 네일과의 전쟁 중 납치되어 지도자 중 한명과 결혼하였소. 그 지도자가 마엘 브레살의 아버지이오.
+dlga_abadmaelbresail_6_11:abadmaelbresail_7|그의 아버지가 죽자, 마엘 브레살은 어머니의 고향인 보스베네흐으로 돌아가 자신의 어머니를 위해 집을 짓고 스스로를 위해선 요새를 세웠소. 그는 어머니를 방문하거나 휴식이 필요로 할 땐 거기로 간다오. 특히, 요즘 같은 시기라면 그곳에 가서 휴식을 취하며, 늙으신 어머니의 조언을 듣고자 할 거요. 이는 몇명 아는 사람이 없는 일이오. 나는 예전에 그의 늙은 어머니를 치료하기 위해 한번 갔다 왔기 때문에 알게 되었소. 만약 그를 찾게 되면, 마엘 브레살은 합리적인 사람이란 걸 잊지 마시오. 그가 제안한 건 무엇이든지 승낙하시오. 복수는 아무 짝에도 쓸모가 없소.
 dlga_abadmaelbresail_7:close_window|그가 날 죽이려고 했소. 오직 그의 죽음만이 나를 멈출 수 있을 것이오. 잘 있으시오.
 dlga_abadmaelbresail_7:close_window.1|그의 제안이 흥미를 가질만한 것이라면 그리하겠소. 잘 있으시오.
 dlga_abadmaelbresail_7:close_window.2|그리하겠소. 잘 있으시오.
@@ -5241,7 +5241,7 @@ dlga_mayor_historia2:mayor_talk|만약 당신이 강 하류로 조금만 더 걸
 dlga_mayor_talk:mayor_histori|안녕하시오, 당신은 아마 이 장소에 대해서 내게 말해줄 수 있을 것 같은데.
 dlga_mayor_histori:mayor_histori2|확실히 나는 그럴 수 있을 것 같소, 그런데 당신 이마에 점점 땀방울이 맺히는 것 같소. 나는 당신과 내기하겠소, 그들이 마을의 벽에 도달하면 모든 사람들은 한 동안 그들의 숨을 돌리느라 바쁠 것임을 자랑스럽게 생각하고, 당신은 여기에서 이어지는 가파른 길뿐만 아니라, 이 장소의 장엄한 크기에 더 놀랐을 거라고 인정할 수 밖에 없을 거요. 당신은 버나시아의 수도에 와 있소: 베번버러, 이 곳은 우리의 왕이 전쟁을 하지 않을 때 머물렀던 곳이지.
 dlga_mayor_histori2:mayor_histori3|나는 당신이 그렇게 의심의 여지를 두는 것이 잘 이해되지 않소, 이 곳은 한 측면이 바다에 닿아 있고, 단지 여기에는 절벽과 좁은 길이 있고, 그것들 덕분에 이 도시는 잘 보호되고 있소. 그리고 이 곳을 거룩하고 현명한 자들이 지키고 있지, 이 곳을 정복하는 것은 불가능했소. 내가 비록 '현명함과 신성함'이라 말하지만, 나는 그냥 '현명함'이라고 정정하고 싶소. 에델버스 왕은 이 도시에 그의 아내인 베바의 이름을 붙였지, 그건 확실히 신성하지 않소. 그는 사람들에게 무자비한 철혈의 군주였소, 이 곳에 살던 원주민인 브리타니아인들은, 그를 '파괴자'라고 불렀다오.
-dlga_mayor_histori3:mayor_talk|그러나 그는 이 왕국을 힘든 시기로부터 보호했소. 그와 그의 아들 오스왈드는 혼란한 시기에 이 왕국을 유지하고 서쪽의 광대한 영토을 정복했소. 2세기 전엔, 우리 왕국은 브리튼 섬에서 가장 강력한 왕국이 되었지. 오스왈드 왕때는 머시아를 뛰어 넘어 브리튼왈다가 되기까지 했지. 하지만 그런 황금기는 오래가지 않았소. 여기서 멀지 않은 거룩한 섬 린디스판에서부터 덴마크인의 습격이 시작되었고 그날이후로 우린 계속해서 약탈에 시달리고 있소. 이젠 망할 놈의 노스인들이 우리 왕국을 쥐락펴락하고 있다오.  하지만 지금, 우리 주변의 모든 땅은 덴마크인들에 의해 뺏겨버렸지. 지금 통치자인 엑버트는 조빅의 애완견일 뿐이오! 하지만 이곳 베번버러에는 그의 간섭이 거의 미치지 않소. 우린 계속해서 저항할 것이오.
+dlga_mayor_histori3:mayor_talk|그러나 그는 이 왕국을 힘든 시기로부터 보호했소. 그와 그의 아들 오스왈드는 혼란한 시기에 이 왕국을 유지하고 서쪽의 광대한 영토을 정복했소. 2세기 전엔, 우리 왕국은 브리튼 섬에서 가장 강력한 왕국이 되었지. 오스왈드 왕때는 머시아를 뛰어 넘어 브리튼왈다가 되기까지 했지. 하지만 그런 황금기는 오래가지 않았소. 여기서 멀지 않은 거룩한 섬 린디스판에서부터 덴마크인의 습격이 시작되었고 그날이후로 우린 계속해서 약탈에 시달리고 있소. 이젠 망할 놈의 노스인들이 우리 왕국을 쥐락펴락하고 있다오.  하지만 지금, 우리 주변의 모든 땅은 덴마크인들에 의해 뺏겨버렸지. 지금 통치자인 에그베르트는 조빅의 애완견일 뿐이오! 하지만 이곳 베번버러에는 그의 간섭이 거의 미치지 않소. 우린 계속해서 저항할 것이오.
 dlga_mayor_talk:town_tax|이 도시에 새로운 세금 비율을 설정하고 싶소.
 dlga_town_tax:town_tax2|물론이오. 어떤 세금 비율을 원하시오?
 dlga_town_tax2:town_tax3|낮은 세금 비율을 원하오.
