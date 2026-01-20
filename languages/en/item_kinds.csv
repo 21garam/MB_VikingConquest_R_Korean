@@ -2,22 +2,22 @@
 itm_no_item_pl|인식불가능한 항목
 itm_tutorial_spear|창
 itm_tutorial_spear_pl|창
-itm_tutorial_club|곤봉
-itm_tutorial_club_pl|곤봉
-itm_tutorial_battle_axe|무거운 도끼
-itm_tutorial_battle_axe_pl|무거운 도끼
+itm_tutorial_club|몽둥이
+itm_tutorial_club_pl|몽둥이
+itm_tutorial_battle_axe|긴 전투용 도끼
+itm_tutorial_battle_axe_pl|긴 전투용 도끼
 itm_tutorial_arrows|화살
 itm_tutorial_arrows_pl|화살
-itm_tutorial_bolts|볼트
-itm_tutorial_bolts_pl|볼트
+itm_tutorial_bolts|쇠뇌 화살
+itm_tutorial_bolts_pl|쇠뇌 화살
 itm_tutorial_short_bow|장궁
 itm_tutorial_short_bow_pl|장궁
 itm_tutorial_crossbow|쇠뇌
 itm_tutorial_crossbow_pl|쇠뇌
-itm_tutorial_throwing_daggers|자벨린
-itm_tutorial_throwing_daggers_pl|자벨린
-itm_tutorial_saddle_horse|조랑말
-itm_tutorial_saddle_horse_pl|조랑말
+itm_tutorial_throwing_daggers|투창
+itm_tutorial_throwing_daggers_pl|투창
+itm_tutorial_saddle_horse|승마용 조랑말
+itm_tutorial_saddle_horse_pl|승마용 조랑말
 itm_tutorial_shield|원형 방패
 itm_tutorial_shield_pl|원형 방패
 itm_tutorial_staff_no_attack|지팡이
@@ -56,28 +56,28 @@ itm_practice_shield|연습용 방패
 itm_practice_shield_pl|연습용 방패
 itm_practice_bow|연습용 장궁
 itm_practice_bow_pl|연습용 장궁
-itm_practice_crossbow|연습용 투석끈
-itm_practice_crossbow_pl|연습용 투석끈
-itm_practice_javelin|연습용 자벨린
-itm_practice_javelin_pl|연습용 자벨린
-itm_practice_javelin_melee|연습용 자벨린
-itm_practice_javelin_melee_pl|연습용 자벨린
-itm_practice_throwing_daggers|연습용 자벨린
-itm_practice_throwing_daggers_pl|연습용 자벨린
-itm_practice_throwing_daggers_100_amount|연습용 자벨린
-itm_practice_throwing_daggers_100_amount_pl|연습용 자벨린
+itm_practice_crossbow|연습용 슬링
+itm_practice_crossbow_pl|연습용 슬링
+itm_practice_javelin|연습용 투창
+itm_practice_javelin_pl|연습용 투창
+itm_practice_javelin_melee|연습용 투창
+itm_practice_javelin_melee_pl|연습용 투창
+itm_practice_throwing_daggers|연습용 투창
+itm_practice_throwing_daggers_pl|연습용 투창
+itm_practice_throwing_daggers_100_amount|연습용 투창
+itm_practice_throwing_daggers_100_amount_pl|연습용 투창
 itm_practice_horse|조랑말
 itm_practice_horse_pl|조랑말
 itm_practice_arrows|연습용 화살
 itm_practice_arrows_pl|연습용 화살
-itm_practice_bolts|연습용 돌
-itm_practice_bolts_pl|연습용 돌
+itm_practice_bolts|연습용 슬링 탄환
+itm_practice_bolts_pl|연습용 슬링 탄환
 itm_practice_arrows_10_amount|연습용 화살
 itm_practice_arrows_10_amount_pl|연습용 화살
 itm_practice_arrows_100_amount|연습용 화살
 itm_practice_arrows_100_amount_pl|연습용 화살
-itm_practice_bolts_9_amount|연습용 볼트
-itm_practice_bolts_9_amount_pl|연습용 볼트
+itm_practice_bolts_9_amount|연습용 쇠뇌 화살
+itm_practice_bolts_9_amount_pl|연습용 쇠뇌 화살
 itm_practice_boots|장화
 itm_practice_boots_pl|장화
 itm_red_tourney_armor|적색 튜닉
@@ -286,14 +286,14 @@ itm_barbed_arrows|미늘 화살
 itm_barbed_arrows_pl|미늘 화살
 itm_bodkin_arrows|바늘 화살
 itm_bodkin_arrows_pl|바늘 화살
-itm_bolts|볼트
-itm_bolts_pl|볼트
-itm_bolts2|송곳 볼트
-itm_bolts2_pl|송곳 볼트
-itm_bolts3|미늘 볼트
-itm_bolts3_pl|미늘 볼트
-itm_bolts4|바늘 볼트
-itm_bolts4_pl|바늘 볼트
+itm_bolts|쇠뇌 화살
+itm_bolts_pl|쇠뇌 화살
+itm_bolts2|송곳 쇠뇌 화살
+itm_bolts2_pl|송곳 쇠뇌 화살
+itm_bolts3|미늘 쇠뇌 화살
+itm_bolts3_pl|미늘 쇠뇌 화살
+itm_bolts4|바늘 쇠뇌 화살
+itm_bolts4_pl|바늘 쇠뇌 화살
 itm_pilgrim_disguise|순례자 복장
 itm_pilgrim_disguise_pl|순례자 복장
 itm_pilgrim_hood|순례자 후드
@@ -2028,26 +2028,26 @@ itm_squaresh_5|사각 방패
 itm_squaresh_5_pl|사각 방패
 itm_squaresh_6|사각 방패
 itm_squaresh_6_pl|사각 방패
-itm_darts|간이형 자벨린
-itm_darts_pl|간이형 자벨린
-itm_darts_melee|간이형 자벨린
-itm_darts_melee_pl|간이형 자벨린
-itm_javelin|자벨린
-itm_javelin_pl|자벨린
-itm_javelin_melee|자벨린
-itm_javelin_melee_pl|자벨린
-itm_javelin_skirmishes|척후용 자벨린
-itm_javelin_skirmishes_pl|척후용 자벨린
-itm_javelin_skirmishes_melee|척후용 자벨린
-itm_javelin_skirmishes_melee_pl|척후용 자벨린
-itm_javelin_skirmishesel|대형 자벨린
-itm_javelin_skirmishesel_pl|대형 자벨린
-itm_javelin_skirmishesel_melee|대형 자벨린
-itm_javelin_skirmishesel_melee_pl|대형 자벨린
-itm_javelin_jinetes|기병용 자벨린
-itm_javelin_jinetes_pl|기병용 자벨린
-itm_javelin_jinetes_melee|기병용 자벨린
-itm_javelin_jinetes_melee_pl|기병용 자벨린
+itm_darts|간이형 투창
+itm_darts_pl|간이형 투창
+itm_darts_melee|간이형 투창
+itm_darts_melee_pl|간이형 투창
+itm_javelin|투창
+itm_javelin_pl|투창
+itm_javelin_melee|투창
+itm_javelin_melee_pl|투창
+itm_javelin_skirmishes|척후용 투창
+itm_javelin_skirmishes_pl|척후용 투창
+itm_javelin_skirmishes_melee|척후용 투창
+itm_javelin_skirmishes_melee_pl|척후용 투창
+itm_javelin_skirmishesel|대형 투창
+itm_javelin_skirmishesel_pl|대형 투창
+itm_javelin_skirmishesel_melee|대형 투창
+itm_javelin_skirmishesel_melee_pl|대형 투창
+itm_javelin_jinetes|기병용 투창
+itm_javelin_jinetes_pl|기병용 투창
+itm_javelin_jinetes_melee|기병용 투창
+itm_javelin_jinetes_melee_pl|기병용 투창
 itm_throwing_spears|투척용 창
 itm_throwing_spears_pl|투척용 창
 itm_throwing_spear_melee|투척용 창
@@ -2214,8 +2214,8 @@ itm_bonus_dress_2|색슨 궁정 드레스
 itm_bonus_dress_2_pl|색슨 궁정 드레스
 itm_bonus_dress_3|노스 귀족 드레스
 itm_bonus_dress_3_pl|노스 귀족 드레스
-itm_thors_javelins|토르의 자벨린
-itm_thors_javelins_pl|토르의 자벨린
+itm_thors_javelins|토르의 투창
+itm_thors_javelins_pl|토르의 투창
 itm_decap_head|머리 없음
 itm_decap_head_pl|머리 없음
 itm_work_axe_mp|도끼
@@ -2228,8 +2228,8 @@ itm_spear_1_mp|오래된 창
 itm_spear_1_mp_pl|오래된 창
 itm_crossbow_mp|픽트식 쇠뇌
 itm_crossbow_mp_pl|픽트식 쇠뇌
-itm_bolts_mp|볼트
-itm_bolts_mp_pl|볼트
+itm_bolts_mp|쇠뇌 화살
+itm_bolts_mp_pl|쇠뇌 화살
 itm_items_end|Items End
 itm_items_end_pl|Items End
 itm_noswing_club_troll|트롤의 도끼
@@ -2476,16 +2476,16 @@ itm_noswing_standard|군기
 itm_noswing_standard_pl|군기
 itm_noswing_standard_dragon|용장식 군기
 itm_noswing_standard_dragon_pl|용장식 군기
-itm_noswing_darts_melee|간이형 자벨린
-itm_noswing_darts_melee_pl|간이형 자벨린
-itm_noswing_javelin_melee|자벨린
-itm_noswing_javelin_melee_pl|자벨린
-itm_noswing_javelin_skirmishes_melee|척후용 자벨린
-itm_noswing_javelin_skirmishes_melee_pl|척후용 자벨린
-itm_noswing_javelin_skirmishesel_melee|대형 자벨린
-itm_noswing_javelin_skirmishesel_melee_pl|대형 자벨린
-itm_noswing_javelin_jinetes_melee|기병용 자벨린
-itm_noswing_javelin_jinetes_melee_pl|기병용 자벨린
+itm_noswing_darts_melee|간이형 투창
+itm_noswing_darts_melee_pl|간이형 투창
+itm_noswing_javelin_melee|투창
+itm_noswing_javelin_melee_pl|투창
+itm_noswing_javelin_skirmishes_melee|척후용 투창
+itm_noswing_javelin_skirmishes_melee_pl|척후용 투창
+itm_noswing_javelin_skirmishesel_melee|대형 투창
+itm_noswing_javelin_skirmishesel_melee_pl|대형 투창
+itm_noswing_javelin_jinetes_melee|기병용 투창
+itm_noswing_javelin_jinetes_melee_pl|기병용 투창
 itm_noswing_throwing_spear_melee|투척용 창
 itm_noswing_throwing_spear_melee_pl|투척용 창
 itm_noswing_throwing_spear2_melee|투척용 창
