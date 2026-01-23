@@ -4830,11 +4830,11 @@ dlga_addonsthesnakedead3:addonsthesnakedead4|에리우의 안전을 위협하는
 dlga_addonsthesnakedead4:addonsthesnakedead4_1|이번 일은 사람을 죽이는 일이 아니었으면 좋겠군. 난 암살자가 아니오.
 dlga_addonsthesnakedead4:addonsthesnakedead5|[아무 말도 하지 않습니다]
 dlga_addonsthesnakedead4_1:addonsthesnakedead5|그렇소, 이번 일은 단순히 정보만 알아내면 되오. 들어보시오.
-dlga_addonsthesnakedead5:addonsthesnakedead6|바다 건너, 시어 메기드에 에리우의 적이 은신처를 마련했소. 이곳이 이제 음모의 근원이 되었다오. 특히 두 명이 우리에게 매우 위험한 적인데, 그 둘은 프레이스베르타흐의 손자이오. 임무는 간단하오. 가서 그들이 어디에 숨어있는지 알아내시오. 그 곳은 내 후원자의 사람이 없는 곳이라, 던갈이라 불리는 조합장에게 찾아낸 정보를 건네주면 되오. 이 간단한 임무만 해내면, 당신은 또 5000 페닝을 받을 것이오.
+dlga_addonsthesnakedead5:addonsthesnakedead6|바다 건너, 시어 메기드에 에리우의 적이 은신처를 마련했소. 이곳이 이제 음모의 근원이 되었다오. 특히 두 명이 우리에게 매우 위험한 적인데, 그 둘은 프레이스베르타흐의 손자이오. 임무는 간단하오. 가서 그들이 어디에 숨어있는지 알아내시오. 그 곳은 내 후원자의 사람이 없는 곳이라, 둥갈이라 불리는 조합장에게 찾아낸 정보를 건네주면 되오. 이 간단한 임무만 해내면, 당신은 또 5000 페닝을 받을 것이오.
 dlga_addonsthesnakedead6:addonsthesnakedead7|거래는 성립되었소.
 dlga_addonsthesnakedead6:addonsthesnakedead8|미안하지만, 별로 관심 없소.
 dlga_addonsthesnakedead8:addonsthesnakedead7|난 그저 전달하는 사람일 뿐이지, 임무는 내 후원자가 주는 것이오. 난 당신에게 정보를 주었소. 이젠 당신이 하고 싶은 대로 하시오.
-dlga_addonsthesnakedead7:addonsthesnakedead9|던갈은 돈에 약한 사람이오. 충분히 그를 설득할 수 있을 거요. 프레이스베르타흐의 손자의 위치를 알아내 최대한 빨리 돌아오시오. 그럼, 행운을 비오.
+dlga_addonsthesnakedead7:addonsthesnakedead9|둥갈은 돈에 약한 사람이오. 충분히 그를 설득할 수 있을 거요. 프레이스베르타흐의 손자의 위치를 알아내 최대한 빨리 돌아오시오. 그럼, 행운을 비오.
 dlga_addonsthesnakedead9:close_window|미리 5000 페닝을 준비해 두시오, 내 금방 돌아오리다.
 dlga_addonsthesnakedead9:close_window.1|잘 가시오, 신부.
 dlga_addonstoryabad6_1m:addonstoryabad7|--수도원장은 기침을 한번 하고는 당신의 눈을 응시하였습니다--^^에리우 서쪽 끝에 음... 문제가 생긴 마을이 있소. 외딴 곳으로 거친 절벽이 있고, 어부들이 사는 곳이오. 이 곳의 주민들이 거대한 악이 나타났다고 우리에게 도움을 청하였소. 이 알 수 없는 자들이 마을 아이들과 아내를 납치해간다고 하오.
@@ -5225,7 +5225,7 @@ dlga_mayor_dongall_quest5:mayor_dongall_quest6.2|프레이스베르타흐의 손
 dlga_mayor_dongall_quest5:mayor_dongall_quest6.3|프레이스베르타흐의 손자들이 어디에 있는지 아는건 내게 무척 중요하오. 이 돈이면 되겠소? (5000 페닝)
 dlga_mayor_dongall_quest6:mayor_pretalk|당신은 믿을만한 사람으로 보이는군. 하긴, 나도 프레이스베르타흐의 손자에게 빚진 것이 없지... 하지만 지금은 나도 내 일을 하러 돌아가야 하오. 우선 사람들의 삶을 더 낫게 만들면 사람들도 당신을 사랑하게 될 것이오. 그리고 나서 다시 이야기 하기로 합시다.
 dlga_mayor_dongall_quest6:mayor_dongall_quest7|당신은 이 도시를 위해서 많은 걸 해주었고, 주민들도 당신에게 감사해 하고있소. 이제 당신이 알고싶어 하던 정보를 알려주겠소. 프레이스베르타흐의 손자는 디나스 브란 근방의 농장에 있소. 그들은 겨우 8살밖에 안된 애들인데 당신이 왜 이렇게 관심이 있는지 모르겠소. 그들의 아버지가 죽고나서부터 그들은 혼자 남아있소. 에드 핀들라어스가 자신의 왕좌에 대한 작은 잠재적 위협도 제거하고 싶어 하는 마음도 알겠지만, 이 아이들에게는 지지할 세력조차 없소. 저 아이들이 그를 위협하기는 어렵다고 생각하오.
-dlga_mayor_dongall_quest7:close_window|애들은 금세 자라오, 던갈. 어쨌든, 이건 우리가 걱정할 일이 아니오. 잘 있으시오.
+dlga_mayor_dongall_quest7:close_window|애들은 금세 자라오, 둥갈. 어쨌든, 이건 우리가 걱정할 일이 아니오. 잘 있으시오.
 dlga_mayor_dongall_quest7:mayor_dongall_quest8|난 그 불쌍한 아이들을 지켜줄 거요.
 dlga_mayor_dongall_quest8:mayor_dongall_quest9|듣던 중 반가운 소리군! 처음에는 프레이스베르타흐를 죽인 살인자가 그의 손자까지 찾게 하러 당신을 보낸 줄로만 알았지 뭐요. 돌아가서 아이들을 찾지 못했다고 하면 그들은 계속해서 아이들을 찾아다닐 거요. 정말 그 아이들을 돕고싶다면 거짓말을 해야하오. 당신이 돌아가 에드 핀들라어스에게 아이들이 어디 있는지 알려주면, 난 그사이 프레이스베르타흐의 손자들을 노예들과 바꿔치기 해놓겠소.
 dlga_mayor_dongall_quest9:mayor_dongall_quest10_1|말이 되는 이야기군. 그렇게 합시다.
