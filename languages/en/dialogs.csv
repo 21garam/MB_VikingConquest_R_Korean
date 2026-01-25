@@ -5059,13 +5059,13 @@ dlga_start:close_window.102|당신은 아직 일을 끝내지 않았소. 이곳�
 dlga_capataz_talk:quarry_work_0|여기서 일하고 싶소.
 dlga_quarry_work_0:quarry_work_1|우린 일당으로 하루에 5 페닝을 지급해주오.
 dlga_quarry_work_1:quarry_work_2|좋소, 이곳에서 하루 일하고 싶소.
-dlga_quarry_work_1:capataz_pretalk|
+dlga_quarry_work_1:capataz_pretalk|석재는 됐소. 다른 것들에 대해 이야기 하고 싶소.
 dlga_quarry_work_2:close_window|이곳에 있는 돌들을 채석하면 되오. 여기 곡갱이를 받으시오.
 dlga_capataz_ayuda:close_window|미안하오, {reg59?부인:경}, 하지만 이 장소는 우리 장소요. 우리는 조상때부터 대대로 여기서 살아왔소, 내 증조할아버지때부터. 오직 내 남자와 그리고 내 노예가 여기서 일하고 있지..
 dlga_capataz_talk:capataz_sins|나는 여기서 당신이 채굴한 것의 일부를 구입하고 싶소.
 dlga_capataz_sins:capataz_pretalk|미안하오, 나는 다른 사람에게 이미 나머지를 팔기로 약속했소.
-dlga_capataz_sins2:capataz_sins_end|
-dlga_capataz_sins_end:close_window|
+dlga_capataz_sins2:capataz_sins_end|좋소, 내가 일부를 사고 싶소.
+dlga_capataz_sins_end:close_window|거래하게 되어 영광이오.
 dlga_capataz_sins2:capataz_pretalk|좋소, 나는 몇 가지 물건을 사고 싶소.
 dlga_capataz_talk:capataz_venta|나는 당신에게 내가 가진 포로들을 전부 팔고 싶소.
 dlga_capataz_venta:capataz_venta2|좋소, 당신이 데리고 있는 포로 한 명당 30 페닝을 쳐주겠소, 나는 그들의 상태나 과거에 대해서는 신경쓰지 않을 것이오. 그들의 과거가 당신에게 문제가 될 경우, 나는 그들이 여기서 절대 탈출할 수 없을 거라고 당신에게 보장하겠소. 거래를 하겠소?
@@ -5081,13 +5081,13 @@ dlga_start:close_window.103|당신은 아직 일을 끝내지 않았소. 내 옆
 dlga_capataz_talk2:salt_work_0|여기서 일하고 싶소.
 dlga_salt_work_0:salt_work_1|우린 일당으로 하루에 5 페닝을 지급해주오.
 dlga_salt_work_1:salt_work_2|좋소, 이곳에서 하루 일하고 싶소.
-dlga_salt_work_1:capataz_pretalk2|
+dlga_salt_work_1:capataz_pretalk2|관심 없소.
 dlga_salt_work_2:close_window|내 옆에 있는 터널로 가서, 산에서 소금을 캐내시오. 여기 곡갱이를 받으시오.
 dlga_capataz_talk2:capataz_sins2_2|나는 소금을 구매하고 싶소.
 dlga_capataz_sins2_2:capataz_sins22|좋소, 당신은 그걸 구매하기 위해 좋은 곳으로 온 거요. {s4}
 dlga_capataz_sins2_2:capataz_pretalk2|미안하오, 나는 이미 남아있는 소금을 다른 사람에게 전부 팔아버렸소.
-dlga_capataz_sins22:capataz_sins_end|
-dlga_capataz_sins22:capataz_pretalk2|좋소, 나는 몇 가지 물건을 구매하고 싶소.
+dlga_capataz_sins22:capataz_sins_end|좋소, 소금을 조금 사고싶소.
+dlga_capataz_sins22:capataz_pretalk2|소금은 됐소. 다른 것들에 대해 이야기 하고 싶소.
 dlga_capataz_talk2:capataz_venta2|나는 당신에게 내가 가진 포로들을 전부 팔고 싶소.
 dlga_capataz_venta2:capataz_venta22|좋소, 당신이 데리고 있는 포로 한 명당 30 페닝을 쳐주겠소, 나는 그들의 상태나 과거에 대해서는 신경쓰지 않을 것이오. 그들의 과거가 당신에게 문제가 될 경우, 나는 그들이 여기서 절대 탈출할 수 없을 거라고 당신에게 보장하겠소. 거래를 하겠소?
 dlga_capataz_venta22:capataz_venta32|좋소, 거래하겠소.
@@ -5101,7 +5101,7 @@ dlga_start:close_window.105|당신은 아직 일을 끝내지 않았소. 내 옆
 dlga_capataz_talk3:lumber_work_0|여기서 일하고 싶소.
 dlga_lumber_work_0:lumber_work_1|우린 일당으로 하루에 4 페닝을 지급해주오.
 dlga_lumber_work_1:lumber_work_2|좋소, 이곳에서 하루 일하고 싶소.
-dlga_lumber_work_1:capataz_pretalk3|
+dlga_lumber_work_1:capataz_pretalk3|관심 없소.
 dlga_lumber_work_2:close_window|내 옆에 있는 목재는 작게 조각 내고, 집 뒤에 있는 나무는 벌목하시오. 여기 당신 도끼요.
 dlga_capataz_talk3:lumbercamp_angry|좋은 나무로군, 하지만 이런 목재는 쉽게 불탈 수 있지 않소? 나는 당신들을 안전하게 해줄 수 있소 -- 보호세를 받고 말이지.
 dlga_lumbercamp_angry:lumbercamp_extortion|오? 좋소, 나는 불을 좋아하지 않는 것이 사실이지. 내가 지불할 보호세가 여기 있소.
@@ -5124,7 +5124,7 @@ dlga_start:close_window.107|아직 당신의 일을 다 끝내지 못했잖소. 
 dlga_farmstead_boss_talk:farmstead_work_0|여기서 일하고 싶소.
 dlga_farmstead_work_0:farmstead_work_1|우린 일당으로 하루에 3 페닝을 지급해주오.
 dlga_farmstead_work_1:farmstead_work_2|좋소, 이곳에서 하루 일하고 싶소.
-dlga_farmstead_work_1:farmstead_boss_pretalk|
+dlga_farmstead_work_1:farmstead_boss_pretalk|관심 없소.
 dlga_farmstead_work_2:close_window|뜰 근처 두 밀밭에 있는 건초들을 쌓아 놓도록 하시오. 여기 쇠스랑이 있소.
 dlga_farmstead_boss_talk:farmstead_boss_ayuda|내가 보기에 당신의 남자 몇 명이 이 주변을 배회하고 있군, 그들 중 일부를 내가 고용할 수 있겠소?
 dlga_farmstead_boss_ayuda:farmstead_boss_ayuda2|정말이오, {reg59?부인:경}? 내 시종과 노예들은 토끼처럼 늘어나고 있고, 우리의 생산물들을 너무 많이 먹어치우고 있소. 그들은 우리에게 넘치고 있고, 당신에게 그들을 판매하는 것을 기쁘게 생각할 것이오. 그리고 나는 당신에게 그들을 좋은 가격에 제공하겠소. 100 페닝은 어떻소?.
@@ -5135,7 +5135,7 @@ dlga_farmstead_boss_talk:farmstead_boss_sins|당신은 나에게 팔 물건들�
 dlga_farmstead_boss_talk:close_window|나는 지금 떠나야만 하오.
 dlga_farmstead_boss_sins:farmstead_boss_pretalk|내 주인은 연회를 위해 우리가 먹을 것만 남기고 팔만한 물건들을 전부 다 가져갔소.
 dlga_farmstead_boss_sins2:capataz_sins_end|관심이 있소. 나에게 보여주시오.
-dlga_farmstead_boss_sins2:farmstead_boss_pretalk|관심이 있소. 나에게 보여주시오.
+dlga_farmstead_boss_sins2:farmstead_boss_pretalk|아니오, 나는 다른 것을 찾고 있었소.
 dlga_farmstead_boss_talk:farmstead_boss_cattle|내겐 {reg25}마리의 소가 있는데 여기에 보관해도 되겠소?
 dlga_farmstead_boss_cattle:farmstead_boss_cattle1|그래도 좋소, {playername}.
 dlga_farmstead_boss_cattle:farmstead_boss_pretalk|불행하게도, {playername}, 지금은 소가 너무 많아서 안되오.

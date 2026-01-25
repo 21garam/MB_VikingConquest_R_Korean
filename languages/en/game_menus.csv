@@ -607,7 +607,7 @@ menu_establish_court|{s4}에 당신의 궁정을 세우려면 약간의 단장�
 mno_establish|{s4}에 당신의 궁정을 세웁니다.
 mno_hold_off|보류합니다...
 menu_notification_relieved_as_marshal|{s4}은(는) 전령을 보내 더 이상 귀하의 총사령관직 수행이 필요치 않음을 알려왔습니다. 지난 {reg4}일간 왕국을 위해 보여준 노고를 치하하며 보상의 의미로 {reg5} 페닝을 수여했습니다.
-menu_monasterio_visit|수도원에 도착했습니다. 이곳은 교회와 승려, 하인들을 위한 방, 가축이 있는 넓은 정원까지 갖춘 광활한 곳입니다. 참으로 부유함이 느껴지는 곳입니다!^^{s13}
+menu_monasterio_visit|수도원에 도착했습니다. 이곳은 수도사들과 하인들을 위한 방, 교회, 가축이 있는 넓은 정원까지 갖춘 광활한 곳입니다. 틀림없이 부유함이 넘치는 것 처럼 보입니다!^^{s13}
 mno_enter_interiorm|수도원장을 접견.
 mno_enter_interiorm_door|수도원장실로 가기.
 mno_entermo|수도원을 방문.
