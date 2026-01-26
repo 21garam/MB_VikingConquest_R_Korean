@@ -197,12 +197,12 @@ str_village_alt_prosperity_0|건장한 사람은 드물고 들판에는 잡초�
 str_village_alt_prosperity_20|소수의 농부와 가축이 들판에 나와 있으나 많은 이가 더 나은 삶을 찾아 떠났습니다. 농장은 낡았고 잡초가 들판을 점령했습니다.
 str_village_alt_prosperity_40|꽤 건강한 주민들과 가축들이 들판과 목초지에서 움직입니다. 하지만 일부 가옥은 상태가 좋지 않고, 몇몇 농경지는 씨가 뿌려지지 않은 채 방치되어 있습니다.
 str_village_alt_prosperity_60|들판과 과수원은 활기로 가득하며, 꽉 찬 곡식 자루와 주렁주렁 매달린 말린 고기가 마을 농경지와 목초지의 생산성을 증명하고 있습니다.
-str_village_alt_prosperity_80|들판과 과수원에 흥겨운 콧노래와 방금 파놓은 관개 수로로 인해 농부들은 충분한 휴가 시간과 에너지를 가지고 경작지를 확장해 가고 있습니다. 노동자들이 일자리와 부를 위해 몰려들고 있습니다.
-str_oasis_village_alt_prosperity_0|과일 농장은 사실상 버려졌고, 물을 대던 수로는 눈으로 막혀버렸습니다. 눈에 띄는 몇몇 주민들은 영양 실조에 지쳐 보입니다. 가축들은 굶주린 지 오래됐거나 잡아먹혔습니다. 몇몇 가축 시체들은 변두리에 방치되어 있고, 그 뼈는 사나운 늑대들이 갉아먹은 흔적이 있습니다.
-str_oasis_village_alt_prosperity_20|한두 명의 마을 주민들이 과일 농장으로 향하는 것을 볼 수 있었습니다. 두꺼운 눈이이 정원을 덮고 있습니다. 수로는 대부분 막혀버렸고, 우물과 물통들은 얼음로 가득 차 있습니다.
-str_oasis_village_alt_prosperity_40|남자와 여자들은 과일 농장을 향해 가거나 나무 꼭대기에 올라가 과일을 따느라 분주합니다. 건강한 가축들은 농지에 물을 대는 펌프와 휠을 끌고 있습니다. 수로와 물통을 사용하기 위해 약간의 보수가 필요할 것 같습니다.
-str_oasis_village_alt_prosperity_60|과일 농장과 과수원은 활기로 가득 차 있습니다. 농부들은 과일을 따기 위해 나무 꼭대기로 올라 서로를 불러대고 있습니다. 나무 펌프의 삐걱거림, 가축들이 우는 소리, 관개 수로에 힘차게 흐르는 물소리에 마을은 주민들의 관심 속에 점점 번영하고 있습니다.
-str_oasis_village_alt_prosperity_80|과일 농장은 풍성한 수확물을 시장에 팔려고 싣는 농부들의 활기로 가득 차 있습니다. 남자와 여자들은 새로 만든 땅에 물을 대기 위해 우물과 수로를 파느라 열심입니다.
+str_village_alt_prosperity_80|들판과 과수원은 건강하고 잘 먹은 마을 사람들로 가득하며, 이들은 많은 가축을 먹이기 위해 경작지를 넓히고 있습니다. 그 와중에 노동자들은 일자리와 번영을 찾아 몰려듭니다.
+str_oasis_village_alt_prosperity_0|과수원은 사실상 버려졌고, 남아있는 소수의 마을 사람들도 굶주림에 지쳐 보입니다. 가축들은 굶주린 지 오래되거나 이미 잡아먹혔습니다.
+str_oasis_village_alt_prosperity_20|\과수원을 돌보는 마을 사람들은 거의 보이지 않으며, 곳곳에서 숲이 마을을 집어삼키고 있습니다. 잡목과 잡초가 모든 과수원을 침범했습니다. 가축들은 야생화되었고, 외곽에는 늑대들이 갉아먹은 뼈와 사체들이 널려 있습니다.
+str_oasis_village_alt_prosperity_40|남자들과 여자들이 과수원에서 일하며 목초지를 침범한 관목을 베어내고 있습니다. 가축들은 건강해 보이지만, 많은 농가에 보수가 필요해 보입니다.
+str_oasis_village_alt_prosperity_60|바쁜 농부들이 나무를 다듬고, 양털을 깎고, 소의 젖을 짜며 서로 반갑게 인사를 나눕니다. 새로운 가축 울타리를 만드는 목수의 망치 소리가 이곳의 번영을 알립니다.
+str_oasis_village_alt_prosperity_80|과수원은 시장에 팔 사과 바구니와 밀 자루를 싣는 농부들로 활기가 넘칩니다. 남자들과 여자들은 숲을 개간하고 새로운 밭을 갈아 농경지를 만드느라 여념이 없습니다.
 str_acres_grain|넓은 곡식밭
 str_acres_orchard|넓은 과수원과 포도원
 str_acres_oasis|넓은 오아시스 관개지
@@ -210,7 +210,7 @@ str_looms|직조기
 str_boats|선박
 str_head_cattle|소
 str_head_sheep|양
-str_mills|선반
+str_mills|제분소
 str_kilns|가마
 str_pans|팬
 str_deposits|예금
@@ -229,137 +229,137 @@ str_master_smith|대장간 장인
 str_master_tanner|무두질 장인
 str_master_weaver|직조 장인
 str_master_dyer|염색 장인
-str_war_report_minus_4|우리는 전쟁에서 질 수 밖에 없습니다.
+str_war_report_minus_4|우리는 전쟁에서 패배하기 직전입니다.
 str_war_report_minus_3|상황이 불리해졌습니다.
-str_war_report_minus_2|모든 것이 우리에게 불리합니다.
-str_war_report_minus_1|단합만 잘 된다면 우리는 전쟁에서 이길 수 있습니다.
-str_war_report_0|우리는 여전히 적과 대등한 상황에 있습니다.
-str_war_report_plus_1|우리는 전쟁에서 승리하기 위해 동등한 기회를 가집니다.
-str_war_report_plus_2|만사가 잘 되어가고 있습니다.
-str_war_report_plus_3|그들을 정복하는데 아무런 어려움도 없습니다.
-str_war_report_plus_4|우리는 전쟁에서 이길 수밖에 없습니다.
-str_persuasion_summary_very_bad|당신은 {s50}을 설득하는 데 최선을 다했습니다, 그러나 무심결에 당신의 생각도 표현되었고, 당신이 이해하기 시작할 때마다, 전적으로 당신을 뒤쫓는 속임수가 잘못된 것 같았습니다. 말하기를 마칠 무렵에 당신은 부탁이나 예절 등 일관성 있는 주제로 이야기하는 것에 실패했습니다, 그리고 당신의 실망감이 스스로 잘못된 구멍 속으로 깊이 파고들게 했습니다. 당연히, {s50}에게서는 어떠한 감흥도 보여지지 않습니다.
-str_persuasion_summary_bad|당신은 {s50}을(를) 설득했습니다, 그러나 {reg51?그녀:그}에게 시작부터 당신의 생각을 드러냈습니다. 심지어 당신 귀에다 대고 신중하게 생각하도록 말하는 것과 같았습니다. {s50}에게도 당신의 이야기는 신뢰할 만한 수준의 의견으로 받아들여지기 어려웠습니다.
-str_persuasion_summary_average|{s50}은(는) 섬세하고 꽤나 말을 잘하는 사람으로 판명났으며, {reg51?그녀:그}의 확실한 반론에 당신은 아무런 확답도 이끌어 낼 수 없었습니다. 끝내 토론은 아무런 수확 없이 끝났습니다.
-str_persuasion_summary_good|논쟁에 임했을 때 생각을 빠르고 부드럽게, 당신의 의견을 수렴시키며, {s50}에게 몇 가지를 양보하였습니다. 그러나, {reg51?그녀:그}는 당신의 의견을 확신하지 못하고 있습니다.
-str_persuasion_summary_very_good|당신은 모두가 경청하고 생각할 수 있는 인상적인 연설을 하였습니다. 모든 것이 당신의 뜻대로 흘러갈 것으로 보입니다. 몇몇 단어들이 {s50}에게 인상적인 감동을 주었고, {reg51?그녀:그}는 당신을 돕는 쪽으로 결정할 것으로 보입니다.
-str_secret_sign_1|자정에 무기고에서 춤을...
-str_secret_sign_2|저는 괜찮은 비잔틴 태피스트리를 판매하고 있다. 몇 개를 주문하시겠습니까?
-str_secret_sign_3|친구의 친구가 나를 보냈습니다...
-str_secret_sign_4|동쪽에서 바람이 불면 강은 붉게 물듭니다.
-str_countersign_1|하지만 의상이나 촛대를 위한 춤은 추지 않으실 겁니까?
-str_countersign_2|파란색으로 가지고 있는 것은 없나요?
-str_countersign_3|그러나, 내 친구, 친구의 친구 중에도 나 같은 친구는 없습니다.
-str_countersign_4|아파본 적 있나요?
+str_war_report_minus_2|상황이 우리에게 그다지 좋지 않습니다.
+str_war_report_minus_1|우리가 다시 결집한다면 여전히 전쟁에서 이길 수 있습니다.
+str_war_report_0|적과 대등한 형세를 유지하고 있습니다.
+str_war_report_plus_1|전쟁에서 승리할 가능성이 충분합니다.
+str_war_report_plus_2|모든 것이 아주 잘 풀리고 있습니다.
+str_war_report_plus_3|적을 물리치는 데 아무런 어려움이 없을 것입니다.
+str_war_report_plus_4|우리는 전쟁에서 승리하기 직전입니다.
+str_persuasion_summary_very_bad|{s50}을 설득하려 최선을 다하지만 어떤 논리도 제대로 먹히지 않는 것 같습니다. 이치에 맞는 말을 하려 할 때마다 완전히 잘못된 말을 내뱉어 흐름을 놓치고 맙니다. 말을 마칠 때쯤에는 자신에게 유리한 일관된 주장 하나 펼치지 못했다는 사실을 깨닫고, 스스로 무덤을 팠음을 직감합니다. 당연하게도 {s50}은 전혀 감명받지 않은 눈치입니다.
+str_persuasion_summary_bad|{s50}을 설득하려 하지만 시작부터 상대의 수에 밀려버립니다. 스스로 생각하기에도 자신의 주장이 공허하게 들릴 정도입니다. {s50} 역시 당신이 한 말에 대해 그리 좋지 않은 인상을 받은 듯합니다.
+str_persuasion_summary_average|토론을 통해 {s50}이(기) 똑똑하고 말을 잘하는 사람임이 드러났습니다. 당신은 상대의 합리적인 반론에 대항할 만한 구체적인 근거를 제시하지 못하였습니다. 끝내 토론은 어느 쪽도 우위를 점하지 못한 채 아무런 수확 없이 끝났습니다.
+str_persuasion_summary_good|빠른 판단력과 매끄러운 화술로 당신의 주장을 잘 펼쳤고, {s50}으로부터 몇 가지 양보를 끌어냈습니다. 하지만 상대는 여전히 당신의 의견에 의구심을 표하고 있습니다.
+str_persuasion_summary_very_good|당신은 듣는 모든 이의 귓가에 시처럼 울려 퍼지는 열정적인 연설을 합니다. 온 세상이 당신의 목소리를 더 잘 듣기 위해 고요해진 듯합니다. 영감을 주는 당신의 말에 {s50}은 깊이 감동했고, 당신을 돕는 쪽으로 결정할 것으로 보입니다.
+str_secret_sign_1|자정에 무기고가 춤을 춘다...
+str_secret_sign_2|콘스탄티노플에서 온 고급 태피스트리를 팔고 있습니다. 몇 개 사시겠습니까?
+str_secret_sign_3|친구의 친구가 나를 보냈소...
+str_secret_sign_4|동쪽에서 바람이 거세게 불면 강물은 붉게 물든다...
+str_countersign_1|하지만 그가 옷장이나 촛대를 위해 춤을 추던가요?
+str_countersign_2|네, 사고 싶군요. 파란색 제품도 있습니까?
+str_countersign_3|하지만 나의 친구여, 당신 친구의 친구는 결코 나 같은 친구를 사귀지 못할 거요.
+str_countersign_4|어디 아픈 적이라도 있소?
 str_name_1|아엘
 str_name_2|알두이니
 str_name_3|베르둔
-str_name_4|케드먼
-str_name_5|서른
-str_name_6|코레드
-str_name_7|이드발드
-str_name_8|아드파엘
-str_name_9|이어퍼
-str_name_10|이프왈드
-str_name_11|헨지스트
+str_name_4|캐드먼
+str_name_5|체사를
+str_name_6|코엔레드
+str_name_7|에드발드
+str_name_8|아스파엘
+str_name_9|에아파
+str_name_10|에어프왈드
+str_name_11|헨기스트
 str_name_12|호르사
 str_name_13|오스레드
-str_name_14|시어덜프
+str_name_14|스리드울프
 str_name_15|윅트레드
 str_name_16|우파
-str_name_17|시니
-str_name_18|컨도그
+str_name_17|키니
+str_name_18|쿠네독
 str_name_19|이드너스
-str_name_20|다이프리그
+str_name_20|디프리그
 str_name_21|트레니
 str_name_22|캐드판
 str_name_23|캐드건
-str_name_24|리이왈론
+str_name_24|리왈론
 str_name_25|하이웰
-str_surname_1|런데위치의 {s50}
-str_surname_2|도르스 세스터의 {s50}
-str_surname_3|베번버러의 {s50}
-str_surname_4|시어 웬돌루의 {s50}
+str_surname_1|룬덴위크의 {s50}
+str_surname_2|도르스 체스터의 {s50}
+str_surname_3|베반부르흐의 {s50}
+str_surname_4|카에르 웬도루의 {s50}
 str_surname_5|이멘 마하의 {s50}
-str_surname_6|시렌 세스터의 {s50}
+str_surname_6|치렌 체스터의 {s50}
 str_surname_7|딘 드레이하우의 {s50}
 str_surname_8|리시드펠스의 {s50}
-str_surname_9|시어 로이드의 {s50}
-str_surname_10|콘 세스터의 {s50}
-str_surname_11|딘 얼의 {s50}
-str_surname_12|노르위치의 {s50}
-str_surname_13|라이더치의 {s50}
+str_surname_9|카에르 로이드의 {s50}
+str_surname_10|콜네 체스터의 {s50}
+str_surname_11|딘 어스의 {s50}
+str_surname_12|노어위크의 {s50}
+str_surname_13|카에르 라이더치의 {s50}
 str_surname_14|두인 올레이흐의 {s50}
-str_surname_15|디나이제스버나의 {s50}
-str_surname_16|던 비세드의 {s50}
+str_surname_15|데니제스부르나의 {s50}
+str_surname_16|둔 부이스드의 {s50}
 str_surname_17|스와나위치의 {s50}
-str_surname_18|우데턴의 {s50}
-str_surname_19|바던의 {s50}
-str_surname_20|에이크 레임의 {s50}
+str_surname_18|워드턴의 {s50}
+str_surname_19|바둔의 {s50}
+str_surname_20|레이엄 안 에이크의 {s50}
 str_surname_21|'길쭉한' {s50}
-str_surname_22|'외로운' {s50}
+str_surname_22|수척한' {s50}
 str_surname_23|'부드러운 수염' {s50}
 str_surname_24|'참새' {s50}
 str_surname_25|'빈곤한' {s50}
-str_surname_26|'흉터난' {s50}
+str_surname_26|흉터 입은' {s50}
 str_surname_27|'공명정대한' {s50}
 str_surname_28|'잔혹한' {s50}
 str_surname_29|'불은' {s50}
 str_surname_30|'검은' {s50}
-str_surname_31|'큰 키' {s50}
+str_surname_31|키다리' {s50}
 str_surname_32|'별이 비치는 눈' {s50}
-str_surname_33|'겂없는' {s50}
+str_surname_33|겁 없는' {s50}
 str_surname_34|'용감한' {s50}
 str_surname_35|'교활한' {s50}
 str_surname_36|'겁쟁이' {s50}
 str_surname_37|'영리한' {s50}
 str_surname_38|'날쌘' {s50}
-str_surname_39|'시적인' {s50}
+str_surname_39|음유시인' {s50}
 str_surname_40|'대담한' {s50}
 str_surname_41|'성급한' {s50}
 str_surnames_end|surnames end
-str_number_of_troops_killed_reg1|다음의 군사가 죽음: {reg1}명
-str_number_of_troops_wounded_reg1|다음의 군사가 부상: {reg1}명
-str_number_of_own_troops_killed_reg1|다음의 아군 병사가 죽음: {reg1}명
-str_number_of_own_troops_wounded_reg1|다음의 아군 병사가 부상: {reg1}명
+str_number_of_troops_killed_reg1|전사자 수: {reg1}명
+str_number_of_troops_wounded_reg1|부상자 수: {reg1}명
+str_number_of_own_troops_killed_reg1|아군 전사자 수: {reg1}명
+str_number_of_own_troops_wounded_reg1|아군 부상자 수: {reg1}명
 str_retreat|퇴각!
-str_siege_continues|전쟁을 계속합니다...
-str_casualty_display|당신의 사상자: {s10}^적의 사상자: {s11}{s12}
-str_casualty_display_hp|^당신은 {reg1}의 충격으로 부상당했습니다.
+str_siege_continues|전투 지속 중...
+str_casualty_display|아군 사상자: {s10}^적군 사상자: {s11}{s12}
+str_casualty_display_hp|^당신은 {reg1}의 피해를 입고 부상당했습니다.
 str_quest_log_updated|임무 기록이 갱신되었습니다.
-str_banner_selection_text|당신은 깃발을 소유할 수 있게 되었습니다. 당신의 깃발은 당신의 지위를 나타내고 당신에게 명예를 가져다줄 것입니다. 어떤 깃발이 마음에 드나요?
-str_retirement_text_1|당신의 돈이 오래가지 못한다는 것을 깨닫는 데 너무 오래 걸렸습니다. 아끼려 노력했음에도 재산을 전부 쓰는 데는 오래 걸리지 않았습니다. 그리고 모험을 다시 시작하기 위한 몇 번의 무모한 시도에도 불구하고 가난한 생활을 계속할 수밖에 없었습니다. 당신은 {s9}에서 완전히 거지가 되었고, 교회의 구호품과 기부금으로 살아가게 되었습니다.
-str_retirement_text_2|당신의 돈이 오래가지 못한다는 것을 깨닫는 데 너무 오래 걸렸습니다. 아끼려 노력했음에도 재산을 전부 쓰는 데는 오래 걸리지 않았습니다. 당신 손에서 페닝이 사라질 때마다, {s9}의 뒷골목에서 범죄자의 길을 걸을 수 밖에 없었으며, 당신의 기술을 이용해 여자들과 가난한 마을 사람들로부터 동전들을 훔치며 살아가게 되었습니다.
-str_retirement_text_3|당신의 돈이 오래가지 못한다는 것을 깨닫는 데 너무 오래 걸렸습니다. 아끼려 노력했음에도 재산을 전부 쓰는 데는 오래 걸리지 않았습니다. 그리고 당신은 빈털터리 방랑자가 되었으며, 선술집들을 오가며 더 이상 믿는 사람도 없는 전쟁 이야기로 순진한 손님들을 꾀어 술이나 얻어 마시며 살아가게 되었습니다.
-str_retirement_text_4|당신이 모아놓은 돈은 오래가지 못했지만, {s7} 근처에 위치한 약간의 땅을 살 돈은 되었습니다. 그 곳에서 농부가 되었고, {reg59?남편:부인}을 만나 결혼도 하게 되었습니다. 마을 사람들은 당신을 그 지역의 영웅으로 받들어 존경하게 되었고, 축제 때마다 당신의 업적은 선술집들에서 계속 이야기되어 아이들은 영원히 당신의 이야기를 기억할 것입니다.
-str_retirement_text_5|당신이 모아놓은 돈은 오래가지 못했지만, {s9}에 있는 작은 선술집을 사기에는 충분했습니다. 처음에 마을 사람들은 당신을 경계했지만 곧 당신을 받아들이게 되었습니다. 당신의 선술집은 연회장과 회담장으로 유명해지게 되었고, 당신의 모험에 대한 서사시가 유명해짐에 따라 사람들은 멀리에서도 식사와 잠자리를 위해 찾아오게 되었습니다.
-str_retirement_text_6|당신은 모험하는 동안 현명하게 절약하였고, 당신의 돈과 지혜를 통해 미래를 탄탄하게 할 훌륭한 투자를 하게 되었습니다. {s9}에서 몇 개의 상점과 창고들을 사들인 뒤에, 당신의 통찰력 덕분에 당신은 마을에서 가장 뛰어난 상인이 되었고, 곧 전투에서의 업적만큼이나 무역 제국을 이끄는 부유한 {reg59?여자:남자}로 이름을 날리게 되었습니다.
-str_retirement_text_7|비록 작지만 땅을 가지고 있는 귀족으로서 당신의 미래는 탄탄했습니다. {s7}에 정착하여, 마을과 땅들을 관리하고, 지역 재판에서 판결을 내리고, 당신의 군주에 대한 의무를 다하게 되었습니다. 종종 당신의 군주는 당신을 소집하여 작전에 참가할 것을 명령했지만, 그것은 잠깐이었고, 당신의 젊은 날과 같이 완전한 모험의 세계로 당신을 몰아가지는 않았습니다. 당신은 이미 당신의 운명을 결정지었습니다. 당신의 집과 땅들로 개인적인 부와 만족스럽진 못하지만 당신의 땅에서의 수입 등 원하는 몇 가지를 가질 수 있었습니다.
-str_retirement_text_8|당신 자신이 스스로 훌륭한 일을 해냈다는 것에는 의심할 여지가 없었습니다. 당신의 값진 영지들과 여행에서 쌓은 부는 당신의 여생을 편히 살 수 있게 해 주었습니다. {s8}에서 귀족의 자리에서 은퇴한 뒤, 당신은 정치의 세계에 입문했고, 당신 군주의 왕국에서 적지 않은 힘을 가진 사람이 되었습니다. 당신 소유의 숲에서 사냥을 하고, 연회를 개최하고, 당신은 연회에서 수많은 전쟁 이야기들을 하며 바쁜 나날을 보냈고, 이후 몇 년간 당신은 세상의 관심사가 되었습니다.
-str_retirement_text_9|당신의 능력과 충성에 대한 보답으로, 당신의 군주는 당신이 왕국에서 주요 귀족 사회로 들어갈 수 있는 세습되는 직위를 받을 것이라고 공표했습니다. 곧 당신은 {s7}의 남작으로 임명되었고, 당신 군주의 가까운 조언자이며 부관이 되었습니다. 당신의 명성은 정치적임 힘과 영향력을 가져다 주었습니다. 당신은 이제 권력을 위한 게임을 즐기고, 거대한 영지를 관리하며, 지난 날의 모험과 영광을 되새기며 시간을 보내고 있습니다.
-str_retirement_text_10|비록 당신이 보잘 것 없이 시작했지만, 당신의 군주는 당신을 높이 평가하였고, 당신을 세습되는 직위인 {s9}의 {reg59?백작부인:백작}으로 임명했을 때, 왕국에는 충격의 물결이 스쳐 지나갔습니다. 광대한 영지와 재물은 이제 당신의 발 아래 놓였습니다. 당신은 빠르게 당신 군주의 가장 신임하는 조언자가 되었고, 거의 그와 동등하게 왕국을 운영하게 되었습니다, 그리고 브리튼과 에리우의 가장 강력한 존재 중의 하나로 당신의 찬란한 성에서 왕좌에 앉게 되었습니다.
-str_loot_village|순진한 주민들을 공격한 상황.
-str_steal_from_villagers|가난한 주민들을 약탈한 상황.
-str_rob_caravan|상단을 습격한 상황
-str_sell_slavery|사람을 노예로 팔아넘기는 상황.
-str_men_hungry|병사에게 제공할 식량이 고갈된 상황
-str_men_unpaid|병사의 수당을 지불할 수 없는 상황.
-str_excessive_casualties|전투에서 우리에게 많은 사상자가 일어난 상황.
-str_surrender|적에게 항복한 상황.
-str_flee_battle|전투에서 도망치는 상황.
-str_pay_bandits|일반적인 도적들에게 돈을 지불함
-str_fail_quest|수락한 임무를 실패한 상황.
+str_banner_selection_text|당신에게 깃발을 사용할 권리가 수여되었습니다. 깃발은 당신의 지위를 상징하며 명예를 드높여 줄 것입니다. 어떤 문장을 선택하시겠습니까?
+str_retirement_text_1|당신의 돈이 오래가지 못한다는 사실을 너무 늦게 깨달았습니다. 아껴둔 돈을 탕진하는 데는 오래 걸리지 않았고, 모험을 다시 시작하려던 몇 번의 절박한 시도도 실패로 돌아갔습니다. 결국 당신은 {s9}의 거지가 되어 교회의 구제금과 자비에 의지해 살아가게 됩니다.
+str_retirement_text_2|당신의 돈이 오래가지 못한다는 사실을 너무 늦게 깨달았습니다. 아껴둔 돈을 탕진하는 데는 오래 걸리지 않았습니다. 마지막 페닝 한 푼까지 수중에 사라지자, 당신은 {s9}의 뒷골목에서 범죄의 길을 걷게 됩니다. 당신의 기술은 이제 아낙네나 가난한 마을 사람들에게서 동전 몇 닢을 털어 연명하는 데 쓰일 뿐입니다.
+str_retirement_text_3|당신의 돈이 오래가지 못한다는 사실을 너무 늦게 깨달았습니다. 아껴둔 돈을 탕진하는 데는 오래 걸리지 않았고, 결국 빈털터리 방랑자가 되어 선술집을 전전하게 됩니다. 이제는 아무도 믿지 않는 무용담을 늘어놓으며 너그러운 손님들에게 술이나 얻어 마시는 신세가 되었습니다.
+str_retirement_text_4|모아둔 은화가 넉넉하진 않았지만, {s7} 마을 근처에 땅을 사기에는 충분했습니다. 그곳에서 농부가 된 당신은 곧 배우자를 맞이하게 됩니다. 시간이 흐르며 마을 사람들은 귀하를 지역의 영웅으로 대접합니다. 연회에서는 항상 상석에 앉게 되며, 당신의 공적은 선술집에서 끊임없이 회자되어 아이들의 기억 속에 영원히 남을 것입니다.
+str_retirement_text_5|모아둔 은화가 넉넉하진 않았지만, {s9}에 작은 선술집 하나를 차릴 정도는 되었습니다. 처음에는 현지인들이 경계했지만 곧 그들의 일원으로 받아들여집니다. 당신의 선술집은 유명한 연회장이자 모임 장소가 되었습니다. 당신의 명성과 모험 시절의 서사시를 듣기 위해 수많은 이들이 멀리서도 찾아와 머물다 갑니다.
+str_retirement_text_6|모험가 생활 동안 현명하게 저축한 덕분에, 이제 그 은화와 지혜로 미래를 위한 훌륭한 투자를 할 수 있게 되었습니다. {s9}에서 여러 상점과 창고를 사들인 당신은 영리한 수완을 발휘해 마을에서 가장 저명한 상인이 됩니다. 곧 당신은 전장의 무용담만큼이나 거대한 무역 제국을 일군 부유한 {reg59?여인:남성}으로 이름을 떨칩니다.
+str_retirement_text_7|봉토를 가진 귀족으로서 당신의 미래는 보장된 것이나 다름없습니다. {s7}의 요새에 정착하여 마을과 들판을 관리하고, 지방 법원을 주재하며 주군에 대한 의무를 다합니다. 가끔 주군이 소집령을 내려 원정을 지휘하기도 하지만, 그것은 잠깐이었고, 예전처럼 완전한 모험의 길로 돌아가지는 않습니다. 이미 충분한 부를 쌓았으며, 당신의 홀과 영지에서 나오는 수입은 당인이 원하는 모든 것을 충족시켜 줍니다.
+str_retirement_text_8|당신이 자수성가했다는 사실에는 의심의 여지가 없습니다. 광활한 영지와 모험으로 쌓은 부는 남은 생애 동안 풍족하고 안락한 삶을 보장합니다. {s8}의 영지로 은퇴한 당신은 모험 대신 정치의 세계에 발을 들였고, 곧 주군의 왕국에서 상당한 권력자로 자리매김합니다. 권력 싸움과 숲에서의 사냥, 연회장에서 들려주는 수많은 무용담과 함께 당신은 남은 세월을 보람차게 보냅니다.
+str_retirement_text_9|유능하고 충성스러운 봉사에 대한 보답으로, 주군은 당신에게 세습 작위를 수여하여 왕국의 주요 귀족 반열에 올립니다. 곧 {s7}의 영주로서 작위를 마친 당신은 주군의 핵심 측근이자 부관이 됩니다. 당신의 명성은 노골적인 정치 권력뿐만 아니라 은밀한 영향력까지 가져다줍니다. 이제 당신은 권력 게임을 즐기고, 거대한 봉토를 관리하며, 지난날의 모험과 영광을 회상하며 소일합니다.
+str_retirement_text_10|미천한 신분으로 시작했음에도 주군은 당신을 매우 높게 평가했습니다. 그가 당신을 {s9}의 세습 {reg59?공작부인:공작}으로 임명했을 때 왕국 전체에 충격이 가시지 않았습니다. 이제 광활한 봉토와 재산이 당신의 손안에 있습니다. 당신은 주군이 가장 신뢰하는 고문이 되어 사실상 그와 대등하게 왕국을 통치합니다. 당신은 브리타니아와 하이베르니아의 가장 강력한 인물 중 하나로서 화려한 궁전의 왕좌에 앉아 있습니다.
+str_loot_village|무고한 사람들을 공격함
+str_steal_from_villagers|가난한 이들의 물건을 훔침
+str_rob_caravan|상단을 습격함
+str_sell_slavery|사람들을 노예로 팔아넘김
+str_men_hungry|식량이 바닥남
+str_men_unpaid|급료를 지불하지 못함
+str_excessive_casualties|전투에서 우리에게 많은 사상자가 발생함
+str_surrender|적에게 항복함
+str_flee_battle|전장에서 도망침
+str_pay_bandits|도적들에게 상납함
+str_fail_quest|명예를 걸고 수락한 임무를 실패함
 str_treason_one|명예
 str_missed_npc|실패.
-str_squander_money|맡은 돈을 뗴어먹은 상황.
-str_murder_merchant|의뢰를 받아 청부살인한 상황.
-str_round_up_serfs|귀족을 위해 농노들을 붙잡아 넘긴 상황.
-str_battle_fate_1|전쟁의 열기에서 분리됨
-str_battle_fate_2|부상을 당했고 죽기위해 내버려짐
-str_battle_fate_3|적에 의해 정신을 잃고 쓰러짐
-str_battle_fate_4|몸값을 받아서 가지고 있음
-str_battle_fate_5|붙잡혔지만 나중에 도망침
-str_npc_morale_report|저는 당신이 동료를 선택하는 것은 {s6}이고, 당신의 지휘 방식은 보통 {s7}이며, 일반적인 사건의 상태는 대부분 {s8}입니다.
+str_squander_money|신탁받은 돈을 탕진함
+str_murder_merchant|냉혹한 살인에 가담함
+str_round_up_serfs|귀족을 대신해 농노들을 사로잡음
+str_battle_fate_1|전투의 혼란 속에 흩어짐
+str_battle_fate_2|부상을 입고 죽도록 내버려짐
+str_battle_fate_3|적에게 맞아 정신을 잃음
+str_battle_fate_4|몸값을 위해 붙잡힘
+str_battle_fate_5|포로가 되었으나 나중에 탈출함
+str_npc_morale_report|동료 선택은 {s6}이며, 지휘 방식은 {s7}이고, 전반적인 상황은 {s8}입니다.
 str_happy|행복함
 str_content|만족함
 str_concerned|걱정됨
@@ -374,52 +374,52 @@ str_bar_miserable|  비참한
 str_here_plus_space|여기 
 str_npc1_intro|안녕하시오, 장군. 내 이름은 카이오라고 하오. 내 아버지가 나를 보냈소.
 str_npc2_intro|안녕하십니까! 나는 에길입니다.
-str_npc3_intro|{reg59?누가 당신을 보낸 거죠? 당신이 있던 곳으로 돌아 가요!:나에게 가까이 오지 마요, 나는 내 길을 가로막는 사람들 때문에 너무 피곤해요!}
+str_npc3_intro|{reg59?누가 당신을 보낸 거죠? 나는 절대 돌아가지 않겠어요!:가까이 오지 마세요, 마주치는 사람마다 괴롭힘 당하는 것에도 신물이 났어요!}
 str_npc4_intro|무슨 일이오?
 str_npc5_intro|안녕하시오, 여행자여. 나와 술이라도 함께 마시겠소?
 str_npc6_intro|나는 당신에게 할 말이 있소, 잘 들으시오.
 str_npc7_intro|네, 무슨일이죠? 그런데 너무 가까이 다가오신것 같네요.
 str_npc8_intro|무엇을 원하시오?
-str_npc9_intro|여기 있었군, 이 사람! 내게 한 잔 더 사줄 정도로 친절할 거라고 생각하는데, 괜찮소?
-str_npc10_intro|하나님께서 당신과 함께 하시길, {reg59?부인:경}! 모든 웨일즈인들의 몰락과 파멸이 오길!
+str_npc9_intro|이보시오, 거기 {reg59?부인:선생}.! 내게 한 잔 더 사주는 친절을 베풀어 주시겠소?
+str_npc10_intro|하나님께서 당신과 함께 하시길, {reg59?부인:선생}! 모든 웨일스 놈들의 파멸과 몰락을 위하여!
 str_npc11_intro|안녕하세요, {reg59?예쁘신 분:잘 생긴 분}. 한동안 당신을 지켜보고 있었어요.
 str_npc12_intro|안녕하시오, {reg59?부인:선생}. 만나서 반갑소.
 str_npc13_intro|무슨 일이시오? 내게 원하는게 있소?
-str_npc14_intro|안녕하시오, 여행자여. 나는 게일 전사 에일츠라고 하오. 의심의 여지 없이, 나에 대해 들어 보았을 거라 생각하오.
-str_npc15_intro|이보시오! 이보시오! 안녕하시오, {reg59?부인:선생}. 나는 아가티노스요. 이 곳에서 우리가 이 순간에 만났다는 것이 우연이 아니라고 생각하지 않소?
+str_npc14_intro|안녕하시오, 여행자여. 나는 게일 전사 에일츠라고 하오. 나에 대한 소문은 익히 들었으리라 믿소.
+str_npc15_intro|이보시오! 이보시오! 당신의 건강을 빌겠소, {reg59?부인:선생}. 나는 아가티노스요. 혹시 조만간 이곳을 떠날 계획이 있으시오?
 str_npc16_intro|아... 당신... 나는...
 str_npc1_intro_response_1|그래, 알겠소. 당신에 대해 말해 보시오.
 str_npc2_intro_response_1|얘기해보시오, 에길.
-str_npc3_intro_response_1|진정하시오, 나는 당신에게 해를 끼칠 생각이 없소. 당신은 무엇을 두려워하고 있는 것이오?
-str_npc4_intro_response_1|당신은 매우 말수가 없어 보이는군, 안 그렇소?
-str_npc5_intro_response_1|물론, 나와 같이 술 마실 상대 이름 정도는 알아야 되지 않겠소?
-str_npc6_intro_response_1|계속하시오, 친구?
-str_npc7_intro_response_1|내 사과를 받아 주시오. 나는 단지 당신이 굴러들어온 행운을 집어던지는 것은 보고 싶지 않소.
-str_npc8_intro_response_1|나는 단지 하루 묵어가기 위해 여기 온 이방인일 뿐이오, 믿지 못한다면 내 약속하겠소.
-str_npc9_intro_response_1|나는 나와 다른 사람을 착각하고 있는 것 같지 않소, 선생.
-str_npc10_intro_response_1|당신은 왜 그런 말을 하시오, 선생?
-str_npc11_intro_response_1|당신은 누구이며, 왜 나를 지켜보고 있었던 것이오?
+str_npc3_intro_response_1|진정하시오, 나는 당신에게 해를 끼칠 생각이 없소. 무엇을 두려워하고 있는 것이오?
+str_npc4_intro_response_1|당신은 말수가 없어 보이는군, 안 그렇소?
+str_npc5_intro_response_1|좋지. 누구와 술을 마시는 영광을 누리게 된 것인지 알려주겠소?
+str_npc6_intro_response_1|계속하시오, 친구.
+str_npc7_intro_response_1|내 사과를 받아 주시오. 그저 형편이 좀 안 좋아 보이길래 말을 걸려던 것뿐이었소.
+str_npc8_intro_response_1|그저 시간을 좀 떼우려던 것이오, 외국인 친구. 다른 용무가 있는 게 아니라면 말이오.
+str_npc9_intro_response_1|사람을 잘못 보신 모양이오.
+str_npc10_intro_response_1|왜 그렇게 말하시오?
+str_npc11_intro_response_1|당신이 누구시길래 나를 지켜보고 있었던 것이오?
 str_npc12_intro_response_1|나도 만나서 반갑소.
-str_npc13_intro_response_1|하루쯤은 다른 여행자와 같이 시간을 보내도 되지 않겠소, 당신이 허락한다면 말이오.
+str_npc13_intro_response_1|다른 여행자와 시간을 보내는 것도 좋지 않소, 당신이 허락한다면 말이오.
 str_npc14_intro_response_1|음... 들어본 적이 없는 것 같소.
-str_npc15_intro_response_1|내 어떤 것이 당신의 관심을 끌었는 지, 물어봐도 되겠소?
-str_npc16_intro_response_1|당신은 혀가 꼬였소?
-str_npc1_intro_response_2|음, 당신이 나에게 합류하고 싶다는 건 알았소, 하지만 나는 당신이 필요하지 않소. 그럼 이만.
-str_npc2_intro_response_2|나는 다른 중요한 일이 있소.
-str_npc3_intro_response_2|이제 가보는 게 어떻소, 레이디. 나는 할 일이 있고, 나는 당신이 두렵게 생각하든 무엇이든 당신에 대한 어떤 일도 할 생각이 없소.
+str_npc15_intro_response_1|그렇소만, 그것이 당신과 무슨 상관인지 물어봐도 되겠소?
+str_npc16_intro_response_1|혀라도 꼬인 것이오?
+str_npc1_intro_response_2|음, 그가 당신을 내게 보내려 한다는 것은 알겠소만, 나는 당신이 필요하지 않소. 그럼 이만.
+str_npc2_intro_response_2|나는 더 중요한 일이 있소.
+str_npc3_intro_response_2|이제 가보는 게 어떻소, 소녀여. 나는 할 일이 있소. 당신이 걱정하는 그런짓은 하지 않을 것이오.
 str_npc4_intro_response_2|아무것도 아니오.
-str_npc5_intro_response_2|나는 그럴 시간이 없소.
-str_npc6_intro_response_2|나는 다른 중요한 일이 있소.
+str_npc5_intro_response_2|그럴 시간이 없소.
+str_npc6_intro_response_2|나는 더 중요한 일이 있소.
 str_npc7_intro_response_2|알겠소, 그럼 당신을 귀찮게 하지 않겠소.
 str_npc8_intro_response_2|아무 것도 아니오, 당신은 농담이 별로 내키지 않나 보군. 그럼 잘 있으시오.
-str_npc9_intro_response_2|술은 당신이 가진 돈으로 사시오!
-str_npc10_intro_response_2|자주 들었던 말이고, 나는 그 말을 전혀 듣고 있지 않소. 그럼 잘 있으시오.
+str_npc9_intro_response_2|술은 직접 가져다 드시오!
+str_npc10_intro_response_2|오만한 소리군. 더 듣고 싶지 않소. 잘 가시오.
 str_npc11_intro_response_2|오, 나는 그럴 시간이 없소!
 str_npc12_intro_response_2|미안하오, 나는 지금 해야만 하는 일이 있소.
-str_npc13_intro_response_2|아무 것도 아니오, 내 사과하겠소.
+str_npc13_intro_response_2|아무것도 아니오, 내 사과하겠소.
 str_npc14_intro_response_2|못들어봤소. 그다지 당신과 친해지고 싶단 생각이 들지 않는구려.
-str_npc15_intro_response_2|당신의 사업 파트너는 다른 사람을 알아 보시오, 샌님 같으니라고.
-str_npc16_intro_response_2|나는 가겠소, 당신은 먼저 말 부터 배워야 할 것 같군.
+str_npc15_intro_response_2|남의 일에 참견하지 말아 주셨으면 좋겠소, 선생.
+str_npc16_intro_response_2|가겠소. 말부터 제대로 배우고 나서 다시 알려주시오.
 str_npc1_backstory_a|장군, 나는 늙은 로마인의 막내 아들이오. 당신도 알다시피 우리 가족은 이 지역의 전설이나 다름 없소. 우리는 하드리아누스의 장벽을 순찰했던 우리의 옛 조상들의 역사를 보존해왔소.
 str_npc2_backstory_a|잠깐이면 됩니다, {reg59?부인:경}. 내 이야기를 들어보세요. 나는 당신에게 중요한 사람입니다.
 str_npc3_backstory_a|미... 미안해요. 하지만, 부디 이해해주세요, 내가 켄네머의 야를의 집의 시종이 된 뒤로, 내 인생은 지옥과도 같았어요.
