@@ -3469,9 +3469,9 @@ dlga_lord_mission_tell_raid_caravan_to_start_war_5:quest_raid_caravan_to_start_w
 dlga_quest_raid_caravan_to_start_war_accepted:close_window|좋소! 상단을 습격하고, 그것이 힘들다면 속임수를 써서라도 그들의 마을을 공격하시오. 자, 행운과 좋은 먹잇감이 있기를! 이제 국경을 넘으러 가시오.
 dlga_quest_raid_caravan_to_start_war_rejected_1:lord_pretalk|아, 당신도 그렇게 생각하시오? 그러나 값비싼 당신의 평화가 얼마나 가겠소? 멀지 않았소, 날 믿으시오.
 dlga_quest_raid_caravan_to_start_war_rejected_2:lord_pretalk|당신이 원하는 대로 하시오, {playername}. 나는 당신 마음 속에도 온통 전쟁으로 가득 찼을 거라고 생각했었는데, 내 짐작이 틀렸나 보군.
-dlga_lord_tell_mission:lord_mission_told.3|내 병사들 몇몇이 최근 접전에서 적에게 잡혔다오. 다행스럽게도 포로 교환에 적과 이야기가 통했네만, 비슷한 직급이면서 동일한 수여 야만 한다는 조건을 달았다네. 하지만 현재 나한테는 그만한 포로가 있지 않지...  그래서, 나 대신 {reg1} {s3}명의 포로를 잡아다 줄 {reg59?전사가:사람이} 필요하다네.
-dlga_lord_tell_mission:lord_tell_mission_follow_spy|이 작은 도시에 적의 밀정이 있다는 좋은 정보를 가지고 있소. 그를 잡아서 그의 뻔뻔스러운 행동에 대해 물은 뒤, 교수형에 처해야 하오. 하지만 우리는 그가 가까운 시일내에 그의 주인과 접촉해서 그가 모은 정보를 전달할 것이라 믿고 있소. 밀정은 크게 중요하지 않소. 하지만, 그 주인이라는 자는 매우 위험한 자일세. 그리고 만약, 그 자를 잡아 나에게 넘겨준다면 그것은 좋은 일이 될 것이오.
-dlga_lord_tell_mission_follow_spy:lord_tell_mission_follow_spy_2|나는 당신이 밀정이 도시를 떠날 때까지 기다려주길 바라오. 그가 떠나면 은밀하게 약속장소로 그를 미행하시오. 당신은 반드시 밀정이 의심스럽고 더러운 짓을 할 때까지, 그가 눈치 채지 못하게 행동해야 하오. 그들의 주인이 모습을 나타냈을 때, 매복 공격을 통해 그들을 잡아 나에게 돌아오시오. 잊지 마시오, 그들을 반드시 살려서 잡아와야 하오.
+dlga_lord_tell_mission:lord_mission_told.3|{s4}의 농장에서 일하던 농노 몇몇이 도망쳤소. 배은망덕한 놈들, 내 땅을 갈게 해주고 오두막까지 빌려줬는데 이렇게 보답하다니! 들리는 바로는 놈들이 빠르게 {s3}(으)로 도망치고 있으며, 추적을 피하려고 세 갈래로 나뉘었다더군. 수단과 방법을 가리지 말고 세 무리를 모두 잡아 {s4}(으)로 압송해오시오. 탈영 죄로 교수형에 처해야 마땅하나, 곧 수확기라 일손이 필요하니 이번에는 매질 정도로 끝내줄 생각이니 말이오.
+dlga_lord_tell_mission:lord_tell_mission_follow_spy|이 도시에 적의 밀정이 있다는 확실한 정보가 있소. 괘씸한 죄를 물어 당장 잡아다 교수형에 처해야겠으나, 조만간 그가 주인과 접촉해 수집한 정보를 넘길 것으로 예상하고 있소. 밀정 자체는 별거 아니지만, 그 배후는 매우 위험한 자일게요. 그자를 사로잡아 내게 데려온다면 큰 도움이 될 것이오.
+dlga_lord_tell_mission_follow_spy:lord_tell_mission_follow_spy_2|자네는 밀정이 도시를 떠날 때까지 기다리시오. 그가 움직이면 약속 장소까지 은밀히 미행하시오. 도중에 밀정의 눈에 띄면 의심을 사거나 발길을 돌릴테니 그가 눈치 채지 못하도록 각별히 주의해야 할 것이오. 배후가 나타나면 매복해 있다가 두 놈을 모두 체포해 내게 데려오시오. 잊지 마시오, 반드시 그놈들을 산채로 잡아와야 하오.
 dlga_lord_tell_mission_follow_spy_2:lord_tell_mission_follow_spy_accepted|그렇게 하겠소, {s65}.
 dlga_lord_tell_mission_follow_spy_2:lord_tell_mission_follow_spy_rejected|싫소, 몰래 숨어 다니는 건 나와 맞지 않소.
 dlga_lord_tell_mission_follow_spy_accepted:close_window|좋소, 당신에게 좋은 일이 될 거요. 내 부하 중 하나가 밀정이 떠날 때를 알려줄 것이오, 그러면 당신이 그를 미행하기 시작하면 될 것이오. 명심하시오! 나는 당신이 그들을 둘 다 살려서 잡아오기를 바라고 있소.

@@ -8,10 +8,10 @@ str_s5_s_party|{s5}의 부대
 str_given_by_s1_at_s2|{s1}이(가) {s2}에게 넘겼습니다.
 str_given_by_s1_in_wilderness|필드에 있는 동안 {s1}에게 주어졌습니다
 str_s7_raiders|{s7}의 강도들
-str_bandits_eliminated_by_another|문제를 일으킨 강도들은 다른 부대에 의해 전멸당했습니다.
-str_msg_battle_won|전투에서 승리했습니다! TAB키를 누르면 나갈 수 있습니다.
-str_tutorial_map1|당신은 지금 전체 지도를 보고 있습니다. 지면, 마을 및 다른 부대를 왼쪽 마우스 버튼으로 클릭하면 이동할 수 있습니다.^당신의 부대가 멈추면 시간도 멈추게 됩니다. 아무 곳에서 나 머무르기 위해선 스페이스 바를 누르면 됩니다.^멈춰 선 상태에서 세이브를 하시려면 Esc를 눌러 저장을 누르시거나 F12를 눌러 빠른 저장을 할 수 있습니다.^^바이킹 컨퀘스트에 오신 걸 환영합니다!
-str_tutorial_map11|충분한 군사를 모았습니다. 야를에게로 돌아가세요.
+str_bandits_eliminated_by_another|말썽을 피우던 강도들은 다른 부대에 의해 소탕되었습니다.
+str_msg_battle_won|전투에서 승리했습니다! (TAB 키를 눌러 나가십시오)
+str_tutorial_map1|당신은 지금 전체 지도를 보고 있습니다. 지면이나 마을을  클릭하여 부대를 이동시키거나, 다른 부대를 클릭하여 추격할 수 있습니다.^부대가 이동, 대기, 혹은 휴식 중이 아닐 때는 지도의 시간이 정지합니다. 어디서든 대기하려면 스페이스 바를 길게 누르십시오.^지금이 게임을 저장하기 좋은 때입니다! Esc 키를 눌러 '다른 이름으로 저장'을 선택하거나 F12 키를 눌러 빠른 저장을 하십시오.^^행운을 빕니다!
+str_tutorial_map11|이제 충분한 병력을 갖추었습니다. 야를에게 돌아가 다음 지시를 받으십시오.
 str_randomize|무작위로 고르기
 str_charge|문장
 str_color|색상
@@ -20,15 +20,15 @@ str_flip_vertical|좌우 뒤집기
 str_hold_fire|사격 중지
 str_blunt_hold_fire|둔기 / 사격 중지
 str_tutorial_ammo_refilled|무기가 재장전되었습니다.
-str_tutorial_failed|실패했지만 괜찮습니다. 안내를 잘 따르면 다음에는 더 잘할 수 있을 겁니다. Tab 키를 눌러 메뉴로 돌아가서 튜토리얼을 다시 시도할 수 있습니다.
-str_tutorialmq_1_msg_1|이번 튜토리얼에서는 기본적인 움직임, 상호작용, 전투에 대해 알아보겠습니다. ^^바이킹 컨퀘스트에서는, 마우스를 이용하여 시점을 조정하고, 키보드의 W, A, S, D를 이용하여 움직일 수 있습니다. 그럼 첫번째 목표는... ^^목표: 보트의 가운데로 가세요.
-str_tutorialmq_1_msg_2|잘했습니다. 다음으로는 물체와 사람과의 상호 작용하는 방법에 대해 알아보겠습니다. 당신의 근처에 보도라고 불리는 사람이 있습니다. 그를 찾아 그의 이름창이 뜰 때까지 다가가세요. 그다음 보도와 이야기하기 위해서는 F 키를 누르면 됩니다. ^^F 키를 누르면 보도와 상호 작용을 하면서 화면이 바뀔 것입니다. 문을 열거나 상자를 열거나 기타 다른 상호 작용도 같은 원리로 동작합니다. ^^목표: 보도와 이야기하세요.
-str_tutorialmq_1_msg_3|훌륭합니다. 다음으로는 무기로 공격하는 방법을 알아보겠습니다. ^^마우스 휠을 위로 굴리거나 키보드의 숫자 버튼을 눌려 무기를 선택할 수 있습니다. ^^무기를 든 채로 마우스 왼쪽 버튼을 클릭하면 해당 무기로 공격을 할 수 있습니다. 왼쪽 버튼을 누른 채 기다리면 공격 자세를 취하고 있다가, 버튼을 놓으면 공격할 것입니다. 왼쪽 버튼을 누르고 있다가 공격을 하게 되면, 좀 더 강력한 공격을 할 수 있습니다. ^^마우스 스크롤을 내리거나 숫자 버튼을 이용하면 방패를 들거나 넣을 수 있습니다. ^^목표: 전투 연습을 위해 워든 릭 선원장과 이야기하세요.
-str_tutorialmq_1_msg_4|잘했습니다! 당신은 이제 바이킹 컨퀘스트를 즐기기 위한 기초적인 조작을 전부 습득했습니다. 이제 당신은, NPC들과 이야기, 해상에서 전투도 할 수 있게 되었습니다. 모험을 떠날 준비가 되었다면 선장과 이야기하세요.
+str_tutorial_failed|이번에는 패배했지만 걱정 마십시오. 안내를 주의 깊게 따르면 다음에는 더 잘할 수 있을 것입니다. Tab 키를 눌러 메뉴로 돌아가 튜토리얼을 다시 시도할 수 있습니다.
+str_tutorialmq_1_msg_1|이 튜토리얼에서는 기본적인 이동, 상호작용, 그리고 전투에 대해 배웁니다.^^바이킹 컨퀘스트에서는 마우스로 시점을 조절하고, 키보드의 W, A, S, D 키로 이동합니다. 첫 번째 과제는...^^목표: 배의 중앙으로 이동하십시오.
+str_tutorialmq_1_msg_2|잘했습니다. 다음은 사물 및 인물과 상호작용하는 법을 배우겠습니다. 근처에 '보도'라는 남자가 있습니다. 인물을 확인하려면 이름이 뜰 때까지 가까이 다가가십시오. 보도를 찾은 뒤 대화하려면 F 키를 누르십시오.^^F 키는 인물 및 장면 소품과 상호작용할 때 사용합니다. 문이나 상자를 열고, 아이템을 줍는 등 다양한 동작이 가능합니다.^^목표: 보도와 대화하십시오.
+str_tutorialmq_1_msg_3|훌륭합니다. 다음은 무기 공격을 다루겠습니다.^^마우스 휠을 위로 굴리거나 숫자 키패드의 1~4번 키를 눌러 무기 슬롯에서 다른 무기를 꺼낼 수 있습니다.^^현재 장착한 무기로 공격하려면 마우스 왼쪽 버튼을 사용하십시오. 버튼을 길게 눌러 공격 자세를 취한 뒤, 버튼을 떼면 휘두릅니다. 버튼을 잠시 유지했다가 떼면 더욱 강력한 공격이 가능합니다.^^휠을 아래로 굴리거나 숫자 키패드를 사용하여 방패를 들거나 집어넣으십시오.^^목표: 워든 릭 선원장과 대화하여 전투를 연습하십시오.
+str_tutorialmq_1_msg_4|잘하셨습니다! 이제 바이킹 컨퀘스트의 기본적인 조작법을 모두 익혔습니다. 이제 탐험을 하거나, NPC와 대화하거나, 선원들과 전투를 벌일 수 있습니다. 준비가 되면 선장과 대화하여 모험을 계속하십시오.
 str_finished|(완료)
-str_delivered_damage|{reg60}만큼의 타격을 입혔다.
+str_delivered_damage|{reg60}의 피해를 입혔습니다.
 str_archery_target_hit|거리: {reg61} 야드. 점수: {reg60}
-str_use_baggage_for_inventory|전투 중 가방을 사용하기 위해서는 상자를 이용해야 합니다. (상자는 전투 시작 지점에 있습니다)
+str_use_baggage_for_inventory|전투 중 소지품 창에 접근하려면 보급품 상자를 이용하십시오. (시작 지점에 위치함)
 str_cant_use_inventory_now|지금은 가방을 사용할 수 없습니다.
 str_cant_use_inventory_arena|투기장에서는 가방을 사용할 수 없습니다.
 str_cant_use_inventory_disguised|변장한 상태에서는 가방을 사용할 수 없습니다.
@@ -47,58 +47,58 @@ str_september_reg1_reg2|{reg2}년 9월 {reg1}일
 str_october_reg1_reg2|{reg2}년 10월 {reg1}일
 str_november_reg1_reg2|{reg2}년 11월 {reg1}일
 str_december_reg1_reg2|{reg2}년 12월 {reg1}일
-str_town_nighttime| 늦은 밤이 되어 사람들이 거리를 떠났습니다.
-str_door_locked|문이 잠겨 있다.
-str_castle_is_abondened|성이 비어있는 것 같다.
+str_town_nighttime| 늦은 밤이 되어 정직한 사람들은 거리를 떠났습니다.
+str_door_locked|문이 잠겨 있습니다.
+str_castle_is_abondened|요새가 비어 있는 것 같습니다.
 str_town_is_abondened|도시에는 적을 막아낼 수비 병력이 없습니다.
 str_place_is_occupied_by_player|당신의 병력에 의해 점령된 곳
 str_place_is_occupied_by_enemy|적대적인 병력에 의해 점령된 곳
 str_place_is_occupied_by_friendly|우호적인 병력에 의해 점령된 곳
-str_do_you_want_to_retreat|정말 퇴각할 것입니까?
-str_give_up_fight|전투를 포기할 것입니까?
-str_do_you_wish_to_leave_tutorial|튜토리얼을 끝내겠습니까?
-str_do_you_wish_to_surrender|항복하겠습니까?
-str_can_not_retreat|근처에 적이 적이 있기 떄문에 퇴각할 수 없습니다.
+str_do_you_want_to_retreat|정말 퇴각하시겠습니까?
+str_give_up_fight|전투를 포기하시겠습니까?
+str_do_you_wish_to_leave_tutorial|튜토리얼을 종료하시겠습니까?
+str_do_you_wish_to_surrender|항복하시겠습니까?
+str_can_not_retreat|근처에 적이 있어 퇴각할 수 없습니다!
 str_s1_joined_battle_enemy|{s1}이(가) 적의 부대에 합류했습니다.
 str_s1_joined_battle_friend|{s1}이(가) 당신의 부대에 합류했습니다.
-str_entrance_to_town_forbidden|경비병들이 경비를 서고 있습니다. 아무 문제 없이 문을 통과하기란 불가능할 것 같습니다.
-str_sneaking_to_town_impossible|경비병들이 눈치챘습니다. 아무리 잘 변장하더라도 안으로 들어갈 수 없을 것입니다.
-str_battle_won|전투에서 승리하였습니다!
-str_battle_lost|전투에서 패배하였습니다!
-str_attack_walls_success|치열한 전투 후, 당신의 용감한 병사들이 적으로부터 성벽을 넘겨 받았습니다.
-str_attack_walls_failure|당신의 병사들은 성벽을 향해 돌격하였으나 추풍낙엽과 같이 쓰러졌고, 살아남은 일부 병사들은 패배하여 도망쳐 버리고 더 이상 보이지 않습니다.
-str_attack_walls_continue|치열한 전투는 계속되고 있고, 양쪽은 대등한 전투력으로 전투를 하고 있습니다. 계속되는 전투에도 불구하고, 요새는 아직 적의 손에 있습니다.
-str_order_attack_success|당신의 병사들은 용감하게 싸워 적을 격파했습니다.
-str_order_attack_failure|적군이 당신의 병사들을 죽여나갔고, 남은 병사들도 손쉽게 쓰러뜨리는 등 전투는 절망적으로 보입니다.
-str_order_attack_continue|장시간 전투에도 불구하고, 당신의 부대는 결정적인 승리를 이끌어 낼 수 없었습니다.
-str_join_order_attack_success|당신의 병력은 동맹군과 함께 잘 싸워 적군을 무찌른 영광을 함께 나누고 있습니다.
-str_join_order_attack_failure|적군이 당신의 병사들을 죽여나갔고, 남은 병사들도 손쉽게 쓰러뜨리는 등 전투는 절망적으로 보입니다.
-str_join_order_attack_continue|장시간 전투에도 불구하고, 당신의 부대는 결정적인 승리를 이끌어 낼 수 없었습니다.
-str_siege_defender_order_attack_success|노련한 수비병들은 성벽을 지키고 있으며, 적군의 공격을 막아내고 완벽히 패배시켰습니다.
-str_siege_defender_order_attack_failure|신속한 공격으로 인해 난전이 되었습니다. 용맹스런 노력에도 불구하고 우수한 수비병들은 성벽을 지킬 수 없었고, 적군은 마지막 수비병에게 칼을 꽃아 넣었습니다.
-str_siege_defender_order_attack_continue|사방에서 성벽을 향해 쳐들어오는 적군들을 연속적으로 막아냈습니다. 하지만 아직 적들에게는 많은 병력이 남아있습니다. 공성은 계속됩니다.
+str_entrance_to_town_forbidden|마을 경비병들이 침입자를 감시 중입니다. 검문 없이 성문을 통과하기는 어려워 보입니다.
+str_sneaking_to_town_impossible|마을 경비병들이 경계 중입니다. 어떤 변장을 하더라도 성문을 몰래 통과할 수 없을 것입니다.
+str_battle_won|전투에서 승리했습니다!
+str_battle_lost|전투에서 패배했습니다!
+str_attack_walls_success|치열한 전투 끝에, 귀하의 용맹한 병사들이 적의 성벽을 점령했습니다.
+str_attack_walls_failure|성벽으로 돌격하던 병사들이 추풍낙엽처럼 쓰러졌습니다. 생존자들은 패배하여 도망쳐 버려 다시는 모습을 볼 수 없게 되었습니다.
+str_attack_walls_continue|피비린내 나는 전투가 이어지며 양측이 대등하게 맞서고 있습니다. 아군의 노력에도 불구하고 이곳은 여전히 적의 수중에 있습니다.
+str_order_attack_success|병사들이 용맹하게 싸워 적을 물리쳤습니다.
+str_order_attack_failure|적이 아군을 베어 넘기고 소수의 생존자마저 손쉽게 쫓아버리는 처참한 광경을 지켜봅니다.
+str_order_attack_continue|장시간의 교전에도 불구하고 아군이 결정적인 승리를 거두지 못했습니다.
+str_join_order_attack_success|아군이 동맹군과 함께 잘 싸워주어, 적을 격파한 영광을 나누고 있습니다.
+str_join_order_attack_failure|적이 아군을 베어 넘기고 소수의 생존자마저 손쉽게 쫓아버리는 처참한 광경을 지켜봅니다.
+str_join_order_attack_continue|장시간의 교전에도 불구하고 아군과 동맹군 모두 적에게 결정적인 승리를 거두지 못했습니다.
+str_siege_defender_order_attack_success|수비병들이 노련한 기술과 용기로 성벽을 지켜내며 적의 공세를 꺾었습니다. 확실해 보였던 패배를 완벽한 승리로 바꾸어 놓았습니다.
+str_siege_defender_order_attack_failure|공성전은 순식간에 아수라장이 되었습니다. 수비대의 용맹한 노력도 수적인 열세를 극복하지 못하고 성벽을 빼앗깁니다. 적은 마지막 생존자까지 처단했습니다.
+str_siege_defender_order_attack_continue|성벽을 향한 피비린내 나는 시도가 반복적으로 실패했지만, 수비대가 완전한 승리를 선언하기에는 적의 병력이 너무 많이 남았습니다. 공성전이 계속됩니다.
 str_hero_taken_prisoner|{s3}의 {s1}은(는) {s2}에 의해 포로로 붙잡혔습니다.
-str_hero_freed|{s3}의 {s1}은(는} {s2}의 포로신세에서 자유롭게 되었습니다.
+str_hero_freed|{s3}의 {s1}은(는} {s2}의 포로신세에서 해방되었습니다.
 str_center_captured|{s2}은(는) {s3}의 {s1}을(를) 점령하였습니다.
 str_troop_relation_increased|{s1}와의 관계가 {reg1}에서 {reg2}(으)로 향상되었습니다.
 str_troop_relation_detoriated|{s1}와의 관계가 {reg1}에서 {reg2}(으)로 악화되었습니다.
-str_faction_relation_increased|{s1} 세력과의 관계가 {reg1}에서 {reg2}(으)로 향상되었습니다.
-str_faction_relation_detoriated|{s1} 세력과의 관계가 {reg1}에서 {reg2}(으)로 악화되었습니다.
-str_party_gained_morale|당신의 부대는 {reg1}의 사기를 얻었습니다.
-str_party_lost_morale|당신의 부대는 {reg1}의 사기를 잃었습니다.
-str_other_party_gained_morale|{s1}은(는) {reg1} 사기를 얻었습니다.
-str_other_party_lost_morale|{s1}은(는) {reg1} 사기를 잃었습니다.
-str_qst_follow_spy_noticed_you|밀정이 당신을 발견했습니다. 그는 당신에게서 도망치고 있습니다!
+str_faction_relation_increased|{s1} 세력과의 관계가 {reg1}에서 {reg2}(으)로 향상되었습니다.  {s2}
+str_faction_relation_detoriated|{s1} 세력과의 관계가 {reg1}에서 {reg2}(으)로 악화되었습니다.  {s2}
+str_party_gained_morale|부대의 사기가 {reg1}만큼 상승했습니다.
+str_party_lost_morale|부대의 사기가 {reg1}만큼 하락했습니다.
+str_other_party_gained_morale|{s1} 부대의 사기가 {reg1}만큼 상승했습니다.
+str_other_party_lost_morale|{s1} 부대의 사기가 {reg1}만큼 하락했습니다.
+str_qst_follow_spy_noticed_you|밀정이 당신을 발견했습니다! 그가 도망치기 시작합니다!
 str_duplicate|신부
 str_s3s_s2|{s3}의 {s2}
 str_s5_is_s51|{s5}은(는) {s51}.
 str_s5_is_the_ruler_of_s51|{s5}은(는) {s51}의 통치자입니다.
-str_s5_is_a_nobleman_of_s6|{s5}은(는) {s6}의 귀족입니다. 
-str_relation_mnus_100|복수심
-str_relation_mnus_90|복수심
-str_relation_mnus_80|증오
+str_s5_is_a_nobleman_of_s6|{s5}은(는) {s6}의 귀족입니다.
+str_relation_mnus_100|숙적
+str_relation_mnus_90|철천지원수
+str_relation_mnus_80|원한 맺힌 자
 str_relation_mnus_70|증오
-str_relation_mnus_60|증오
+str_relation_mnus_60|반항적
 str_relation_mnus_50|적대적
 str_relation_mnus_40|화남
 str_relation_mnus_30|분개
@@ -107,96 +107,96 @@ str_relation_mnus_10|의심
 str_relation_plus_0|무관심
 str_relation_plus_10|협조적
 str_relation_plus_20|환영
-str_relation_plus_30|호의적인
-str_relation_plus_40|지지하는
-str_relation_plus_50|우호적인
-str_relation_plus_60|공손한
-str_relation_plus_70|친근함
+str_relation_plus_30|호의적
+str_relation_plus_40|지지함
+str_relation_plus_50|우호적
+str_relation_plus_60|공손함
+str_relation_plus_70|애정
 str_relation_plus_80|충성
 str_relation_plus_90|헌신
-str_relation_mnus_100_ns|{s60}는 당신과 원수지간입니다.
-str_relation_mnus_90_ns|{s60}는 당신에게 무자비합니다.
-str_relation_mnus_80_ns|{s60}는 당신에게 복수심을 가지고 있습니다.
-str_relation_mnus_70_ns|{s60}는 당신과 대립 관계입니다.
-str_relation_mnus_60_ns|{s60}는 당신을 증오하고 있습니다.
-str_relation_mnus_50_ns|{s60}는 당신을 적대시하고 있습니다.
-str_relation_mnus_40_ns|{s60}는 당신에게 화가 난 상태입니다.
-str_relation_mnus_30_ns|{s60}는 당신에게 분개하고 있습니다.
-str_relation_mnus_20_ns|{s60}는 당신에게 불만스러워 하고 있습니다.
-str_relation_mnus_10_ns|{s60}는 당신을 의심스러워 하고 있습니다.
-str_relation_plus_0_ns|{s60}는 당신에 대해서 무관심합니다.
-str_relation_plus_10_ns|{s60}는 당신에 대해서 협조적입니다.
-str_relation_plus_20_ns|{s60}는 당신을 환영합니다.
-str_relation_plus_30_ns|{s60}는 당신에게 호의적입니다.
-str_relation_plus_40_ns|{s60}는 당신에게 지지하고 있습니다.
-str_relation_plus_50_ns|{s60}는 당신에게 우호적입니다.
-str_relation_plus_60_ns|{s60}는 당신에게 공손합니다.
-str_relation_plus_70_ns|{s60}는 당신을 좋아합니다.
-str_relation_plus_80_ns|{s60}는 당신에게 충성을 바치고 있습니다.
-str_relation_plus_90_ns|{s60}는 당신에게 헌신적입니다.
-str_relation_reg1| 평판: {reg1}
-str_center_relation_mnus_100|^주민들은 당신을 대단히 증오하고 있습니다.
-str_center_relation_mnus_90|^주민들은 당신을 대단히 증오하고 있습니다.
-str_center_relation_mnus_80|^주민들은 당신을 대단히 증오하고 있습니다.
-str_center_relation_mnus_70|^주민들은 당신을 증오하고 있습니다.
-str_center_relation_mnus_60|^주민들은 당신을 증오하고 있습니다.
-str_center_relation_mnus_50|^주민들은 당신에게 극도의 적개심을 갖고 있습니다.
-str_center_relation_mnus_40|^주민들은 당신을 매우 적대시 하고 있습니다.
-str_center_relation_mnus_30|^주민들은 당신에게 적개심을 갖고 있습니다.
-str_center_relation_mnus_20|^주민들은 당신에게 반항적입니다.
-str_center_relation_mnus_10|^주민들은 당신에게 적대적입니다.
-str_center_relation_plus_0|^주민들은 당신에게 무관심합니다.
-str_center_relation_plus_10|^주민들은 당신을 받아들입니다.
-str_center_relation_plus_20|^주민들은 당신에게 협력적입니다.
-str_center_relation_plus_30|^주민들은 당신을 지지하기 시작하고 있습니다.
-str_center_relation_plus_40|^주민들은 당신을 지지합니다.
-str_center_relation_plus_50|^주민들은 당신을 매우 지지합니다.
-str_center_relation_plus_60|^주민들은 당신에게 충성하고 있습니다.
-str_center_relation_plus_70|^주민들은 당신에게 높은 충성심을 보이고 있습니다.
-str_center_relation_plus_80|^주민들은 당신에게 헌신적으로 보입니다.
-str_center_relation_plus_90|^주민들은 당신에게 맹렬하게 헌신적으로 보입니다.
-str_town_prosperity_0|^{s60} 도시는 너무 가난하여 눈뜨고 볼 수가 없습니다.  (번영도: 0)
-str_town_prosperity_10|^{s60} 도시는 모두가 더럽고 삭막합니다.  (번영도: 10)
+str_relation_mnus_100_ns|{s60}은(는) 당신과 원수지간입니다.
+str_relation_mnus_90_ns|{s60}은(는) 당신에게 무자비합니다.
+str_relation_mnus_80_ns|{s60}은(는) 당신에게 복수심을 품고 있습니다.
+str_relation_mnus_70_ns|{s60}은(는) 당신을 증오하고 있습니다.
+str_relation_mnus_60_ns|{s60}은(는) 당신에게 반항적입니다.
+str_relation_mnus_50_ns|{s60}은(는) 당신을 적대시하고 있습니다.
+str_relation_mnus_40_ns|{s60}은(는) 당신에게 화가 나 있습니다.
+str_relation_mnus_30_ns|{s60}은(는) 당신에게 분개하고 있습니다.
+str_relation_mnus_20_ns|{s60}은(는) 당신에게 불평하고 있습니다.
+str_relation_mnus_10_ns|{s60}은(는) 당신을 의심하고 있습니다.
+str_relation_plus_0_ns|{s60}은(는) 당신에게 무관심합니다.
+str_relation_plus_10_ns|{s60}은(는) 당신에게 협조적입니다.
+str_relation_plus_20_ns|{s60}은(는) 당신을 환영합니다.
+str_relation_plus_30_ns|{s60}은(는) 당신에게 호의적입니다.
+str_relation_plus_40_ns|{s60}은(는) 당신을 지지하고 있습니다.
+str_relation_plus_50_ns|{s60}은(는) 당신에게 우호적입니다.
+str_relation_plus_60_ns|{s60}은(는) 당신에게 공손합니다.
+str_relation_plus_70_ns|{s60}은(는) 당신을 좋아합니다.
+str_relation_plus_80_ns|{s60}은(는) 당신에게 충성합니다.
+str_relation_plus_90_ns|{s60}은(는) 당신에게 헌신적입니다.
+str_relation_reg1|관계: {reg1}
+str_center_relation_mnus_100|^주민들이 당신을 열정적으로 증오합니다.
+str_center_relation_mnus_90|^주민들이 당신을 격렬하게 증오합니다.
+str_center_relation_mnus_80|^주민들이 당신을 강하게 증오합니다.
+str_center_relation_mnus_70|^주민들이 당신을 증오합니다.
+str_center_relation_mnus_60|^주민들이 당신에게 증오심을 품고 있습니다.
+str_center_relation_mnus_50|^주민들이 당신에게 극도로 적대적입니다.
+str_center_relation_mnus_40|^주민들이 당신에게 매우 적대적입니다.
+str_center_relation_mnus_30|^주민들이 당신에게 적대적입니다.
+str_center_relation_mnus_20|^주민들이 당신에게 반대합니다.
+str_center_relation_mnus_10|^주민들이 당신을 거부합니다.
+str_center_relation_plus_0|^주민들이 당신에게 무관심합니다.
+str_center_relation_plus_10|^주민들이 당신을 수용합니다.
+str_center_relation_plus_20|^주민들이 당신에게 협력적입니다.
+str_center_relation_plus_30|^주민들이 당신을 어느 정도 지지합니다.
+str_center_relation_plus_40|^주민들이 당신을 지지합니다.
+str_center_relation_plus_50|^주민들이 당신을 매우 지지합니다.
+str_center_relation_plus_60|^주민들이 당신에게 충성합니다.
+str_center_relation_plus_70|^주민들이 당신에게 매우 충성스럽습니다.
+str_center_relation_plus_80|^주민들이 당신에게 헌신적입니다.
+str_center_relation_plus_90|^주민들이 당신에게 맹렬히 헌신합니다.
+str_town_prosperity_0|^{s60} 도시의 가난이 두고 볼 수 없을 정도로 심각합니다. (번영도: 0)
+str_town_prosperity_10|^{s60} 도시는 더럽고 삭막합니다.  (번영도: 10)
 str_town_prosperity_20|^{s60} 도시는 비참하고 황폐해 보입니다. (번영도: 20)
 str_town_prosperity_30|^{s60} 도시는 가난하고 빈곤해 보입니다.  (번영도: 30)
 str_town_prosperity_40|^{s60} 도시는 어려움을 겪고 있는 것처럼 보입니다. (번영도: 40)
 str_town_prosperity_50|^{s60} 도시는 평범해 보입니다. (번영도: 50)
-str_town_prosperity_60|^{s60} 도시는 번성할 것으로 보입니다. (번영도: 60)
-str_town_prosperity_70|^{s60} 도시는 활동적으로 보입니다. (번영도: 70)
-str_town_prosperity_80|^{s60} 도시는 꽤나 부유해 보입니다. (번영도: 80)
-str_town_prosperity_90|^{s60} 도시는 부유하고 사람들로 북적이고 있습니다. (번영도: 90)
-str_town_prosperity_100|^{s60} 도시는 그들의 부를 과시하고 있습니다. (번영도: 100)
-str_fort_prosperity_0|^{s60} 요새의 가난이 참을 수 없을 정도로 심각합니다. (번영도: 0)
-str_fort_prosperity_10|^{s60} 요새는 더럽고 황량해 보이기까지 합니다. (번영도: 10)
-str_fort_prosperity_20|^{s60} 요새는 비참하고 황량해 보입니다. (번영도: 20)
+str_town_prosperity_60|^{s60} 도시는 번성하는 것으로 보입니다. (번영도: 60)
+str_town_prosperity_70|^{s60} 도시는 활기로 북적입니다. (번영도: 70)
+str_town_prosperity_80|^{s60} 도시는 부유하고 잘 관리되어 보입니다. (번영도: 80)
+str_town_prosperity_90|^{s60} 도시는 화려하고 부유한 사람들로 북적이고 있습니다. (번영도: 90)
+str_town_prosperity_100|^{s60} 도시는 거대한 부를 공공연히 과시하고 있습니다. (번영도: 100)
+str_fort_prosperity_0|^{s60} 요새의 가난이 두고 볼 수 없을 정도로 심각합니다. (번영도: 0)
+str_fort_prosperity_10|^{s60} 요새는 더럽고 삭막합니다. (번영도: 10)
+str_fort_prosperity_20|^{s60} 요새는 비참하고 황폐해 보입니다. (번영도: 20)
 str_fort_prosperity_30|^{s60} 요새는 가난하고 빈곤해 보입니다.  (번영도: 30)
 str_fort_prosperity_40|^{s60} 요새는 어려움을 겪고 있는 것처럼 보입니다. (번영도: 40)
 str_fort_prosperity_50|^{s60} 요새는 평범해 보입니다. (번영도: 50)
-str_fort_prosperity_60|^{s60} 요새는 번성할 것으로 보입니다. (번영도: 60)
-str_fort_prosperity_70|^{s60} 요새는 활동적으로 보입니다. (번영도: 70)
-str_fort_prosperity_80|^{s60} 요새는 꽤나 부유해 보입니다. (번영도: 80)
-str_fort_prosperity_90|^{s60} 요새는 부유하고 사람들로 북적이고 있습니다. (번영도: 90)
-str_fort_prosperity_100|^{s60} 요새는 그들의 부를 과시하고 있습니다. (번영도: 100)
-str_village_prosperity_0|^{s60} 마을은 가난이 참을 수 없을 정도로 심각합니다. (번영도: 0)
-str_village_prosperity_10|^{s60} 마을은 더럽고 황량해 보이기까지 합니다. (번영도: 10)
-str_village_prosperity_20|^{s60} 마을은 비참하고 황량해 보입니다. (번영도: 20)
+str_fort_prosperity_60|^{s60} 요새는 번성하는 것으로 보입니다. (번영도: 60)
+str_fort_prosperity_70|^{s60} 요새는 활기로 북적입니다. (번영도: 70)
+str_fort_prosperity_80|^{s60} 요새는 부유하고 잘 관리되어 보입니다. (번영도: 80)
+str_fort_prosperity_90|^{s60} 요새는 화려하고 부유한 사람들로 북적이고 있습니다. (번영도: 90)
+str_fort_prosperity_100|^{s60} 요새는 거대한 부를 공공연히 과시하고 있습니다. (번영도: 100)
+str_village_prosperity_0|^{s60} 마을의 가난이 두고 볼 수 없을 정도로 심각합니다. (번영도: 0)
+str_village_prosperity_10|^{s60} 마을은 더럽고 삭막합니다. (번영도: 10)
+str_village_prosperity_20|^{s60} 마을은 비참하고 황폐해 보입니다. (번영도: 20)
 str_village_prosperity_30|^{s60} 마을은 가난하고 빈곤해 보입니다.  (번영도: 30)
 str_village_prosperity_40|^{s60} 마을은 어려움을 겪고 있는 것처럼 보입니다. (번영도: 40)
 str_village_prosperity_50|^{s60} 마을은 평범해 보입니다. (번영도: 50)
-str_village_prosperity_60|^{s60} 마을은 번성할 것으로 보입니다. (번영도: 60)
-str_village_prosperity_70|^{s60} 마을은 활동적으로 보입니다. (번영도: 70)
-str_village_prosperity_80|^{s60} 마을은 꽤나 부유해 보입니다. (번영도: 80)
-str_village_prosperity_90|{s60}마을은 아주 잘 살며 번영해 보입니다. (번영도: 90)
-str_village_prosperity_100|^{s60} 마을은 그들의 부를 과시하고 있습니다. (번영도: 100)
-str_town_alt_prosperity_0|시장에서 판매되는 약간의 물품들은 주민들이 살 수 없는 가격인 것 같습니다. 쓰러져 가는 집들과 누더기를 걸치고 자갈과 막대기로 노는 아이들을 볼 수 있었습니다.
-str_town_alt_prosperity_20|시장에서는 높은 가격때문에 말다툼을 벌이는 소리를 들을 수 있었습니다. 길거리에서는 아이들이 지나가는 사람에게 먹을 것이나 돈을 구걸하는 모습을 볼 수 있습니다.
-str_town_alt_prosperity_40|시장에 있는 물건들은 꽤나 괜찮아 보이고 가끔씩은 부자집 사람을 위한 고급 물건들도 볼 수 있습니다. 대다수 건물들이 괜찮아 보이며 몇몇 건물만이 수리가 필요해 보입니다.
-str_town_alt_prosperity_60|시장은 멀리서 온 장사꾼들로 붐비고, 일부 이주자들은 자신의 행복을 찾아 이곳에 머무르고 있습니다.
-str_town_alt_prosperity_80|지붕이 잘 관리된 건물들이 도시 전반에 걸쳐 있고 사람들은 좋은 품질의 옷을 입고 있습니다. 매일 여러 무리의 사람들이 이곳으로 일자리와 허브를 팔기 위해 오고 있습니다.
-str_village_alt_prosperity_0|오직 몇몇 사람만이 잡초가 우거진 들판에서 일할 수 있을 만큼 건장한 사람을 보기 힘듦니다. 많은 사람들이 마을을 떠났고 마을 외곽의 죽은 시체들은 들짐승들을 끌어모으고 있습니다.
-str_village_alt_prosperity_20|몇몇 농부들과 가축들은 들판에 나가 있지만 그들은 소수이며 대다수가 마을을 떠났습니다. 농장은 무너져있고 잡초가 듬성 듬성 나 있습니다.
-str_village_alt_prosperity_40|꽤 건강한 마을 주민과 동물들이 각각 농장지와 목축지에 있습니다. 하지만 몇몇 건물들은 아직 수리가 필요해 보이고, 몇몇 농장지는 경작되고 있지 않아 보입니다.
-str_village_alt_prosperity_60|들판과 과수원의 흥겨운 콧노래와 꽉 찬 곡물 포대, 그리고 말린 고기가 마을의 농경지와 목장의 생산성을 증명하고 있습니다.
+str_village_prosperity_60|^{s60} 마을은 번성하는 것으로 보입니다. (번영도: 60)
+str_village_prosperity_70|^{s60} 마을은 활기로 북적입니다. (번영도: 70)
+str_village_prosperity_80|^{s60} 마을은 부유하고 잘 관리되어 보입니다. (번영도: 80)
+str_village_prosperity_90|{s60}마을은 매우 부유하고 번영해 보입니다. (번영도: 90)
+str_village_prosperity_100|^{s60} 마을은 광활하고 비옥한 들판에 둘러쌓여 있으며, 매우 부유해 보입니다. (번영도: 100)
+str_town_alt_prosperity_0|시장에 나온 소수의 상품은 영양실조에 걸린 평민들이 사기엔 너무 비쌉니다. 가축들은 비쩍 말라있고, 허물어져 가는 집들 사이로 누더기를 걸친 아이들이 막대기와 조약돌을 가지고 놀고 있습니다.
+str_town_alt_prosperity_20|시장에서 치솟는 가격에 말다툼을 벌이는 소리가 들리고 상인들은 팔 물건조차 바닥나고 있습니다. 거리에서는 아이들이 지나가는 이에게 빵 조각이나 값나가는 것을 구걸합니다.
+str_town_alt_prosperity_40|시장의 상품 품질은 준수하며 상인들은 때때로 소수의 부유한 주민들을 위해 사치품을 가져옵니다. 수리가 필요한 집도 있지만 상태가 좋은 집들도 있습니다.
+str_town_alt_prosperity_60|시장은 멀리서 온 상인들로 활기가 넘치고, 일부 이주민들은 자신의 운을 시험하기 위해 이곳에 정착하고 있습니다.
+str_town_alt_prosperity_80|도시 전역의 지붕이 잘 관리되어 있으며 사람들은 품질 좋은 옷을 입고 있습니다. 사람들은 일자리와 부를 찾아 매일같이 이 번창하는 무역 중심지로 몰려듭니다.
+str_village_alt_prosperity_0|건장한 사람은 드물고 들판에는 잡초가 무성합니다. 많은 이들이 정착지를 떠났으며 가축들은 잡아먹히거나 외곽에서 죽어가며 들짐승들을 불러모으고 있습니다.
+str_village_alt_prosperity_20|소수의 농부와 가축이 들판에 나와 있으나 많은 이가 더 나은 삶을 찾아 떠났습니다. 농장은 낡았고 잡초가 들판을 점령했습니다.
+str_village_alt_prosperity_40|꽤 건강한 주민들과 가축들이 들판과 목초지에서 움직입니다. 하지만 일부 가옥은 상태가 좋지 않고, 몇몇 농경지는 씨가 뿌려지지 않은 채 방치되어 있습니다.
+str_village_alt_prosperity_60|들판과 과수원은 활기로 가득하며, 꽉 찬 곡식 자루와 주렁주렁 매달린 말린 고기가 마을 농경지와 목초지의 생산성을 증명하고 있습니다.
 str_village_alt_prosperity_80|들판과 과수원에 흥겨운 콧노래와 방금 파놓은 관개 수로로 인해 농부들은 충분한 휴가 시간과 에너지를 가지고 경작지를 확장해 가고 있습니다. 노동자들이 일자리와 부를 위해 몰려들고 있습니다.
 str_oasis_village_alt_prosperity_0|과일 농장은 사실상 버려졌고, 물을 대던 수로는 눈으로 막혀버렸습니다. 눈에 띄는 몇몇 주민들은 영양 실조에 지쳐 보입니다. 가축들은 굶주린 지 오래됐거나 잡아먹혔습니다. 몇몇 가축 시체들은 변두리에 방치되어 있고, 그 뼈는 사나운 늑대들이 갉아먹은 흔적이 있습니다.
 str_oasis_village_alt_prosperity_20|한두 명의 마을 주민들이 과일 농장으로 향하는 것을 볼 수 있었습니다. 두꺼운 눈이이 정원을 덮고 있습니다. 수로는 대부분 막혀버렸고, 우물과 물통들은 얼음로 가득 차 있습니다.
@@ -570,7 +570,7 @@ str_npc3_signup_response_2|사실, 나는 당신이 꽤 쓸모 없는 생각을 
 str_npc4_signup_response_2|사실, 우리는 당신 같은 사람을 고용하는데 익숙치 않소. 안녕히 계시오.
 str_npc5_signup_response_2|사실, 내 생각에는 내 병력들을 쫓아내지 않을 사람을 필요로 하고 있소.
 str_npc6_signup_response_2|미안하오, 하지만 나는 당신이 필요하지 않소, 나는 내 주변에서 얼쩡대는 사람을 원치 않소.
-str_npc7_signup_response_2|사실, 내 생각에는 당신이 문제를 일으킬 거라는 말로 들리고 있소. 그럼 잘 있으시오. 
+str_npc7_signup_response_2|사실, 내 생각에는 당신이 문제를 일으킬 거라는 말로 들리고 있소. 그럼 잘 있으시오.
 str_npc8_signup_response_2|음, 어쩌면 당신은 다른 곳에서 행운을 찾을 수도 있을 것이오.
 str_npc9_signup_response_2|당신은 잘못 생각하고 있소, 선생. 내 방패 벽 안에서는 용기와 능력을 더 존중하고 있소, 오히려 귀족보다는 말이오. 그리고 단순한 말로는 어떤 사람도 진정한 용사가 될 수 없소.
 str_npc10_signup_response_2|내 생각에, 밤 중에 내 병사들이 색슨인과의 기원이 멀다는 이유로 죽어 나자빠지는 것을 원치는 않을 것 같소. 그럼 잘 있으시오.
@@ -1007,7 +1007,7 @@ str_comment_intro_famous_pitiless|당신의 이름은 익히 들어 알고 있�
 str_comment_intro_famous_cunning|당신이 좋은 사람이라는 것을 알고 있소. 언젠가 우리 함께 대화나 나누었으면 좋겠군.
 str_comment_intro_famous_sadistic|난 당신의 이름을 알고 있소. 당신 때문에 죽은 사람이 한둘이 아니니 말이오.
 str_comment_intro_famous_goodnatured|난 사람들이 당신의 용맹함을 칭송하는 것을 들었소. 당신을 만나게 된 것을 영광으로 생각하고 있소.
-str_comment_intro_famous_upstanding|나는 사람들이 당신의 용맹함에 대해 노래하는 것을 들은 적이 있소. 당신의 힘이 세상을 더 밝게 해주었으면 좋겠소. 
+str_comment_intro_famous_upstanding|나는 사람들이 당신의 용맹함에 대해 노래하는 것을 들은 적이 있소. 당신의 힘이 세상을 더 밝게 해주었으면 좋겠소.
 str_comment_intro_noble_liege|당신이 가진 귀족의 깃발은 본 적이 없소. 내가 항상 나를 위해 싸워줄 강인한 전사를 찾고 있다는 것을 기억하시오.
 str_comment_intro_noble_martial|당신이 가진 귀족의 깃발은 본 적이 없소. 언젠가 시합이나 전쟁에서 서로의 용기를 시험해 보았으면 좋겠소.
 str_comment_intro_noble_badtempered|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 당신은 외국인이오? 뭐 귀족이라면 아무렴 어떤가.
@@ -1017,14 +1017,14 @@ str_comment_intro_noble_sadistic|당신이 가진 귀족의 깃발은 본 적이
 str_comment_intro_noble_goodnatured|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 그러나 당신의 귀족이라는 신분이 다른 영주들과 친분을 맺는데 도움은 될 것이 아니겠소.
 str_comment_intro_noble_upstanding|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 부와 영광을 되찾기 위해 노력하는 당신의 모습이 보기 좋소.
 str_comment_intro_common_liege|자넨 흔한 태생인것 같군, 하지만, 내가 신뢰해도 된다고 증명할 수 있는 자라면, 내가 항상 나를 위해 싸워줄 자를 찾고 있다는 것을 명심해두는게 좋을 것이네.
-str_comment_intro_common_martial|당신은 고귀한 출생은 아닌 것 같군. 그러나 만약 당신이 당신의 가치를 스스로 증명해 보인다면 나는 당신을 기꺼히 존중할 것이오. 
+str_comment_intro_common_martial|당신은 고귀한 출생은 아닌 것 같군. 그러나 만약 당신이 당신의 가치를 스스로 증명해 보인다면 나는 당신을 기꺼히 존중할 것이오.
 str_comment_intro_common_badtempered|할 말이 있다면 빨리 이야기하시오, 나는 흔한 군인과는 이야기할만한 시간이 없으니 말이오.
 str_comment_intro_common_pitiless|당신은 용병으로 보이는군. 전쟁터에서 독수리의 밥이 되지나 마시오.
 str_comment_intro_common_cunning|당신에 대해 들어본 적은 없지만, 당신은 무언가를 해낼 수 있을지도 모르오.
 str_comment_intro_common_sadistic|나는 초대도 받지 않은 사람들이 허락도 없이 들어오는 것을 좋아하지 않소. 오늘은 기분이 좋아서 넘어가지만 다음 번엔 더 이상의 자비는 없을 것이오.
 str_comment_intro_common_goodnatured|얼굴이 훤하고 인물이 밝은 것을 보니 당신은 좋은 사람인 것 같소.
 str_comment_intro_common_upstanding|당신처럼 얼굴에 자신감이 넘치는 사람을 본 지 오래된 것 같소.
-str_comment_intro_female_famous_liege|나는 당신에 대해 많은 것을 들어왔소. 사람들이 무예에 통달한 여자를 두려워하는 날이 올 지 궁금하오. 그렇게 되기만 한다면 나나 다른 귀족들이 당신을 차지하려고 안달이 날 지도 모르겠소. 
+str_comment_intro_female_famous_liege|나는 당신에 대해 많은 것을 들어왔소. 사람들이 무예에 통달한 여자를 두려워하는 날이 올 지 궁금하오. 그렇게 되기만 한다면 나나 다른 귀족들이 당신을 차지하려고 안달이 날 지도 모르겠소.
 str_comment_intro_female_famous_martial|나는 당신에 대해 많은 것을 들어왔소. 심지어 사람들은 당신의 기량이 가장 용감한 남자들과 동급이라고까지 말하더군. 언제 한번 경기에서나 전쟁에서 그 실력을 보았으면 좋겠소.
 str_comment_intro_female_famous_badtempered|나는 당신에 대한 얘기를 들어봤소. 남자들처럼 싸우는 법을 잘 아는 여자라고 하더군.
 str_comment_intro_female_famous_pitiless|나는 당신의 이름을 알고 있소. 당신의 용맹함이 남자들의 가슴에 두려움을 심어주고 있다지. 언제 한번 진지하게 이야기나 나눠 보았으면 좋겠소.
@@ -1055,7 +1055,7 @@ str_comment_intro_female_common_pitiless|여자의 몸으로 홀로 여행을 �
 str_comment_intro_female_common_cunning|여자가 전장에서 기회를 노리고 있다는 얘기는 들어본 적도 없소. 나는 당신이 성공하게 될 지 매우 궁금하오.
 str_comment_intro_female_common_sadistic|여자잖아, 전쟁에 뛰어든 여자 말이지! 음, 너는 우리 부대에 속한 전사라 불리는 자들보다도 여자 같지 않아 보이는군.
 str_comment_intro_female_common_goodnatured|당신은 스스로 자신의 길을 잘 개척할 것 같소. 하지만 무엇을 하든 신중히 선택하는 것이 좋을 것이오.
-str_comment_intro_female_common_upstanding|여자가 전쟁에 나타나는 건 흔한 일이 아니오. 그 만큼 여자는 전쟁에 부적합하고 나약하오. 자신이 스스로 무언가를 택할 자격은 있지만, 잘못된 선택은 당신에게 후회만 안겨줄 것이라는 것을 명심하시오. 
+str_comment_intro_female_common_upstanding|여자가 전쟁에 나타나는 건 흔한 일이 아니오. 그 만큼 여자는 전쟁에 부적합하고 나약하오. 자신이 스스로 무언가를 택할 자격은 있지만, 잘못된 선택은 당신에게 후회만 안겨줄 것이라는 것을 명심하시오.
 str_rejoinder_intro_female_common_badtempered|이 무기들은 내가 전투를 통해 적들로부터 뺏어낸 것이오. 이 검날들이 잘 드는지 한번 시험해 보고 싶소?
 str_rejoinder_intro_female_noble_sadistic|내 출신지가 어디인 지는 신경쓰지 마시오. 여기는 노스란드요, 그리고 지금 여기에서 어떤 개가 병사들을 이끄는 것처럼 보이는군.
 str_rejoinder_intro_female_common_sadistic|그리고 경, 당신은 내 말보다 더 야만스럽군.
@@ -1087,7 +1087,7 @@ str_comment_you_robbed_my_village_enemy|당신은 내 보호 아래에 있는 {s
 str_comment_you_robbed_my_village_friendly_spiteful|당신이 {s51}에 사는 마을 주민들에게서 약간의 음식을 가져갔다고 들었소. 글쎄, 나는 당신이 그들에게서 빵 한 두조각 쯤 가져가는 건 별로 신경쓰지 않겠지만, 명심하시오. 당신의 행동으로 인해 내가 그들의 구슬픈 울음소리를 들어야 했다는 것을 말이오!
 str_comment_you_robbed_my_village_friendly|나는 {s51}의 에 사는 마을 주민들로부터 당신이 그들의 식량을 가져갔다고 보고받았소. 나는 당신이 그런 짓을 하지 않았을 거라고 생각하고 싶소, 그리고 당신도 그만큼 필사적으로 곤궁하지 않았을 것이라 믿고 싶고!
 str_comment_you_robbed_my_village_default|당신은 내 영지인 {s51}의 마을 주민들에게 강도짓을 했소! 만약 당신이 이런 짓을 계속한다면, 나는 당신과 싸울 것이오!
-str_comment_you_accosted_my_caravan_enemy|당신은 내 보호 아래에 있는 상단을 습격했소! 그리고 당신의 그 더러운 행위는 이제 끝날 것이오! 
+str_comment_you_accosted_my_caravan_enemy|당신은 내 보호 아래에 있는 상단을 습격했소! 그리고 당신의 그 더러운 행위는 이제 끝날 것이오!
 str_comment_you_accosted_my_caravan_default|나는 당신이 내 보호 아래 있는 상단들을 습격하고 있다는 소리를 들었소! 당신은 그런 행위를 반드시 그만두어야 한다고 생각하지 않소?
 str_comment_you_helped_villagers_benevolent|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 나는 그들의 영주이자 보호자로서, 나의 의무를 소홀히 하고 있었소. 그리고 당신의 행동에 내 깊은 감사를 표하고 싶소.
 str_comment_you_helped_villagers_friendly_cruel|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 당신이 그들에게 마음을 선뜻 써 주었던 것에는 고맙게 생각하겠지만, 나는 그들에 대한 내 권위를 당신이 무시하지 않았으면 좋겠소.
@@ -1116,7 +1116,7 @@ str_comment_we_fought_in_siege_cruel|나는 우리가 {s51}의 성벽을 넘어,
 str_comment_we_fought_in_siege_quarrelsome|우리가 {s51}의 성벽을 넘었을 때, 적들이 우리를 보고 어떤 비명을 질렀는지 기억하시오? 아마 그들은 자신들이 안전하다고 여기고 있었을 것이오!
 str_comment_we_fought_in_siege_upstanding|나는 {s51}에서 우리가 성벽을 넘었던 순간을 잊지 못할 거요. 그리고 한 번 더 신에게 감사를 드리고, 우리 스스로가 너무 자만하지 않도록 경계하는 게 좋겠소.
 str_comment_we_fought_in_siege_default|나는 {s51}에서 우리가 함께 성벽을 넘던 그 순간을 잊지 못할 것이오. 그리고 나는 당신의 옆에서 같이 싸울 수 있었다는 사실을 명예롭게 생각하겠소.
-str_comment_we_fought_in_major_battle_unfriendly_spiteful||내 생각에 당신은 {s51}에서 우리의 완승을 축하하기 위해 축배를 들 것 같군. 좋소, 그러나 당신은 축배를 들기에는 이를 것이오 -- 당신은 앞으로 적들에게 그보다 더 큰 완패를 맛볼 것이니 말이오.
+str_comment_we_fought_in_major_battle_unfriendly_spiteful|내 생각에 당신은 {s51}에서 우리의 완승을 축하하기 위해 축배를 들 것 같군. 좋소, 그러나 당신은 축배를 들기에는 이를 것이오 -- 당신은 앞으로 적들에게 그보다 더 큰 완패를 맛볼 것이니 말이오.
 str_comment_we_fought_in_major_battle_unfriendly|나는 {s51}에서 있었던 그 장대한 전투에서 우리가 어떻게 싸웠는지 잊지 않을 것이오. 그러나, 나는 당신과 나 사이에 있었던 분쟁에 대해 잊지 않았다는 사실도 기억해야 할 것이오.
 str_comment_we_fought_in_major_battle_cruel|나는 {s51}에서 있었던 그 장대한 전투를 잊지 않을 것이오. 특히 우리가 적의 진영을 돌파했을 때, 그들이 우리를 보고 비명을 지르며 도망가던 순간을 말이오. 그건 정말로 달콤한 추억이었소.
 str_comment_we_fought_in_major_battle_quarrelsome|{s51}에서 있었던 그 싸움은 꽤나 괜찮았소, 특히, 그 망할 놈들이 내쫓겨 도망가는 꼴을 보고 있었을 때는 더더욱 말이오!
@@ -1148,9 +1148,9 @@ str_comment_you_were_defeated_allied_unfriendly|{s54}(이)가 당신을 패배�
 str_comment_you_were_defeated_allied|{s54}(이)가 당신을 패배시켰다는 소식을 들었소. 그런 일들에 대해서 당신이 너무 우울해 하지 않았으면 좋겠군. 아마 당신에게도 또 다른 기회가 생길 것이오!
 str_comment_you_helped_my_ally_unfriendly_chivalrous|당신이 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소. 내가 당신을 어떻게 생각하든, 그 행동은 칭찬을 받아야 마땅하오.
 str_comment_you_helped_my_ally_liege|자네가 내 봉신인 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었네.
-str_comment_you_helped_my_ally_unfriendly_spiteful|당신이 {s54}을(를) 구하러 갔다고 들었소. 당신은 그를 보고, 무서운 줄도 모르고 덤비는 멍청이가 생각나지 않았소? 음, 방금 전 말은 못 들은 것으로 해 주시오. -- 그건 일상적인 말실수였소. 
+str_comment_you_helped_my_ally_unfriendly_spiteful|당신이 {s54}을(를) 구하러 갔다고 들었소. 당신은 그를 보고, 무서운 줄도 모르고 덤비는 멍청이가 생각나지 않았소? 음, 방금 전 말은 못 들은 것으로 해 주시오. -- 그건 일상적인 말실수였소.
 str_comment_you_helped_my_ally_spiteful|당신이 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소. 내 생각에는 당신이 그에게 좋은 교훈을 주었다고 생각하오.
-str_comment_you_helped_my_ally_chivalrous|당신이 {s54}을(를) 위기에서 구해냈다고 들었소. 그건 정말 숭고한 행동이오. 
+str_comment_you_helped_my_ally_chivalrous|당신이 {s54}을(를) 위기에서 구해냈다고 들었소. 그건 정말 숭고한 행동이오.
 str_comment_you_helped_my_ally_default|당신이 {s54}을(를) 위기에서 구해냈다고 들었소. 잘 했소!
 str_comment_you_abandoned_us_unfriendly_spiteful|당신은 벌레만도 못한 자요! 당신은 {s54}을(를) 앞에 우리를 버려두고 떠났소, 당신은 양심이 있소?
 str_comment_you_abandoned_us_unfriendly_pitiless|음, 당신은 나를 {s54}와(과) 싸우게 나를 내버리고 도망쳤지. 안 그렇소? 당신은 죽어 배신자들의 지옥에 떨어질 거요.
@@ -1215,7 +1215,7 @@ str_comment_you_claimed_the_throne_1_player_liege|내 정보원들이 말하길,
 str_comment_you_claimed_the_throne_2_player_liege|내 정보원들이 말하길, 당신의 동료들이 농민들에게 자네가 왕좌를 요구할 권리가 있다고 말하고 다닌다며 내게 보고했소. 나는 그들이 당신의 명령 없이 독단적으로 이 일을 벌인 것이기를 진심으로 바라고 있소.
 str_comment_lord_intervened_against_me|내가 {s54}와(과) 언쟁이 있었다는 건 잘 알려진 일이오, 그리고 {s50}은(는) 나의 라이벌을 지지했소.
 str_comment_i_protested_marshal_appointment|It is well known that I had protested {s54}'s decision to appoint {s51} as marshal.
-str_comment_i_blamed_defeat|It is wel|내가 {s56}에 대항해 우리를 이끌고 패배한 {s51}에게 호의를 보이는 {s54}에게 불만스럽다는 것은 잘 알려진 일이지.
+str_comment_i_blamed_defeat|내가 {s56}에 대항해 우리를 이끌고 패배한 {s51}에게 호의를 보이는 {s54}에게 불만스럽다는 것은 잘 알려진 일이지.
 str_comment_i_was_entitled_to_fief|내가 나에게 주어질 {s51}의 영지를 받은 {s54}에게 실망했다는 것은 잘 알려진 일이지.
 str_comment_i_quarreled_with_troop_over_woman|내가 {s54}에게 구혼하는 동안 {s51}가 그녀에게 추파를 던졌다는 것은 잘 알려진 일이지. 그놈에게 그녀의 관심은 어울리지 않지, 그리고 나는 그놈에게 그녀와 거리를 유지하게 가르쳐 줄 작정이오.
 str_comment_i_quarreled_with_you_over_woman_default|나는 당신이 {s54}에게 추파를 던지고 있다고 들었소. 나는 당신이 그녀와 같이 완벽한 숙녀에게 가치 있는 존재라고 믿지 않고, 또한 당신이 그녀를 포기하지 않으면 당신은 크게 낙담하게 될 것이오.
@@ -1425,7 +1425,7 @@ str_rebellion_relation_favorable|나는 개인적으로 당신을 잘 알고 존
 str_rebellion_relation_neutral|내가 좋아할 만큼 당신을 잘 알지 못하오.
 str_rebellion_relation_unfavorable|당신을 믿지 못하겠소.
 str_and_comma_3|더군다나, 
-str_but_comma_3|그럼에도 불구하고,
+str_but_comma_3|그럼에도 불구하고, 
 str_and_comma_1|, 그리고 
 str_but_comma_1|, 그러나 
 str_and_comma_2|. 더욱이, 
@@ -1804,11 +1804,8 @@ str__however_the_truce_is_no_longer_binding_on_the_s14| 그러나, {s14}와(과)
 str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire_in_reg1_days|{s21}^* {s5}은(는) 휴전 협정에 의해 {s14}을 공격하지 않습니다. {s18}와(과)의 휴전 협정은 {reg1}일 안에 끝날 것입니다.
 str_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_the_alliance_will_expire_in_reg1_days|{s21}^^* {s5}은(는) {s14}와(과) 동맹중입니다. {s18}와(과)의 동맹은 {reg1}일 안에 끝날 것입니다.
 str_alliance_durantion_days_expire|{s21}^^* The {s5}은(는) {s14}와(과) 공식적인 제휴를 맺었습니다. {s18}와(과)의 제휴는 {reg1}일 안에 끝날 것입니다.
-str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
-str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
 str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21} {s14}은 최근 {s5}의 문제로 마찰이 있고, 그것으로 인해 전쟁의 위험이 있습니다.
 str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}의 통치자: {s6}^^영토: {s8}.^^봉신: {s10}.^^{s21}
-str_assigned_lord_reputation_and_relations_cheat_mode_reg3|할당된 영주의 평판과 관계도, 치트 모드: {reg3}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} 사망, {reg5} 부상, {reg6} 도주
 str_reg4_killed_reg5_routed|{reg4} 사망, {reg5} 도주
 str_reg4_killed_reg5_wounded|{reg4} 사망, {reg5} 부상
@@ -1874,19 +1871,6 @@ str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|불안정: {reg0
 str_reg1shehe_is_prisoner_of_s1|{reg1?그녀:그}는 {s1}의 포로입니다.
 str_s39_rival|{s39} (라이벌)
 str_s41_s39_rival|{s41}, {s39} (라이벌)
-str_reputation_cheat_mode_only_martial_|평판 (cheat mode only): 호전적^
-str_reputation_cheat_mode_only_debauched_|평판 (cheat mode only): 방탕함^
-str_reputation_cheat_mode_only_pitiless_|평판 (cheat mode only): 무자비함^
-str_reputation_cheat_mode_only_calculating_|평판 (cheat mode only): 계산적^
-str_reputation_cheat_mode_only_quarrelsome_|평판 (cheat mode only): 싸움꾼^
-str_reputation_cheat_mode_only_goodnatured_|평판 (cheat mode only): 온화함^
-str_reputation_cheat_mode_only_upstanding_|평판 (cheat mode only): 강직함^
-str_reputation_cheat_mode_only_conventional_|평판 (cheat mode only): 관습적^
-str_reputation_cheat_mode_only_adventurous_|평판 (cheat mode only): 모험적^
-str_reputation_cheat_mode_only_romantic_|평판 (cheat mode only): 낭만적^
-str_reputation_cheat_mode_only_moralist_|평판 (cheat mode only): 도덕적^
-str_reputation_cheat_mode_only_ambitious_|평판 (cheat mode only): 야심찬^
-str_reputation_cheat_mode_only_reg11_|평판 (cheat mode only): {reg11}^
 str_reputation_only_martial_|당신이 보기에, 그의 성향은 호전적 입니다.^
 str_reputation_only_debauched_|당신이 보기에, 그의 성향은 방탕합니다.^
 str_reputation_only_pitiless_|당신이 보기에, 그의 성향은 무자비합니다.^
@@ -1899,7 +1883,6 @@ str_reputation_only_adventurous_|당신이 보기에, 그의 성향은 모험성
 str_reputation_only_romantic_|당신이 보기에, 그의 성향은 낭만적 입니다.^
 str_reputation_only_moralist_|당신이 보기에, 그의 성향은 도적적 입니다.^
 str_reputation_only_ambitious_|당신이 보기에, 그의 성향은 야망가 입니다.^
-str_reputation_only_reg11_|평판 (cheat mode only): {reg11}^
 str_love_interest|애정 상대
 str_betrothed|약혼한다
 str_other_relations_s40_|그 외 인간관계: {s40}^
@@ -1927,7 +1910,7 @@ str_deserters|탈영병
 str_your_followers|플레이어 추종자
 str_we_have_heard_that_travellers_heading_to_s40_were_attacked_on_the_road_s46_by_s39|우리는 {s40}(으)로 향하는 여행자들로부터 그들이 {s46} 근처 길목에서 {s39}에게 습격당했다고 들었소.
 str_we_have_heard_that_travellers_coming_from_s40_were_attacked_on_the_road_s46_by_s39|우리는 {s40}에서 온 여행자들로부터 그들이 {s46} 근처 길목에서 {s39}에게 습격당했다고 들었소.
-str_travellers_coming_from_s40_traded_here_s46|{s46}에 {s40}(으)로부터 온 여행자들이 이 곳에서 물건들을 거래했다는 소식을 들었소. 
+str_travellers_coming_from_s40_traded_here_s46|{s46}에 {s40}(으)로부터 온 여행자들이 이 곳에서 물건들을 거래했다는 소식을 들었소.
 str_it_is_still_early_in_the_caravan_season_so_we_have_seen_little_tradings42|아직 상단들이 다닐 만한 시기가 아니기 때문에, 우리는 그리 큰 거래는 하지 못했소.{s42}
 str_there_has_been_very_little_trading_activity_here_recentlys42|최근까지 이 도시에서는 매우 작은 거래만이 진행되고 있었소.{s42}
 str_there_has_some_trading_activity_here_recently_but_not_enoughs42|최근 이 도시에서는 몇몇 거래가 있었지만, 그리 충분하지는 않았소.{s42}
@@ -2145,8 +2128,8 @@ str_s22_and_s23_wish_to_marry|{s22}와(과) {s23}은(는) 결혼을 원하고 �
 str_it_has_been_a_long_time_since_the_lords_of_the_realm_gathered_for_a_feast|연회를 위해 왕국의 영주들이 모인지도 오래 되었소.
 str_the_circumstances_which_led_to_this_decision_no_longer_apply_so_we_should_stop_and_reconsider_shortly|이제 이 결정은 현재 상황에는 맞지 않소, 그래서 우리는 행동을 멈추고 다시 생각해보고 있소.
 str_s15_is_at_war_with_s16_|{s15}은(는) {s16}와(과) 전쟁 중이오.
-str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) {s16}와(과) 휴전 상태에 있소. 일반적인 정책의 문제로서, 
-str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) 최근 {s16}(으)로 인해 도발당했고, 전쟁을 선포하는 원인이 되었소. 일반적인 정책의 문제로서, 
+str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) {s16}와(과) 휴전 상태에 있소. 일반적인 정책의 문제로서,
+str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) 최근 {s16}(으)로 인해 도발당했고, 전쟁을 선포하는 원인이 되었소. 일반적인 정책의 문제로서,
 str_s12s15_cannot_negotiate_with_s16_as_to_do_so_would_undermine_reg4herhis_own_claim_to_the_throne_this_civil_war_must_almost_certainly_end_with_the_defeat_of_one_side_or_another|{s12}{s15}은(는) {reg4?그녀의:그의} 정통성을 약화시키지 않기 위해 {s16}와 협상하지 않을 것이오. 이번 내전은 어느 한쪽이 패배하여야 끝날 것이오.
 str_s12s15_considers_s16_to_be_dangerous_and_untrustworthy_and_shehe_wants_to_bring_s16_down|{s12}{s15}은(는) {s16}이(가) 신뢰할 수 없고 위험한 자라고 생각하고 있고, 그리고 {reg4?그녀:그}은(는) {s16}이(가) 멸망하기를 원하고 있소.
 str_s12s15_is_anxious_to_reclaim_old_lands_such_as_s18_now_held_by_s16|{s12}{s15}은(는) 지금 {s16}에게 빼앗긴 {s18}와(과) 같은 옛 영지를 되찾기를 원하고 있소.
@@ -2211,10 +2194,10 @@ str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_shoul
 str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|'브란의 항해' 말인가요? 흠 -- 그건 세상과 신성한 사랑에 대한 흥미로운 탐험이에요. 남자를 가장 잘 표현할 수 있는 정신적인 탐구에 대하여 이야기하는군요. 하지만 만약 시인이 그의 원초적 열정과 함께 그가 동경하는 한 차원 높은 것에 대해서 혼동하지 않았다면 저는 놀라움을 금치 못해요.
 str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'브란의 항해'? 오, 네 -- 이건 매우 훌륭하고 철학적이에요. 그러나 저는 개인적으로 음유시인의 류트 연주를 세 시간이나 듣는 것보다 짧은 이야기를 듣는걸 더 좋아해요.
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg5}명의 손님이 {s4} {reg3}개를 소비했습니다.
-str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg5}개의 향신료 중 {reg3}개가 소비됨 
+str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg5}개의 향신료 중 {reg3}개가 소비됨
 str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg5}개의 오일중 {reg3}개가 소비됨
 str_of_food_which_must_come_before_everything_else_the_amount_is_s8|가장 중요한 음식의 양은 {s8}
-str_s9_and_the_variety_is_s8_|{s9} 그리고 종류는 {s8}. 
+str_s9_and_the_variety_is_s8_|{s9} 그리고 종류는 {s8}.
 str_s9_of_drink_which_guests_will_expect_in_great_abundance_the_amount_is_s8|{s9} 손님들이 가장 기대하는 술의 양은 {s8}
 str_s9_of_jewellery_which_is_essential_to_demonstrate_x_the_amount_is_s8_|{s9} 선물용으로 적합한 보석의 양은 {s8}.
 str_s9_of_fur_which_we_shall_x_the_amount_is_s8|{s9} 편안한 모피의 양은 {s8}.
@@ -2421,7 +2404,7 @@ str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressi
 str_indeed_please_continue|사실이지. 계속하시오.
 str_me|나를
 str_i_worry_about_those_with_whom_you_have_chosen_to_surround_yourself|나는 당신 주위에 선택된 그들과 같이 하는 것이 걱정이오.
-str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|나와 당신의 봉신들 사이에 현저한 문제가 몇몇 있소. 
+str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|나와 당신의 봉신들 사이에 현저한 문제가 몇몇 있소.
 str_my_liege_has_his_faults_but_i_dont_care_for_your_toadies|내 주군이 결점은 있지만, 나는 당신의 아첨에 신경쓰지 않을 것이오.
 str_i_think_youre_a_good_man_but_im_worried_that_you_might_be_pushed_in_the_wrong_direction_by_some_of_those_around_you|나는 당신이 좋은 사람이라 생각하오. 그러나 나는 당신 주위의 누군가에 의해 당신이 잘못된 방향으로 몰아붙여지고 있는 것은 아닌지 걱정되오.
 str_i_am_loathe_to_fight_alongside_you_so_long_as_you_take_under_your_wing_varlots_and_base_men|나는 오랫동안 당신의 날개 아래서 신하로서 당신과 나란히 싸우는 것이 매우 싫다고 생각해 왔소.
@@ -2497,9 +2480,9 @@ str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_
 str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met| 나는 우리가 마지막으로 만났을 때부터 당신의 명예스러운 행동을 신뢰하고 있어요.
 str_playername__i_am_so_glad_that_you_were_able_to_come| 전 당신이 와주셔서 정말 기뻐요.
 str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|저는 당신과 이야기하는게 즐거워요. 그러나 저는 사람들이 가족 외의 남자와 너무 오랫동안 이야기하는 여자에 대해서 사람들이 수근수근 거린다는 것을 당신이 이해할거라 믿어요 -- 비록 하늘은 이것이 절대 남자의 책임이 아니라는 것을 알고 있지만.
-str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|저는 당신과 이야기 하는게 얼마나 즐거운지 몰라요. 저는 저의 우아함과 아름다움이 부족하다고 수다 떨 사람들을 걱정하지 않아요. 
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 이 땅에 있는 귀족의 딸중 한명으로서, 저는 예절의 모범을 보여야만 해요. 
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 명문가의 딸로서, 저는 명성을 지켜야 해요. 
+str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|저는 당신과 이야기 하는게 얼마나 즐거운지 몰라요. 저는 저의 우아함과 아름다움이 부족하다고 수다 떨 사람들을 걱정하지 않아요.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 이 땅에 있는 귀족의 딸중 한명으로서, 저는 예절의 모범을 보여야만 해요.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 명문가의 딸로서, 저는 명성을 지켜야 해요.
 str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|비록 나를 향한 관심이 당신의 친절일지라도, 저는 당신의 호의에 더 좋아할 다른 숙녀를 당신이 찾을 수 있을 거라고 생각되는군요.
 str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|당신의 관심으로 저는 기쁘지만, 아마도 머지 않아 다른 숙녀를 찾으시겠죠...  우리는 말하겠죠... 서로 다른 성격에 대해서.
 str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|당신의 관심을 받아서 저는 기쁘지만, 저는 훌륭한 집안의 딸로서 저의 평판에 주의해야만 해요. 한 번에 한 남자와 너무 오래 이야기 하는 것은 옳지 않아요. 저는 당신이 이해하리라 믿어요. 지금은 실례하겠어요...
@@ -2512,11 +2495,11 @@ str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|또 다�
 str_do_you_why_what_a_most_gallant_thing_to_say|당신이요? 얼마나 친절하게 말하시는지 모르겠어요.
 str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|흠.. 저는 이런 경박함을 전적으로 동의한다고 말하지 못하겠어요. 하지만 조금은 기쁘다는걸 인정할께요.
 str_why_thank_you_you_are_most_kind_to_do_so|오, 감사합니다. 당신은 가장 친절하군요.
-str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|당신은 가장 정중하시군요, 그리고 정중함은 좋은 덕목이에요. 
-str_hmm_youre_a_bold_one_but_i_like_that_|흠. 당신은 뻔뻔스런 사람이군요, 그러나 전 그런게 좋아요. 
-str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|아, 흠, 그들 모두가 그렇게 말하죠. 그러나 문제 없어요. 칭찬은 적어도 좋은 시작을 위해서 좋은 방법이죠. 
+str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|당신은 가장 정중하시군요, 그리고 정중함은 좋은 덕목이에요.
+str_hmm_youre_a_bold_one_but_i_like_that_|흠. 당신은 뻔뻔스런 사람이군요, 그러나 전 그런게 좋아요.
+str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|아, 흠, 그들 모두가 그렇게 말하죠. 그러나 문제 없어요. 칭찬은 적어도 좋은 시작을 위해서 좋은 방법이죠.
 str_oh_do_you_mean_that_such_a_kind_thing_to_say|오! 그런 의미인가요? 당신은 정말 친절하군요!
-str_you_are_a_most_gallant_young_man_|당신은 가장 용감한 남자에요. 
+str_you_are_a_most_gallant_young_man_|당신은 가장 용감한 남자에요.
 str__do_come_and_see_me_again_soon| 곧 나를 보러 다시 와줘요.
 str_you_intend_to_ask_s12_for_permission_to_marry_s15|당신은 {s15}와의 결혼을 {s12}에게 허락받을 생각이다.
 str_you_intend_to_ask_s12_to_pressure_s10_to_marry_you|당신은 {s12}에게 {s10}이(가) 당신과 결혼하도록 압력을 행사해주기를 요청할 생각이다.
@@ -2526,7 +2509,7 @@ str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|에휴... 저�
 str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|당신은 {s13}에게 도전해 {s11}에게 대한 그의 구혼을 포기하도록 강제할 예정이다.
 str_farewell|안녕히 가시오.
 str_farewell_playername|잘 가시오, {playername}.
-str___we_believe_that_there_is_money_to_be_made_selling_| 우리는 우리가 만든 물품들을 이 곳에서 팔아 돈을 벌고 있소. 
+str___we_believe_that_there_is_money_to_be_made_selling_| 우리는 우리가 만든 물품들을 이 곳에서 팔아 돈을 벌고 있소.
 str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole| 우리는 우리가 생산한 물품들을 창고로 옮기겠소. 비록 각 물품들의 시세 차이가 그렇게 많지 않더라도, 전체적으로 이익이 나길 바라오.
 str_s14and_other_goods|{s14}그리고 다른 물품들도요.
 str__have_you_not_signed_a_truce_with_our_lord| 당신은 우리의 주군과 평화 협정을 체결하지 않았소?
@@ -2783,7 +2766,7 @@ str_reason_8|우리는 적절하게 잘 방어 되고 있다고 믿고 있소.
 str_reason_9|우리는 허술하게 방어되고 있다고 믿소.
 str_has_decided_that_an_attack_on_|공략하기로 결정했소
 str_this_would_be_better_worth_the_effort|이것은 그것의 가치와, 거리, 수비병의 수 같은 것들을 고려해 볼 때, 시도할만한 가치가 더 있소.
-str_has_decided_to_defend_|방어하기로 결정했소 
+str_has_decided_to_defend_|방어하기로 결정했소
 str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so_this_can_be_reason_marshal_choosed_defending_s4|어떤 위협이 있을 경우, 우리는 공격을 하기 전에 우리의 영지들을 지켜야만 하오. 그래서 나는 적들에게서 {s4}을(를) 방어하기 위해 가고 있소.
 str_are_you_all_right|그럼... 저의 제의에 대해 설명하겠다.
 str_you_are_awake|아 -- 일어났구려, 당신이 아직 걸을 수 있는 것 같아 다행이오.
@@ -2960,7 +2943,7 @@ str_trait_4|강인함
 str_s12s15_dominates_its_weaker_neighbor_s16|{s12}{s15}은(는) {reg4?그녀:그}의 약한 이웃인 {s16}을(를) 지배하려 하고 있습니다.
 str_s12s15_acts_to_drive_the_people_of_s16_and_their_like_out_of_the_isles|{s12}{s15}은(는) {s16}을(를) 섬들에게서 쫓아내려 하고 있습니다!
 str_none|없음
-str_camp_pillage| 적이 야영지에 들어왔습니다! 
+str_camp_pillage| 적이 야영지에 들어왔습니다!
 str_camp_pillage2| 적이 당신의 야영지의 보관함에 접근해, 돈을 훔쳤습니다!^{s4} 페닝을 잃었습니다.
 str_capitan_mode_started|Reconnaissance Round: Explore the terrain and kill enemy champions. In the next round, your troops will come!
 str_capitan_mode_started2|Battle Round! Lead your troops to victory!
@@ -3070,213 +3053,6 @@ str_irish_level0_companion|Cliarthaire Companion
 str_irish_level1_companion|Curraidh Companion
 str_irish_horseman|Marcach Horseman
 str_irish_knight|Deaisbard Knight
-str_standard_dragon1|standard dragon1
-str_standard_dragon2|standard dragon2
-str_standard_dragon3|standard dragon3
-str_standard_dragon4|standard dragon4
-str_standard_dragon5|standard dragon5
-str_standard_dragon6|standard dragon6
-str_standard_dragon7|standard dragon7
-str_standard_dragon8|standard dragon8
-str_standard_extra01|standard extra01
-str_standard_extra02|standard extra02
-str_standard_extra03|standard extra03
-str_standard_extra04|standard extra04
-str_standard_extra05|standard extra05
-str_standard_extra06|standard extra06
-str_standard_extra07|standard extra07
-str_standard_extra08|standard extra08
-str_standard_extra09|standard extra09
-str_standard_extra10|standard extra10
-str_standard_extra11|standard extra11
-str_standard_extra12|standard extra12
-str_standard_extra13|standard extra13
-str_standard_extra14|standard extra14
-str_standard_extra15|standard extra15
-str_standard_extra16|standard extra16
-str_standard_extra17|standard extra17
-str_standard_extra18|standard extra18
-str_standard_extra19|standard extra19
-str_standard_extra20|standard extra20
-str_standard_extra21|standard extra21
-str_standard_extra201|standard extra201
-str_standard_extra202|standard extra202
-str_standard_extra203|standard extra203
-str_standard_extra204|standard extra204
-str_standard_extra205|standard extra205
-str_standard_extra206|standard extra206
-str_standard_extra208|standard extra208
-str_standard_extra209|standard extra209
-str_standard_extra210|standard extra210
-str_standard_extra211|standard extra211
-str_standard_anglosaxon01|standard anglosaxon01
-str_standard_anglosaxon02|standard anglosaxon02
-str_standard_anglosaxon03|standard anglosaxon03
-str_standard_anglosaxon04|standard anglosaxon04
-str_standard_anglosaxon05|standard anglosaxon05
-str_standard_anglosaxon06|standard anglosaxon06
-str_standard_anglosaxon07|standard anglosaxon07
-str_standard_anglosaxon08|standard anglosaxon08
-str_standard_anglosaxon09|standard anglosaxon09
-str_standard_anglosaxon10|standard anglosaxon10
-str_standard_anglosaxon11|standard anglosaxon11
-str_standard_anglosaxon12|standard anglosaxon12
-str_standard_anglosaxon13|standard anglosaxon13
-str_standard_anglosaxon14|standard anglosaxon14
-str_standard_anglosaxon15|standard anglosaxon15
-str_standard_anglosaxon16|standard anglosaxon16
-str_standard_anglosaxon17|standard anglosaxon17
-str_standard_anglosaxon18|standard anglosaxon18
-str_standard_anglosaxon19|standard anglosaxon19
-str_standard_anglosaxon20|standard anglosaxon20
-str_standard_anglosaxon21|standard anglosaxon21
-str_standard_anglosaxon201|standard anglosaxon201
-str_standard_anglosaxon202|standard anglosaxon202
-str_standard_anglosaxon203|standard anglosaxon203
-str_standard_anglosaxon204|standard anglosaxon204
-str_standard_briton01|standard briton01
-str_standard_briton02|standard briton02
-str_standard_briton03|standard briton03
-str_standard_briton04|standard briton04
-str_standard_briton05|standard briton05
-str_standard_briton06|standard briton06
-str_standard_briton07|standard briton07
-str_standard_briton08|standard briton08
-str_standard_briton09|standard briton09
-str_standard_briton10|standard briton10
-str_standard_briton11|standard briton11
-str_standard_briton12|standard briton12
-str_standard_briton13|standard briton13
-str_standard_briton14|standard briton14
-str_standard_briton15|standard briton15
-str_standard_briton16|standard briton16
-str_standard_briton17|standard briton17
-str_standard_briton18|standard briton18
-str_standard_briton19|standard briton19
-str_standard_briton20|standard briton20
-str_standard_briton21|standard briton21
-str_standard_briton201|standard briton201
-str_standard_briton202|standard briton202
-str_standard_briton203|standard briton203
-str_standard_briton204|standard briton204
-str_standard_briton205|standard briton205
-str_standard_briton206|standard briton206
-str_standard_briton207|standard briton207
-str_standard_briton208|standard briton208
-str_standard_briton209|standard briton209
-str_standard_briton210|standard briton210
-str_standard_briton211|standard briton211
-str_standard_briton212|standard briton212
-str_standard_briton213|standard briton213
-str_standard_briton214|standard briton214
-str_standard_briton215|standard briton215
-str_standard_briton216|standard briton216
-str_standard_briton217|standard briton217
-str_standard_briton218|standard briton218
-str_standard_briton219|standard briton219
-str_standard_briton220|standard briton220
-str_standard_briton221|standard briton221
-str_standard_irish01|standard irish01
-str_standard_irish02|standard irish02
-str_standard_irish03|standard irish03
-str_standard_irish04|standard irish04
-str_standard_irish05|standard irish05
-str_standard_irish06|standard irish06
-str_standard_irish07|standard irish07
-str_standard_irish08|standard irish08
-str_standard_irish09|standard irish09
-str_standard_irish10|standard irish10
-str_standard_irish11|standard irish11
-str_standard_irish12|standard irish12
-str_standard_irish13|standard irish13
-str_standard_irish14|standard irish14
-str_standard_irish15|standard irish15
-str_standard_irish16|standard irish16
-str_standard_irish17|standard irish17
-str_standard_irish18|standard irish18
-str_standard_irish19|standard irish19
-str_standard_irish20|standard irish20
-str_standard_irish21|standard irish21
-str_standard_irish201|standard irish201
-str_standard_irish202|standard irish202
-str_standard_irish203|standard irish203
-str_standard_irish204|standard irish204
-str_standard_irish205|standard irish205
-str_standard_irish206|standard irish206
-str_standard_irish207|standard irish207
-str_standard_irish208|standard irish208
-str_standard_irish209|standard irish209
-str_standard_irish210|standard irish210
-str_standard_irish211|standard irish211
-str_standard_irish212|standard irish212
-str_standard_irish213|standard irish213
-str_standard_pict01|standard pict01
-str_standard_pict02|standard pict02
-str_standard_pict03|standard pict03
-str_standard_pict04|standard pict04
-str_standard_pict05|standard pict05
-str_standard_pict06|standard pict06
-str_standard_pict07|standard pict07
-str_standard_pict08|standard pict08
-str_standard_viking01|standard viking01
-str_standard_viking02|standard viking02
-str_standard_viking03|standard viking03
-str_standard_viking04|standard viking04
-str_standard_viking05|standard viking05
-str_standard_viking06|standard viking06
-str_standard_viking07|standard viking07
-str_standard_viking08|standard viking08
-str_standard_viking09|standard viking09
-str_standard_viking10|standard viking10
-str_standard_viking11|standard viking11
-str_standard_viking12|standard viking12
-str_standard_viking13|standard viking13
-str_standard_viking14|standard viking14
-str_standard_viking15|standard viking15
-str_standard_viking16|standard viking16
-str_standard_viking17|standard viking17
-str_standard_viking18|standard viking18
-str_standard_viking19|standard viking19
-str_standard_viking20|standard viking20
-str_standard_viking21|standard viking21
-str_standard_viking201|standard viking201
-str_standard_viking202|standard viking202
-str_standard_viking203|standard viking203
-str_standard_viking204|standard viking204
-str_standard_viking205|standard viking205
-str_standard_viking206|standard viking206
-str_standard_viking207|standard viking207
-str_standard_viking208|standard viking208
-str_standard_viking209|standard viking209
-str_standard_viking210|standard viking210
-str_standard_viking211|standard viking211
-str_standard_viking212|standard viking212
-str_standard_viking213|standard viking213
-str_standard_viking214|standard viking214
-str_standard_viking215|standard viking215
-str_standard_viking216|standard viking216
-str_standard_kingdom_a|standard kingdom a
-str_standard_kingdom_b|standard kingdom b
-str_standard_kingdom_c|standard kingdom c
-str_standard_kingdom_d|standard kingdom d
-str_standard_kingdom_e|standard kingdom e
-str_standard_kingdom_f|standard kingdom f
-str_standard_kingdom_g|standard kingdom g
-str_standard_kingdom_h|standard kingdom h
-str_standard_kingdom_i|standard kingdom i
-str_standard_kingdom_j|standard kingdom j
-str_standard_kingdom_k|standard kingdom k
-str_standard_kingdom_l|standard kingdom l
-str_standard_kingdom_ll|standard kingdom ll
-str_standard_kingdom_m|standard kingdom m
-str_standard_kingdom_n|standard kingdom n
-str_standard_kingdom_o|standard kingdom o
-str_standard_kingdom_p|standard kingdom p
-str_standard_kingdom_q|standard kingdom q
-str_standard_kingdom_r|standard kingdom r
-str_standard_kingdom_s|standard kingdom s
-str_standard_kingdom_t|standard kingdom t
-str_standard_default|standard extra207
 str_multi_scene_coast|해안
 str_multi_scene_fjord|피오르드
 str_multi_scene_islands|섬
@@ -3376,3 +3152,228 @@ str_changing_gametype_is_voteable|Changing gametype is voteable.{***}
 str_changing_gametype_is_not_voteable|Changing gametype is not voteable.{***}
 str_weapon_break|Damageable Equipment:{***}
 str_no_suit_religion|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.{***}
+str_modifications|
+str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
+str_s21__the_s5_has_no_outstanding_issues_with_the_s14{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
+str_assigned_lord_reputation_and_relations_cheat_mode_reg3할당된 영주의 평판과 관계도, 치트 모드: {reg3}
+str_reputation_cheat_mode_only_martial_평판 (cheat mode only): 호전적^
+str_reputation_cheat_mode_only_debauched_평판 (cheat mode only): 방탕함^
+str_reputation_cheat_mode_only_pitiless_평판 (cheat mode only): 무자비함^
+str_reputation_cheat_mode_only_calculating_평판 (cheat mode only): 계산적^
+str_reputation_cheat_mode_only_quarrelsome_평판 (cheat mode only): 싸움꾼^
+str_reputation_cheat_mode_only_goodnatured_평판 (cheat mode only): 온화함^
+str_reputation_cheat_mode_only_upstanding_평판 (cheat mode only): 강직함^
+str_reputation_cheat_mode_only_conventional_평판 (cheat mode only): 관습적^
+str_reputation_cheat_mode_only_adventurous_평판 (cheat mode only): 모험적^
+str_reputation_cheat_mode_only_romantic_평판 (cheat mode only): 낭만적^
+str_reputation_cheat_mode_only_moralist_평판 (cheat mode only): 도덕적^
+str_reputation_cheat_mode_only_ambitious_평판 (cheat mode only): 야심찬^
+str_reputation_cheat_mode_only_reg11_평판 (cheat mode only): {reg11}^
+str_reputation_only_reg11_평판 (cheat mode only): {reg11}^
+str_standard_dragon1standard dragon1
+str_standard_dragon2standard dragon2
+str_standard_dragon3standard dragon3
+str_standard_dragon4standard dragon4
+str_standard_dragon5standard dragon5
+str_standard_dragon6standard dragon6
+str_standard_dragon7standard dragon7
+str_standard_dragon8standard dragon8
+str_standard_extra01standard extra01
+str_standard_extra02standard extra02
+str_standard_extra03standard extra03
+str_standard_extra04standard extra04
+str_standard_extra05standard extra05
+str_standard_extra06standard extra06
+str_standard_extra07standard extra07
+str_standard_extra08standard extra08
+str_standard_extra09standard extra09
+str_standard_extra10standard extra10
+str_standard_extra11standard extra11
+str_standard_extra12standard extra12
+str_standard_extra13standard extra13
+str_standard_extra14standard extra14
+str_standard_extra15standard extra15
+str_standard_extra16standard extra16
+str_standard_extra17standard extra17
+str_standard_extra18standard extra18
+str_standard_extra19standard extra19
+str_standard_extra20standard extra20
+str_standard_extra21standard extra21
+str_standard_extra201standard extra201
+str_standard_extra202standard extra202
+str_standard_extra203standard extra203
+str_standard_extra204standard extra204
+str_standard_extra205standard extra205
+str_standard_extra206standard extra206
+str_standard_extra208standard extra208
+str_standard_extra209standard extra209
+str_standard_extra210standard extra210
+str_standard_extra211standard extra211
+str_standard_anglosaxon01standard anglosaxon01
+str_standard_anglosaxon02standard anglosaxon02
+str_standard_anglosaxon03standard anglosaxon03
+str_standard_anglosaxon04standard anglosaxon04
+str_standard_anglosaxon05standard anglosaxon05
+str_standard_anglosaxon06standard anglosaxon06
+str_standard_anglosaxon07standard anglosaxon07
+str_standard_anglosaxon08standard anglosaxon08
+str_standard_anglosaxon09standard anglosaxon09
+str_standard_anglosaxon10standard anglosaxon10
+str_standard_anglosaxon11standard anglosaxon11
+str_standard_anglosaxon12standard anglosaxon12
+str_standard_anglosaxon13standard anglosaxon13
+str_standard_anglosaxon14standard anglosaxon14
+str_standard_anglosaxon15standard anglosaxon15
+str_standard_anglosaxon16standard anglosaxon16
+str_standard_anglosaxon17standard anglosaxon17
+str_standard_anglosaxon18standard anglosaxon18
+str_standard_anglosaxon19standard anglosaxon19
+str_standard_anglosaxon20standard anglosaxon20
+str_standard_anglosaxon21standard anglosaxon21
+str_standard_anglosaxon201standard anglosaxon201
+str_standard_anglosaxon202standard anglosaxon202
+str_standard_anglosaxon203standard anglosaxon203
+str_standard_anglosaxon204standard anglosaxon204
+str_standard_briton01standard briton01
+str_standard_briton02standard briton02
+str_standard_briton03standard briton03
+str_standard_briton04standard briton04
+str_standard_briton05standard briton05
+str_standard_briton06standard briton06
+str_standard_briton07standard briton07
+str_standard_briton08standard briton08
+str_standard_briton09standard briton09
+str_standard_briton10standard briton10
+str_standard_briton11standard briton11
+str_standard_briton12standard briton12
+str_standard_briton13standard briton13
+str_standard_briton14standard briton14
+str_standard_briton15standard briton15
+str_standard_briton16standard briton16
+str_standard_briton17standard briton17
+str_standard_briton18standard briton18
+str_standard_briton19standard briton19
+str_standard_briton20standard briton20
+str_standard_briton21standard briton21
+str_standard_briton201standard briton201
+str_standard_briton202standard briton202
+str_standard_briton203standard briton203
+str_standard_briton204standard briton204
+str_standard_briton205standard briton205
+str_standard_briton206standard briton206
+str_standard_briton207standard briton207
+str_standard_briton208standard briton208
+str_standard_briton209standard briton209
+str_standard_briton210standard briton210
+str_standard_briton211standard briton211
+str_standard_briton212standard briton212
+str_standard_briton213standard briton213
+str_standard_briton214standard briton214
+str_standard_briton215standard briton215
+str_standard_briton216standard briton216
+str_standard_briton217standard briton217
+str_standard_briton218standard briton218
+str_standard_briton219standard briton219
+str_standard_briton220standard briton220
+str_standard_briton221standard briton221
+str_standard_irish01standard irish01
+str_standard_irish02standard irish02
+str_standard_irish03standard irish03
+str_standard_irish04standard irish04
+str_standard_irish05standard irish05
+str_standard_irish06standard irish06
+str_standard_irish07standard irish07
+str_standard_irish08standard irish08
+str_standard_irish09standard irish09
+str_standard_irish10standard irish10
+str_standard_irish11standard irish11
+str_standard_irish12standard irish12
+str_standard_irish13standard irish13
+str_standard_irish14standard irish14
+str_standard_irish15standard irish15
+str_standard_irish16standard irish16
+str_standard_irish17standard irish17
+str_standard_irish18standard irish18
+str_standard_irish19standard irish19
+str_standard_irish20standard irish20
+str_standard_irish21standard irish21
+str_standard_irish201standard irish201
+str_standard_irish202standard irish202
+str_standard_irish203standard irish203
+str_standard_irish204standard irish204
+str_standard_irish205standard irish205
+str_standard_irish206standard irish206
+str_standard_irish207standard irish207
+str_standard_irish208standard irish208
+str_standard_irish209standard irish209
+str_standard_irish210standard irish210
+str_standard_irish211standard irish211
+str_standard_irish212standard irish212
+str_standard_irish213standard irish213
+str_standard_pict01standard pict01
+str_standard_pict02standard pict02
+str_standard_pict03standard pict03
+str_standard_pict04standard pict04
+str_standard_pict05standard pict05
+str_standard_pict06standard pict06
+str_standard_pict07standard pict07
+str_standard_pict08standard pict08
+str_standard_viking01standard viking01
+str_standard_viking02standard viking02
+str_standard_viking03standard viking03
+str_standard_viking04standard viking04
+str_standard_viking05standard viking05
+str_standard_viking06standard viking06
+str_standard_viking07standard viking07
+str_standard_viking08standard viking08
+str_standard_viking09standard viking09
+str_standard_viking10standard viking10
+str_standard_viking11standard viking11
+str_standard_viking12standard viking12
+str_standard_viking13standard viking13
+str_standard_viking14standard viking14
+str_standard_viking15standard viking15
+str_standard_viking16standard viking16
+str_standard_viking17standard viking17
+str_standard_viking18standard viking18
+str_standard_viking19standard viking19
+str_standard_viking20standard viking20
+str_standard_viking21standard viking21
+str_standard_viking201standard viking201
+str_standard_viking202standard viking202
+str_standard_viking203standard viking203
+str_standard_viking204standard viking204
+str_standard_viking205standard viking205
+str_standard_viking206standard viking206
+str_standard_viking207standard viking207
+str_standard_viking208standard viking208
+str_standard_viking209standard viking209
+str_standard_viking210standard viking210
+str_standard_viking211standard viking211
+str_standard_viking212standard viking212
+str_standard_viking213standard viking213
+str_standard_viking214standard viking214
+str_standard_viking215standard viking215
+str_standard_viking216standard viking216
+str_standard_kingdom_astandard kingdom a
+str_standard_kingdom_bstandard kingdom b
+str_standard_kingdom_cstandard kingdom c
+str_standard_kingdom_dstandard kingdom d
+str_standard_kingdom_estandard kingdom e
+str_standard_kingdom_fstandard kingdom f
+str_standard_kingdom_gstandard kingdom g
+str_standard_kingdom_hstandard kingdom h
+str_standard_kingdom_istandard kingdom i
+str_standard_kingdom_jstandard kingdom j
+str_standard_kingdom_kstandard kingdom k
+str_standard_kingdom_lstandard kingdom l
+str_standard_kingdom_llstandard kingdom ll
+str_standard_kingdom_mstandard kingdom m
+str_standard_kingdom_nstandard kingdom n
+str_standard_kingdom_ostandard kingdom o
+str_standard_kingdom_pstandard kingdom p
+str_standard_kingdom_qstandard kingdom q
+str_standard_kingdom_rstandard kingdom r
+str_standard_kingdom_sstandard kingdom s
+str_standard_kingdom_tstandard kingdom t
+str_standard_defaultstandard extra207
