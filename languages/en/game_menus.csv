@@ -458,7 +458,7 @@ menu_trophy_hihgking_premium|상급 왕 트로피는 모두가 탐내는 물건�
 mno_premium_norse|북부 왕의 트로피를 교환합니다.
 mno_premium_cymry|알반 왕의 트로피를 교환합니다.
 mno_premium_irish|에리우 상왕의 트로피를 교환합니다.
-mno_premium_saxon|브리튼왈다의 트로피를 교환합니다.
+mno_premium_saxon|브레튼왈다의 트로피를 교환합니다.
 menu_town_trade_assessment_begin|당신은 인근 지역의 교역품 가격에 대한 여러 소문과 대화를 엿들었습니다.^당신은 귀를 기울이며 최선의 거래를 찾아내려 노력했습니다.
 menu_town_trade_assessment|부대에서 상술({reg2})이 가장 뛰어난 {reg3?당신은:{s1}은(는)} 어떤 물건을 거래하는 것이 가장 좋을지 분석했습니다. {s2}
 menu_sneak_into_town_suceeded|가난한 순례자로 변장하여 경비병들을 속이고 도시 안으로 잠입했습니다.
@@ -563,7 +563,7 @@ menu_notification_player_wedding_day|{s8} 측에서 전령이 도착했습니다
 menu_notification_center_under_siege|{s3}의 {s2}(이)가 {s1}을(를) 포위했습니다!^^성벽 안의 전사들은 무기와 투석용 바위들을 챙긴 채 적의 공격에 저항하며 버티고 있습니다.
 menu_notification_village_raided|적들이 영지를 유린하고 있습니다!^^{s3}의 {s2}(이)가 {s1} 마을을 약탈하고 있습니다!
 menu_notification_village_raid_started|당신의 마을이 공격받고 있습니다!^^{s3}의 {s2}(이)가 {s1}을(를) 약탈하는 중입니다.
-menu_notification_one_faction_left|노스란드가 단 하나의 왕국에 의해 통일되었습니다!^^{s1}(이)가 모든 경쟁국을 물리치고 유일한 왕국으로 우뚝 섰습니다.^^당신이 바로 브리튼왈다입니다!
+menu_notification_one_faction_left|노스란드가 단 하나의 왕국에 의해 통일되었습니다!^^{s1}(이)가 모든 경쟁국을 물리치고 유일한 왕국으로 우뚝 섰습니다.^^당신이 바로 브레튼왈다입니다!
 menu_notification_oath_renounced_faction_defeated|당신이 이전에 몸담았던 국가가 멸망했습니다!^^{s1}와의 전쟁에서 승리했습니다! 충성 서약을 철회한 이후 시작된 당신의 투쟁이 마침내 마침표를 찍었습니다.
 menu_notification_center_lost|영지를 잃었습니다!^^{s2}에게 {s1}을(를) 빼앗겼습니다.
 menu_notification_troop_left_players_faction|배신!^^{s1}(이)가 {s2}를 저버리고 {s3}에 합류하였습니다.
