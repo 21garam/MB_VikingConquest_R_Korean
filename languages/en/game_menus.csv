@@ -696,7 +696,7 @@ menu_doccinga_c_assault|독싱가 근처 언덕에서 마을 사람들이 도망
 mno_choice_01ass_1d|독싱가를 돕기 위해 전사에게 다가갑니다.
 mno_choice_doccinga|병력을 더 모집한 뒤에 돌아오자.
 mno_encounter_save|나중에 돌아오겠다. 독싱가는 조금 더 버틸 수 있을 것이다.
-menu_doccinga_c_assaultnoche|밤이 깊어 병사들에게 휴식이 필요합니다. 아침에 다시 오십시오.
+menu_doccinga_c_assaultnoche|밤이 깊었고, 당신의 병사들에게도 휴식이 필요합니다.^아침에 다시 오십시오.
 mno_choice_01assault_3d|계속.
 menu_noaccessallowed|너무 많은 병사들을 데리고 다니면 사람들은 공격으로 오해하여 두려워할 수 있습니다. 당분간 일부 병사들을 막사에 두고 오는 것이 좋을 것입니다.
 mno_choice_01nall_3d|계속.
