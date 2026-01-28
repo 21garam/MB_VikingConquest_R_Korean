@@ -488,15 +488,15 @@ str_npc1_backstory_response_1|숙련된 추적자를 보내주어 고맙게 생�
 str_npc2_backstory_response_1|음, 일거리를 줄 수도 있겠군. 싸울 줄은 아시오?
 str_npc3_backstory_response_1|음, 안타까운 사정이구려. 당신의 치유술로 나와 전사들을 돕는 게 어떻겠소?
 str_npc4_backstory_response_1|내 방패벽에 픽트인은 없소. 그리고 마침 일손이 하나 더 필요한 참이었소.
-str_npc5_backstory_response_1|바로 그 정신이오! 내가 자네에게 그런 기회를 줄 수 있을 것 같소.
+str_npc5_backstory_response_1|바로 그 정신이오! 내가 당신에게 그런 기회를 줄 수 있을 것 같소.
 str_npc6_backstory_response_1|우리는 함께해야 하오. 우리의 길은 결국 하나로 향하고 있소.
 str_npc7_backstory_response_1|흠... 혹시 일자리를 찾고 있는 거요?
-str_npc8_backstory_response_1|내게 자네를 위한 기회와 미래가 있소.
+str_npc8_backstory_response_1|내게 당신을 위한 기회와 미래가 있소.
 str_npc9_backstory_response_1|원한다면 잠시 내 방패벽에 합류해도 좋소.
 str_npc10_backstory_response_1|일자리를 찾고 있소? 경험 많은 전사가 필요하긴 하오.
 str_npc11_backstory_response_1|행운 때문에 합류하고 싶다고? 뭐... 좋소! 나눠줄 행운은 아주 넉넉하니까!
 str_npc12_backstory_response_1|의사라... 좋소, 당신을 환영하겠소.
-str_npc13_backstory_response_1|내 방패벽에 자네를 기용할 수도 있겠군.
+str_npc13_backstory_response_1|내 방패벽에 당신을 기용할 수도 있겠군.
 str_npc14_backstory_response_1|내게 검 한 자루가 더 필요할 것 같소.
 str_npc15_backstory_response_1|당신의 그런 기술들은 유용할 것 같구려.
 str_npc16_backstory_response_1|정확히 무엇을 할 수 있소?
@@ -1000,18 +1000,18 @@ str_npc13_turn_against|자, {playername}. 결국 적으로 만났군. 솔직히 
 str_npc14_turn_against|당신을 적으로 마주하다니 슬픈 일이구려. 한편으로는 당신 같은 전장의 거인을 상대로 싸우는 것이 흔치 않은 특권이라고 생각하오. 진실로 오늘 우리의 대결은 이 땅의 가객들과 시인들에게 수개월 치의 술과 은전을 가져다줄 이야깃거리가 되겠군요, 안 그렇겠소?
 str_npc15_turn_against|아... 이런 날이 오지 않기를 바랐는데... 그저 한마디만 하겠소. 당신이 저를 계속 믿어주었다면 상황이 이렇게까지 되지는 않았을 것에오. 뭐, 당신 생각은 다를지도 모르겠소.
 str_npc16_turn_against|우리가 함께 여행하는 동안 당신은 오직 나를 이용하고 속이려 했다는 걸 이제 알겠소. 당신의 영혼은 악마의 것이고, 당신의 심장에는 옛 신들에 대한 욕망의 어둠이 도사리고 있소. 그리스도의 대의를 위해 전장에서 당신을 꺾어야겠소. 오늘 하나님이 내 곁에 계심을 의심치 마시오. 당신에겐 오직 패배만이 기다리고 있을 뿐이오.
-str_comment_intro_liege_affiliated|자네가 내가 아닌 다른 왕에게 충성을 맹세했다는 소식을 들었네. 내 왕권을 부정하는 참칭자 중 한 명을 섬기고 있군. 그래도 대화는 나눌 수 있겠지.
-str_comment_intro_famous_liege|자네의 명성이 자네 생각보다 더 빨리 퍼지고 있군! 이제 자네의 용맹에 어울리는 군주를 찾아볼 때가 된 것 같지 않은가?
-str_comment_intro_famous_martial|자네의 명성이 자네 생각보다 더 빨리 퍼진다오! 어쩌면 우리 각자의 용기를 경기에서나 전장에서 시험해 볼 기회가 있을지도 모르겠소.
+str_comment_intro_liege_affiliated|바로 그 정신이오! 내가 당신에게 그런 기회를 줄 수 있을 것 같소.
+str_comment_intro_famous_liege|당신의 명성이 당신의 생각보다 더 빨리 퍼지고 있군! 이제 당신의 용맹에 어울리는 군주를 찾아볼 때가 된 것 같지 않은가?
+str_comment_intro_famous_martial|당신의 명성이 당신의 생각보다 더 빨리 퍼진다오! 어쩌면 우리 각자의 용기를 경기에서나 전장에서 시험해 볼 기회가 있을지도 모르겠소.
 str_comment_intro_famous_badtempered|소문은 익히 들었소. 뭐, 긴말 하는 건 딱 질색이니 할 말이 있다면 당장 내뱉어 보시오.
 str_comment_intro_famous_pitiless|당신의 이름은 익히 들어 알고 있소. 사람들의 마음속에 공포를 심어주는 이름이지. 아주 좋소. 언제 시간을 내어 진지하게 대화나 나누어 봅시다.
 str_comment_intro_famous_cunning|아, 드디어 만났군. 당신은 꽤 알아둘 가치가 있는 {reg59?여인:사내} 같구려. 가끔 대화나 나누며 지냅시다.
-str_comment_intro_famous_sadistic|난 당신의 이름을 알고 있소. 내 귀에 들리는 바로는, 자네 때문에 통곡하는 과부들이 한둘이 아니라고 하더군. 뭐, 내가 상관할 바는 아니지만.
-str_comment_intro_famous_goodnatured|자네 소문은 들었네! 드디어 얼굴을 보게 되어 정말 반갑구려.
-str_comment_intro_famous_upstanding|자네 이름은 알고 있네. 아주 용맹한 전사라고들 하더군. 자네의 명예와 자비심이 그 용맹함에 뒤지지 않기를 바랄 뿐이오.
+str_comment_intro_famous_sadistic|난 당신의 이름을 알고 있소. 내 귀에 들리는 바로는, 당신 때문에 통곡하는 과부들이 한둘이 아니라고 하더군. 뭐, 내가 상관할 바는 아니지만.
+str_comment_intro_famous_goodnatured|당신의 소문은 들었소! 드디어 얼굴을 보게 되어 정말 반갑구려.
+str_comment_intro_famous_upstanding|당신의 이름은 알고 있소. 아주 용맹한 전사라고들 하더군. 당신의 명예와 자비심이 그 용맹함에 뒤지지 않기를 바랄 뿐이오.
 str_comment_intro_noble_liege|귀족의 문장을 달고 있군. 비록 어디 것인지는 모르겠지만 말이오. 내가 신뢰할 만한 가치를 증명해 보인다면, 나를 위해 싸워줄 훌륭한 {reg59?전사:인재}는 언제나 환영이오.
 str_comment_intro_noble_martial|귀족의 깃발을 들고 있군. 문장은 낯설지만 말이오. 상관없소. 용감한 {reg59?전사:사내}에게 온 세상이 집이라고들 하지 않소!
-str_comment_intro_noble_badtempered|자네 깃발의 문장은 처음 보는 것이군. 안 그래도 이곳에 이방인이 넘쳐나는데, 또 한 명 추가된 모양이군.
+str_comment_intro_noble_badtempered|당신의 깃발의 문장은 처음 보는 것이군. 안 그래도 이곳에 이방인이 넘쳐나는데, 또 한 명 추가된 모양이군.
 str_comment_intro_noble_pitiless|귀족의 문장을 달고 있군. 하지만 어디 것인지는 모르겠소. 전쟁의 찌꺼기를 먹고 살찌러 온 또 다른 독수리 한 마리가 나타난 모양이군!
 str_comment_intro_noble_cunning|귀족의 문장을 달고 있군. 문장은 낯설지만 말이오. 그래도 언젠가 위대한 전사임을 증명할지 모를 {reg59?여인과:사내와} 안면을 터두는 건 늘 가치 있는 일이지.
 str_comment_intro_noble_sadistic|귀족의 문장을 달고 있군. 처음 보는 문장인데... 혹시 잘난 척하는 소도둑놈의 사생아인가? 아니면 어디서 훔친 것이오?
@@ -1030,7 +1030,7 @@ str_comment_intro_female_famous_martial|당신에 대한 소문은 익히 들었
 str_comment_intro_female_famous_badtempered|나는 당신에 대한 얘기를 들어봤소. 남자들처럼 싸우는 법을 잘 아는 여자라고 하더군.
 str_comment_intro_female_famous_pitiless|나는 당신의 이름을 알고 있소. 당신의 용맹함이 남자들의 가슴에 두려움을 심어주고 있다지. 언제 한번 진지하게 이야기나 나눠 보았으면 좋겠소.
 str_comment_intro_female_famous_cunning|드디어 만났군. 당신은 알아두면 꽤 도움이 될 만한 여자인 것 같소. 종종 이야기나 나눕시다.
-str_comment_intro_female_famous_sadistic|나는 당신의 이름을 잘 알고 있소. 내 듣기로는 자네 때문에 통곡하는 과부들이 한둘이 아니라더군. 뭐, 내가 상관할 바는 아니지만 말이오.
+str_comment_intro_female_famous_sadistic|나는 당신의 이름을 잘 알고 있소. 내 듣기로는 당신 때문에 통곡하는 과부들이 한둘이 아니라더군. 뭐, 내가 상관할 바는 아니지만 말이오.
 str_comment_intro_female_famous_goodnatured|당신 소문은 익히 들었소! 드디어 직접 뵙게 되어 정말 영광이구려.
 str_comment_intro_female_famous_upstanding|당신의 이름을 알고 있소. 아주 용맹한 전사라고들 하더군. 당신의 명예와 자비심이 그 용맹함에 뒤지지 않기를 바랄 뿐이오.
 str_comment_intro_female_noble_liege|여자가 전사들을 이끄는 광경은 흔치 않소. 하지만 지금처럼 암울한 시기에는, 용감하고 충성스럽기만 하다면 검을 쥔 손을 내칠 이유가 없지.
@@ -1082,7 +1082,7 @@ str_comment_you_stole_cattles_from_my_village_enemy_coldblooded|{s51} 주민들�
 str_comment_you_stole_cattles_from_my_village_enemy|{s51} 주민들의 소를 훔쳤다는 소식을 들었소. 이 수치스러운 짓에 합당한 대가를 치러야 할 것이오.
 str_comment_you_stole_cattles_from_my_village_unfriendly_spiteful|{s51}에 사는 내 백성들의 소를 훔쳤더군. 한 번만 더 그랬다간 당신의 배를 물고기 배 가르듯 갈라버릴 것이오!
 str_comment_you_stole_cattles_from_my_village_friendly|당신이 {s51} 주민들의 소를 훔쳤다는 말을 들었소. 이런 짓은 우리의 우정을 무덤으로 끌고 가는 일 밖에 되지 않소.
-str_comment_you_stole_cattles_from_my_village_default|자네가 {s51} 주민들의 소를 훔쳤다지. 이런 식이면 우리 사이에 칼부림이 날 수밖에 없소.
+str_comment_you_stole_cattles_from_my_village_default|당신이 {s51} 주민들의 소를 훔쳤다지. 이런 식이면 우리 사이에 칼부림이 날 수밖에 없소.
 str_comment_you_robbed_my_village_enemy_coldblooded|당신은 {s51} 마을의 내 백성들을 강탈했소. 이를 나에 대한 개인적인 모욕으로 간주하겠소.
 str_comment_you_robbed_my_village_enemy|내 보호하에 있는 {s51}의 무고한 농민들을 약탈하다니! 그 악행에 대한 대가를 치러야 할 것이오.
 str_comment_you_robbed_my_village_friendly_spiteful|당신이 {s51} 백성들의 음식을 좀 훔쳤다더군. 뭐, 빵 한두 조각이야 아깝지 않다만, 덕분에 내가 저놈들의 징징거림을 다 받아주게 되었다는 사실을 명심하시오.
@@ -1092,17 +1092,17 @@ str_comment_you_accosted_my_caravan_enemy|당신은 내 보호 아래에 있는 
 str_comment_you_accosted_my_caravan_default|내 보호를 받는 상단들을 습격하고 있다는 소문을 들었소. 이런 행동은 이제 그만둬야 하지 않겠소?
 str_comment_you_helped_villagers_benevolent|당신이 {s51} 마을 주민들에게 자비를 베풀었다는 소식을 들었소. 나는 영주이자 보호자로서의 내 의무에 소홀했소. 당신이 내 일을 대신 해준 것에 깊이 감사하오.
 str_comment_you_helped_villagers_friendly_cruel|{s51} 백성들에게 자비를 베풀었다지. 좋은 뜻인 건 알겠으나, 그들에 대한 내 권위를 깎아내리지 않았으면 좋겠소.
-str_comment_you_helped_villagers_friendly|{s51} 백성들에게 선행을 베풀었다는 소식을 들었소. 시국이 어려우니 자네의 선의는 이해하오. 자네가 돕는 것을 반대하지는 않겠소.
+str_comment_you_helped_villagers_friendly|{s51} 백성들에게 선행을 베풀었다는 소식을 들었소. 시국이 어려우니 당신의 선의는 이해하오. 당신이 돕는 것을 반대하지는 않겠소.
 str_comment_you_helped_villagers_unfriendly_spiteful|{s51} 백성들에게 자비를 베풀었다더군. 내 신하들에게 점수를 따려고 애쓰는 꼬락서니가 참 가관이네만, 웬만하면 남의 일에는 참견 마시오.
-str_comment_you_helped_villagers_cruel|{s51} 백성들에게 자비를 베풀었다는 소식을 들었소. 농민들을 돕는 것은 영주이자 보호자인 나의 의무요. 뜻은 좋으나 자네의 행동은 내 권위를 실추시킬 뿐이니, 더는 참견하지 말고 떠나주시오.
+str_comment_you_helped_villagers_cruel|{s51} 백성들에게 자비를 베풀었다는 소식을 들었소. 농민들을 돕는 것은 영주이자 보호자인 나의 의무요. 뜻은 좋으나 당신의 행동은 내 권위를 실추시킬 뿐이니, 더는 참견하지 말고 떠나주시오.
 str_comment_you_helped_villagers_default|당신이 {s51} 백성들을 도왔다는 소문을 들었소. 어려운 시기라 뜻은 좋게 받아들이겠소만, 나쁜 버릇이 들지 않게 해 주시오. 내가 그들의 영주이자 보호자이니, 내 백성들이 낯선 이에게 도움을 구하는 상황은 달갑지 않소.
 str_comment_you_give_castle_in_my_control|{s51}을 내게 주기로 한 결정을 절대 후회하지 않게 해주겠소. 내가 그곳을 확실히 지켜낼 것임을 믿어주시오.
-str_comment_you_captured_a_castle_allied_friendly|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 정말 대단한 공적이군! 자네 같은 친구를 둔 것이 정말 자랑스럽소!
+str_comment_you_captured_a_castle_allied_friendly|당신이 {s51} 주민들의 소를 훔쳤다지. 이런 식이면 우리 사이에 칼부림이 날 수밖에 없소.
 str_comment_you_captured_a_castle_allied_spiteful|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 잘했소! 머지않아 적들의 모든 요새를 약탈하고 보물창고를 털며, 그들의 슬픈 미망인들이 우리에게 술을 따르게 하는 날이 오겠군.
 str_comment_you_captured_a_castle_allied_unfriendly_spiteful|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 뭐, 쥐구멍에도 볕 들 날이 있다더니 딱 그 꼴이군. 당신의 상전들이 당신을 원래 있어야 할 추운 변방으로 걷어차기 전까지 마음껏 즐겨두시오.
 str_comment_you_captured_a_castle_allied_unfriendly|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 우리가 과거에 서로 어떤 일이 있었던 간에, 지금은 그저 당신에게 축하한다고 말해주고 싶소.
 str_comment_you_captured_a_castle_allied|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 이제 적들은 겁에 질려 도망치기 바쁠 것이오!
-str_comment_you_captured_my_castle_enemy_spiteful|{s51}에 있는 내 집에 침입했다는 소리를 들었소. 그곳 지하 감옥이 자네 마음에 들었으면 좋겠군. 앞으로 몇 년 동안은 거기서 지내게 될 테니 말이오.
+str_comment_you_captured_my_castle_enemy_spiteful|{s51}에 있는 내 집에 침입했다는 소리를 들었소. 그곳 지하 감옥이 당신 마음에 들었으면 좋겠군. 앞으로 몇 년 동안은 거기서 지내게 될 테니 말이오.
 str_comment_you_captured_my_castle_enemy_chivalrous|당신이 정당한 내 영지인 {s51}을(를) 차지했군. 나는 당신에게서 그 영지를 돌려받을 기회를 노릴 것이오!
 str_comment_you_captured_my_castle_enemy|당신은 내 영지였던 {s51}을(를) 가지고 있다 들었소. 나는 당신이 내 영지를 포기하고 나에게 돌려줄 수 밖에 없게 만들 것이오.
 str_comment_we_defeated_a_lord_unfriendly_spiteful|우리가 {s54}를 상대로 거둔 승리를 축하하며 술이라도 마시고 싶은 모양이군. 미안하지만 그 술은 아껴두시오. 그 정도 승리로는 당신이 과거에 저지른 불명예를 씻어내기에 턱없이 부족하니까.
@@ -1171,7 +1171,7 @@ str_comment_you_defeated_my_friend_enemy_pragmatic|당신이 {s54}를 이겼을�
 str_comment_you_defeated_my_friend_enemy_chivalrous|당신이 {s54}를 물리쳤다는 소식을 듣고, 당신과 칼을 맞댈 날만을 손꼽아 기다려 왔소.
 str_comment_you_defeated_my_friend_enemy_spiteful|네 명성이 자자하군, {playername}. {s54}는 네 잔꾀에 넘어갔을지 몰라도, 나는 훨씬 더 까다로운 적수라는 것을 곧 알게 될 것이오.
 str_comment_you_defeated_my_friend_enemy|{s54}를 이겼다는 소문을 들었소만, 무예의 진정한 시험대는 바로 내가 될 것이오.
-str_comment_you_captured_a_lord_allied_friendly_spiteful|자네가 {s54}를 사로잡았다지. 놈의 몸값을 마지막 한 푼까지 싹싹 긁어냈기를 바라오.
+str_comment_you_captured_a_lord_allied_friendly_spiteful|당신이 {s54}를 사로잡았다지. 놈의 몸값을 마지막 한 푼까지 싹싹 긁어냈기를 바라오.
 str_comment_you_captured_a_lord_allied_unfriendly_spiteful|{s54}를 포로로 잡았다더군. 몸값 덕분에 금고가 아주 빵빵해졌겠어. 안타까운 건, 돈이 아무리 많아도 천한 근본은 귀족이 될 수 없다는 사실이지!
 str_comment_you_captured_a_lord_allied_chivalrous|당신이 {s54}를 포로로 잡았다는 소식을 들었소. 훌륭하오. 물론 그를 그의 신분에 걸맞은 예우로 대접했으리라 믿소.
 str_comment_you_captured_a_lord_allied|당신이 {s54}을(를) 포로로 잡았다고 들었소. 잘 했소. 분명 그의 몸값은 꽤나 두둑할 게 분명할 것이오.
@@ -1179,7 +1179,7 @@ str_comment_you_let_go_a_lord_allied_chivalrous|당신이 {s54}을(를) 잡았�
 str_comment_you_let_go_a_lord_allied_upstanding|{s54}를 풀어주었다지. 명예로운 결정이긴 했지만, 동시에 아주 위험한 짓이기도 하오. 다음번엔 그냥 붙잡아 두시오.
 str_comment_you_let_go_a_lord_allied_coldblooded|{s54}를 풀어주었다지. 기사도 정신은 훌륭하다만, 기사도가 전쟁에서 승리할 수 있게 해 주진 않소. 다음엔 포로로 잡으시오.
 str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|당신이 {s54}를 풀어주었다지. 참으로 기사도적이군! 놈이 지나간 자리에 남겨질 과부들과 고아들이 당신에게 직접 감사를 표하러 오겠어!
-str_comment_you_let_go_a_lord_allied|{s54}를 사로잡고 풀어주었다는 소식을 들었소. 뭐, 포로를 어떻게 처리하든 자네 마음이니 내가 참견할 일은 아니지만 말이오.
+str_comment_you_let_go_a_lord_allied|{s54}를 사로잡고 풀어주었다는 소식을 들었소. 뭐, 포로를 어떻게 처리하든 당신 마음이니 내가 참견할 일은 아니지만 말이오.
 str_comment_you_let_me_go_spiteful|지난번에 당신은 나를 살려주었지. 쥐를 데리고 노는 고양이처럼 즐긴 것이오? 하지만 조만간 내가 당신을 사로잡아, 내 취향대로 죽이거나 굴욕을 주며 그 즐거움을 되갚아주겠소.
 str_comment_you_let_me_go_enemy_chivalrous|지난번에 당신은 자비를 베풀어 나를 풀어주었소. 그 기사도 정신은 잊지 않겠소. 하지만 나는 주군에게 맹세한 몸이고, 우리 왕국은 여전히 전쟁 중이라는 사실을 잊어서는 안 되오. 우리는 여전히 적이오.
 str_comment_you_let_me_go_enemy_coldblooded|지난번에 당신은 나를 풀어주었소. 하지만 우리는 여전히 적이고, 나 또한 똑같은 자비를 베풀 것이라고는 약속할 수 없소.
@@ -1213,14 +1213,14 @@ str_comment_you_renounced_your_alliegance_unfriendly_moralizing|당신이 우리
 str_comment_you_renounced_your_alliegance_enemy|당신이 우리들의 왕인 {s54}에게서 떠났다는 소식을 들었소. 뭐, 어제의 동료가 오늘의 적이 되는 것이 이 세상 이치 아니겠소.
 str_comment_you_renounced_your_alliegance_default|당신이 우리들의 왕인 {s54}에게서 떠났다는 소식을 들었소. 그건 당신의 결정이지만, 전장에서 우리가 적으로 만났을 때. 쉽게 보내주리란 생각은 접어두는 것이 좋을 것이오.
 str_comment_you_claimed_the_throne_1_player_liege|내 정보원들에 따르면, 이 나라의 몇몇 이들이 당신을 차기 국왕으로 떠받들고 있다더군. 당신이라면 그런 부질없고 위험한 소문을 즉시 잠재울 것이라 믿겠소.
-str_comment_you_claimed_the_throne_2_player_liege|내 정보원들이 보고하길, 당신의 동료들이 평민들에게 자네가 왕좌를 차지할 권리가 있다고 떠들고 다닌다더군. 진심으로 바라건대, 그게 당신의 지시가 아니었으면 좋겠군.
+str_comment_you_claimed_the_throne_2_player_liege|내 정보원들이 보고하길, 당신의 동료들이 평민들에게 당신이 왕좌를 차지할 권리가 있다고 떠들고 다닌다더군. 진심으로 바라건대, 그게 당신의 지시가 아니었으면 좋겠군.
 str_comment_lord_intervened_against_me|내가 {s54}와 다투었다는 건 널리 알려진 사실이고, {s50}은 내 라이벌의 손을 들어주었지.
 str_comment_i_protested_marshal_appointment|{s54}께서 {s51}을 원수로 임명했을 때 내가 강력히 반대했다는 건 다들 아는 일이지.
 str_comment_i_blamed_defeat|내가 {s54}께 불만을 품은 건 당연한 일이지. 우리를 {s56}에게 패배하게 만든 장본인인 {s51}을 감싸고 돌다니 말이야.
 str_comment_i_was_entitled_to_fief|내게 돌아왔어야 할 {s51} 영지를 {s54}가 가로챈 것에 대해 내가 실망했다는 건 공공연한 사실이지.
 str_comment_i_quarreled_with_troop_over_woman|내가 {s54}에게 구혼하는 동안 {s51} 그자가 그녀에게 수작을 부렸다는 건 다들 알지. 놈은 그녀의 관심을 받을 자격이 없어. 그녀에게서 떨어지라고 똑똑히 가르쳐줄 생각이오.
 str_comment_i_quarreled_with_you_over_woman_default|당신이 {s54}에게 구애하고 있다는 소문을 들었소. 당신은 그녀처럼 아름다운 숙녀에게 어울리는 자가 아니니, 당장 포기하는 게 좋을 거요.
-str_comment_i_quarreled_with_you_over_woman_derisive|자네가 {s54}에게 수작을 걸고 있다더군. 한마디 하겠는데, 그녀는 내가 어릴 적부터 눈독 들여온 사람이오. 이 나라의 고귀한 혈통인 그녀가 어디서 굴러먹던 이방인의 저급한 관심을 받으며 격을 떨어뜨려서야 되겠소? 당장 떨어지시오, 아니면 그 대가를 치르게 될 것이오!
+str_comment_i_quarreled_with_you_over_woman_derisive|당신이 {s54}에게 수작을 걸고 있다더군. 한마디 하겠는데, 그녀는 내가 어릴 적부터 눈독 들여온 사람이오. 이 나라의 고귀한 혈통인 그녀가 어디서 굴러먹던 이방인의 저급한 관심을 받으며 격을 떨어뜨려서야 되겠소? 당장 떨어지시오, 아니면 그 대가를 치르게 될 것이오!
 str_comment_player_suggestion_succeeded|당신의 제안을 따른 덕분에 큰 이익을 볼 수 있었소. 조언 고맙소.
 str_comment_player_suggestion_failed|당신의 제안을 따랐다가 재앙을 맞이하게 되었소!  이 사태는 전적으로 당신 책임이오.
 str_comment_you_enfiefed_a_commoner_hesitant|나는 {s51}을(를) 평민인 {s54}에게 영지로 주었다는 소식을 들었소. 알아두시오, 정치를 배운다는 것은 아무나 할 수 있는 일이 아니오, 그 것은 아버지로부터 아들에게 전해주는 것이 가장 좋소. 당신에게 조언 하나 하자면, 그런 근본도 모르는 자들에게 함부러 영지를 수여하지 않는 게 좋을 것이오.
@@ -1259,7 +1259,7 @@ str_surrender_offer_pitiless|항복하겠소! 당신이 이겼소. 저주받은 
 str_surrender_offer_cunning|멈추시오! 항복하겠소!
 str_surrender_offer_sadistic|항복하겠소! 항복이요! 이 사냥개들을 물러 주시오!
 str_surrender_offer_goodnatured|항복하겠소, {reg59?부인:경}의 승리를 축하하겠소!
-str_surrender_offer_upstanding|항복하겠소! 내게 전장의 예우를 갖추어 자네의 명성을 지키길 바라오.
+str_surrender_offer_upstanding|항복하겠소! 내게 전장의 예우를 갖추어 당신의 명성을 지키길 바라오.
 str_lord_declines_negotiation_offer_default|그럴 지도 모르지. 그러나 난 당신과 싸우고 싶군.
 str_lord_declines_negotiation_offer_martial|그럴지도 모르겠으나, 당신과 싸우는 것이 나의 의무요.
 str_lord_declines_negotiation_offer_quarrelsome|하! 난 당신과 싸우고 싶은데?
@@ -1298,132 +1298,132 @@ str_battle_won_grudging_quarrelsome|흠. 평소에 보고 싶지 않은 얼굴�
 str_battle_won_grudging_pitiless|오늘 도움은 아주 유용했소. 당신이 나를 생각해서 구하러 왔다고는 생각지 않지만, 어쨌든 고맙소.
 str_battle_won_grudging_cunning|감사 인사를 하지 않는 것도 현명하지 않은 처사겠지... 제때 도와주러 와주어서 고맙게 생각하오.
 str_battle_won_grudging_sadistic|오! 정말 감동적이구먼! {playername}이 나를 구하러 오다니 말이야!
-str_battle_won_grudging_goodnatured|{playername}! 우리는 잠깐 전에 도망치려고 시도하려 했는데, 나는 이에 대해 뭐라고 말해야 할 지 모르겠소. 하지만 당신은 오늘 잘 싸웠소. 당신에게 감사하오!
-str_battle_won_grudging_upstanding|아마도 내가 당신을 잘못 생각했하고 있었나 보오. 당신이 온 시간은 아주 절묘한 순간이었소. 당신에게 감사를 표하오.
-str_battle_won_unfriendly_default|당신은 지금 이 곳에 왔소. 음, 그래도 아예 안 오는 것보다는 늦게라도 오는 게 낫겠지.
-str_battle_won_unfriendly_martial|우리는 서로, 얼마 전에는 거친 말이 서로 오고 갔었지만, 지금은 순수하게 승리를 즐길 시간이오!
-str_battle_won_unfriendly_quarrelsome|만약 당신이 고맙다는 말을 기다리고 있다면, 당신은 기다릴 수 있을 것이오. 사실 당신 도움이 꼭 필요하지도 않았고, 당신이 딱히 한 일도 없었다고 생각하는데, 안 그렇소?
-str_battle_won_unfriendly_pitiless|당신은 사자를 죽일 자칼로서 이 곳으로 왔소. 꼭 그렇다면, 마음껏 사냥감을 사냥하시오. 나는 당신을 막을 생각은 없으니.
-str_battle_won_unfriendly_cunning|{playername}, 음, 나는 당신이 설령 이 일에서 다치지 않았다 하더라도, 그건 너무 무모한 일이었소.
-str_battle_won_unfriendly_sadistic|물러서라, 이 썩은 고기만도 못한 놈! 너는 내 승리를 더럽혔어!
-str_battle_won_unfriendly_goodnatured|오, 당신이었소? 정말 좋소, 당신의 도움에 감사를 표하겠소.
-str_battle_won_unfriendly_upstanding|나를 도와줘서 정말 고맙소. 지금, 내가 후퇴하기 전에 말해둘 필요가 있다고 생각했소.
-str_troop_train_request_default|나는 당신 같이 그런 식으로 적들을 쓰러뜨려 줄 부하를 필요로 하고 있소.
-str_troop_train_request_martial|그들은 자신들에게 용기를 보여줄 누군가를 필요로 하고 있소.
-str_troop_train_request_quarrelsome|뚱보에, 게으른 놈들이오. 당신이 그들을 제대로 교육시킬 필요가 있소.
-str_troop_train_request_pitiless|그들은 적들보다 나를 더 무서워 했소. 그리고 당신은 그들이 그렇게 되지 않도록 해야 할 것이오.
-str_troop_train_request_cunning|하지만, 불로서 담금질 된 검 같은 사람이 필요하오.
-str_troop_train_request_sadistic|그들은 갑옷을 입고, 매를 맞으면서까지 그들에게 조그마한 용기를 주는 누군가가 필요하오. 혹은 그들을 죽일 수 있는 누군가일수도 있지.
-str_troop_train_request_goodnatured|그들은 충분한 청년들이오. 하지만 난 그들이 실전에 투입될 준비가 되지 않았을까 염려스럽소.
-str_troop_train_request_upstanding|그들은 나를 위해 전투에 들어서 기꺼이 살인마가 되려 할 것이오.
-str_unprovoked_attack_default|무엇이오? 당신은 우리를 왜 공격하시오? 당신이 망나니인지, 당신 스스로 말해보시오!
-str_unprovoked_attack_martial|나는 당신이 내 힘들을 시험하고자 하는 데 반대할 이유는 없소, 그런데 당신이 어떤 이유로 우리를 공격하는 것인지 물어봐도 되겠소?
-str_unprovoked_attack_quarrelsome|꼬맹아, 넌 큰 실수를 하는 거란다. 그래, 무얼 어떻게 할 생각이더냐?
-str_unprovoked_attack_pitiless|진심이오? 만약 당신이 오늘 진정 죽고 싶다면, 나는 당신을 좀 더 기쁘게 해줄 수도 있을 것이오, 그러나 나는 당신이 무엇을 원하는 것인지 궁금하오.
-str_unprovoked_attack_cunning|정말이오? 나는 당신의 이번 행동은 정말 어리석은 짓이라고 생각하오. 이렇게 해서 당신이 무엇을 얻을 수 있다 생각하시오?
-str_unprovoked_attack_sadistic|이게 무엇이오? 당신은 스스로가 눈이 뽑히길 원하는 것이오?
-str_unprovoked_attack_goodnatured|왜 이렇게 하시오? 우리는 어떤 앙금도 없지 않소, {reg59?부인:경}.
-str_unprovoked_attack_upstanding|나는 이 것이 정당하지 못한 공격이라고 생각하고 있소, 그리고 당신의 왕에게 항의할 것이오. 왜 이런 짓을 하는 것이오?
-str_unnecessary_attack_default|시간 끌면 난 당신을 바로 베어버릴 것이오. 하지만 당신에게 살아남을 기회를 주겠소.
-str_unnecessary_attack_martial|난 {reg59?부인:경}의 도전을 받아들이기로 했긴 하지만, 당신에게 다시 생각할 시간을 주겠소.
-str_unnecessary_attack_quarrelsome|하! 오늘은 말도 안되게 더러운 기분이야. 저리 꺼져.
-str_unnecessary_attack_pitiless|오늘은 자비로운 기분이오. 못 들은걸로 하겠소.
-str_unnecessary_attack_cunning|난 당신이 꼭 내 적이 되야만 한다는 것을 이해할 수가 없소.
-str_unnecessary_attack_sadistic|난 너 같은 벌레같은 놈에게 낭비할 시간이 없다. 저리 꺼져.
-str_unnecessary_attack_goodnatured|난 {reg59?부인:경}과 전투를 해야한다는 것을 이해할 수가 없소.
-str_unnecessary_attack_upstanding|만약 싸우게 된다면 그것은 {reg59?부인:경}께서 원하신 겁니다만, 그땐 전 당신에게 물러 설 기회도 주지 않겠소.
-str_lord_challenged_default|당신 뜻대로 죽을 준비나 하시오!
-str_lord_challenged_martial|당신은 그렇게 생각하겠지, 당신 스스로 당신을 지켜야만 할 것이오!
-str_lord_challenged_quarrelsome|이런 무례하고 버릇 없는 애송이가! 나는 당신의 군대를 전멸시켜버릴 것이오!
-str_lord_challenged_pitiless|당신이 그렇게 죽는게 소원이라면, 나에게는 더 이상 선택의 여지가 없소.
-str_lord_challenged_cunning|음, 당신에게 선택에 여지가 없다면 말이오.
-str_lord_challenged_sadistic|어디서 감히 더러운 입을 놀리는 것이오! 당신이 태어난 걸 후회하게 해줄 것이오.
-str_lord_challenged_goodnatured|좋소, 나는 우리가 충돌을 피하길 바랬지만, 달리 선택의 여지가 없는 것 같소.
-str_lord_challenged_upstanding|알겠소, 당신에게 분별력이 없음은 나를 슬프게 하지만 말이오.
-str_lord_mission_failed_default|그렇군, 난 실망했소만 당신이 스스로의 실수를 만회할 많은 기회를 가질 수 있을 거라고 확신하오.
+str_battle_won_grudging_goodnatured|{playername}! 우리가 전에는 그리 사이가 좋지 않았던 것 같네만, 오늘 당신은 정말 잘 싸워주었소. 고맙소!
+str_battle_won_grudging_upstanding|아마도 내가 당신을 오해하고 있었던 모양이오. 정말 절묘한 때에 도착해 주었소. 진심으로 고맙소.
+str_battle_won_unfriendly_default|왔군. 뭐, 안 오는 것보다는 늦게라도 오는 게 낫긴 하지.
+str_battle_won_unfriendly_martial|예전에는 험한 말이 오가기도 했지만, 지금은 그저 이 승리를 즐기도록 합시다!
+str_battle_won_unfriendly_quarrelsome|고맙다는 말을 기대하고 서 있는 거라면 꿈 깨시오. 당신의 도움이 딱히 필요했던 건 아니었소. 뭐 달리 할 일도 없었던 것 아니오?
+str_battle_won_unfriendly_pitiless|사냥감을 잡은 사자 옆에 나타난 자칼 같군. 뭐 좋소, 전리품이나 챙겨가시오. 굳이 막지는 않을 테니.
+str_battle_won_unfriendly_cunning|{playername}... 뭐, 당신이 온 게 딱히 해가 되지는 않았네만, 만나서 반갑다고는 말 못 하겠군.
+str_battle_won_unfriendly_sadistic|물러나시오, 시체나 파먹는 새 같으니라고! 당신이 공로를 가로채려 아무리 애써도 이건 내 승리요!
+str_battle_won_unfriendly_goodnatured|오, 당신이었소? 뭐, 도와준 건 고맙게 생각하겠소.
+str_battle_won_unfriendly_upstanding|도와주러 와줘서 고맙소. 내가 후회할 말을 내뱉기 전에 이만 가봐야겠군.
+str_troop_train_request_default|당신처럼 놈들을 단단히 두들겨 패서 사람 만들어 놓을 자가 필요했소.
+str_troop_train_request_martial|병사들에게 용맹함이 무엇인지 몸소 보여줄 자가 필요하오.
+str_troop_train_request_quarrelsome|살만 뒤뚱뒤뚱 찐 게으른 놈들이야. 보고 있으면 토가 나오는군.
+str_troop_train_request_pitiless|놈들은 나보다 적을 더 무서워하고 있소. 그런 식으로는 안 되지.
+str_troop_train_request_cunning|사람도 검과 같아서, 불 속에서 담금질하고 단단하게 다듬어줄 사람이 필요하오.
+str_troop_train_request_sadistic|놈들의 등짝을 후려쳐서 억지로라도 용기를 짜내든가, 아니면 훈련시키다 죽여버릴 수 있는 강단 있는 자가 필요하오.
+str_troop_train_request_goodnatured|다들 착한 젊은이들이네만, 아직 전장에 나갈 준비가 안 된 것 같아 걱정이라오.
+str_troop_train_request_upstanding|지금 상태로 아이들을 전투에 내보내는 건 학살이나 다름없소.
+str_unprovoked_attack_default|뭐라고? 왜 우리를 공격하는 것이오? 말해보시오, 이 망나니 같으니라고!
+str_unprovoked_attack_martial|무예를 겨루는 것이야 마다할 이유가 없네만, 대체 무슨 이유로 우리를 공격하는 것인지 묻고 싶군.
+str_unprovoked_attack_quarrelsome|애송이 같으니라고, 지금 아주 큰 실수를 하는 것이오. 대체 무슨 생각을 하는 것이오?
+str_unprovoked_attack_pitiless|진심이오? 오늘 정말 죽고 싶다면 기꺼이 소원을 들어주겠다만, 대체 뭘 얻겠다고 이러는지 궁금할 따름이오.
+str_unprovoked_attack_cunning|정말이오? 참으로 어리석은 짓을 하는군. 이런 식으로 뭘 얻을 수 있다고 생각하시오?
+str_unprovoked_attack_sadistic|이건 또 뭐요? 눈알이 뽑히는 고통이라도 즐기는 변태인가?
+str_unprovoked_attack_goodnatured|왜 이러는 거요? 우린 아무 원한도 없지 않소, {reg59?부인:경}.
+str_unprovoked_attack_upstanding|나는 이것을 명분 없는 공격으로 간주하고 당신의 왕에게 항의하겠소. 왜 이런 짓을 하는 거요?
+str_unnecessary_attack_default|몰아붙인다면 베어버리겠다만, 지금 물러날 기회는 주겠소.
+str_unnecessary_attack_martial|{reg59?부인:경}의 도전을 기쁘게 받아들이겠네만, 다시 생각할 시간은 조금 주겠소.
+str_unnecessary_attack_quarrelsome|흥! 오늘 이딴 헛소리나 들어줄 기분 아니니까 당장 눈앞에서 꺼지시오.
+str_unnecessary_attack_pitiless|오늘은 자비로운 기분이니, 방금 그 소리는 못 들은 걸로 해주겠소.
+str_unnecessary_attack_cunning|나를 적으로 돌려서 당신이 얻을 게 뭔지 모르겠군. 그냥 갈 길을 가는 것이 어떻겠소?
+str_unnecessary_attack_sadistic|당신 같은 벌레 놈한테 낭비할 시간 없소. 당장 비키시오.
+str_unnecessary_attack_goodnatured|싸움을 걸어서 당신이 얻을 이득이 무엇인지 모르겠군, {reg59?부인:경}. 지금이라도 그냥 가시오.
+str_unnecessary_attack_upstanding|싸움을 원하신다면 {reg59?부인:경}의 뜻대로 해드리겠소만, 지금이 물러날 수 있는 마지막 기회요.
+str_lord_challenged_default|뜻이 그렇다면 죽을 준비나 하시오!
+str_lord_challenged_martial|좋소. 스스로를 지켜보시오!
+str_lord_challenged_quarrelsome|무례한 애송이 같으니! 뼈도 못 추리게 으깨주겠소!
+str_lord_challenged_pitiless|그토록 죽기를 원한다면 소원대로 해주지.
+str_lord_challenged_cunning|정 선택의 여지를 주지 않는다면 어쩔 수 없군...
+str_lord_challenged_sadistic|어디서 감히 더러운 입을 놀리는 것이오! 태어난 걸 후회하게 해주겠소.
+str_lord_challenged_goodnatured|좋소. 충돌은 피하고 싶었으나 다른 방도가 없는 모양이구려.
+str_lord_challenged_upstanding|알겠소. 대화로 풀 수 없다는 사실이 참으로 슬프구려.
+str_lord_mission_failed_default|실망스럽군. 하지만 당신이라면 곧 만회할 기회를 잡을 수 있을 거라 믿겠소.
 str_lord_mission_failed_martial|당신이 착수한 임무에 실패한것은 명예스럽지 못한 일이오, 그러나 그에 대한 당신의 사과를 받아들이겠소.
-str_lord_mission_failed_quarrelsome|음, 실패했다고 했소? 당신의 능력만큼만 기대했었어야 했는데.
-str_lord_mission_failed_pitiless|음, 실패했다고 했소? 당신이 날 실망시키는군. 당신에게 맡긴 건 가장 현명하지 못한 처사였소.
-str_lord_mission_failed_cunning|그런가, 실망되는군, 하지만 어떤 사람도 그의 앞 길에 행운의 바람이 항상 불어올 거라고는 장담못할 것이오.
-str_lord_mission_failed_sadistic|그래? 나를 실망시킨 놈들이 그것에 언제나 후회하며 살지만은 않더군.
-str_lord_mission_failed_goodnatured|괜찮네, 그건 어려운 일이였지, 어쨌든. 노력해준건 고맙네.
-str_lord_mission_failed_upstanding|괜찮네. 난 당신이 최선을 다했을 것임을 믿소.
-str_lord_follow_refusal_default|당신을 따르라고? 당신은 당신 스스로의 위치를 잊은 모양이군.
-str_lord_follow_refusal_martial|당신 스스로 용맹과 명예를 증명할 수 있는 날이 온다면, 그 때 당신을 따르겠소. 하지만 적어도 지금은 아니오.
-str_lord_follow_refusal_quarrelsome|당신처럼 남을 따라다니라고? 그럴 수는 없소.
-str_lord_follow_refusal_pitiless|나와 같은 영주는 당신처럼 남을 따라다니지 않소.
-str_lord_follow_refusal_cunning|먼저 당신이 나를 재앙으로 끌고 갈 사람이 아니라는 것을 보여준다면, 당신을 따를 수도 있겠지.
-str_lord_follow_refusal_sadistic|거절하겠네. 그보다 당신이 채찍맞는 똥개가 주인을 따르는 것처럼 나를 따라다녀야 할 거요.
-str_lord_follow_refusal_goodnatured|음... 지금 급한 용무가 있어서.. 나중에 할 일이 없으면 생각해 보겠소.
-str_lord_follow_refusal_upstanding|우선 당신이 남을 이끌만한 자격이 되는지 보여준다면 당신을 따르도록 하겠소.
+str_lord_mission_failed_quarrelsome|실패했다고? 흥, 당신 같은 자에게 그 이상의 기대를 한 내 잘못이지.
+str_lord_mission_failed_pitiless|실패라니. 날 실망시키는군. 당신에게 맡긴 건 내 판단 착오였소.
+str_lord_mission_failed_cunning|실망스럽네만, 운명의 바람이 항상 자기 쪽으로만 불게 할 수는 없는 법이지.
+str_lord_mission_failed_sadistic|그렇단 말이지? 나를 실망시키고도 살아서 후회할 기회를 얻는 자가 그리 많지는 않았는데 말이오.
+str_lord_mission_failed_goodnatured|괜찮소. 워낙 어려운 일이었으니까. 어쨌든 애써줘서 고맙소.
+str_lord_mission_failed_upstanding|알겠네. 당신이 최선을 다했다는 것을 믿소.
+str_lord_follow_refusal_default|당신을 따르라고? 자신의 처지를 망각한 모양이군, {reg59?부인:경}.
+str_lord_follow_refusal_martial|언젠가 당신이 용맹하고 명예로운 전사임을 증명한다면 그때 따르겠소. 하지만 오늘은 아니오.
+str_lord_follow_refusal_quarrelsome|당신 같은 사람 밑으로 들어가라고? 그럴 생각 없소.
+str_lord_follow_refusal_pitiless|나 같은 영주가 당신 같은 자의 뒤를 쫓아다니지는 않네만, {reg59?부인:경}.
+str_lord_follow_refusal_cunning|먼저 당신이 나를 재앙으로 끌고 갈 사람이 아니라는 것을 보여준다면, 그때 다시 생각해 보겠소.
+str_lord_follow_refusal_sadistic|거절하겠소. 오히려 당신이 매 맞은 똥개처럼 내 뒤나 졸졸 따라다녀야 할 것이오.
+str_lord_follow_refusal_goodnatured|음... 지금 급한 용무가 좀 있어서 말이오. 나중에 한가해지면 다시 얘기합시다.
+str_lord_follow_refusal_upstanding|우선 당신이 남을 이끌 자격이 있음을 보여주시오. 그러면 따를 수도 있겠지.
 str_lord_insult_default|천한 불량배
-str_lord_insult_martial|불명예스러운 악당
-str_lord_insult_quarrelsome|추잡스러운 자식
+str_lord_insult_martial|명예도 모르는 악당
+str_lord_insult_quarrelsome|오물이나 퍼먹는 놈
 str_lord_insult_pitiless|미천한 비렁뱅이
-str_lord_insult_cunning|서투른 멍청이
+str_lord_insult_cunning|조심성 없는 멍청이
 str_lord_insult_sadistic|애처로운 겁쟁이
 str_lord_insult_goodnatured|불쾌한 녀석
-str_lord_insult_upstanding|수치스러운 약탈자
+str_lord_insult_upstanding|부끄러운 줄 모르는 파렴치한
 str_lord_derogatory_default|천하고 비열한
-str_lord_derogatory_martial|고집센
-str_lord_derogatory_quarrelsome|시비조에다 불화를 일으키는
-str_lord_derogatory_pitiless|잔혹한, 폭군같은
-str_lord_derogatory_cunning|악랄하고 사기꾼같은
-str_lord_derogatory_sadistic|비열하고 불명예스러운
-str_lord_derogatory_goodnatured|어찌할 도리 없이 고지식한
-str_lord_derogatory_upstanding|완고하고 경건한 체하는
+str_lord_derogatory_martial|고집불통의
+str_lord_derogatory_quarrelsome|시비나 걸고 분란을 일으키는
+str_lord_derogatory_pitiless|잔혹하고 독재적인
+str_lord_derogatory_cunning|파렴치하고 교묘한
+str_lord_derogatory_sadistic|사악하고 불명예스러운
+str_lord_derogatory_goodnatured|대책 없이 순진해 빠진
+str_lord_derogatory_upstanding|융통성 없고 경건한 체하는
 str_lord_derogatory_result|우리를 파멸로 이끄는
-str_lord_derogatory_martial_action|충분한 검토나 계획 없이 적을 공격한다면 자네의 병사들의 목숨을 버리게 될 것이오.
-str_lord_derogatory_quarrelsome_action|다른 영주들에게 시비를 걸면 우리는 분열되고 약해질 것이오.
+str_lord_derogatory_martial_action|충분한 검토나 계획 없이 적을 공격한다면 부하들의 목숨을 버리게 될 것이오.
+str_lord_derogatory_quarrelsome_action|다른 영주들에게 시비를 걸어 분열시키고 약하게 만들 것이오.
 str_lord_derogatory_pitiles_action|평민들을 멀리하면, 반란과 폭동을 자극하게 될 것이오.
 str_lord_derogatory_cunning_action|등 뒤에 있는 적과는 협정을 맺으시오.
 str_lord_derogatory_sadistic_action|우리 대의 명분과 왕국에 수치를 안긴다오.
 str_lord_derogatory_goodnatured_action|적들과 싸우기보다는 불쌍히 여기시오.
 str_lord_derogatory_upstanding_action|왕국에 필요한 이상으로 당신의 과장된 명예에 대한 분별력을 가지시오
-str_rebellion_dilemma_martial|{s45}는 명백히 잘못되었소. 내가 {s46}에게 맹세를 했지만, 그가 왕위를 불법으로 찬탈하였다면 그를 섬기지 않아도 될 것이오.
-str_rebellion_dilemma_quarrelsome|음... {s46}은(는) 나를 챙겨준 적이 없소. 그래서 그에게 빚진 것도 없지. 그러나 {s45}은(는) 더 이상 나아질 것이 없지만, {s46}은(는) 최소한 자기 스스로를 증명해 왔었소
-str_rebellion_dilemma_pitiless|음... {s45}은(는) {reg3?그녀:그}가 정당한 왕위 후계자다고 말했지. 좋소 -- {s46}에 충성하는 것을 용서하시오. 그래도 결정은 신중하게 해야 하지 않겠소.
-str_rebellion_dilemma_cunning|흠... 나는 {s46}에게 충성 서약을 맹세했소, 하지만 아직 우리의 평민들처럼 그들의 맹세에 의해 강력하게 묶여 있지는 않지. 우리의 임무는 우리의 능력을 통치와 질서를 유지하고 무엇보다도 전쟁을 막는 것이오.
-str_rebellion_dilemma_sadistic|음.. 이 비열한 세상에서, 지혜로운 사람은 아무도 생각하려 하지 않더라도 스스로 생각해야 하오, 그래서 -- 나를 위해서 무엇을 준비했소?
-str_rebellion_dilemma_goodnatured|뭐라고 말해야 할지 모르겠소. 나는 {s46}을(를) 정당한 통치자로써 그에게 맹세했소. 하지만 그거 정당한 통치자가 아니라면 내가 그를 계속 모셔야 하는지 나는 잘 모르겠소.
-str_rebellion_dilemma_upstanding|그건 골치 아픈 말이오, {s46}에 대한 내 충성이 무효라고 선언하고, 내 영지를 혼란으로부터 지키는 계약을 취소하는 것은 쉽지 않은 일이오. 하지만 나는 정당한 후계자를 후원하기로 맹세했고, {s45} 역시 정당한 왕위에 대한 요구권이 있소.
-str_rebellion_dilemma_2_martial|다른 한편으로는, {s46}은(는) 우리를 전쟁과 평화로 이끌었소. 하지만 나는 내 충성을 버리는 것이 매우 싫소.
-str_rebellion_dilemma_2_quarrelsome|내가 왜 잘 아는 사람을 버리고 모르는 사람의 편에 서야 하는지 말해보는 것이 좋지 않겠소?
-str_rebellion_dilemma_2_pitiless|누구 편에 서서 누구를 이 땅의 통치자로 만들어야 하는지 되묻는 것은 엄청난 모험을 걸어야 하는 일일 것이오. 하지만 내가 그동안 해왔던 것처럼 내 몫으로 현상금을 받아올 기회이기도 할 것이오.
-str_rebellion_dilemma_2_cunning|{s46}은(는) 그동안 도전받아 왔고, 권위에 대한 논란이 없는 사람보다는 강력하게 통치할 수 없을 것이오. 하지만 {s45}(이)가 힘으로 왕좌를 빼앗는다면, 평화롭게 왕위를 물려받은 사람만큼 강력할 수도 없을 것이 아니겠소?
-str_rebellion_dilemma_2_sadistic|아마 내가 아직은 약한 {s45} 편에 선다면 {reg3?그녀:그}는 나를 부자로 만들어 줄 것이오. 하지만 {s46}에게 당신의 목을 가져간다면 나에게 그보다 더 커다란 포상을 줄 수 있지 않겠소?
-str_rebellion_dilemma_2_goodnatured|{s46}는 언제나 나를 예의바르게 대해 왔소, 하지만 그가 {s45}에게 잘못한 것도 사실이오. {s46}에 대한 충성을 져버리는 것이 망설여지지만, 부정한 자를 지원하는 것도 옳지 않다고 생각하오.
-str_rebellion_dilemma_2_upstanding|내전과 적의 침략으로 왕국이 황폐해지는 것을 막기 위해 무슨 일이든 해야 한다고 느끼고 있소.
-str_political_philosophy_martial|나의 검은 내 정당한 군주가 그의 의무를 유지하는 한 그의 처분에 따를 것이오.
-str_political_philosophy_quarrelsome|헹, 모두들 한 덩어리의 개자식들이오. 내게 잘못한 놈은 후회하게 만들고 말 것이오.
-str_political_philosophy_pitiless|사람들은 언제나 다른 사람들의 정당한 몫을 속이고 빼앗으려 하오. 이 믿을수 없는 세상에서는 개개인 모두가 자신의 권리를 부단히 지켜야만 하오.
-str_political_philosophy_cunning|음, 아주 거친 세상이지. 그리고 우리는 수많은 거친 선택에 마주하게 되곤 하오. 때론 평화를 위해 폭군을 모셔야하기도 하고, 때로는 약간의 폭동이 성실한 왕을 만들기도 하오. 결국 주위의 환경이 결정하는 법이오.
-str_political_philosophy_sadistic|내 철학은 단순하오 : 양이 되기 보다는 늑대가 되자는 것이오.
-str_political_philosophy_goodnatured|좋소, 자네는 자신이 한 약속에 신뢰를 지켜야 하고, 남에게 부당하게 굴어선 안 될 것이오. 가끔 이 둘의 조화를 이루는건 어려운 일일 것이오. 당신이 믿는 사람에게 최선을 다하시오. 그건 잘못되기 힘들지 않겠소?
-str_political_philosophy_upstanding|왕의 지배와 영주의 지배는 무엇보다도 평화를 지키고 전쟁을 막기 위해서 만들어져 왔소, 하지만 그것이 부당할 가능성으로부터 우리를 무감각하게 할 수는 없다고 생각하오.
-str_political_philosophy_roguish|흠... 영주가 되는 건 좋을 것 같소.
-str_political_philosophy_benefactor|훌륭한 통치자는 모두가 공정한 대우를 받는다고 확신을 가지게 하오. 개인적으로, 나는 내 권위를 나의 영지에 있는 수많은 사람들을 잘 살게 만드는데 쓸 예정이오.
-str_political_philosophy_custodian|훌륭한 통치자는 사람들이 더 잘 지낼 수 있는 분위기를 만들 것이오. 개인적으로 내 재산을 자신과 공익을 위해서 더욱 불리려고 하고 있소.
-str_rebellion_prior_argument_very_favorable| 나는 이미 당신의 왕위 후계자 지원에 대한 논의를 들은 바 있소. 그리고 나는 그 내용에 찬성할 것이오.
-str_rebellion_prior_argument_favorable|나는 이미 당신의 왕위 후계자 지원에 대한 약간의 논란을 들은 바 있소. 그리고 나는 그 내용에 찬성할 것이오.
-str_rebellion_prior_argument_unfavorable|나는 이미 당신의 왕위 후계자 지원에 대한 약간의 논란을 들은 바 있소. 하지만 그 내용은 잘 수긍되지 않았소.
-str_rebellion_prior_argument_very_unfavorable|나는 이미 당신의 왕위 후계자 지원에 대한 약간의 논란을 들은 바 있소. 하지만 그 내용에 대해서는 전혀 동의할 수가 없었소.
-str_rebellion_rival_martial|{s49}, 당신 편인 {s44}은(는) 한 때 내 명예와 용기에 대해 의문을 제기했었소. 그 녀석을 전장에서 볼 수 있는 기회가 흔하지 않았지만, 그 말이 쏙 들어가게 해 줄 것이오.
-str_rebellion_rival_quarrelsome|{s49}, 당신이 {s44}와(과) 함께 일한다고 들었소. 그는 교활한 족제비같은 자라서, 나는 그를 전혀 신뢰하지 않소.
-str_rebellion_rival_pitiless|{s49}, 당신이 {s44}을(를) 영주로 받아들인 걸로 보이던데.. -- 그 자는 물렁하고, 약해빠졌고, 영지를 다스리기에 적합하지 않아서 나는 그 자를 몹시 싫어하오.
-str_rebellion_rival_cunning|{s49}, 이미 당신 편에 들어간 {s44}은(는) 완고하고 시비조에다가, 책임감도 부족한 자요.
-str_rebellion_rival_sadistic|{s49}, 욕지기 나도록 선행을 펼치는 {s44}와(과)는 함께 전투에 나가기 싫소.
-str_rebellion_rival_goodnatured|{s49}, 잔인함으로 유명한 {s44}와(과)는 같은 편으로 있기 싫소.
-str_rebellion_rival_upstanding|{s49}, 당신 편인 {s44}은(는) 내 생각에 위험하고 믿을 수 없고, 매우 파렴치한 인간이오.
-str_rebellion_argument_favorable|당신의 논점을 존중하오.
-str_rebellion_argument_neutral|당신의 논점은 적절하게 흥미를 끄는군.
-str_rebellion_argument_unfavorable|당신의 논점에서 전혀 흥미를 찾지 못하겠소.
-str_rebellion_persuasion_favorable|당신의 말은 감동적이오.
-str_rebellion_persuasion_neutral|이치에 맞는 말이오.
-str_rebellion_persuasion_unfavorable|납득할 수 없는 말이군.
-str_rebellion_relation_very_favorable|나는 개인적으로 당신을 제일 존경하오.
-str_rebellion_relation_favorable|나는 개인적으로 당신을 잘 알고 존경하오.
-str_rebellion_relation_neutral|내가 좋아할 만큼 당신을 잘 알지 못하오.
+str_rebellion_dilemma_martial|{s45}는 분명히 부당한 대우를 받았소. 내가 {s46}에게 맹세는 했으나, 그가 왕위를 부당하게 찬탈했다면 그를 지지할 의무는 없다고 보오.
+str_rebellion_dilemma_quarrelsome|흠... {s46}은 내게 합당한 대우를 해준 적이 없으니 딱히 빚진 것도 없지. 하지만 {s45}라고 나을 게 있겠소? 적어도 {s46}은 스스로를 증명해 왔소.
+str_rebellion_dilemma_pitiless|흠. {s45}가 자신이 정당한 후계자라고 주장한다니, 그게 사실이라면 {s46}에 대한 내 맹세도 효력을 잃겠지. 하지만 결정은 아주 신중히 내려야 할 것이오.
+str_rebellion_dilemma_cunning|흠. {s46}에게 충성을 맹세하긴 했으나, 권력자는 평민들처럼 맹세에 얽매이지 않는 법이지. 우리의 의무는 통치와 질서를 유지하고 만인의 투쟁을 막는 것이오.
+str_rebellion_dilemma_sadistic|흠. 이 비열한 세상에서 현명한 자는 스스로를 챙겨야 하는 법. 아무도 날 챙겨주지 않으니 말이오. 그래서, 내게 돌아올 몫은 무엇이오?
+str_rebellion_dilemma_goodnatured|뭐라 말해야 할지 모르겠구려. {s46}을 적법한 통치자로 믿고 맹세했는데, 그게 아니라면 내 서약이 여전히 유효한 것인지 혼란스럽소.
+str_rebellion_dilemma_upstanding|이건 참 곤혹스러운 일이오. {s46}에 대한 충성을 무효화하고 질서를 유지하는 결속을 끊는 것은 매우 중대한 사안이오. 하지만 난 정통성 있는 승계자를 지지하기로 맹세했고, {s45} 또한 왕위에 대해 주장할 권리가 있소.
+str_rebellion_dilemma_2_martial|반면에 {s46}은 전쟁과 평화의 시기에 우리를 잘 이끌어왔소. 내 충성을 저버리는 것이 참으로 망설여지는구려.
+str_rebellion_dilemma_2_quarrelsome|말해보시오, 내가 왜 잘 아는 그 개자식을 버리고, 생판 모르는 {reg3?년의:개자식의} 편을 들어야 하는 것이오?
+str_rebellion_dilemma_2_pitiless|누구를 이 땅의 왕으로 세울지 결정하는 건 매우 위험천만한 일이지. 하지만 이건 내가 당연히 누려야 할 보상을 거머쥘 절호의 기회이기도 하오!
+str_rebellion_dilemma_2_cunning|{s46}은 도전을 받았으니 정통성이 확고한 군주만큼 강력한 통치력을 발휘하기 힘들겠지. 하지만 {s45}가 무력으로 왕좌를 뺏는다 해도, 평화롭게 승계한 자만큼 안정적으로 통치하기는 어려울 것이오.
+str_rebellion_dilemma_2_sadistic|내가 아직 미약한 {s45} 편에 선다면 {reg3?그녀:그}가 나를 부자로 만들어줄지도 모르지. 아니면 당신의 목을 {s46}에게 가져다주고 더 큰 포상을 받는 방법도 있지 않겠소?
+str_rebellion_dilemma_2_goodnatured|{s46}은 항상 나를 정중히 대했소만, {s45}에게 잘못을 저지른 것도 사실이지. 충성을 저버리기는 주저되나 불의를 지지하는 것도 옳지 않다고 생각하오.
+str_rebellion_dilemma_2_upstanding|내전과 적들의 침략으로 왕국이 황폐해지는 것을 막기 위해, 무엇이 진정 왕국을 위한 길인지 고민해야겠소.
+str_political_philosophy_martial|나의 검은 내 정당한 군주가 내게 의무를 다하는 한, 언제든 그의 처분에 따를 것이오.
+str_political_philosophy_quarrelsome|흥, 다 똑같은 자식들이오. 난 그저 나를 건드린 놈들이 후회하게 만드는 데 집중할 뿐이오.
+str_political_philosophy_pitiless|인간은 언제나 타인의 몫을 가로채려 하오. 이 믿을 수 없는 세상에서는 각자가 자기 권리를 철저히 지켜야만 하오.
+str_political_philosophy_cunning|참으로 가혹한 세상이고, 우린 늘 가혹한 선택을 강요받지. 평화를 위해 폭군을 섬겨야 할 때도 있고, 반란 덕분에 왕이 정신을 차릴 때도 있소. 결국 상황에 달린 법이지.
+str_political_philosophy_sadistic|내 철학은 단순하오. 양이 되기보다는 늑대가 되는 것이 낫다는 것이오.
+str_political_philosophy_goodnatured|약속은 신의 있게 지켜야 하고, 남에게 부당한 짓을 해서는 안 될 것이오. 가끔 이 둘 사이에서 균형을 잡는 게 어렵겠지만, 당신이 믿는 사람들에게 최선을 다하시오. 그러면 크게 잘못될 일은 없을 것이오.
+str_political_philosophy_upstanding|왕과 영주의 지배는 무엇보다 평화를 유지하고 만인의 투쟁을 막기 위해 세워진 것이오. 하지만 그 질서가 부당한 일을 저지를 가능성까지 눈감아주어서는 안 된다고 생각하오.
+str_political_philosophy_roguish|흠... 영주가 되는 건 꽤 괜찮은 일이라고 생각하오.
+str_political_philosophy_benefactor|훌륭한 통치자는 모든 이가 공정한 대우를 받도록 보장하는 법이지. 개인적으로 나는 내 권한을 영지 백성들의 삶을 개선하는 데 쓸 생각이오.
+str_political_philosophy_custodian|훌륭한 통치자는 사람들이 번영할 수 있는 환경을 조성해야 하오. 개인적으로 나는 내 재산을 더 큰 부를 창출하는 데 사용하여, 나와 공익 모두에게 이익이 되게 할 작정이오.
+str_rebellion_prior_argument_very_favorable|당신이 지지하는 왕위 계승자에 대한 이야기를 들은 바 있소. 나도 그 의견에 대체로 동의하고 있소.
+str_rebellion_prior_argument_favorable|당신이 지지하는 왕위 계승자에 대한 이야기를 들은 바 있소. 나도 그 의견에 대체로 동의하고 있소.
+str_rebellion_prior_argument_unfavorable|당신이 지지하는 왕위 계승자에 대한 이야기를 들었네만, 그다지 설득력이 느껴지지는 않는구려.
+str_rebellion_prior_argument_very_unfavorable|당신이 지지하는 왕위 계승자에 대한 이야기를 들었네만, 대부분의 내용에 동의할 수 없었소.
+str_rebellion_rival_martial|{s49}, 당신의 동맹인 {s44}은 한때 내 명예와 용맹을 의심한 적이 있소. 전장에서 그놈과 마주할 기회는 흔하지 않았지만, 이번에야 말로 그 말을 쏙 들어가게 해 줄 것이오.
+str_rebellion_rival_quarrelsome|{s49}, 당신이 {s44}와 손을 잡았다고 들었소. 그놈은 교활한 족제비 같은 자이고, 나는 그를 전혀 신뢰하지 않소.
+str_rebellion_rival_pitiless|{s49}, 당신이 {s44}의 지지를 얻은 모양이군. 그놈은 나약하고 무능해서 영지를 다스릴 자격도 없는 자라 평소에도 그 자를 몹시 혐오하고 있었소.
+str_rebellion_rival_cunning|{s49}, 이미 당신 편에 선 {s44}은 고집불통에 시비조라 우리에게 오히려 짐이 될 뿐이오.
+str_rebellion_rival_sadistic|{s49}, 당신의 동맹인 {s44}이 도덕적인 척을 해대는 꼴은 역겨워 보고 싶지 않소. 그놈 옆에서 싸우는 건 사양하겠소.
+str_rebellion_rival_goodnatured|{s49}, 잔인하기로 소문난 {s44}와 같은 편이 되는 건 내키지 않는구려.
+str_rebellion_rival_upstanding|{s49}, 내 생각에 당신의 편이 된 {s44}은 위험하고 믿을 수 없으며 도덕성이라곤 찾아볼 수 없는 파렴치한이오.
+str_rebellion_argument_favorable|당신의 논리를 존중하겠소.
+str_rebellion_argument_neutral|당신의 논리도 어느 정도 재미는 있구려.
+str_rebellion_argument_unfavorable|당신의 논리는 전혀 설득력이 없소.
+str_rebellion_persuasion_favorable|당신의 주장이 참으로 감동적이군.
+str_rebellion_persuasion_neutral|이치에 맞는 주장이오.
+str_rebellion_persuasion_unfavorable|납득하기 어려운 주장이군.
+str_rebellion_relation_very_favorable|개인적으로 당신을 깊이 존경하고 있소.
+str_rebellion_relation_favorable|나는 당신을 잘 알고 있으며 개인적으로도 존중하고 있소.
+str_rebellion_relation_neutral|나는 당신을 좋아할 만큼 잘 알지는 못하오.
 str_rebellion_relation_unfavorable|당신을 믿지 못하겠소.
 str_and_comma_3|더군다나, 
 str_but_comma_3|그럼에도 불구하고, 
@@ -1431,161 +1431,161 @@ str_and_comma_1|, 그리고
 str_but_comma_1|, 그러나 
 str_and_comma_2|. 더욱이, 
 str_but_comma_2|. 그렇지만, 
-str_rebellion_agree_martial|난 결정했네. 정통성 있는 {s45}에게 돌아가겠소.
-str_rebellion_agree_quarrelsome|아, 충분히 생각해 봤는데. 난 {s46}을(를) 어떤 식으로든 좋아해 본 적이 없소. 그에게서 왕좌를 뺏어 버리는 거요.
-str_rebellion_agree_pitiless|아니. 나는 당신의 반란에 동참하지 않을 것이오. 나는 반란이 꼭 가지고 싶은 장난감을 거절당한 꼬마의 투정에 지나지 않는다고 생각하오. 나는 통치 능력이 이미 잘 검증되어 있는 {s46}와(과) 함께 하겠소.
-str_rebellion_agree_cunning|미안하오. 당신은 당신이 반드시 이길 거라는 자신감을 내게 보여주지 못하고 있소. 앞으로 많은 사람들이 죽을 테고, 나는 그 사이에 끼고 싶지는 않소. 나는 {s46}의 편에 설 것이오.
-str_rebellion_agree_sadistic|아니, 나는 당신의 어리석은 게임에 놀아나지 않겠소. 내 생각엔 당신이 왕관을 손에 쥐는 것 보다 교수대에 목이 달리는게 훨씬 더 빠른 길이 될 것 같군. 그 날이 오면 나는 {s46}의 편에서, 당신의 편에 섰던 자들의 목이 떨어지는 걸 잘 구경해 주겠소.
-str_rebellion_agree_goodnatured|미안하오, 나는 {s46}의 편에 서는 것이 옳다고 느끼지 않소. 내가 다음 번에 당신을 전장에서 만났을땐 어떤 자비도 없을 것이오.
-str_rebellion_agree_upstanding|미안하오, {s45}의 주장은 내게 그렇게 설득력 있지가 않소, 적어도 이 땅의 불쌍한 사람들에게 안겨줄 혼란스러운 저주의 고통을 줄만큼은 아닐 것이오. 나는 {s46}의 편에 서겠소. 내가 지금 잘못 생각하고 있는 것일지라도 천국에서 구원받을 수 있을 것이니 말이오.
-str_rebellion_refuse_martial|미안하오, {s45}은(는) 훌륭한 주장이지만, {s46}을(를) 배신할 만큼 충분하진 않소. 나는 내 주인에게 충성을 다할 것이오.
-str_rebellion_refuse_quarrelsome|아니, 당신의 {s45}은(는) 이 왕국을 다스리기 위한 자질이 부족하오. 나는 {s46}와(과) 함께할 것이오.
-str_rebellion_refuse_pitiless|No. I will not join your rebellion. I count it little more than the tantrum of a child, denied a bauble which {reg3?she:he} thinks should be {reg3?hers:his}. I will stick with {s46}, whose ability to rule is well-tested.
-str_rebellion_refuse_cunning|I am sorry. You do not give me reason for confidence that you will win. Many will die, but I do not wish to be among them. I will continue to back {s46}.
-str_rebellion_refuse_sadistic|No. I won't play your little game. You grasp at a crown, but I think instead you'll get a quick trip to the scaffold, and I'll be there by {s46}'s side to watch the headsman's axe drop.
-str_rebellion_refuse_goodnatured|I am sorry. I don't feel right turning my back on {s46}. No hard feelings when me meet on the battlefield.
-str_rebellion_refuse_upstanding|I am sorry. {s45}'s claim is not strong enough for me to inflict the curse of civil disorder on the poor wretches of this land. I will continue to back {s46}. May the Heavens forgive me if I do wrong.
-str_talk_later_martial|지금은 정치에 대해 말할 때가 아니오! 나는 지금 여기에 날 따르는 영주들과 함께 무장을 하고 전투를 하기 위해 나왔소. 당신은 싸울 준비나 하는게 좋을 것이오.
-str_talk_later_quarrelsome|당신은 내가 왕국의 반역자 따위와 말을 섞을 줄 알았소? 우리가 포위당했다고 해서? 어디 한번 덤벼 보시지. 이 피에 미친 놈아.
-str_talk_later_pitiless|그 혓바닥 당장 집어넣으시지! 내가 언제고 말은 하겠지만, 지금 여기서 싸움을 앞두고 말하진 않겠소!
-str_talk_later_cunning|그런 문제를 말하기엔 좋은 시기도 아니고 좋은 장소도 아닌 것 같군. 아마 나중에 시간이 나면 다른 장소에서 우리는 그 문제를 논의 할 수 있을 테지만. 우리는 지금 적이지 않소.
-str_talk_later_sadistic|네 입을 확 꿰메어 줄까! 상상이 안되나? 다른 영주가 내가 반역자와 이야기 하는걸 보는 장면을 말이야.
-str_talk_later_goodnatured|그래, 당신의 반란에 대해 나와 논쟁을 벌이고 싶다고? 그런 건 내가 당신의 군대에게 포위 당하지 않았을 때 다시 시도해보시오. 그러면 당신이 하고 싶은 말을 들어 주겠소.
-str_talk_later_upstanding|당신이 정통성 있는 왕위 계승에 대해 뭐라 생각하든, 지금 여기서 논쟁을 벌일 생각은 없소. 만약 우리가 사적인 자리에서 다시 만난다면. 내 기꺼이 당신이 하고 싶은 말을 들어 주겠소. 그렇지만 지금은 내가 당신의 적이라는 것을 생각해야만 할 것이오.
-str_gossip_about_character_default|그들은 {s6}은(는) 정말 재미 없는 사람이라고 말하고 있소.
-str_gossip_about_character_martial|그들은 {s6}이(가) 전쟁보다 재미 있어 하는 것은 아무 것도 없다고 말하고 있소.
-str_gossip_about_character_quarrelsome|그들은 {s6}이(가) 최근 다른 영주들과 다투는 중이라고 말한다. 사람들이 그의 코에 대해 농담을 하기 때문이라오.
-str_gossip_about_character_selfrighteous|나는 {s6}이(가) 시골 지주를 사형시켰다는 것을 들었소. 그 이유가 그 사람이 그의 숲에서 재수없게 사슴을 죽였기 때문이라고 했소.
-str_gossip_about_character_cunning|그들은 {s6}이(가) 야비한 자라고 말하고 있소.
-str_gossip_about_character_sadistic|그들은 {s6}이(가) 자신의 적들을 고문하는걸 좋아한다고 말하고 있소. 나는 그를 비난하기 싫소.
-str_gossip_about_character_goodnatured|그들은 {s6}이 좋은 사람이고 거의 땅에서 사람들을 관대하게 대한다고 말하고 있소. 그것은 거의 대부분의 귀족들의 평가보다 나은 것이오.
-str_gossip_about_character_upstanding|사람들은 {s6}을 섬기는 것이 큰 도움이 된다고 말하고 있소. 그는 아래 사람들에게 좋은 사람이며 그들이 일을 잘하면 그에 상응하는 보상을 해주고 있소.
-str_latest_rumor|당신이 최근에 {s6}에 대해 들은 소문은 : 
-str_changed_my_mind_martial|하지만, 당신의 감동적인 말들은 내 스스로를 되돌아보게 했소.
-str_changed_my_mind_quarrelsome|하지만 당신의 말은 나를 빠져들게 하고 있소. 계속 듣고 있소.
-str_changed_my_mind_pitiless|하지만 당신이 그렇게 늘어놓은 변명에, 나는 다시 생각해 볼 것이오.
-str_changed_my_mind_cunning|하지만 당신도 알다시피, 당신의 말은 달변이군. 감동적이오, 계속 듣고 있소.
-str_changed_my_mind_sadistic|하지만 당신의 굉장한 언변이 당신 편에서 멋진 노래를 부르기 때문에 아직 그 생각을 잊어버리지 못하고 있소.
-str_changed_my_mind_goodnatured|하지만 좋은 주장이라서 나는 열린 생각을 가지려고 노력하고 있소.
-str_changed_my_mind_upstanding|그렇지만, 자네의 멋진 달변에 나는 계속 듣고 있네.
-str_swadian_rebellion_pretender_intro|나는 리베의 토르길이오, 그리고 덴마크의 왕이 되어야 할 남자지.
-str_vaegir_rebellion_pretender_intro|나는 페르구사의 아들인 케넬 응로아이른의 둥갈이오, 그리고 아일랜드의 왕이 되어야 할 남자요!
+str_rebellion_agree_martial|결정했소. 정당한 후계자인 {s45}를 지지하겠소.
+str_rebellion_agree_quarrelsome|아, 충분히 생각했소. 어차피 난 {s46}을 좋아한 적이 없거든. 가서 그놈의 왕좌를 뺏어버립시다.
+str_rebellion_agree_pitiless|당신은 운이 좋군. 당신들에게 합류하기로 했소. 이 결정을 후회하지 않기를 빌어주시오.
+str_rebellion_agree_cunning|매우 위험한 결정이지만, 신중히 검토한 끝에 당신들과 함께하기로 했소. 이것이 최선의 결과로 이어지길 바랍시다.
+str_rebellion_agree_sadistic|결정했소. 당신이 모시는 {s45}를 지지하도록 하겠소. 하지만 {reg3?그녀:그}가 내게 합당한 보상을 내리도록 확실히 해두는 게 좋을 것이오!
+str_rebellion_agree_goodnatured|좋소. 당신이 모시는 분이 훌륭한 통치자가 될 것 같구려. 함께 하겠소.
+str_rebellion_agree_upstanding|그렇게 하겠소. 내 첫 번째 의무는 이 왕국을 수호하는 것이며, 무법천지로 변하는 것을 막기 위해 {s46}에 대한 충성을 버리고 {s45}를 지지하겠소. 내가 잘못된 선택을 한 것이라면 하늘이 용서하시길.
+str_rebellion_refuse_martial|미안하네. {s45}의 명분도 일리는 있으나, {s46}을 배신할 정도는 아니오. 나는 내 주군에게 충성을 다하겠소.
+str_rebellion_refuse_quarrelsome|흥. 당신이 모시는 애송이 {s45}는 이 왕국을 다스릴 재목이 아니오. 난 {s46} 곁에 남겠소.
+str_rebellion_refuse_pitiless|아니, 난 당신의 반란에 동참하지 않을것이오. 당신들의 말은 그저 가지고 싶은 장난감을 뺏긴 아이의 투정으로밖엔 보이지 않소. 난 통치 능력이 검증된 {s46}과 함께하겠소.
+str_rebellion_refuse_cunning|미안하오. 당신이 승리할 거라는 확신이 들지 않는군. 많은 이들이 죽겠지만, 나는 그중 하나가 되고 싶지 않소. 계속해서 {s46}을 지지하겠소.
+str_rebellion_refuse_sadistic|아니, 난 그 어리석은 장난에 놀아나지 않을것이오. 당신은 왕관을 노리지만, 내가 보기엔 교수대로 가는 지름길인 것 같군. 그날이 오면 난 {s46}의 곁에서 집행인의 도끼가 떨어지는 걸 지켜보겠소.
+str_rebellion_refuse_goodnatured|미안하게 됐소. {s46}을 저버리는 건 옳지 않다고 생각하오. 나중에 전장에서 만나더라도 너무 서운해하지 말시오.
+str_rebellion_refuse_upstanding|미안하오. {s45}의 명분은 이 땅의 가련한 백성들에게 내전의 고통을 안겨줄 만큼 강하지 않소. 나는 계속 {s46}을 지지하겠소. 내 선택이 틀렸다면 하늘이 용서하시길.
+str_talk_later_martial|지금은 정치를 논할 때가 아니오! 나는 오늘 동료 영주들과 함께 무장하고 전장에 나왔소. 싸울 준비나 하시오.
+str_talk_later_quarrelsome|병사들이 지켜보는 이 상황에서 내가 배신을 논할 줄 알았소? 날 바보로 아는 건가?
+str_talk_later_pitiless|그 혓바닥 당장 집어넣으시오! 무슨 할 말이 있든, 아군 병사들이 지켜보는 여기서는 한 마디도 하지 않을 것이오.
+str_talk_later_cunning|이런 논의를 하기엔 때와 장소가 적절치 않은 것 같군. 나중에 다른 곳에서라면 몰라도, 지금 우리는 적이지 않소.
+str_talk_later_sadistic|입을 꿰매버려야겠군! 다른 영주들이 내가 반역자와 내통하는 걸 보면 무슨 일이 벌어질지 상상이나 가시오?
+str_talk_later_goodnatured|그래, 반란에 대해 나와 논의하고 싶다고? 병사들에게 둘러싸여 있지 않을 때 다시 청해보시오. 그때라면 당신 말을 들어보겠소.
+str_talk_later_upstanding|정통성에 대해 내 생각이 어떠하든, 지금 여기서 논쟁할 의사는 없소. 사적인 자리에서 다시 만난다면 기꺼이 들어보겠소만, 지금은 나를 당신의 적으로만 대하시오.
+str_gossip_about_character_default|사람들은 {s6}에게 특별히 흥미로운 성격적 특징이 없다고들 하오.
+str_gossip_about_character_martial|사람들은 {s6}이 전쟁보다 좋아하는 건 아무것도 없다고 말하오.
+str_gossip_about_character_quarrelsome|사람들은 {s6}이 최근 다른 영주와 주먹다짐 직전까지 갔다고 하더군. 그자가 {s6}의 코 모양을 가지고 농담을 했기 때문이라오.
+str_gossip_about_character_selfrighteous|내가 듣기로 {s6}은 어느 사냥꾼을 처형했다더군. 그 불쌍한 자가 {s6}의 숲에서 사슴 한 마리를 잡았다는 게 이유였다고 하오.
+str_gossip_about_character_cunning|사람들은 {s6}이 아주 교활한 상대라고 말하고 있소.
+str_gossip_about_character_sadistic|사람들은 {s6}이 적을 고문하는 것을 즐긴다고 말하오. 나도 그자의 눈 밖에 나고 싶지 않소.
+str_gossip_about_character_goodnatured|사람들은 {s6}이 선량한 사람이며 영지 백성들을 관대하게 대한다고 말하오. 다른 귀족들에 비하면 아주 훌륭한 평판이지요.
+str_gossip_about_character_upstanding|{s6} 밑에서 일하는 게 아주 큰 도움이 된다고들 하오. 그는 부하들에게 잘 대해주고, 일을 잘해내면 그에 걸맞은 보상을 확실히 해준다더군.
+str_latest_rumor|{s6}에 대한 최근의 소문:
+str_changed_my_mind_martial|하지만, 당신의 감동적인 열띤 설득에 내 입장을 다시 고려해보게 하는구려.
+str_changed_my_mind_quarrelsome|하지만 당신의 말에 설득당한 것 같군, 개같은거. 어디 계속 말해보시오.
+str_changed_my_mind_pitiless|하지만 당신이 그렇게까지 간청하니, 다시 생각해보는 아량을 베풀겠소.
+str_changed_my_mind_cunning|하지만 당신도 알다시피, 말솜씨가 제법이군. 꽤 인상적이야. 계속 들어보겠소.
+str_changed_my_mind_sadistic|하지만 당신의 그 유창한 말솜씨가 내 귀에 아주 달콤한 노래를 불러주니, 당장 거절하지는 않겠네.
+str_changed_my_mind_goodnatured|하지만 당신의 주장이 타당하니, 열린 마음으로 검토해보겠소.
+str_changed_my_mind_upstanding|당신의 설득이 아주 유창하군. 계속 듣고 있소.
+str_swadian_rebellion_pretender_intro|나는 리베의 토르길이오. 덴마크의 정당한 왕이 되어야 할 사람이지.
+str_vaegir_rebellion_pretender_intro|나는 페르구사의 아들, 케넬 응로아이른의 둥갈이오. 에리우의 진정한 왕, 아르드 리가 되어야 할 자요!
 str_khergit_rebellion_pretender_intro|나는 오스윈이고, 노섬브리아에서 추방된 앨더먼이오.
 str_nord_rebellion_pretender_intro|나는 세오를이고, 곧 웨식스을 지배할 남자요.
 str_rhodok_rebellion_pretender_intro|나는 브루드의 아들 빌리이고, 알반의 다음 왕이 될 남자요!
-str_sarranid_rebellion_pretender_intro|안녕하시오, 이방인. 내 이름은 캐드왈론이오. 나는 귀네드 왕의 진정한 마지막 후계자요.
-str_swadian_rebellion_pretender_story_1|내 아버지는 호릭, 그 망할 개자식이 해외를 습격하고 다니는 동안, 우리 백성들을 지켰소. 그 놈은 어떤 병력도 남기지 않고 해외로 떠났을 경우, 자기 백성들이 어떻게 될 지에 대해 생각해보지도 않았소! 허나 내 아버지는 그들을 지켰소!
-str_vaegir_rebellion_pretender_story_1|나는 그 땅을 지배했던 내 아버지에 의해 30년 동안 후계자 자리에 있었소, 하지만 그 늙어 빠진 뼈다귀같은 놈은 '인생을 즐기고 다녔고' 새로운 젊은 그의 자식들을 후계자로 결정했지, 당신은 내 말이 무슨 뜻인지 잘 알고 있을 것이오.
-str_khergit_rebellion_pretender_story_1|내 조국은 덴마크인들에 의해 멸망했소, 그들은 어느 날 갑자기 어디선가 나타났었지, 그들이 우리의 해안 근처 마을에 도착하고 우리의 도시를 포위하기 전까지, 나는 그들을 막기 위해 싸울 수 있는 모든 사람들을 소집할 수 있었소.
-str_nord_rebellion_pretender_story_1|내 아버지는 마지막 왕의 형제였소. 왕은 내 삼촌에 의해 왕의 아들이 사악한 자라고 중상모략을 받았소, 내 삼촌은 왕의 아들이 그 스스로 정복한 마을을 처리하는 방식을 온갖 끔찍한 행위들로 꾸며 중상모략을 했지, 하지만 그는 그 스스로 중상모략에 응하지 않고 그의 아들을 후계자로 계속 두었소, 삼촌이라 불리는 망할 자식에 의해 왕의 아들이 죽기 전까지는 말이지.
-str_rhodok_rebellion_pretender_story_1|지난 15년 동안 나는 마을들에 보호를 제공해 주고, 그들이 주는 몇 푼 안되는 페닝과 음식으로 연명해 왔소. 우리는 그런 대접을 받을 신분이 아닌데도 불구하고 말이오.
-str_sarranid_rebellion_pretender_story_1|그 일에 대해서 이야기하자면, 옛날 내 조상이 허스펠스 체이스의 전투에서 데리아의 에드윈을 패배시켰소. 그 후, 우리는 왕위에서 쫓겨났고, 내 가족들은 왕족과는 거리가 먼 삶을 살고 있지.
-str_swadian_rebellion_pretender_story_2|왕이 그의 모험에서 돌아왔을 때, 그는 은으로 된 이상한 십자가를 가져왔소, 그는 우리를 두려워했고, 아버지가 도적들을 공격했을 때. 그 곳에 있던 사람들은 모두 그에게 충성을 바쳤소. 호릭, 그 망할 겁쟁이는 우리 집에서 우리들을 쫓아냈고, 몇 달 뒤에 내 아버지는 불명예를 견디지 못하고 자살했소. 그 뒤, 나는 우리에게 충성하는 사람들과 함께 살고 있었소, 그들은 우리 민족의 진정한 지도자가 아버지임을 잘 알고 있었소.
-str_vaegir_rebellion_pretender_story_2|더 중요한 것은, 그 어린 여왕은 정말 번식력이 좋았고, 그 년은 아이를 낳았소, 62살 먹은 늙어빠진 왕의 자식을 말이지... 그 뒤 몇 년 동안 합법적인 후계자인 나를 무시하고 아내들을 갈아치우면서 계속 후계자를 갈아치웠지... 지금! 내 아버지는 그 망할 어린 애들보다 서자지만 어른인 내가 더 적합한 후계자라는 것을 모르고 있소.
-str_khergit_rebellion_pretender_story_2|그들은 우리 조상의 땅에서 우리들을 쫓아냈소, 나는 왕국이 건국된 이후 그 곳이 멸망하는 것을 지켜볼 수 밖에 없었소... 내 아버지는 나를 부끄러워할 것이오.
-str_nord_rebellion_pretender_story_2|그 당시, 왕의 나이는 70살이었소, 그에겐 더 이상 아들이 없었고, 그는 내 아버지를 후계자로 지명했소. 그리고 얼마 지나지 않아, 내 삼촌은 바다에서 사고를 가장한 암살을 준비했고, 그 때 내 아버지와 왕이 둘 다 그의 손에 죽었소.
-str_rhodok_rebellion_pretender_story_2|우리는 오직 이 거대한 도시를 떠돌아 다녔지, 그들은 진짜 위험이 우리에게 오고 있다고 말했소, 우리는 그들을 보호하지 못했고, 우리는 그들이 강탈당하고, 죽어가는 것을 지켜볼 수밖에 없었소. 그러나 그 모든 거짓말은 그 곳의 야를들과 그 중에서도 가장 쓰레기같은 왕이 저지른 짓들이고, 그들이 바로 진짜 도적이오.
-str_sarranid_rebellion_pretender_story_2|지난 몇 년간 내 나라는 실권을 잡은 침략자들에 의해 고통받아 왔소, 그리고 마지막으로 나는 내 백성들이 내가 다시 왕위에 오르는 것을 바라 마지않고 있을 것이라 생각하고 있소.
-str_swadian_rebellion_pretender_story_3|왕국의 모든 사람들은 내 아버지가 존재했음을 알고 있고, 내가 그와 같이 싸웠던 것도 알고 있소, 그리고 그들은 나와 내 사람들을 지지할 것이오. 당신 같은 용감한 사람들이 정복하고 다른 요새를 지키는 동안, 나는 수도를 점령하고 그 곳을 방어하기에 충분한 병력이 있소. 우리는 함께 호릭 왕을 쫓아내고 그가 나에게 빚진 내 왕위를 받아낼 것이오.
-str_vaegir_rebellion_pretender_story_3|왕국은 몇 년 동안 존재해도 존재하고 있는 것이 아니오. 강력한 야를들이 그 곳에서 그들을 위협하고 있소. 나는 강력한 왕이 될 것이고, 그들은 우리의 적들에 대항하기 위해 강력한 왕을 필요로 하고 있소! 나는 내 정당한 왕위를 위해 당신의 도움을 필요로 하고 있소. 아버지는 그의 막내 아들 앞에서 나를 인정하지 않을 것이오. 우리는 왕국의 미래를 위해 싸워야만 할 것이오.
-str_khergit_rebellion_pretender_story_3|그러나, 나는 나의 깃발 아래 다시 사람들을 결집시킬 것이오. 나는 내 조상들을 전에 모셨던 사람들을 모으고 있소, 그러나 나는 좀 더 뛰어난 지도자를 필요로 하고 있소, 내 최고의 지휘관 중 일부는 첫 번째 전투에서 죽었소. 나는 당신이 우리의 군대에 합류할 경우, 당신에게 내 군대 중 하나를 이끌 수 있는 권한을 줄 것이오, 그 것은 당신이 지배하는 당신 만의 도시를 가지게 할 수도 있을 것이오.
-str_nord_rebellion_pretender_story_3|나는 그 음모에 내 사촌이 함께 가담했다고 확신하고 있소, 그 것은 우연의 일치라고 보기에는 너무 부자연스럽소, 너무 그에게 유리한 방향으로만 흘러갔지. 그 이후로 나는 살해당하지 않기 위해 조용히 지내고 있었지만, 그의 마수는 나에게로까지 다가왔었소, 그는 내 아내와 내 첩들을 몰래 납치한 후 죽였소. 그의 지휘관 중 대부분은 그에게 충성하고 있지만, 그의 사람들은 그를 폭압적이고 두려운 자라고 생각하고 있지. 우리는 당신의 도움으로 다시 평화로운 시대를 맞이할 수 있을 것이고, 우리 왕국의 번영을 가져올 수도 있을 것이오.
-str_rhodok_rebellion_pretender_story_3|우리는 그의 주요 요새들에 대한 공격 계획을 준비했고, 그들의 공포스러운 지배를 끝장낼 것이오. 그 땅의 사람들은 우리를 보호하기 위해 기꺼이 우리에게 합류할 것이오, 나는 그 땅이 오롯이 나의 것이기 때문에, 어떤 경쟁자도 용납하지 않을 것이오. 만약 당신이 나에게 합류한다면 나는 당신이 황금으로 수영을 할 수 있을 정도의 많은 부를 약속할 수 있을 것이오. 일이 제대로 성공한다면, 당신은 그에 걸맞는 보상을 받을 수 있을 것이오.
-str_sarranid_rebellion_pretender_story_3|나는 그저 내 병력에 대한 좋은 지휘관을 필요로 하고 있소, 그리고 가능하면 그와 함께하는 좋은 병사들도 필요로 하고 있지. 우리는 함께 내 가족에게 영광을 돌려줄 것이고, 우리는 우리가 받아야 할 정당한 위치에 같이 설 수 있을 것이오, 나와 함께해 주시오. 그렇게 된다면 당신의 부하들과 우리의 이름은 결코 잊혀지지 않을 것이오. 나는 맹세하겠소, 당신은 그 것에 대해 결코 후회하지 않을 것이오.
-str_swadian_rebellion_monarch_response_1|내 자식은 이 땅에서 공정한 왕이 될 것이네... 나는 기회가 있었을 때 그의 아버지를 멀리 추방시켰어야 했지. 내가 가진 모든 재화는 밖에서 가져오는 것이고, 그 것이 없다면 이 왕국은 아무 것도 아닐 것이야. 만약 어떤 도적들이라도 내 왕국을 노략질할 생각을 가지고 있다면, 나는 내 많은 병력들과 함께 그들을 찍어 없앨 것이네.
-str_vaegir_rebellion_monarch_response_1|그 어린 자식들은 세상에서 자신이 가지는 위치를 알지 못했을 테지만, 그는 서자야, 그는 그의 주인에게 봉사하는 것 이외에 그 어떤 권리도 주어지지 않아. 그는 내 아들과 같은 서열이지만, 그는 절대로 왕이 될 수 없을 것이야, 심지어 내 어린 자식이 죽는다 해도 말이지.
-str_khergit_rebellion_monarch_response_1|누구를 말하는 거지? 나는 그런 자에 대해 들어본 적이 없네. 내 전에는 아버지가 있었고, 그 전에는 내 할아버지가 있었지, 내 할아버지의 할아버지 때부터 이 왕국을 통치해 왔고, 내 전에 살았던 조상들 옆에 그런 자는 있지도 않았어.
-str_nord_rebellion_monarch_response_1|내 사촌은 몇 년 전에 좋은 기사가 되었네, 그는 우리 조상의 옛 친구들의 후손과 어울리기 시작했고, 나는 그가 지금은 단지 그들이 하는 말만을 믿고 있다는 것을 잘 알고 있네... 아버지가 그랬던 것처럼 말이지.
-str_rhodok_rebellion_monarch_response_1|그는 도적놈에 불과하네. 지난 몇 년 동안 그는 내 마을들을 습격해 약탈했지. 그런 한낱 '도적'따위가 마을의 수호자라고 말하던가? 그들은 도적이야!
-str_sarranid_rebellion_monarch_response_1|우리가 힘든 시간을 겪고 있는 것은 사실이네, 하지만 사람들은 너무 많은 침략에 고통받아 왔고, 때문에 그 것을 이해할 수 밖에 없을 것이네. 지금 나는 그가 우리 왕국에 가해진 그 공격에 대한 책임을 져야 할 사람 중 하나임을 알고 있네.
-str_swadian_rebellion_monarch_response_2|그들은 우리에 대한 공격을 시도할 수도 있네, 하지만 그들은 내 마을들 중 하나를 점령할 만한 병력도 없지. 하! 내가 자네에게 충고 하나 하자면, 그를 무시하는 것이 좋을 것이네, 그는 수다쟁이지만 실속은 아무 것도 없는 자라네.
-str_vaegir_rebellion_monarch_response_2|만약 그가 나에게 와서 무릎을 꿇는다면, 나는 그의 죄를 기꺼이 용서하고 나는 그를 내 합법적인 아들로부터 먼 곳에 살게 놔 둘 것이네.
-str_khergit_rebellion_monarch_response_2|나는 내 왕위를 주장하는 그 어떤 반역자도 용서하지 않네. 그와 그의 지원자들을 포함해서 그들이 그런 행위를 시도할 경우, 나는 그들을 모두 잡아들일 것이고, 나는 지금 내 백성들을 보호할 것이네.
-str_nord_rebellion_monarch_response_2|나는 그를 죽여야만 하는 선택을 강요당하고 있네. 나는 항상 있을 기습에 대해 그들을 내버려 둘 여유가 없네, 그는 그 것을 결코 이해할 수 없을 것이야. 그는 계속 사고를 칠 것이고, 나는 그 같은 일들이 계속 일어나는 것을 용납할 수 없네.
-str_rhodok_rebellion_monarch_response_2|그들은 내 백성들의 고통의 원인이 되고 있네. 그들 중 한 명도 살아남아서는 안 될 것이야.
-str_sarranid_rebellion_monarch_response_2|내 왕국의 모든 위험으로부터 내 모든 백성들을 보호하는 것이 나의 의무일세. 나는 그를 사로잡을 것이고, 그와 '대화'를 나눠봐야겠지. 우리는 이러한 상황을 더 이상 용납해서는 안 될 것이네.
-str_courtship_comment_conventional_generic|는 아주 잘 양육됐다. (전통적인)
-str_courtship_comment_adventurous_generic|는 충분히 예의바르다. (모범적인)
-str_courtship_comment_otherworldly_generic|는 정중하고 세심하다. (조신한)
-str_courtship_comment_ambitious_generic|는 밖에 잘 나가지 않는다. (야심을 품은)
-str_courtship_comment_moralist_generic|좋은 성격이다. (도덕적인)
+str_sarranid_rebellion_pretender_intro|반갑소, 이방인. 내 이름은 캐드왈론이오. 귀네드 왕가의 마지막 진정한 후계자로 당신 앞에 섰소.
+str_swadian_rebellion_pretender_story_1|내 아버지는 그 개자식 호릭 왕이 해외에서 약탈을 일삼는 동안 우리 백성들을 지켰소. 그놈은 병사 하나 남기지 않고 떠나면서 백성들이 어찌 될지 신경도 쓰지 않았지! 내 아버지가 그들을 구해낸 거요!
+str_vaegir_rebellion_pretender_story_1|나는 30년 동안 아버지의 왕관을 이어받을 후계자 자리에 있었소. 그런데 작년에 그 늙어빠진 양반이 자기 인생을 '새롭게' 하겠다며 젊은 여자와 새로 결혼을 했지. 내 말이 무슨 뜻인지 알겠소?
+str_khergit_rebellion_pretender_story_1|덴마크인들이 내 영지를 불태웠소. 동앵글리아의 겁쟁이 왕에게 지원을 받은 그들은 남쪽에서 쳐들어왔지. 각 영주들은 아엘 왕의 소집에 응하기보다 자기 영지만 지키기에 급급했소. 내 가신들만으로는 유산을 지킬 수 없었소.
+str_nord_rebellion_pretender_story_1|내 아버지는 켄트의 왕이자 현 국왕의 형제였소. 아버지는 조부 에델울프를 공경했지만, 삼촌 에델발드는 왕좌를 뺏고 조부의 아내와 결혼하는 파렴치한 짓을 저질렀지.
+str_rhodok_rebellion_pretender_story_1|지난 15년 동안 나는 부하들과 함께 마을을 보호해주며 푼돈과 음식으로 연명해 왔소. 우리가 마땅히 누려야 할 대우는 이게 아닌데 말이오.
+str_sarranid_rebellion_pretender_story_1|내 이름은 옛 조상의 이름을 딴 것이오. 조상님은 헤스펠스 체이스 전투에서 데리아의 에드윈을 격파했지. 그 후 우린 왕좌에서 밀려났고, 내 가문은 왕권과는 거리가 먼 삶을 살아야 했소... 지금까지는 말이오.
+str_swadian_rebellion_pretender_story_2|왕이 은화와 기괴한 십자가를 잔뜩 챙겨 돌아왔을 때, 그는 우리를 두려워했소. 아버지는 도적의 습격 때 백성들에게 큰 신망을 얻었거든. 그 겁쟁이는 우리를 집에서 쫓아냈고, 아버지는 치욕을 견디지 못하고 자살하셨소. 그 후로 난 아버지가 진정한 지도자임을 아는 충성스러운 이들과 지내왔소.
+str_vaegir_rebellion_pretender_story_2|불행히도 그 어린 왕비는 아주 생산력이 좋았고, 곧 그년은 아들을 낳았소, 62살 먹은 늙어빠진 왕의 아들을 말이오... 오랜 시간 그의 아내들에게 독을 먹이며 적자가 나지 못하게 막아왔지만 결국 이렇게 되었소! 내 아버지는 장성한 서자보다 어린 적통을 후계자로 세우고 싶어 하는 모양이오.
+str_khergit_rebellion_pretender_story_2|공공연히 그들에게 동참하지 않은 자들은 조상 대대로 내려온 땅에서 쫓겨났소. 그렇게 수백 년 이어온 왕국이 사라졌지. 조상님들이 보시기에 참으로 부끄러운 일일 것이오.
+str_nord_rebellion_pretender_story_2|불행히도 아버지는 16년 전 라그나르 로드브로크가 이끄는 덴마크인의 첫 침공 때 전사하셨소. 근친상간을 저지른 에델발드는 아버지의 희생 덕에 9년 동안 평화를 누리다 죽었지. 난 너무 어려서 왕위에 오르지 못했고, 삼촌들이 차례로 왕좌를 차지했소.
+str_rhodok_rebellion_pretender_story_2|큰 도시들은 우리를 거부했소. 그들은 우리가 진짜 위험이며, 갈취자라고 몰아세웠지. 하지만 그건 다 새빨간 거짓말이오! 진짜 도둑은 스스로를 영주라 부르는 자들과, 그중에서도 으뜸은 찬탈자의 아들놈, 왕이란 자요.
+str_sarranid_rebellion_pretender_story_2|왕국은 찬탈자들이 지휘봉을 잡은 지난 몇 년간 극심한 고통을 겪었소. 백성들도 이제 참을 만큼 참았을 거요. 내가 왕좌를 되찾기 위해 싸운다면 그들도 나를 지지할 것이오.
+str_swadian_rebellion_pretender_story_3|온 왕국은 내 아버지와 그 곁에서 싸운 이들에게 빚을 지고 있소. 내겐 수도를 점령하고 지킬 충분한 병력이 있소. 당신 같은 용맹한 이가 다른 거점들을 공략해준다면, 호릭 왕에게 내 몫을 되찾아올 수 있을 것이오.
+str_vaegir_rebellion_pretender_story_3|하지만 그의 새로운 왕조는 오래가지 못할 거요. 우리 가문 사람들은 벌써 권력을 잡기 위한 암투를 벌이고 있지. 강력한 왕만이 적들에 맞서 우리를 결속시킬 수 있소! 아버지가 나를 인정하지 않으니 당신의 도움이 필요하오. 왕국의 미래를 위해 싸워주시오!
+str_khergit_rebellion_pretender_story_3|나는 내 깃발 아래 백성들을 다시 결집시켰소. 조상을 모셨던 이들보다 더 많은 이를 모았지만, 유능한 지휘관이 부족하오. 일부는 덴마크인에게 헛되이 목숨을 잃었지. 당신이 내 군대를 이끌어준다면, 성공 후에 도시 하나를 다스릴 권한을 주겠소.
+str_nord_rebellion_pretender_story_3|조부의 혈통은 아버지 이후로 계속 약해졌소. 에설레드는 너무 경건하고 앨프레드는 너무 학구적이라 덴마크인들에게 제대로 저항하지 못했지. 난 아버지를 닮았소. 이 땅을 강력하게 수호할 수 있단 말이오. 당신의 도움으로 왕국에 평화와 번영을 되찾아줍시다.
+str_rhodok_rebellion_pretender_story_3|우리는 그 도둑놈의 주 성을 공략해 공포 정치를 끝낼 계획이오. 백성들은 우리에게만 보호비를 낼 것이고, 난 어떤 경쟁자도 허용치 않을 거요. 나에게 합류하시오. 당신이 은화 속에서 헤엄칠 수 있을 만큼 큰 부를 약속하겠소. 수수료도 챙길 수 있게 해 주겠소!
+str_sarranid_rebellion_pretender_story_3|내 군대를 이끌 유능한 대장들과 병사들이 필요하오. 함께 가문의 영예를 되찾고 내가 마땅히 있어야 할 자리에 오릅시다. 나와 함께 병사를 모은다면 우리 이름은 영원히 기억될 것이오. 맹세하건대 절대 후회하지 않을 거요.
+str_swadian_rebellion_monarch_response_1|그 아이가 또 내 땅의 진정한 왕인 척을 하는군... 기회가 있을 때 더 멀리 쫓아버렸어야 했는데. 우리가 가져온 은이 없었다면 이 왕국은 아무것도 아니었을 것이오. 도적들이 내 땅을 유린할 줄 미리 알았다면 군대를 그렇게 많이 데려갔겠소.
+str_vaegir_rebellion_monarch_response_1|그 젊은이는 세상물정을 모르는군. 그는 서자일 뿐이오. 주군을 섬겨 얻는 것 외엔 어떤 권리도 없단 말이지. 그도 내 아들이긴 하지만, 내 어린 자식이 죽는다 해도 그는 결코 왕이 될 수 없소.
+str_khergit_rebellion_monarch_response_1|누구 말이오? 들어본 적 없는 이름이군. 덴마크인들이 내 권리를 세워주었고, 땅에 대한 권리를 잃은 자들에겐 남길 것은 없소.
+str_nord_rebellion_monarch_response_1|내 조카는 몇 년 전까지만 해도 훌륭한 기사였지. 그러다 제 아버지의 가신들과 어울리더니 이제 그들이 하는 말만 믿게 된 모양이오. 영향력을 되찾으려는 자들이 조카의 머릿속에 헛된 망상을 불어넣은 게지.
+str_rhodok_rebellion_monarch_response_1|그는 도적에 불과하오. 지난 몇 년간 내 마을들을 약탈하고 은을 갈취해왔지. 그런 '도둑'이 마을의 수호자인 척을 한단 말이오? 그들이야말로 진짜 도적떼란 말이오!
+str_sarranid_rebellion_monarch_response_1|우리가 힘든 시기를 보내는 건 사실이나, 상인들이 끊임없는 약탈에 시달려왔기 때문임을 백성들도 잘 알고 있소. 이제 그자가 내 왕국에 있다는 걸 알았으니, 그 습격들의 책임이 누구에게 있는지 확실해졌군.
+str_swadian_rebellion_monarch_response_2|그들은 우리를 공격하려 들 수도 있겠지만, 내 마을 하나조차 점령할 병력도 없지, 하! 내 충고 하나 하겠소. 그자를 그냥 무시하시오. 떠들기만 좋아할 뿐 아무런 실속도 없는 자에 지나지 않소.
+str_vaegir_rebellion_monarch_response_2|그가 내 앞에 와서 무릎을 꿇는다면 그의 죄를 기꺼이 용서하고, 내 적통 아들에게서 멀리 떨어진 곳에 살게는 해주겠다고 알리시오.
+str_khergit_rebellion_monarch_response_2|내 왕위를 노리는 반역자는 그 누구도 용납하지 않을 것이오. 그자와 추종자들이 불법적인 짓을 벌인다면 모두 체포될 것이오. 이제 이들은 내 백성이니, 내가 그들을 보호할 것이오.
+str_nord_rebellion_monarch_response_2|내 손을 더럽히고 싶지는 않으나, 덴마크인들을 상대하는 와중에 뒤통수를 맞을까 경계하며 지낼 여유는 없소. 누구도 운명을 통제할 수는 없으며 왕위 역시 흘러간대로 흘러가는 것이지. 그는 끝내 이를 이해하지 못할 것이오.
+str_rhodok_rebellion_monarch_response_2|그들은 내 백성에게 고통을 준 대가를 치르게 될 것이오. 단 한 놈도 살아남지 못할 것이오.
+str_sarranid_rebellion_monarch_response_2|왕국 내의 모든 위험으로부터 백성을 보호하는 것이 내 의무이오. 그를 생포해서 '대화'를 좀 나눠봐야겠군. 상황이 이대로 계속되게 둘 수는 없으니 말이오.
+str_courtship_comment_conventional_generic|은(는) 아주 교양 있게 자랐다. (전통적인)
+str_courtship_comment_adventurous_generic|은(는) 꽤 괜찮은 사람 같다. (모범적인)
+str_courtship_comment_otherworldly_generic|은(는) 매우 정중하고 세심하다. (조신한)
+str_courtship_comment_ambitious_generic|은(는) 추진력이 부족하지만, 아마 개선될 여지가 있을 것이다. (야심을 품은)
+str_courtship_comment_moralist_generic|은(는) 인품이 훌륭한 사람 같다. (도덕적인)
 str_feast_description|부족합니다
 str_feast_description_2|약간 부족합니다
 str_feast_description_3|간신히 적당합니다
 str_feast_description_4|충분합니다
 str_feast_description_5|풍부합니다
 str_feast_description_6|넘쳐납니다
-str_feast_lengthy_description_1|당신이 제공할 음식은 손님들과 그들의 수행원들에게 부족했소. 당신은 그들의 음식과 음료 등을 주변 마을에서 꽤나 비싼 가격으로 구입해 주어야 할 것이오. 참석한 그들의 의견은 주최자로서의 당신은 의무를 다하지 못했다고 평가했고, 당신에 대한 신뢰와 전체적인 명성을 의심할 수밖에 없다고 했소.
-str_feast_lengthy_description_2|당신이 제공할 음식과 음료는 결국 다 떨어졌소. 몇 손님들에게 필요한 음식과 음료 등을 어떻게든 사주십시오, 혹은 그들의 수행원 몇 명에게 부탁해서 빨리 그들을 그들의 영지로 돌려 보내시오. 그나마 나은 평가가 '부족한 준비와 형편없는 계획으로 연회를 열었다.'고 하고 있소, 어쨌든 당신에 대한 평가는 안 좋았소.
-str_feast_lengthy_description_3|그 음식과 음료는 당신의 고귀한 손님들에게 충분했지만, 몇몇 사람들은 그들의 수행원도 없이 혼자서 돌아갔소. 당신의 고결한 사회적 의무를 최소한 그들은 이해하고 있고, 이는 당신의 명성을 올려줄 것이오.
-str_feast_lengthy_description_4|당신은 그들이 당신을 신용할 수 밖에 없을 만큼 충분하고 다양한 음식과 음료를 제공했소. 음식과, 음료, 흥겨운 분위기는 당신의 손님들을 편안하게 했고, 그들이 자신의 왕국에 대한 문제를 숨김없이 이야기 하도록 할 수 있었소. 또한 그들은 당신에 대한 깊은 신용을 가지게 되었소.
-str_feast_lengthy_description_5|당신은 풍부한 음식들을 고귀한 당신의 손님들을 위해서만 제공하지 않았고, 그들의 수행원들에게도 제공했으며, 가난한 사람들에게도 나눠줄 수 있었소. 당신의 손님들은 당신의 관대함을 칭찬했고, 사회적 지휘를 가진 사람으로서, 의무를 다 하는 모습에 칭찬을 아끼지 않았소. 술과 음식은 배불리 먹을 수 있었고, 모두 술에 취하며, 대화의 흥을 돋구었고, 그들과의 유대관계는 더욱 돈독해질 수 있을 것이오.
-str_feast_lengthy_description_6|왕국은 한달간 지속된 당신의 관대한 식탁을 말할 것이며, 그리고 그것은 사람들이 열망하는 연회의 모범이 될 것이오. 당신은 당신의 손님들과 그들의 하인들 뿐만 아니라, 연회장 문에 서성이던 이들의 배도 불려줄 수 있었소.
-str_credits_1|ⓒ2010 TaleWorlds Entertainment. Mount & Blade: Warband^ⓒ2014 Brytenwalda S.L. Viking Conquest
-str_credits_2|BRYTENWALDA S.L.^^Game Design^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter
-str_credits_3|Programming^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter^Slawomir Libura^Michael Lyubchenko^^Special thanks for the Battle GUI^Alexander Souslov (Snowbird Studios)
-str_credits_4|Scenes^Asbjorn Lindegaard Moller^^Models^Cesar Inarrea^Leyre Ramirez^^2D Art^Marco Aurelio Balbas^^Textures^Miguel Egana Silva^Sebastian Wunnicke
-str_credits_5|Shaders^Marc Natta^^Animations^Slawomir Libura^^Concept Artist^Marco Aurelio Balbas
-str_credits_6|Script^Alberto Fuentevilla
-str_credits_7|Original Music:^Jesse Hopkins
-str_credits_8|Voice Talent:^Tassilo Egloffstein
-str_credits_10|Paradox Interactive^^President and CEO:^Theodore Bergqvist^^Executive Vice President:^Fredrik Wester^^Chief Financial Officer:^Lena Eriksson^^Finance & Accounting:^Annlouise Larsson^^VP Sales & Marketing US:^Reena M. Miranda^^VP Sales & Marketing EU:^Martin Sirc^^Distribution Manager Nordic:^Erik Helmfridsson^^Director of PR & Marketing:^Susana Meza^^PR & Marketing:^Sofia Forsgren^^Product Manager:^Boel Bermann
-str_credits_11|Logotype:^Jason Brown^^Cover Art:^Piotr Fox Wysocki^^Layout:^Christian Sabe^Melina Grundel^^Poster:^Piotr Fox Wysocki^^Map & Concept Art:^Ganbat Badamkhand^^Manual Editing:^Digital Wordsmithing: Ryan Newman, Nick Stewart^^Web:^Martin Ericsson^^Marketing Assets:^2Coats^^Localization:^S&H Entertainment Localization^^GamersGate:^Ulf Hedblom^Andreas Pousette^Martin Ericson^Christoffer Lindberg
-str_credits_12|Thanks to all of our partners worldwide, in particular long-term partners:^Koch Media (Germany & UK)^Blue Label (Italy & France)^Friendware (Spain)^New Era Interactive Media Co. Ltd. (Asia)^Snowball (Russia)^Pinnacle (UK)^Porto Editora (Portugal)^Hell-Tech (Greece)^CD Projekt (Poland, Czech Republic, Slovakia & Hungary)^Paradox Scandinavian Distribution (Scandinavia)
-str_credits_9|Tutorial written by:^Steve Negus^Armagan Yavuz^Edward Spoerl^^^Horse Motion Capture Animation Supplied by:^Richard Widgery & Kinetic Impulse^^^Physics:^Havok^^^Sound and Music Program Library:^FMODex Sound System by Firelight Technologies^^^Skybox Textures:^Jay Weston^^^Chinese Translation:^Hetairoi; Gaodatailang; silentjealousy; Ginn; fallout13; James; D.Kaede; Kan2; alixyang; muyiboy^^^TaleWorlds Director of Communications:^Ali Erkin ^^^TaleWorlds Forum Programming:^Brett Flannigan ^^^TaleWorlds.com Forum Administrators and Moderators:^Janus^Archonsod^Narcissus^Nairagorn^Lost Lamb^Deus Ex^Merentha^Volkier^Instag0^Ativan^ego^Guspav^Hallequin^Invictus^okiN^Raz^rejenorst^Skyrage^ThVaz^^^Mount&Blade Community Suggestions and Feedback:^A Mustang^adamlug^Adorno^alden^Alhanalem^amade^Anthallas^Alkhadias Master^Arch3r^Archevious^Arcas Nebun^Arcon^Arcturus^ares007^Arjihad^BadabombadaBang^Badun^BaronAsh^Berserker Pride^bgfan^bierdopjeee^Big Mac^Binboy^blink180heights^BlodsHammar^Bloid^Brandon^Brego^chenjielian^cifre^COGlory^Corinthian Hoplite^Crazed Rabbit^CryptoCactus^CtrlAltDe1337^Cuther^Da-V-Man^dimitrischris^dstemmer^EasyCo506^Egbert^ethneldryt^eudaimondaimon^Faranox^Fawzia dokhtar-i-Sanjar^Fei Dao^Gabeed^GeN76^General Hospital^GhosTR^glustrod^guspav^Halcyon^Harn^Hethwill^Highelfwarrior^HULKSMASH^Iberon^ignoble^Jack Merchantson^JoG^Jov^Kazzan^King Jonathan the Great^Kleidophoros^knight^Kong Burger^Kristiania^l3asu^Larkraxm^Leandro1021DX^lighthaze^Llew2^Lord Rich^lordum ediz^Lucke189^Mabons^MacPharlan^Madnes5^MagicMaster^Makh^ManiK^Manitas^Marin Peace Bringer^Martinet^MAXHARDMAN^Merlkir^miguel8500^Mithras^Moddan^Nate^Nemeo^Nite/m4re^noobalicous^Nord Champion^okiN^Orion^OTuphlos^Papa Lazarou^Phallas^Plazek^Prcin^PSYCHO78^PsykoOps^Reapy^Red River^Rhizobium^Riggea^Rongar^Ros^sadnhappy^Sarejo^ScientiaExcelsa^Scorch!^Seawied86^sebal87^shikamaru 1993^Shun^silentdawn^Sir Gowe^Skyrage^Slawomir of Aaarrghh^SoloSebo^SovietSoldier^Stabbing Hobo^Stratigos001^Styo^TalonAquila^test^The Yogi^Thundertrod^Thyr^Tim^Titanshoe^tmos^Toffey^Tonttu^Trenalok^Tronde^UberWiggett^Urist^Ursca^urtzi^Vermin^Viajero^Vincenzo^Vulkan^Warcat92^Welcome To Hell^Wheem^Wu-long^Yellonet^Yobbo^Yoshi Murasaki^Yoshiboy^Zyconnic^^^Special Thanks to Toby Lee for his ideas and in depth feedback on the combat system.^...and many many other wonderful Mount&Blade players!^^(This is only a small sample of all the players who have contributed to the game by providing suggestions and feedback.^This list has been compiled by sampling only a few threads in the Taleworlds Forums.^Unfortunately compiling an exhaustive list is almost impossible.^We apologize sincerely if you contributed your suggestions and feedback but were not listed here, and please know that we are grateful to you all the same...)
-str_multi_scene_1|폐허
-str_multi_scene_2|마을
-str_multi_scene_3|성 1
-str_multi_scene_4|폐허가 된 요새
-str_multi_scene_5|신 5
-str_multi_scene_6|신 6
-str_multi_scene_7|강 있는 지형
-str_multi_scene_8|성 2
-str_multi_scene_9|눈 덮힌 마을
-str_multi_scene_10|성 3
-str_multi_scene_11|노스 도시
-str_multi_scene_12|임의의 평야 (중간)
-str_multi_scene_13|임의의 평야 (큰)
-str_multi_scene_14|임의의 초원 (중간)
-str_multi_scene_15|임의의 초원 (큰)
-str_multi_scene_16|항구 요새
-str_multi_scene_17|브런우드 요새
-str_multi_scene_18|얼음 위에서 전투
-str_multi_scene_19|마다르 성
+str_feast_lengthy_description_1|제공된 음식이 손님과 수행원들에게 부족했습니다. 손님들은 주변 마을에서 턱없이 비싼 가격에 먹거리를 직접 사야만 했습니다. 참석자들 사이에서는 당신이 주최자로서 의무를 다하지 못했다는 의견이 지배적이었으며, 이는 당신에 대한 신뢰와 명성을 실추시켰습니다.
+str_feast_lengthy_description_2|제공한 음식과 술이 결국 바닥나고 말았습니다. 일부 손님들은 지나가는 행상인에게 음식을 직접 사거나, 수행원들을 일찍 귀가시켜야 했습니다. 너그러운 이들은 준비 부족이라 여겼으나, 어쨌든 당신의 명성에는 도움이 되지 않았습니다.
+str_feast_lengthy_description_3|제공된 음식과 술은 귀족 손님들에게는 적당했으나, 수행원으로 온 평민들 중 일부는 굶어야 했습니다. 당신은 귀족으로서 최소한의 사회적 의무를 이해하고 있다는 평판을 얻기 시작했습니다.
+str_feast_lengthy_description_4|충분하고 다양한 종류의 음식과 술을 제공하여 체면을 세웠습니다. 음식과 즐거운 분위기 덕분에 손님들은 마음을 열고 왕국의 현안에 대해 솔직하게 대화를 나누었으며, 당신에 대한 신뢰도 깊어졌습니다.
+str_feast_lengthy_description_5|귀족 손님뿐만 아니라 수행원들에게도 풍성한 식탁을 제공했고, 남은 음식은 빈민들에게 나누어주었습니다. 손님들은 당신의 관대함과 신분에 걸맞은 의무 이행을 입 모아 칭송했습니다. 술과 음식 덕분에 대화는 화기애애했으며 참석자들 사이의 유대감은 더욱 돈독해졌습니다.
+str_feast_lengthy_description_6|온 왕국이 한 달 동안 당신의 풍성한 식탁을 칭송할 것이며, 이는 장차 모든 연회의 본보기가 될 것입니다. 당신은 귀족 손님과 수행원뿐만 아니라 성문으로 구름처럼 몰려든 빈민들의 배까지 가득 채워주었습니다.
+str_credits_1|©2010 TaleWorlds Entertainment. Mount & Blade: Warband^©2014 Brytenwalda S.L. Viking Conquest
+str_credits_2|BRYTENWALDA S.L.^^게임 디자인^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter
+str_credits_3|프로그래밍^Alberto Fuentevilla^Matthias Grohmann^Michael 'Motomataru' Richter^Slawomir Libura^Michael Lyubchenko^^Special thanks for 전투 GUI^Alexander Souslov (Snowbird Studios)
+str_credits_4|장면 구성^Asbjorn Lindegaard Moller^^모델링^Cesar Inarrea^Leyre Ramirez^Miguel Egana Silva^^2D 아트^Yeyo Balbas^^텍스처^Miguel Egana Silva^Sebastian Wunnicke
+str_credits_5|쉐이더^Marc Natta^^애니메이션^Slawomir Libura^^컨셉 아티스트^Yeyo Balbas
+str_credits_6|스크립트^Alberto Fuentevilla
+str_credits_7|음악^Marcus Bressler - Viking Raid^CrystalMoors - Antiqvam Exqvirite Matrem, Nabia Orebia, The Unconquered Land^Juha-Matti Koppelomaki - Viking War Horns^Symphony of Specters - Day of War^Mike Sea - Go Vikes.^KlepatoDesign - The Ancients^Darius Sobolewski - Nordic Orchestra^Logan Epic Canto - Celtic Spirit^Allegro120 - Celtic^Cinemonia - Celtic Legend^^Tim Donovan - Solemn Funeral Pyre, Fallen Warrior^MrHumble - Ballad of a Hero.^^외부 지원^Yughues Nobiax^Stephen Pollington
+str_credits_8|테스터 및 기여^^Kalarhan^Kraggrim^Hunta^Ragnarson^Takeda Shingen^YourStepDad^Nijis^Krisvk^Dowdpride^Arch3r^Kazzan^Rurin^Fredelios^Blivandefar^Cleric Johnson^AZAN^Mitchell^M^Ozan Celik^Reiksmarshal^Hrotha^^오리지널 Brytenwalda 모드의 오랜 플레이어와 베타 테스터분들이 보내주신 소중한 피드백에 깊은 감사를 드립니다. 시간 관계상 그 중 일부만을 구현할 수 있었습니다.^^마케팅 자산^Miguel Egana Silva (KreativLandschaft)
+str_credits_10|TALEWORLDS ENTERTAINMENT^^리드 프로그래밍^Cem Çimenbiçer^Şahin Serdar Koçdemir^^프로그래밍^Mustafa Korkmaz^Gökhan Uras^Dündar Ünsal
+str_credits_11|리드 아티스트^Özgür Saral^^아티스트^Andaç Bingöl^Deniz Köklü^Fatma Nadide Öcba^Fırat Murat Çebi^Gökalp Doğan^Oğuz Tunceli^Sten Oom
+str_credits_12|TaleWorlds 경영진^^설립자/CEO^Armağan Yavuz^^최고 운영 책임자(COO)^Ali Erkin^^프로듀서/사업 개발^Vishnu Vijayakumar^^홍보/커뮤니티 매니저^Frank Elliott
+str_credits_9|실사 영상^^Daniel Renger^Martin Unglert^Josef Becker^Jan Jaegers^Markus Beck^Jurgen Bonisch^Chris Czichowsky^Florian Dosch^Michael Exner^Fryzel Hans-Jurgen^Alexandra Gorner^Alexander Gorner^Franz Hauser^Jenna Klein^Claudia Klingner^Marcus Langer^Hans Lendorf^Markus Mickel^Patrick Mouka^Corinna Oppitz^Sibylle Oppitz^Bernd Rohde^Volker Schlott^Benjamin Schuler^Michael Schuler^Rebekka Schuler^Julia Schuster^Alexander Seufert^Susan Sumer^Johannes Werth^Bernd Wolfsteiner^Sabine Wudy^Sebastian Wudy^Stefan Wudy^^장소^Geschichtspark Barnau^^로고타입^Jason Brown^^표지 아트^Piotr Fox Wysocki^^레이아웃^Christian Sabe^Melina Grundel^^포스터^Piotr Fox Wysocki^^컨셉 아트^Ganbat Badamkhand^^매뉴얼 편집 및 디지털 워드스미싱^Ryan Newman^Nick Stewart^^웹사이트^Martin Ericsson^^마케팅 자산^2Coats^^현지화^S&H Entertainment Localization
+str_multi_scene_1|색슨족 마을
+str_multi_scene_2|딘 타겔
+str_multi_scene_3|던 타루오
+str_multi_scene_4|하드리아누스 장벽
+str_multi_scene_5|애드 칸디다 카삼
+str_multi_scene_6|언덕마을
+str_multi_scene_7|딘 아스
+str_multi_scene_8|두인 올레이
+str_multi_scene_9|딘 비치
+str_multi_scene_10|로마 요새
+str_multi_scene_11|숲속으로
+str_multi_scene_12|크래녹
+str_multi_scene_13|색슨 강 요새
+str_multi_scene_14|항해사들
+str_multi_scene_15|색슨 결투장
+str_multi_scene_16|밍이우 요새
+str_multi_scene_17|애버커닉
+str_multi_scene_18|경쟁 요새
+str_multi_scene_19|브로크
 str_multi_scene_inv_1|하드리아누스 장벽
-str_multi_scene_inv_2|딘 아스
+str_multi_scene_inv_2|색슨 요새
 str_multi_scene_inv_3|딘 비치
 str_multi_scene_inv_4|밍이우 요새
 str_multi_scene_inv_5|브로크
-str_multi_scene_20|임의의 평야
-str_multi_scene_21|임의의 숲
-str_multi_scene_22|임의의 설원
+str_multi_scene_20|랜덤 평원
+str_multi_scene_21|랜덤 숲
+str_multi_scene_22|랜덤 설원
 str_multi_sea_1|평온한 바다
-str_multi_sea_2|폭풍이 부는 바다
+str_multi_sea_2|폭풍우 바다
 str_multi_coast_1|항구 습격전
-str_multi_coast_2|항구 습격전 (번개폭풍)
+str_multi_coast_2|항구 습격전 (뇌우)
 str_multi_scene_end|multi scene end
 str_multi_game_type_1|데스매치
 str_multi_game_type_2|팀 데스매치
 str_multi_game_type_3|전투
 str_multi_game_type_4|공성전
 str_multi_game_type_5|결투
-str_multi_game_type_6|해상 전투
+str_multi_game_type_6|해전
 str_multi_game_type_7|토르의 챔피언
 str_multi_game_type_8|바이킹의 침략
 str_multi_game_type_9|영주들의 전투
 str_multi_game_type_10|습격
 str_multi_game_types_end|multi game types end
-str_multi_game_type_desc_1|^Every man for himself!^^Earn silver and glory with every kill.^^
-str_multi_game_type_desc_2|^Two teams; endless respawns.^^Earn silver and a point for your faction with every kill.^
-str_multi_game_type_desc_3|^Two teams; no respawn.^^Here you must focus on keeping you and your teammates alive as well as on personal kills.
-str_multi_game_type_desc_4|^One team starts fortified, defending their flag against the clock and the other team. Respawns are slowed for the defender.^
-str_multi_game_type_desc_5|^Find another player.^^Introduce yourself.^^Kill or be killed.^
-str_multi_game_type_desc_6|^This is Battle mode, only afloat!^^^^
-str_multi_game_type_desc_7|^Find and kill the Champion to gain Thor's favour!^^You only gain point for killing Thor's Champions and for killing other players while being the Champion.^^^
-str_multi_game_type_desc_8|^Team up with other players and defend against the hordes of enemies!^^^
-str_multi_game_type_desc_9|^This variant of Battle mode allows the player to purchase and lead armies of bots.^^^
-str_multi_game_type_descs_end|^^^              Specials^^- Banner: inspires nearby teammates 10%^^- Priest: heals nearby teammates^^- Horn (Attack Button): heals AND inspires teammates, at a distance^^- Berserk (Key B): temporarily increases melee capabilities^^- Shield Taunt (RMB + Key Q): displays your disdain for the enemy^^
+str_multi_game_type_desc_1|^모두가 적입니다!^^적을 처치할 때마다 은화와 영광을 획득하십시오.^^
+str_multi_game_type_desc_2|^두 팀으로 나뉘어 무한히 부활합니다.^^적을 처치하여 은화를 벌고 소속 세력의 점수를 올리십시오.^
+str_multi_game_type_desc_3|^두 팀으로 나뉘며 부활은 없습니다.^^자신과 팀원의 생존은 물론 적 처치에도 집중해야 합니다.
+str_multi_game_type_desc_4|^한 팀은 요새에서 깃발을 지키고 다른 팀은 시간 내에 점령해야 합니다. 방어측의 부활 속도는 더 느립니다.^
+str_multi_game_type_desc_5|^다른 플레이어를 찾으십시오.^^자신을 소개하십시오.^^죽이거나, 죽으십시오.^
+str_multi_game_type_desc_6|^해상에서 펼쳐지는 전투 모드입니다!^^^^
+str_multi_game_type_desc_7|^토르의 총애를 얻기 위해 챔피언을 찾아 처치하십시오!^^챔피언을 처치하거나 자신이 챔피언인 상태에서 다른 플레이어를 처치해야 점수를 얻습니다.^^^
+str_multi_game_type_desc_8|^다른 플레이어와 협동하여 몰려오는 적의 공세를 막아내십시오!^^^
+str_multi_game_type_desc_9|^전투 모드의 변형으로, 플레이어가 봇 군대를 고용하고 지휘할 수 있습니다.^^^
+str_multi_game_type_descs_end|^^^ 특수 기능^^- 깃발: 주변 아군의 사기 10% 증가^^- 사제: 주변 아군 치료^^- 뿔나팔 (공격 버튼): 원거리 아군 치료 및 사기 증가^^- 광분 (B키): 일시적으로 근접 전투 능력 향상^^- 방패 도발 (우클릭 + Q키): 적에 대한 경멸 표시^^
 str_poll_kick_player_s1_by_s0|{s0}이(가) {s1}의 강제퇴장을 제안하여 투표를 실시합니다.
 str_poll_ban_player_s1_by_s0|{s0}이(가) {s1}의 영구퇴장을 제안하여 투표를 실시합니다.
 str_poll_change_map_to_s1_by_s0|{s0}이(가) {s1} 맵으로 변경하기 위한 투표를 실시합니다.
@@ -1607,19 +1607,19 @@ str_game_type|게임 타입:
 str_max_number_of_players|최대 플레이어의 수:
 str_number_of_bots_in_team_reg1|{reg1} 팀 봇의 수:
 str_team_reg1_faction|{reg1} 팀 세력:
-str_enable_valve_anti_cheat|밸브 안티 치트 허용 (유효한 스팀 계정 필요)
-str_allow_friendly_fire|아군 원거리 공격 허용
-str_allow_melee_friendly_fire|아군 근접 공격 허용
-str_friendly_fire_damage_self_ratio|아군 공격시 자신에게 입히는 데미지 (%):
-str_friendly_fire_damage_friend_ratio|아군 공격시 상대방에게 입히는 데미지 (%):
-str_spectator_camera|관중 카메라:
+str_enable_valve_anti_cheat|Valve 안티 치트 활성화 (Steam 계정 필요)
+str_allow_friendly_fire|아군에 대한 원거리 공격 허용
+str_allow_melee_friendly_fire|아군에 대한 근접 공격 허용
+str_friendly_fire_damage_self_ratio|아군 공격 시 반사 피해 (%):
+str_friendly_fire_damage_friend_ratio|아군 공격 시 가해 피해 (%):
+str_spectator_camera|관전자 카메라:
 str_control_block_direction|방어 컨트롤 설정:
 str_map_time_limit|맵 시간 제한 (분):
 str_round_time_limit|라운드 시간 제한 (초):
 str_players_take_control_of_a_bot_after_death|죽었을 시 봇으로 부활
-str_team_points_limit|팀 포인트 설정:
-str_point_gained_from_flags|깃발 획득 시 얻는 포인트 (%):
-str_point_gained_from_capturing_flag|깃발 노획 시 얻는 포인트:
+str_team_points_limit|팀 승리 점수 제한:
+str_point_gained_from_flags|깃발 점유 시 획득 점수 (%):
+str_point_gained_from_capturing_flag|깃발 탈취 시 획득 점수:
 str_respawn_period|부활 시간 (초):
 str_add_to_official_game_servers_list|정식 서버 리스트에 추가
 str_combat_speed|전투 속도:
@@ -1630,10 +1630,10 @@ str_combat_speed_3|빠름
 str_combat_speed_4|가장 빠름
 str_off|끄기
 str_on|켜기
-str_defender_spawn_count_limit|플레이어 부활 횟수:
+str_defender_spawn_count_limit|방어측 부활 횟수:
 str_unlimited|무제한
 str_automatic|자동
-str_by_mouse_movement|마우스 이동
+str_by_mouse_movement|마우스 이동 방향에 따라
 str_free|자유
 str_stick_to_any_player|모두
 str_stick_to_team_members|팀원 캐릭터만
@@ -1646,20 +1646,20 @@ str_make_maps_voteable|맵 변경 투표 허용
 str_valid_vote_ratio|투표 찬성율 (%):
 str_auto_team_balance_limit|오토밸런스 차이 (인원 수):
 str_welcome_message|환영의 말:
-str_initial_gold_multiplier|기본 지급 금 (%):
-str_battle_earnings_multiplier|전투 보너스 금 (%):
-str_round_earnings_multiplier|라운드 보너스 금 (%):
+str_initial_gold_multiplier|초기 자금 비율 (%):
+str_battle_earnings_multiplier|전투 보너스 비율 (%):
+str_round_earnings_multiplier|라운드 보너스 비율 (%):
 str_allow_player_banners|개인 깃발 허용
-str_force_default_armor|강제 최소한의 갑옷 착용
-str_respawning_in_reg0_seconds|부활하기까지 {reg0}초 남았다.
-str_no_more_respawns_remained_this_round|이번 라운드에 남은 목숨이 없다.
-str_reg0_respawns_remained|({reg0} 목숨이 남았다)
-str_this_is_your_last_respawn|(마지막 목숨입니다)
-str_wait_next_round|(다음 라운드를 기다립니다)
+str_force_default_armor|기본 갑옷 착용 강제
+str_respawning_in_reg0_seconds|{reg0}초 후 부활합니다...
+str_no_more_respawns_remained_this_round|이번 라운드에 남은 목숨이 없습니다.
+str_reg0_respawns_remained|({reg0}번의 부활 가능)
+str_this_is_your_last_respawn|(이번이 마지막 목숨입니다)
+str_wait_next_round|(다음 라운드를 기다리십시오)
 str_yes_wo_dot|네
 str_no_wo_dot|아니오
-str_we_resign|우리는 싸울만한 기력이 남아 있지 않다. 우리는 {playername} 당신에게 항복합니다.
-str_i_resign|난 죽기 싫어요. 항복하겠어요.
+str_we_resign|더 이상 싸울 힘이 없습니다. {playername}, 당신에게 항복합니다.
+str_i_resign|죽고 싶지 않아요. 항복하겠습니다.
 str_s1_returned_flag|  {s1}이 깃발을 그들의 본거지에 되돌려놨다!
 str_s1_auto_returned_flag|  {s1}이 자동으로 깃발을 그들의 본거지로 되돌려놨다!
 str_s1_captured_flag|{s1}이 적의 깃발을 빼앗았다!
@@ -1683,7 +1683,7 @@ str_s1_won_round|{s1}이 라운드에서 승리했다!
 str_round_draw|시간이 초과됬다. 무승부입니다.
 str_round_draw_no_one_remained|아무도 남아있지 않다. 무승부입니다!
 str_death_mode_started|서둘러서 전장의 마스터가 되십시오!
-str_reset_to_default|기본 세팅
+str_reset_to_default|기본 설정으로 초기화
 str_player_name|플레이어 이름
 str_kills|죽인 수
 str_deaths|사망한 수
@@ -1747,18 +1747,18 @@ str_us_|아군
 str_allies_|동맹군
 str_enemies_|적군
 str_routed|도주
-str_weekly_budget|일주일 예산
-str_income_from_s0|{s0}의 소득:
-str_mercenary_payment_from_s0|{s0}(으)로 부터의 용병 보수:
+str_weekly_budget|주간 예산
+str_income_from_s0|{s0}의 수입:
+str_mercenary_payment_from_s0|{s0}의 용병 보수:
 str_s0s_party|{s0}의 부대
-str_loss_due_to_tax_inefficiency|비효율로 인한 손실 세금:
+str_loss_due_to_tax_inefficiency|비효율로 인한 세금 손실:
 str_wages_for_s0|{s0}의 임금:
 str_earlier_debts|이전 부채:
-str_net_change|총계 변화:
+str_net_change|순 변화량:
 str_earlier_wealth|이전 재산:
-str_new_wealth|새로운 재산:
+str_new_wealth|현재 재산:
 str_new_debts|새로운 부채:
-str_team_reg0_bot_count_is_reg1|Team {reg0} bot count is {reg1}.
+str_team_reg0_bot_count_is_reg1|{reg0} 팀의 봇 수는 {reg1}명입니다.
 str_maximum_seconds_for_round_is_reg0|한 경기는 최대 {reg0} 초 입니다.
 str_respawn_period_is_reg0_seconds|부활 주기는 {reg0} 초 입니다.
 str_bots_upper_limit_for_votes_is_reg0|투표에 의한 봇 상한선은 {reg0}입니다.
@@ -1789,23 +1789,23 @@ str_defender_spawn_count_limit_is_s1|방어측 부활 카운트는 {s1} 입니�
 str_system_error|시스템 에러!
 str_prisoner_granted_parole|포로 도망 허용
 str_prisoner_not_offered_parole|포로 도망 비허용
-str__age_reg1|^Age: {reg1}
+str__age_reg1|^나이: {reg1}
 str__family_|^가족:
 str_s49_s12_s11_end|{s49} {s12} ({s11}).
-str_s49_s12_s11_rel_reg0|{s49} {s12} ({s11}, rel: {reg0}),
+str_s49_s12_s11_rel_reg0|{s49} {s12} ({s11}, 우호도: {reg0}),
 str_s49_s12_s11|{s49} {s12} ({s11}),
-str_lord_info_string|{reg6?:{reg4?{s54}는 {s56}의 통치자입니다.^:{s54}는 {s56}의 {s55}의 봉신입니다.^}}명성: {reg5}. 논쟁:{reg15}.^{reg9?{reg3?그녀:그}는 {s58}의 {reg3?귀부인:영주}.:{reg3?그녀:그}는 영지를 가지고 있지 않다.}{s59}^{s49}
+str_lord_info_string|{reg6?:{reg4?{s54}는 {s56}의 통치자입니다.^:{s54}는 {s56} {s55}의 봉신입니다.^}}명성: {reg5}. 논쟁: {reg15}.^종교: {s29}^{reg9?{reg3?그녀:그}는 {s58}의 {reg3?귀부인:영주}입니다.:{reg3?그녀:그}는 영지가 없습니다.}{s59}^{s49}^우호도: {reg0}
 str_foreign_relations__|외교 관계: ^
-str_s21__the_s5_is_at_war_with_the_s14|{s21}^* {s5}는 {s14}와 전쟁중입니다.
-str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} {s5}는 싸움에서 우위에 있다.
-str_s21_the_s5_has_gotten_the_worst_of_the_fighting|{s21} {s5}는 싸움에서 최악의 상태입니다.
-str_s21_the_fighting_has_gone_on_for_some_time_and_the_war_may_end_soon_with_a_truce|{s21} 싸움은 얼마동안 계속되었고, 전쟁은 휴전 협정으로 빨리 끝날지도 모릅니다.
-str_s21_the_fighting_has_begun_relatively_recently_and_the_war_may_continue_for_some_time|{s21} 싸움은 상대적으로 최근에 시작되었고, 전쟁은 얼마 동안 계속될지도 모릅니다.
-str__however_the_truce_is_no_longer_binding_on_the_s14| 그러나, {s14}와(과)의 휴전 협정은 더 이상 유효하지 않습니다.
-str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire_in_reg1_days|{s21}^* {s5}은(는) 휴전 협정에 의해 {s14}을 공격하지 않습니다. {s18}와(과)의 휴전 협정은 {reg1}일 안에 끝날 것입니다.
-str_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_the_alliance_will_expire_in_reg1_days|{s21}^^* {s5}은(는) {s14}와(과) 동맹중입니다. {s18}와(과)의 동맹은 {reg1}일 안에 끝날 것입니다.
-str_alliance_durantion_days_expire|{s21}^^* The {s5}은(는) {s14}와(과) 공식적인 제휴를 맺었습니다. {s18}와(과)의 제휴는 {reg1}일 안에 끝날 것입니다.
-str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21} {s14}은 최근 {s5}의 문제로 마찰이 있고, 그것으로 인해 전쟁의 위험이 있습니다.
+str_s21__the_s5_is_at_war_with_the_s14|{s21}^^*{s14}와 전쟁중입니다.
+str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} {s5}이(가) 전투에서 우세를 점하고 있습니다.
+str_s21_the_s5_has_gotten_the_worst_of_the_fighting|{s21} {s5}이(가) 전투에서 고전하고 있습니다.
+str_s21_the_fighting_has_gone_on_for_some_time_and_the_war_may_end_soon_with_a_truce|{s21} 교전이 꽤 오래 지속되었으며, 곧 휴전으로 종결될 가능성이 있습니다.
+str_s21_the_fighting_has_begun_relatively_recently_and_the_war_may_continue_for_some_time|{s21} 교전이 시작된 지 얼마 되지 않았으며, 당분간 전쟁이 지속될 것으로 보입니다.
+str__however_the_truce_is_no_longer_binding_on_the_s14|하지만 {s14}와(과)의 휴전 협정은 더 이상 유효하지 않습니다.
+str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire_in_reg1_days|{s21}^^* 휴전 협정으로 인해 {s5}은(는) {s14}을(를) 공격할 수 없습니다. {s18} 휴전은 {reg1}일 후에 만료됩니다.
+str_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_the_alliance_will_expire_in_reg1_days|{s21}^^* {s5}은(는) {s14}와(과) 동맹 관계입니다. {s18} 동맹은 {reg1}일 후에 만료됩니다.
+str_alliance_durantion_days_expire|{s21}^^* {s5}은(는) {s14}와(과) 동맹 관계입니다. {s18} 동맹은 {reg1}일 후에 만료됩니다.
+str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21} 최근 {s14}이(가) {s5}의 백성들로부터 도발을 당해 전쟁의 위협이 있습니다.^
 str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5}의 통치자: {s6}^^영토: {s8}.^^봉신: {s10}.^^{s21}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} 사망, {reg5} 부상, {reg6} 도주
 str_reg4_killed_reg5_routed|{reg4} 사망, {reg5} 도주
@@ -1814,7 +1814,7 @@ str_reg4_wounded_reg5_routed|{reg4} 부상, {reg5} 도주
 str_s4_awarded_to_s5|{s4}가 {s5}에게 상을 주었습니다.
 str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|{s4}의 전투의 상황, {reg3}의 수비대 vs {reg4}의 적들
 str_current_wealth_reg1_taxes_last_collected_from_s4|현재 재산: {reg1}. 최근 세금 수입: {s4}
-str_no_relation|혈연 없음
+str_no_relation|혈연 관계 없음
 str_wife|아내
 str_husband|남편
 str_father|아버지
@@ -2443,8 +2443,8 @@ str_your_s11_|당신의 {s11},
 str_i_ask_again_may|다시 물어보지만
 str_may|아마
 str_very_well_as_far_as_im_concerned_i_suppose_she_can_see_most_anyone_she_likes__within_reason_of_course|좋소. 내가 가능한 만큼 관심을 가지리다. 나는 그녀가 가장 좋아할 최고의 사람이 누군지 알 것이라 생각하오 - 당연한 일이지만.
-str_very_well_an_alliance_with_you_could_be_valuable_go_chat_with_her_and_see_if_you_can_get_her_to_take_a_fancy_to_you_if_she_doesnt_and_if_we_still_want_to_conclude_this_business_then_i_can_make_her_see_reason|좋소, 자네와의 동맹은 가치가 있을 것 같군. 가서 그녀와 담소를 나누시오. 그리고 그녀가 당신을 좋아하게 할 수 있을지를 살펴 보시오. 만약 그녀가 당신을 별로 좋아하지 않고, 우리가 여전히 이 일을 지속하기를 원하다면, 그 때는 그녀가 왜 당신을 싫어하는지에 대해 알아보겠소.
-str_you_have_my_blessing_to_pay_suit_to_her__so_long_as_your_intentions_are_honorable_of_course_depending_on_how_things_proceed_between_you_two_we_may_have_more_to_discuss_at_a_later_date|자네는 내 은혜에 걸맞는 보상을 그녀에게 해야 하네 -- 물론 자네가 명예로운 결혼을 할 의사가 있는 한 말이지. 일이 어떻게 진행될 지는 전적으로 두 사람 사이에 달려 있네.  우리는 아마 나중에 이 일에 대해서 더 의논 할 수 있을 거라 생각하네.
+str_very_well_an_alliance_with_you_could_be_valuable_go_chat_with_her_and_see_if_you_can_get_her_to_take_a_fancy_to_you_if_she_doesnt_and_if_we_still_want_to_conclude_this_business_then_i_can_make_her_see_reason|좋소, 당신과의 동맹은 가치가 있을 것 같군. 가서 그녀와 담소를 나누시오. 그리고 그녀가 당신을 좋아하게 할 수 있을지를 살펴 보시오. 만약 그녀가 당신을 별로 좋아하지 않고, 우리가 여전히 이 일을 지속하기를 원하다면, 그 때는 그녀가 왜 당신을 싫어하는지에 대해 알아보겠소.
+str_you_have_my_blessing_to_pay_suit_to_her__so_long_as_your_intentions_are_honorable_of_course_depending_on_how_things_proceed_between_you_two_we_may_have_more_to_discuss_at_a_later_date|당신은 내 은혜에 걸맞는 보상을 그녀에게 해야 하네 -- 물론 당신이 명예로운 결혼을 할 의사가 있는 한 말이지. 일이 어떻게 진행될 지는 전적으로 두 사람 사이에 달려 있네.  우리는 아마 나중에 이 일에 대해서 더 의논 할 수 있을 거라 생각하네.
 str_the_war_has_barely_begun_so_and_it_is_too_early_to_say_who_is_winning_and_who_is_losing|전쟁은 이제 막 시작되었소, 그래서 누가 이기고 누가 질지를 말하기에는 너무 이르다고 생각하오.
 str_we_have_been_hitting_them_very_hard_and_giving_them_little_chance_to_recover|우리는 그들을 쉬지 않고 공격했소, 그리고 그들에게 회복할 기회를 주지 않고 있소.
 str_the_fighting_has_been_hard_but_we_have_definitely_been_getting_the_better_of_them|힘든 전투였소, 그러나 우리는 명백하게 그들보다 유리해지고 있소.
@@ -2466,7 +2466,7 @@ str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_hav
 str_once_again_|한번 더
 str_cheat__marriage_proposal|Cheat - marriage proposal
 str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|당신은 {s4}과 결혼할 계획이다. 당신은 이 땅에 가족이 없기 때문에, 그가 당신을 위해 결혼 연회를 준비해야 할 것이다.
-str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43}, 자네도 알고 있겠지만, 만약 당신이 나를 공격한다면, 당신이 {s34}와 체결한 평화 협정을 위반하는 하는 것이 될 것이오.
+str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43}, 당신도 알고 있겠지만, 만약 당신이 나를 공격한다면, 당신이 {s34}와 체결한 평화 협정을 위반하는 하는 것이 될 것이오.
 str_very_well__you_are_now_my_liege_as_well_as_my_husband|당신은 이 점만은 알아야 하오: 당신은 지금 나의 봉신이며, 또한 서로에 대한 의무를 가지고 있고, 내가 당신의 남편이라는 것을..
 str_i_thank_you_reg39my_ladylord|고맙소, {reg39?아가씨:주군}.
 str_now_some_might_say_that_women_have_no_business_leading_mercenary_companies_but_i_suspect_that_you_would_prove_them_wrong_what_do_you_say|지금까지, 대부분의 사람들은 여자는 용병이 될 수 없다고 말해왔지만, 나는 당신이 그들이 틀렸음을 증명할 거라 생각하오. 어떻소?
@@ -2672,7 +2672,7 @@ str_you|당신
 str_myself|나 자신
 str_my_friend_s15|당신의 친구 {s15}
 str_custom_battle|커스텀 배틀
-str_comment_intro_liege_affiliated_to_player|자네는 왕위를 주장하는 나를 반대한다고 들었네. 두말 할 나위도 없이, 나는 그 소식이 기쁘지 않아. 그러나, 아직 우리는 대화할 여지가 남아 있다고 생각하네.
+str_comment_intro_liege_affiliated_to_player|당신은 왕위를 주장하는 나를 반대한다고 들었네. 두말 할 나위도 없이, 나는 그 소식이 기쁘지 않아. 그러나, 아직 우리는 대화할 여지가 남아 있다고 생각하네.
 str_s21_the_s8_declared_war_out_of_personal_enmity|{s21} {s8}은(는) 개인적 증오로 인해 전쟁을 선포하였습니다.
 str_s21_the_s8_declared_war_in_response_to_border_provocations|{s21} {s8}은(는) 국경 마찰로 인해 전쟁을 선포하였습니다.
 str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s21} {s8}은(는) 다른 세력의 힘을 억제하기 위해 전쟁을 선포하였습니다.
@@ -2713,10 +2713,10 @@ str_center_strength_weakly_defended|우리는 그곳의 방어가 허술 할것�
 str_center_distant_from_concentration|은(는) 적의 본대보다 우리에게 가까이 있는다는 것을 알아냈소. 그들이 호응하기 전에 공격해 섬멸할 수 있을 것이오.
 str_plus|+
 str_minus|-
-str_tutorial_training_ground_warning_no_weapon|이보게, 자네는 우리가 훈련하기 전에 자네는 어떤 무기라도 필요하다는 생각이 안드나? 저기 여분의 무기들이 있을 걸세. 가서 아무거나 하나 가져오게.
-str_tutorial_training_ground_warning_shield|자네는 먼저 방패를 내려놓는게 필요하네. 마우스 휠을 아래로 스크롤하면 자네의 방패를 내려 놓을 수 있네.
-str_tutorial_training_ground_warning_melee_with_parry|이 연습을 위해서는 자네는 근접 무기를 사용해야 하네.
-str_tutorial_training_ground_warning_melee|무기를 착용하려면 자네의 마우스 휠을 위로 스크롤 하게. 위로 스크롤 하면 다음 무기를 착용하고, 아래로 스크롤 하면 다음 방패를 착용하게 되네.
+str_tutorial_training_ground_warning_no_weapon|이보게, 당신은 우리가 훈련하기 전에 당신은 어떤 무기라도 필요하다는 생각이 안드나? 저기 여분의 무기들이 있을 걸세. 가서 아무거나 하나 가져오게.
+str_tutorial_training_ground_warning_shield|당신은 먼저 방패를 내려놓는게 필요하네. 마우스 휠을 아래로 스크롤하면 당신의 방패를 내려 놓을 수 있네.
+str_tutorial_training_ground_warning_melee_with_parry|이 연습을 위해서는 당신은 근접 무기를 사용해야 하네.
+str_tutorial_training_ground_warning_melee|무기를 착용하려면 당신의 마우스 휠을 위로 스크롤 하게. 위로 스크롤 하면 다음 무기를 착용하고, 아래로 스크롤 하면 다음 방패를 착용하게 되네.
 str_tutorial_training_ground_attack_training|성공적으로 공격한 수: {reg0} / 5^실패한 공격 수: {reg1}^{s0}
 str_tutorial_training_ground_attack_training_down|찌르기 공격을 하시오! (왼쪽 마우스 버튼을 누른 동안 당신의 마우스를 아래로 움직여라)
 str_tutorial_training_ground_attack_training_up|내려찍기 공격을 하시오! (왼쪽 마우스 버튼을 누른 동안 당신의 마우스를 위로 움직여라)
@@ -2776,7 +2776,7 @@ str_you_fought_well_at_town_fight_survived|하! 잘했소 -- 나는 당신의 �
 str_you_fought_normal_at_town_fight_survived|아주 잘했네! 그대가 그 도적놈들을 손봐 주었다는 소리를 들었네. 그러고도 사지 멀쩡히 살아있다니, 전투 후에는 그보다 나은 결과가 또 어디 있겠나...
 str_you_fought_bad_at_town_fight_survived|글쎄, 그 도적놈들은 도망쳤다 들었네. 그대의 사지도 멀쩡해 보이니, 전투 후에는 그것이 가장 중요하지 않겠나.
 str_you_fought_well_at_town_fight|아! 일어 나셨군. 상처가 꽤 깊어보이지만, 좋은 소식이 있다네! 우리가 그들을 무찔렀네 -- 그리고 그대가 기절하기 전 적들에게 상당한 타격을 입혔지. 그대가 없었다면 상황이 더 악화 되었겠지. 감사의 뜻을 표하네...
-str_you_wounded_at_town_fight|아! 살아있었군. 상처가 꽤 깊어보이는데, 그대가 정말로 적을 무찔렀는지는 모르겠네만, 다행이도 나와 내 동료들만으로 그들을 무찌를 수 있었다네. 그보다 자네가 치료받아야 할지부터 좀 알아보세...
+str_you_wounded_at_town_fight|아! 살아있었군. 상처가 꽤 깊어보이는데, 그대가 정말로 적을 무찔렀는지는 모르겠네만, 다행이도 나와 내 동료들만으로 그들을 무찌를 수 있었다네. 그보다 당신이 치료받아야 할지부터 좀 알아보세...
 str_you_fought_well_at_town_fight_survived_answer|모든 악한들이 {playername}의 이름에 공포를 배우게 될거요!
 str_you_fought_normal_at_town_fight_survived_answer|아, 음, 동료과 함께 내 할 일을 할수 있었던 내 자신이 자랑스러웠소...
 str_you_fought_bad_at_town_fight_survived_answer|글쎄, 놈들 중 한놈을 치려했는데, 피 때문에 미끄러져 버렸소. 무슨 뜻인지 알지않소..
