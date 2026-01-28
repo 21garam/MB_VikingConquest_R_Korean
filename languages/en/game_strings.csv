@@ -1000,239 +1000,239 @@ str_npc13_turn_against|자, {playername}. 결국 적으로 만났군. 솔직히 
 str_npc14_turn_against|당신을 적으로 마주하다니 슬픈 일이구려. 한편으로는 당신 같은 전장의 거인을 상대로 싸우는 것이 흔치 않은 특권이라고 생각하오. 진실로 오늘 우리의 대결은 이 땅의 가객들과 시인들에게 수개월 치의 술과 은전을 가져다줄 이야깃거리가 되겠군요, 안 그렇겠소?
 str_npc15_turn_against|아... 이런 날이 오지 않기를 바랐는데... 그저 한마디만 하겠소. 당신이 저를 계속 믿어주었다면 상황이 이렇게까지 되지는 않았을 것에오. 뭐, 당신 생각은 다를지도 모르겠소.
 str_npc16_turn_against|우리가 함께 여행하는 동안 당신은 오직 나를 이용하고 속이려 했다는 걸 이제 알겠소. 당신의 영혼은 악마의 것이고, 당신의 심장에는 옛 신들에 대한 욕망의 어둠이 도사리고 있소. 그리스도의 대의를 위해 전장에서 당신을 꺾어야겠소. 오늘 하나님이 내 곁에 계심을 의심치 마시오. 당신에겐 오직 패배만이 기다리고 있을 뿐이오.
-str_comment_intro_liege_affiliated|자네가 내가 아닌 다른 왕에게 충성을 맹세했다는 것을 들었네.
-str_comment_intro_famous_liege|자네의 명성이 자네 생각보다 더 빨리 퍼진다네! 이렇게 명성이 퍼졌을때 자네의 용기에 부합한 군주를 찾아 보는 것이 좋을 걸세.
+str_comment_intro_liege_affiliated|자네가 내가 아닌 다른 왕에게 충성을 맹세했다는 소식을 들었네. 내 왕권을 부정하는 참칭자 중 한 명을 섬기고 있군. 그래도 대화는 나눌 수 있겠지.
+str_comment_intro_famous_liege|자네의 명성이 자네 생각보다 더 빨리 퍼지고 있군! 이제 자네의 용맹에 어울리는 군주를 찾아볼 때가 된 것 같지 않은가?
 str_comment_intro_famous_martial|자네의 명성이 자네 생각보다 더 빨리 퍼진다오! 어쩌면 우리 각자의 용기를 경기에서나 전장에서 시험해 볼 기회가 있을지도 모르겠소.
-str_comment_intro_famous_badtempered|무슨 일인지 모르겠지만 나는 다른 사람 말에 휘둘리는 사람은 아니니, 쓸데 없는 말로 시간을 낭비하게 하지 말아 주시오.
-str_comment_intro_famous_pitiless|당신의 이름은 익히 들어 알고 있소. 많은 사나이들이 당신의 용맹에 두려움을 표하고 있소. 당신과 언제 한번 진지하게 담소를 나누고 싶소.
-str_comment_intro_famous_cunning|당신이 좋은 사람이라는 것을 알고 있소. 언젠가 우리 함께 대화나 나누었으면 좋겠군.
-str_comment_intro_famous_sadistic|난 당신의 이름을 알고 있소. 당신 때문에 죽은 사람이 한둘이 아니니 말이오.
-str_comment_intro_famous_goodnatured|난 사람들이 당신의 용맹함을 칭송하는 것을 들었소. 당신을 만나게 된 것을 영광으로 생각하고 있소.
-str_comment_intro_famous_upstanding|나는 사람들이 당신의 용맹함에 대해 노래하는 것을 들은 적이 있소. 당신의 힘이 세상을 더 밝게 해주었으면 좋겠소.
-str_comment_intro_noble_liege|당신이 가진 귀족의 깃발은 본 적이 없소. 내가 항상 나를 위해 싸워줄 강인한 전사를 찾고 있다는 것을 기억하시오.
-str_comment_intro_noble_martial|당신이 가진 귀족의 깃발은 본 적이 없소. 언젠가 시합이나 전쟁에서 서로의 용기를 시험해 보았으면 좋겠소.
-str_comment_intro_noble_badtempered|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 당신은 외국인이오? 뭐 귀족이라면 아무렴 어떤가.
-str_comment_intro_noble_pitiless|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 또 다른 전쟁의 소용돌이가 일어날 것 같군.
-str_comment_intro_noble_cunning|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 그러나 나는 당신이 어느 날 훌륭한 전사인 것을 증명할 수 있을 것이라 생각하오.
-str_comment_intro_noble_sadistic|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 당신은 서자의 신분인 것이오?
-str_comment_intro_noble_goodnatured|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 그러나 당신의 귀족이라는 신분이 다른 영주들과 친분을 맺는데 도움은 될 것이 아니겠소.
-str_comment_intro_noble_upstanding|당신이 가진 귀족의 깃발은 본 적이 없는 것이오. 부와 영광을 되찾기 위해 노력하는 당신의 모습이 보기 좋소.
-str_comment_intro_common_liege|자넨 흔한 태생인것 같군, 하지만, 내가 신뢰해도 된다고 증명할 수 있는 자라면, 내가 항상 나를 위해 싸워줄 자를 찾고 있다는 것을 명심해두는게 좋을 것이네.
-str_comment_intro_common_martial|당신은 고귀한 출생은 아닌 것 같군. 그러나 만약 당신이 당신의 가치를 스스로 증명해 보인다면 나는 당신을 기꺼히 존중할 것이오.
-str_comment_intro_common_badtempered|할 말이 있다면 빨리 이야기하시오, 나는 흔한 군인과는 이야기할만한 시간이 없으니 말이오.
-str_comment_intro_common_pitiless|당신은 용병으로 보이는군. 전쟁터에서 독수리의 밥이 되지나 마시오.
-str_comment_intro_common_cunning|당신에 대해 들어본 적은 없지만, 당신은 무언가를 해낼 수 있을지도 모르오.
-str_comment_intro_common_sadistic|나는 초대도 받지 않은 사람들이 허락도 없이 들어오는 것을 좋아하지 않소. 오늘은 기분이 좋아서 넘어가지만 다음 번엔 더 이상의 자비는 없을 것이오.
-str_comment_intro_common_goodnatured|얼굴이 훤하고 인물이 밝은 것을 보니 당신은 좋은 사람인 것 같소.
-str_comment_intro_common_upstanding|당신처럼 얼굴에 자신감이 넘치는 사람을 본 지 오래된 것 같소.
-str_comment_intro_female_famous_liege|나는 당신에 대해 많은 것을 들어왔소. 사람들이 무예에 통달한 여자를 두려워하는 날이 올 지 궁금하오. 그렇게 되기만 한다면 나나 다른 귀족들이 당신을 차지하려고 안달이 날 지도 모르겠소.
-str_comment_intro_female_famous_martial|나는 당신에 대해 많은 것을 들어왔소. 심지어 사람들은 당신의 기량이 가장 용감한 남자들과 동급이라고까지 말하더군. 언제 한번 경기에서나 전쟁에서 그 실력을 보았으면 좋겠소.
+str_comment_intro_famous_badtempered|소문은 익히 들었소. 뭐, 긴말 하는 건 딱 질색이니 할 말이 있다면 당장 내뱉어 보시오.
+str_comment_intro_famous_pitiless|당신의 이름은 익히 들어 알고 있소. 사람들의 마음속에 공포를 심어주는 이름이지. 아주 좋소. 언제 시간을 내어 진지하게 대화나 나누어 봅시다.
+str_comment_intro_famous_cunning|아, 드디어 만났군. 당신은 꽤 알아둘 가치가 있는 {reg59?여인:사내} 같구려. 가끔 대화나 나누며 지냅시다.
+str_comment_intro_famous_sadistic|난 당신의 이름을 알고 있소. 내 귀에 들리는 바로는, 자네 때문에 통곡하는 과부들이 한둘이 아니라고 하더군. 뭐, 내가 상관할 바는 아니지만.
+str_comment_intro_famous_goodnatured|자네 소문은 들었네! 드디어 얼굴을 보게 되어 정말 반갑구려.
+str_comment_intro_famous_upstanding|자네 이름은 알고 있네. 아주 용맹한 전사라고들 하더군. 자네의 명예와 자비심이 그 용맹함에 뒤지지 않기를 바랄 뿐이오.
+str_comment_intro_noble_liege|귀족의 문장을 달고 있군. 비록 어디 것인지는 모르겠지만 말이오. 내가 신뢰할 만한 가치를 증명해 보인다면, 나를 위해 싸워줄 훌륭한 {reg59?전사:인재}는 언제나 환영이오.
+str_comment_intro_noble_martial|귀족의 깃발을 들고 있군. 문장은 낯설지만 말이오. 상관없소. 용감한 {reg59?전사:사내}에게 온 세상이 집이라고들 하지 않소!
+str_comment_intro_noble_badtempered|자네 깃발의 문장은 처음 보는 것이군. 안 그래도 이곳에 이방인이 넘쳐나는데, 또 한 명 추가된 모양이군.
+str_comment_intro_noble_pitiless|귀족의 문장을 달고 있군. 하지만 어디 것인지는 모르겠소. 전쟁의 찌꺼기를 먹고 살찌러 온 또 다른 독수리 한 마리가 나타난 모양이군!
+str_comment_intro_noble_cunning|귀족의 문장을 달고 있군. 문장은 낯설지만 말이오. 그래도 언젠가 위대한 전사임을 증명할지 모를 {reg59?여인과:사내와} 안면을 터두는 건 늘 가치 있는 일이지.
+str_comment_intro_noble_sadistic|귀족의 문장을 달고 있군. 처음 보는 문장인데... 혹시 잘난 척하는 소도둑놈의 사생아인가? 아니면 어디서 훔친 것이오?
+str_comment_intro_noble_goodnatured|귀족의 문장을 달고 있군. 하지만 문장은 낯설구려. 무지함을 용서하시오, {reg59?부인:경}! 만나서 정말 반갑소.
+str_comment_intro_noble_upstanding|귀족의 깃발을 들고 있군. 문장은 처음 보는 것이오. 필시 부와 영광을 찾아 이 땅에 온 것이겠지. 그렇다면 전쟁의 길목에서 고통받는 불쌍한 영혼들에게 자비를 베풀어 주길 바랄 뿐이오.
+str_comment_intro_common_liege|평민 태생인 듯하나, 내가 신뢰할 만한 인재임을 증명한다면 나를 위해 싸워줄 전사는 언제든 환영하오.
+str_comment_intro_common_martial|귀족 태생은 아닌 모양이나, 평민이라도 용기만 충분하다면 언젠가 큰 뜻을 이룰 수 있는 법이라오.
+str_comment_intro_common_badtempered|할 말이 있다면 빨리 이야기하시오. 나 같은 사람이 뜨내기 용병들과 말장난하며 낭비할 시간은 없으니.
+str_comment_intro_common_pitiless|당신은 용병으로 보이는군. 이 땅의 비극을 먹고 살찌러 온 또 다른 독수리 놈이 나타났어.
+str_comment_intro_common_cunning|당신에 대해 들어본 적은 없지만, 언젠가 제 몫을 해낼 관상인 것 같군.
+str_comment_intro_common_sadistic|평소라면 허락도 없이 내 앞에 들이닥친 무례한 평민 놈의 목을 쳤겠지만, 오늘은 기분이 좋으니 넘어가 주지.
+str_comment_intro_common_goodnatured|보아하니 제법 괜찮은 부류 같구려.
+str_comment_intro_common_upstanding|평안하시길. 항상 명예로써 용기를 다스리고, 자비로써 무예를 갈고닦는 것을 잊지 마시오.
+str_comment_intro_female_famous_liege|당신에 대해 많이 들었소. 무예에 능한 여자를 두려워하는 남자들도 있겠지만, 용감하고 충성스럽기만 하다면 나는 검을 쥔 손을 마다하지 않을 것이오.
+str_comment_intro_female_famous_martial|당신에 대한 소문은 익히 들었소. 무예에 있어서는 가장 용맹한 사내들과도 대등하다더군. 언젠가 토너먼트나 전장에서 당신의 용맹함과 겨루어보고 싶소.
 str_comment_intro_female_famous_badtempered|나는 당신에 대한 얘기를 들어봤소. 남자들처럼 싸우는 법을 잘 아는 여자라고 하더군.
 str_comment_intro_female_famous_pitiless|나는 당신의 이름을 알고 있소. 당신의 용맹함이 남자들의 가슴에 두려움을 심어주고 있다지. 언제 한번 진지하게 이야기나 나눠 보았으면 좋겠소.
-str_comment_intro_female_famous_cunning|저번에 당신을 만난 적이 있소. 내 생각에 당신을 알아서 나쁠 건 없는 것 같소. 가끔 서로 담소를 나눴으면 좋겠소.
-str_comment_intro_female_famous_sadistic|나는 당신의 이름을 잘 알고 있소. 당신 때문에 죽은 사람이 한 둘이 아니니 말이오.
-str_comment_intro_female_famous_goodnatured|안그래도 당신의 명성이 자자하여 한번 만나보고 싶었소. 반갑소.
-str_comment_intro_female_famous_upstanding|사람들이 당신의 무예를 칭송하기에 나는 당신의 이름을 잘 알고 있소. 당신의 무예가 밝은 길을 만들어 주었으면 좋겠소
-str_comment_intro_female_noble_liege|지금처럼 암울한 시기에 당신처럼 여자의 몸으로 전쟁을 하는 것은 매우 위험하오. 내 생각에 당신을 보호할 수 있는 왕을 찾아 섬기는 것이 좋을 것이오.
-str_comment_intro_female_noble_martial|나는 당신의 깃발을 전에 본 적이 없소. 그러나 당신이 귀족 아가씨라면 크게 문제 될 것은 아니오.
-str_comment_intro_female_noble_badtempered|나는 당신의 깃발을 전에 본 적이 없소. 당신은 외국인인 것이오? 뭐 귀족이라면 아무렴 어떤가..
-str_comment_intro_female_noble_pitiless|나는 당신이 귀족의 문장이 새겨진 깃발을 가진 것을 알고 있지만, 처음 보는 것이오 -- 레이디, 이건 알아두시오, 노스란드에서 전쟁을 이끄는 건 남자들이고, 당신이 이 당연한 이치를 뒤집어 엎으려 한다면, 당신의 머리가 통째로 창에 박혀있는걸 보게 될 것이오! -- 다른 반란군들의 머리와 마찬가지로 말이지!
-str_comment_intro_female_noble_cunning|여자가 전장에서 기회를 노리고 있다는 얘기는 들어본 적도 없고 흔한 일도 아니지. 나는 당신의 성공에 대해 관심이 많소.
-str_comment_intro_female_noble_sadistic|깃발을 보니 당신은 귀족 계급으로 보이는군. 하지만 아무리 귀족이라 하더라도 여자의 몸으로 전쟁을 하다간 화를 면치 못할 것이오!
-str_comment_intro_female_noble_goodnatured|당신이 귀족의 깃발을 가진 것을 보았소! 비록 내 알아보지는 못하였으나 당신과 담소를 나누며 당신에 대해 알아보고 싶소.
-str_comment_intro_female_noble_upstanding|여자가 전쟁에 나타나는건 매일 있는 일이 아니지. 실수하지 마시오, 레이디, 당신은 스스로를 보호하기 위한 모든 권리가 있지만, 나는 당신이 전투에 나서기로 한 결정에 대해 완전히 마음 편한 척은 못 하겠군. 나는 여자들이 아직 남아 있는 얌전하고 연약한 면들을 맡아주어야 한다고 믿고 있어서, 여자들까지 전쟁에 나서지는 않았으면 좋겠소.
-str_comment_intro_female_admiring_liege|남자들을 전투에 몰아넣는 여자를 만나는 건 흔한 일은 아니오. 하지만 지금은 암울하고 파란만장한 시대이고, 나는 검을 쥔 이 두 손을 뒤로 물리지 않을 것이오, 이 손의 주인은 용감하고 왕께 충성을 다해야 하겠지.
-str_comment_intro_female_admiring_martial|안녕하시오, 레이디. 비록 당신의 품행으로부터 당신이 일반적인 아가씨는 아니라는 걸 알겠지만, 저는 당신이 저의 칭송을 기분 나쁘게 보지 말아줬으면 좋겠군요.
-str_comment_intro_female_badtempered_admiring|헤에. 이거 끌리는데 -- 아가씨가 완전무장을 했군. 음, 굉장히 이상한 광경이야, 하지만 당신의 경우에는, 내 마음을 설레게 하는 것 같기도 하군.
-str_comment_intro_female_pitiless_admiring|여자의 몸으로 굳이 왜 전쟁을 하려는지 모르겠소. 부디 조심하시오, 세상은 무척 험하고 무자비하오. 난 당신 같은 미인이 칼날에 상하는 것을 보고 싶지는 않소.
-str_comment_intro_female_cunning_admiring|여자의 몸으로 전쟁이라.. 나도 항상 당신 같은 용기와 혼을 가진 딸이 가지고 싶었소. 당신의 아버지는 당신이 참 자랑스럽겠소.
-str_comment_intro_female_sadistic_admiring|이게 대체 어쩐 일인지! 여자, 그것도 전쟁에 나선 여자라니! 음, 나는 감히 당신과 같은 좋은 분들이 사슬 갑옷에 끼인 사람들에게 여성과의 접촉을 느끼게 해줄 수 있게 해준다는 말을 하고 싶군요.
+str_comment_intro_female_famous_cunning|드디어 만났군. 당신은 알아두면 꽤 도움이 될 만한 여자인 것 같소. 종종 이야기나 나눕시다.
+str_comment_intro_female_famous_sadistic|나는 당신의 이름을 잘 알고 있소. 내 듣기로는 자네 때문에 통곡하는 과부들이 한둘이 아니라더군. 뭐, 내가 상관할 바는 아니지만 말이오.
+str_comment_intro_female_famous_goodnatured|당신 소문은 익히 들었소! 드디어 직접 뵙게 되어 정말 영광이구려.
+str_comment_intro_female_famous_upstanding|당신의 이름을 알고 있소. 아주 용맹한 전사라고들 하더군. 당신의 명예와 자비심이 그 용맹함에 뒤지지 않기를 바랄 뿐이오.
+str_comment_intro_female_noble_liege|여자가 전사들을 이끄는 광경은 흔치 않소. 하지만 지금처럼 암울한 시기에는, 용감하고 충성스럽기만 하다면 검을 쥔 손을 내칠 이유가 없지.
+str_comment_intro_female_noble_martial|당신 깃발의 문장은 처음 보지만, 고귀한 신분임은 분명해 보이는군. 이 몸을 당신의 비천한 종으로 여겨 주시오.
+str_comment_intro_female_noble_badtempered|그 깃발은 처음 보는 것이군. 보아하니 낯선 풍습을 들고 이 땅을 찾아온 또 다른 이방인인 모양이군.
+str_comment_intro_female_noble_pitiless|귀족의 문장을 달고 있군. 하지만 아가씨, 이건 알아두시오, 노스란드에서 전쟁을 이끄는 건 남자들이고, 당신이 이 당연한 섭리를 거스르려 한다면, 다른 반역자들처럼 그 고운 머리가 창끝에 박히게 될 것이오!
+str_comment_intro_female_noble_cunning|여자가 전장에서 기회를 찾는 것이 아주 없는 일은 아니나, 흔치도 않은 일이지. 당신의 앞날이 어떻게 풀릴지 아주 흥미롭게 지켜보겠소.
+str_comment_intro_female_noble_sadistic|귀족인 듯하나 깃발은 낯설군. 필시 남자는 나약하고 여자들이 아마존처럼 대신 전쟁터로 나가는 땅에서 온 이방인인 모양이지!
+str_comment_intro_female_noble_goodnatured|귀족의 문장을 달고 있군. 내 무지하여 문장은 알아보지 못한 것을 용서하시오, 숙녀여. 만나게 되어 정말 반갑소!
+str_comment_intro_female_noble_upstanding|여자가 무장을 하고 전쟁터에 나타나는 건 매일 있는 일이 아니오, 숙녀여. 자신을 지키려 하는 당신의 권리를 부정하는 건 아니지만, 당신이 전장에서 싸우는 모습이 마냥 편안하게 느껴지지는 않는구려. 나는 여성들이 우리에게 남은 마지막 품위와 부드러움을 지켜주는 수호자로 남길 바라오.
+str_comment_intro_female_admiring_liege|남자들을 이끌고자 하는 여성을 만나는 건 흔치 않은 일이지. 하지만 지금은 암울한 시기이니, 용감하고 충성스럽다면 검을 쥔 손을 마다할 이유가 없소.
+str_comment_intro_female_admiring_martial|안녕하시오, 숙녀여. 당신의 태도를 보니 평범한 처녀는 아닌 듯하오만, 당신의 비천한 종이 바치는 이 칭송을 부디 거절하지 마시구려.
+str_comment_intro_female_badtempered_admiring|허, 이것 참. 전장 장비를 갖춘 처녀라니. 기묘한 광경이지만, 당신 같은 경우라면 꽤 매력적으로 다가오는구려.
+str_comment_intro_female_pitiless_admiring|여자가 전쟁을 위해 무장하는 것은 이례적인 일이오. 부디 조심하시오, 숙녀여. 세상은 험악하고 무자비하니, 그 미모가 칼날에 상하는 건 참으로 안타까운 일일 것이오.
+str_comment_intro_female_cunning_admiring|반갑소, 숙녀여. 여자가 무장을 한 모습이 생소하다고 해서 무례하다 생각지는 마시오. 언젠가 나도 당신처럼 용기와 기백이 넘치는 딸의 아버지가 되길 바랄 뿐이오.
+str_comment_intro_female_sadistic_admiring|이게 대체 어쩐 일인지! 여자, 그것도 전쟁에 나선 여자라니!  당신처럼 아름다운 분이라면 그 투박한 사슬 갑옷조차 여성스럽게 보이게 하는구려.
 str_comment_intro_female_admiring_goodnatured|만약 무예도 당신의 미모만큼 뛰어나다면, 분명 적들이 당신을 두려워 할것이오!
-str_comment_intro_female_admiring_upstanding|안녕하십니까, 아가씨. 당신의 옷과 갑옷에 묻은 먼지에도 불구하고, 저는 당신의 고귀한 성적 매력에는 전혀 부족함이 없다는걸 알수 있군요.
-str_comment_intro_female_common_liege|여성이 남자들을 이끌고 전투에 임하는 것은 결코 쉬운 일이 아니오. 난 당신이 대단한 여성이라는 것을 믿어 의심치 않소.
-str_comment_intro_female_common_martial|여성의 몸으로 여행을 하는 것은 결코 쉬운 일이 아니오. 체력이 뛰어난 남자들도 자칫하면 목숨을 잃으니 말이오. 매사에 조심하는 것이 좋을 것이오.
-str_comment_intro_female_common_badtempered|아가씨, 당신 남편은 당신이 자기 무기와 갑옷을 훔쳐간 걸 알고는 있소? 당신이 집에 가게 되면 죽도록 얻어맞게 될 거라고 내 장담하오!
-str_comment_intro_female_common_pitiless|여자의 몸으로 홀로 여행을 하다니. 이것 참 어이가 없소.
-str_comment_intro_female_common_cunning|여자가 전장에서 기회를 노리고 있다는 얘기는 들어본 적도 없소. 나는 당신이 성공하게 될 지 매우 궁금하오.
-str_comment_intro_female_common_sadistic|여자잖아, 전쟁에 뛰어든 여자 말이지! 음, 너는 우리 부대에 속한 전사라 불리는 자들보다도 여자 같지 않아 보이는군.
-str_comment_intro_female_common_goodnatured|당신은 스스로 자신의 길을 잘 개척할 것 같소. 하지만 무엇을 하든 신중히 선택하는 것이 좋을 것이오.
-str_comment_intro_female_common_upstanding|여자가 전쟁에 나타나는 건 흔한 일이 아니오. 그 만큼 여자는 전쟁에 부적합하고 나약하오. 자신이 스스로 무언가를 택할 자격은 있지만, 잘못된 선택은 당신에게 후회만 안겨줄 것이라는 것을 명심하시오.
-str_rejoinder_intro_female_common_badtempered|이 무기들은 내가 전투를 통해 적들로부터 뺏어낸 것이오. 이 검날들이 잘 드는지 한번 시험해 보고 싶소?
-str_rejoinder_intro_female_noble_sadistic|내 출신지가 어디인 지는 신경쓰지 마시오. 여기는 노스란드요, 그리고 지금 여기에서 어떤 개가 병사들을 이끄는 것처럼 보이는군.
-str_rejoinder_intro_female_common_sadistic|그리고 경, 당신은 내 말보다 더 야만스럽군.
-str_rejoinder_intro_female_noble_pitiless|나는 그 당연한 이치를 고칠 것이오, 그래서 당신이 더 이상 궁둥이로 지껄이지 못하게.
-str_rejoinder_intro_female_common_pitiless|사실, 지금은 말세요, 도적놈들 조차도 자기 자신을 '경'이라 부르며 귀족 호칭을 쓰는 말세 말이오.
-str_rejoinder_intro_noble_sadistic|내가 지금 당신의 깃발을 빼앗게 될지도 모르겠소. 당신의 가축과 그리고 당신의 삶까지도 말이오.
-str_rejoinder_intro_female_pitiless_admiring|내가 당신의 잘생긴 코에 상처를 낸다면 기분이 좋아질 것 같은데 말이오, 경.
+str_comment_intro_female_admiring_upstanding|안녕하시오, 아가씨. 당신의 옷과 갑옷에 묻은 먼지에도 불구하고, 고귀한 여성으로서의 품격은 전혀 가려지지 않는구려.
+str_comment_intro_female_common_liege|여성이 사내들을 이끌고 전투에 나서는 건 흔치 않은 일이오. 하지만 지금은 혼란스러운 시대이니, 용감하고 충성스럽다면 검을 쥔 손을 내치지 않겠소.
+str_comment_intro_female_common_martial|이 말은 해야겠소, 숙녀여. 이 위험한 땅을 돌아다닐 때는 부디 조심하시오. 만약 정착된 삶을 원한다면, 내 부하 중 적당한 신랑감을 찾아줄 수도 있소.
+str_comment_intro_female_common_badtempered|그런데 말이오, 거기 아가씨. 당신 남편은 당신이 자기 무기와 갑옷을 훔쳐간 걸 알고는 있소? 집에 돌아가면 죽도록 얻어맞게 될 거라고 내 장담하오!
+str_comment_intro_female_common_pitiless|여자들이 도적 떼가 되어 전쟁의 잔해나 뒤지는 꼴이라니, 참으로 말세로군.
+str_comment_intro_female_common_cunning|여자가 전장에서 행운을 쫓는 게 흔치 않은 일이라, 당신이 어디까지 올라갈 수 있을지 매우 궁금하구려.
+str_comment_intro_female_common_sadistic|전쟁 장비를 갖춘 여자라니! 뭐, 내 밑에서 전사라고 거들먹거리는 놈들보다는 차라리 당신이 더 여자답지 않은 것 같군.
+str_comment_intro_female_common_goodnatured|보아하니 제 몸은 지킬 줄 아는 것 같소만, 그래도 밖은 위험하니 조심하시오, 숙녀여.
+str_comment_intro_female_common_upstanding|여자가 무장한 모습은 생소하구려. 무례하게 듣지는 마시오. 스스로를 보호할 권리는 있겠지만, 당신이 전장에 나서는 것이 마냥 달갑지는 않소. 여성은 우리에게 남은 품위와 온화함의 수호자여야 한다고 믿기 때문이오.
+str_rejoinder_intro_female_common_badtempered|이 무기들은 전투를 통해 적들로부터 뺏어낸 것이오. 이 검날들이 잘 드는지 한번 시험해 보고 싶소?
+str_rejoinder_intro_female_noble_sadistic|내 출신지가 어디인 지는 신경쓰지 마시오. 여기선 개들도 남자들을 이끌고 전쟁에 나서는구만.
+str_rejoinder_intro_female_common_sadistic|경, 당신도 내 애마보다 나을 것 하나 없는 인간이군.
+str_rejoinder_intro_female_noble_pitiless|그 순리를 바로잡아 주겠소. 그래서 당신이 더 이상 궁둥이로 지껄이지 못하게 말이오.
+str_rejoinder_intro_female_common_pitiless|진정 말세로군. 도적 놈이 스스로를 '경'이라 부르며 귀족 행세를 하고 있으니 말이오.
+str_rejoinder_intro_noble_sadistic|내가 당신의 깃발을 빼앗겠소. 당신의 가축, 당신의 삶까지도 말이오.
+str_rejoinder_intro_female_pitiless_admiring|당신의 그 잘생긴 코를 뭉개버릴 수 있다면 아주 즐거울 것 같구려.
 str_rejoinder_intro_female_common_upstanding|내 검이 얼마나 유연한지 직접 몸으로 느껴보고 싶소?
 str_rejoinder_intro_female_noble_upstanding|내 검이 얼마나 유연한지 직접 몸으로 느껴보고 싶소?
 str_rejoinder_intro_female_common_martial|나는 이런 개집에 사는 놈들보다는 괜찮은 남편을 구할 수 있소.
 str_rejoinder_intro_female_sadistic_admiring|당신은 말의 마구에 붙여진 짐덩어리 같은 인간일 뿐이오.
-str_rejoinder_intro_female_badtempered_admiring|만약 나를 보고 당신의 심기가 불편한 거라면, 그러지 않게 당신의 눈을 파내드리겠소.
-str_comment_you_raided_my_village_enemy_benevolent|당신은 내 보호 아래에 있는 {s51}의 무고한 내 백성을 죽였소! 나는 당신의 악행을 더 이상 두고볼 수 없소! 나는 당신을 처단할 것이오!
-str_comment_you_raided_my_village_enemy_spiteful|당신은 {s51}에서 내 재산을 약탈하고, 내 백성들을 죽였소! 당신의 피로서 보상하시오!
+str_rejoinder_intro_female_badtempered_admiring|내 모습이 거슬린다면, 더는 안 보이게 네 눈을 파내주겠소.
+str_comment_you_raided_my_village_enemy_benevolent|당신은 내 보호 아래 있는 {s51} 마을의 무고한 농민들을 공격했소! 그 악행에 대해 반드시 대가를 치르게 할 것이오!
+str_comment_you_raided_my_village_enemy_spiteful|당신은 내 마을인 {s51}을 약탈하고 내 재산을 파괴하며 백성들을 죽였소! 당신의 피로 보상받으리라!
 str_comment_you_raided_my_village_enemy_coldblooded|당신은 {s51}에서 내 재산을 약탈하고, 백성들을 죽였소! 나는 당신이 그런 짓을 다시 하기 전에, 한 번 쯤 생각해보는 습관을 들이도록 당신에게 똑똑히 가르쳐줄 것이오!
-str_comment_you_raided_my_village_enemy|당신은 {s51}에서 내 재산을 약탈하고, 백성들을 죽였소! 당신이 저지른 죄의 대가를 치뤄야 할 거요!
-str_comment_you_raided_my_village_unfriendly_spiteful|당신은 {s51}에서 내 재산을 약탈하고, 내 백성들을 죽였소! 어디 다시 한 번 그렇게 해 보시오, 그렇게 한다면 나는 당신의 내장을 물고기를 손질하듯 발라버릴 것이오!
-str_comment_you_raided_my_village_friendly|당신은 {s51}에서 내 재산을 약탈하고, 백성들을 죽였소! 왜 그런 짓을 한 거요, 이런 행동은 우리의 우정에 금이 가는 것밖에 아무것도 남지 않게 할 거요!
-str_comment_you_raided_my_village_default|당신은 {s51}에서 내 재산을 약탈하고, 백성들을 죽였소! 만일, 당신이 이런 더러운 행위를 계속할 경우, 우리는 서로 싸울 수밖에 없소!
-str_comment_you_stole_cattles_from_my_village_enemy_benevolent|나는 {s51}에서 내 보호를 받는 농민들에게서 당신이 그들의 소를 절취했다고 들었소. 나는 당신에게 범죄자로서 죄를 물어 심판할 것이오!
-str_comment_you_stole_cattles_from_my_village_enemy_spiteful|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 당신은 내 마을 주민들의 재산을 훔쳤고, 그 수치스러운 행동에 대한 대가를 치러야 할 것이오.
-str_comment_you_stole_cattles_from_my_village_enemy_coldblooded|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 당신은 내 마을 주민들의 재산을 훔쳤고, 나는 당신이 그런 짓으로 내 세금을 줄어들게 만드는 것을 좌시하지는 않을 것이오.
-str_comment_you_stole_cattles_from_my_village_enemy|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 당신은 내 마을 주민들의 재산을 훔쳤고, 그 수치스러운 행동에 대한 대가를 치러야 할 것이오.
-str_comment_you_stole_cattles_from_my_village_unfriendly_spiteful|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 어디 다시 한 번 그렇게 해 보시오, 그렇게 한다면 나는 당신의 내장을 물고기를 손질하듯 발라버릴 것이오!
-str_comment_you_stole_cattles_from_my_village_friendly|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 이런 짓은 우리의 우정을 무덤으로 끌고 가는 일이 될 수 밖에 없소.
-str_comment_you_stole_cattles_from_my_village_default|나는 {s51}에 사는 내 백성들로부터 당신이 그들의 소를 절취했다고 들었소. 당신이 이런 행동을 계속한다면, 당신과 나는 싸울 수밖에 없을 것이오.
-str_comment_you_robbed_my_village_enemy_coldblooded|당신은 {s51} 마을의 주민들을 약탈했소! 나는 당신의 그 행위를 나에 대한 중대한 개인적인 도발 행위라고 받아들일 것이오!
-str_comment_you_robbed_my_village_enemy|당신은 내 보호 아래에 있는 {s51} 마을 농민을 약탈했소! 나는 당신을 마땅히 벌할 것이오!
-str_comment_you_robbed_my_village_friendly_spiteful|당신이 {s51}에 사는 마을 주민들에게서 약간의 음식을 가져갔다고 들었소. 글쎄, 나는 당신이 그들에게서 빵 한 두조각 쯤 가져가는 건 별로 신경쓰지 않겠지만, 명심하시오. 당신의 행동으로 인해 내가 그들의 구슬픈 울음소리를 들어야 했다는 것을 말이오!
-str_comment_you_robbed_my_village_friendly|나는 {s51}의 에 사는 마을 주민들로부터 당신이 그들의 식량을 가져갔다고 보고받았소. 나는 당신이 그런 짓을 하지 않았을 거라고 생각하고 싶소, 그리고 당신도 그만큼 필사적으로 곤궁하지 않았을 것이라 믿고 싶고!
-str_comment_you_robbed_my_village_default|당신은 내 영지인 {s51}의 마을 주민들에게 강도짓을 했소! 만약 당신이 이런 짓을 계속한다면, 나는 당신과 싸울 것이오!
+str_comment_you_raided_my_village_enemy|당신은 내 보호를 받는 {s51} 마을을 약탈하고 백성들을 해쳤소. 죄의 대가를 치러야 할 것이오!
+str_comment_you_raided_my_village_unfriendly_spiteful|당신은 {s51}을 약탈했소! 어디 다시 한 번 그렇게 해 보시오, 그렇게 한다면 나는 당신의 내장을 물고기를 손질하듯 발라버릴 것이오!
+str_comment_you_raided_my_village_friendly|당신은 {s51}을 약탈했소! 왜 그런 짓을 한 거요, 이 일로 우리의 우정은 심각한 파국을 맞게 될 것이오.
+str_comment_you_raided_my_village_default|당신은 {s51}을 약탈했소! 이런 식의 행동이 계속된다면 내 주먹을 피할 수 없게 될 것이오.
+str_comment_you_stole_cattles_from_my_village_enemy_benevolent|내 보호하에 있는 {s51} 마을의 농민들에게서 소를 훔쳤다는 말을 들었소. 그 악행에 대해 마땅히 벌을 내릴 것이오!
+str_comment_you_stole_cattles_from_my_village_enemy_spiteful|{s51} 주민들의 소를 훔쳐 내 백성들의 재산을 가로챘다는 소식을 들었소. 이 불명예스러운 행동에 대한 대가를 치르게 될 것이오.
+str_comment_you_stole_cattles_from_my_village_enemy_coldblooded|{s51} 주민들의 소를 훔쳐 내 백성들의 재산을 가로챘다는 소식을 들었소. 내 이익에 반하는 행동을 할 때에는 한번 더 생각하고 행동하는 것이 좋을 것이오.
+str_comment_you_stole_cattles_from_my_village_enemy|{s51} 주민들의 소를 훔쳤다는 소식을 들었소. 이 수치스러운 짓에 합당한 대가를 치러야 할 것이오.
+str_comment_you_stole_cattles_from_my_village_unfriendly_spiteful|{s51}에 사는 내 백성들의 소를 훔쳤더군. 한 번만 더 그랬다간 당신의 배를 물고기 배 가르듯 갈라버릴 것이오!
+str_comment_you_stole_cattles_from_my_village_friendly|당신이 {s51} 주민들의 소를 훔쳤다는 말을 들었소. 이런 짓은 우리의 우정을 무덤으로 끌고 가는 일 밖에 되지 않소.
+str_comment_you_stole_cattles_from_my_village_default|자네가 {s51} 주민들의 소를 훔쳤다지. 이런 식이면 우리 사이에 칼부림이 날 수밖에 없소.
+str_comment_you_robbed_my_village_enemy_coldblooded|당신은 {s51} 마을의 내 백성들을 강탈했소. 이를 나에 대한 개인적인 모욕으로 간주하겠소.
+str_comment_you_robbed_my_village_enemy|내 보호하에 있는 {s51}의 무고한 농민들을 약탈하다니! 그 악행에 대한 대가를 치러야 할 것이오.
+str_comment_you_robbed_my_village_friendly_spiteful|당신이 {s51} 백성들의 음식을 좀 훔쳤다더군. 뭐, 빵 한두 조각이야 아깝지 않다만, 덕분에 내가 저놈들의 징징거림을 다 받아주게 되었다는 사실을 명심하시오.
+str_comment_you_robbed_my_village_friendly|당신이 {s51} 백성들에게서 물자를 징발했다는 소식을 들었소. 정말 절박한 상황이 아니고서야 당신이 그런 짓을 했을 리 없다고 믿고 싶군.
+str_comment_you_robbed_my_village_default|{s51}의 내 백성들을 약탈했더군. 이런 짓을 계속한다면 조만간 전장에서 만나게 될 것이오.
 str_comment_you_accosted_my_caravan_enemy|당신은 내 보호 아래에 있는 상단을 습격했소! 그리고 당신의 그 더러운 행위는 이제 끝날 것이오!
-str_comment_you_accosted_my_caravan_default|나는 당신이 내 보호 아래 있는 상단들을 습격하고 있다는 소리를 들었소! 당신은 그런 행위를 반드시 그만두어야 한다고 생각하지 않소?
-str_comment_you_helped_villagers_benevolent|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 나는 그들의 영주이자 보호자로서, 나의 의무를 소홀히 하고 있었소. 그리고 당신의 행동에 내 깊은 감사를 표하고 싶소.
-str_comment_you_helped_villagers_friendly_cruel|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 당신이 그들에게 마음을 선뜻 써 주었던 것에는 고맙게 생각하겠지만, 나는 그들에 대한 내 권위를 당신이 무시하지 않았으면 좋겠소.
-str_comment_you_helped_villagers_friendly|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 요즘은 어려운 시기요, 그리고 당신의 마음은 나도 잘 알고 있지만, 나는 당신이 앞으로 그들의 부탁을 들어주지 않았으면 좋겠소.
-str_comment_you_helped_villagers_unfriendly_spiteful|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 당신은 내가 그들을 보호하는 일조차 하지 못하는 사람으로 보이게 만들 생각이오? 나는 당신이 한 일에 대해서 좀 더 자각을 가져 주었으면 좋겠소.
-str_comment_you_helped_villagers_cruel|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 그 농노들의 주인이자 보호자는 바로 나요, 당신이 한 일은 내가 그들에게 해줘야 하는 일들이지. 당신의 뜻은 좋게 받아들이겠소, 그러나 당신의 행동은 그들에 대한 내 권위를 깎아내리는 것 밖에 되지 않는다는 것만은 기억하시오. 그리고 이만 내 앞에서 떠나주었으면 좋겠소.
-str_comment_you_helped_villagers_default|나는 당신이 {s51}에 사는 내 농노들에게 자비를 베풀었다는 소식을 들었소. 요즘은 어려운 시기요, 그리고 당신의 마음은 나도 잘 알고 있지만, 그게 나쁜 버릇이라는 점만은 알아 두시오. 나는 그들의 영주이며 보호자이고, 나는 그들이 내가 아닌 다른 사람에게 보호를 의탁하는 것을 그리 좋지 않게 생각하고 있소.
-str_comment_you_give_castle_in_my_control|당신은 {s51}을(를) 내게 수여하기로 결정한 것을 후회하지 않을 것이오. 당신이 수여한 영지를 내가 지킬 수 있을 것임을 당신이 믿어 의심치 않게 하겠소.
-str_comment_you_captured_a_castle_allied_friendly|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 그건 멋진 일이오, 나는 당신이 내 친구인 것이 자랑스럽소!
-str_comment_you_captured_a_castle_allied_spiteful|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 잘 했소! 조만간, 우리는 모든 그들의 거점을 점령하여 파괴하고, 그들의 재산을 빼앗은 뒤, 그들의 슬픈 미망인들이 우리의 술잔에 술을 따라주는 것을 즐길 수 있을 것이오.
-str_comment_you_captured_a_castle_allied_unfriendly_spiteful|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 괜찮은 일이오. 하지만 평민들이 하는 말 중에, 개도 개 나름대로 즐길 수 있는 날이 있다고 하더군. 당신이 즐길 수 있을 만큼 즐겨 두시오, 조만간 궁정에서 당신을 춥고 험한 곳으로 보내기 전에 말이지.
+str_comment_you_accosted_my_caravan_default|내 보호를 받는 상단들을 습격하고 있다는 소문을 들었소. 이런 행동은 이제 그만둬야 하지 않겠소?
+str_comment_you_helped_villagers_benevolent|당신이 {s51} 마을 주민들에게 자비를 베풀었다는 소식을 들었소. 나는 영주이자 보호자로서의 내 의무에 소홀했소. 당신이 내 일을 대신 해준 것에 깊이 감사하오.
+str_comment_you_helped_villagers_friendly_cruel|{s51} 백성들에게 자비를 베풀었다지. 좋은 뜻인 건 알겠으나, 그들에 대한 내 권위를 깎아내리지 않았으면 좋겠소.
+str_comment_you_helped_villagers_friendly|{s51} 백성들에게 선행을 베풀었다는 소식을 들었소. 시국이 어려우니 자네의 선의는 이해하오. 자네가 돕는 것을 반대하지는 않겠소.
+str_comment_you_helped_villagers_unfriendly_spiteful|{s51} 백성들에게 자비를 베풀었다더군. 내 신하들에게 점수를 따려고 애쓰는 꼬락서니가 참 가관이네만, 웬만하면 남의 일에는 참견 마시오.
+str_comment_you_helped_villagers_cruel|{s51} 백성들에게 자비를 베풀었다는 소식을 들었소. 농민들을 돕는 것은 영주이자 보호자인 나의 의무요. 뜻은 좋으나 자네의 행동은 내 권위를 실추시킬 뿐이니, 더는 참견하지 말고 떠나주시오.
+str_comment_you_helped_villagers_default|당신이 {s51} 백성들을 도왔다는 소문을 들었소. 어려운 시기라 뜻은 좋게 받아들이겠소만, 나쁜 버릇이 들지 않게 해 주시오. 내가 그들의 영주이자 보호자이니, 내 백성들이 낯선 이에게 도움을 구하는 상황은 달갑지 않소.
+str_comment_you_give_castle_in_my_control|{s51}을 내게 주기로 한 결정을 절대 후회하지 않게 해주겠소. 내가 그곳을 확실히 지켜낼 것임을 믿어주시오.
+str_comment_you_captured_a_castle_allied_friendly|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 정말 대단한 공적이군! 자네 같은 친구를 둔 것이 정말 자랑스럽소!
+str_comment_you_captured_a_castle_allied_spiteful|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 잘했소! 머지않아 적들의 모든 요새를 약탈하고 보물창고를 털며, 그들의 슬픈 미망인들이 우리에게 술을 따르게 하는 날이 오겠군.
+str_comment_you_captured_a_castle_allied_unfriendly_spiteful|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 뭐, 쥐구멍에도 볕 들 날이 있다더니 딱 그 꼴이군. 당신의 상전들이 당신을 원래 있어야 할 추운 변방으로 걷어차기 전까지 마음껏 즐겨두시오.
 str_comment_you_captured_a_castle_allied_unfriendly|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 우리가 과거에 서로 어떤 일이 있었던 간에, 지금은 그저 당신에게 축하한다고 말해주고 싶소.
-str_comment_you_captured_a_castle_allied|당신이 {s51}을(를) 포위해 점령하는 데 성공했다는 소식을 들었소. 우리 모두가 그들을 그 곳에서 쫓아낸 거요!
-str_comment_you_captured_my_castle_enemy_spiteful|당신이 내 영지인 {s51}을(를) 가져갔다고 들었소. 나는 당신이 지하 감옥에 머무르는 것을 좋아했으면 좋겠군, 앞으로 몇 년 동안 당신은 그 곳에서 많은 시간을 지내야 할 테니 말이오.
-str_comment_you_captured_my_castle_enemy_chivalrous|당신이 정당한 내 영지인 {s51}을(를) 가졌다고 들었소. 나는 당신에게서 그 영지를 돌려받을 기회를 노릴 것이오!
+str_comment_you_captured_a_castle_allied|당신이 {s51}을(를) 함락시켰다는 소식을 들었소. 이제 적들은 겁에 질려 도망치기 바쁠 것이오!
+str_comment_you_captured_my_castle_enemy_spiteful|{s51}에 있는 내 집에 침입했다는 소리를 들었소. 그곳 지하 감옥이 자네 마음에 들었으면 좋겠군. 앞으로 몇 년 동안은 거기서 지내게 될 테니 말이오.
+str_comment_you_captured_my_castle_enemy_chivalrous|당신이 정당한 내 영지인 {s51}을(를) 차지했군. 나는 당신에게서 그 영지를 돌려받을 기회를 노릴 것이오!
 str_comment_you_captured_my_castle_enemy|당신은 내 영지였던 {s51}을(를) 가지고 있다 들었소. 나는 당신이 내 영지를 포기하고 나에게 돌려줄 수 밖에 없게 만들 것이오.
-str_comment_we_defeated_a_lord_unfriendly_spiteful|내 생각에 당신은 {s54}에서 우리의 승리를 축하하기 위해 축배를 들 것 같군. 좋소, 그러나 당신은 축배를 들기에는 이를 것이오 -- 당신은 앞으로 적들에게 그보다 더 큰 패배를 맛볼 것이니 말이오.
-str_comment_we_defeated_a_lord_unfriendly|나는 우리가 {s54}에 맞서 어떻게 싸웠는지 잊지 않을 것이오. 그러나, 나는 당신과 나 사이에 있었던 분쟁에 대해 잊지 않았다는 사실도 기억해야 할 것이오.
-str_comment_we_defeated_a_lord_cruel|{s54}에서 우리가 승리한 것은 정말 대단한 일이오. 안 그렇소? 우리는 적들의 병력을 까마귀 밥으로 만들었소.
-str_comment_we_defeated_a_lord_quarrelsome|우리가 {s54}을(를) 어떻게 처리했는지 잊지 않겠소. 그럼.
-str_comment_we_defeated_a_lord_upstanding|나는 {s54}에서의 승리를 잊지 않겠소. 그리고 한 번 더 신에게 감사를 드리고, 우리 스스로가 너무 자만하지 않도록 경계하는 게 좋겠소.
-str_comment_we_defeated_a_lord_default|{s54}에서의 승리는 대단한 일이었소. 안 그렇소? 나는 당신의 옆에서 같이 싸울 수 있었다는 사실을 명예롭게 생각하겠소.
-str_comment_we_fought_in_siege_unfriendly_spiteful|내 생각에 당신은 {s54}에서 우리의 정복을 축하하기 위해 축배를 들 것 같군. 좋소, 그러나 당신은 축배를 들기에는 이를 것이오 -- 당신은 앞으로 적들에게 그보다 더 큰 패배를 맛볼 것이니 말이오.
-str_comment_we_fought_in_siege_unfriendly|나는 우리가 {s51}에서 어떻게 그들을 이기고 정복했는지 잊지 않겠소. 그러나, 나는 당신과 나 사이에 있었던 분쟁에 대해 잊지 않았다는 사실도 기억해야 할 것이오.
-str_comment_we_fought_in_siege_cruel|나는 우리가 {s51}의 성벽을 넘어, 그들에게 검을 꽃아 넣던 그 순간을 잊지 않을 것이오. 그건 정말로 달콤한 추억이었소.
-str_comment_we_fought_in_siege_quarrelsome|우리가 {s51}의 성벽을 넘었을 때, 적들이 우리를 보고 어떤 비명을 질렀는지 기억하시오? 아마 그들은 자신들이 안전하다고 여기고 있었을 것이오!
-str_comment_we_fought_in_siege_upstanding|나는 {s51}에서 우리가 성벽을 넘었던 순간을 잊지 못할 거요. 그리고 한 번 더 신에게 감사를 드리고, 우리 스스로가 너무 자만하지 않도록 경계하는 게 좋겠소.
-str_comment_we_fought_in_siege_default|나는 {s51}에서 우리가 함께 성벽을 넘던 그 순간을 잊지 못할 것이오. 그리고 나는 당신의 옆에서 같이 싸울 수 있었다는 사실을 명예롭게 생각하겠소.
-str_comment_we_fought_in_major_battle_unfriendly_spiteful|내 생각에 당신은 {s51}에서 우리의 완승을 축하하기 위해 축배를 들 것 같군. 좋소, 그러나 당신은 축배를 들기에는 이를 것이오 -- 당신은 앞으로 적들에게 그보다 더 큰 완패를 맛볼 것이니 말이오.
-str_comment_we_fought_in_major_battle_unfriendly|나는 {s51}에서 있었던 그 장대한 전투에서 우리가 어떻게 싸웠는지 잊지 않을 것이오. 그러나, 나는 당신과 나 사이에 있었던 분쟁에 대해 잊지 않았다는 사실도 기억해야 할 것이오.
-str_comment_we_fought_in_major_battle_cruel|나는 {s51}에서 있었던 그 장대한 전투를 잊지 않을 것이오. 특히 우리가 적의 진영을 돌파했을 때, 그들이 우리를 보고 비명을 지르며 도망가던 순간을 말이오. 그건 정말로 달콤한 추억이었소.
-str_comment_we_fought_in_major_battle_quarrelsome|{s51}에서 있었던 그 싸움은 꽤나 괜찮았소, 특히, 그 망할 놈들이 내쫓겨 도망가는 꼴을 보고 있었을 때는 더더욱 말이오!
-str_comment_we_fought_in_major_battle_upstanding|나는 {s51}에서 있었던 그 장대한 전투에서 우리가 어떻게 싸웠는지 잊지 못할 것이오. 그리고 한 번 더 신에게 감사를 드리고, 우리 스스로가 너무 자만하지 않도록 경계하는 게 좋겠소.
-str_comment_we_fought_in_major_battle_default|난 우리가 {s51}에서 있었던 거대한 전투에서 함께 등을 맞대고 싸웠던 기억을 절대로 잊지 못할 거요. 나는 당신의 옆에서 같이 싸울 수 있었다는 사실을 명예롭게 생각하오.
-str_comment_you_defeated_a_lord_allied_liege|그래, 자네가 {s54}(이)라는 악당과 싸워 승리를 거뒀다는 말을 들었어. 나는 그 소식을 듣고 꽤나 기분이 좋았네.
-str_comment_you_defeated_a_lord_allied_unfriendly_spiteful|당신이 {s54}와(과) 싸웠고, 이겼다는 소식을 들었소. 그가 당신을 이기지 못한 게 안타깝군.
-str_comment_you_defeated_a_lord_allied_spiteful|당신이 {s54}와(과) 싸웠고, 그 자를 물리쳤다는 소식을 들었소. 아, 그 자가 나에게 자비를 달라며 애원하는 것을 들을 수만 있다면.
-str_comment_you_defeated_a_lord_allied_unfriendly_chivalrous|당신이 {s54}와(과) 싸워 물리쳤다는 소식을 들었소. 그러나, 나는 당신이 불명예스러운 방법으로 그를 이긴 것이 아니었기만을 빌겠소.
-str_comment_you_defeated_a_lord_allied|당신이 {s54}와(과) 싸워 물리쳤다는 소식을 들었소. 나는 당신이 그 승리를 충분히 만끽했으면 좋겠소.
-str_comment_you_defeated_me_enemy_chivalrous|최근, 내가 당신과 만났을 때, 나는 당신의 승리에 대해 시기하지는 않았소. 그러나, 나는 그 일을 만회할 다른 기회만을 기다릴 것이오!
-str_comment_you_defeated_me_enemy_spiteful|나는 당신을 다시 만나기를 기대하고 있었소. 당신의 계략은 나에게 두 번 통하지는 않을 거요, 그리고 자비를 구걸하는 당신의 목소리를 들으며 음미할 것이오.
-str_comment_you_defeated_me_enemy|최근, 내가 당신과 만났을 때, {playername}, 당신은 나보다 확실히 유리한 상황에 있었소. 하지만 내 장담컨데 두 번 다시 그런 일은 일어나지 않을 것이오!
-str_comment_i_defeated_you_enemy_spiteful|다시 나에게 대적하겠다는 것이오? 당신은 내가 두렵지 않은가 보군, 그리고 이 전투에서 당신을 잡게 된다면, 나는 당신의 창자를 꺼내 내 사냥개들에게 던져줄 것이오.
-str_comment_i_defeated_you_enemy_chivalrous|나에게 당한 패배에도 불구하고, 당신의 용기를 다시금 시험하려 하는 것이오, {playername}?
-str_comment_i_defeated_you_enemy_benevolent|그래서, 다시 나에게 대적하겠다는 것이오? 당신은 일전의 패배에서 아무 것도 배우지 못했소?
-str_comment_i_defeated_you_enemy_coldblooded|확실히 당신은 근성 있는 사람인 것 같소. 그러나, 그렇기 때문에 특히 당신이 더 불쾌한 것 같소.
+str_comment_we_defeated_a_lord_unfriendly_spiteful|우리가 {s54}를 상대로 거둔 승리를 축하하며 술이라도 마시고 싶은 모양이군. 미안하지만 그 술은 아껴두시오. 그 정도 승리로는 당신이 과거에 저지른 불명예를 씻어내기에 턱없이 부족하니까.
+str_comment_we_defeated_a_lord_unfriendly|나는 우리가 {s54}에 맞서 어떻게 싸웠는지 잊지 않을 것이오. 하지만 우리 사이에 남은 다른 문제들까지 잊은 것은 아니라는 것도 알고 계시오.
+str_comment_we_defeated_a_lord_cruel|{s54}에서 우리가 승리한 것은 정말 대단한 일이오. 안 그렇소? 놈들의 군대를 까마귀들의 성대한 만찬으로 만들어버렸지!
+str_comment_we_defeated_a_lord_quarrelsome|우리가 {s54}를 어떻게 박살 냈는지 잊지 않을 거요. 아주 즐거운 경험이었지.
+str_comment_we_defeated_a_lord_upstanding|{s54}에서의 승리를 잊지 않겠소. 다시 한번 하늘에 감사드리고, 우리가 승리에 취해 너무 오만해지지 않도록 기도합시다.
+str_comment_we_defeated_a_lord_default|{s54}에서의 승리는 참으로 대단했소. 당신의 곁에서 함께 싸울 수 있었던 것을 영광으로 생각하오.
+str_comment_we_fought_in_siege_unfriendly_spiteful|\{s51}을 함락시킨 것을 자축하며 술이라도 마실 생각인가 보군. 그 술은 넣어두시오. 그 정도로 당신이 예전에 저지른 수치스러운 실책들이 가려지지는 않을 테니.
+str_comment_we_fought_in_siege_unfriendly|우리가 함께 {s51}을 몰아친 것은 잊지 않겠소. 하지만 그것과 별개로 우리 사이에 얽힌 다른 사안들은 여전히 유효하다는 걸 기억하시오.
+str_comment_we_fought_in_siege_cruel|우리가 {s51}의 성벽을 부수고 방어군들을 검으로 베어 넘기던 순간을 잊지 못할 것이오. 참으로 달콤한 기억이군.
+str_comment_we_fought_in_siege_quarrelsome|우리가 {s51}의 성벽을 넘었을 때 그놈들이 비명을 지르던 게 기억나오? 안전할 줄 알았다가 당황하는 그 오만한 얼굴들을 싹 지워버렸지!
+str_comment_we_fought_in_siege_upstanding|{s51}을 점령한 순간을 결코 잊지 않겠소. 다시 한번 하늘에 감사하며, 우리가 자만심에 빠지지 않도록 경계합시다.
+str_comment_we_fought_in_siege_default|우리가 함께 {s51}을 함락시킨 순간을 잊지 못할 것이오. 당신과 함께 싸운 것을 명예롭게 생각하오.
+str_comment_we_fought_in_major_battle_unfriendly_spiteful|{s51} 인근에서 거둔 대승을 축하하며 술을 마시려는 모양이군. 술은 아껴두시오. 그 정도로 당신이 이전에 보여준 비참한 모습들이 사라지지는 않을 테니까.
+str_comment_we_fought_in_major_battle_unfriendly|{s51} 근처에서 있었던 그 위대한 전투를 함께 치른 것은 잊지 않겠소. 하지만 우리 사이의 해묵은 감정은 여전히 남아 있다는 걸 잊지 마시오.
+str_comment_we_fought_in_major_battle_cruel|{s51} 인근에서 벌어진 그 위대한 전투를 잊지 못할 거요. 우리가 적진을 돌파했을 때 놈들이 비명을 지르며 도망치던 모습은 정말 최고의 구경거리였지.
+str_comment_we_fought_in_major_battle_quarrelsome|{s51} 근처에서 벌인 싸움은 정말 끝내줬지! 우리가 그 개자식들을 도망치게 만들었을 때 말이야!
+str_comment_we_fought_in_major_battle_upstanding|{s51} 근처의 위대한 전투에서 우리가 등을 맞대고 싸운 일을 잊지 않겠소. 하늘에 감사하며 우리가 너무 오만해지지 않도록 합시다.
+str_comment_we_fought_in_major_battle_default|{s51} 근처의 위대한 전투에서 우리가 함께 싸운 기억을 결코 잊지 못할 것이오. 당신과 어깨를 나란히 하고 싸운 것을 명예롭게 생각하오.
+str_comment_you_defeated_a_lord_allied_liege|당신이 {s54}라고 불리는 그 악당과 합을 겨뤄 승리했다는군. 그 소식을 들으니 내 마음이 다 시원해졌소.
+str_comment_you_defeated_a_lord_allied_unfriendly_spiteful|당신이 {s54}를 이겼다더군. 뭐, 쥐구멍에도 볕 들 날이 있는 법이니까.
+str_comment_you_defeated_a_lord_allied_spiteful|당신이 그 개 같은 {s54}를 물리쳤다지. 아, 놈이 목숨을 구걸하며 징징거리는 소리를 내 귀로 직접 들었어야 했는데!
+str_comment_you_defeated_a_lord_allied_unfriendly_chivalrous|당신이 {s54}를 꺾었다는 소식을 들었소. 부디 그 승리가 비겁하고 불명예스러운 수단으로 얻은 것이 아니길 빌겠소.
+str_comment_you_defeated_a_lord_allied|당신이 {s54}를 상대로 승리했다는 소식을 들었소. 승리의 기쁨을 마음껏 누리길 바라오.
+str_comment_you_defeated_me_enemy_chivalrous|지난번 만남에서 거둔 당신의 승리를 시기하지는 않겠소. 그러나, 나는 그 일을 만회할 다른 기회만을 기다릴 것이오!
+str_comment_you_defeated_me_enemy_spiteful|다시 만나기를 고대하고 있었소. 당신의 계략은 나에게 두 번 통하지는 않을 거요. 그리고 이번에야 말로 자비를 구걸하는 당신의 목소리를 음미할 것이오.
+str_comment_you_defeated_me_enemy|지난번에는 당신이 운 좋게 나를 이겼지만, {playername}, 두 번 다시 그런 일은 없을 것이라고 단언하지!
+str_comment_i_defeated_you_enemy_spiteful|다시 나에게 대적하겠다는 것이오? 이번에 당신을 잡게 된다면 당신의 창자를 꺼내 내 사냥개들에게 먹이로 던져줄 것이오.
+str_comment_i_defeated_you_enemy_chivalrous|다시 한번 나를 상대로 당신의 용기를 시험하러 온 것이오, {playername}?
+str_comment_i_defeated_you_enemy_benevolent|그래서, 다시 나에게 대적하겠다는 것이오? 일전의 패배에서 아무 것도 배우지 못했소?
+str_comment_i_defeated_you_enemy_coldblooded|근성은 인정하겠소. 하지만 참으로 성가신 사람이구려.
 str_comment_i_defeated_you_enemy|당신이 나와 당신의 격차를 깨달을 때까지, 당신을 얼마나 무릎 꿇게 해야겠소?
-str_comment_we_were_defeated_unfriendly_spiteful|최근, 내가 당신을 보았을 때, 당신은 {s54}에게 된통 당하고 있었지. 나는 그 비참함에 당신을 동정하고 말았지 뭐요. 그에게 빌어서 살아남기라도 한 거요?
-str_comment_we_were_defeated_unfriendly|최근, 내가 당신을 보았을 때, 당신은 {s54}에게 당하고 있었지. 흠, 그리고 나는 당신이 그 곳에서 간신히 빠져나가는 것도 보았소.
-str_comment_we_were_defeated_cruel|최근, 내가 당신을 보았을 때, 당신은 {s54}에게 당하고 있었지. 걱정하지 마시오 -- 우리가 그를 찾아서 충분히 비참하게 만들어 줄 테니까.
-str_comment_we_were_defeated_default|최근, 내가 당신을 보았을 때, 당신은 {s54}에게 당하고 있었지. 당신이 멀쩡하게 살아 있어줘서 다행이라고 생각하오.
-str_comment_you_were_defeated_allied_friendly_spiteful|당신이 {s54}에게 힘든 일들을 겪었다고 들었소. 걱정하지 마시오, 친구 -- 언젠가 내가 당신을 위해, 그를 잡아서 그의 머리를 자네에게 선물로 가져다 주겠소.
-str_comment_you_were_defeated_allied_unfriendly_cruel|{s54}에게 당신의 병력이 양떼처럼 학살당했다는 소식을 들었소. 하지만 당신은 이렇게 멀쩡히 살아있지 않소. 참 실망스러운 일이오.
-str_comment_you_were_defeated_allied_spiteful|{s54}(이)가 당신을 발바닥에 붙은 개미처럼 눌러버린 것을 들었소. 하! 당신은 그저 애송이일 뿐이오!
-str_comment_you_were_defeated_allied_pitiless|나는 {s54}(이)가 당신을 패배시켰다는 소식을 들었소, 그건 참 안 된 일이오.
-str_comment_you_were_defeated_allied_unfriendly_upstanding|{s54}(이)가 당신을 패배시켰다는 소식을 들었소. 그건 아마도 당신이 저지른 악행을 보다 못한 신께서 내린 채찍일 것이오.
-str_comment_you_were_defeated_allied_unfriendly|{s54}(이)가 당신을 패배시켰다는 소식을 들었소, {playername}. 당신은 병력들을 이끄는 법을 모르고 있소, 안 그렇소? 내 생각에 당신은 그들을 이끌 만한 능력이 없소.
-str_comment_you_were_defeated_allied|{s54}(이)가 당신을 패배시켰다는 소식을 들었소. 그런 일들에 대해서 당신이 너무 우울해 하지 않았으면 좋겠군. 아마 당신에게도 또 다른 기회가 생길 것이오!
-str_comment_you_helped_my_ally_unfriendly_chivalrous|당신이 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소. 내가 당신을 어떻게 생각하든, 그 행동은 칭찬을 받아야 마땅하오.
-str_comment_you_helped_my_ally_liege|자네가 내 봉신인 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었네.
-str_comment_you_helped_my_ally_unfriendly_spiteful|당신이 {s54}을(를) 구하러 갔다고 들었소. 당신은 그를 보고, 무서운 줄도 모르고 덤비는 멍청이가 생각나지 않았소? 음, 방금 전 말은 못 들은 것으로 해 주시오. -- 그건 일상적인 말실수였소.
-str_comment_you_helped_my_ally_spiteful|당신이 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소. 내 생각에는 당신이 그에게 좋은 교훈을 주었다고 생각하오.
-str_comment_you_helped_my_ally_chivalrous|당신이 {s54}을(를) 위기에서 구해냈다고 들었소. 그건 정말 숭고한 행동이오.
-str_comment_you_helped_my_ally_default|당신이 {s54}을(를) 위기에서 구해냈다고 들었소. 잘 했소!
-str_comment_you_abandoned_us_unfriendly_spiteful|당신은 벌레만도 못한 자요! 당신은 {s54}을(를) 앞에 우리를 버려두고 떠났소, 당신은 양심이 있소?
-str_comment_you_abandoned_us_unfriendly_pitiless|음, 당신은 나를 {s54}와(과) 싸우게 나를 내버리고 도망쳤지. 안 그렇소? 당신은 죽어 배신자들의 지옥에 떨어질 거요.
-str_comment_you_abandoned_us_spiteful|당신은 {s54}와(과) 전투에서 나 혼자만 남겨두고 어느새 사라져 있었소. 당신에게 좋은 변명이 있길 바라겠소. 공포에 당신의 창자가 떨리기라도 했소? 적에 대한 두려움에 무기조차 손에서 놓치기라도 했소?
-str_comment_you_abandoned_us_chivalrous|당신은 대체 어디에 있었소? 당신은 {s54}와(과)의 전투 도중에 어느새 사라져 있었소. 그러나, 나는 당신이 심각한 부상을 입고 쓰러져 있었을 것이라고 생각하겠소. 그게 아니라면 당신은 겁쟁이일 것이오.
-str_comment_you_abandoned_us_benefitofdoubt|당신은 대체 어디에 있었소? 당신은 {s54}와(과)의 전투 도중에 어느새 사라져 있었소. 나는 당신이 부상을 입고 쓰러져 있는 줄 알았는데, 지금 당신을 보니 그게 아니었던 것 같소.
-str_comment_you_abandoned_us_default|당신은 대체 어디에 있었소? 어떤 때는 당신이 우리와 함께 {s54}와 싸우고 있더니, 다음 순간에는 당신을 어디서도 찾을 수가 없었지 않소?
-str_comment_you_ran_from_me_enemy_spiteful|마지막으로 당신과 만났을 때, 당신은 나에게서 부리나케 도망가지 않았소? 당신이 다시 온 건 나에게 덤비러 온 거요, 아니면 자비를 구걸하러 온 것이오?
-str_comment_you_ran_from_me_enemy_chivalrous|최근, 우리가 만났을 때, 당신은 나에게서 도망쳤소. 당신이 겁쟁이가 아니라면, 일어나서 나와 싸우시오!
-str_comment_you_ran_from_me_enemy_benevolent|지난 번, 당신을 만났을 때, 나는 당신과 별로 싸우고 싶지는 않았소.
-str_comment_you_ran_from_me_enemy_coldblooded|지난 번, 당신을 만났을 때, 당신은 나에게서 도망갔소. 내 생각에 그건 현명한 생각이었던 것 같소.
-str_comment_you_ran_from_me_enemy|지난 번, 우리가 마주쳤을 때, 당신은 나에게서 운 좋게 도망칠 수 있었지만, 그런 행운이 한 번 더 있을 거라고 기대하지 않는 것이 좋을 것이오.
-str_comment_you_ran_from_foe_allied_chivalrous|{s54}로부터 당신이 그를 남겨둔 채 도망쳤다고 들었소. 나는 그 말이 거짓이기를 기도하겠소. 이건 우리 모두에게 명예롭지 못한 일이오.
-str_comment_you_ran_from_foe_allied_upstanding|{s54}로부터 당신이 그를 남겨둔 채 도망쳤다고 들었소. 나는 그 말이 사실이라고 생각하지는 않지만, 당신이 그를 정말로 내버려두고 홀로 도망쳤다면, 당신은 그를 전장에서 도륙되도록 내팽개친 것이나 다름 없소.
-str_comment_you_ran_from_foe_allied_spiteful|당신이 {s54}을(를) 내버려두고 도망쳤을 때, 당신 뒤에 남겨진 자들은 도륙되어져 갔고, 당신은 놀란 토끼마냥 아무것도 하지 않고 도망쳤소. 하! 살다보니 별 것을 다보게 되는군!
-str_comment_you_defeated_my_friend_enemy_pragmatic|당신이 아무리 강하다 한들 우리 모두를 상대해서 이기지는 못할 것이오.
-str_comment_you_defeated_my_friend_enemy_chivalrous|나는 당신이 {s54}에게서 승리했다는 소식을 들었소, 부디 당신과 칼을 맞대고 싸우는 일이 없길 바라오.
-str_comment_you_defeated_my_friend_enemy_spiteful|{s54}은(는) 당신의 간계에 빠진 듯 하오. 하지만 나는 결코 적에게 쉽게 방심하는 사람이 아니오.
-str_comment_you_defeated_my_friend_enemy|{s54}(이)가 당신과의 전투에서 패배했다 들었소, 그러나 나는 그가 당신과의 전투에서 전력을 다할 수 있는 상황이 아니엇을 거라고 생각하오.
-str_comment_you_captured_a_lord_allied_friendly_spiteful|당신이 {s54}을(를) 포로로 잡았다고 들었소. 당신이 그에게서 몸값을 잔뜩 받아냈으면 좋겠소.
-str_comment_you_captured_a_lord_allied_unfriendly_spiteful|당신이 {s54}을(를) 포로로 잡았다고 들었소. 이제 당신의 금고는 그의 몸값으로 가득 차겠군. 하지만 그런 돈이 당신을 진정한 귀족으로 탈바꿈시킬 수는 없을 것이오.
-str_comment_you_captured_a_lord_allied_chivalrous|당신이 {s54}을(를) 포로로 잡았다고 들었소. 잘 했소, 물론, 나는 그가 당신에게서 귀족 신분에 맞는 대우를 받았을 거라고 믿고 있겠소.
+str_comment_we_were_defeated_unfriendly_spiteful|마지막으로 봤을 때 당신은 {s54}의 부하들에게 처참하게 깨지고 있었지. 그 재앙 같은 상황에 당신을 탓하게 되더군. 대체 어떻게 살아남았소? 안타깝군...
+str_comment_we_were_defeated_unfriendly|마지막으로 봤을 때 {s54}의 부하들에게 당하고 있더군. 뭐, 어쨌든 살아서 돌아오긴 했군.
+str_comment_we_were_defeated_cruel|지난번에 보니 {s54}에게 호되게 당하고 있더군. 걱정 마시오. 우리가 그자를 찾아내서, 그 승리가 목에 걸려 숨도 못 쉬게 만들어줄 테니까.
+str_comment_we_were_defeated_default|지난번에 {s54}에게 당하는 모습을 보았소. 이렇게 무사히 살아 있는 모습을 보니 정말 다행이구려.
+str_comment_you_were_defeated_allied_friendly_spiteful|{s54}가 당신을 곤경에 빠뜨렸다고 들었소. 걱정 마시오, 친구. 내가 그놈을 잡아서 그 머리를 당신에게 선물로 가져다주겠소.
+str_comment_you_were_defeated_allied_unfriendly_cruel|{s54}가 당신 부하들을 양떼처럼 도륙했다던데, 당신은 뻔뻔하게 살아남았군. 참으로 실망스럽기 짝이 없어!
+str_comment_you_were_defeated_allied_spiteful|{s54}가 당신을 개미처럼 짓밟아버렸다는 소문을 들었소. 하! 애송이 같으니라고, 어른들의 전쟁놀에는 함부로 끼어드는 게 아니오!
+str_comment_you_were_defeated_allied_pitiless|{s54}에게 패배해 군대가 흩어졌다지. 정말 실망스럽군...
+str_comment_you_were_defeated_allied_unfriendly_upstanding|{s54}에게 패했다는 소식을 들었네. 아마 당신이 저지른 죄들에 대해 주께서 내리신 징벌이 아닐까 싶군. 회개하시오.
+str_comment_you_were_defeated_allied_unfriendly|{s54}에게 패배했다지. 이보시오, 우리 아까운 병사들이 죽지 않게 그냥 내버려 둘 수는 없겠소?
+str_comment_you_were_defeated_allied|{s54}에게 패했다는 소식을 들었네만, 기운 내시오. 곧 전세가 역전될 날이 올 테니까!
+str_comment_you_helped_my_ally_unfriendly_chivalrous|당신이 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소. 당신에 대한 내 개인적인 감정이 어떠하든, 그 행동만큼은 칭찬받아 마땅하오.
+str_comment_you_helped_my_ally_liege|당신이 내 봉신인 {s54}을(를) 패배 직전에 구해냈다는 소식을 들었소.
+str_comment_you_helped_my_ally_unfriendly_spiteful|가여운 {s54}를 구하러 달려갔다지? 그 친구가 위기에 빠진 공주님이라도 되는 줄 알았나? 뭐, 착각할 수도 있지.
+str_comment_you_helped_my_ally_spiteful|당신이 {s54}를 매질 당하기 직전에 구해주었다더군. 내 생각엔 그냥 내버려 둬서 교훈을 얻게 했어야 했는데 말이야.
+str_comment_you_helped_my_ally_chivalrous|당신이 {s54}를 곤경에서 건져주었다는 소식을 들었소. 참으로 숭고한 행위였소.
+str_comment_you_helped_my_ally_default|위험에 처한 {s54}를 잘 도와주었소. 수고했소!
+str_comment_you_abandoned_us_unfriendly_spiteful|당신은 벌레만도 못한 자요! {s54}을(를) 앞에 우리를 버려두고 도망치다니! 당신 얼굴에 침이라도 뱉아야겠소.
+str_comment_you_abandoned_us_unfriendly_pitiless|전투 중에 나를 버리고 {s54}와 싸우게 놔둔 채 도망치다니. 당신은 배신자들의 무덤에 처박히게 될 것이오.
+str_comment_you_abandoned_us_spiteful|당신은 {s54}와(과) 전투를 하던 중 어느새 사라져 있었소... 그럴싸한 변명이라도 준비해왔소? 겁이 나서 창자가 뒤틀리기라도 했소? 아니면 무기를 쥐지 못할 정도로 손이 떨렸소?
+str_comment_you_abandoned_us_chivalrous|어떻게 된 것이오? {s54}와 싸우는 도중에 사라져버렸더군. 당신이 너무 심하게 다쳐 서 있을 수조차 없었던 것이길 빌겠소. 겁쟁이와 함께 전장에 나갔다는 건 정말 수치스러운 일이니까.
+str_comment_you_abandoned_us_benefitofdoubt|대체 무슨 일이었소? {s54}와의 전투 중에 당신이 보이지 않더군. 부상을 당했던 것이라 믿고 싶지만, 상황이 참 의심스럽긴 하오.
+str_comment_you_abandoned_us_default|어찌 된 일이오? 방금까지 {s54}에 맞서 우리와 함께 싸우는가 싶더니, 다음 순간에는 어디서도 찾을 수가 없었지 않소?
+str_comment_you_ran_from_me_enemy_spiteful|지난번 만남에서는 채찍질 당한 개처럼 도망치더니... 다시 짖으러 온 것이오, 아니면 자비를 구걸하러 온 것이오?
+str_comment_you_ran_from_me_enemy_chivalrous|지난번에 만났을 때 당신은 내게서 도망쳤소. 신사답게 맞서 싸우는 법부터 배우고 오시오!
+str_comment_you_ran_from_me_enemy_benevolent|지난번에 당신이 도망치는 것을 보고, 다시는 당신과 싸울 일이 없기를 바랐건만.
+str_comment_you_ran_from_me_enemy_coldblooded|지난번에 당신이 도망친 것은 아주 현명한 선택이었소.
+str_comment_you_ran_from_me_enemy|지난번에는 운 좋게 내 손아귀에서 빠져나갔지만, 다음번에도 그런 행운이 따를 거라 기대하지 마시오.
+str_comment_you_ran_from_foe_allied_chivalrous|당신이 부하들을 버려두고 {s54}로부터 도망쳤다는 소문이 있더군. 그것이 사실이 아니길 빌겠소. 우리 모두에게 수치스러운 일이니까.
+str_comment_you_ran_from_foe_allied_upstanding|당신이 부하들을 버리고 {s54}에게서 도망쳤다는 소문을 들었소. 소문을 다 믿지는 않지만, 때론 절박한 선택이 필요할 수도 있지. 하지만 명예를 더 소중히 여기도록 하시오. 지휘관이 전장에서 부하들을 버린다는 소문이 나면 아무도 우리 군대에 오려 하지 않을 테니.
+str_comment_you_ran_from_foe_allied_spiteful|당신이 겁먹은 토끼 새끼처럼 {s54}로부터 도망칠 때, 남겨진 부하들은 도륙당했다더군. 하! 참 가관이었겠어!
+str_comment_you_defeated_my_friend_enemy_pragmatic|당신이 {s54}를 이겼을지 몰라도, 우리 모두를 상대할 수는 없을 것이오.
+str_comment_you_defeated_my_friend_enemy_chivalrous|당신이 {s54}를 물리쳤다는 소식을 듣고, 당신과 칼을 맞댈 날만을 손꼽아 기다려 왔소.
+str_comment_you_defeated_my_friend_enemy_spiteful|네 명성이 자자하군, {playername}. {s54}는 네 잔꾀에 넘어갔을지 몰라도, 나는 훨씬 더 까다로운 적수라는 것을 곧 알게 될 것이오.
+str_comment_you_defeated_my_friend_enemy|{s54}를 이겼다는 소문을 들었소만, 무예의 진정한 시험대는 바로 내가 될 것이오.
+str_comment_you_captured_a_lord_allied_friendly_spiteful|자네가 {s54}를 사로잡았다지. 놈의 몸값을 마지막 한 푼까지 싹싹 긁어냈기를 바라오.
+str_comment_you_captured_a_lord_allied_unfriendly_spiteful|{s54}를 포로로 잡았다더군. 몸값 덕분에 금고가 아주 빵빵해졌겠어. 안타까운 건, 돈이 아무리 많아도 천한 근본은 귀족이 될 수 없다는 사실이지!
+str_comment_you_captured_a_lord_allied_chivalrous|당신이 {s54}를 포로로 잡았다는 소식을 들었소. 훌륭하오. 물론 그를 그의 신분에 걸맞은 예우로 대접했으리라 믿소.
 str_comment_you_captured_a_lord_allied|당신이 {s54}을(를) 포로로 잡았다고 들었소. 잘 했소. 분명 그의 몸값은 꽤나 두둑할 게 분명할 것이오.
 str_comment_you_let_go_a_lord_allied_chivalrous|당신이 {s54}을(를) 잡았지만, 그를 풀어주었다고 들었소. 잘 했소, 기사도를 실천하는 건 우리의 명분을 확고히 해줄 것이오.
-str_comment_you_let_go_a_lord_allied_upstanding|당신이 {s54}을(를) 잡았지만, 그를 풀어주었다고 들었소. 그러나, 다음부터는 그를 포로로 잡으시오. 그 행동은 분명 명예로운 일이긴 했지만, 우리의 적을 놓아주는 위험한 행동일수도 있소.
-str_comment_you_let_go_a_lord_allied_coldblooded|당신이 {s54}을(를) 잡았지만, 그를 풀어주었다고 들었소. 그러나, 다음부터는 그를 포로로 잡으시오. 당신은 그를 풀어줌으로써 뛰어난 기사도를 보여주었지만, 기사도가 전쟁을 이겨주지는 않소.
-str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|당신이 {s54}을(를) 잡았지만, 그를 풀어주었다고 들었소. 이 얼마나 명예로운 일이오, 당신의 죽은 부하들의 미망인들과 자식들이 당신의 행동을 보고 기뻐할 것이오!
-str_comment_you_let_go_a_lord_allied|당신이 {s54}을(를) 잡았지만, 그를 풀어주었다고 들었소. 글쎄, 당신이 잡은 포로를 당신이 어찌 처리하든 내가 신경 쓸 일은 아니지만 말이오.
-str_comment_you_let_me_go_spiteful|지난 번, 우리가 만났을 때에 당신은 자비로서 나를 풀어주었소. 당신은 고양이가 잡은 쥐를 풀어주어 장난 치듯 나를 풀어주었지만 나는 그 것에 신경 쓰지는 않겠소. 왜냐면, 곧 내가 당신을 잡아서 잡아 죽이거나, 굴욕을 줄 것이기 때문이오.
-str_comment_you_let_me_go_enemy_chivalrous|지난 번, 우리가 만났을 때에 당신은 자비로서 나를 풀어주었소. 그건 가장 기사도적인 일이었소. 나는 당신의 자비를 잊지 않을 것이오. 그러나, 나는 봉신으로서 충성 서약을 한 몸이고, 그리고 우리는 여전히 서로 적이오.
-str_comment_you_let_me_go_enemy_coldblooded|지난 번, 우리가 만났을 때에 당신은 자비로서 나를 풀어주었소. 그러나, 우리는 여전히 서로 적이고, 당신의 자비를 같은 방식으로 갚을 거라고 약속할 수는 없소.
-str_comment_you_let_me_go_enemy|지난 번, 우리가 만났을 때에 당신은 자비로서 나를 풀어주었소. 내가 본 것은 오로지 당신의 관대함이었소. 그러나 우리는 아직 서로 전쟁 중에 있소.
-str_comment_you_let_me_go_default|지난 번, 우리가 만났을 때에 당신은 자비로서 나를 풀어주었소. 내가 본 것은 오로지 당신의 관대함이었소. 그리고 이제 더 이상 서로 전쟁을 하지 않아서 기쁜 마음을 금할 수가 없소.
-str_comment_pledged_allegiance_allied_martial_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 평소 당신이 잘 하는 그 겁쟁이 같은 행동으로, 우리에게 불명예를 주지 않기만을 기도하겠소.
-str_comment_pledged_allegiance_allied_martial|I heard that you have pledged allegiance to our lord, {s54}. I look forward to fighting alongside you against our foes.
-str_comment_pledged_allegiance_allied_quarrelsome_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 당신은 좀 더 열정을 가지는 것이 좋을 것이오. 그리고 나와 같은 길을 가는 거요.
-str_comment_pledged_allegiance_allied_quarrelsome|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 내 적들과 열심히 싸워주시오, 스스로 좀 더 자부심을 가지고, 나에게 적대하지 마시오, 그렇다면 우리 사이는 좀 더 좋아질 수 있을 것이오.
-str_comment_pledged_allegiance_allied_selfrighteous_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 내가 만약 왕이었다면, 나는 약탈이나 일삼는 당신같은 도적을 절대로 받아들이지 않았을 것이오.
-str_comment_pledged_allegiance_allied_selfrighteous|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 용감히 싸우십시오 당신이 용감히 싸운다면, 그 만큼의 보상을 받을 것이고, 당신이 우리를 배신한다면, 우리는 당신에게 분명 절대 잊지 못할 대가를 받아낼 것이오!
-str_comment_pledged_allegiance_allied_cunning_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 나는 그 결정을 아무리 생각해도 긍정적으로 받아들여줄 순 없을 것 같소, 그러나 이 결정은 분명 우리에게 이득이 될 것이라는 것을 알기에, 나는 다른 선택을 할 수 없다는 것을 안타깝게 생각하고 있소!
-str_comment_pledged_allegiance_allied_cunning|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 이런 어려운 시기에 훌륭한 전사가 있다면 많은 도움이 될 것이오. 당신이 어찌 처신하는지 내가 지켜보겠소.
-str_comment_pledged_allegiance_allied_debauched_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 의심할 것도 없이 당신은 우리를 배신할 것이오, 그리고 나는 배신자의 죽음을 맛볼 수 있겠지.
-str_comment_pledged_allegiance_allied_debauched|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 훌륭하오, 그리고 당신과 내가 곧 좋은 친구가 될 것 같은 확신이 드는군. 그러나 기억하시오 -- 만약 우리를 배신한다면, 그 일은 당신의 인생에서 가장 큰 실수가 될 것이오.
-str_comment_pledged_allegiance_allied_goodnatured_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 그렇지만, 난 당신을 신뢰하지 않을 것이오, 나는 당신처럼 악질적으로 살인과 약탈을 일삼는 자는 믿지 않소.
-str_comment_pledged_allegiance_allied_goodnatured|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 잘 했소! 우리의 왕은 귀족적인 영혼을 가졌고, 언제나 공정하게 보상을 해 준다오. 뿐만 아니라 그는 친절하며 관대하기까지 하오.
-str_comment_pledged_allegiance_allied_upstanding_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 오, 신이시여, 나는 당신이 우리에게 불명예가 될까 두렵소, 그러나, 당신이 내 말을 나쁘게 받아들였다면, 당신에게 사과하겠소.
-str_comment_pledged_allegiance_allied_upstanding|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 우리의 적과 싸울 때, 명예를 가지고 용감히 싸우시오. 명예로운 이름이란 날카로운 칼이나 날렵한 말보다 더 가치 있는 것이오.
-str_comment_our_king_granted_you_a_fief_allied_friendly_cruel|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 잊지 마시오 -- 평민들은 돼지같은 존재들이라 그들에게 채찍질을 해야만 말을 들을 것이오!
-str_comment_our_king_granted_you_a_fief_allied_friendly_cynical|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 당신이 출세하길 빌겠소, 그러나 조심하시오. 다른 영주들은 마치 흡혈귀와도 같아서, 이웃을 탐하는 버릇이 있지. 나와 가까이 지내는 게 좋을 것이오 그러면 내가 당신의 뒤를 봐 주겠소.
-str_comment_our_king_granted_you_a_fief_allied_friendly|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 이제 당신의 이름이 노스란드에 널리 알려질 것이오.
-str_comment_our_king_granted_you_a_fief_allied_unfriendly_upstanding|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 그러나, 당신은 자부심을 가지다 못해 타락에 빠지지 말아야 할 것이오.
-str_comment_our_king_granted_you_a_fief_allied_unfriendly_spiteful|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 그러나 명심하시오, 당신이 영지를 받았다고 자만하지 않는 것이 좋을 것이오, 특히 당신 같은 사람은 더더욱 말이오.
-str_comment_our_king_granted_you_a_fief_allied_spiteful|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 당신은 스스로 왕에게 충성한 대가를 받고 있는 것이오.
-str_comment_our_king_granted_you_a_fief_allied|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 그것은 당신에게 큰 영광일 것이오.
-str_comment_you_renounced_your_alliegance_enemy_friendly|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 이제, 우리는 서로 전장에서 만나는 일만 남게 되었소.
-str_comment_you_renounced_your_alliegance_friendly|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 이 일이 우리에게 서로 불행한 일을 안겨주지 않았으면 좋겠소.
-str_comment_you_renounced_your_alliegance_unfriendly_spiteful|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 나는 언제나 당신이 우리를 배신할 거라고 이야기했고, 이제 보니 내 말이 맞았군. 이제 당신은 반역자로 죽을 준비를 해야 할 거요!
-str_comment_you_renounced_your_alliegance_unfriendly_moralizing|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 이제, 당신을 반역자라고 생각할 수 밖에 없겠소.
-str_comment_you_renounced_your_alliegance_enemy|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 그건 당신의 오랜 동지들을 적으로 돌리는 일이 될 것이오.
-str_comment_you_renounced_your_alliegance_default|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 그건 당신의 결정이지만, 전장에서 우리가 서로 적으로 만났을 때. 쉽게 보내주리란 생각은 접어두는 것이 좋을 것이오.
-str_comment_you_claimed_the_throne_1_player_liege|내 정보원들이 말하길, 왕국 내에서 당신의 동료들이 자네가 왕이 될 것이라고 말하고 다닌다고 내게 보고했소. 나는 당신이 이런 무의미하고 위험한 일을 그만두어야만 한다고 생각하오.
-str_comment_you_claimed_the_throne_2_player_liege|내 정보원들이 말하길, 당신의 동료들이 농민들에게 자네가 왕좌를 요구할 권리가 있다고 말하고 다닌다며 내게 보고했소. 나는 그들이 당신의 명령 없이 독단적으로 이 일을 벌인 것이기를 진심으로 바라고 있소.
-str_comment_lord_intervened_against_me|내가 {s54}와(과) 언쟁이 있었다는 건 잘 알려진 일이오, 그리고 {s50}은(는) 나의 라이벌을 지지했소.
-str_comment_i_protested_marshal_appointment|It is well known that I had protested {s54}'s decision to appoint {s51} as marshal.
-str_comment_i_blamed_defeat|내가 {s56}에 대항해 우리를 이끌고 패배한 {s51}에게 호의를 보이는 {s54}에게 불만스럽다는 것은 잘 알려진 일이지.
-str_comment_i_was_entitled_to_fief|내가 나에게 주어질 {s51}의 영지를 받은 {s54}에게 실망했다는 것은 잘 알려진 일이지.
-str_comment_i_quarreled_with_troop_over_woman|내가 {s54}에게 구혼하는 동안 {s51}가 그녀에게 추파를 던졌다는 것은 잘 알려진 일이지. 그놈에게 그녀의 관심은 어울리지 않지, 그리고 나는 그놈에게 그녀와 거리를 유지하게 가르쳐 줄 작정이오.
-str_comment_i_quarreled_with_you_over_woman_default|나는 당신이 {s54}에게 추파를 던지고 있다고 들었소. 나는 당신이 그녀와 같이 완벽한 숙녀에게 가치 있는 존재라고 믿지 않고, 또한 당신이 그녀를 포기하지 않으면 당신은 크게 낙담하게 될 것이오.
-str_comment_i_quarreled_with_you_over_woman_derisive|나는 당신이 {s54}에게 추파를 던지고 있다고 들었소. 당신에게 몇 마디 하겠소 -- 내가 청년이 되고, 그녀가 처녀가 되었을 때 부터 내 눈은 항상 그녀에게 가 있었소. 그녀는 이 왕국에서 고귀한 혈통의 숙녀이며, 이방인의 미숙한 관심 따위를 받고 스스로의 격을 떨어뜨리진 않을 것이오. 그녀에게서 거리를 유지하던지, 그렇지 않다면 그 대가를 치뤄야 할 것이오!
-str_comment_player_suggestion_succeeded|나는 당신의 제안을 따랐고, 당신의 충고로 많은 이익을 볼 수 있었소.
-str_comment_player_suggestion_failed|나는 당신의 제안을 따랐고, 재앙을 만나게 되었소. 나는 당신의 책임을 물을 것이오.
+str_comment_you_let_go_a_lord_allied_upstanding|{s54}를 풀어주었다지. 명예로운 결정이긴 했지만, 동시에 아주 위험한 짓이기도 하오. 다음번엔 그냥 붙잡아 두시오.
+str_comment_you_let_go_a_lord_allied_coldblooded|{s54}를 풀어주었다지. 기사도 정신은 훌륭하다만, 기사도가 전쟁에서 승리할 수 있게 해 주진 않소. 다음엔 포로로 잡으시오.
+str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|당신이 {s54}를 풀어주었다지. 참으로 기사도적이군! 놈이 지나간 자리에 남겨질 과부들과 고아들이 당신에게 직접 감사를 표하러 오겠어!
+str_comment_you_let_go_a_lord_allied|{s54}를 사로잡고 풀어주었다는 소식을 들었소. 뭐, 포로를 어떻게 처리하든 자네 마음이니 내가 참견할 일은 아니지만 말이오.
+str_comment_you_let_me_go_spiteful|지난번에 당신은 나를 살려주었지. 쥐를 데리고 노는 고양이처럼 즐긴 것이오? 하지만 조만간 내가 당신을 사로잡아, 내 취향대로 죽이거나 굴욕을 주며 그 즐거움을 되갚아주겠소.
+str_comment_you_let_me_go_enemy_chivalrous|지난번에 당신은 자비를 베풀어 나를 풀어주었소. 그 기사도 정신은 잊지 않겠소. 하지만 나는 주군에게 맹세한 몸이고, 우리 왕국은 여전히 전쟁 중이라는 사실을 잊어서는 안 되오. 우리는 여전히 적이오.
+str_comment_you_let_me_go_enemy_coldblooded|지난번에 당신은 나를 풀어주었소. 하지만 우리는 여전히 적이고, 나 또한 똑같은 자비를 베풀 것이라고는 약속할 수 없소.
+str_comment_you_let_me_go_enemy|지난번에 당신이 나를 풀어준 것은 참으로 관대한 처사였소. 비록 우리가 전쟁 중이긴 하지만 말이오.
+str_comment_you_let_me_go_default|지난번에 나를 풀어준 당신의 관대함에 감사하오. 이제 우리 왕국들이 더 이상 전쟁 중이 아니라는 사실이 정말 기쁘구려.
+str_comment_pledged_allegiance_allied_martial_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 평소 당신이 보여준 그 비겁한 행실로 우리를 망신시키지나 말아달라고 빌겠소.
+str_comment_pledged_allegiance_allied_martial|당신이 우리 주군인 {s54}께 충성을 맹세했다는 소식을 들었소. 전장에서 당신과 함께 적들에 맞서 싸울 날을 고대하겠소.
+str_comment_pledged_allegiance_allied_quarrelsome_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 흥. 서로 귀찮은 일 없게 내 눈앞에 띄지 않는 게 좋을 것이오.
+str_comment_pledged_allegiance_allied_quarrelsome|당신이 우리 주군인 {s54}께 충성을 맹세했다더군. 적들과 열심히 싸우고, 윗사람을 공경하도록 하시오. 나를 거스르지만 않는다면 우린 잘 지낼 수 있을 것이오.
+str_comment_pledged_allegiance_allied_selfrighteous_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 내가 왕이었다면 당신 같은 작자는 주방 청소부로도 쓰지 않았을 것인데 말이오.
+str_comment_pledged_allegiance_allied_selfrighteous|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 용감히 싸우면 보상받을 것이고, 배신한다면 결코 잊지 못할 본보기가 될 것이오.
+str_comment_pledged_allegiance_allied_cunning_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 그분의 결정이 마냥 기쁘지는 않지만, 적보다 아군일 때 유익하다는 것을 부인할 순 없겠군.
+str_comment_pledged_allegiance_allied_cunning|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 이 혼란스러운 시기에 숙련된 전사는 많을수록 좋으니까. 당신이 어떻게 처신하는지 지켜보겠소.
+str_comment_pledged_allegiance_allied_debauched_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 의심할 것도 없이 당신은 우리를 배신하겠지만 말이오. 덕분에 배신자의 최후를 구경하는 즐거움이 생기겠군.
+str_comment_pledged_allegiance_allied_debauched|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 훌륭해... 우리가 아주 친한 친구가 될 것 같은 예감이 드오. 하지만 잊지 마시오. 만약 당신이 우리를 배신한다면, 그 일이 당신 인생에서 가장 큰 실수가 될 거라는것을.
+str_comment_pledged_allegiance_allied_goodnatured_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 나라면 당신을 신뢰하지 않을 것이오. 하지만 일단은 신뢰를 살 기회를 주겠소.
+str_comment_pledged_allegiance_allied_goodnatured|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 탁월한 선택이오! 우리 주군은 고귀한 영혼을 가진 분이라, 충성과 용맹함에는 언제나 관대하고 친절한 보상으로 답해주신다오.
+str_comment_pledged_allegiance_allied_upstanding_unfriendly|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 오, 신이시여, 나는 당신이 우리에게 불명예가 될까 두렵소. 물론 내 생각이 틀렸다는 것을 증명해준다면 나에게도 더할 나위 없이 기쁜 일이 될 것이오.
+str_comment_pledged_allegiance_allied_upstanding|당신이 우리들의 왕인 {s54}에게 충성 서약을 맹세했다고 들었소. 적들에 맞서 용맹하게 싸우되, 명예와 자비 또한 잃지 마시오. 무기를 다루는 자에게 있어 명예로운 이름은 예리한 칼날이나 날랜 군마만큼이나 가치 있는 법이니까 말이오.
+str_comment_our_king_granted_you_a_fief_allied_friendly_cruel|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 잊지 마시오. 매를 아끼면 평민들은 금방 기어오르는 습성이 있다는 것을!
+str_comment_our_king_granted_you_a_fief_allied_friendly_cynical|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 당신이 출세하는 것은 보기 좋네만, 조심하시오. 인간이란 독사와 같아서 이웃의 재산을 시기하고 탐내는 법이오. 나와 가까이 지내는 게 좋을 것이오 그러면 내가 당신의 뒤를 봐 주겠소.
+str_comment_our_king_granted_you_a_fief_allied_friendly|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 새로운 영지에 번영이 깃들기를 빌겠소.
+str_comment_our_king_granted_you_a_fief_allied_unfriendly_upstanding|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 하지만 자만이 곧 몰락의 전조임을 잊지 마시오.
+str_comment_our_king_granted_you_a_fief_allied_unfriendly_spiteful|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 하지만 운명이 당신을 높이 들어올리는 것은, 당신이 원래 있던 오물 속으로 다시 처박을 때 더 큰 굴욕을 주기 위함일지도 모르오.
+str_comment_our_king_granted_you_a_fief_allied_spiteful|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 당신이 정말로 그분의 은혜를 입을 자격이 있는 자인지 두고 보겠소.
+str_comment_our_king_granted_you_a_fief_allied|우리들의 왕인 {s54}(이)가 당신에게 {s51}을(를) 영지로 수여했다고 들었소. 출세길이 열렸군!
+str_comment_you_renounced_your_alliegance_enemy_friendly|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 이제 우리가 전장에서 칼을 맞대야 한다는 사실이 참으로 가슴 아프구려.
+str_comment_you_renounced_your_alliegance_friendly|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 부디 우리가 서로 주먹다짐하는 일은 없기를 빌 뿐이오.
+str_comment_you_renounced_your_alliegance_unfriendly_spiteful|당신이 언젠가 {s54}을(를) 배신할 줄은 알고 있었소. 내 예상이 딱 맞았군. 이제 반역자다운 최후를 맞이할 준비나 하시오!
+str_comment_you_renounced_your_alliegance_unfriendly_moralizing|당신이 우리들의 왕인 {s54}에게서 충성 서약을 철회했다고 들었소. 이제 당신을 반역자로 간주할 수밖에 없겠군.
+str_comment_you_renounced_your_alliegance_enemy|당신이 우리들의 왕인 {s54}에게서 떠났다는 소식을 들었소. 뭐, 어제의 동료가 오늘의 적이 되는 것이 이 세상 이치 아니겠소.
+str_comment_you_renounced_your_alliegance_default|당신이 우리들의 왕인 {s54}에게서 떠났다는 소식을 들었소. 그건 당신의 결정이지만, 전장에서 우리가 적으로 만났을 때. 쉽게 보내주리란 생각은 접어두는 것이 좋을 것이오.
+str_comment_you_claimed_the_throne_1_player_liege|내 정보원들에 따르면, 이 나라의 몇몇 이들이 당신을 차기 국왕으로 떠받들고 있다더군. 당신이라면 그런 부질없고 위험한 소문을 즉시 잠재울 것이라 믿겠소.
+str_comment_you_claimed_the_throne_2_player_liege|내 정보원들이 보고하길, 당신의 동료들이 평민들에게 자네가 왕좌를 차지할 권리가 있다고 떠들고 다닌다더군. 진심으로 바라건대, 그게 당신의 지시가 아니었으면 좋겠군.
+str_comment_lord_intervened_against_me|내가 {s54}와 다투었다는 건 널리 알려진 사실이고, {s50}은 내 라이벌의 손을 들어주었지.
+str_comment_i_protested_marshal_appointment|{s54}께서 {s51}을 원수로 임명했을 때 내가 강력히 반대했다는 건 다들 아는 일이지.
+str_comment_i_blamed_defeat|내가 {s54}께 불만을 품은 건 당연한 일이지. 우리를 {s56}에게 패배하게 만든 장본인인 {s51}을 감싸고 돌다니 말이야.
+str_comment_i_was_entitled_to_fief|내게 돌아왔어야 할 {s51} 영지를 {s54}가 가로챈 것에 대해 내가 실망했다는 건 공공연한 사실이지.
+str_comment_i_quarreled_with_troop_over_woman|내가 {s54}에게 구혼하는 동안 {s51} 그자가 그녀에게 수작을 부렸다는 건 다들 알지. 놈은 그녀의 관심을 받을 자격이 없어. 그녀에게서 떨어지라고 똑똑히 가르쳐줄 생각이오.
+str_comment_i_quarreled_with_you_over_woman_default|당신이 {s54}에게 구애하고 있다는 소문을 들었소. 당신은 그녀처럼 아름다운 숙녀에게 어울리는 자가 아니니, 당장 포기하는 게 좋을 거요.
+str_comment_i_quarreled_with_you_over_woman_derisive|자네가 {s54}에게 수작을 걸고 있다더군. 한마디 하겠는데, 그녀는 내가 어릴 적부터 눈독 들여온 사람이오. 이 나라의 고귀한 혈통인 그녀가 어디서 굴러먹던 이방인의 저급한 관심을 받으며 격을 떨어뜨려서야 되겠소? 당장 떨어지시오, 아니면 그 대가를 치르게 될 것이오!
+str_comment_player_suggestion_succeeded|당신의 제안을 따른 덕분에 큰 이익을 볼 수 있었소. 조언 고맙소.
+str_comment_player_suggestion_failed|당신의 제안을 따랐다가 재앙을 맞이하게 되었소!  이 사태는 전적으로 당신 책임이오.
 str_comment_you_enfiefed_a_commoner_hesitant|나는 {s51}을(를) 평민인 {s54}에게 영지로 주었다는 소식을 들었소. 알아두시오, 정치를 배운다는 것은 아무나 할 수 있는 일이 아니오, 그 것은 아버지로부터 아들에게 전해주는 것이 가장 좋소. 당신에게 조언 하나 하자면, 그런 근본도 모르는 자들에게 함부러 영지를 수여하지 않는 게 좋을 것이오.
-str_comment_you_enfiefed_a_commoner_derisive|나는 {s51}을(를) 평민인 {s54}에게 영지로 주었다는 소식을 들었소. 고대인들은 돼지의 가죽으로 왕의 옷을 만들어 우리에게 경고하지 않았소?
+str_comment_you_enfiefed_a_commoner_derisive|당신이 {s54}인지 뭔지 하는 평민놈에게 {s51}을 주었다더군. 옛 성현들이 돼지 껍데기로 왕의 예복을 만들지 말라고 경고하지 않았소?
 str_comment_you_enfiefed_a_commoner_nasty|나는 {s51}을(를) 평민인 {s54}에게 영지로 주었다는 소식을 들었소. 주의하는 게 좋을 것이오! 당신의 개가 당신을 물지 않게 말이지.
-str_comment_marriage_normal_family|자내가 내 {s11}인 {s50}와(과) 결혼한 것을 정말로 축하하오. 당신은 이제 우리를 가족이라 생각해도 될 것이오.
-str_comment_marriage_normal|{s50}와(과) 결혼한 것에 대해 정말로 축하하오. 이 소식은 당신 부부에게 신뢰를 주게 만들었소.
-str_comment_marriage_normal_nasty|글쎄 -- 당신이 {s50}와(과) 결혼했다는 것을 들었소. 그녀는 언제나 바보 같은 선택을 하는군. 조만간 그녀는 그 어리석음에 대한 대가를 치룰 것이오.
-str_comment_marriage_elopement_family|글쎄, 당신이 어떻게 내 {s11} {s50}을(를) 유혹해서 결혼했는지는 모르겠지만, 우리 가문의 사람들은 이 모욕적인 일을 결코 잊지 않을 것이오.
-str_comment_marriage_elopement_liege|내가 듣기로는 자네가 {s50}와(과) 야반 도주를 했다고 하더군, 그녀의 가족들의 뜻에 반해서 말이야. 이번 일은 별로 기분 좋은 일은 아니군. 그녀의 가문은 이 왕국의 위대한 영주의 가문이네, 나는 그들이 얼간이 같은 대우를 받는 것을 그다지 보고 싶지 않네.
-str_comment_you_broke_truce_as_my_vassal|당신은 내 신뢰를 배신했소. {s55}을(를) 공격하다니, 이 사건이 나를 어떤 모습으로 보이게 만들었는지 알고 있소? 만약 당신이 내 사람이었다면, 내가 불명예를 지워줄 수 있었을 터인데, 하지만... 그럴 수 없으니, 나는 약해 보일 수밖에 없소. 지금도 나는 갈등하고 있소, 여기서 당신을 묻어 버릴지 말 것인지에 대해서 말이오.
-str_comment_you_attacked_neutral_as_my_vassal|나는 당신이 {s55}을(를) 공격했다고 들었소. 만약 그들이 그것을 원하고 있다면... 당신은 그들을 공격한 것에 대해, 그들에게 용서를 구해야 할 것이오. 우리는 이 일로 무엇이 일어나는지 지켜볼 것이오. 그러나, 오늘 일의 죄값을 당신은 어떤 방식으로든 치뤄야 할 것이오!
+str_comment_marriage_normal_family|내 {s11}인 {s50}와(과) 결혼한 것을 정말로 축하하오. 당신은 이제 우리 가문의 일원이 되었소!
+str_comment_marriage_normal|{s50}와 결혼한 것을 축하하오. 두 분의 앞날에 신뢰가 가득하길 빌겠소.
+str_comment_marriage_normal_nasty|당신이 {s50}와 결혼했다지. 그녀는 항상 보는 눈이 없더니, 결국 그런 바보같은 선택을 하는군. 조만간 그 선택에 대한 대가를 치르게 될 것이오.
+str_comment_marriage_elopement_family|어떻게 내 {s11} {s50}를 꾀어내어 결혼했는지는 모르겠지만, 우리 가문은 이 모욕을 결코 잊지 않을 것이오.
+str_comment_marriage_elopement_liege|당신이 그녀 가족들의 반대를 무릅쓰고 {s50}와 야반도주를 했다더군. 기분이 썩 좋지 않군. 그녀의 가문은 이 나라의 권세가들인데, 그들을 바보로 만드는 짓은 보고 싶지 않소.
+str_comment_you_broke_truce_as_my_vassal|당신이 {s55}를 공격해 휴전 협정을 깼다는 소리를 들었소. 이게 내 체면을 얼마나 깎아먹는지 알고나 있소? 당신이 내 명령으로 움직였다면 난 비열한 놈이 되는 거고, 아니었다면 난 무능한 놈이 되는 셈이오. 지금도 나는 갈등하고 있소, 여기서 당신을 반역죄로 묻어 버릴지 말 것인지에 대해서 말이오.
+str_comment_you_attacked_neutral_as_my_vassal|당신이 {s55}의 백성들을 공격했다더군. 만약 그들이 우리를 벼르고 있었다면 당신이 놈들에게 나를 공격할 빌미를 열어준 셈이 되었소! 이 일로 어떤 일이 일어나는지 지켜봐야 할 것이오. 그리고 이번 일의 대가는 어떤 방식으로든 치루게 될 것이오.
 str_personality_archetypes|군주
 str_martial|호전적인
 str_quarrelsome|성질이 나쁜
@@ -1244,60 +1244,60 @@ str_upstanding|훌륭한
 str_roguish|짓궂은
 str_benevolent|자애로운
 str_mercantile|계산적인
-str_surrender_demand_default|항복하던가, 항복하기 싫다면 당신은 죽어야 할 것이오!
-str_surrender_demand_martial|오늘 당신에게 호의를 베풀기를 기대하지 마시오. 우리와 싸우게 되겠지만, 항복한다 해도 그건 창피한 일이 아니오.
+str_surrender_demand_default|항복하시오, 아니면 죽음 뿐이오!
+str_surrender_demand_martial|오늘 당신에겐 승산이 없겠군. 우리와 싸워도 좋지만, 지금 항복한다고 해서 부끄러울 건 없소.
 str_surrender_demand_quarrelsome|드디어 궁지에 몰아넣었군. 단념하시오, 그렇지 않으면 당신을 붙잡아 개처럼 끌고 다니겠소.
 str_surrender_demand_pitiless|나를 이길 순 없을 거요, 승복하지 못하겠다면 고통스러운 가르침을 주도록 하지. 무릎 꿇으시오!
-str_surrender_demand_cunning|오늘은 상대하기 훨씬 낫군. 항복하시오! -- 당신의 명예를 위한게 아니더라도 당신의 부하들을 생각하시오!
+str_surrender_demand_cunning|오늘은 내가 유리하군. 항복하시오! 당신의 명예는 몰라도 부하들의 목숨은 지켜야 할 것 아니겠소.
 str_surrender_demand_sadistic|항복하시오, 그렇지 않으면 생선처럼 내장을 발라 버리겠소!
-str_surrender_demand_goodnatured|오늘은 우리가 유리하오. 항복하시오, 그러면 잘 처우해 드리겠소.
-str_surrender_demand_upstanding|우리와 싸운다면, 많은 당신 부하들이 죽을 것이고, 결국엔 당신이 패배할 것이오. 항복하시오, 불필요하게 피를 흘리지 맙시다.
-str_surrender_offer_default|멈추시오! 내가 졌소! 무기를 내려 놓으시오! 내가 졌소!
-str_surrender_offer_martial|내가 졌소! 내가 졌어! 그만! 내가 졌소!
+str_surrender_demand_goodnatured|오늘은 우리가 유리하오. 항복하시오, 그러면 정중히 대접하겠소.
+str_surrender_demand_upstanding|싸워봤자 당신의 부하들만 죽고 결국 패배하게 될 것이오. 항복하시오, 불필요한 피를 뿌리게 하지 마시오.
+str_surrender_offer_default|멈추시오! 항복하겠소!
+str_surrender_offer_martial|그만! 내가 졌소!
 str_surrender_offer_quarrelsome|이제 그만! 오늘은 당신이 이겼소! 부끄럽군!
 str_surrender_offer_pitiless|항복하겠소! 당신이 이겼소. 저주받은 날이구만!
 str_surrender_offer_cunning|멈추시오! 항복하겠소!
-str_surrender_offer_sadistic|항복하겠소! 항복이요! 병사들을 물러 주시오!
+str_surrender_offer_sadistic|항복하겠소! 항복이요! 이 사냥개들을 물러 주시오!
 str_surrender_offer_goodnatured|항복하겠소, {reg59?부인:경}의 승리를 축하하겠소!
-str_surrender_offer_upstanding|항복하겠소! 전장의 예를 갖춰주시오. 그리고 자신의 명성을 지키시오.
+str_surrender_offer_upstanding|항복하겠소! 내게 전장의 예우를 갖추어 자네의 명성을 지키길 바라오.
 str_lord_declines_negotiation_offer_default|그럴 지도 모르지. 그러나 난 당신과 싸우고 싶군.
-str_lord_declines_negotiation_offer_martial|그럴 지도 모르지, 허나 나의 의무는 그대와 싸우는 것이오.
+str_lord_declines_negotiation_offer_martial|그럴지도 모르겠으나, 당신과 싸우는 것이 나의 의무요.
 str_lord_declines_negotiation_offer_quarrelsome|하! 난 당신과 싸우고 싶은데?
-str_lord_declines_negotiation_offer_pitiless|그걸 내가 왜 신경써야되지? 난 당신과 싸우고 싶은데.
+str_lord_declines_negotiation_offer_pitiless|그걸 내가 왜 신경 써야 하지? 난 당신과 싸우고 싶을 뿐이오.
 str_lord_declines_negotiation_offer_cunning|아, 저런.... 그런데 어쩌나, 난 당신과 싸우고 싶은 걸.
-str_lord_declines_negotiation_offer_sadistic|혓바닥 놀리지 마라! 잠시 후에는 자비를 구하기 위해 그 혀를 놀려야 될 테니.
-str_lord_declines_negotiation_offer_goodnatured|유감이오 -- 하지만, 당신이 도망가게 그냥 둘 수는 없소. 나쁘게 생각하진 않을 것이라 믿소.
-str_lord_declines_negotiation_offer_upstanding|그럴 지도 모르지. 그러나 당신과 싸우는 것은 내 주군에 대한 의무요.
-str_prisoner_released_default|{reg59?부인:경}의 호의에 감사드리요. 당신의 호의를 잊지 않겠소.
-str_prisoner_released_martial|당신은 진정 명예로운 {reg59?여자:남자}로군! 이 일은 잊지 않겠소.
-str_prisoner_released_quarrelsome|자유라고? 음... 그러면 잘 있으시오.
-str_prisoner_released_pitiless|고맙네, 당신이 끝끝내 패배하게 될때 나는 당신에게 신속하고 자비로운 죽음을 줄 것이오. 당신이 우리 편이 되지 않는다고 한다면 말이오. 잘 있으시오, 일단 지금은 말이오.
-str_prisoner_released_cunning|나를? 당신은 좋은 사람이군. 보답할 방법을 찾아보도록 하겠소.
-str_prisoner_released_sadistic|나를 풀어준다고? 이 얼마나 잔혹한가. 나를 포로로 잡는 것보다 풀어주고 굴욕을 주는 것이 더 낫다는 것이군. 그럼 당신의 승리를 즐겨 두시오.
-str_prisoner_released_goodnatured|당신은 진정 명예로운 {reg59?여자:남자}로군! 이 일은 잊지 않겠소.
-str_prisoner_released_upstanding|당신은 진정 명예로운 {reg59?여자:남자}로군! 이 일은 잊지 않겠소.
-str_enemy_meet_default|나에게 대항하려 하는 당신은 누구신가?
-str_enemy_meet_martial|{reg59?부인:경}, 이름이 무엇이오? 우리가 싸워야 된다면, 내가 싸워야 할 상대에 대해 알고 싶소.
-str_enemy_meet_quarrelsome|네놈은 도대체 누구야?
-str_enemy_meet_pitiless|당신은 누구요? 말해보시오, 그래야 내가 죽인 사람이 누군지 알 수 있지.
-str_enemy_meet_cunning|이름을 말해보시오. 그게 당신의 적을 알기 위한 가장 좋은 방법이 아니겠소.
-str_enemy_meet_sadistic|넌 누구냐? 빨리 말하거라, 내놈의 혀를 잘라 버리기 전에...
-str_enemy_meet_goodnatured|{reg59?부인:경}, 이름이 무엇이오? 우리가 싸워야 된다면, 내가 싸울 상대에 대해 알고 싶군.
-str_enemy_meet_upstanding|누구의 정의가 옳은지 가리기 위해 무기를 들고 오는 당신은 누구시오?
-str_battle_won_default|오늘 당신은 나의 가장 중요한 동맹이 누구인가를 당신 스스로 보여주었소.
+str_lord_declines_negotiation_offer_sadistic|혓바닥 놀리지 마시오! 잠시 후에는 자비를 구하기 위해 그 혀가 아주 바빠질 테니.
+str_lord_declines_negotiation_offer_goodnatured|유감이오. 하지만 당신을 그냥 보내줄 수는 없소. 개인적인 감정은 없소.
+str_lord_declines_negotiation_offer_upstanding|그럴지도 모르오. 하지만 주군에 대한 의무를 다하기 위해 당신과 싸워야만 하오.
+str_prisoner_released_default|{reg59?부인:경}의 호의에 감사드리오. 이 친절을 잊지 않겠소.
+str_prisoner_released_martial|당신은 진정 명예를 아는 {reg59?여자:남자}로군! 이 은혜는 결코 잊지 않겠소.
+str_prisoner_released_quarrelsome|풀어주겠다고? 음... 그러면 잘 있으시오.
+str_prisoner_released_pitiless|고맙소. 당신이 결국 패배할 때, 자비롭고 빠른 죽음을 빌어주겠소. 우리 편에 서지 않겠다면 말이오. 일단은 잘 있으시오.
+str_prisoner_released_cunning|나를 풀어주겠다고 말했소? 당신 참 괜찮은 사람이군. 어떻게든 보답할 길을 찾아보겠소.
+str_prisoner_released_sadistic|나를 풀어준다고? 참으로 지독한 잔인함이로군. 사슬에 묶는 것보다 풀어줘서 모욕을 주겠다는 건가. 뭐, 그 승리를 마음껏 즐겨두시오.
+str_prisoner_released_goodnatured|당신은 진정 명예를 아는 {reg59?여자:남자}로군! 이 은혜는 결코 잊지 않겠소.
+str_prisoner_released_upstanding|당신은 진정 명예를 아는 {reg59?여자:남자}로군! 이 은혜는 결코 잊지 않겠소.
+str_enemy_meet_default|무기를 들고 나를 가로막는 당신은 누구요?
+str_enemy_meet_martial|{reg59?부인:경}, 성함이 어찌 되시오? 합을 겨루게 된다면 상대가 누구인지는 알아야 하지 않겠소.
+str_enemy_meet_quarrelsome|당신은 대체 누구요?
+str_enemy_meet_pitiless|당신은 누구요? 이름을 말하시오. 그래야 내가 죽인 사람이 누군지 알 수 있지.
+str_enemy_meet_cunning|이름을 밝히시오. 적이 누구인지 아는 것이 승리의 첫걸음 아니겠소.
+str_enemy_meet_sadistic|당신은 누구요? 혓바닥을 잘라내기 전에 얼른 말하는 게 신상에 좋을 것이오.
+str_enemy_meet_goodnatured|{reg59?부인:경}, 이름이 무엇이오? 싸우게 된다면 누구와 싸우는지 정도는 알고 싶구려.
+str_enemy_meet_upstanding|우리 대의에 맞서 무기를 들고 나타난 당신은 누구요?
+str_battle_won_default|오늘 당신은 나의 가장 중요한 동맹이 누구인가를 당신 스스로 증명했소.
 str_battle_won_martial|전장에서 무기를 들고 자신의 용기를 보여주는 것만큼 더 값진 것은 없소!
-str_battle_won_quarrelsome|하하! 우리는 저 놈들에게 단단히 본때를 보여 주었소, 그렇지 않소?
-str_battle_won_pitiless|우리 같이, 적들이 우리의 이름만 들어도 두려워하고, 우리가 오면 겁먹도록 따끔히 가르쳐줬군!
-str_battle_won_cunning|자 이제, 우리는 전리품을 가지러 가는 것이 좋겠소, 그래야 오늘 흘린 피가 헛되지 않겠소.
-str_battle_won_sadistic|빠르게 그들의 시신에서 물건을 뒤져내고, 나머지는 까마귀 떼에 맡기고 떠나는게 어떻겠소, 그럼 우리에게 대항하는 자들의 숙명이 어떤지 모두가 알게 될 것이오.
-str_battle_won_goodnatured|멋진 싸움이었소! 승리의 기쁨처럼 기쁜 것은 없지 않소, 안 그렇소?
-str_battle_won_upstanding|이제, 우리의 승리를 신에게 감사드리는 게 좋겠소, 그리고 오늘, 우리를 위해 쓰러져 간 숫한 전사들을 위해 기도해야만 할 것이오.
-str_battle_won_grudging_default|당신은 오늘 전장의 형세를 뒤바꿔 놓았소! 어쨌든, 당신의 용기는 흠 잡을 데가 없소.
-str_battle_won_grudging_martial|{playername} -- 오늘 당신이 지난 날에 무슨 일이 있었던 간에, 당신은 전사로서 훌륭한 모범을 보여 주었소.
-str_battle_won_grudging_quarrelsome|흠, 나는 당신을 평소에 별로 보고 싶지는 않았지만, 오늘은 도와줘서 고맙소.
-str_battle_won_grudging_pitiless|오늘 당신의 도움은 정말 고마웠소. 당신이 날 구해주러 온 그 친절의 깊이는 나로선 감히 상상할 수 없을 정도지만, 고맙다는 인사 밖에 해줄 수 있는 말이 없군.
-str_battle_won_grudging_cunning|나를 제 시간에 도우러 온 것에 감사하지는 않겠소, 그건 현명하지 못한 생각이었으니까. 그래도... 고맙소.
-str_battle_won_grudging_sadistic|좋았소! 나를 구하러 와주다니 감동적이었소, {playername}!
+str_battle_won_quarrelsome|하하! 저 자식들에게 본때를 보여줬군, 안 그렇소?
+str_battle_won_pitiless|우리가 함께라면 적들은 우리 이름만 들어도 벌벌 떨며 도망치게 될 것이오!
+str_battle_won_cunning|자, 이제 승기를 굳히러 갑시다. 오늘 흘린 피가 헛되지 않도록 말이오.
+str_battle_won_sadistic|이제 시신을 거두고 나머지는 까마귀 밥으로 던져두고 떠납시다. 우리를 거스르는 자들의 운명이 어떠한지 모두가 알게 말이오.
+str_battle_won_goodnatured|멋진 한 판이었소! 역시 승리의 기쁨만큼 달콤한 건 없지, 안 그렇소?
+str_battle_won_upstanding|자, 이제 하늘에 감사를 올립시다. 그리고 오늘 우리를 위해 쓰러져간 용사들을 추모합시다.
+str_battle_won_grudging_default|당신이 오늘 전장의 형세를 뒤바꿔 놓았소! 당신에 대한 내 생각이 어떻든, 용맹함만큼은 흠잡을 데가 없다는 것을 인정하겠소.
+str_battle_won_grudging_martial|{playername} -- 과거에 당신이 무슨 짓을 했든 간에, 오늘만큼은 진정한 전사의 표본을 보여주었소.
+str_battle_won_grudging_quarrelsome|흠. 평소에 보고 싶지 않은 얼굴이다만, 오늘은 도와줘서 고맙다고 해두겠소.
+str_battle_won_grudging_pitiless|오늘 도움은 아주 유용했소. 당신이 나를 생각해서 구하러 왔다고는 생각지 않지만, 어쨌든 고맙소.
+str_battle_won_grudging_cunning|감사 인사를 하지 않는 것도 현명하지 않은 처사겠지... 제때 도와주러 와주어서 고맙게 생각하오.
+str_battle_won_grudging_sadistic|오! 정말 감동적이구먼! {playername}이 나를 구하러 오다니 말이야!
 str_battle_won_grudging_goodnatured|{playername}! 우리는 잠깐 전에 도망치려고 시도하려 했는데, 나는 이에 대해 뭐라고 말해야 할 지 모르겠소. 하지만 당신은 오늘 잘 싸웠소. 당신에게 감사하오!
 str_battle_won_grudging_upstanding|아마도 내가 당신을 잘못 생각했하고 있었나 보오. 당신이 온 시간은 아주 절묘한 순간이었소. 당신에게 감사를 표하오.
 str_battle_won_unfriendly_default|당신은 지금 이 곳에 왔소. 음, 그래도 아예 안 오는 것보다는 늦게라도 오는 게 낫겠지.
