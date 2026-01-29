@@ -1,4 +1,4 @@
-﻿imod_plain|평범한 %s
+imod_plain|평범한 %s
 imod_cracked|금이 간 %s
 imod_rusty|녹슨 %s
 imod_bent|구부러진 %s
@@ -27,13 +27,13 @@ imod_thick|두꺼운 %s
 imod_hardened|단단한 %s
 imod_reinforced|강화된 %s
 imod_superb|최상급 %s
-imod_lordly|위엄있는 %s
+imod_lordly|위엄 있는 %s
 imod_lame|절름발이 %s
 imod_swaybacked|등 굽은 %s
 imod_stubborn|고집 센 %s
 imod_timid|겁 많은 %s
 imod_meek|온순한 %s
-imod_spirited|기운찬 %s
+imod_spirited|기운 찬 %s
 imod_champion|챔피언 %s
 imod_fresh|신선한 %s
 imod_day_old|하루 지난 %s
