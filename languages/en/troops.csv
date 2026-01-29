@@ -1,4 +1,4 @@
-﻿trp_multiplayer_profile_troop_male|멀티플레이어 남성 프로필
+trp_multiplayer_profile_troop_male|멀티플레이어 남성 프로필
 trp_multiplayer_profile_troop_male_pl|멀티플레이어 남성 프로필
 trp_multiplayer_profile_troop_female|멀티플레이어 여성 프로필
 trp_multiplayer_profile_troop_female_pl|멀티플레이어 여성 프로필
@@ -150,8 +150,8 @@ trp_saxon_standard_bearer|색슨 기수(타큰베렌드)
 trp_saxon_standard_bearer_pl|색슨 기수(타큰베렌드)
 trp_saxon_priest|색슨 성직자
 trp_saxon_priest_pl|색슨 성직자
-trp_scotch_peasant|알반 소작농(바클라흐)
-trp_scotch_peasant_pl|알반 소작농(바클라흐)
+trp_scotch_peasant|알반 소작농(바흘라흐)
+trp_scotch_peasant_pl|알반 소작농(바흘라흐)
 trp_scotch_bowman|알반 척후병(피디어)
 trp_scotch_bowman_pl|알반 척후병(피디어)
 trp_scotch_level0_skirmisher|알반 정예 척후병(사이크토르)
@@ -192,7 +192,7 @@ trp_angle_level2_landed|앵글 정예 창병(켐파)
 trp_angle_level2_landed_pl|앵글 정예 창병(켐파)
 trp_angle_level3_landed|앵글 귀족(데인)
 trp_angle_level3_landed_pl|앵글 귀족(데인)
-trp_angle_level0_companion|앵글 전시(게네아트)
+trp_angle_level0_companion|앵글 전사(게네아트)
 trp_angle_level0_companion_pl|앵글 전사(게네아트)
 trp_angle_level1_companion|앵글 숙련 전사(게시스)
 trp_angle_level1_companion_pl|앵글 숙련 전사(게시스)
@@ -204,8 +204,8 @@ trp_angle_standard_bearer|앵글 기수(타큰베렌드)
 trp_angle_standard_bearer_pl|앵글 기수(타큰베렌드)
 trp_angle_priest|앵글 성직자
 trp_angle_priest_pl|앵글 성직자
-trp_irish_slave|에리우 농노(셴클레이테)
-trp_irish_slave_pl|에리우 농노(셴클레이테)
+trp_irish_slave|에리우 농노(센흘레이테)
+trp_irish_slave_pl|에리우 농노(센흘레이테)
 trp_irish_bowman|에리우 척후병(페르 미드보흐)
 trp_irish_bowman_pl|에리우 척후병(페르 미드보흐)
 trp_irish_level0_skirmisher|에리우 숙련 척후병(케테르나흐)
@@ -1891,7 +1891,7 @@ trp_bodo_falso_pl|보도
 trp_your_tutorialwife|어머니
 trp_your_tutorialwife_pl|어머니
 trp_your_motherold|늙은 어머니
-trp_your_motherold_pl|눍은 어머니
+trp_your_motherold_pl|늙은 어머니
 trp_ulf_thefarmer|울프
 trp_hija_granja|소라
 trp_hija_granja_pl|소라
@@ -1993,8 +1993,8 @@ trp_angle_peasant_ai|앵글 농부(게부르)
 trp_angle_peasant_ai_pl|앵글 농부(게부르)
 trp_briton_peasant_ai|브리튼 농노(아일트)
 trp_briton_peasant_ai_pl|브리튼 농노(아일트)
-trp_irish_peasant_ai|에리우 농노(센흘레이허)
-trp_irish_peasant_ai_pl|에리우 농노(센흘레이허)
+trp_irish_peasant_ai|에리우 농노(센흘레이테)
+trp_irish_peasant_ai_pl|에리우 농노(센흘레이테)
 trp_scotch_peasant_ai|픽트 농부(바흘라흐)
 trp_scotch_peasant_ai_pl|픽트 농부(바흘라흐)
 trp_fake_berserker|광전사(베르세르크르)
