@@ -1680,7 +1680,7 @@ str_auto_team_balance_in_20_seconds|오토밸런스가 20초 안에 완료됩니
 str_auto_team_balance_next_round|다음 라운드에 오토밸런스를 완료합니다.
 str_auto_team_balance_done|오토밸런스가 완료되었다.
 str_s1_won_round|{s1}이 라운드에서 승리했다!
-str_round_draw|시간이 초과됬다. 무승부입니다.
+str_round_draw|시간이 초과됐다. 무승부입니다.
 str_round_draw_no_one_remained|아무도 남아있지 않다. 무승부입니다!
 str_death_mode_started|서둘러서 전장의 마스터가 되십시오!
 str_reset_to_default|기본 설정으로 초기화
@@ -2097,7 +2097,7 @@ str_i_dont_even_have_a_home_to_which_to_return|나는 돌아갈 영지조차 없
 str__i_am_acting_independently_because_no_marshal_is_appointed| 나는 독립적으로 행동하고 있소, 왜냐하면 아직 총사령관이 정해지지 않았기 때문이오.
 str__i_am_acting_independently_because_our_marshal_is_currently_indisposed| 나는 독립적으로 행동하고 있소, 왜냐하면 우리의 총사령관은 현재 부상 당했기 때문이오.
 str__i_am_acting_independently_because_our_realm_is_currently_not_on_campaign| 나는 독립적으로 행동하고 있소, 왜냐하면 우리 왕국은 현재 아무런 군사 작전도 하고 있지 않기 때문이오.
-str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_disaster| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 그가 우리를 재앙으로 이끌고 있다고 걱정하고 있기 떄무닝오.
+str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_disaster| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 그가 우리를 재앙으로 이끌고 있다고 걱정하고 있기 때문이오.
 str_i_am_not_accompanying_the_marshal_because_i_question_his_judgment| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 솔직히, 그의 판단력이 의심스럽소.
 str_i_am_not_accompanying_the_marshal_because_i_can_do_greater_deeds| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 더 중요한 일을 해야 하기 때문이오.
 str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend| {s16}은(는) 군사 작전을 너무 오랫동안 하고 있소, 그리고 내가 관심을 가져야 하는 다른 중요한 문제들이 있소.
@@ -2582,7 +2582,7 @@ str_we_will_gather_the_army_but_not_ride_until_we_have_an_objective|우리는 �
 str_we_shall_lay_siege_to_an_easy_fortress_to_capture|우리는 그들의 가장 취약한 요새에 병력을 집중하고 있소.
 str_we_shall_strike_at_the_heart_of_our_foe_and_seize_the_fortress_of_s14|우리는 적에게 가장 큰 피해를 줄 수 있는 공격을 할 것이오.
 str_we_shall_take_the_fortress_of_s14_which_appears_easily_defensible|우리는 방어에 유리한 성채들부터 점령할 것이오.
-str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_battle|우리는 적이 전장으로 나올 떄까지 주변의 비옥한 토지를 약탈할 것이오.
+str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_battle|우리는 적이 전장으로 나올 때까지 주변의 비옥한 토지를 약탈할 것이오.
 str_strategy_criticism_rash|내 생각에 그 작전은 약간 무모한것 같소. 또한 우리 군은 불필요한 위험에 노출될 것이오.
 str_strategy_criticism_cautious|내 생각에 그 작전은 지나치게 신중해서, 아군은 그 어떤 성취도 없이 지루함에 녹아버릴 것만 같소.
 str_tavernkeeper_invalid_quest| 이(가) 어떤 일을 가지고 있지만, 그 세부적인 내용까지 기억하지는 못하는 것 같소.
