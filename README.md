@@ -38,6 +38,8 @@ ex) 캠페인 진행 중 야를 흐로덜프 헤럴드손이 윌리브로드 수
 
 3. 고유 명사 번역 시 기존의 번역 결과를 참조해 주시기 바랍니다.
 
+자세한 품질 기준·수정 절차는 [docs/translation-quality-policy.md](docs/translation-quality-policy.md)를, 과거 수정 제안·적용 이력은 [docs/](docs/) 내 문서(fix-list 등)를 참고하시기 바랍니다.
+
 ### 참여해 주신분
 1. 21garam / hangaramYi [프로젝트 개설자]
 2. 세란카르
