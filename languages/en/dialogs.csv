@@ -1,4 +1,4 @@
-﻿dlga_start:blocked_agent|이 사람은 바빠보인다. 자리를 비켜주는게 나을것 같다...
+dlga_start:blocked_agent|이 사람은 바빠보인다. 자리를 비켜주는게 나을것 같다...
 dlga_blocked_agent:close_window|미안하오. 당신이 하던 일을 방해하려는 뜻은 없었소.
 dlga_blocked_agent:close_window.1|[떠납니다]
 dlga_dog_talk_2:close_window|따라와!
@@ -27,7 +27,7 @@ dlga_start:close_window.3|아, 당신이 {playername}인가 보군. 쏜크릭에
 dlga_start:port_chief_travel|이봐요! 다른 마을로 떠날 생각이오?
 dlga_start:close_window.4|모두가 승선할 때까지 기다려 주시오.
 dlga_port_chief2:port_chief3|무엇이 필요하오?
-dlga_port_chief3:port_chief_fleet1|반갑소. 앵글리아로 향하는 '황소목 스벤'과 '하랄드 하랄드손'의 선단에 합류하러 왔소.
+dlga_port_chief3:port_chief_fleet1|반갑소. 잉글랜드로 향하는 '황소목 스벤'과 '하랄드 하랄드손'의 선단에 합류하러 왔소.
 dlga_port_chief3:port_chief_bodoletter1|얼마 전 아틀리 에이릭손이라는 자가 이 항구를 떠났소. 혹 그가 어디로 향했는지 아시오?
 dlga_port_chief3:port_chief_pieles|호그니에게 가죽을 전했으니 이제 당신 차례요. 아틀리 에이릭손은 어디 있소?
 dlga_port_chief3:port_chief_catach|글렌 다 로흐에서 '콜룸 카일의 시편'을 가져왔소.
@@ -50,8 +50,8 @@ dlga_port_chief_info_d_1:port_chief_info_main|바람이 가장 중요하오! 돛
 dlga_port_chief3:port_chief_travel|다른 항구로 떠나고 싶소.
 dlga_port_chief_travel:close_window|송구하오. 현재 이 항구에는 사령관과 그의 대군을 실어 나를 수 있는 배가 없소.
 dlga_port_chief_travel:close_window.1|송구하오. 현재로서는 당신의 일행과 짐, 그리고 상인의 화물까지 모두 실을 수 있는 배가 없구려.
-dlga_port_chief_travel:port_chief_travel_2|여기서라면 프리지아, 덴마크, 노스비거나 앵글리아로 갈 수 있소. 어디로 가시겠소?
-dlga_port_chief_travel:port_chief_travel_2.1|여기서라면 앵글리아와 에리우로 갈 수 있소. 어디로 가시겠소?
+dlga_port_chief_travel:port_chief_travel_2|여기서라면 프리지아, 덴마크, 노스비거나 잉글랜드로 갈 수 있소. 어디로 가시겠소?
+dlga_port_chief_travel:port_chief_travel_2.1|여기서라면 잉글랜드와 에리우로 갈 수 있소. 어디로 가시겠소?
 dlga_port_chief_travel:close_window.2|미안하오. 지금은 항구에 정박한 선박이 없소.
 dlga_port_chief_travel_2:close_window|생각이 바뀌었소.
 dlga_port_chief_travel_3:port_chief_travel_4|{s1}로 가시겠소? {s2}
@@ -175,7 +175,7 @@ dlga_conversation_companioncamp:beda_conversationcamp1|{reg59?부인:경}, 우�
 dlga_beda_conversationcamp1:beda_conversationcamp2|글쎄요, 제 생각에 데인인들은 세상의 마지막 때에 들이닥친다는 '고그와 마고그'의 무리 같고, 웨식스 왕국은 재림 전의 필연적인 파멸에 맞서 싸우는 최후의 인간 왕국 같습니다.
 dlga_beda_conversationcamp2:beda_conversationcamp3|어... 그 고그와 마고그라는 게 뭔지 설명해 줄 수 있겠소?
 dlga_beda_conversationcamp2:close_window|재미있는 이야기군. 하지만 지금은 그럴 시간이 없소.
-dlga_beda_conversationcamp3:beda_conversationcamp4|오, 그게 말입니다. 성경에서는 고그를 머나먼 북쪽 마고그 땅에서 온 군대의 우두머리로 언급합니다. 에제키엘의 예언에 따르면, 고그는 여러 민족에서 모인 숙련된 전사들로 이루어진 대군을 이끈다고 하지요. 그들은 하느님이 선택한 민족을 공격할 것이며, 온 세상을 뒤흔들 대전쟁이 일어날 것입니다. 앵글리아 전역으로 진격하는 이 수많은 이교도들을 보건대, 바로 지금 그 일이 벌어지고 있는 것 같습니다.
+dlga_beda_conversationcamp3:beda_conversationcamp4|오, 그게 말입니다. 성경에서는 고그를 머나먼 북쪽 마고그 땅에서 온 군대의 우두머리로 언급합니다. 에제키엘의 예언에 따르면, 고그는 여러 민족에서 모인 숙련된 전사들로 이루어진 대군을 이끈다고 하지요. 그들은 하느님이 선택한 민족을 공격할 것이며, 온 세상을 뒤흔들 대전쟁이 일어날 것입니다. 잉글랜드 전역으로 진격하는 이 수많은 이교도들을 보건대, 바로 지금 그 일이 벌어지고 있는 것 같습니다.
 dlga_beda_conversationcamp4:beda_conversationcamp6|일단 지금 당장의 상황에 집중해야 하오. 종말이 온다면, 결코 놓치는 일은 없을 테니 말이오.
 dlga_beda_conversationcamp4:close_window|걱정이 너무 많구려. 난 그런 고민을 할 여유가 없소.
 dlga_beda_conversationcamp6:close_window|그렇군요, 맞는 말씀입니다. 제가 사소한 일에 너무 마음을 썼나 봅니다. 오늘 이 순간을 즐겨야겠군요.
@@ -899,7 +899,7 @@ dlga_companion_questions_beda92:companion_recruit_backstory_response|그거 다�
 dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn1|나는 내 동료를 죽여야만 했고 전쟁을 위한 함대에도 참여해야 하오. 이젠 법관까지 데려가란 말이오?
 dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn2|총회에서 나에게 누군가를 보냈을 것이라는 생각은 했소만, 그게 당신이 될 줄은 몰랐소.
 dlga_companion_recruit_backstory_responseasbjorn:companion_questions_asbjorn6|의사란 말이오? 좋소, 당신이라면 환영이오. 이제 길을 따라서 바이킹 선단에 합류합시다.
-dlga_companion_questions_asbjorn2:companion_questions_asbjorn2_1|{s2}^^총회의 결정에 따라 당신에게 합류하게 된 것은 맞지만, 나도 기쁘게 따를 것입니다. 당신을 통제하는 것이 내 관심사는 아니지만, 일단 당신을 앵글리아의 선단에 합류시켜서 잉글랜드로 보내야 하죠. 그렇지만 그 뒤 부터는 당신도 저를 당신의 부하들을 치료하기 위해 필요한 의사이자 동료로써 봐 주면 좋겠군요.
+dlga_companion_questions_asbjorn2:companion_questions_asbjorn2_1|{s2}^^총회의 결정에 따라 당신에게 합류하게 된 것은 맞지만, 나도 기쁘게 따를 것입니다. 당신을 통제하는 것이 내 관심사는 아니지만, 일단 당신을 잉글랜드로 떠나는 선단에 합류시켜서 잉글랜드로 보내야 하죠. 그렇지만 그 뒤 부터는 당신도 저를 당신의 부하들을 치료하기 위해 필요한 의사이자 동료로써 봐 주면 좋겠군요.
 dlga_companion_questions_asbjorn2_1:companion_questions_asbjorn1|나는 내 동료를 죽여야만 했고 전쟁을 위한 함대에도 참여해야 하오. 이젠 법관까지 데려가란 말이오?
 dlga_companion_questions_asbjorn2_1:companion_questions_asbjorn6|선택의 여지가 없군. 길을 따라서 바이킹 선단에 합류합시다.
 dlga_companion_questions_asbjorn1:companion_questions_asbjorn3|{s2}^^그 일이 쉽지 않은 일이었다는 것은 이해합니다. 하지만 총회가 곧 법이고, 그것이 덴마크는 물론이고 모든 왕국 사이의 균형을 유지하는 역할을 하고 있습니다. 총회의 재판권이 없었다면 무슨 일이 일어났겠 습니까? 호릭 왕과 야를 시구르드 사이에 전쟁이 일어나지 않았겠어요? 총회의 결정에도 불구하고 그런 일이 일어날지도 모르지만 말입니다. 이런 일들이 처음 있는 일도 아니었을 것 입니다.^명예와 진실은 덴마크에서 아주 중요하고, 이 두 가지에 대한 그들의 요구사항을 만족시킬 수 있는 유일한 두 가지 방법이 웨어길드를 지불하거나 피를 흘리는 것 입니다. 같은 땅을 공유해야만 하는 이웃 사이에서 친구와 원수의 경계는 아주 얄팍합니다. 만약 총회가 존재하지 않는다면, 아주 사소한 불평거리 하나로도 매일같이 수백 명이 죽어나가게 되겠죠.
@@ -1032,7 +1032,7 @@ dlga_bodo_choiceside4_2:bodo_choiceside9|아니, 난 지도자고 당신들의 �
 dlga_bodo_choiceside4_s:bodo_choiceside4|할 말이 없군. 다른 이들의 말도 들어보겠소.
 dlga_bodo_choiceside4_s:bodo_choiceside4.1|난 {playername}이 선택한 대로 하겠소.
 dlga_bodo_choiceside4_s:bodo_choiceside4.2|--그는 주목을 끌기 위해 잠시 목을 풀었습니다.--
-dlga_bodo_choiceside4:bodo_choiceside41|미안하지만 저는 이 일을 공정하게 평가할 수가 없습니다. 제 조상과 가족들이 다 바이킹이었거든요. 신께서 우리에게 승리를 넘어선 승리를 보장해주셨기에 우린 부와 명성을 얻을 수 있었습니다. 우리가 상륙해서 행한 이 침략은 앵글리아의 라그나르의 자손들의 족적이었습니다. 이 곳은 부유하고 기름진 땅이었기에 싸울 가치가 충분했죠. 덴마크인들도 침략할 수 있는 것들은 다 침략자 소유라는 것을 알고 있었습니다. 이 땅을 지키고 훌륭한 적수가 되는 것은 이 곳 원주민들의 일이었습니다.
+dlga_bodo_choiceside4:bodo_choiceside41|미안하지만 저는 이 일을 공정하게 평가할 수가 없습니다. 제 조상과 가족들이 다 바이킹이었거든요. 신께서 우리에게 승리를 넘어선 승리를 보장해주셨기에 우린 부와 명성을 얻을 수 있었습니다. 우리가 상륙해서 행한 이 침략은 잉글랜드의 라그나르의 자손들의 족적이었습니다. 이 곳은 부유하고 기름진 땅이었기에 싸울 가치가 충분했죠. 덴마크인들도 침략할 수 있는 것들은 다 침략자 소유라는 것을 알고 있었습니다. 이 땅을 지키고 훌륭한 적수가 되는 것은 이 곳 원주민들의 일이었습니다.
 dlga_bodo_choiceside41:bodo_choiceside42|덴마크인들은 거렁뱅이가 아니기에 땅쪼가리를 구걸하지도 않았습니다. 덴마크인은 색슨인들에게 자선을 구걸하지 않죠. 우린 손에 무기를 들고 싸울 준비를 갖춘 채 찾아왔습니다. 만약 앵글인이나 색슨인이 우릴 패퇴시켰다면 기꺼이 그 승리를 존중했을 겁니다. 만약 우리가 이겼다면 신께서 우리와 함께 하시는 것이지 이 옥토는 우리 것이 되었겠죠. 이제 제가 믿던 것들입니다. 만약 색슨인이나 프랑크인이 북쪽으로 진군하여 덴마크인들을 격퇴시켰다면 그들이야말로 진정한 전사이고 이 땅은 그들 것이 되었겠죠.
 dlga_bodo_choiceside42:bodo_choiceside43|당신 의견이 내 결정에 중대한 역할을 할 것 같군, 아스비요른. 고맙소.
 dlga_bodo_choiceside42:bodo_choiceside43.1|이 이야기가 딱히 확실히 하는 것은 없구려.
@@ -1049,7 +1049,7 @@ dlga_bodo_choiceside6:bodo_choiceside61|여기 있으니까 전혀 행복할 수
 dlga_bodo_choiceside61:bodo_choiceside62|당신은 이 부대에서 아주 중요한 인물이오, 아가티노스. 당신이 우리와 동행해주었으면 좋겠소.
 dlga_bodo_choiceside61:bodo_choiceside7|알겠소. 그럼 당신 없이 다니도록 하겠소.
 dlga_bodo_choiceside62:bodo_choiceside7|{s2}^^좋군요! 그럼 전 여기 남도록 하죠.
-dlga_bodo_choiceside7:bodo_choiceside71|이제 내가 말할 차례군요. 전 선택 하고, 동행 하고, 당신 옆에서 싸웠습니다. 때문에 제가 그 누구보다 당신을 가장 잘 안다고 생각해요, {playername}. 전 Northverg에서 났습니다. 우린 덴마크인와 자주 싸웠고, 그게 아니라면 술에 취해 그 놈들 얘기를 하면서 웃어제꼈죠.  그들도 우리와 마찬가지에요. 운명을 개척해나갈 자유인들. 덴마크나 노스비거에는 법이 있었지만, 앵글리아는 그런 문제 따윈 아무도 신경 안 쓴답니다. 그들은 부로 가득 차서 그저 점령되기만을 기다리는 허약한 왕국이죠. 한 사람 눈 앞에 보물들을 떡하니 갖다놓고 지키지도 않으면서 '제발 가져가지 마라' 라고 빌 수는 없잖아요. 바보가 아니고서야 보물을 가져가는게 그 사람 잘못이겠어요?
+dlga_bodo_choiceside7:bodo_choiceside71|이제 내가 말할 차례군요. 전 선택 하고, 동행 하고, 당신 옆에서 싸웠습니다. 때문에 제가 그 누구보다 당신을 가장 잘 안다고 생각해요, {playername}. 전 Northverg에서 났습니다. 우린 덴마크인와 자주 싸웠고, 그게 아니라면 술에 취해 그 놈들 얘기를 하면서 웃어제꼈죠.  그들도 우리와 마찬가지에요. 운명을 개척해나갈 자유인들. 덴마크나 노스비거에는 법이 있었지만, 잉글랜드는 그런 문제 따윈 아무도 신경 안 쓴답니다. 그들은 부로 가득 차서 그저 점령되기만을 기다리는 허약한 왕국이죠. 한 사람 눈 앞에 보물들을 떡하니 갖다놓고 지키지도 않으면서 '제발 가져가지 마라' 라고 빌 수는 없잖아요. 바보가 아니고서야 보물을 가져가는게 그 사람 잘못이겠어요?
 dlga_bodo_choiceside71:bodo_choiceside8|권력과 혼돈? 나도 당신 생긱이 마음에 드오, 솔베이그.
 dlga_bodo_choiceside71:bodo_choiceside8.1|안정, 법률, 그리고 평화가 번영을 불러오는 법이오. 힘에 의한 지배는 공평하지 못하며 그저 혼돈만을 불러올 뿐이오.
 dlga_bodo_choiceside8:bodo_choiceside9|혼돈은 좋은 거랍니다. 무슨 일이 벌어져도 전 당신 곁에 있겠어요. 수많은 것들이 우릴 이어주니까요.
@@ -1109,7 +1109,7 @@ dlga_companions_despuesduelo5:companions_despuesduelo5_2|아니, 그는 모든 �
 dlga_companions_despuesduelo5:companions_despuesduelo5_3|똥쓰레기 자식은 바로 당신이오, 그리고 당장 내 부대에서 사라지시오. 당신 부친에게 돌아가서 다신 내가 당신과 마주치게 두지 마시오.
 dlga_companions_despuesduelo5_1:close_window|저와 같은 생각을 하시니 기쁩니다. 잠시나마 당신이 우릴 이끌만한 능력이 있는지 의심하기도 했습니다만 우린 위험한 곳으로 떠나고 있고, 당신이 절실합니다. 이제 가던 길을 계속 갑시다.
 dlga_companions_despuesduelo5_2:close_window|절망적이든 아니든, 그는 배신자입니다. 그에게 할 말이 아깝군요. 가던 길이나 마저 갑시다.
-dlga_companions_despuesduelo5_3:close_window|{s2}^^하, 솔직히 말하면 그러지 못할 걸요! 제가 들어본 소식중 가장 최고구만요! 이 빌어먹을 부대는 당장 떠나서 진짜 지도자, 제 아버지 호릭 왕에게 갈 겁니다. 이제 여길 떠나겠지만, 앵글리아에서 그들이 당신을 죽이기만을 간절히 바랄 겁니다.
+dlga_companions_despuesduelo5_3:close_window|{s2}^^하, 솔직히 말하면 그러지 못할 걸요! 제가 들어본 소식중 가장 최고구만요! 이 빌어먹을 부대는 당장 떠나서 진짜 지도자, 제 아버지 호릭 왕에게 갈 겁니다. 이제 여길 떠나겠지만, 잉글랜드에서 그들이 당신을 죽이기만을 간절히 바랄 겁니다.
 dlga_companions_despuesduelo4:companions_despuesduelo4_1|당신은 죄인이오, 레긴하르트. 당신을 살려주겠지만, 내 곁에 있지 않길 바라오. 프리지아든 어디든 떠나, 영원히 내 눈 앞에서 사라지시오.
 dlga_companions_despuesduelo4:companions_despuesduelo4_2|그래, 당신은 죄인이오, 죽고 싶어 한다니 그렇게 해주도록 하지. --당신은 레긴하르트를 죽였습니다--.
 dlga_companions_despuesduelo4:companions_despuesduelo4_3|시구르드가 당신을 속인 거요. 당신 잘못이 아니오. 난 이미 당신을 용서했소.--.
@@ -1565,11 +1565,11 @@ dlga_start:seneschal_quest_1|안녕합니까, {reg59?부인:경}. 무엇을 도�
 dlga_seneschal_quest_1:seneschal_quest_norse|노스의 왕, 코눙구르가 될 준비가 되었소.
 dlga_seneschal_quest_1:seneschal_quest_briton|브리튼의 왕, '브렌힌 로에그르가 될 준비가 되었소.
 dlga_seneschal_quest_1:seneschal_quest_irish|게일의 왕, 아르드 리가 될 준비가 되었소.
-dlga_seneschal_quest_1:seneschal_quest_saxon|앵글리아의 왕, 브레튼왈다가 될 준비가 되었소.
+dlga_seneschal_quest_1:seneschal_quest_saxon|잉글랜드의 왕, 브레튼왈다가 될 준비가 되었소.
 dlga_seneschal_quest_norse:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 노스의 자유를 가치 있게 하셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 노스의 왕, 코눙구르로 말이지요. 또한 당신의 업적을 치하하는 차원에서 노스의 보물을 드리겠습니다.
 dlga_seneschal_quest_briton:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 브리타니아인들은 거친 사람들인데 그들을 통합하셨다는데에 아주 감명받았습니다.그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 브리튼의 왕, 브렌힌 로에그르로 말이지요. 또한 당신의 업적을 치하하는 차원에서 브리튼의 보물을 드리겠습니다.
 dlga_seneschal_quest_irish:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 게일인들은 독립성이 강하여 다른 자를 잘 따르지 않는데 그들을 통합하셨다니 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 게일의 왕, 아르드 리로 말이지요. 또한 당신의 업적을 치하하는 차원에서 게일의 보물을 드리겠습니다.
-dlga_seneschal_quest_saxon:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 앵글과 색슨인들은 불신이 많은 사람들인데 그들의 신임을 얻으셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 앵글리아의 왕, 브레튼왈다로 말이지요. 또한 당신의 업적을 치하하는 차원에서 앵글 및 색슨의 보물을 드리겠습니다.
+dlga_seneschal_quest_saxon:seneschal_quest_2f|마침내 해내셨군요, {reg59?부인:경}! 앵글과 색슨인들은 불신이 많은 사람들인데 그들의 신임을 얻으셨다는데에 아주 감명받았습니다. 그럼, 당신의 서사시를 제 역사책에 추가하겠습니다. 잉글랜드의 왕, 브레튼왈다로 말이지요. 또한 당신의 업적을 치하하는 차원에서 앵글 및 색슨의 보물을 드리겠습니다.
 dlga_seneschal_quest_2f:close_window|정말 고맙네. 그럼 잘있게나.
 dlga_seneschal_quest_1:seneschal_quest_2|누구시오?
 dlga_seneschal_quest_1:seneschal_quest_2.1|당신은 누구시오, 브리타니아인?
@@ -1585,7 +1585,7 @@ dlga_seneschal_quest_5:close_window|아닐세. 잘 있게나.
 dlga_seneschal_quest_6:seneschal_quest_7|좋습니다. 노스의 야를들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 노스의 왕, 코눙구르로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 리베, 툰스버그, 도레스타드.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 노스에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_6:seneschal_quest_7.1|좋습니다. 브리튼의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 브리튼의 왕, 브렌힌 로에르그로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 잉이스 몬, 보스베네흐, 시어 디프.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 브리튼에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_6:seneschal_quest_7.2|좋습니다. 게일의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 게일의 왕, 아르드 리로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 에일레흐, 크루아한, 테메어.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 게일에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
-dlga_seneschal_quest_6:seneschal_quest_7.3|좋습니다. 앵글과 색슨의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 앵글리아의 왕, 브레튼왈다로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 룬덴위크, 위탄 체스터, 요르빅.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 앵글리아에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
+dlga_seneschal_quest_6:seneschal_quest_7.3|좋습니다. 앵글과 색슨의 영주들과 경쟁하여 그들을 물리치고 작은 왕국들을 통합하십시오.^제가 잉글랜드의 왕, 브레튼왈다로 당신의 서사시를 쓰기 위해서 다음 세 도시를 지배하셔야합니다: 룬덴위크, 위탄 체스터, 요르빅.^^행운을 빕니다. 이 세 영토를 정복하고 돌아오시면, 잉글랜드에서 가장 강력한 {reg59?여왕:왕}으로 공표할 수 있을겁니다.
 dlga_seneschal_quest_7:close_window|알겠네. 내 금방 돌아올테니 잉크와 양피지를 준비해두게나.
 dlga_start:maelbresail_pactofinal|{playername}, 네놈이 내 함정에서 탈출해갔을 때, 난 이곳으로 와서 숨었지. 자네가 나를 찾기 위해 노력한다는 소식을 들었을 때, 자네한테 정보를 제공해주는 사람이 있다는 것을 알아챘지.
 dlga_start:maelbresail_aftermorrigan1|어서오게, {playername}. 피니안의 수도원장이 당신이 나와 내 영주의 공통된 숙적을 제거했다는 소식을 알려줬소. 일반인은 가질 수 없는 막대한 부를 보상으로 받기를 기대하겠네.
@@ -2030,7 +2030,7 @@ dlga_revenge_kingmen5:close_window|왕꼐서도 그의 바람이 지켜지길 �
 dlga_harald_meeting1:harald_meeting21|나도 이 회의에 특별한 관심을 가지고 왔소. 나는 오랬동안 내 어머니에 대한 소식을 기다려 왔단 말이오.
 dlga_harald_meeting1:harald_meeting3|(아무 말도 하지 않습니다.)
 dlga_harald_meeting21:harald_meeting3|당신이 우리의 손님에게 그 문제에 대해 듣고 싶어 하는 것은 이해하고 있고, 아마도 곧 이야기 하게 될 것이오. 하지만 먼저 우리는 가장 시급한 문제를 해결해야 하오.
-dlga_harald_meeting3:harald_meeting4|노섬브리아에 있는 우리의 덴마크인 형제들은 점점 강력해지고 있소. 그들은 꼭두각시 왕을 이용해 왕국을 통제하고 있소. 이에 대해 앵글리아 인들이 일으키는 작은 반란들이 있으나, 이러한 반란들은 지역적이고, 금새 진압되고 있는 상황이오. 즉, 이런 문제들은 심각한 문제가 아니라는 것이오.^우리가 가진 마지막 정보에 따르면 라그나르의 아들들은 남쪽으로 진군해 머시아의 스노팅햄으로 알려진 장소를 점령했다고 하오. 그러나 머시아의 왕은 좀처럼 받아들이지 못하고 있는 것 같소. 그는 웨식스의 왕에게 지원을 받아 그의 군대와 함께 그곳을 포위했소. 우리는 라그나르의 아들들이 곤란한 지경에 빠진것은 아닌지 우려하고 있고, 그들을 돕기 위한 우리의 임무는 요르빅으로 가서 라그나르의 또 다른 아들인 라스바르스의 군대에 합류하는 것이오. 그러면 우리는 그와 함께 그의 형제들을 도우러 갈 것이오. 거기에서 부터 우리는 앵글족과 색슨족과 싸우기 위해 남쪽으로 진군할 것이오. 약간의 운이 따라서 우리가 그들의 왕을 죽여서 남쪽으로 가는 길을 열 수만 있다면, 약탈의 문 또한 열리게 되는 것이오. 그러면 당신들은 올해 안에 부자가 되어서 당신들의 부인과 아이들이 있는 곳으로 돌아갈 수 있소.
+dlga_harald_meeting3:harald_meeting4|노섬브리아에 있는 우리의 덴마크인 형제들은 점점 강력해지고 있소. 그들은 꼭두각시 왕을 이용해 왕국을 통제하고 있소. 이에 대해 잉글랜드 인들이 일으키는 작은 반란들이 있으나, 이러한 반란들은 지역적이고, 금새 진압되고 있는 상황이오. 즉, 이런 문제들은 심각한 문제가 아니라는 것이오.^우리가 가진 마지막 정보에 따르면 라그나르의 아들들은 남쪽으로 진군해 머시아의 스노팅햄으로 알려진 장소를 점령했다고 하오. 그러나 머시아의 왕은 좀처럼 받아들이지 못하고 있는 것 같소. 그는 웨식스의 왕에게 지원을 받아 그의 군대와 함께 그곳을 포위했소. 우리는 라그나르의 아들들이 곤란한 지경에 빠진것은 아닌지 우려하고 있고, 그들을 돕기 위한 우리의 임무는 요르빅으로 가서 라그나르의 또 다른 아들인 라스바르스의 군대에 합류하는 것이오. 그러면 우리는 그와 함께 그의 형제들을 도우러 갈 것이오. 거기에서 부터 우리는 앵글족과 색슨족과 싸우기 위해 남쪽으로 진군할 것이오. 약간의 운이 따라서 우리가 그들의 왕을 죽여서 남쪽으로 가는 길을 열 수만 있다면, 약탈의 문 또한 열리게 되는 것이오. 그러면 당신들은 올해 안에 부자가 되어서 당신들의 부인과 아이들이 있는 곳으로 돌아갈 수 있소.
 dlga_harald_meeting4:harald_meeting4_1|꼭 그렇게 됐으면 좋겠군. 나는 먹여살려야 하는 입이 너무 많소!
 dlga_harald_meeting4_1:harald_meeting4_2|{s2}^^그 생각은 세병의 부인과 스무명의 아이들을 가지기 전에 생각했어야지!
 dlga_harald_meeting4_2:harald_meeting5_1|내 생각엔 그 아이들 중에 당신 종들의 사생아도 꽤 될 것 같은데! (농담)
@@ -2134,7 +2134,7 @@ dlga_paganos_party_action:paganos_party_talk|고맙소, 오딘의 전사여. 나
 dlga_paganos_party_talk:paganos_party_talkle|나는 중요한 임무를 완수해야 하오. 가자.
 dlga_paganos_party_talkle:close_window|감사합니다. 그럼 안녕히.
 dlga_lord_talk:cundwalh_historia|나는 당신이 유명한 전략가라고 들었소.
-dlga_cundwalh_historia:cundwalh_historial|그게 바로 나요! 하나님, 감사합니다! 나는 유럽 최고의 지휘관이오. 내 이름은 앵글리아의 누구라도 알고 있지, 심지어 개라도. 나는 웨식스의 챔피언이오. 나는 내 스스로의 힘으로 난전 중의 전장에서 20명의 병사들을 죽일 수 있었지, 그리고 내가 방패벽을 주도하기 시작한 이후 나는 20번의 전투를 이겼소.
+dlga_cundwalh_historia:cundwalh_historial|그게 바로 나요! 하나님, 감사합니다! 나는 유럽 최고의 지휘관이오. 내 이름은 잉글랜드의 누구라도 알고 있지, 심지어 개라도. 나는 웨식스의 챔피언이오. 나는 내 스스로의 힘으로 난전 중의 전장에서 20명의 병사들을 죽일 수 있었지, 그리고 내가 방패벽을 주도하기 시작한 이후 나는 20번의 전투를 이겼소.
 dlga_cundwalh_historial:cundwalh_talk1|나는 절대로 져본 적이 없소. 당신은 내게서 그 방법을 배우고 싶겠지, 안 그렇소? 그러니 내 좋은 조언을 주의 깊게 듣고 오늘 밤 그 말을 되새겨보시오, 아니면 나는 당신에게 내 색슨 검으로 내 병사중 한 명의 목을 잘라 당신에게 보내줄 수도 있소.
 dlga_cundwalh_talk1:cundwalh_historia1|그렇소, 나는 관심있소.
 dlga_cundwalh_talk1:lord_pretalk|아니, 괜찮소. 내가 해야만 하는 다른 문제가 있소.
@@ -2252,7 +2252,7 @@ dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|내 동료인 보도는
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|황소목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 잡혀있습니다.
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 황소목 스벤과 '눈 속의 뱀' 시구르드는 뭔가 꿍꿍이가 있습니다. 나는 그들을 막고 싶습니다.
 dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^당신의 어머니? 시구르드가 당신의 어머니를 데려갔다고 날 찾아온건가? 내 시간만 낭비했군. 난 더 이야기하고 싶지 않네. 이제 당신도 가봐야 할 시간이군.
-dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 고작 그게 당신이 말한 비밀인가? 그는 내 형제들의 조력자로서 앵글리아에 갈 남성들을 모집중이네. 내 백성들에게, 원한다면 내 야를과 헤르시르들의 원정대에 가입할 수 있도록 허락한건 나란 말일세. 앵글리아는 부유한 땅이고, 태생적으로 약한 사람들이 살면서, 그보다 더 나은 사람들의 지배와 약탈을 기다리고 있는 곳이라네.^당신은 내 시간을 낭비했어. 더 이야기 할 필요 없네. 이제 당신도 가봐야 할 시간이군.
+dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 고작 그게 당신이 말한 비밀인가? 그는 내 형제들의 조력자로서 잉글랜드에 갈 남성들을 모집중이네. 내 백성들에게, 원한다면 내 야를과 헤르시르들의 원정대에 가입할 수 있도록 허락한건 나란 말일세. 잉글랜드는 부유한 땅이고, 태생적으로 약한 사람들이 살면서, 그보다 더 나은 사람들의 지배와 약탈을 기다리고 있는 곳이라네.^당신은 내 시간을 낭비했어. 더 이야기 할 필요 없네. 이제 당신도 가봐야 할 시간이군.
 dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^자네는 이미 내가 알고 있는 것을 말했군, 게다가 내 관심 끌지도 못했지. 이제 내 인내심도 한계야. 당신은 내 시간을 낭비했어. 더는 이야기를 하고 싶지 않네. 나가보게.
 dlga_kinghorik_quest_revenge21_2:close_window|우리의 회담은 끝났네.
 dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드가 많은 남자들의 미움과 두려움을 사고 있나보군. 그들이 나에게 영향을 끼칠 수 있는 뭔가를 꾸미고 있는가?
@@ -2261,9 +2261,9 @@ dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 큰 군
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 일이 있었소.
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|황소목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 있습니다.
 dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|제가 더 이상 비밀을 유지할 수 없을 것 같군요, 물론 지금이 적절한 때도, 당신들에게 말해야 할 사안도 아니지만 말입니다. 하지만 지금 말을 하지 않으면, 위험은 더 심해지고 아주 끔찍해 질 것입니다.^^워든 릭에 대한 공격은 우연히 일어난 일이 아닙니다.
-dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨식스의 왕, 에셀드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 황소목 스벤이 워든 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 앵글리아의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
+dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨식스의 왕, 에셀드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 황소목 스벤이 워든 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 잉글랜드의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
 dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|시구르드가 왕위를 노리고 있는 건 나도 알고 있네, 하지만 어떻게 그 선물이 그에게 내 왕위를 가져다 줄 수 있지?
-dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 현재 덴마크, 스베아란드 및 노섬브리아 등 많은 곳에서 강력한 영향력을 미치고 있습니다. 지금 당장은, 그들의 노력이 앵글리아의 저항을 받고 있는것 같습니다, 실제로도 그렇구요. 그러나 그것 덕분에 그들이 덴마크의 자원과 전사들에게 쉽게 접근할 수 있도록 보장하고 있습니다. 만약 시구르드가 왕이 된다면 그 모든것을 쓸 수 있겠죠. 게다가 이제 그는 온 덴마크를 결집할 수 있습니다. 제가 가지고 있던 선물인 라그나르 로드브록의 검으로 말입니다!^그의 아들인 '무적' 비요른과 헤스턴이 알-안달루스 남쪽에서 그들의 무슬림 함대에 의해 격파되었을 때 잃어버렸던 그 검으로요.
+dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 현재 덴마크, 스베아란드 및 노섬브리아 등 많은 곳에서 강력한 영향력을 미치고 있습니다. 지금 당장은, 그들의 노력이 잉글랜드의 저항을 받고 있는것 같습니다, 실제로도 그렇구요. 그러나 그것 덕분에 그들이 덴마크의 자원과 전사들에게 쉽게 접근할 수 있도록 보장하고 있습니다. 만약 시구르드가 왕이 된다면 그 모든것을 쓸 수 있겠죠. 게다가 이제 그는 온 덴마크를 결집할 수 있습니다. 제가 가지고 있던 선물인 라그나르 로드브록의 검으로 말입니다!^그의 아들인 '무적' 비요른과 헤스턴이 알-안달루스 남쪽에서 그들의 무슬림 함대에 의해 격파되었을 때 잃어버렸던 그 검으로요.
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|어떻게 무슬림이 가진 검을 얻었지?
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|보도, 나는 충격받았소. 당신은 정말 덴마크에 대해 많이 알고 있군. 당신이 나에게 말하지 않은 무언가가 있소?
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(아무 말도 하지 않습니다.)
@@ -2307,7 +2307,7 @@ dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81.1|당신은 우�
 dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|알겠소. 당신과 시구르드의 왕좌를 두고 게임을 벌이고 있군. 나는 중간으로 빠지겠소.
 dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--아무 말도 하지 않습니다.--
 dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|그대의 그 담대함이 좋긴 하지만 그렇게 극단적으로 굴진 마시오. 내가 알고 싶었던 것은 시구르드가 어떤 위험을 감수하고 있는지에 대한 것이었소. 이것으로 분명해 진 것은, 시구르드가 당신을 죽이는 데 관심을 가진 채 꽤 많은 것을 걸고 있다는 것이지.
-dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^시구르드는 내 왕국을 원하지. 그는 이미 많은 군대를 모집했소. 비록 앵글리아의 그의 형제를 돕는다는 구실이긴 했지만 총회에서 이들의 지지를 모은다면 나의 왕좌까지 빼앗을 수 있게 될 것이 우려스럽소. 그리고 이제는 그런 지지를 모으기 위한 두가지 패가 더 생겨버렸소. 첫째는 아스투리아스에서 온 보도의 편지, 두 번째로 '하얀 머리' 올비르의 죽음까지.
+dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^시구르드는 내 왕국을 원하지. 그는 이미 많은 군대를 모집했소. 비록 잉글랜드에 있는 그의 형제를 돕는다는 구실이긴 했지만 총회에서 이들의 지지를 모은다면 나의 왕좌까지 빼앗을 수 있게 될 것이 우려스럽소. 그리고 이제는 그런 지지를 모으기 위한 두가지 패가 더 생겨버렸소. 첫째는 아스투리아스에서 온 보도의 편지, 두 번째로 '하얀 머리' 올비르의 죽음까지.
 dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|이미 우리의 운명은 엮여버리고 말았소, {playername}. 당신이 오기 전에 점쟁이들도 당신에 대해 이야기했소. 그들은 {reg59?그녀:그}가 그 운 좋은 시구르드보다 더 큰 행운을 지니고, 그가 내 왕위를 지킬 것이라 말하더군. 그대는 황소목 스벤과 그대의 어머니를 원하고, 나는 시구르드의 계획이 어그러지는것을 원하고 있소. 내가 그대를 도울 테니, 그대는 나를 돕도록 하시오. 지금 이 순간부터, 덴마크에서 그대는 왕의 이름으로 보호를 받게 되었소.
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|당신은 당신의 계획이 무엇인지 말해줄 수 있소?
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|당신은 이미 너무 많은 이득을 누렸소. 나는 당신에게 봉사하지 않을 것이오. 내겐 당신의 도움이 필요하지 않소.
@@ -2315,7 +2315,7 @@ dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|지금은 동�
 dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|좋아, 같은 편에 서 준다니 기쁘군. 이제 들어보시오.
 dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|내가 보기엔 그대는 신들이 내려주는 운이 없다면 아무것도 못 할만큼 어리석군. 이제 잘 들어보시오. 그대는 총회에 가야만 하지만 내 후원 없이는 근처에도 얼씬할 수 없지. 분명 황소목 스벤도 총회에 참석할 것이고, 형제의 죽음에 책임을 물으려 하겠지. 그대가 총회에 참석하지 않는다면, 그대는 스스로 변호할 기회도 없이 재판에서 지고 말 것이오. 결국 총회는 그대를 추방할 것이고, 그대가 법의 보호를 받지 못하게 할 것이오. 데인족은 자유롭게 무법자와 추방자를 죽이고 괴롭힐 수 있소. 반대로, 그대의 어머니를 되찾고 스벤을 죽이려면 그대에겐 내 도움이 절실하다는 것이오. 내 말대로 하시오.
 dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|좋은 조건이오, 그리고 이치에 맞는군. 우리의 이익이 함께하는 동안, 우리는 동맹이 될 것이오. 이 일이 끝나면, 그대는 덴마크를 떠나시오.
-dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^덴마크 남자들 중 구트럼이라고 불리는 자가 있소. 그는 덴마크에서 존경받고 있고, 믿을만한 남자이오. 나는 라그나르의 아들들이 앵글리아를 침공할 때 지원군으로 보내질 시구르드의 바이킹 군대 그가 지휘할 수 있도록 요청하려고 하오. 그러나 '눈 속의 뱀' 시구르드가 총회에서 보도의 편지를 공개하거나, '하얀 머리의' 올비르의 죽음을 나와 결부시킬 경우 내 제안은 받아들여지지 않을 것이오.
+dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^덴마크 남자들 중 구트럼이라고 불리는 자가 있소. 그는 덴마크에서 존경받고 있고, 믿을만한 남자이오. 나는 라그나르의 아들들이 잉글랜드를 침공할 때 지원군으로 보내질 시구르드의 바이킹 군대 그가 지휘할 수 있도록 요청하려고 하오. 그러나 '눈 속의 뱀' 시구르드가 총회에서 보도의 편지를 공개하거나, '하얀 머리의' 올비르의 죽음을 나와 결부시킬 경우 내 제안은 받아들여지지 않을 것이오.
 dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|불행히도, 편지는 이미 어딘가에 숨겨져 있소. 내 정보망에 의하면 시구르드의 심복 중 황소목 스벤 다음가는 자인 아틀리 에이릭손이 가지고 있다고 하오. 아틀리는 몇 시간 전에 리베에서 출항했는데 아무도 그의 행방을 모른다고 하오. 아마도 리베의 항구 관리는 무언가를 알고 있는 것 같지만 내 사람에게는 아무 이야기도 하지 않을 것이오. 내가 곧 있을 총회를 위해 충성심을 사들이는 동안 그대는 그 편지를 확보하시오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|정보를 얻기 위해선 비싼 대가를 치뤄야 합니다. 나는 더 많은 돈이 필요하오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|편지는 내가 맡겠소. 하지만 재정적인 지원이 필요하오.
@@ -2345,7 +2345,7 @@ dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|나는 당신의 문�
 dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|내 문제는 동시에 그대의 문제란 말이오. 시구르드가 이길 경우, 그대의 목숨은 아무런 가치가 없게 되오. 총회는 그대를 무법자로 지명할 것이오. 그렇게 되면 그대는 그대의 모든 것을 잃는 것은 물론, 누군가 당신을 죽일 때 까지 숲 속에 숨어 살아야 할 것이란 말이오.
 dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^안녕하시오, {playername}. 황소목 스벤이 총회에 발언할 수 있는 권한을 얻었소. 그 쥐새끼가 무슨 이야기를 하는 지 들어 봅시다.
 dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|조용! 그 뱀같은 자가 무슨 이야기를 하는지 들어봅시다.
-dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^덴마크의 남자들이여, 내가 누구인지는 알고 있을 것이오. 나는 작고 어렸을 때부터 라그나르와 함께했고, 그가 프랑키아를 상대로 120척의 선박과 4000명이 넘는 병력을 데리고 약탈했을 때 함께 했소. 아직도 스칼드들이 노래하고 있는 그 이야기 속의 그 때 말이오. 나는 잉글랜드에서 가장 강력한 왕국인 웨식스에서 400명의 바이킹들을 이끌었고, 큰 부와 명성을 얻었소. 그 덕분에 프리지아, 앵글리아, 프랑키아의 남자들은 모두 나를 두려워하고 있소. 그러나 이곳 덴마크 에서만은 합당한 존중과 사랑을 받고 있는 사람이오.
+dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^덴마크의 남자들이여, 내가 누구인지는 알고 있을 것이오. 나는 작고 어렸을 때부터 라그나르와 함께했고, 그가 프랑키아를 상대로 120척의 선박과 4000명이 넘는 병력을 데리고 약탈했을 때 함께 했소. 아직도 스칼드들이 노래하고 있는 그 이야기 속의 그 때 말이오. 나는 잉글랜드에서 가장 강력한 왕국인 웨식스에서 400명의 바이킹들을 이끌었고, 큰 부와 명성을 얻었소. 그 덕분에 프리지아, 잉글랜드, 프랑키아의 남자들은 모두 나를 두려워하고 있소. 그러나 이곳 덴마크 에서만은 합당한 존중과 사랑을 받고 있는 사람이오.
 dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|나보다 더 나은 남자였던 '하얀 머리의' 올비르는 내 형제였소. 그는 명예롭고 신들의 사랑을 받던 남자였지만 청춘을 다 피우지 못하고 살해당해 죽고 말았소. 그런데 왕은 그 살인자를 보호하고 있소. 나는 여태까지 총회에 그 어떤 요구도 하지 않았소만, 지금은 한 가지 바라는 것이 있소. 그것은 바로 정의이오. 살인자가 우리들 사이에 서 있는것이, 왕이 악을 두둔하는 것이 정의란 말이오? 살인자들이 이 땅에서 처벌받지 않고 돌아다니도록 놔두어야겠소?^^{s2}
 dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^우리가 예상한 대로 흘러가고 있소. 그들이 당신을 이용해 호릭 왕을 공격하고, 그의 권위를 훼손시키고 있지 않소!
 dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^황소목 스벤, 모든 사람들이 당신의 가치를 알고 있고, 당신이 과거에 이룬 업적을 알고 있소. 그러나 당신은 왕께서 살인자를 지원하고 있음을 말하고 있소. 이 혐의는 매우 엄중한 것이오. 총회는 호릭 왕의 말 역시 들어봐야 하오.
@@ -2381,8 +2381,8 @@ dlga_kinghorik_quest_thething15_2:kinghorik_quest_thething15_31|그가 이야기
 dlga_kinghorik_quest_thething15_31:kinghorik_quest_thething15_3|나는 그저 내 명예를 지킬 뿐이오!
 dlga_kinghorik_quest_thething15_3:kinghorik_quest_thething15_4|맞소, 그는 발언을 하도록 허락 받았고, 그럴 권리가 있소. 만일 그가 말한 것 들에 대해서 증명할 수 있다면 왕권을 바꿀 때가 되었다는 것이오.
 dlga_kinghorik_quest_thething15_4:kinghorik_quest_thething15_5|호릭 왕은 좋은 왕이시오. 당신은 당신의 말을 증명할 수 있어야 할 것이오, 시구르드.
-dlga_kinghorik_quest_thething15_5:kinghorik_quest_thething15_6|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 앵글리아에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호릭 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
-dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 앵글리아에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호릭 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
+dlga_kinghorik_quest_thething15_5:kinghorik_quest_thething15_6|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 잉글랜드에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호릭 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
+dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 잉글랜드에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호릭 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
 dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|시구르드 라그나르손, 당신의 고발은 매우 중차대한 사안이오. 당신의 주장을 확인할 수 있는 증거나 증인이 있소?
 dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|그렇소, 지금까지 {playername}와(과) 모든 시간을 함께 여행한 사람이 있소. 그도 지금 여기에 있고, 기꺼이 이 총회에서 증언을 할 것이오. 그의 이름은 레긴하르트이고, 켄네머의 야를의 시종이었소.
 dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|레긴하르트, 나와주시오. 당신은 시구르드 라그나르손의 말이 사실인 것을 확인해줄 수 있소?
@@ -2437,7 +2437,7 @@ dlga_kinghorik_quest_thething33_4:kinghorik_quest_thething33_5|나도 총회의 
 dlga_kinghorik_quest_thething33_5:kinghorik_quest_thething33_6|이 총회가 끝나면 덴마크의 요인들이 와서 당신과 상대를 작은 섬에 데려갈 것이오.
 dlga_kinghorik_quest_thething33_6:kinghorik_quest_thething33_7|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오.
 dlga_kinghorik_quest_thething33_7:kinghorik_quest_thething34|이 총회는 마지막 주요 안건에 대한 결정 또한 내렸소. 호릭 왕과 야를 시구르드 사이의 비난과 모욕은 덴마크에 심각한 피해를 일으킬 수 있소. 야를들과 왕보다 높고, 오직 신들에게만 응답하는 자유민들의 총회로서, 야를 시구르드와 호릭 왕이 화해를 하는 것으로 결정하였소. 호릭 왕은 자신의 의회에 야를 시구르드에게서 가장 신뢰받는 남성의 자리를 마련하여야 할 것이며, 또한 호릭 왕은 원정대를 조직한 시구르드의 노력에 대한 보상으로 15000 페닝의 웨어길드를 지불해야 할 것이오.
-dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호릭 왕 옆에 남아서 그에게 조언을 해야 할 것이오. 따라서 야를 시구르드 라그나르손은 그의 형제를 돕기 위한 함대의 지휘권을 포기해야 하오. 이 함대는 호릭 왕의 편인 하랄드 하랄드손과 야를 시구르드손의 편인 황소목 스벤, 두 명이 함께 지휘할 것이오. 함대는 지체없이 며칠 뒤 앵글리아를 향해 출발할 것이오.
+dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호릭 왕 옆에 남아서 그에게 조언을 해야 할 것이오. 따라서 야를 시구르드 라그나르손은 그의 형제를 돕기 위한 함대의 지휘권을 포기해야 하오. 이 함대는 호릭 왕의 편인 하랄드 하랄드손과 야를 시구르드손의 편인 황소목 스벤, 두 명이 함께 지휘할 것이오. 함대는 지체없이 며칠 뒤 잉글랜드를 향해 출발할 것이오.
 dlga_kinghorik_quest_thething35:kinghorik_quest_thething36_1|또한 신들이 홀름강에서 {playername}에게 승리를 안겨준다면, 그 역시 하랄드 하랄드손의 고문으로 참여해야 한다는 것이 우리의 결정이오. 그렇지 않으면, 에길이 {playername}의 자리와 부대를 차지하게 될 것이오. 홀름강의 일이 끝나면 둘 중 한 명은 리베의 선술집으로 나를 만나러 오시오.
 dlga_kinghorik_quest_thething36_1:kinghorik_quest_thething36|{s2}^^총회는, 신들과 덴마크의 자유민을 대표해서 말씀하였소.^두 당사자는 승복하는가? 호릭 왕, 시구르드 라그나르손?
 dlga_kinghorik_quest_thething36:kinghorik_quest_thething37|나는 총회의 판결을 받아들이겠나이다. 선포된 바와 같이 나는 내 역할을 다할 것이고, 그것을 옹호하고 시행할 것을 맹세하오.^^{s2}
@@ -2537,7 +2537,7 @@ dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^네놈은 참 끈질
 dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|내 문제는 당신과는 상관 없소. 난 단지 황소목 스벤과 내 어머니를 찾고 싶을 뿐이오.
 dlga_sigurd_quest_revenge2:sigurd_quest_revenge32|나는 야를의 계획에 대해서는 몰랐소. 그래서 나는 독싱가를 지켰던 것이오. 내가 당신의 대의에 충성하겠소.
 dlga_sigurd_quest_revenge31:sigurd_quest_revenge4|어떻게 그렇게 멍청할 수 있지? 황소목 스벤은 누구와도 바꿀 수 없는 내 가장 소중한 심복이야. 내 함선의 뱃머리에 선 사람이란 말이다. 너와 나는 아무 것도 할 이야기가 없다. 네놈의 말을 잠자코 들어줄 의무는 이것으로 끝났다. 내가 아직 칼을 내리고 있을 때 꺼져!
-dlga_sigurd_quest_revenge32:sigurd_quest_revenge322|네 충성은 너무 교묘하고 또 너무 늦었군. 넌 그저 내 계획을 방해한 쥐새끼일 뿐이야. {s4}은(는) 나에게 앵글리아로 보낼 원정대 600명을 약속했어. 그런데 지금은 정확히 한 명도 없지.
+dlga_sigurd_quest_revenge32:sigurd_quest_revenge322|네 충성은 너무 교묘하고 또 너무 늦었군. 넌 그저 내 계획을 방해한 쥐새끼일 뿐이야. {s4}은(는) 나에게 잉글랜드로 보낼 원정대 600명을 약속했어. 그런데 지금은 정확히 한 명도 없지.
 dlga_sigurd_quest_revenge322:sigurd_quest_revenge31|미안하오, 하지만 나는 단지 황소목 스벤이 어디 있는지 알고 싶을 뿐이오.
 dlga_sigurd_quest_revenge322:sigurd_quest_revenge33|내가 당신을 위해 600명의 군대를 모아주겠소.
 dlga_sigurd_quest_revenge33:lord_pretalk|{s4}^^네놈의 말이 로키가 나를 괴롭히려고 네 입을 빌려 하는 말이 아니길 빌어보도록 하지. 솔직히 말해서, 네가 600명이나 모집할 수 있을거란 기대는 하지도 않는다. 하지만 네놈이 200명이 넘는 군대를 모집한다면 다시 나를 찾아와라. 그 떄 다시 이야기 하도록 하지. 그 땐 나의 친구 스벤과 대화할 기회를 줄 수도 있다.
@@ -2611,7 +2611,7 @@ dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm52|이런 이름들은 나에
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm51|지금까지 이 모든 정보를 숨겨온 거요?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm6|난 듣고 있소, 계속 이야기하시오.
 dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|이해를 못하는군, 이건 그렇게 간단한 문제가 아니라고. 이건 우리에게 민감한 문제야. 게다가 방금 전까지 우리에게 넌 바다를 떠돌다 표류해온 이방인에 불과했단 말이지... 물론 이제는 상황이 달라졌어. 내 생각엔 너는 내가 믿어줄 만한 사람인 것 같군.
-dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 전설적인 왕이야. 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다녔지. 라그나르는 몇년 전 죽었지만, 지금은 그의 여러 아들들이 앵글리아를 침략하고 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 나이 많은 아들중 하나야. 그가 비록 지금은 나이가 들었지만 아직도 두려움과 존경을 한 몸에 받는 덴마크인 야를이지.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
+dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 전설적인 왕이야. 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다녔지. 라그나르는 몇년 전 죽었지만, 지금은 그의 여러 아들들이 잉글랜드를 침략하고 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 나이 많은 아들중 하나야. 그가 비록 지금은 나이가 들었지만 아직도 두려움과 존경을 한 몸에 받는 덴마크인 야를이지.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
 dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 황소목 스벤을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 나를 이용해서 왕이 되고싶은것이오? 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니란 말이오!
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 티아데르트는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
@@ -2698,7 +2698,7 @@ dlga_jarlbjornneg_52:jarlbjornneg_51|좋소, 상인에게 말해둔다는 것을
 dlga_jarlbjorn_1:jarlbjorn_2|내 형제인 시구르드는 1000명의 병력을 약속했지, 그들은 어디에 있소?
 dlga_jarlbjorn_2:jarlbjorn_3|그들은 죽거나 실종됐소. 시구르드 라그나르손은 총회의 판결에 따라 황소목 스벤과 하랄드 하랄드손이 같이 이끄는 함대를 보냈지만, 황소목 스벤의 추종자들이 갑자기 하랄드의 추종자들을 습격했고, 학살이 있었소. 나를 제외한 하랄드의 추종자들이 모두 죽고, 스벤을 따르던 자들도 심각한 손상을 입었을 것이오.
 dlga_jarlbjorn_3:jarlbjorn_4|{s2}^^스벤은 항상 다루기 어려웠고, 나는 그를 아끼는 시구르드의 취향을 전혀 이해할 수 없었어. 결국엔 스노팅햄의 어려운 상황에 우리를 몰아넣었군. 내가 다시 스벤을 만나는 날에는 내 맨손으로 그 개자식을 때려죽일 것이오. 우리는 웨식스와 머시아의 병력에 비해 열세에 있고, 지금까지 우리는 우리의 악명 덕분에 버틸 수 있었지만, 그들은 점점 대담해지고 있고 결국 스노팅햄에 몰아칠 것이오. 이대로 간다면 스노팅햄에 갇힌 병력은 전멸하고 말 거요. 지금은 전황이 불리해서, 우리 병력들이 스노팅햄을 탈출하게 하기 위한 협정을 맺으려면 그들이 가지고 있던 공포를 다시 일으킬 필요가 있소. 지원군이 없다면 물러서는 것만이 유일한 선택이오.
-dlga_jarlbjorn_4:jarlbjorn_5_1|나는 앵글리아가 바이킹 군대에겐 쉬운 먹잇감이라고 생각했는데 말이오.
+dlga_jarlbjorn_4:jarlbjorn_5_1|나는 잉글랜드가 바이킹 군대에겐 쉬운 먹잇감이라고 생각했는데 말이오.
 dlga_jarlbjorn_5_1:jarlbjorn_5_3|웨식스와 머시아, 이 두 왕국은 쉽게 건드리기 강력한 왕국이오. 우리는 지금, 특히 두 왕들이 힘을 합쳐 우리에게 대항하는 상황에서는, 더 많은 군대를 필요로 하오. 다행스러운 것은, 이 동맹이 일시적일 뿐이라는 것이오. 우리가 지금 후퇴하고 좀 더 약한 국가에 관심을 집중할 경우 머시아나 웨식스로 갈 수 있는 또 다른 기회가 올 것이오. 지금이라면 가난하고 돌 투성이인 픽트란드가 좋지 않겠소!
 dlga_jarlbjorn_6:jarlbjorn_7|이 땅은 부유하고, 이 곳의 사람들은 우리를 두려워하오. 지금은 그 두려움이 그들의 공격에서 우리를 지켜주고 있지만, 이제 그들은 우리에 대한 두려움을 잃어가고 있소. 우리는 다시금 주도권을 회복해야 할 것이오.^^웨식스는 특히 대담해져서, 색슨족 사냥꾼들은 우리 진영 가까이까지 다가왔소. 최근 한 그룹의 정찰병들이 우리 진영 근처에서 돌아다니고 있다고 하오. 나는 당신이 가서 그들에게 쓴 맛을 보여주었으면 좋겠소. 이 것은 우리의 적들에게 분명한 대답이 될 것이고, 그들은 자신감을 잃게 될 것이오.
 dlga_jarlbjorn_7:jarlbjorn_9|알겠소. 내가 처리하겠소.
@@ -2732,7 +2732,7 @@ dlga_raethbarthbodoletter_4:raethbarthbodoletter_54|나는 스벤을 잡아야 �
 dlga_raethbarthbodoletter_51:raethbarthbodoletter_6|{s2}^^당신은 이미 우리에게 많은 도움이 되었소, 정말 고마워서 몸둘 바를 모르겠군. 당신은 내가 황소목 스벤의 행방을 추적할 병력을 보낸 것을 알고 있을 것이오. 그는 대가를 치뤄야만 하오...
 dlga_raethbarthbodoletter_52:raethbarthbodoletter_6|우리가 프리지아에서 얻을 수 있는 정보는 확실하지 않소, 그것은 직접 프랑키아로 가보는 것이 가장 확실할 것이오. 그러나 이것은 지금 우리가 결정할 수 없는 문제요. 당신과 나를 포함해서.
 dlga_raethbarthbodoletter_53:raethbarthbodoletter_6|{s2}^^내 형, 비요른에 대해서 몇 가지 이야기를 하고 싶소. 그는 전쟁에 닳고 닳은 약 600명의 병력을 데리고 아스투리아스로 갔으나, 그는 알-안달루스인과 아스투리아스 전사의 공격에 그의 병력과 선박 대부분을 잃었소. 우리는 이 문제에 대한 언급을 그만두는 것이 좋을 것이오.
-dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|나는 앵글리아 구석구석까지 황소목 스벤을 찾기 위해 병력을 보냈소. 지금까지 내가 아는 한, 그는 하랄드 하랄드손과의 전투에서 살아남았소. 하지만 그가 어디에 있는 지는 밝혀지지 않았소. 내 병력 중 일부는 그가 그의 병력을 이끌고 남쪽으로 갔다고 언급했소.
+dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|나는 잉글랜드 구석구석까지 황소목 스벤을 찾기 위해 병력을 보냈소. 지금까지 내가 아는 한, 그는 하랄드 하랄드손과의 전투에서 살아남았소. 하지만 그가 어디에 있는 지는 밝혀지지 않았소. 내 병력 중 일부는 그가 그의 병력을 이끌고 남쪽으로 갔다고 언급했소.
 dlga_raethbarthbodoletter_6:raethbarthbodoletter_91|하지만 그에 앞서, 내 형제인 야를 할프단 라그나르손을 만나, 그에게 충성을 맹세하시오. 당신은 가능한 빨리 그의 봉신이 되는 것이 중요할 것이오.
 dlga_raethbarthbodoletter_91:lord_pretalk|할프단은 영리한 사람이니, 당신의 가치를 잘 알고 있을 것이오. 행운을 비오.
 dlga_raethbarthbodoletter_1_1:raethbarthbodoletter_7|나는 곧 내 형제와 합류하기 위해 그들에게 전령을 보낼 것이고, 우리는 왕국 국무에 관련된 회의를 열 것이오, 그러나 우리는 이 편지에 대해 논의하고 곧 결정을 내릴 것이오. 나는 당신에게 부탁하고 싶은 것이 있소. 나는 당신이 북쪽, 알반 왕국의 영토로 가서 우리들에게 문제를 일으키는 알바인들의 병력을 처단해줄 사람이 필요하오.
@@ -2743,7 +2743,7 @@ dlga_raethbarthbodoletter_82:raethbarthbodoletter_81|나는 당신에게 황소�
 dlga_raethbarthbodoletter_9:close_window|행운을 비오, 당신이 당신의 임무를 수행할 때. 나는 황소목 스벤의 처분에 대한 권리를 당신에게 주는 것에 대해 내 형제와 함께 결정하는 것에 도움을 줄 수 있을 것이오.
 dlga_raethbarthbjorn_1:close_window|모든 것을 듣고 나서 안심했소, 몇일 뒤 다시 이야기하러 돌아오겠소.
 dlga_raethbarth_wp_1:raethbarth_wp_2|나는 그 소식을 듣고 기쁘게 생각했소, 알바인들은 호전적인 자들이오. 그리고 나는 당신이 선뜻 성공할 지 확신이 가지 않았소.
-dlga_raethbarth_wp_2:raethbarth_wp_3|나도 당신을 위한 좋은 소식이 있소. 황소목 스벤이 이스트 앵글리아에서 발견되었소. 나는 우리가 처음 앵글리아에 도착했을 때 우리에게 보급품과 말을 지원해 준 나라이기 때문에, 그가 그곳에 있었다고 생각하오. 그러나 그것은 그들의 왕이 약하기 떄문에 두려워하고 있다는 문제가 크다고 생각되오. 이스트 앵글리아는 우리에게 약점을 잡혀 있기 때문에, 우리 땅이나 다름없는 곳이오.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 웨식스로 갔다는 것이오. 나는 그가 우리를 적으로 삼았기 떄문에, 우리의 강력한 적에게 의탁하러 간다고 추측하고 있소.
+dlga_raethbarth_wp_2:raethbarth_wp_3|나도 당신을 위한 좋은 소식이 있소. 황소목 스벤이 이스트 앵글리아에서 발견되었소. 나는 우리가 처음 잉글랜드에 도착했을 때 우리에게 보급품과 말을 지원해 준 나라이기 때문에, 그가 그곳에 있었다고 생각하오. 그러나 그것은 그들의 왕이 약하기 떄문에 두려워하고 있다는 문제가 크다고 생각되오. 이스트 앵글리아는 우리에게 약점을 잡혀 있기 때문에, 우리 땅이나 다름없는 곳이오.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 웨식스로 갔다는 것이오. 나는 그가 우리를 적으로 삼았기 떄문에, 우리의 강력한 적에게 의탁하러 간다고 추측하고 있소.
 dlga_raethbarth_wp_3:raethbarth_wp_41|그는 어째서 시구르드를 배신한 건지, 아직도 이해가 가지 않소.
 dlga_raethbarth_wp_3:raethbarth_wp_5|나는 곧 웨식스로 갈 것이오.
 dlga_raethbarth_wp_41:raethbarth_wp_42|{s2}^^나는 그것에 대해서 대답할 수 있소. 내 동생, 시구르드에게서 곧 전령이 도착했는데. 그는 우리에게 이렇게 이야기했소. 불행히도 너무 늦었지만 -시구르드는 그를 주의하라고 우리에게 전했소-, 분명 누군가가 스벤이 매우 사랑하는 그의 형, '하얀 머리의' 올비르를 살해했으나. 총회는 그를 유죄로 처벌하지 않았소. 스벤은 시구르드가 복수로서 자신의 권리를 방어하지 않음으로서 자신을 버렸다고 여긴 것 같소. 그래서 그는 함대가 출항하기 전에, 시구르드는 스벤이 충성 서약을 파기하고, 그에 대한 복수를 맹세했다고 전했소.
@@ -2773,8 +2773,8 @@ dlga_aelfredbodoletter_4:aelfredbodoletter_52|당신에게 부탁하겠소, 당�
 dlga_aelfredbodoletter_4:aelfredbodoletter_53|나는 당신에게 황소목 스벤을 찾는 것을 도와주는 것과 충분한 돈을 보상해주기를 기대하고 있소.
 dlga_aelfredbodoletter_4:aelfredbodoletter_54|나는 보상을 기대하지 않았소, 나는 보도를 위해 이 일을 한 것 뿐이오.
 dlga_aelfredbodoletter_51:aelfredbodoletter_6|{s2}^^흔한 일이 아니군: 사람들에게 좋은 일을 기꺼이 사심 없이 하는 것을 하나님께서 모든 것을 보고 계시고, 우리 아버지, 주께서는 당신을 위해 천국에 당신의 자리를 마련하셨을 거라 믿어 의심치 않소.
-dlga_aelfredbodoletter_52:aelfredbodoletter_6|우리 웨식스는 앵글리아에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오. 최대한 빨리 무언가를 알아본 뒤 당신에게 알려줄 것이오.
-dlga_aelfredbodoletter_53:aelfredbodoletter_6|{s2}^^알겠소, 이 보상을 가져가시오. 황소목 스벤에 대해서는 우리 웨식스는 앵글리아에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오.
+dlga_aelfredbodoletter_52:aelfredbodoletter_6|우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오. 최대한 빨리 무언가를 알아본 뒤 당신에게 알려줄 것이오.
+dlga_aelfredbodoletter_53:aelfredbodoletter_6|{s2}^^알겠소, 이 보상을 가져가시오. 황소목 스벤에 대해서는 우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오.
 dlga_aelfredbodoletter_54:aelfredbodoletter_6|우정은 색슨인들 사이에서 가장 중요한 덕목중 하나요. 당신은 그를 도왔고, 더불어 웨식스을 도왔소. 그 보답으로 우리가 황소목 스벤의 행방을 알게 되자마자, 우리는 당신에게 알려줄 것이오.
 dlga_aelfredbodoletter_6:aelfredbodoletter_91|하지만 먼저, 내 형, 왕과 이야기해서 그에게 충성을 맹세하시오. 나는 당신이 웨식스의 봉신이 되는 것이 중요한 일이라고 생각하오.
 dlga_aelfredbodoletter_91:close_window|내 형은 좋은 사람이고, 그는 당신을 받아들일 것을 확신하오. 행운이 있기를.
@@ -2785,7 +2785,7 @@ dlga_aelfredbodoletter_82:aelfredbodoletter_81|당신이 임무를 마치고 돌
 dlga_aelfredbodoletter_81:aelfredbodoletter_9|나는 당신이 가서 딘 비치라는 요새를 에 당신의 깃발을 꽂고, 20일간 그곳을 지켜내시오. 그들이 평화를 유지할 생각이 없는 경우, 우리가 강제로 그들의 땅을 점령할 준비가 되어 있다는 사실을 웨일즈에게 보여주시오.
 dlga_aelfredbodoletter_9:lord_pretalk|행운을 비오. 우리가 스노팅햄에서 처음 만난 이후로, 나는 당신이 웨식스에게 있어 중요한 사람이 될 거라고는 생각하지 않았소. 그러나 지금 당신은 우리에게 큰 은혜를 베푼 셈이오.
 dlga_aethelred_wp_1:aethelred_wp_2|나는 그 소식을 듣고 기쁘게 생각하오. 웨일즈인은 호전적인 사람들이고, 나는 당신이 그 것을 선뜻 성공할 거라는 확신이 없었소.
-dlga_aethelred_wp_2:aethelred_wp_3|나도, 당신을 위한 좋은 소식이 있소. 황소목 스벤은 이스트 앵글리아에서 발견되었소, 나는 처음 그들이 앵글리아에 도착했을 때 그 나라는 덴마크에 가장 먼저 보급품과 말을 지원한 국가였기 때문에, 그곳에 그가 있을 거라고 확신했소. 그곳은 나약한 왕과 전염병으로 가난한 국가요.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 노섬브리아로 갔다는 거요. 나는 그가 당신에게서 도망치려고 하고, 그는 웨식스을 피해 당신의 공격에서 보호받기를 원하는 것으로 추측하고 있소.
+dlga_aethelred_wp_2:aethelred_wp_3|나도, 당신을 위한 좋은 소식이 있소. 황소목 스벤은 이스트 앵글리아에서 발견되었소, 나는 처음 그들이 잉글랜드에 도착했을 때 그 나라는 덴마크에 가장 먼저 보급품과 말을 지원한 국가였기 때문에, 그곳에 그가 있을 거라고 확신했소. 그곳은 나약한 왕과 전염병으로 가난한 국가요.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 노섬브리아로 갔다는 거요. 나는 그가 당신에게서 도망치려고 하고, 그는 웨식스을 피해 당신의 공격에서 보호받기를 원하는 것으로 추측하고 있소.
 dlga_aethelred_wp_3:aethelred_wp_41|그는 호릭 왕의 사람인 하랄드를 살해했는데, 어째서 그들은 그를 보호하는 것이오?
 dlga_aethelred_wp_3:aethelred_wp_5|나는 노섬브리아로 갈 것이오.
 dlga_aethelred_wp_41:aethelred_wp_42|{s2}^^노섬브리아는 덴마크의 왕, 호릭에 의해 지배되지 않는 곳이오. 하지만 대신 그곳은 라그나르의 아들이 지배하오. 지금까지 내가 아는 한, 라그나르 로드브록의 아들중 가장 위험한 자인 '눈 속의 뱀' 시구르드의 약탈선 뱃머리에서 선두지휘하는 자가 황소목 스벤이라고 알고 있소.
@@ -2845,7 +2845,7 @@ dlga_halfdan_ad_73:halfdan_ad_74|황소목 스벤은 우리의 적인 웨식스�
 dlga_halfdan_ad_74:halfdan_ad_71|나는 돈이 필요 없소, 그건 필요 없다는 건... 사실 농담이오, 나는 당신과 정말 함께할 것이오.
 dlga_halfdan_ad_74:halfdan_ad_75|다행히 마지막에 보상이 들어오는군, 나에게 돈을 주시오, 소들을 넘길테니.
 dlga_halfdan_ad_75:close_window|내 돈을 주시오, 소를 넘길테니. 그럼 행운을.
-dlga_halfdan_bt_1:halfdan_bt_2|{s3}^^모든 준비가 끝났고, 이제 출발할 시간이오. 웨식스가 함락되면 앵글리아는 멸망하고, 더불어 우리의 사람들은 그들 자신을 위해 이 비옥한 땅을 가질 테지. 우리 모두 부자가 될 거고, 당신에 대한 전설도 새로 쓰여질 것이오, {playername}.
+dlga_halfdan_bt_1:halfdan_bt_2|{s3}^^모든 준비가 끝났고, 이제 출발할 시간이오. 웨식스가 함락되면 잉글랜드는 멸망하고, 더불어 우리의 사람들은 그들 자신을 위해 이 비옥한 땅을 가질 테지. 우리 모두 부자가 될 거고, 당신에 대한 전설도 새로 쓰여질 것이오, {playername}.
 dlga_halfdan_bt_2:halfdan_bt_31|웨식스가 기다리고 있다!
 dlga_halfdan_bt_2:halfdan_bt_32|나는 곧 전장에서 스벤을 만날 것이고, 워든 릭에서 시작된 악연의 종지부를 찍을 것이오.
 dlga_halfdan_bt_2:halfdan_bt_33|나는 이그드라실의 뿌리를 흔들 준비가 되었소!
@@ -4196,8 +4196,8 @@ dlga_tavernkeeper_job_result_2:close_window|나는 계속 다른 소문에 대�
 dlga_tavernkeeper_talk:tavernkeeper_rumor|세상 돌아가는 일에 대해서 알고 있는 소식이라도 있소?
 dlga_tavernkeeper_rumor:tavernkeeper_rumor2|딱히 내가 이야기해줄만한 소식은 없군, 하지만 세상은 점점 위험해지고 있소. 여기저기의 길목마다 도적들이 꽉 들어찼다는군.
 dlga_tavernkeeper_rumor:tavernkeeper_rumor2.1|폭풍이 다가오고 있소, 하지만 그 폭풍은 번개를 내려치거나 하지는 않소. 바로 전쟁이지.
-dlga_tavernkeeper_rumor:tavernkeeper_rumor2.2|모든 여행자들은 힐드가 앵글리아에서 가장 아름다운 여자라고 말하곤 하더군.
-dlga_tavernkeeper_rumor:tavernkeeper_rumor2.3|음유시인들은 버나시아의 왕 아엘이 라그나르를 독사가 가득 찬 구덩이에 던져넣을 것을 명령했었고, 그것이 라그나르의 자식들이 앵글리아를 공격하는 이유라고 말하곤 하더군.
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2.2|모든 여행자들은 힐드가 잉글랜드에서 가장 아름다운 여자라고 말하곤 하더군.
+dlga_tavernkeeper_rumor:tavernkeeper_rumor2.3|음유시인들은 버나시아의 왕 아엘이 라그나르를 독사가 가득 찬 구덩이에 던져넣을 것을 명령했었고, 그것이 라그나르의 자식들이 잉글랜드를 공격하는 이유라고 말하곤 하더군.
 dlga_tavernkeeper_rumor:tavernkeeper_rumor2.4|에델울프는 몇년 전에 죽었지, 그의 아들인 에델발드가 에델울프의 미망인이었던 주디스와 결혼했다더군.
 dlga_tavernkeeper_rumor:tavernkeeper_rumor2.5|최근 앨프레드는 얼스위스와 결혼해 웨식스의 2인자가 되었소. 얼스위스는 에셀드 머실의 딸이고, 앨더먼 가이니와 에드버러의 친척이지. 그들은 머시아의 왕족들이오.
 dlga_tavernkeeper_rumor:tavernkeeper_rumor2.6|노스비거의 하랄드가 모든 노스인들의 왕을 꿈꾸는 것은 비밀도 아니라오.
@@ -4597,7 +4597,7 @@ dlga_petro_leaderwessex_38_2:petro_leaderwessex_38_1|그를 죽이자고?! 그�
 dlga_petro_leaderwessex_39:petro_leaderwessex_40|당신은 누구보다 내가 무슨 말을 할지 두려워하고 있소.
 dlga_petro_leaderwessex_40:petro_leaderwessex_41|보도의 말은 다른 증거나 증인보다 내게 훨씬 더 많은 것을 의미하오. 그러나, 우리는 이에 대해 판단하거나 심판할 수 있는 위치에 있지 않소. 그건 오직 왕의 권한이오. 실로, 만약 당신이 배신자라면 당신 스스로를 지키기 위해 신에게 기도해야 할 거요, 왕은 당신을 용서하지 않을 것이오. 그리고 지금, 우리가 웨식스로 출발하는 동안 당신은 투옥될 것이고, 증인으로 {playername}와(과) 함께 아스투리아스로 전송될 것이오.
 dlga_petro_leaderwessex_41:petro_leaderwessex_42|좋소, 나는 실로와 함께 그에 대해 증언하기 위해 아스투리아스로 가겠소.
-dlga_petro_leaderwessex_41:petro_leaderwessex_42.1|미안하오, 나는 아스투리아스로는 갈 수 없소. 나는 앵글리아에서의 내 일을 아직 끝마치지 못했소.
+dlga_petro_leaderwessex_41:petro_leaderwessex_42.1|미안하오, 나는 아스투리아스로는 갈 수 없소. 나는 잉글랜드에서의 내 일을 아직 끝마치지 못했소.
 dlga_petro_leaderwessex_42:petro_leaderwessex_43|아무도 이곳을 빠져나갈 수 없을 것이오. 내가 착각한 것이 아니라면, 수평선에서 나고 있는 저 연기는 당신의 선박에서 나는 것이오. 아마도 덴마크인들이 온 것 같군. 이제 당신은 내 전술이 무엇인지 이해하고 있을 지도 모르지.
 dlga_petro_leaderwessex_43:petro_leaderwessex_44|신들... 아니, 신이시여! 두 함대가 서로 싸우고 있소. 이 연기는 불화살에서 나오고 있는 거요.
 dlga_petro_leaderwessex_44:petro_leaderwessex_45|당신은 독수리 같은 눈을 가지고 있구려, 칸타브리아인이여. 덴마크인들이 모든걸 파괴하기 전에 우리는 우리의 동맹을 도와야 하오. 실로, 우리에게는 당신의 병력이 필요하오. 그들은 우리의 함대에서 가장 좋은 선원들이오.

@@ -1,4 +1,4 @@
-﻿str_yes|네.
+str_yes|네.
 str_no|아니오.
 str_blank_string| 
 str_noone|아무도 없음
@@ -13,10 +13,10 @@ str_msg_battle_won|전투에서 승리했습니다! (TAB 키를 눌러 나가십
 str_tutorial_map1|당신은 지금 전체 지도를 보고 있습니다. 지면이나 마을을  클릭하여 부대를 이동시키거나, 다른 부대를 클릭하여 추격할 수 있습니다.^부대가 이동, 대기, 혹은 휴식 중이 아닐 때는 지도의 시간이 정지합니다. 어디서든 대기하려면 스페이스 바를 길게 누르십시오.^지금이 게임을 저장하기 좋은 때입니다! Esc 키를 눌러 '다른 이름으로 저장'을 선택하거나 F12 키를 눌러 빠른 저장을 하십시오.^^행운을 빕니다!
 str_tutorial_map11|이제 충분한 병력을 갖추었습니다. 야를에게 돌아가 다음 지시를 받으십시오.
 str_randomize|무작위로 고르기
-str_charge|문장
+str_charge|돌격
 str_color|색상
-str_flip_horizontal|상하 뒤집기
-str_flip_vertical|좌우 뒤집기
+str_flip_horizontal|좌우 뒤집기
+str_flip_vertical|상하 뒤집기
 str_hold_fire|사격 중지
 str_blunt_hold_fire|둔기 / 사격 중지
 str_tutorial_ammo_refilled|무기가 재장전되었습니다.
