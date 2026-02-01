@@ -1109,7 +1109,7 @@ qstr_Your_Odin_knows_noth|당신의 오딘은 사람들에게 죽음을 강요�
 qstr_I_ve_been_pondering_t|한동안 그리스도교에 대해 고민해 왔소만, 확실히 내 취향은 아니구려! 도끼를 휘두르는 대신 무릎이나 꿇고 보내는 시간이 너무 많은 것 같소. 이 순간부로 나는 그리스도교의 거짓된 신을 부정하고 진정한 신들인 오딘, 토르, 프레이야에게 돌아가겠소!
 qstr_You_know_{playername|있잖소, {playername}, 나는 최근에야 그리스도교로 개종했지만 여전히 우리의 옛 신들인 오딘, 토르, 프레이야를 기억하고 있소. 그리스도교는 사내들을 겁쟁이와 약골로 만들 뿐이지, 나는 분명 그보다 나은 사람이오. 이 순간부로 나는 더 이상 기독교인이 아니오!
 qstr_I_see_no_reason_to_e|당신 같은 자와 그런 일을 논의해야 할 이유를 모르겠소!
-qstr_Plain|평원
+qstr_Plain|평범
 qstr_Please_note_that_thi|이 보강 작업을 거치면 무기의 위력은 강해지지만 무게 때문에 속도는 더 느려진다는 점에 유의하시오.
 qstr_This_is_the_{reg4?to|이 곳은 {s5} {reg4?도시라오:마을이오}, {reg59?부인:선생}.
 qstr_{s6}_Our_{reg4?town:|{s6} 우리 {reg4?도시:마을}와 주변 영지는 당연히 {reg59?부인:주군}의 소유입니다.
@@ -1419,7 +1419,7 @@ qstr_Forty_men_are_needed|40명의 병력 필요.
 qstr_Fortify_Camp:|야영지 요새화:
 qstr_^Fortify_your_camp_w|^기본적인 방어 시설로 야영지를 요새화합니다. 이 힘든 작업에 동원된 병사들에게는 200페닝의 보상이 필요하며, 지불하지 않을 시 문제가 생길 수 있습니다.
 qstr_Sixty_men_are_needed|60명의 병력 필요.
-qstr_Your_Refuge|당신의 은신처
+qstr_Your_Refuge|은신처 세우기
 qstr_Wait_Here|여기서 대기
 qstr_Troop_Tree|병종 트리
 qstr_Second_Outfit|보조 의상
