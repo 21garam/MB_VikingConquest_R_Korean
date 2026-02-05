@@ -186,11 +186,11 @@ ui_explanation_time_limit|안녕하세요 모험자님, 마운트 앤 블레이�
 ui_target_lost|목표 놓침
 ui_waiting|대기 중
 ui_travelling_to|목적지로 이동 중: 
-ui_following|추격 중
-ui_accompanying|동행 중
-ui_running_from|회피 중
+ui_following|추격 중: 
+ui_accompanying|동행 중: 
+ui_running_from|회피 중: 
 ui_patrolling|순찰 중
-ui_patrolling_around|주변 순찰 중
+ui_patrolling_around|주변 순찰 중: 
 ui_holding|대기 중
 ui_travelling|여행 중
 ui_fighting_against|교전 중
