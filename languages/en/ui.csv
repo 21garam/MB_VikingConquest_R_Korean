@@ -185,7 +185,7 @@ ui_time_limit_reached|제한 시간 도달!
 ui_explanation_time_limit|안녕하세요 모험자님, 마운트 앤 블레이드가 아직 활성화되지 않고 체험판으로 구동되고있습니다. 이 모드에서는 최대 일수가 30일로 제한됩니다. 이어서 플레이 하시려면, 게임을 재시작하여 박스에 동봉된 16자리 시리얼 키를 입력하여 활성화해 주세요. 활성화 후, 여기서부터 이어서 하실수 있습니다. 이제 마운트 앤 블레이드는 저장후 종료됩니다.
 ui_target_lost|목표 놓침
 ui_waiting|대기 중
-ui_travelling_to|목적지로 이동 중
+ui_travelling_to|목적지로 이동 중: 
 ui_following|추격 중
 ui_accompanying|동행 중
 ui_running_from|회피 중
