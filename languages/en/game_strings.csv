@@ -1837,69 +1837,69 @@ str_brotherinlaw|처남
 str_print_party_members_entered|들어간 부대 구성원을 출력하십시오.
 str_num_companion_stacks_=_reg10|동료들의 총 수 = {reg10}
 str_someone|누군가
-str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|내가 할 수 있는 일은 무엇이든지 받고 있소, {reg59?부인:선생}. 나는 물을 나르거나, 상인들을 도와주는 것 이외에도 건설 현장에서도 일을 할 수 있다오.
-str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|나는 아무런 일도 하지 않고 있소, {reg59?부인:선생}. 요즘 이 주변엔 아무런 일거리도 없소.
-str_im_not_doing_anything_sirmadame_i_have_no_land_of_my_own_and_theres_no_work_to_be_had_around_here_these_days|나는 아무런 일도 하지 않고 있소, {reg59?부인:선생}. 나는 가진 땅이 없고, 요즘 이 주변엔 아무런 일거리도 없다오.
-str_why_im_still_living_off_of_your_kindness_and_goodness_sirmadame_hopefully_there_will_be_work_shortly|당신의 친절과 선의로 저는 아직 살아가고 있소. {reg59?부인:선생}. 다행히 당분간은 버틸 수 있겠소.
-str_i_work_in_the_fields_just_outside_the_walls_where_they_grow_grain_we_dont_quite_grow_enough_to_meet_our_needs_though_and_have_to_import_grain_from_the_surrounding_countryside|나는 성벽 바로 밖에 있는 곡식이 자라는 밭에서 일하고 있소. 우리가 쓰기 충분한 곡식이 자라는건 아니라오. 그렇기 때문에 주변의 마을에서 오는 곡물은 매우 중요하다오.
-str_i_work_mostly_in_the_fields_growing_grain_in_the_town_they_grind_it_to_make_bread_or_ale_and_we_can_also_boil_it_as_a_porridge|나는 대부분 곡물이 자라는 밭에서 일하고 있소. 빵이나 에일을 만들기 위해 마을에서 그 것들을 갈고 있지, 죽을 끓이는데 쓰기도 하고 있소.
-str_i_work_in_the_breweries_making_ale_the_poor_folk_drink_a_lot_of_it_as_its_cheaper_than_wine_we_make_it_with_grain_brought_in_from_the_countryside|나는 양조장에서 일하고 있소. 에일을 만들고 있지. 에일은 벌꿀술보다 싸기 때문에 가난한 시민들이 즐겨 마시고 있소, 우리는 이걸 마을에서 가져온 곡물로 만든다오.
-str_i_work_in_a_mill_grinding_flour_to_make_bread_bread_is_cheap_keeps_well_and_fills_the_stomach|나는 풍차에서 일하고 있소. 빵을 만들기 위해 밀가루를 갈고 있지. 빵은 저렴하고, 포만감이 오래 가며, 배를 채워줄 수 있소.
-str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk|나는 가축을 돌보는 일을 하고 있소. 우리는 고기를 보관하기 좋도록 말리고 소금에 절이곤 하오. 그리고 가죽은 도시로 보내지. 우리는 또한 우유에서 치즈도 만들고 있소.
-str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk_so_it_doesnt_spoil|나는 가축을 돌보는 일을 하고 있소. 우리는 고기를 보관하기 좋도록 말리고 소금에 절이곤 하오. 그리고 가죽은 도시로 보내지. 우리는 또한 우유에서 치즈도 만들고 있소.
-str_i_tend_sheep_we_send_the_wool_to_the_cities_to_be_woven_into_cloth_and_make_mutton_sausage_when_we_cull_the_herds|나는 양을 돌보곤 하오. 우리는 도시로 양모를 보내어 옷감을 짤 수 있게 하고 있소. 그리고 가축을 도살할 땐 양고기 소세지를 만들고 있지.
-str_i_work_at_a_loom_spinning_cloth_from_wool_wool_is_some_of_the_cheapest_cloth_you_can_buy_but_it_will_still_keep_you_warm|나는 베틀로 일하오, 양모에서 옷감을 짜내고 있지. 양모는 당신이 살 수 있는 옷감 중 가장 저렴한 것 중 하나일 거요. 하지만 분명 당신을 따듯하게 해줄 것이오.
-str_i_crew_a_fishing_boat_we_salt_and_smoke_the_flesh_to_sell_it_far_inland|나는 어선의 선원이고. 우리는 소금에 절이거나 훈제한 살코기를 멀리 내륙에 팔고 있소.
-str_i_sift_salt_from_a_nearby_flat_they_need_salt_everywhere_to_preserve_meat_and_fish|나는 근처 염전에서 소금을 걸러 내곤 하오. 소금은 어디에서나 고기나 생선을 보관하기 위해 필요하지.
-str_i_mine_iron_from_a_vein_in_a_nearby_cliffside_they_use_it_to_make_tools_arms_and_other_goods|나는 절벽 근처의 광맥에서 철을 캐고 있소. 그 것들은 공구나 무기, 그리고 다른 상품을 만드는 데 사용되곤 하지.
-str_i_make_pottery_which_people_use_to_store_grain_and_carry_water|나는 사람들이 곡식을 보관하거나 물을 나르기 위해 쓰는 도자기를 만들고 있소.
-str_trade_explanation_tools|나는 대장간에서 일을 하고 있소, {reg59?부인:선생}. 영주를 위해 칼, 도끼, 냄비, 쟁기날, 커다란 낫, 망치, 모루, 집게, 자귀, 톱, 손톱깎이, 말굽, 철제 부싯돌, 화로, 그리고 무기와 방어구 종류 등 각종 철로 만들어진 물품들을 만들고 있소.
+str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|할 수 있는 일이면 뭐든지 하고 있소, {reg59?부인:선생}. 물을 나르거나 상인들의 짐을 옮겨 주거나, 지을 것이 있으면 짓는 일을 돕고 있지.
+str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|나는 아무 일도 하지 못하고 있소, {reg59?부인:선생}. 요즘 이 근처에는 일거리가 없소.
+str_im_not_doing_anything_sirmadame_i_have_no_land_of_my_own_and_theres_no_work_to_be_had_around_here_these_days|나는 아무 일도 하지 못하고 있소, {reg59?부인:선생}. 가진 땅도 없고, 요즘 이 근처에는 일거리가 없소.
+str_why_im_still_living_off_of_your_kindness_and_goodness_sirmadame_hopefully_there_will_be_work_shortly|당신의 친절과 선의 덕분에 살아가고 있소, {reg59?부인:선생}. 곧 일거리가 생기길 바랄 뿐이오.
+str_i_work_in_the_fields_just_outside_the_walls_where_they_grow_grain_we_dont_quite_grow_enough_to_meet_our_needs_though_and_have_to_import_grain_from_the_surrounding_countryside|나는 성벽 바로 밖 곡물을 기르는 밭에서 일하고 있소. 우리가 필요한 만큼 재배를 하고 있진 않소. 때문에 주변 마을에서 곡식을 들여와 쓸 수밖에 없소.
+str_i_work_mostly_in_the_fields_growing_grain_in_the_town_they_grind_it_to_make_bread_or_ale_and_we_can_also_boil_it_as_a_porridge|나는 대부분의 시간을 밭에서 곡식을 키우는 데 쓰고 있소. 마을에서는 빵이나 에일을 만들기 위해 곡식을 갈고 있소. 죽을 끓이는 데도 쓰이오.
+str_i_work_in_the_breweries_making_ale_the_poor_folk_drink_a_lot_of_it_as_its_cheaper_than_wine_we_make_it_with_grain_brought_in_from_the_countryside|나는 양조장에서 에일을 만들고 있소. 에일은 벌꿀술보다 싸기 때문에 가난한 시민들이 즐겨 마시고 있소, 주변 마을에서 가져온 곡물로 만든다오.
+str_i_work_in_a_mill_grinding_flour_to_make_bread_bread_is_cheap_keeps_well_and_fills_the_stomach|나는 방앗간에서 밀가루를 갈아 빵을 만드는 일을 하오. 빵은 저렴하고, 오래 보관할 수 있고, 배도 든든하게 채워주지.
+str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk|나는 소를 돌보는 일을 하고 있소. 고기는 말리거나 소금에 절여 두고, 생가죽은 도시로 보내 가죽을 만들게 하지. 우유로는 치즈를 만들고 있소.
+str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk_so_it_doesnt_spoil|나는 소를 돌보는 일을 하고 있소. 고기는 말리거나 소금에 절여 두고, 가죽은 도시로 보내지. 우유는 상하지 않게 치즈로 만들어 두오.
+str_i_tend_sheep_we_send_the_wool_to_the_cities_to_be_woven_into_cloth_and_make_mutton_sausage_when_we_cull_the_herds|나는 양을 돌보는 일을 하고 있소. 양모는 도시로 보내 옷감을 짜게 하고, 무리를 줄일 때는 양고기 소시지를 만들지.
+str_i_work_at_a_loom_spinning_cloth_from_wool_wool_is_some_of_the_cheapest_cloth_you_can_buy_but_it_will_still_keep_you_warm|나는 베틀에서 양모로 옷감을 짜고 있소. 양모는 살 수 있는 옷감 가운데 가장 싼 편이지만, 분명 당신을 따듯하게 해줄 것이오.
+str_i_crew_a_fishing_boat_we_salt_and_smoke_the_flesh_to_sell_it_far_inland|나는 어선에서 일하는 선원이오. 고기는 소금에 절이거나 훈제해서 먼 내륙까지 팔고 있소.
+str_i_sift_salt_from_a_nearby_flat_they_need_salt_everywhere_to_preserve_meat_and_fish|나는 근처 염전에서 소금을 걸러 내오. 고기나 생선을 보관하려면 어디서나 소금이 필요하지.
+str_i_mine_iron_from_a_vein_in_a_nearby_cliffside_they_use_it_to_make_tools_arms_and_other_goods|나는 근처 절벽의 광맥에서 철을 캐내는 광부라오. 그걸로 연장이랑 무기, 그 밖의 물건들을 만든다오.
+str_i_make_pottery_which_people_use_to_store_grain_and_carry_water|나는 도자기를 만드는 도공이오. 곡식을 보관하거나 물을 나르는 데 쓰이지.
+str_trade_explanation_tools|나는 대장간에서 일하고 있소, {reg59?부인:선생}. 칼, 도끼, 냄비, 쟁기날, 큰 낫, 망치, 모루, 집게, 자귀, 톱, 못, 말굽, 부싯돌, 화로, 그리고 무기와 방어구까지 각종 철물을 만든다오.
 str_trade_explanation_tar|나는 타르 작업장에서 일하고 있소. 시골에서 가져온 소나무로 타르를 만들어 내지. 우리 타르는 백 가지 쓰임이 있소 — 돛과 배를 방수하거나 가죽을 보호하는 데 쓰이지.
-str_trade_explanation_linen|나는 주변 시골에서 가져온 아마를 사용하여 리넨을 짜고 있소, {reg59?부인:선생}. 질기고 가벼운 직물이 되어 좋은 여름 의류, 선박의 돛 등을 만들고 있지.
-str_trade_explanation_silver|나는 이 마을 은세공소 중 한 곳에서 일하고 있소. 우리가 이름난 보석을 조심스럽게 만들지. 하르츠 산맥의 은광에서 나온 귀금속으로, 이 땅에서 구할 수 있는 가장 훌륭하고 값비싼 장신구를 만든다오.
-str_trade_explanation_mead|나는 벌꿀술 공장에서 일하고 있소. 벌통에서 꿀을 모아 통에 넣지. 순수한 물과 섞어 발효시키오. 벌꿀술은 와인보다 저렴하면서 에일보다는 이름값이 있소. 연회엔 벌꿀술이 없어서는 안 되지.
-str_trade_explanation_apples|나는 과수원에서 사과를 키우는 일을 하오, 막 그쪽에서 들어온 길이오. 저장하려고 말리거나, 사과주나 식초로 만들 수도 있소.
-str_trade_explanation_barley|나는 보리밭에서 일하고 있소. 가축 먹이와 서민들의 목마름을 달래는 에일을 만들 곡식을 키우고 있지.
-str_trade_explanation_ivory|나는 바다 건너 얼어붙은 땅의 외딴 해변에서 바다코끼리를 잡으러 먼 북방으로 항해하오. 이 해양 짐승은 고급 상아로 된 두 개의 큰 엄니를 지녔지. 고향에서는 장인들이 이 단단하고 비싼 순백의 재료로 많은 보물을 만든다오.
-str_trade_explanation_leatherwork|나는 성벽 외곽에서 주변 마을을 돌아 다니면서 건조시킨 가죽을 공급하는 일을 하고 있소. 그 일은 악취 나는 일이며 내 집에 오면 오줌, 똥, 그리고 석회 냄새가 나고 있을 거요. 하지만 가죽은 당신의 신발, 샌달, 그리고 말 굴레 어디든 사용되고 있소, {reg59?부인:선생}.
-str_trade_explanation_flax|나는 아마 씨앗과 뿌리 줄기를 수확하고, 바느질을 해서 아마 섬유를 만들고 있소. 그 것은 질 좋은 리넨 제품의 원료요, {reg59?부인:선생}.
-str_trade_explanation_soapstone|나는 비누석 채석장에서 일하고 있소. 이 돌은 암벽에서 바로 잘라 내어 형을 만든 뒤 이곳과 외국에 팔리지. 비누석은 비교적 부드러워 쉽게 조각할 수 있어서’s 조각이나 그릇을 만드는 데 쓰인다오.
-str_trade_explanation_venison|나는 숲에서 사슴을 잡고 훈제장에서 일하오. 고기를 오래 보관하려고 훈제하지. 추운 철은 물론 여름에도 사슴고기는 그대가 먹을 수 있는 가장 훌륭한 밥이오.
-str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. 나는 {s15}에서 그 것들이 좋은 가격에 팔린다고 들었소.
+str_trade_explanation_linen|나는 주변 시골에서 가져온 아마로 리넨을 짜고 있소, {reg59?부인:선생}. 질기고 가벼워 여름옷과 배의 돛을 만드는 데 쓰이지.
+str_trade_explanation_silver|나는 이 마을 은세공소 중 한 곳에서 일하고 있소. 이름난 보석을 조심스럽게 만들지. 하르츠 산맥 은광의 귀금속으로, 이 땅에서 구할 수 있는 가장 훌륭하고 값진 장신구를 만든다오.
+str_trade_explanation_mead|나는 벌꿀술 공장에서 일하고 있소. 벌통에서 꿀을 모아 통에 넣지. 순수한 물과 섞어 발효시키오. 벌꿀술은 와인보다 싸고 에일보다는 이름값이 있소. 연회엔 벌꿀술이 없어서는 안 되지.
+str_trade_explanation_apples|과수원에서 사과를 키우는 일을 하오, 막 그쪽에서 들어온 길이오. 보관을 위해 말려 두거나 사과주나 식초로 만들기도 하지.
+str_trade_explanation_barley|나는 보리밭에서 일하고 있소. 가축 먹이랑 서민들의 목마름을 달래는 에일을 만들 곡식을 키우고 있지.
+str_trade_explanation_ivory|나는 바다 건너 얼어붙은 땅의 외딴 해변에서 바다코끼리를 잡으러 먼 북방으로 항해하오. 이 해양 짐승은 고급 상아로 된 두 개의 큰 엄니를 지녔지. 고향에서는 이 단단하고 비싼 순백의 재료로 보물을 만든다오.
+str_trade_explanation_leatherwork|나는 성벽 밖 무두질장에서 일하고 있소. 마을에서 가져온 생가죽을 다듬어 좋은 가죽으로 만드는 일을 하오. 냄새나는 일이라 집에 오면 오줌, 똥, 석회 냄새가 배어 있지. 그래도 당신의 신발, 안장, 말굴레가 다 여기서 나온다오, {reg59?부인:선생}.
+str_trade_explanation_flax|나는 아마씨를 수확하고 줄기를 썩혀 아마 섬유를 만들고 있소. 질 좋은 리넨의 원료가 되지, {reg59?부인:선생}.
+str_trade_explanation_soapstone|나는 비누석 채석장에서 일하고 있소. 이 돌은 암벽에서 바로 잘라 형을 만든 뒤 근처 도시들과 외국에 팔리지. 비누석은 부드러워 쉽게 조각할 수 있어서 조각이나 그릇을 만드는 데 쓰인다오.
+str_trade_explanation_venison|나는 숲에서 사슴을 잡고 훈제장에서 일하오. 고기를 오래 보관하기 위해 훈제하지. 추운 계절은 물론 여름에도 사슴고기는 그대가 먹을 수 있는 가장 훌륭한 먹거리오.
+str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. {s15}에서는 값을 잘 받는다고 들었소.
 str_s2s_rebellion|{s2}의 반란
 str_political_suggestion|정치적 제안
-str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|불안정: {reg0}%의 영주들이 불만족, {reg1}%는 안절부절
+str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|불안정: 영주의 {reg0}%가 불만, {reg1}%는 불안
 str_reg1shehe_is_prisoner_of_s1|{reg1?그녀:그}는 {s1}의 포로입니다.
-str_s39_rival|{s39} (라이벌)
-str_s41_s39_rival|{s41}, {s39} (라이벌)
+str_s39_rival|{s39} (경쟁자)
+str_s41_s39_rival|{s41}, {s39} (경쟁자)
 str_reputation_only_martial_|당신이 보기에, 그의 성향은 호전적입니다.^
 str_reputation_only_debauched_|당신이 보기에, 그의 성향은 방탕합니다.^
 str_reputation_only_pitiless_|당신이 보기에, 그의 성향은 무자비합니다.^
 str_reputation_only_calculating_|당신이 보기에, 그의 성향은 계산적입니다.^
-str_reputation_only_quarrelsome_|당신이 보기에, 그의 성향은 싸움꾼입니다.^
+str_reputation_only_quarrelsome_|당신이 보기에, 그의 성향은 다툼을 좋아합니다.^
 str_reputation_only_goodnatured_|당신이 보기에, 그의 성향은 온화합니다.^
 str_reputation_only_upstanding_|당신이 보기에, 그의 성향은 강직합니다.^
 str_reputation_only_conventional_|당신이 보기에, 그의 성향은 관습적입니다.^
-str_reputation_only_adventurous_|당신이 보기에, 그의 성향은 모험성이 강합니다.^
-str_reputation_only_romantic_|당신이 보기에, 그의 성향은 낭만적 입니다.^
+str_reputation_only_adventurous_|당신이 보기에, 그의 성향은 모험적입니다.^
+str_reputation_only_romantic_|당신이 보기에, 그의 성향은 낭만적입니다.^
 str_reputation_only_moralist_|당신이 보기에, 그의 성향은 도덕적입니다.^
 str_reputation_only_ambitious_|당신이 보기에, 그의 성향은 야망가입니다.^
-str_love_interest|애정 상대
+str_love_interest|애정 대상
 str_betrothed|약혼자
-str_other_relations_s40_|그 외 인간관계: {s40}^
+str_other_relations_s40_|그 외 관계: {s40}^
 str_relation_with_liege_reg0_|주군과의 관계: {reg0}^
 str_sense_of_security_military_reg1_court_position_reg3_|안정감: {reg1}명의 군사, {reg3}개의 지역^
 str_political_details_s47_|정치적 세부사항:^{s47}^
 str_the_s55|그 {s55}
-str_travellers_on_the_road|길위의 여행자들
+str_travellers_on_the_road|길 위의 여행자들
 str_a_short_while_ago|얼마 전
 str_one_day_ago|하루 전
 str_two_days_day_ago|이틀 전
 str_earlier_this_week|며칠 전
-str_about_a_week_ago|일주일 전
-str_about_two_weeks_ago|이주일 전
-str_several_weeks_ago|몇주 전
-str_unknown_assailants|알 수 없는 괴한들
+str_about_a_week_ago|일주일쯤 전
+str_about_two_weeks_ago|이주일쯤 전
+str_several_weeks_ago|몇 주 전
+str_unknown_assailants|알 수 없는 습격자들
 str_swadians|브리튼인
 str_vaegirs|바이킹
 str_khergits|색슨인
@@ -1908,96 +1908,96 @@ str_rhodoks|고이델인
 str_sarranids|픽트인
 str_bandits|도적
 str_deserters|탈영병
-str_your_followers|플레이어 추종자
-str_we_have_heard_that_travellers_heading_to_s40_were_attacked_on_the_road_s46_by_s39|우리는 {s40}(으)로 향하는 여행자들로부터 그들이 {s46} 근처 길목에서 {s39}에게 습격당했다고 들었소.
-str_we_have_heard_that_travellers_coming_from_s40_were_attacked_on_the_road_s46_by_s39|우리는 {s40}에서 온 여행자들로부터 그들이 {s46} 근처 길목에서 {s39}에게 습격당했다고 들었소.
-str_travellers_coming_from_s40_traded_here_s46|{s46}에 {s40}(으)로부터 온 여행자들이 이 곳에서 물건들을 거래했다는 소식을 들었소.
-str_it_is_still_early_in_the_caravan_season_so_we_have_seen_little_tradings42|아직 상단들이 다닐 만한 시기가 아니기 때문에, 우리는 그리 큰 거래는 하지 못했소.{s42}
-str_there_has_been_very_little_trading_activity_here_recentlys42|최근까지 이 도시에서는 매우 작은 거래만이 진행되고 있었소.{s42}
-str_there_has_some_trading_activity_here_recently_but_not_enoughs42|최근 이 도시에서는 몇몇 거래가 있었지만, 그리 충분하지는 않았소.{s42}
-str_there_has_some_trading_activity_here_recently_but_the_roads_are_dangerouss42|최근 이 도시에서는 몇몇 거래가 있었지만, 이 근처의 길들은 위험하오.{s42}
-str_the_roads_around_here_are_very_dangerouss42|이 근처 길은 매우 위험하오.{s42}
-str_we_have_received_many_traders_in_town_here_although_there_is_some_danger_on_the_roadss42|우리는 이 도시로 온 많은 상인들을 보았소, 물론 교역로에는 어느 정도 위험이 따르기 마련이오.{s42}
-str_we_have_received_many_traders_in_town_heres42|우리는 이 도시로 온 많은 상인들을 보았소.{s42}
-str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe| {s44}(으)로 가는 상단들의 교역로와 그 근처에 대한 새로운 소식은 별로 없는 것 같소. 그러나 무소식이 희소식이니 그들은 안전할 것이라고 생각하고 있소.
-str_s47_also_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|{s47} 또한, {s44} 근처 길목과 근처에 있는 다른 외진 마을들도 안전할 것이라고 생각하고 있소.
-str_however_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|그러나, {s44}(으)로 가는 길과 외진 마을들은 안전할 것이라고 생각하고 있소.
+str_your_followers|당신의 추종자들
+str_we_have_heard_that_travellers_heading_to_s40_were_attacked_on_the_road_s46_by_s39|{s40}으로 향하던 여행자들이 {s46} 근처 길목에서 {s39}에게 습격당했다는 소식을 들었소.
+str_we_have_heard_that_travellers_coming_from_s40_were_attacked_on_the_road_s46_by_s39|{s40}에서 오던 여행자들이 {s46} 근처 길목에서 {s39}에게 습격당했다는 소식을 들었소.
+str_travellers_coming_from_s40_traded_here_s46|{s40}에서 온 여행자들이 {s46}에서 여기와 거래했다는 소식을 들었소.
+str_it_is_still_early_in_the_caravan_season_so_we_have_seen_little_tradings42|아직 상단이 다니기엔 이른 철이라 거래는 거의 없었소.{s42}
+str_there_has_been_very_little_trading_activity_here_recentlys42|최근 이곳에서는 거래가 거의 없었소.{s42}
+str_there_has_some_trading_activity_here_recently_but_not_enoughs42|최근 이곳에 거래가 좀 있었지만, 충분하지는 않았소.{s42}
+str_there_has_some_trading_activity_here_recently_but_the_roads_are_dangerouss42|최근 이곳에 거래가 좀 있었지만, 이 근처의 교역로는 위험하오.{s42}
+str_the_roads_around_here_are_very_dangerouss42|이 근처 교역로는 매우 위험하오.{s42}
+str_we_have_received_many_traders_in_town_here_although_there_is_some_danger_on_the_roadss42|이 도시로 많은 상인이 찾아왔소. 물론 교역로에는 어느 정도 위험이 따르기 마련이오.{s42}
+str_we_have_received_many_traders_in_town_heres42|이 도시로 많은 상인이 찾아왔소.{s42}
+str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe|{s44}(으)로 가는 상단 길과 그 근처 소식은 거의 없소. 무소식이 희소식이니, 그 교역로는 안전하다고 생각하고 있소.
+str_s47_also_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|{s47} 또한 {s44} 마을들과 그 밖 외진 촌락으로 가는 길도 안전하다고 생각하고 있소.
+str_however_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|다만 {s44} 마을들과 그 밖 외진 촌락으로 가는 길은 안전하다고 생각하고 있소.
 str_we_have_shortages_of|우리는 이런 물건들이 부족하오.
-str_we_have_adequate_stores_of_all_commodities|우리는 모든 상품을 거래할 적절한 매장을 가지고 있소.
-str_s33_and_some_other_commodities|{s33} 그리고 그 외에 여러 물품들도 부족한 상황이오.
-str_the_roads_are_full_of_brigands_friend_but_that_name_in_particular_does_not_sound_familiar_good_hunting_to_you_nonetheless|이 길바닥에는 온갖 도적들로 가득 차 있소, 친구. 하지만 특히나 그 이름은 익숙하지 않게 들리는구려. 그럼에도 불구하고 추적에 성공하시길 빌겠소.
+str_we_have_adequate_stores_of_all_commodities|모든 상품이 넉넉히 비축되어 있소.
+str_s33_and_some_other_commodities|{s33} 그 밖 여러 물품이 부족하오.
+str_the_roads_are_full_of_brigands_friend_but_that_name_in_particular_does_not_sound_familiar_good_hunting_to_you_nonetheless|이 길바닥에는 온갖 도적들로 가득 차 있소, 친구. 그런데 그 이름만은 익숙하지 않구려. 그럼에도 불구하고 추적에 성공하시길 빌겠소.
 str_less_than_an_hour_ago|한 시간 내
-str_maybe_reg3_hours_ago|아마도 {reg3}시간 전
+str_maybe_reg3_hours_ago|아마 {reg3}시간 전
 str_reg3_days_ago|{reg3}일 전
-str_youre_in_luck_we_sighted_those_bastards_s16_near_s17_hurry_and_you_might_be_able_to_pick_up_their_trail_while_its_still_hot|당신은 운이 좋소. 우리는 그 놈들을 {s17} 근처에서 {s16}에 보았소. 서둘러 간다면 아마도 그들의 꼬리를 잡을 수도 있을 거요.
+str_youre_in_luck_we_sighted_those_bastards_s16_near_s17_hurry_and_you_might_be_able_to_pick_up_their_trail_while_its_still_hot|운이 좋소. 그 놈들을 {s17} 근처 {s16}에서 봤소. 서두르면 아직 흔적이 식기 전에 그들의 꼬리를 잡을 수 있을 거요.
 str_you_speak_of_claims_to_the_throne_good_there_is_nothing_id_rather_do_than_fight_for_a_good_cause|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군, 좋소. 정의를 위해서 싸우는 것보다 더 좋은 이유는 없겠지.
 str_you_speak_of_claims_to_the_throne_well_there_is_nothing_id_rather_do_than_fight_for_a_good_cause_but_the_claim_you_make_seems_somewhat_weak|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군, 좋소. 올바른 정통성을 위해서 싸우는 것보다 더 좋은 이유는 없겠지, 그러나 그 주장을 하기에는 당신 스스로의 정통성이 부족하다고 생각하지 않소?
-str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_which_are_sometimes_trod_upon_in_these_sorry_days|나는 당신이 나의 오래된 권리를 지지해 준다니 기쁘군, 이런 시기에는 그런 권리들이 때때로 짓밟히곤 한다오.
-str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_but_sometimes_men_make_pledges_before_they_are_king_which_they_cannot_keep_once_they_take_the_throne|나는 당신이 나의 오래된 권리를 지지해 준다니 기쁘군, 그러나 때때로 왕은 귀족들이 왕이 되기 전에 서약을 하고 나면, 그가 왕위에 오른 뒤에 그 서약을 내팽겨쳐버리기도 하오.
-str_you_speak_of_protecting_the_commons_well_i_supposed_thats_good_but_sometimes_the_commons_overstep_their_boundaries_im_more_concerned_that_your_claim_be_legal_so_i_can_swing_my_sword_with_a_good_conscience|당신은 평민들을 보호할 것이라고 말했소, 음. 그건 내 생각에도 괜찮소만, 종종 그들은 주제넘은 행위를 할 때가 있소. 그러나, 나는 당신의 정당한 주장에도 관심이 많으니, 나의 양심에 따라서 내 검을 당신을 위해 바치겠소.
-str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|당신은 나에게 영지를 준다고 말했소, 그건 내가 당신에게 기대하고 있던 것이지.
-str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|당신은 나에게 영지를 준다고 말했소. 불행하게도, 나는 당신이 나에게 이 같은 호의를 베푼다고 해도, 당신을 따르기에는 당신의 명성이 너무나도 부족한 것 같소만.
-str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 그렇지만 나는 우리가 앞으로도 계속 싸워야 할 것이라고 생각하오. - 각자가 믿는 정의의 길이 다른 것 같다고 생각하기 때문이지.
+str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_which_are_sometimes_trod_upon_in_these_sorry_days|내 오랜 권리를 지켜 주겠다니 기쁘군. 요즘처럼 그런 권리가 짓밟히기 쉬운 때가 없소.
+str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_but_sometimes_men_make_pledges_before_they_are_king_which_they_cannot_keep_once_they_take_the_throne|내 오랜 권리를 지켜 주겠다니 기쁘군. 하지만 왕이 되기 전에 한 서약을 왕위에 오른 뒤엔 지키지않고 내팽겨치는 것도 흔한 일이오.
+str_you_speak_of_protecting_the_commons_well_i_supposed_thats_good_but_sometimes_the_commons_overstep_their_boundaries_im_more_concerned_that_your_claim_be_legal_so_i_can_swing_my_sword_with_a_good_conscience|당신은 평민을 보호하겠다고 했소. 내 생각에도 좋은 일이지만, 종종 그들은 주제넘은 행위를 할 때가 있소. 나는 당신의 주장이 법리에 맞는지가 더 중요하오. 그래야 양심껏 검을 휘둘 수 있지.
+str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|당신은 나에게 영지를 주겠다고 했소. 좋소. 내 몫 이상을 바라지는 않겠소.
+str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|당신은 나에게 영지를 주겠다고 했소. 안타깝게도 당신이 그런 약속을 한 이들에게 보답하기에는 명성이 너무나도 부족한 것 같소.
+str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 그렇지만 나는 우리가 앞으로도 계속 싸워야 할 것이라고 생각하오. 다만 정당한 대의를 위해 싸우는 것이 중요하지.
 str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 허나, 나는 대소 신료들의 정당함에 관한 논쟁에 대하여 말하고 싶지 않소.
-str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|당신은 정의로운 통치에 대해 말씀 하였소. 하! 당신이 말하는 정의로운 왕을 한 명이라도 눈으로 볼 수 있다면 그때 믿어 주겠소.
-str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 만약 당신이 그 말을 지킬 수 있다면, 당신은 건국왕이 되어 오랫동안 왕위를 누릴 수 있을 거요.
+str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|당신은 정의롭게 다스리겠다고 했소. 하! 당신이 말하는 정의로운 왕을 한 명이라도 눈으로 볼 수 있다면 그때 믿어 주겠소.
+str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|당신은 귀족의 권리를 지켜 주겠다고 했소. 만약 당신이 그 말을 지킬 수 있다면, 당신은 건국왕이 되어 오랫동안 왕위를 누릴 수 있을 거요.
 str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|당신은 나에게 영지를 준다고 말했지. 음, 좋소. 당신이 정말로 그것을 이행한다면 생각해 보겠소.
 str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|당신은 나에게 영지를 준다고 말했지. 하, 당신은 약속 안 지키기로 유명한 사람이지 않소?
-str_you_speak_of_unifying_calradia_well_youve_done_a_good_job_at_making_calradia_bend_its_knee_to_you_so_maybe_thats_not_just_talk|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 그리고 실제로 당신은 이 왕국을 무릎 꿇릴 능력이 있소, 당신 말처럼 말이오.
-str_you_speak_of_unifying_calradia_id_be_impressed_if_i_thought_you_could_do_it_but_unfortunately_you_dont|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 만일 당신이 실제로 그럴 능력이 있다면 나는 기꺼이 당신에게 동조할 것이오, 그러나 불행하게도 당신에게는 그럴 능력이 없는 것 같소.
-str_you_speak_of_claims_to_the_throne_well_any_peasant_can_claim_to_be_a_kings_bastard|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 좋소, 당신이 어떤 촌에서 태어났든 스스로가 왕의 사생아라고 주장할 수도 있겠지.
-str_well_its_a_fine_thing_to_court_the_commons_with_promises_but_what_do_you_have_to_offer_me|음, 그건 합당한 명분이긴 하지만, 그에 대해 당신이 나에게 줄 수 있는 것은 무엇이오?
-str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 만일 당신이 우리의 권리들을 지지한다면, 그건 좋은 제안이 될 것이오.
-str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected_however_it_is_easy_for_you_to_make_promises_while_you_are_weak_that_you_have_no_intention_of_keeping_when_you_are_strong|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 만일 당신이 우리의 권리들을 지지한다면, 그건 좋은 제안이 될 것이오. 하지만 당신의 세력이 약할 때에는 모르겠지만, 당신의 세력이 강해진다면 당신이 그 말을 지킬 것이라는 보증이 있소?
-str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|당신은 나에게 영지를 준다고 말했소. 음, 나는 명문 귀족이오. 그러니 굳이 당신이 영지를 나에게 보상할 필요는 없을 것이오, 당신의 행동은 여전히 나에게 귀감이 되고 있소.
-str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|당신은 나에게 영지를 준다고 말했소. 음, 당신이 영지를 준다고 말하지만, 사실 나는 그 제안에 대해 그다지 관심이 없소.
-str_you_speak_of_unifying_calradia_well_much_of_this_land_now_bends_its_knee_to_you_so_perhaps_that_is_not_just_talk|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 지금 이 땅의 많은 왕국들이 당신의 앞에 무릎 꿇었소, 당신 말처럼 말이오.
-str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 그러나 지금 당신의 말은 여러 사람들에게서 성공할 것인지 실패할 것인지에 대해 벌어지는 주요 논쟁거리가 되고 있소.
-str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 그건 나쁘진 않은 말이지만, 당신은 지금 스스로 당신이 땅을 통합할 능력이 정말 있다고 생각하시오?
-str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|당신은 평민들을 보호할 것이라고 말했소, 음, 왕국이 나는 좀 더 번영하는 것을 바라고 있소. 나는 내 소작농들을 관대하게 다루려고 항상 노력해왔소, 당신은 소작농들이 매 끼니와 잠자리 걱정을 하지 않을 수 있는 세상을 만들어주겠다고 약속할 수 있겠소?
-str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|당신은 평민들을 보호할 것이라고 말했소, 좋소. 허나 만약 당신이 스스로 말한 이 약속을 이행하지 않는다면, 당신은 처음에 아무것도 약속하지 않은 것만도 못한 결과를 가져올 것이라는 점만은 기억하시오.
-str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 좋소. 당신은 그에 대한 좋은 충고들을 많이 들어보았을 것이오. -- 귀족들은 그들 스스로의 권리를 지켜줄 왕을 위해 더 잘 싸울 것이오.
-str_you_speak_of_protecting_the_rights_of_lords_very_well_but_remember__failing_to_keep_promises_which_you_made_while_scrambling_up_the_throne_is_the_quickest_way_to_topple_off_of_it_once_you_get_there|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 좋소, 하지만 명심하시오. -- 당신이 왕이 된 후, 당신이 당신 스스로의 약속을 어긴다면, 그것은 그동안 당신이 얻기 위해 노력했던 모든 것들을 한 번에 잃게 만들 것이오.
-str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|당신은 나에게 영지를 준다고 말했소, 좋소, 하지만 나는 종종 당신 같은 사람이 원하는 것을 얻기 위해, 너무도 많은 약속을 하는 것을 보았소. 그러나 그가 원하는 것을 이루게 되면, 그가 했던 너무나도 많은 약속들이 그를 파멸시키는 것을 봐왔소.
-str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 좋소, 많은 이들이 그렇게 말해왔지만, 당신은 그들 중에서도 최고인 것 같군.
-str_you_speak_of_unifying_calradia_well_all_the_kings_say_that_im_not_sure_that_you_will_succeed_while_they_fail|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 다른 모든 왕들도 그렇게 말하고는 있소, 나는 그들조차도 실패한 일을 당신이 할 수 있을 거라고 믿지는 않소.
-str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말했소. 그러나 당신은 내가 나만큼도 정통성을 가지지 못한 사람에게 충성할 거라고 생각하시오?
-str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|당신은 평민들을 보호할 것이라고 말했소. 아주 친절하시구만! 나는 당신의 감언이설에 대해, 내 돼지치기에게 말해주겠소. 아마도 그가 당신의 가장 충직한 봉신이 될 것 같은데?
-str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|당신은 우리의 오래된 권리를 지지할 것이라 말했소. 그런 말은 보기에는 좋아 보이지! 그러나, 나는 당신에게 한 마디만 말하겠소. --  오직 귀족들의 오래된 권리만이 약한 자든, 강한 자든 모두를 복종시키는 유일한 권리라는 것을.
-str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|당신은 나에게 영지를 준다 말했소. 그래, 좋소. -- 하지만, 당신은 나에게 가장 좋은 영지들만을 줘야 할 거요.
-str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|당신은 나에게 영지를 준다 말했지, 하! 당신은 스스로 영지를 약속한 자들에게 이런 감언이설로 사탕발림을 했소?
-str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 당신은 확실히 이 땅에 있는 오만한 왕들의 콧대를 꺾을 수 있었소, 그리고 나는 그런 당신에게 있어 내가 충직한 봉신으로 기억되기를 원하고 있소.
-str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 그러나 당신에게 그런 힘이 있소? 내가 보기에는 앞으로도 당신에게 그런 힘이 생길 거라고는 생각하지 않소만.
-str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말했소. 비록 내가 왕의 정통성보다는 그가 정당하게 통치할 것인지에 더 관심이 있기는 하지만, 당신은 왕위에 올라도 나쁘지 않을 것 같소. 어찌 되었든, 당신의 말은 나에게 충분한 감명을 주었소.
-str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말했소. 허나, 당신의 그 주장은 나에게는 아무런 설득력이 없소.
-str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|당신은 평민들을 보호할 것이라고 말했소. 나는 그 생각이 내 마음에 드오, 내 소작농들은 운이 좋은 편이라 생각하지만, 다른 영지의 소작농들은 그렇게 유쾌하지만은 않은 삶을 살아간다 들었소.
-str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|당신은 평민들을 보호할 것이라고 말했소. 나는 전적으로 당신의 생각에 동의하오, 그리고 당신에게 부탁하겠소. --  당신이 당신 스스로의 백성들에게 지키지 못할 약속을 하지 않겠다고 말이오. 당신이 그 약속을 어기게 된다면, 그 백성들은 하루 아침에 반역자가 되어 당신에게 쫓기게 되는 가슴 아픈 일이 일어날 테니.
-str_you_speak_of_protecting_the_rights_of_lords_well_very_good_i_suppose_but_you_know__we_lords_can_take_of_ourselves_its_the_common_folk_who_need_a_strong_king_to_look_out_for_them_to_my_mind|당신은 우리의 오래된 권리를 지지할 것이라 말했소. 음, 그건 좋은 말이라고 생각하오. 그러나, 나는 알고 있소 -- 영주들의 권리는 영주 스스로가 증명해야만 한다는 것을, 보통 백성들은 그들의 왕이 자신들을 아끼고 지켜주기만을 바라고 있을 것이오.
-str_you_speak_of_giving_me_land_its_kind_of_you_really_though_that_is_not_necessary|당신은 나에게 영지를 준다 말했소. 당신의 제안은 고맙소만, 사실, 그런 것들은 나에게는 별로 필요가 없소.
-str_you_speak_of_unifying_calradia_well_maybe_you_can_unite_this_land_by_the_sword_but_im_not_sure_that_this_will_make_you_a_good_ruler|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 아마 당신은 무력으로 이 땅을 통일할 수 있을 것이오. 허나, 당신이 좋은 통치자인가 묻는다면, 그에 대한 내 대답은 솔직히 의심스럽소.
-str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_and_yours_is_wellestablished|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 왕은 능력 이외에도 왕국을 혼란하지 않게 할 정통성과 자질, 그리고 힘을 모두 갖추어야만 하지. 그리고 당신이 가진 왕에 대한 자질은 어느 누구보다도 훌륭하오.
-str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 왕은 능력 이외에도 왕국을 혼란하지 않게 할 정통성과 자질, 그리고 힘을 모두 갖추어야만 하지. 그리고 당신이 가진 왕에 대한 자질에 대해 나에게 묻는다면 솔직히 뭐라 말해야 될 지 모르겠소.
-str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 우리의 오래된 권리를 지지할 것이라 말했소. 비록 정통성 없이 부정한 방법으로 왕위를 차지한 왕에 대해서 걱정스럽지만, 봉신들의 권리를 존중하는 것은 왕으로서의 자질 중 가장 우선되어야 할 것이오.
-str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 우리의 오래된 권리를 지지할 것이라 말했소. 봉신들의 권리를 존중하는 것은 왕으로서의 자질 중 가장 우선되어야 할 것이오. 하지만, 나는 당신이 정말 그 약속을 지킬 것인지 의문스럽소.
-str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 평민들을 보호할 것이라고 말했소. 나는 그의 백성들의 권리를 존중하는 왕을 섬기는 것이 기쁠 것이오, 비록 정통성 없이 부정한 방법으로 왕위를 차지한 왕에 대해서는 걱정스러움을 감출 수 없겠지만.
-str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 평민들을 보호할 것이라고 말했소. 나는 그의 백성들의 권리를 존중하는 왕을 섬기는 것이 기쁠 것이오. 하지만, 나는 당신이 정말 그 약속을 지킬 것인지 의문스럽소.
-str_i_am_not_swayed_by_promises_of_reward|나는 당신이 보상을 약속한다 해도 내 마음은 변함 없을 것이오.
-str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_to_the_realm_and_i_believe_that_you_are_strong_enough_to_do_so|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 왕국에 평화를 가져오는 것은 좋은 일이오. 그리고 나는 당신이 그걸 할 수 있을 만한 능력이 있다고 믿고 있소.
-str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_the_realm_but_with_your_kingdom_in_its_current_state_i_worry_that_you_are_just_bringing_more_discord|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 물론, 왕국에 평화를 가져오는 것은 좋은 일이오. 그러나 현재 당신의 능력으로는 단지 더 많은 혼란만을 야기할 것 같아 걱정되오.
+str_you_speak_of_unifying_calradia_well_youve_done_a_good_job_at_making_calradia_bend_its_knee_to_you_so_maybe_thats_not_just_talk|당신은 이 땅을 통일하겠다고 했소. 이 땅이 그대에게 무릎 꿇게 만든 걸 보니, 말뿐이 아닌 것 같소.
+str_you_speak_of_unifying_calradia_id_be_impressed_if_i_thought_you_could_do_it_but_unfortunately_you_dont|당신은 이 땅을 통일하겠다고 했소. 만일 당신이 실제로 그럴 능력이 있다면 나는 기꺼이 당신에게 동조할 것이오, 그러나 불행하게도 당신에게는 그럴 능력이 없는 것 같소.
+str_you_speak_of_claims_to_the_throne_well_any_peasant_can_claim_to_be_a_kings_bastard|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 좋소, 어떤 촌부락의 농부라도 왕의 사생아라고 주장할 수는 있지.
+str_well_its_a_fine_thing_to_court_the_commons_with_promises_but_what_do_you_have_to_offer_me|음, 평민에게 약속으로 구애하는 건 좋소. 그런데 나에게 줄 수 있는 것은 무엇이오?
+str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected|영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 그건 반가운 변화겠지.
+str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected_however_it_is_easy_for_you_to_make_promises_while_you_are_weak_that_you_have_no_intention_of_keeping_when_you_are_strong|영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 반가운 일이지. 다만 사람이란 약할 때는 약속하기 쉽고, 강해지면 지킬 생각이 없어지는 법이오. 당신이 그 말을 지킬 것이라는 보증이 있소?
+str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|당신은 나에게 영지를 주겠다고 했소. 음, 내 집안은 오래된 귀족이오. 그대가 약속한 것은 정당한 내 몫을 넘어서는 것은 아니오. 그래도 그 뜻은 고맙소.
+str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|당신은 나에게 영지를 주겠다고 했소. 음, 당신의 서약에도 불구하고 나는 그다지 감동하지 않았소.
+str_you_speak_of_unifying_calradia_well_much_of_this_land_now_bends_its_knee_to_you_so_perhaps_that_is_not_just_talk|당신은 이 땅을 통일하겠다고 했소. 음, 이 땅의 많은 부분이 이미 그대에게 무릎 꿇었으니 말뿐은 아닌 것 같소.
+str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many|당신은 이 땅을 통일하겠다고 했소. 지금으로선 그대의 세력은 싸움에 뛰어든 여러 세력 중 하나에 불과하오.
+str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|당신은 자격에 대해서 말하는군. 악의는 없소만, 힘 없이 내세우는 자격만으로는 무언가를 이루기 어렵소.
+str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|당신은 평민을 보호하겠다고 했소. 음, 그게 나라를 더 번영하게 하겠지. 나는 내 소작농을 나름 대우해 왔소. 잠자리에 들 때 지붕에 불 났을까 걱정하지 않게 말이오.
+str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|당신은 평민을 보호하겠다고 했소. 좋소. 다만 기억하시오. 약속하고 지키지 않으면, 평민들은 처음부터 아무것도 약속하지 않았을 때보다 더 많은 소동을 일으킬 것이오.
+str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|당신은 영주의 권리를 지켜 주겠다고 했소. 좋소. 그렇게 하는 게 좋겠오. 그들은 권리를 존중해 주는 왕을 위해 더 잘 싸우지.
+str_you_speak_of_protecting_the_rights_of_lords_very_well_but_remember__failing_to_keep_promises_which_you_made_while_scrambling_up_the_throne_is_the_quickest_way_to_topple_off_of_it_once_you_get_there|영주의 권리를 지켜 주겠다고 했소. 좋소. 다만 명심하오. 왕위를 차지하려 할 때 한 약속을 지키지 못하면, 그동안 당신이 얻기 위해 노력했던 모든 것들을 한 번에 잃게 만들 것이오.
+str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|당신은 나에게 영지를 주겠다고 했소. 좋소. 다만 꼭대기를 바라보며 많은 약속을 하는 사람이 원하는 것을 이루게 되면, 그 약속을 지키지 못해 파멸할 수도 있다는 것을 명심하시오.
+str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|당신은 이 땅을 통일하겠다고 했소. 좋소, 당신이 그렇게 할 만한 이라고 하는 이가 많소. 그럴 수 있을지도 모르겠군.
+str_you_speak_of_unifying_calradia_well_all_the_kings_say_that_im_not_sure_that_you_will_succeed_while_they_fail|당신은 이 땅을 통일하겠다고 했소. 음, 왕들은 모두 그렇게 말하지. 그들이 실패한 걸 그대가 해낼 것이라고 믿지는 않소.
+str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|당신은 당신의 정당성을 말하는군. 변호사들이나 지껄이는 말에 내가 신경이나 쓸 것이라 생각하오?
+str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|당신은 평민을 보호하겠다고 했소. 참 친절하시구만! 내 돼지치기에게 그대의 달콤한 약속을 다 전해 주겠소. 틀림없이 그대의 가장 충실한 봉신이 되겠지?
+str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|당신은 영주의 권리를 지켜 주겠다고 했소. 달콤한 말이지! 하지만 말해 두겠소. 이 세상에서 인정받는 권리란 약한 자를 지배할 권리와 강한 자에게 복종할 권리뿐이오.
+str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|당신은 나에게 영지를 주겠다고 했소. 그래, 좋소. 다만 약속은 반드시 지켜져야 좋을 것이오.
+str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|당신은 나에게 영지를 주겠다고 했지. 하! 하지만 영지를 약속받은 그 많은 이들이 그냥 물러날 것 같소?
+str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|당신은 이 땅을 통일하겠다고 했소. 그대가 이 땅의 다른 왕들을 굴복시킨다면, 내가 당신의 충실한 신하였다는 것을 기억해 주시길 바라오.
+str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|당신은 이 땅을 통일하겠다고 했소. 하지만 지금 그대는 약하고, 앞으로도 그런 힘이 생길 것이라는 생각은 들지 않소.
+str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|당신은 당신의 정당성을 말하는군. 왕에게 튼튼한 자격이 있으면 좋소. 솔직히 나는 법리보다 정당하게 다스리는지가 더 중요하다고 보오. 어쨌든 그대의 정당성은 나에게는 설득력 있소.
+str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|당신은 당신의 정당성을 말하는군. 다만 내가 보기에는 당신이 주장하는 왕위에 대한 정당성은 설득력이 없소.
+str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|당신은 평민을 보호하겠다고 했소. 마음에 드오. 내 소작농들은 나름 행복한 편이라 생각하오. 그러나 다른 영지 소작농들은 그렇지 않다 들었소.
+str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|당신은 평민을 보호하겠다고 했소. 그 말을 들어 기쁘오. 하지만 부탁이 있소. 평민드렝게 지킬 수 없는 약속을 하지 마시오. 당신이 약속을 어긴다면 그들은 하루아침에 반역자가 될 것이오. 그들을 진압하는 일은 가슴 아픈 일이오.
+str_you_speak_of_protecting_the_rights_of_lords_well_very_good_i_suppose_but_you_know__we_lords_can_take_of_ourselves_its_the_common_folk_who_need_a_strong_king_to_look_out_for_them_to_my_mind|당신은 영주의 권리를 지켜 주겠다고 했소. 음, 좋소만, 영주들의 권리는 영주 스스로가 증명해야 하는 것이오. 내 생각엔 강한 왕이 지켜 줘야 할 건 백성들이오.
+str_you_speak_of_giving_me_land_its_kind_of_you_really_though_that_is_not_necessary|당신은 나에게 영지를 주겠다고 했소. 당신의 제안은 고맙소만, 사실, 그런 것들은 나에게는 별로 필요가 없소.
+str_you_speak_of_unifying_calradia_well_maybe_you_can_unite_this_land_by_the_sword_but_im_not_sure_that_this_will_make_you_a_good_ruler|당신은 이 땅을 통일하겠다고 했소. 음, 당신이 검으로 이 땅을 통일할 수 있을지도 모르겠소. 그러나 그것이 그대를 좋은 통치자로 만드는지에 대해서는 의심스럽소.
+str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_and_yours_is_wellestablished|당신은 당신의 정당성을 말하는군. 왕국이 혼란하지 않으려면 왕에게 튼튼한 법적 자격이 있어야 하오. 그대의 자격은 잘 갖춰져 있소.
+str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|당신은 당신의 정당성을 말하는군. 왕국이 혼란하지 않으려면 왕에게 튼튼한 법적 자격이 있어야 하오. 그대의 자격은 그다지 튼튼하지 않소.
+str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 영주의 권리를 지켜 주겠다고 했소. 왕이 봉신의 권리를 존중하는 건 당연히 중요하오. 다만 정당한 이유 없이 왕위를 탈취한 왕이 정의롭게 다스릴지 걱정이오.
+str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 영주의 권리를 지켜 주겠다고 했소. 왕이 봉신의 권리를 존중하는 건 당연히 중요하오. 다만 당신이 약속을 정말 지킬지 의심스럽소.
+str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 평민을 보호하겠다고 했소. 백성의 권리를 존중하는 왕을 섬기는 일은 기쁜 일이오. 다만 정당한 이유 없이 왕위를 탈취한 왕이 정의롭게 다스릴지 걱정이오.
+str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 평민을 보호하겠다고 했소. 백성의 권리를 존중하는 왕을 섬기는 일은 기쁜 일이오. 다만 그대가 약속을 정말 지킬지 의심스럽소.
+str_i_am_not_swayed_by_promises_of_reward|보상 약속하는 것으로는 내 마음이 움직이지 않소.
+str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_to_the_realm_and_i_believe_that_you_are_strong_enough_to_do_so|당신은 이 땅을 통일하겠다고 했소. 왕국에 평화를 가져오면 좋겠소. 당신에게 그럴 힘이 있다고 믿소.
+str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_the_realm_but_with_your_kingdom_in_its_current_state_i_worry_that_you_are_just_bringing_more_discord|당신은 이 땅을 통일하겠다고 했소. 왕국에 평화를 가져오면 좋겠오만, 지금 그대 왕국의 형편으로는 오히려 더 많은 혼란을 부를까 걱정이오.
 str_my_s11_s15|나의 {s11} {s15}
 str_my_s11_s18|나의 {s11} {s18}
 str_the_socalled_s11_s18|소위 {s11} {s18}
-str_s18_would_cheat_me_of_my_inheritance_by_heaven_i_know_my_rights_and_im_not_going_to_back_down|{s18}은(는) 나에게서 상속권을 빼앗으려 하고 있소. 상속권은 맹세코 나의 것이오, 나는 절대로 물러서지 않을 것이오.
-str_s18_once_questioned_my_honour_and_my_bravery_i_long_for_the_day_when_i_can_meet_him_in_battle_and_make_him_retract_his_statement|{s18}은(는) 나의 용기와 명예를 의심하고 있소. 나는 언제라도 그와 한번 전장에서 만나게 될 날을 기다리고 있소, 그리고 그 스스로가 한 말이 거짓이라는 것을 증명할 것이오.
-str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_our_duty_to_smite_our_sovereigns_foes|{s18}은(는) 내가 전장에서 내렸던 결정에 이의를 제기한 적이 있소. 맹세컨데, 나는 그가 우리 왕국의 적을 물리치는 데 방해가 될 것이라고 확신하오.
-str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18}은(는) 마치 그가 내 재산 중 일부분을 가질 권리가 있다고 생각하는 모양이오. 그리고 그의 생각은 틀린 것이오.
-str_s18_once_took_something_i_said_amiss_stubborn_bastard_wont_give_it_up_and_keeps_trying_to_get_me_to_recant_my_words|{s18}은(는) 내가 전에 말한 걸 오해해서 불쾌하게 받아들이더군. 그 자는 스스로 오해했다 인정하지 않고 끊임없이 내가 그 말을 철회하게 만들려고 하고 있소.
-str_s18_is_a_crafty_weasel_and_i_dont_trust_him_one_bit|{s18}은(는) 교활한 여우같은 자식이오, 나는 그를 조금도 믿지 않소.
-str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}? 나는 그를 경멸하오. 그는 꼴도 보기 싫은 그의 장점들을 과시하고, 내가 그보다 뛰어난 부분에 대해서는 아무 생각 없이 모욕을 하곤 하오.
-str_s18_entered_into_a_little_deal_with_me_and_is_now_trying_to_wriggle_out_of_it|{s18}은(는) 나랑 아는 사이였는데, 요즘은 나를 피해다니더군.
-str_s18_once_ran_an_errand_for_me_and_now_thinks_i_owe_him_something_i_owe_his_ilk_nothing|{s18}은(는) 언제 한번 내 일을 대신 처리해준 적이 있는데, 그 후로 내가 그에게 무슨 빚이라도 진 것처럼 여긴다오. 나는 그에게 신세진 게 아무것도 없는데도 말이지.
-str_s18_is_soft_and_weak_and_not_fit_to_govern_a_fief_and_i_have_always_detested_him|{s18}은(는) 서투르고 연약하오, 그는 영지를 운영할 능력이 없는 사람이오, 그리고 나는 언제나 그를 경멸해 왔소.
-str_s18_is_a_quarrelsome_oaf_and_a_liability_in_my_opinion_and_ive_let_him_know_as_much|{s18}에 대한 내 판단은 싸우기 좋아하는 멍청이에 모자란 놈이라는 거요, 그리고 나는 그에 대해 누구보다도 잘 알고 있소.
+str_s18_would_cheat_me_of_my_inheritance_by_heaven_i_know_my_rights_and_im_not_going_to_back_down|{s18}은(는) 내 상속권을 빼앗으려 하고 있소. 그 상속권은 맹세코 내 몫이오, 나는 절대로 물러서지 않을 것이오.
+str_s18_once_questioned_my_honour_and_my_bravery_i_long_for_the_day_when_i_can_meet_him_in_battle_and_make_him_retract_his_statement|{s18}은(는) 내 명예와 용맹을 의심한 적이 있소. 그와 전장에서 만나 그 말을 취소하게 할 날을 기다리오.
+str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_our_duty_to_smite_our_sovereigns_foes|{s18}은(는) 전장에서 내 판단에 이의를 제기한 적이 있소. 맹세컨데, 나는 그가 우리 왕국의 적을 물리치는 데 방해가 될 것이라고 확신하오.
+str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18}은(는) 내 재산의 일부에 대한 권리가 있다고 여기는 모양이오. 당연히 그에게 그런 권리 따윈 없소.
+str_s18_once_took_something_i_said_amiss_stubborn_bastard_wont_give_it_up_and_keeps_trying_to_get_me_to_recant_my_words|{s18}은(는) 내 말을 오해해서 불쾌하게 받아들이더군. 그 자는 스스로 오해했다고 인정하는 대신 끊임없이 내가 그 말을 철회하게 만들려고 하고 있소.
+str_s18_is_a_crafty_weasel_and_i_dont_trust_him_one_bit|{s18}은(는) 교활한 족제비요. 한 푼어치도 믿지 않소.
+str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}? 나는 그를 경멸하오. 그는 자신의 덕은 지나치게 과시하고, 그보다 나은 사람에 대해선 모욕하는 사람이오.
+str_s18_entered_into_a_little_deal_with_me_and_is_now_trying_to_wriggle_out_of_it|{s18}은(는) 나와 작은 거래를 했는데, 이제 빠져 나가려 하고 있소.
+str_s18_once_ran_an_errand_for_me_and_now_thinks_i_owe_him_something_i_owe_his_ilk_nothing|{s18}은(는) 한때 내 심부름을 해 준 적이 있는데, 그 후로 내가 그에게 무슨 빚이라도 진 것처럼 여긴다오. 나는 그에게 신세진 게 아무것도 없는데도 말이지.
+str_s18_is_soft_and_weak_and_not_fit_to_govern_a_fief_and_i_have_always_detested_him|{s18}은(는) 서투르고 연약하여 영지를 운영할 능력이 없는 사람이오. 늘 그를 경멸해 왔소.
+str_s18_is_a_quarrelsome_oaf_and_a_liability_in_my_opinion_and_ive_let_him_know_as_much|{s18}은(는) 싸우기 좋아하는 멍청이에 불과하오. 그도 내 생각이 어떤지 잘 알고 있을것이오.
 str_s18_i_am_sorry_to_say_is_far_too_softhearted_a_man_to_be_given_any_kind_of_responsibility_his_chivalry_will_allow_the_enemy_to_flee_to_fight_another_day_and_will_cost_the_lives_of_my_own_faithful_men|{s18}, 이런 말을 하게 되어 유감이긴 한데, 그 자는 너무 동정심이 강해서 어떠한 책임감도 동정심 앞에서는 가차없이 버리곤 하오. 그는 기사도를 지키기 위해 적들이 다음을 기약하며 도망가는 걸 용인할 것이고, 그의 그런 행위는 나의 충성스런 부하들의 목숨을 위협하게 될 것이오.
 str_s18_seems_to_have_something_against_me_for_some_reason_i_dont_like_to_talk_ill_of_people_but_i_think_hes_can_be_a_bit_of_a_cad_sometimes|{s18}은(는) 나에 대해 불만이 있는 것 같소, 분명 어떤 이유가 있는 것 같은데. 나는 사람들을 뒤에서 욕하는 걸 좋아하지 않소, 그러나 나는 그가 가끔 비열하다고 느끼고 있소. 아주 가끔 말이오.
 str_s18_has_always_treated_me_contemptuously_although_i_have_done_him_no_wrong|{s18}은(는) 언제나 나를 경멸하듯이 대해 왔소, 나는 그에게 무언가 잘못한 적이 한 번도 없는데 말이오.
@@ -2105,24 +2105,24 @@ str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where
 str__i_am_acting_independently_although_some_enemies_have_been_spotted_within_our_borders_they_havent_come_in_force_and_the_local_troops_should_be_able_to_dispatch_them| 나는 독립적으로 행동하고 있소. 물론 우리의 국경지대에서 몇몇의 적들이 출몰했지만, 그들은 공격해 오지 않았고, 또한 지역의 수비병들이 그들을 처리할 수 있을 것이오.
 str__the_needs_of_the_realm_must_come_first| 왕국의 부름이 최우선이오.
 str_we_are_likely_to_be_overwhelmed_by_the_s9_let_each_defend_their_own|우리는 {s9}에 의해 압도 당하고 있소. 각각 스스로 방어하시오.
-str_we_should_see_this_siege_through|우리는 이 포위를 통과할수 있을 것 같소.
+str_we_should_see_this_siege_through|우리는 이 포위를 통과할 수 있을 것 같소.
 str_we_should_prepare_to_defend_s21_but_we_should_gather_our_forces_until_we_are_strong_enough_to_engage_them|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 그 전에, 우리는 그들과 교전할 만큼 충분히 많은 병력을 모아야 하오.
-str_we_should_prepare_to_defend_s21_but_first_we_have_to_gather|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 우리는 그 전에 먼저 충분한 병력를 모을 필요가 있소.
+str_we_should_prepare_to_defend_s21_but_first_we_have_to_gather|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 우리는 그 전에 먼저 충분한 병력을 모을 필요가 있소.
 str_we_should_ride_to_break_the_siege_of_s21|우리는 {s21}의 포위를 무너뜨릴 것이오.
 str_we_should_ride_to_defeat_the_enemy_gathered_near_s21|우리는 {s21}의 근처에 모여 적을 물리칠 것이오.
-str_we_have_located_s21s_army_and_we_should_engage_it|우리는 {s21}의 부대에 배치되어 있소, 그리고 우리는 곧 적들과 교전해야 하오.
+str_we_have_located_s21s_army_and_we_should_engage_it|우리는 {s21}의 군대를 찾았소, 이제 그들과 교전해야 하오.
 str_this_offensive_needs_to_wind_down_soon_so_the_vassals_can_attend_to_their_own_business|이 공격은 곧 끝낼 필요가 있소, 그래야 봉신들이 그들의 급한 업무를 수행할 수 있소.
 str_the_vassals_are_tired_we_let_them_rest_for_some_time|봉신들은 군사 작전으로 지쳐 있소. 우리는 잠시 동안 그들이 쉴 수 있게 내버려 두어야만 하오.
 str_the_vassals_still_need_time_to_attend_to_their_own_business|봉신들은 아직 그들의 업무를 수행할 시간을 필요로 하오.
 str_it_is_time_to_go_on_the_offensive_and_we_must_first_assemble_the_army|공격할 시간이오, 그리고 우리는 선봉대를 모아야만 하오.
 str_we_must_continue_to_gather_the_army_before_we_ride_forth_on_an_offensive_operation|우리는 단지 몇 안되는 봉신이 모여있소, 그러나 우리는 공세를 펴기 전에 계속해서 병력을 모아야만 하오.
 str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_important_towns|국경을 공격할 필요는 없소, 우리는 그들의 중요한 도시들 중 하나를 점령할 수 있을 것이오.
-str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|우리는 적들의 요새를 포위 함으로서 우리는 {s21} 이상의 성과를 얻을 수 있을 것이오.
+str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|우리는 적들의 요새를 점령함으로써 {s21}에 대한 우리의 성과를 더할 수 있을 것이오.
 str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|우리가 할 수 있다면, 부유한 영지들을 목표로 적들의 중심부를 지나 그 곳까지 습격하면서 지나가야만 하오.
 str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|병력들은 해산될 것이오, 왜냐하면 우리는 목표없이 너무나 오랫동안 기다렸기 때문이오.
 str_it_is_time_for_the_feast_to_conclude|연회를 끝낼 시간이오.
 str_we_should_continue_the_feast_unless_there_is_an_emergency|우리는 비상 사태가 오지 않는 한 연회를 계속 할 생각이오.
-str_you_had_wished_to_hold_a_feast|당신은 연회를 개최하길 원하지 않소?
+str_you_had_wished_to_hold_a_feast|당신은 연회를 열고 싶어 하셨지 않소?
 str_your_wedding_day_approaches_my_lady|당신의 결혼식 날이 다가오는군요, 레이디.
 str_your_wedding_day_approaches|당신의 결혼식 날이 다가오고 있소.
 str_s22_and_s23_wish_to_marry|{s22}와(과) {s23}은(는) 결혼을 원하고 있소.
@@ -2152,18 +2152,18 @@ str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_proba
 str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}은(는) {s16}와(과)의 관계를 개선하기 위해 적극적으로 나서고 있는 것으로 알려져 있소.
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|뭐라고? 당신은 당신 스스로가 우리 가문의 일원이 될 정도로 가치가 있는 사람이라고 생각하고 있는 것이오?
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소. 열심히 싸우시오, 당신 스스로의 재산을 늘리시오, 그러면 아마 훗날 언젠가 우리가 다시 이야기를 할 수도 있을 것이오, 좋은 사내여!
-str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고고 있소.
+str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소.
 str_it_is_too_early_for_you_to_be_speaking_of_such_things_you_are_still_making_your_mark_in_the_world|당신에게 그런 이야기를 듣기는 좀 이른 것 같군, 당신은 당신 스스로 그럴 가치가 있음을 증명하지 않았잖소.
 str_you_dont_serve_the_s4_so_id_say_no_one_day_we_may_be_at_war_and_i_prefer_not_to_have_to_kill_my_inlaws_if_at_all_possible|당신은 {s4}에게 충성 서약을 하지 않았소? 내가 거절할 수밖에 없음을 잘 알 것이오. 언젠가 우리는 전쟁을 하게 될 수도 있고, 나는 사위를 내 손 죽이는 것을 원치 않소, 어떤 경우든 말이오.
 str_as_you_are_not_a_vassal_of_the_s4_i_must_decline_your_request_the_twists_of_fate_may_mean_that_we_will_one_day_cross_swords_and_i_would_hope_not_to_make_a_widow_of_a_lady_whom_i_am_obligated_to_protect|당신이 {s4}의 봉신이 아닌 만큼, 나는 그 요청을 거부해야만 하오. 뒤틀린 운명이 우리가 서로에게 검을 겨누게 할 수도 있고, 내가 지켜야 할 레이디를 과부로 만드는 것은 내가 원치 않는 일이오.
 str_as_you_are_not_a_pledged_vassal_of_our_liege_with_the_right_to_hold_land_i_must_refuse_your_request_to_marry_into_our_family|당신이 우리 왕에게 충성 서약과 영지를 받지 않았기 때문에, 나는 우리 가문과 혼인하길 바라는 당신의 요청을 거부해야만 하오.
 str_look_here_lad__the_young_s14_has_been_paying_court_to_s16_and_youll_have_to_admit__hes_a_finer_catch_for_her_than_you_so_lets_have_no_more_of_this_talk_shall_we|이보시오, 친구 -- 젊은 {s14}이(가) {s16}에게 구애하고 있소, 그리고 당신은 그가 당신보다 더 그녀의 신랑에 어울린다는 것을 인정해야만 할 것이오. 그러니 더 이상 나에게 이 이야기는 하지 마시오. 알겠소?
 str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|탐탁지않은 구혼자들로부터 우리 가문의 레이디들을 지키는 것은 나의 의무라 생각하지만, 나는 당신에 대해서는 아무 것도 걱정하지 않겠소.
-str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|흠, 어린 처녀들은 가문의 레이디라는 의무감을 잊고 유혹에 빠지기 쉽소, 내 생각에는 당신에 대해서 좀 더 안 뒤에 이야기했으면 좋겠소. 우리는 이 일에 대해 나중에 이야기할 수 있을 것이오.
+str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|흠, 어린 처녀들은 유혹에 빠지기 쉽소. 우리 가문의 숙녀들에 대한 의무를 고려하여 우리가 당신을 좀 더 안 뒤에 이야기했으면 하오. 이 일에 대해선 나중에 다시 이야기 나누기로 하겠소.
 str_you_may_indeed_make_a_fine_match_for_the_young_mistress|당신은 어쩌면 젊은 레이디와 좋은 인연을 만들 수도 있을 것이오.
 str_madame__given_our_relations_in_the_past_this_proposal_is_most_surprising_i_do_not_think_that_you_are_the_kind_of_woman_who_can_be_bent_to_a_hushands_will_and_i_would_prefer_not_to_have_our_married_life_be_a_source_of_constant_acrimony|레이디 -- 그동안의 우리 사이 관계에 비추어 봤을때 이 청혼은 정말 뜬금없군요. 저는 당신이 남편의 말을 고분고분히 들어줄 부류의 여자라고는 생각하지 않습니다, 그리고 당신과 결혼해서 우리의 결혼 생활을 끊임없이 독설을 퍼부어대게 하는 원인으로 만들어 버리고 싶지는 않네요.
 str_i_would_prefer_to_marry_a_proper_maiden_who_will_obey_her_husband_and_is_not_likely_to_split_his_head_with_a_sword|저는 남편에게 순종하는 적절한 레이디와 결혼하기를 원합니다, 남편의 머리를 검으로 내리쳐 쪼개버리지는 않을 것 같은 레이디 말이죠.
-str_my_lady_while_i_admire_your_valor_you_will_forgive_me_if_i_tell_you_that_a_woman_like_you_does_not_uphold_to_my_ideal_of_the_feminine_of_the_delicate_and_of_the_pure|레이디, 비록 저는 당신의 용맹과 아름다움을 존경하지만, 당신 같은 여성은 저의 이상적인 아내관에 부합하지 않는다고 말한다면... 실례하지만. 예를 들면 여성스러움, 섬세함, 순수함 말입니다.
+str_my_lady_while_i_admire_your_valor_you_will_forgive_me_if_i_tell_you_that_a_woman_like_you_does_not_uphold_to_my_ideal_of_the_feminine_of_the_delicate_and_of_the_pure|레이디, 저는 당신의 용맹과 아름다움을 존경하고 있소. 다만 실례를 각오하고 말씀드리면, 당신 같은 여성은 저의 이상적인 아내상에 부합하지는 않소. 예를 들어 여성스러움, 섬세함, 순수함 같은 것들 말이오.
 str_nah_i_want_a_woman_wholl_keep_quiet_and_do_what_shes_told_i_dont_think_thats_you|아니, 나는 군말없이 하라는 대로 하는 여자를 원하오. 당신이 그런 여자라는 생각은 안 드는군.
 str_my_lady_you_are_possessed_of_great_charms_but_no_properties_until_you_obtain_some_to_marry_you_would_be_an_act_of_ingratitude_towards_my_ancestors_and_my_lineage|레이디, 당신은 굉장히 매력 있는 사람이지만, 당신은 아무런 재산도 없습니다. 당신이 약간의 재산을 모으기 전까지는, 당신과 결혼하는건 내가 나의 조상들, 나의 혈통이 내려준 은혜를 배신한 꼴이 되지 않을까요?
 str_my_lady_you_are_a_woman_of_no_known_family_of_no_possessions__in_short_a_nobody_do_you_think_that_you_are_fit_to_marry_into_may_family|레이디, 당신은 아무 것도 알려지지 않은 집안 출신의, 아무런 재산도 없는 여자입니다 -- 짧게 말해서, 당신은 아무 것도 아니지요. 이런 당신이 우리 집안에 시집 올 여자로서 적당하다고 생각하시나요?
@@ -2180,10 +2180,10 @@ str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|아, '오르페�
 str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|'베오울프 사가' 말인가요? 우리 조상들의 생활 속에 이렇게 행복한 시간이 있을 수가! 그녀 같은 여성들은 사내처럼 세상을 탐험할 수 있었고, 그들 자신의 이름으로 명성을 얻었고, 그들의 남편들의 그림자 안에 머물지 않았어요.
 str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|아, '베오울프 사가' 말이군요. 그녀는 원하는 것이 무엇인지 알았고, 그것을 얻기를 두려워 하지 않았던 한 여성이 있었어요.
 str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|'베오울프 사가'요? 무서운 이야기죠 - 그러나 그것은 매우 위대한 사랑에 대한 말하고 있죠. 만약 그녀의 가족과 기꺼이 전쟁을 했다면 말이죠.
-str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|'베오울프 사가'요? 제가 생각하기에는, 르드가의 아내는는 가족들에 대한 의무보다 그녀의 열망들을 더욱 중요시했어요. 그래서 그녀는 아버지와 다툼을 벌였죠. 저는 그런 여자를 찬양하는 시를 위한 시간은 없어요!
+str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|'베오울프 사가'요? 제가 생각하기에는, 흘드가의 아내는 가족에 대한 의무보다 그녀의 욕망을 더 중요시했어요. 그래서 그녀는 아버지와 전쟁을 벌였죠. 저는 그런 여자를 찬양하는 시를 들을 겨를이 없어요!
 str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|'베오울프 사가'요? 아아!
 str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|'아에소피카' 말인가요? 저는 그 시에 나오는 그 여자를 이해할 수 없어요. 만약 그녀가 그 남자를 사랑한다면 왜 그녀는 그를 그렇게 애타게 만든 거죠?
-str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|'아에소피카' 말인가요? 우리 한 번 따져 봐요  -- 그건 도덕적으로 교훈적이지 못해요. 그것은 속이는 것을 찬양하고, 그녀의 순정을 내던지는 것으로 끝이 나죠... 그리고  저는 아직도 그 내용을 참지 못하겠어요. 그러나 그 이야기의 좋은점을 찾았어요. 사랑이란건 비극이 필요하지 않아도 추억이 될수있단걸 우리에게 말해주기 때문인 거겠죠.
+str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|'아에소피카' 말인가요? 우리 한 번 따져 봐요  -- 그건 도덕적으로 교훈적이지 못해요. 그것은 속이는 것을 찬양하고, 그녀의 순정을 내던지는 것으로 끝이 나죠... 그리고 저는 아직도 그 내용을 참지 못하겠어요. 그러나 그 이야기의 좋은 점을 찾았어요. 사랑이란 비극이 아니어도 추억이 될 수 있단 걸 우리에게 말해주기 때문이겠죠.
 str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|'아에소피카' 말인가요? 지금 모든 여자들이 느낌으로 알고 있는 반드시 연습해야 할 미묘한 이해 관계를 배우는 한 이야기가 그것이죠.
 str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|'아에소피카' 말인가요? 그것은 우스운 이야기라고 저는 생각해요 -- 비록 저의 영혼을 진실로 감동시킬 내용은 그것에 없지만 말이죠.
 str_storming_the_fortress_of_love_ah_yes_the_lady_sits_within_doing_nothing_while_the_man_is_the_one_who_strives_and_achieves_i_have_enough_of_that_in_my_daily_life_why_listen_to_poems_about_it|'이네스와 디도의 이야기' 말인가요? 아, 그래요. 그 여인은 남자가 노력하고 애쓰는 동안 아무것도 하지 않고 가만히 앉아있었지요. 제 일상은 그것으로 충분하죠. 그런데 제가 왜 그 시에 대해서 들어야하죠?
@@ -2193,10 +2193,10 @@ str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_a
 str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|'브란의 항해' 말인가요? 아.. 이처럼 딱 맞는 단어가 있을까요, 바로 완벽한 사랑이죠! 진정한 기쁨을 느낄 수 있도록 하는 사랑 말이예요.
 str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|'브란의 항해' 말인가요? 당신이 저에게 물어본다면, 어리석은 이야기에요. 만약 시인이 숙녀를 원한다면 그는 그녀를 얻기 위해 노력해야 해요 -- 그리고 경건함이라는 허식을 하고 있는 그의 욕망도 벗어버려야 해요!
 str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|'브란의 항해' 말인가요? 흠 -- 그건 세상과 신성한 사랑에 대한 흥미로운 탐험이에요. 남자를 가장 잘 표현할 수 있는 정신적인 탐구에 대하여 이야기하는군요. 하지만 만약 시인이 그의 원초적 열정과 함께 그가 동경하는 한 차원 높은 것에 대해서 혼동하지 않았다면 저는 놀라움을 금치 못해요.
-str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'브란의 항해'? 오, 네 -- 이건 매우 훌륭하고 철학적이에요. 그러나 저는 개인적으로 음유시인의 류트 연주를 세 시간이나 듣는 것보다 짧은 이야기를 듣는걸 더 좋아해요.
+str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'브란의 항해'? 오, 네 -- 이건 매우 훌륭하고 철학적이에요. 그러나 저는 개인적으로 음유시인이 하프를 세 시간이나 뜯는 걸 듣느니 차라리 이야기가 조금 있는 편이 좋아요.
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg5}명의 손님이 {s4} {reg3}개를 소비했습니다.
 str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg5}개의 향신료 중 {reg3}개가 소비됨
-str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg5}개의 오일중 {reg3}개가 소비됨
+str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg5}개의 오일 중 {reg3}개가 소비됨
 str_of_food_which_must_come_before_everything_else_the_amount_is_s8|가장 중요한 음식의 양은 {s8}
 str_s9_and_the_variety_is_s8_|{s9} 그리고 종류는 {s8}.
 str_s9_of_drink_which_guests_will_expect_in_great_abundance_the_amount_is_s8|{s9} 손님들이 가장 기대하는 술의 양은 {s8}
@@ -2206,13 +2206,13 @@ str_s9_overall_our_table_will_be_considered_s8|{s9} 전체적으로, 우리 식�
 str_rebel|반란군
 str_bandit|강도
 str_relation_of_prisoner_with_captor_is_reg0|포획자와 포로의 관계는 {reg0}입니다.
-str_s5_suffers_attrition_reg3_x_s4|{s5} suffers attrition: {reg3} x {s4}
+str_s5_suffers_attrition_reg3_x_s4|{s5} 병력 감소: {reg3} x {s4}
 str_s10_said_on_s1_s11__|{s10}이(가) {s1} 한 말 : {s11}^^
 str_totalling_casualties_caused_during_mission|임무중 발생한 총 사상자를 계산중...
 str_removing_s4_from_s5|{s5}(으)로 부터 {s4}을 제거했습니다.
 str_s4_joins_prison_break|{s4}이(가) 탈옥하여 합류하였습니다.
-str_helper_is_spawned|helper is spawned.
-str_leaving_area_during_prison_break|감옥이 파괴된 동안 이 지역을 벗어나시오
+str_helper_is_spawned|도우미가 생성되었습니다.
+str_leaving_area_during_prison_break|탈옥이 진행되는 동안 이 지역을 벗어나시오.
 str_talk_to_the_trainer|훈련 교관과 대화하십시오.
 str_woman|여자
 str_man|남자
@@ -2245,7 +2245,7 @@ str_attacking_enemy_army_near_s11|{s11} 근처 적 부대를 공격 중
 str_holding_feast_at_s11|{s11}의 연회에 참가 중
 str_s9s10_current_state_s11_hours_at_current_state_reg3_current_strategic_thinking_s14_marshal_s12_since_the_last_offensive_ended_reg4_hours_since_the_decisive_event_reg10_hours_since_the_last_rest_reg9_hours_since_the_last_feast_ended_reg5_hours_percent_disgruntled_lords_reg7_percent_restless_lords_reg8__|{s9}{s10}^^현재 전략: {s11}^현재 전략 수립으로부터 지난 시간: {reg3}^^총사령관: {s12}^^마지막 공격으로부터 지난 시간: {reg4} 시간^마지막 사건으로부터 지난 시간: {reg10} 시간^마지막 18시간 이상의 휴식으로부터 지난 시간: {reg9} 시간^마지막 연회로부터 지난 시간: {reg5} 시간^^불만 있는 영주들의 비율: {reg7}%^불안해하는 영주들의 비율: {reg8}%^^
 str__right_to_rule_reg12|^정통성: {reg12}.
-str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|Political arguments made:^합법성: {reg3}^영주들의 권리: {reg4}^통일/평화: {reg5}^백성들의 권리: {reg6}^제공할 영지: {reg7}
+str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|정치적 논거:^합법성: {reg3}^영주들의 권리: {reg4}^통일/평화: {reg5}^백성들의 권리: {reg6}^영지 약속: {reg7}
 str_renown_reg2_honour_rating_reg3s12_friends_s8_enemies_s6_s9|명성 : {reg2}.^명예 등급: {reg3}.{s12}^친구: {s8}.^적: {s6}.^{s9}
 str_you_lie_stunned_for_several_minutes_then_stagger_to_your_feet_to_find_your_s10_standing_over_you_you_have_lost_the_duel|당신은 몇 분간 기절해서 누웠고, 게다가 당신의 발은 절뚝였습니다. 당신은 당신의 위에 서 있는 {s10}을(를) 발견했습니다. 당신은 결투에서 졌습니다.
 str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_you_have_won_the_duel|{s10}은(는) 투기장의 먼지 속에 몇 분간 누워 버렸고, 게다가 그의 발은 절뚝였습니다. 당신이 결투에서 이겼습니다.
@@ -2321,7 +2321,7 @@ str_seek_a_truce|휴전협상을 진행
 str__promised_fief| (약속된 영지)
 str_no_fiefss12|(영지 없음){s12}
 str_fiefs_s0s12|(영지: {s0}{s12})
-str_please_s65_|Please {s65}, 
+str_please_s65_|{s65} 부탁합니다.
 str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us| {s15} 역시 여기에 잡혀 있소. 아마 당신은 {reg4?그녀:그}가 우리들에게 합류하는 것을 보고 싶지 않소?
 str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|한 가지 우리에게 우호적인 것은 {s12}의 지배력이 매우 흔들리고 있다는 것이오. 그의 통치는 경쟁과 원한의 미로로 가득 차 있소. 영주는 종종 협력에 실패하고, 그리고 많은 수가 더 나은 주군을 찾고 있소.
 str_thankfully_s12s_grip_is_fairly_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_seek_a_better_liege|다행히도, {s12}의 지배력은 상당히 흔들리고 있소. 많은 영주들이 서로 협력하지 않고 있고, 그리고 일부는 더 나은 주군을 찾으라는 유혹을 받고 있을 지도 모르오.
