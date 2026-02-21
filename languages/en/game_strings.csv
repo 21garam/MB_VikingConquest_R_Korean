@@ -78,7 +78,7 @@ str_siege_defender_order_attack_success|수비병들이 노련한 기술과 용�
 str_siege_defender_order_attack_failure|공성전은 순식간에 아수라장이 되었습니다. 수비대의 용맹한 노력도 수적인 열세를 극복하지 못하고 성벽을 빼앗깁니다. 적은 마지막 생존자까지 처단했습니다.
 str_siege_defender_order_attack_continue|성벽을 향한 피비린내 나는 시도가 반복적으로 실패했지만, 수비대가 완전한 승리를 선언하기에는 적의 병력이 너무 많이 남았습니다. 공성전이 계속됩니다.
 str_hero_taken_prisoner|{s3}의 {s1}은(는) {s2}에 의해 포로로 붙잡혔습니다.
-str_hero_freed|{s3}의 {s1}은(는} {s2}의 포로신세에서 해방되었습니다.
+str_hero_freed|{s3}의 {s1}은(는) {s2}의 포로신세에서 해방되었습니다.
 str_center_captured|{s2}은(는) {s3}의 {s1}을(를) 점령하였습니다.
 str_troop_relation_increased|{s1}와의 관계가 {reg1}에서 {reg2}(으)로 향상되었습니다.
 str_troop_relation_detoriated|{s1}와의 관계가 {reg1}에서 {reg2}(으)로 악화되었습니다.
@@ -2158,7 +2158,7 @@ str_you_dont_serve_the_s4_so_id_say_no_one_day_we_may_be_at_war_and_i_prefer_not
 str_as_you_are_not_a_vassal_of_the_s4_i_must_decline_your_request_the_twists_of_fate_may_mean_that_we_will_one_day_cross_swords_and_i_would_hope_not_to_make_a_widow_of_a_lady_whom_i_am_obligated_to_protect|당신이 {s4}의 봉신이 아닌 만큼, 나는 그 요청을 거부해야만 하오. 뒤틀린 운명이 우리가 서로에게 검을 겨누게 할 수도 있고, 내가 지켜야 할 레이디를 과부로 만드는 것은 내가 원치 않는 일이오.
 str_as_you_are_not_a_pledged_vassal_of_our_liege_with_the_right_to_hold_land_i_must_refuse_your_request_to_marry_into_our_family|당신이 우리 왕에게 충성 서약과 영지를 받지 않았기 때문에, 나는 우리 가문과 혼인하길 바라는 당신의 요청을 거부해야만 하오.
 str_look_here_lad__the_young_s14_has_been_paying_court_to_s16_and_youll_have_to_admit__hes_a_finer_catch_for_her_than_you_so_lets_have_no_more_of_this_talk_shall_we|이보시오, 친구 -- 젊은 {s14}이(가) {s16}에게 구애하고 있소, 그리고 당신은 그가 당신보다 더 그녀의 신랑에 어울린다는 것을 인정해야만 할 것이오. 그러니 더 이상 나에게 이 이야기는 하지 마시오. 알겠소?
-str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|탐탁지 않은 구혼자들로부터 우리 가문의 레이디들을 지키는 것은 나의 의무라 생각하지만, 나는 당신에 대해서는 아무 것도 걱정하지 않겠소.
+str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|탐탁지않은 구혼자들로부터 우리 가문의 레이디들을 지키는 것은 나의 의무라 생각하지만, 나는 당신에 대해서는 아무 것도 걱정하지 않겠소.
 str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|흠, 어린 처녀들은 가문의 레이디라는 의무감을 잊고 유혹에 빠지기 쉽소, 내 생각에는 당신에 대해서 좀 더 안 뒤에 이야기했으면 좋겠소. 우리는 이 일에 대해 나중에 이야기할 수 있을 것이오.
 str_you_may_indeed_make_a_fine_match_for_the_young_mistress|당신은 어쩌면 젊은 레이디와 좋은 인연을 만들 수도 있을 것이오.
 str_madame__given_our_relations_in_the_past_this_proposal_is_most_surprising_i_do_not_think_that_you_are_the_kind_of_woman_who_can_be_bent_to_a_hushands_will_and_i_would_prefer_not_to_have_our_married_life_be_a_source_of_constant_acrimony|레이디 -- 그동안의 우리 사이 관계에 비추어 봤을때 이 청혼은 정말 뜬금없군요. 저는 당신이 남편의 말을 고분고분히 들어줄 부류의 여자라고는 생각하지 않습니다, 그리고 당신과 결혼해서 우리의 결혼 생활을 끊임없이 독설을 퍼부어대게 하는 원인으로 만들어 버리고 싶지는 않네요.
