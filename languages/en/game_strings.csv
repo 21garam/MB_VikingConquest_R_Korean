@@ -1843,28 +1843,28 @@ str_im_not_doing_anything_sirmadame_i_have_no_land_of_my_own_and_theres_no_work_
 str_why_im_still_living_off_of_your_kindness_and_goodness_sirmadame_hopefully_there_will_be_work_shortly|당신의 친절과 선의로 저는 아직 살아가고 있소. {reg59?부인:선생}. 다행히 당분간은 버틸 수 있겠소.
 str_i_work_in_the_fields_just_outside_the_walls_where_they_grow_grain_we_dont_quite_grow_enough_to_meet_our_needs_though_and_have_to_import_grain_from_the_surrounding_countryside|나는 성벽 바로 밖에 있는 곡식이 자라는 밭에서 일하고 있소. 우리가 쓰기 충분한 곡식이 자라는건 아니라오. 그렇기 때문에 주변의 마을에서 오는 곡물은 매우 중요하다오.
 str_i_work_mostly_in_the_fields_growing_grain_in_the_town_they_grind_it_to_make_bread_or_ale_and_we_can_also_boil_it_as_a_porridge|나는 대부분 곡물이 자라는 밭에서 일하고 있소. 빵이나 에일을 만들기 위해 마을에서 그 것들을 갈고 있지, 죽을 끓이는데 쓰기도 하고 있소.
-str_i_work_in_the_breweries_making_ale_the_poor_folk_drink_a_lot_of_it_as_its_cheaper_than_wine_we_make_it_with_grain_brought_in_from_the_countryside|나는 양조장에서 일하고 있소. 에일을 만들고 있지. 와인보다 싸기 때문에 가난한 시민들은 에일을 많이 마시고 있소, 우리는 이걸 마을에서 가져온 곡물로 만든다오.
+str_i_work_in_the_breweries_making_ale_the_poor_folk_drink_a_lot_of_it_as_its_cheaper_than_wine_we_make_it_with_grain_brought_in_from_the_countryside|나는 양조장에서 일하고 있소. 에일을 만들고 있지. 에일은 벌꿀술보다 싸기 때문에 가난한 시민들이 즐겨 마시고 있소, 우리는 이걸 마을에서 가져온 곡물로 만든다오.
 str_i_work_in_a_mill_grinding_flour_to_make_bread_bread_is_cheap_keeps_well_and_fills_the_stomach|나는 풍차에서 일하고 있소. 빵을 만들기 위해 밀가루를 갈고 있지. 빵은 저렴하고, 포만감이 오래 가며, 배를 채워줄 수 있소.
 str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk|나는 가축을 돌보는 일을 하고 있소. 우리는 고기를 보관하기 좋도록 말리고 소금에 절이곤 하오. 그리고 가죽은 도시로 보내지. 우리는 또한 우유에서 치즈도 만들고 있소.
 str_i_tend_cattle_we_dry_and_salt_meat_to_preserve_it_and_make_cheese_from_the_milk_so_it_doesnt_spoil|나는 가축을 돌보는 일을 하고 있소. 우리는 고기를 보관하기 좋도록 말리고 소금에 절이곤 하오. 그리고 가죽은 도시로 보내지. 우리는 또한 우유에서 치즈도 만들고 있소.
 str_i_tend_sheep_we_send_the_wool_to_the_cities_to_be_woven_into_cloth_and_make_mutton_sausage_when_we_cull_the_herds|나는 양을 돌보곤 하오. 우리는 도시로 양모를 보내어 옷감을 짤 수 있게 하고 있소. 그리고 가축을 도살할 땐 양고기 소세지를 만들고 있지.
-str_i_work_at_a_loom_spinning_cloth_from_wool_wool_is_some_of_the_cheapest_cloth_you_can_buy_but_it_will_still_keep_you_warm|나는 베틀로 일하오, 양모에서 옷감을 짜내고 있지. 울은 당신이 살 수 있는 옷감중 가장 저렴한 것중 하나일 거요. 하지만 분명 당신을 따듯하게 해줄 것이오.
-str_i_crew_a_fishing_boat_we_salt_and_smoke_the_flesh_to_sell_it_far_inland|나는 어선의 선원이고. 우리는 소금에 절이거나 훈제한 생선들을 먼 내륙에 팔고 있소.
-str_i_sift_salt_from_a_nearby_flat_they_need_salt_everywhere_to_preserve_meat_and_fish|나는 근처 여울에서 소금을 떠내곤 하오. 소금은 어디에서나 고기나 생선을 보관하기 위해 필요하지.
+str_i_work_at_a_loom_spinning_cloth_from_wool_wool_is_some_of_the_cheapest_cloth_you_can_buy_but_it_will_still_keep_you_warm|나는 베틀로 일하오, 양모에서 옷감을 짜내고 있지. 양모는 당신이 살 수 있는 옷감 중 가장 저렴한 것 중 하나일 거요. 하지만 분명 당신을 따듯하게 해줄 것이오.
+str_i_crew_a_fishing_boat_we_salt_and_smoke_the_flesh_to_sell_it_far_inland|나는 어선의 선원이고. 우리는 소금에 절이거나 훈제한 살코기를 멀리 내륙에 팔고 있소.
+str_i_sift_salt_from_a_nearby_flat_they_need_salt_everywhere_to_preserve_meat_and_fish|나는 근처 염전에서 소금을 걸러 내곤 하오. 소금은 어디에서나 고기나 생선을 보관하기 위해 필요하지.
 str_i_mine_iron_from_a_vein_in_a_nearby_cliffside_they_use_it_to_make_tools_arms_and_other_goods|나는 절벽 근처의 광맥에서 철을 캐고 있소. 그 것들은 공구나 무기, 그리고 다른 상품을 만드는 데 사용되곤 하지.
 str_i_make_pottery_which_people_use_to_store_grain_and_carry_water|나는 사람들이 곡식을 보관하거나 물을 나르기 위해 쓰는 도자기를 만들고 있소.
-str_trade_explanation_tools|나는 대장간에서 일을 하고 있소, {reg59?부인:선생}. 영주를 위해 칼, 도끼, 냄비, 쟁기날, 커다란 낫, 망치, 모루, 집게, 자귀, 톱, 손톱깍이, 말굽, 철제 부싯돌, 화로, 그리고 무기와 방어구 종류등 각종 철로 만들어진 물품들을 만들고 있소.
-str_trade_explanation_tar|I work in a tar kiln, producing tar from pine wood brought in from the countryside. If you can afford it, our tar has a hundred uses ? to waterproof sails and boats or to protect leather.
-str_trade_explanation_linen|나는 주변 시골에서 가져온 아마를 사용하여 리넨을 엮고 있소, {reg59?부인:선생}. 그 것을 질기고 가볍게 하여 좋은 여름 의류, 선박의 돛 등을 만들고 있지.
-str_trade_explanation_silver|I work in one of this town's silver smithies, carefully making the jewelry for which we are known. We use the precious metal brought from the German silver mines of the Harz Mountains, to make of it the finest and most expensive ornaments that can be found in the land.
-str_trade_explanation_mead|I work in a mead factory, collecting honey from the beehives to put into barrels. I mix it with pure water, for fermenting. Mead is cheaper than wine and more renowned than beer. No feast can be held without it.
-str_trade_explanation_apples|나는 과수원에 가서 사과를 키우는 일을 하고 있소. 우리는 식료품을 저장하기 위해 건조시키거나 사과 주스나 식초로 만들 수 있소.
-str_trade_explanation_barley|I work in the barley fields, growing corn to feed the cattle and to make ale to quench the thirst of the commons.
-str_trade_explanation_ivory|I sail to the far north to hunt walrus on the remote beaches of the icy land beyond the ocean. These marine beast have two prominent tusks of fine ivory. Back home, carvers make a lot of precious objects with this hard, expensive and pure white material.
+str_trade_explanation_tools|나는 대장간에서 일을 하고 있소, {reg59?부인:선생}. 영주를 위해 칼, 도끼, 냄비, 쟁기날, 커다란 낫, 망치, 모루, 집게, 자귀, 톱, 손톱깎이, 말굽, 철제 부싯돌, 화로, 그리고 무기와 방어구 종류 등 각종 철로 만들어진 물품들을 만들고 있소.
+str_trade_explanation_tar|나는 타르 작업장에서 일하고 있소. 시골에서 가져온 소나무로 타르를 만들어 내지. 우리 타르는 백 가지 쓰임이 있소 — 돛과 배를 방수하거나 가죽을 보호하는 데 쓰이지.
+str_trade_explanation_linen|나는 주변 시골에서 가져온 아마를 사용하여 리넨을 짜고 있소, {reg59?부인:선생}. 질기고 가벼운 직물이 되어 좋은 여름 의류, 선박의 돛 등을 만들고 있지.
+str_trade_explanation_silver|나는 이 마을 은세공소 중 한 곳에서 일하고 있소. 우리가 이름난 보석을 조심스럽게 만들지. 하르츠 산맥의 은광에서 나온 귀금속으로, 이 땅에서 구할 수 있는 가장 훌륭하고 값비싼 장신구를 만든다오.
+str_trade_explanation_mead|나는 벌꿀술 공장에서 일하고 있소. 벌통에서 꿀을 모아 통에 넣지. 순수한 물과 섞어 발효시키오. 벌꿀술은 와인보다 저렴하면서 에일보다는 이름값이 있소. 연회엔 벌꿀술이 없어서는 안 되지.
+str_trade_explanation_apples|나는 과수원에서 사과를 키우는 일을 하오, 막 그쪽에서 들어온 길이오. 저장하려고 말리거나, 사과주나 식초로 만들 수도 있소.
+str_trade_explanation_barley|나는 보리밭에서 일하고 있소. 가축 먹이와 서민들의 목마름을 달래는 에일을 만들 곡식을 키우고 있지.
+str_trade_explanation_ivory|나는 바다 건너 얼어붙은 땅의 외딴 해변에서 바다코끼리를 잡으러 먼 북방으로 항해하오. 이 해양 짐승은 고급 상아로 된 두 개의 큰 엄니를 지녔지. 고향에서는 장인들이 이 단단하고 비싼 순백의 재료로 많은 보물을 만든다오.
 str_trade_explanation_leatherwork|나는 성벽 외곽에서 주변 마을을 돌아 다니면서 건조시킨 가죽을 공급하는 일을 하고 있소. 그 일은 악취 나는 일이며 내 집에 오면 오줌, 똥, 그리고 석회 냄새가 나고 있을 거요. 하지만 가죽은 당신의 신발, 샌달, 그리고 말 굴레 어디든 사용되고 있소, {reg59?부인:선생}.
 str_trade_explanation_flax|나는 아마 씨앗과 뿌리 줄기를 수확하고, 바느질을 해서 아마 섬유를 만들고 있소. 그 것은 질 좋은 리넨 제품의 원료요, {reg59?부인:선생}.
-str_trade_explanation_soapstone|I work in a quarry of soapstone. This stone can be hewed directly from the rock face and shaped to be sold here and abroad. Soapstone is relatively soft and can be easily carved, so it’s used for sculpture or bowls.
-str_trade_explanation_venison|I hunt deer in the forest and work in a smokehouse, in which I smoke meat to preserve it for long periods. During the cold season, and even in summer, venison is the finest meal you can eat.
+str_trade_explanation_soapstone|나는 비누석 채석장에서 일하고 있소. 이 돌은 암벽에서 바로 잘라 내어 형을 만든 뒤 이곳과 외국에 팔리지. 비누석은 비교적 부드러워 쉽게 조각할 수 있어서’s 조각이나 그릇을 만드는 데 쓰인다오.
+str_trade_explanation_venison|나는 숲에서 사슴을 잡고 훈제장에서 일하오. 고기를 오래 보관하려고 훈제하지. 추운 철은 물론 여름에도 사슴고기는 그대가 먹을 수 있는 가장 훌륭한 밥이오.
 str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. 나는 {s15}에서 그 것들이 좋은 가격에 팔린다고 들었소.
 str_s2s_rebellion|{s2}의 반란
 str_political_suggestion|정치적 제안
@@ -1872,25 +1872,25 @@ str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|불안정: {reg0
 str_reg1shehe_is_prisoner_of_s1|{reg1?그녀:그}는 {s1}의 포로입니다.
 str_s39_rival|{s39} (라이벌)
 str_s41_s39_rival|{s41}, {s39} (라이벌)
-str_reputation_only_martial_|당신이 보기에, 그의 성향은 호전적 입니다.^
+str_reputation_only_martial_|당신이 보기에, 그의 성향은 호전적입니다.^
 str_reputation_only_debauched_|당신이 보기에, 그의 성향은 방탕합니다.^
 str_reputation_only_pitiless_|당신이 보기에, 그의 성향은 무자비합니다.^
-str_reputation_only_calculating_|당신이 보기에, 그의 성향은 계산적 입니다.^
-str_reputation_only_quarrelsome_|당신이 보기에, 그의 성향은 싸움꾼 입니다.^
+str_reputation_only_calculating_|당신이 보기에, 그의 성향은 계산적입니다.^
+str_reputation_only_quarrelsome_|당신이 보기에, 그의 성향은 싸움꾼입니다.^
 str_reputation_only_goodnatured_|당신이 보기에, 그의 성향은 온화합니다.^
 str_reputation_only_upstanding_|당신이 보기에, 그의 성향은 강직합니다.^
-str_reputation_only_conventional_|당신이 보기에, 그의 성향은 관습적 입니다.^
+str_reputation_only_conventional_|당신이 보기에, 그의 성향은 관습적입니다.^
 str_reputation_only_adventurous_|당신이 보기에, 그의 성향은 모험성이 강합니다.^
 str_reputation_only_romantic_|당신이 보기에, 그의 성향은 낭만적 입니다.^
-str_reputation_only_moralist_|당신이 보기에, 그의 성향은 도적적 입니다.^
-str_reputation_only_ambitious_|당신이 보기에, 그의 성향은 야망가 입니다.^
+str_reputation_only_moralist_|당신이 보기에, 그의 성향은 도덕적입니다.^
+str_reputation_only_ambitious_|당신이 보기에, 그의 성향은 야망가입니다.^
 str_love_interest|애정 상대
-str_betrothed|약혼한다
+str_betrothed|약혼자
 str_other_relations_s40_|그 외 인간관계: {s40}^
 str_relation_with_liege_reg0_|주군과의 관계: {reg0}^
 str_sense_of_security_military_reg1_court_position_reg3_|안정감: {reg1}명의 군사, {reg3}개의 지역^
 str_political_details_s47_|정치적 세부사항:^{s47}^
-str_the_s55|the {s55}
+str_the_s55|그 {s55}
 str_travellers_on_the_road|길위의 여행자들
 str_a_short_while_ago|얼마 전
 str_one_day_ago|하루 전
@@ -1900,12 +1900,12 @@ str_about_a_week_ago|일주일 전
 str_about_two_weeks_ago|이주일 전
 str_several_weeks_ago|몇주 전
 str_unknown_assailants|알 수 없는 괴한들
-str_swadians|Britons
-str_vaegirs|Vikings
-str_khergits|Saxons
-str_nords|Angles
-str_rhodoks|Goidels
-str_sarranids|Picts
+str_swadians|브리튼인
+str_vaegirs|바이킹
+str_khergits|색슨인
+str_nords|앵글인
+str_rhodoks|고이델인
+str_sarranids|픽트인
 str_bandits|도적
 str_deserters|탈영병
 str_your_followers|플레이어 추종자
@@ -1916,7 +1916,7 @@ str_it_is_still_early_in_the_caravan_season_so_we_have_seen_little_tradings42|�
 str_there_has_been_very_little_trading_activity_here_recentlys42|최근까지 이 도시에서는 매우 작은 거래만이 진행되고 있었소.{s42}
 str_there_has_some_trading_activity_here_recently_but_not_enoughs42|최근 이 도시에서는 몇몇 거래가 있었지만, 그리 충분하지는 않았소.{s42}
 str_there_has_some_trading_activity_here_recently_but_the_roads_are_dangerouss42|최근 이 도시에서는 몇몇 거래가 있었지만, 이 근처의 길들은 위험하오.{s42}
-str_the_roads_around_here_are_very_dangerouss42|최근 이 근처의 길들은 매우 위험하오.{s42}
+str_the_roads_around_here_are_very_dangerouss42|이 근처 길은 매우 위험하오.{s42}
 str_we_have_received_many_traders_in_town_here_although_there_is_some_danger_on_the_roadss42|우리는 이 도시로 온 많은 상인들을 보았소, 물론 교역로에는 어느 정도 위험이 따르기 마련이오.{s42}
 str_we_have_received_many_traders_in_town_heres42|우리는 이 도시로 온 많은 상인들을 보았소.{s42}
 str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe| {s44}(으)로 가는 상단들의 교역로와 그 근처에 대한 새로운 소식은 별로 없는 것 같소. 그러나 무소식이 희소식이니 그들은 안전할 것이라고 생각하고 있소.
@@ -1939,7 +1939,7 @@ str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|당신은 나
 str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|당신은 나에게 영지를 준다고 말했소. 불행하게도, 나는 당신이 나에게 이 같은 호의를 베푼다고 해도, 당신을 따르기에는 당신의 명성이 너무나도 부족한 것 같소만.
 str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 그렇지만 나는 우리가 앞으로도 계속 싸워야 할 것이라고 생각하오. - 각자가 믿는 정의의 길이 다른 것 같다고 생각하기 때문이지.
 str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 허나, 나는 대소 신료들의 정당함에 관한 논쟁에 대하여 말하고 싶지 않소.
-str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|당신은 정당한 통치에 대하여 말했소. 내가 당신을 보았을 때, 나는 당신이야말로 진정 왕이라는 것을 느꼈소.
+str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|당신은 정의로운 통치에 대해 말씀 하였소. 하! 당신이 말하는 정의로운 왕을 한 명이라도 눈으로 볼 수 있다면 그때 믿어 주겠소.
 str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|당신은 우리의 오래된 권리를 지지할 것이라 말했소, 만약 당신이 그 말을 지킬 수 있다면, 당신은 건국왕이 되어 오랫동안 왕위를 누릴 수 있을 거요.
 str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|당신은 나에게 영지를 준다고 말했지. 음, 좋소. 당신이 정말로 그것을 이행한다면 생각해 보겠소.
 str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|당신은 나에게 영지를 준다고 말했지. 하, 당신은 약속 안 지키기로 유명한 사람이지 않소?
@@ -2010,12 +2010,12 @@ str_s18_has_condemned_me_for_engaging_in_commerce_what_could_possibly_be_wrong_w
 str_s18_i_have_heard_has_been_encouraging_seditious_ideas_among_the_peasantry__a_foolish_move_which_endangers_us_all|{s18}, 내가 들은 이야기인데, 그 자는 농노들이 위험한 생각을 품도록 선동해왔다고 들었소. -- 그건 우리 모두를 위험에 빠지게 할 멍청한 생각이오.
 str_s18_has_called_me_out_for_the_way_i_deal_with_my_tenants_well_so_be_it_if_i_teach_them_that_they_are_the_equal_of_anyone_with_socalled_gentle_blood_what_is_it_to_reg3herhim|{s18}은(는) 나에게 농노들을 좀 더 인간적으로 대우하라고 이야기하더군. 음, 좋소, 내가 내 농노들에게 사실 그들이 자칭 '점잖은' 혈통이라는 자들과 평등한 거라고 가르치고 있다 칩시다, 그렇게 한다고 해서, 그게 대체 {reg3?그:그녀}와 무슨 상관이 있는 거요?
 str_a_most_gallant_gentleman_who_knows_how_to_treat_a_lady|어떻게 숙녀를 대하는지 아는 사람이 가장 정중한 신사죠.
-str_a_base_cad|a base cad
+str_a_base_cad|비열하고 무례한 자
 str_a_man_who_treats_me_as_his_equal_which_is_rare|나와 그를 동등하게 대해주는 남자는 드문 경우입니다.
 str_appears_to_value_me_with_his_estate_and_his_horse_as_prizes_worth_having|나의 가치는 그의 재산과 말의 가치에 따라 나타납니다.
 str_a_bit_dull_but_what_can_you_expect|이빨이 조금 무디군, 하지만 당신이 무엇을 기대할 수 있을지...
 str_the_man_whom_destiny_intends_for_me|그 사람은 나를 위해 운명을 바칠 사람입니다.
-str_is_not_right_for_me__i_cannot_say_why_but_he_makes_my_skin_crawl|은(는) 나와 맞지 않는 사람이이에요. - 저는 정확한 이유는 알지 못하겠어요, 하지만 그는 나를 소름끼치게 만들어요.
+str_is_not_right_for_me__i_cannot_say_why_but_he_makes_my_skin_crawl|은(는) 나와 맞지 않는 사람이에요. - 저는 정확한 이유는 알지 못하겠어요, 하지만 그는 나를 소름끼치게 만들어요.
 str_is_a_man_who_clearly_intends_to_make_his_mark_in_the_world|은(는) 확실히 세상에 자신의 행적을 남길 것 같은 사람이에요.
 str_is_a_layabout_a_naif_prey_for_others_who_are_cleverer_than_he|은(는) 문외한이고, 자신보다 똑똑한 사람을 위해 기도하는 세상 물정을 모르는 사람이에요.
 str_is_a_man_of_stalwart_character|은(는) 충실한 성격을 가진 사람으로 보인다.
