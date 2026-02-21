@@ -1929,59 +1929,59 @@ str_the_roads_are_full_of_brigands_friend_but_that_name_in_particular_does_not_s
 str_less_than_an_hour_ago|한 시간 내
 str_maybe_reg3_hours_ago|아마 {reg3}시간 전
 str_reg3_days_ago|{reg3}일 전
-str_youre_in_luck_we_sighted_those_bastards_s16_near_s17_hurry_and_you_might_be_able_to_pick_up_their_trail_while_its_still_hot|운이 좋소. 그 놈들을 {s17} 근처 {s16}에서 봤소. 서두르면 아직 흔적이 식기 전에 그들의 꼬리를 잡을 수 있을 거요.
+str_youre_in_luck_we_sighted_those_bastards_s16_near_s17_hurry_and_you_might_be_able_to_pick_up_their_trail_while_its_still_hot|운이 좋군. 그 놈들을 {s17} 근처 {s16}에서 봤소. 서두르면 아직 흔적이 식기 전에 그들의 꼬리를 잡을 수 있을 거요.
 str_you_speak_of_claims_to_the_throne_good_there_is_nothing_id_rather_do_than_fight_for_a_good_cause|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군, 좋소. 정의를 위해서 싸우는 것보다 더 좋은 이유는 없겠지.
 str_you_speak_of_claims_to_the_throne_well_there_is_nothing_id_rather_do_than_fight_for_a_good_cause_but_the_claim_you_make_seems_somewhat_weak|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군, 좋소. 올바른 정통성을 위해서 싸우는 것보다 더 좋은 이유는 없겠지, 그러나 그 주장을 하기에는 당신 스스로의 정통성이 부족하다고 생각하지 않소?
 str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_which_are_sometimes_trod_upon_in_these_sorry_days|내 오랜 권리를 지켜 주겠다니 기쁘군. 요즘처럼 그런 권리가 짓밟히기 쉬운 때가 없소.
 str_i_am_pleased_that_you_speak_of_upholding_my_ancient_rights_but_sometimes_men_make_pledges_before_they_are_king_which_they_cannot_keep_once_they_take_the_throne|내 오랜 권리를 지켜 주겠다니 기쁘군. 하지만 왕이 되기 전에 한 서약을 왕위에 오른 뒤엔 지키지않고 내팽겨치는 것도 흔한 일이오.
 str_you_speak_of_protecting_the_commons_well_i_supposed_thats_good_but_sometimes_the_commons_overstep_their_boundaries_im_more_concerned_that_your_claim_be_legal_so_i_can_swing_my_sword_with_a_good_conscience|당신은 평민을 보호하겠다고 했소. 내 생각에도 좋은 일이지만, 종종 그들은 주제넘은 행위를 할 때가 있소. 나는 당신의 주장이 법리에 맞는지가 더 중요하오. 그래야 양심껏 검을 휘둘 수 있지.
 str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|당신은 나에게 영지를 주겠다고 했소. 좋소. 내 몫 이상을 바라지는 않겠소.
-str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|당신은 나에게 영지를 주겠다고 했소. 안타깝게도 당신이 그런 약속을 한 이들에게 보답하기에는 명성이 너무나도 부족한 것 같소.
-str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 그렇지만 나는 우리가 앞으로도 계속 싸워야 할 것이라고 생각하오. 다만 정당한 대의를 위해 싸우는 것이 중요하지.
-str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 허나, 나는 대소 신료들의 정당함에 관한 논쟁에 대하여 말하고 싶지 않소.
+str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|당신은 나에게 영지를 주겠다고 했소. 안타깝게도 당신은 그런 약속을 하고도 제대로 보상하지 않는 것으로 유명하더군.
+str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|당신은 스스로 이 땅을 통합할 능력이 있다 말했소. 음, 우리는 늘 싸우겠지만, 중요한 것은 정당한 명분을 위해 싸우는 것이라고 믿소.
+str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 허나, 나는 법적인 논쟁은 법률가나 서기들에게나 맡기겠소.
 str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|당신은 정의롭게 다스리겠다고 했소. 하! 당신이 말하는 정의로운 왕을 한 명이라도 눈으로 볼 수 있다면 그때 믿어 주겠소.
-str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|당신은 귀족의 권리를 지켜 주겠다고 했소. 만약 당신이 그 말을 지킬 수 있다면, 당신은 건국왕이 되어 오랫동안 왕위를 누릴 수 있을 거요.
-str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|당신은 나에게 영지를 준다고 말했지. 음, 좋소. 당신이 정말로 그것을 이행한다면 생각해 보겠소.
-str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|당신은 나에게 영지를 준다고 말했지. 하, 당신은 약속 안 지키기로 유명한 사람이지 않소?
+str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|당신은 귀족의 권리를 지켜 주겠다고 했소. 만약 당신이 그 말을 지킬 수 있다면, 당신은 아주 오랜만에 나타난 진정한 왕이 될 거요.
+str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|당신은 나에게 영지를 준다고 말했지. 음, 좋소. 당신이 정말로 약속을 지키는지 두고 보겠소.
+str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|당신은 나에게 영지를 준다고 말했지. 하, 당신은 약속을 지키지 않는 것으로 잘 알려져 있지 않소.
 str_you_speak_of_unifying_calradia_well_youve_done_a_good_job_at_making_calradia_bend_its_knee_to_you_so_maybe_thats_not_just_talk|당신은 이 땅을 통일하겠다고 했소. 이 땅이 그대에게 무릎 꿇게 만든 걸 보니, 말뿐이 아닌 것 같소.
-str_you_speak_of_unifying_calradia_id_be_impressed_if_i_thought_you_could_do_it_but_unfortunately_you_dont|당신은 이 땅을 통일하겠다고 했소. 만일 당신이 실제로 그럴 능력이 있다면 나는 기꺼이 당신에게 동조할 것이오, 그러나 불행하게도 당신에게는 그럴 능력이 없는 것 같소.
+str_you_speak_of_unifying_calradia_id_be_impressed_if_i_thought_you_could_do_it_but_unfortunately_you_dont|당신은 이 땅을 통일하겠다고 했소. 당신이 해낸다면 감명 깊겠지만, 유감스럽게도 당신에겐 그럴 능력이 없소.
 str_you_speak_of_claims_to_the_throne_well_any_peasant_can_claim_to_be_a_kings_bastard|당신은 스스로 정당한 왕위를 가질 자격이 있다고 말하고 있군. 좋소, 어떤 촌부락의 농부라도 왕의 사생아라고 주장할 수는 있지.
-str_well_its_a_fine_thing_to_court_the_commons_with_promises_but_what_do_you_have_to_offer_me|음, 평민에게 약속으로 구애하는 건 좋소. 그런데 나에게 줄 수 있는 것은 무엇이오?
-str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected|영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 그건 반가운 변화겠지.
-str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected_however_it_is_easy_for_you_to_make_promises_while_you_are_weak_that_you_have_no_intention_of_keeping_when_you_are_strong|영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 반가운 일이지. 다만 사람이란 약할 때는 약속하기 쉽고, 강해지면 지킬 생각이 없어지는 법이오. 당신이 그 말을 지킬 것이라는 보증이 있소?
-str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|당신은 나에게 영지를 주겠다고 했소. 음, 내 집안은 오래된 귀족이오. 그대가 약속한 것은 정당한 내 몫을 넘어서는 것은 아니오. 그래도 그 뜻은 고맙소.
-str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|당신은 나에게 영지를 주겠다고 했소. 음, 당신의 서약에도 불구하고 나는 그다지 감동하지 않았소.
+str_well_its_a_fine_thing_to_court_the_commons_with_promises_but_what_do_you_have_to_offer_me|음, 평민에게 약속으로 구애하는 건 좋은 전략이오. 그런데 나에게 줄 수 있는 것은 무엇이오?
+str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected|당신은 영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 그건 반가운 변화겠지.
+str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if_my_rights_as_lord_would_be_respected_however_it_is_easy_for_you_to_make_promises_while_you_are_weak_that_you_have_no_intention_of_keeping_when_you_are_strong|당신은 영주의 권리를 지켜 주겠다고 했소. 내 권리가 존중된다면 반가운 일이지. 다만 사람이란 약할 때는 약속하기 쉽고, 강해지면 지킬 생각이 없어지는 법이오. 당신이 그 말을 지킬 것이라는 보증이 있소?
+str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|당신은 나에게 영지를 주겠다고 했소. 음, 내 가문은 유서 깊은 귀족가이니 당연한 권리를 약속한 셈이오만, 당신의 호의는 높게 평가하겠소.
+str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|당신은 나에게 영지를 주겠다고 했소. 음, 그런 서약을 한다 해도 나는 별로 감명 깊지 않구려.
 str_you_speak_of_unifying_calradia_well_much_of_this_land_now_bends_its_knee_to_you_so_perhaps_that_is_not_just_talk|당신은 이 땅을 통일하겠다고 했소. 음, 이 땅의 많은 부분이 이미 그대에게 무릎 꿇었으니 말뿐은 아닌 것 같소.
 str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many|당신은 이 땅을 통일하겠다고 했소. 지금으로선 그대의 세력은 싸움에 뛰어든 여러 세력 중 하나에 불과하오.
-str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|당신은 자격에 대해서 말하는군. 악의는 없소만, 힘 없이 내세우는 자격만으로는 무언가를 이루기 어렵소.
-str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|당신은 평민을 보호하겠다고 했소. 음, 그게 나라를 더 번영하게 하겠지. 나는 내 소작농을 나름 대우해 왔소. 잠자리에 들 때 지붕에 불 났을까 걱정하지 않게 말이오.
-str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|당신은 평민을 보호하겠다고 했소. 좋소. 다만 기억하시오. 약속하고 지키지 않으면, 평민들은 처음부터 아무것도 약속하지 않았을 때보다 더 많은 소동을 일으킬 것이오.
-str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|당신은 영주의 권리를 지켜 주겠다고 했소. 좋소. 그렇게 하는 게 좋겠오. 그들은 권리를 존중해 주는 왕을 위해 더 잘 싸우지.
+str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|당신은 명분을 말하는군. 유감이지만, 무력이 뒷받침되지 않는 명분은 번영하기 힘든 법이라오.
+str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|당신은 평민을 보호하겠다고 했소. 영지가 번영하겠구려. 나 역시 백성을 품위 있게 대하려 노력하오. 그래야 지붕에 불이 날 걱정 없이 잠자리에 들 수 있으니까 말이오.
+str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|당신은 평민을 보호하겠다고 했소. 좋소. 하지만 지키지 못할 약속은 차라리 하지 않는 것만 못하다는 걸 기억하시오. 백성들이 반란을 일으키는 지름길이니까.
+str_you_speak_of_protecting_the_rights_of_lords_good_youd_be_well_advised_to_do_that__men_fight_better_for_a_king_wholl_respect_their_rights|당신은 영주의 권리를 지켜 주겠다고 했소. 현명한 생각이오. 그들은 권리를 존중해 주는 왕을 위해 더 잘 싸우지.
 str_you_speak_of_protecting_the_rights_of_lords_very_well_but_remember__failing_to_keep_promises_which_you_made_while_scrambling_up_the_throne_is_the_quickest_way_to_topple_off_of_it_once_you_get_there|영주의 권리를 지켜 주겠다고 했소. 좋소. 다만 명심하오. 왕위를 차지하려 할 때 한 약속을 지키지 못하면, 그동안 당신이 얻기 위해 노력했던 모든 것들을 한 번에 잃게 만들 것이오.
-str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|당신은 나에게 영지를 주겠다고 했소. 좋소. 다만 꼭대기를 바라보며 많은 약속을 하는 사람이 원하는 것을 이루게 되면, 그 약속을 지키지 못해 파멸할 수도 있다는 것을 명심하시오.
-str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|당신은 이 땅을 통일하겠다고 했소. 좋소, 당신이 그렇게 할 만한 이라고 하는 이가 많소. 그럴 수 있을지도 모르겠군.
+str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes_too_many_promises_trying_to_get_to_the_top_he_has_trouble_keeping_them_once_he_reaches_it|당신은 나에게 영지를 주겠다고 했소. 아주 좋소. 하지만 정상에 오르기 위해 너무 많은 약속을 하면, 막상 그 자리에 올랐을 때 지키기 어려워지는 법이라오.
+str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|당신은 이 땅을 통일하겠다고 했소. 많은 이들이 당신이야말로 그 일을 해낼 적임자라고들 하더군.
 str_you_speak_of_unifying_calradia_well_all_the_kings_say_that_im_not_sure_that_you_will_succeed_while_they_fail|당신은 이 땅을 통일하겠다고 했소. 음, 왕들은 모두 그렇게 말하지. 그들이 실패한 걸 그대가 해낼 것이라고 믿지는 않소.
-str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|당신은 당신의 정당성을 말하는군. 변호사들이나 지껄이는 말에 내가 신경이나 쓸 것이라 생각하오?
+str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|당신은 당신의 정당성을 말하는군. 법률가들이나 지껄이는 말에 내가 신경이나 쓸 것이라 생각하오?
 str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|당신은 평민을 보호하겠다고 했소. 참 친절하시구만! 내 돼지치기에게 그대의 달콤한 약속을 다 전해 주겠소. 틀림없이 그대의 가장 충실한 봉신이 되겠지?
 str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|당신은 영주의 권리를 지켜 주겠다고 했소. 달콤한 말이지! 하지만 말해 두겠소. 이 세상에서 인정받는 권리란 약한 자를 지배할 권리와 강한 자에게 복종할 권리뿐이오.
 str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|당신은 나에게 영지를 주겠다고 했소. 그래, 좋소. 다만 약속은 반드시 지켜져야 좋을 것이오.
 str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|당신은 나에게 영지를 주겠다고 했지. 하! 하지만 영지를 약속받은 그 많은 이들이 그냥 물러날 것 같소?
 str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|당신은 이 땅을 통일하겠다고 했소. 그대가 이 땅의 다른 왕들을 굴복시킨다면, 내가 당신의 충실한 신하였다는 것을 기억해 주시길 바라오.
 str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|당신은 이 땅을 통일하겠다고 했소. 하지만 지금 그대는 약하고, 앞으로도 그런 힘이 생길 것이라는 생각은 들지 않소.
-str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|당신은 당신의 정당성을 말하는군. 왕에게 튼튼한 자격이 있으면 좋소. 솔직히 나는 법리보다 정당하게 다스리는지가 더 중요하다고 보오. 어쨌든 그대의 정당성은 나에게는 설득력 있소.
-str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|당신은 당신의 정당성을 말하는군. 다만 내가 보기에는 당신이 주장하는 왕위에 대한 정당성은 설득력이 없소.
+str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|당신은 명분을 말하는군. 왕에게 강한 명분은 중요하오. 비록 나는 법적 절차보다는 공정한 통치에 더 관심이 있소만, 어쨌든 당신의 명분은 충분해 보이오.
+str_you_speak_of_claims_but_your_claim_seems_a_bit_weak_to_me|당신은 왕위에 대한 명분을 말하지만, 내게는 그 주장이 다소 약해 보이는구려.
 str_you_speak_of_protecting_the_commons_i_like_that_my_tenants_are_a_happy_lot_i_think_but_i_hear_of_others_in_other_estates_that_arent_so_fortunate|당신은 평민을 보호하겠다고 했소. 마음에 드오. 내 소작농들은 나름 행복한 편이라 생각하오. 그러나 다른 영지 소작농들은 그렇지 않다 들었소.
-str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|당신은 평민을 보호하겠다고 했소. 그 말을 들어 기쁘오. 하지만 부탁이 있소. 평민드렝게 지킬 수 없는 약속을 하지 마시오. 당신이 약속을 어긴다면 그들은 하루아침에 반역자가 될 것이오. 그들을 진압하는 일은 가슴 아픈 일이오.
+str_you_speak_of_protecting_the_commons_im_glad_to_hear_you_say_that_but_do_me_a_favor__dont_promise_the_commons_anything_you_cant_deliver_thats_a_sure_way_to_get_them_to_rebel_and_it_breaks_my_heart_to_have_to_put_them_down|당신은 평민을 보호하겠다고 했소. 그 말을 들어 기쁘오. 하지만 부탁이 있소. 평민들에게 지킬 수 없는 약속을 하지 마시오. 당신이 약속을 어긴다면 그들은 하루아침에 반역자가 될 것이고, 내 백성을 내 손으로 진압하는 건 가슴 아픈 일이니까.
 str_you_speak_of_protecting_the_rights_of_lords_well_very_good_i_suppose_but_you_know__we_lords_can_take_of_ourselves_its_the_common_folk_who_need_a_strong_king_to_look_out_for_them_to_my_mind|당신은 영주의 권리를 지켜 주겠다고 했소. 음, 좋소만, 영주들의 권리는 영주 스스로가 증명해야 하는 것이오. 내 생각엔 강한 왕이 지켜 줘야 할 건 백성들이오.
 str_you_speak_of_giving_me_land_its_kind_of_you_really_though_that_is_not_necessary|당신은 나에게 영지를 주겠다고 했소. 당신의 제안은 고맙소만, 사실, 그런 것들은 나에게는 별로 필요가 없소.
 str_you_speak_of_unifying_calradia_well_maybe_you_can_unite_this_land_by_the_sword_but_im_not_sure_that_this_will_make_you_a_good_ruler|당신은 이 땅을 통일하겠다고 했소. 음, 당신이 검으로 이 땅을 통일할 수 있을지도 모르겠소. 그러나 그것이 그대를 좋은 통치자로 만드는지에 대해서는 의심스럽소.
-str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_and_yours_is_wellestablished|당신은 당신의 정당성을 말하는군. 왕국이 혼란하지 않으려면 왕에게 튼튼한 법적 자격이 있어야 하오. 그대의 자격은 잘 갖춰져 있소.
-str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|당신은 당신의 정당성을 말하는군. 왕국이 혼란하지 않으려면 왕에게 튼튼한 법적 자격이 있어야 하오. 그대의 자격은 그다지 튼튼하지 않소.
+str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_and_yours_is_wellestablished|당신은 명분을 말하는군. 왕국에 혼란이 없으려면 왕은 강력한 법적 명분을 가져야 하오. 당신의 명분은 확실히 정립된 것 같소.
+str_you_speak_of_claims_a_king_must_have_a_strong_legal_claim_for_there_not_to_be_chaos_in_the_realm_but_your_claim_is_not_so_strong|당신은 명분을 말하는군. 왕국에 혼란이 없으려면 왕은 강력한 법적 명분을 가져야 하오. 하지만 당신의 주장은 그리 강력해 보이지 않소.
 str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 영주의 권리를 지켜 주겠다고 했소. 왕이 봉신의 권리를 존중하는 건 당연히 중요하오. 다만 정당한 이유 없이 왕위를 탈취한 왕이 정의롭게 다스릴지 걱정이오.
 str_you_speak_of_protecting_the_rights_of_lords_it_is_of_course_important_that_a_king_respect_the_rights_of_his_vassals_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 영주의 권리를 지켜 주겠다고 했소. 왕이 봉신의 권리를 존중하는 건 당연히 중요하오. 다만 당신이 약속을 정말 지킬지 의심스럽소.
 str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_although_i_worry_that_a_king_who_took_a_throne_without_proper_cause_would_not_rule_with_justice|당신은 평민을 보호하겠다고 했소. 백성의 권리를 존중하는 왕을 섬기는 일은 기쁜 일이오. 다만 정당한 이유 없이 왕위를 탈취한 왕이 정의롭게 다스릴지 걱정이오.
 str_you_speak_of_protecting_the_commons_i_would_be_pleased_to_serve_a_king_who_respected_the_rights_of_his_subjects_however_i_would_like_to_know_that_you_would_indeed_deliver_on_your_promises|당신은 평민을 보호하겠다고 했소. 백성의 권리를 존중하는 왕을 섬기는 일은 기쁜 일이오. 다만 그대가 약속을 정말 지킬지 의심스럽소.
-str_i_am_not_swayed_by_promises_of_reward|보상 약속하는 것으로는 내 마음이 움직이지 않소.
+str_i_am_not_swayed_by_promises_of_reward|보상을 약속하는 것으로는 내 마음이 움직이지 않소.
 str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_to_the_realm_and_i_believe_that_you_are_strong_enough_to_do_so|당신은 이 땅을 통일하겠다고 했소. 왕국에 평화를 가져오면 좋겠소. 당신에게 그럴 힘이 있다고 믿소.
 str_you_speak_of_unifying_calradia_it_would_be_good_to_bring_peace_the_realm_but_with_your_kingdom_in_its_current_state_i_worry_that_you_are_just_bringing_more_discord|당신은 이 땅을 통일하겠다고 했소. 왕국에 평화를 가져오면 좋겠오만, 지금 그대 왕국의 형편으로는 오히려 더 많은 혼란을 부를까 걱정이오.
 str_my_s11_s15|나의 {s11} {s15}
@@ -1993,163 +1993,164 @@ str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_o
 str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18}은(는) 내 재산의 일부에 대한 권리가 있다고 여기는 모양이오. 당연히 그에게 그런 권리 따윈 없소.
 str_s18_once_took_something_i_said_amiss_stubborn_bastard_wont_give_it_up_and_keeps_trying_to_get_me_to_recant_my_words|{s18}은(는) 내 말을 오해해서 불쾌하게 받아들이더군. 그 자는 스스로 오해했다고 인정하는 대신 끊임없이 내가 그 말을 철회하게 만들려고 하고 있소.
 str_s18_is_a_crafty_weasel_and_i_dont_trust_him_one_bit|{s18}은(는) 교활한 족제비요. 한 푼어치도 믿지 않소.
-str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}? 나는 그를 경멸하오. 그는 자신의 덕은 지나치게 과시하고, 그보다 나은 사람에 대해선 모욕하는 사람이오.
-str_s18_entered_into_a_little_deal_with_me_and_is_now_trying_to_wriggle_out_of_it|{s18}은(는) 나와 작은 거래를 했는데, 이제 빠져 나가려 하고 있소.
-str_s18_once_ran_an_errand_for_me_and_now_thinks_i_owe_him_something_i_owe_his_ilk_nothing|{s18}은(는) 한때 내 심부름을 해 준 적이 있는데, 그 후로 내가 그에게 무슨 빚이라도 진 것처럼 여긴다오. 나는 그에게 신세진 게 아무것도 없는데도 말이지.
-str_s18_is_soft_and_weak_and_not_fit_to_govern_a_fief_and_i_have_always_detested_him|{s18}은(는) 서투르고 연약하여 영지를 운영할 능력이 없는 사람이오. 늘 그를 경멸해 왔소.
-str_s18_is_a_quarrelsome_oaf_and_a_liability_in_my_opinion_and_ive_let_him_know_as_much|{s18}은(는) 싸우기 좋아하는 멍청이에 불과하오. 그도 내 생각이 어떤지 잘 알고 있을것이오.
-str_s18_i_am_sorry_to_say_is_far_too_softhearted_a_man_to_be_given_any_kind_of_responsibility_his_chivalry_will_allow_the_enemy_to_flee_to_fight_another_day_and_will_cost_the_lives_of_my_own_faithful_men|{s18}, 이런 말을 하게 되어 유감이긴 한데, 그 자는 너무 동정심이 강해서 어떠한 책임감도 동정심 앞에서는 가차없이 버리곤 하오. 그는 기사도를 지키기 위해 적들이 다음을 기약하며 도망가는 걸 용인할 것이고, 그의 그런 행위는 나의 충성스런 부하들의 목숨을 위협하게 될 것이오.
-str_s18_seems_to_have_something_against_me_for_some_reason_i_dont_like_to_talk_ill_of_people_but_i_think_hes_can_be_a_bit_of_a_cad_sometimes|{s18}은(는) 나에 대해 불만이 있는 것 같소, 분명 어떤 이유가 있는 것 같은데. 나는 사람들을 뒤에서 욕하는 걸 좋아하지 않소, 그러나 나는 그가 가끔 비열하다고 느끼고 있소. 아주 가끔 말이오.
-str_s18_has_always_treated_me_contemptuously_although_i_have_done_him_no_wrong|{s18}은(는) 언제나 나를 경멸하듯이 대해 왔소, 나는 그에게 무언가 잘못한 적이 한 번도 없는데 말이오.
+str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}? 나는 그를 경멸하오. 구역질 나는 도덕심을 과시하면서도 자기보다 윗사람을 모욕하는 데는 거리낌이 없지.
+str_s18_entered_into_a_little_deal_with_me_and_is_now_trying_to_wriggle_out_of_it|{s18}와(과) 작은 거래를 하나 했는데, 이제 와서 거기서 빠져나가려고 발버둥을 치고 있소.
+str_s18_once_ran_an_errand_for_me_and_now_thinks_i_owe_him_something_i_owe_his_ilk_nothing|{s18}은(는) 예전에 내 심부름이나 하던 놈인데, 이제는 내가 자기한테 뭐라도 빚진 줄 알더군. 그런 부류에게 줄 건 아무것도 없소.
+str_s18_is_soft_and_weak_and_not_fit_to_govern_a_fief_and_i_have_always_detested_him|{s18}은(는) 나약하고 무능해서 영지를 다스릴 자격이 없소. 나는 늘 그자를 혐오해 왔소.
+str_s18_is_a_quarrelsome_oaf_and_a_liability_in_my_opinion_and_ive_let_him_know_as_much|내 생각에 {s18}은(는) 말썽만 피우는 멍청이에 짐덩이일 뿐이오. 그자에게도 그렇게 직접 말해줬지.
+str_s18_i_am_sorry_to_say_is_far_too_softhearted_a_man_to_be_given_any_kind_of_responsibility_his_chivalry_will_allow_the_enemy_to_flee_to_fight_another_day_and_will_cost_the_lives_of_my_own_faithful_men|유감스럽지만, {s18}은(는) 어떤 책임을 맡기기엔 너무 물렁한 사람이라오. 그의 기사도는 적들이 훗날을 도모하며 도망치게 놔둘 것이고, 결국 내 충직한 부하들이 목숨을 잃게 될 거요.
+str_s18_seems_to_have_something_against_me_for_some_reason_i_dont_like_to_talk_ill_of_people_but_i_think_hes_can_be_a_bit_of_a_cad_sometimes|{s18}은(는) 왠지 모르게 나에게 반감이 있는 것 같소. 남의 험담은 피하고 싶지만, 그는 가끔 비열한 구석이 있는 사람이라고 생각하오.
+str_s18_has_always_treated_me_contemptuously_although_i_have_done_him_no_wrong|{s18}은(는) 언제나 나를 경멸하듯이 대해 왔소, 내가 그에게 무언가 잘못한 적이 한 번도 없는데 말이오.
 str_s18_is_thoroughly_dishonorable_and_a_compulsive_spinner_of_intrigues_which_i_fear_will_drag_us_into_wars_or_incite_rebellions|{s18}은(는) 완전히 망신거리라오, 그는 끊임없이 강박적으로 음모를 꾸며대고 있는데, 나는 그의 음모가 우리를 전쟁으로 끌어들이거나 반란군을 선동하지는 않을까 걱정이오.
-str_s18_disappoints_me_i_once_scolded_for_his_rashness_in_battle_and_he_took_offense_i_do_not_care_to_apologize_for_my_efforts_to_save_his_life_and_the_lives_of_his_men|{s18}은(는) 언제나 나를 실망시키곤 하오. 나는 한 전투에서 그의 경솔함을 나무란 적이 있는데, 그는 짜증을 내더군. 나는 그와 그의 부하들 목숨을 살려주기 위해 했던 말에 대해 사과할 마음은 추호도 없소.
+str_s18_disappoints_me_i_once_scolded_for_his_rashness_in_battle_and_he_took_offense_i_do_not_care_to_apologize_for_my_efforts_to_save_his_life_and_the_lives_of_his_men|{s18}은(는) 나를 실망시키는구려. 예전에 그의 경솔한 전투 지휘를 꾸짖었더니 화를 내더군. 그와 부하들의 목숨을 구하려 했던 내 행동에 대해 사과할 마음은 전혀 없소.
 str_s18_squanders_money_and_carouses_in_a_way_most_unbefitting_a_noble_by_doing_so_he_disgraces_us_all|{s18}은(는) 귀족이라는 신분이 가진 의무에 걸맞지 않는 방탕한 생활을 하고 있소. 그의 그런 행동은 우리 모두의 명예에 먹칠을 하고 있소.
-str_s18_has_been_speaking_ill_of_me_behind_my_back_or_so_they_say|{s18}은(는) 내 뒤에서 내 욕을 하고 다니고 있소, 적어도 다른 사람들은 그렇다고 말하고 있지.
-str_s18_is_a_disgrace_reg3shehe_consorts_with_merchants_lends_money_at_interest_uses_coarse_language_and_shows_no_attempt_to_uphold_the_dignity_of_the_honor_bestowed_upon_reg3herhim|{s18}은(는) 수치스러운 자요. {reg3?그녀:그}은(는) 상인들과 어울려 대며 돈을 빌려주고 이자를 받는가 하면, 저급한 언어를 사용하기까지 하고 있소, 그리고 {reg3?그녀:그}에게 수여된 명예로운 직위에 맞는 예절을 지킬 생각이 전혀 없는 것 같소.
-str_s18_has_condemned_me_for_engaging_in_commerce_what_could_possibly_be_wrong_with_that|{s18}은(는) 내가 상거래에 관여한 것에 대해 나에게 비난을 마구 퍼붓더군. 대체 그게 무슨 잘못이라도 되는 건가?
-str_s18_i_have_heard_has_been_encouraging_seditious_ideas_among_the_peasantry__a_foolish_move_which_endangers_us_all|{s18}, 내가 들은 이야기인데, 그 자는 농노들이 위험한 생각을 품도록 선동해왔다고 들었소. -- 그건 우리 모두를 위험에 빠지게 할 멍청한 생각이오.
-str_s18_has_called_me_out_for_the_way_i_deal_with_my_tenants_well_so_be_it_if_i_teach_them_that_they_are_the_equal_of_anyone_with_socalled_gentle_blood_what_is_it_to_reg3herhim|{s18}은(는) 나에게 농노들을 좀 더 인간적으로 대우하라고 이야기하더군. 음, 좋소, 내가 내 농노들에게 사실 그들이 자칭 '점잖은' 혈통이라는 자들과 평등한 거라고 가르치고 있다 칩시다, 그렇게 한다고 해서, 그게 대체 {reg3?그:그녀}와 무슨 상관이 있는 거요?
+str_s18_has_been_speaking_ill_of_me_behind_my_back_or_so_they_say|듣기로는 {s18}이(가) 내 등 뒤에서 내 욕을 하고 다닌다고 하더군.
+str_s18_is_a_disgrace_reg3shehe_consorts_with_merchants_lends_money_at_interest_uses_coarse_language_and_shows_no_attempt_to_uphold_the_dignity_of_the_honor_bestowed_upon_reg3herhim|{s18}은(는) 수치 그 자체요. {reg3?그녀:그}은(는) 상인들과 어울려 고리대금업을 하는가 하면, 저속한 언어를 쓰며 자신에게 부여된 명예로운 지위의 위엄을 지키려는 노력조차 하지 않소.
+str_s18_has_condemned_me_for_engaging_in_commerce_what_could_possibly_be_wrong_with_that|{s18}은(는) 내가 상업에 관여한다는 이유로 나를 비난했소. 대체 그게 무슨 문제가 된다는 말이오?
+str_s18_i_have_heard_has_been_encouraging_seditious_ideas_among_the_peasantry__a_foolish_move_which_endangers_us_all|내가 듣기로 {s18}은(는) 평민들이 위험한 생각을 품도록 선동해왔다고 들었소. 그건 우리 모두를 위험에 빠지게 할 멍청한 생각이오.
+str_s18_has_called_me_out_for_the_way_i_deal_with_my_tenants_well_so_be_it_if_i_teach_them_that_they_are_the_equal_of_anyone_with_socalled_gentle_blood_what_is_it_to_reg3herhim|{s18}은(는) 내가 소작농들을 대하는 방식을 문제 삼았소. 그래, 내가 그들에게 소위 '귀한 신분'과 평민이 평등하다고 가르친다 한들, 그게 {reg3?그:그녀}와 무슨 상관이란 말이오?
 str_a_most_gallant_gentleman_who_knows_how_to_treat_a_lady|어떻게 숙녀를 대하는지 아는 사람이 가장 정중한 신사죠.
 str_a_base_cad|비열하고 무례한 자
-str_a_man_who_treats_me_as_his_equal_which_is_rare|나와 그를 동등하게 대해주는 남자는 드문 경우입니다.
-str_appears_to_value_me_with_his_estate_and_his_horse_as_prizes_worth_having|나의 가치는 그의 재산과 말의 가치에 따라 나타납니다.
-str_a_bit_dull_but_what_can_you_expect|이빨이 조금 무디군, 하지만 당신이 무엇을 기대할 수 있을지...
-str_the_man_whom_destiny_intends_for_me|그 사람은 나를 위해 운명을 바칠 사람입니다.
-str_is_not_right_for_me__i_cannot_say_why_but_he_makes_my_skin_crawl|은(는) 나와 맞지 않는 사람이에요. - 저는 정확한 이유는 알지 못하겠어요, 하지만 그는 나를 소름끼치게 만들어요.
-str_is_a_man_who_clearly_intends_to_make_his_mark_in_the_world|은(는) 확실히 세상에 자신의 행적을 남길 것 같은 사람이에요.
-str_is_a_layabout_a_naif_prey_for_others_who_are_cleverer_than_he|은(는) 문외한이고, 자신보다 똑똑한 사람을 위해 기도하는 세상 물정을 모르는 사람이에요.
-str_is_a_man_of_stalwart_character|은(는) 충실한 성격을 가진 사람으로 보인다.
-str_appears_to_be_a_man_of_low_morals|낮은 도덕 관념을 가진 사람으로 보인다.
-str_appears_to_be_a_man_who_lacks_selfdiscipline|자기 수양이 부족한 사람으로 보인다.
-str_bandits_attacked_a_party_on_the_roads_so_a_bounty_is_probably_available|산적이 이동 중인 한 부대를 공격했소. 그래서 아마 현상금이 붙었을 것이오.
+str_a_man_who_treats_me_as_his_equal_which_is_rare|나를 동등하게 대우해주는 흔치 않은 남자입니다.
+str_appears_to_value_me_with_his_estate_and_his_horse_as_prizes_worth_having|그는 나를 자신의 영지나 말처럼 소유하고 싶은 전리품 정도로 여기는 것 같아요.
+str_a_bit_dull_but_what_can_you_expect|조금 지루하긴 하지만, 달리 무엇을 기대하겠어요...
+str_the_man_whom_destiny_intends_for_me|운명이 나를 위해 점지해준 사람입니다.
+str_is_not_right_for_me__i_cannot_say_why_but_he_makes_my_skin_crawl|은(는) 나와 맞지 않는 사람이에요. 이유는 모르겠지만 그를 보면 소름이 돋거든요.
+str_is_a_man_who_clearly_intends_to_make_his_mark_in_the_world|은(는) 확실히 세상에 이름을 남기겠다는 야망이 있는 사람이에요.
+str_is_a_layabout_a_naif_prey_for_others_who_are_cleverer_than_he|은(는)  게으르고 세상 물정에 어두워, 자기보다 영악한 자들의 먹잇감이 될 뿐이에요.
+str_is_a_man_of_stalwart_character|은(는) 강인하고 충직한 성품을 지닌 사람으로 보입니다.
+str_appears_to_be_a_man_of_low_morals|도덕 관념이 낮은 사람처럼 보입니다.
+str_appears_to_be_a_man_who_lacks_selfdiscipline|자기 절제력이 부족한 사람으로 보입니다.
+str_bandits_attacked_a_party_on_the_roads_so_a_bounty_is_probably_available|산적들이 길 위에서 일행을 습격했소. 현상금을 받을 기회가 있을 것 같구려.
 str_s11_relocates_to_s10|{s11}에서 {s10}(으)로 이주한다.
-str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm| 나는 왕국의 일을 걱정하기 전에 먼저 이 문제에 관심을 가져야만 하오.
-str_the_other_matter_took_precedence|다른 문제가 우선이오.
-str_i_cannot_leave_this_fortress_now_as_it_is_under_siege|이 요새가 포위되어 있어 지금 나는 이 요새를 떠날 수 없소.
-str_after_all_we_are_under_siege|결국, 우리는 포위되었소.
+str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm|왕국의 일을 돌보기 전에 이 문제를 먼저 처리해야겠소.
+str_the_other_matter_took_precedence|다른 문제가 우선이었소.
+str_i_cannot_leave_this_fortress_now_as_it_is_under_siege|지금은 포위된 상태라 이 요새를 떠날 수 없소.
+str_after_all_we_are_under_siege|어쨌든, 우리는 포위당했소.
 str_we_are_not_strong_enough_to_face_the_enemy_out_in_the_open|우리는 야전에서 적을 상대할 만큼 충분히 강하지 않소.
 str_i_should_probably_seek_shelter_behind_some_stout_walls|내가 튼튼한 벽을 가진 은신처를 찾아보겠소.
-str_enemies_are_reported_to_be_nearby_and_we_should_stand_ready_to_either_man_the_walls_or_sortie_out_to_do_battle|적들이 근처에 있다고 보고받았소. 그리고 우리는 출격하여 전투를 할 준비가 되었소.
+str_enemies_are_reported_to_be_nearby_and_we_should_stand_ready_to_either_man_the_walls_or_sortie_out_to_do_battle|적이 근처에 있다는 보고가 들어왔소. 성벽을 지키든 성 밖으로 출격하든 전투 준비를 마쳐야 하오.
 str_the_enemy_is_nearby|적들이 근처에 있소.
-str_as_the_marshal_i_am_assembling_the_army_of_the_realm|총사령관으로서, 나는 왕국의 군대를 이끌고 있소.
-str_as_the_marshal_i_am_assembling_the_army_of_the_realm_and_travel_to_lands_near_s10_to_inform_more_vassals|총사령관으로서, 나는 왕국의 군대를 이끌고 있소. 나는 지금 봉신들과 함께 {s10}으로 가고 있는 중이오.
+str_as_the_marshal_i_am_assembling_the_army_of_the_realm|총사령관으로서 왕국군을 집결시키고 있소.
+str_as_the_marshal_i_am_assembling_the_army_of_the_realm_and_travel_to_lands_near_s10_to_inform_more_vassals|총사령관으로서 군대를 집결시키는 중이며, 더 많은 봉신에게 알리기 위해 {s10} 인근 지역으로 가고 있소.
 str_i_intend_to_assemble_the_army_of_the_realm|나는 왕국의 군대를 소집할 생각이오.
-str_as_the_marshal_i_am_leading_the_siege|총사령관으로서, 나는 공성을 지휘하고 있소.
-str_i_intend_to_begin_the_siege|나는 공성을 시작할 생각이오.
-str_as_the_marshal_i_am_leading_our_raid|총사령관으로서, 나는 습격을 지휘하고 있소
-str_i_intend_to_start_our_raid|나는 습격을 시작할 생각이오.
-str_as_the_marshal_i_am_leading_our_forces_in_search_of_the_enemy|총사령관으로서, 나는 정찰을 지휘할 생각이오.
-str_i_intend_to_lead_our_forces_out_to_find_the_enemy|나는 정찰을 시작할 생각이오.
-str_as_the_marshal_i_am_leading_our_forces_to_engage_the_enemy_in_battle|총사령관으로서, 나는 적과의 교전에서 지휘를 하고 있소.
-str_i_intend_to_lead_our_forces_out_to_engage_the_enemy|나는 적과 교전하는 것을 지휘할 생각이오.
-str_i_dont_have_enough_troops_and_i_need_to_get_some_more|나는 충분한 군대를 가지고 있지 않소, 그래서 좀 더 병력을 모을 필요가 있소.
-str_i_am_running_low_on_troops|나는 적은 군대를 운영하고 있소.
-str_we_are_following_your_direction|우리는 당신의 명령의 따르오.
-str_i_need_to_make_preparations_for_your_wedding|나는 당신의 결혼식 준비를 해야 하오.
+str_as_the_marshal_i_am_leading_the_siege|총사령관으로서 공성전을 지휘하는 중이오.
+str_i_intend_to_begin_the_siege|공성전을 시작할 계획이오.
+str_as_the_marshal_i_am_leading_our_raid|총사령관으로서 습격 작전을 지휘하고 있소.
+str_i_intend_to_start_our_raid|습격을 시작할 계획이오.
+str_as_the_marshal_i_am_leading_our_forces_in_search_of_the_enemy|총사령관으로서 적을 찾아 우리 부대를 이끌고 있소.
+str_i_intend_to_lead_our_forces_out_to_find_the_enemy|적을 찾기 위해 군대를 이끌고 나갈 생각이오.
+str_as_the_marshal_i_am_leading_our_forces_to_engage_the_enemy_in_battle|총사령관으로서 적과 교전하기 위해 우리 군을 이끌고 있소.
+str_i_intend_to_lead_our_forces_out_to_engage_the_enemy|적과 교전하기 위해 부대를 이끌고 나갈 계획이오.
+str_i_dont_have_enough_troops_and_i_need_to_get_some_more|병력이 충분하지 않아 보충이 필요하오.
+str_i_am_running_low_on_troops|병력이 부족해지고 있소.
+str_we_are_following_your_direction|당신의 지시에 따르고 있소.
+str_i_need_to_make_preparations_for_your_wedding|당신의 결혼식 준비를 해야 하오.
 str_after_all_i_need_to_make_preparations_for_your_wedding|어찌 되었든, 나는 당신의 결혼식 준비를 해야 하오.
-str_i_am_heading_to_the_site_of_our_wedding|나는 우리의 결혼식 장소로 가고 있소.
-str_after_all_we_are_soon_to_be_wed|결국, 우리는 곧 결혼하게 됐소!
-str_i_am_hosting_a_feast_there|내가 그 연회의 주인이오.
-str_i_have_a_feast_to_host|내가 연회를 베풀겠소.
-str_i_am_to_be_the_bridegroom_there|내가 신랑이오.
-str_my_wedding_day_draws_near|나의 결혼식 날짜가 다가오고 있소.
-str_i_have_too_much_loot_and_too_many_prisoners_and_need_to_secure_them|내가 가진 많은 약탈물과 포로들을 확실하게 보관해야 하오.
-str_i_should_think_of_dropping_off_some_of_my_prisoners|나는 내 포로중 일부를 줄여야 한다고 생각하오.
-str_i_need_to_reinforce_it_as_it_is_poorly_garrisoned|나는 부실한 수비를 다시 강화할 필요가 있다고 느끼오.
-str_there_is_a_hole_in_our_defenses|우리의 방어 시설에 허점이 있소.
-str_i_am_following_the_marshals_orders|나는 총사령관의 명령을 따르고 있소.
-str_the_marshal_has_given_me_this_command|총사령관에게 나는 명령을 받았소.
-str_i_am_answering_the_marshals_summons|나는 총사령관의 호출에 응하는 중이오.
-str_our_realm_needs_my_support_there_is_enemy_raiding_one_of_our_villages_which_is_not_to_far_from_here_i_am_going_there|우리의 왕국은 내 지원을 필요로 하오. 여기서 멀지 않은 곳에 우리의 마을 중 하나가 적들에게 습격받고 있소. 나는 그 곳으로 가고 있소.
-str_the_marshal_has_issued_a_summons|총사령관이 봉신들의 소집을 요청했소.
+str_i_am_heading_to_the_site_of_our_wedding|우리 결혼식장으로 향하는 중이오.
+str_after_all_we_are_soon_to_be_wed|어찌 됐든, 우리는 곧 결혼할 사이 아니오!
+str_i_am_hosting_a_feast_there|그곳에서 연회를 주최하고 있소.
+str_i_have_a_feast_to_host|열어야 할 연회가 있소.
+str_i_am_to_be_the_bridegroom_there|내가 그곳의 신랑이 될 사람이오.
+str_my_wedding_day_draws_near|내 결혼식 날짜가 다가오고 있오.
+str_i_have_too_much_loot_and_too_many_prisoners_and_need_to_secure_them|전리품과 포로가 너무 많아 안전하게 보관해야 하오.
+str_i_should_think_of_dropping_off_some_of_my_prisoners|포로를 일부 처분하는 게 좋겠소.
+str_i_need_to_reinforce_it_as_it_is_poorly_garrisoned|수비대가 너무 취약해서 보충이 필요하오.
+str_there_is_a_hole_in_our_defenses|우리 방어망에 허점이 있소.
+str_i_am_following_the_marshals_orders|총사령관의 명령을 따르고 있소.
+str_the_marshal_has_given_me_this_command|총사령관이 내게 이 명령을 내렸소.
+str_i_am_answering_the_marshals_summons|총사령관의 소집에 응하고 있소.
+str_our_realm_needs_my_support_there_is_enemy_raiding_one_of_our_villages_which_is_not_to_far_from_here_i_am_going_there|왕국이 내 도움을 필요로 하오. 여기서 멀지 않은 우리 마을 중 하나가 습격당하고 있어 그곳으로 가는 중이오.
+str_the_marshal_has_issued_a_summons|총사령관이 소집령을 내렸소.
 str_comradeinarms|전우
-str_i_am_supporting_my_s11_s10|나는 나의 {s11} {s10}을(를) 지원하고 있소.
-str_i_believe_that_one_of_my_comrades_is_in_need|나는 내 전우중 한 명이 도움을 필요로 한다고 믿고 있소.
-str_a_fortress_is_vulnerable|이 요새의 방어는 취약하오.
-str_i_believe_that_the_enemy_may_be_vulnerable|나는 아마도 적들이 약한 상태일 거라 믿고 있소.
-str_i_need_to_inspect_my_properties_and_collect_my_dues|나는 내 재산을 점검하고 영지의 세금을 걷을 필요가 있소.
-str_it_has_been_too_long_since_i_have_inspected_my_estates|나는 내 영지들을 순찰한 지 너무 오래 되었소.
-str_my_men_are_weary_so_we_are_returning_home|내 부하들은 지쳤소, 그래서 우리는 영지로 돌아가고 있소.
-str_my_men_are_becoming_weary|내 부하들은 지친 상태에 있소.
-str_i_have_a_score_to_settle_with_the_lord_there|나는 그 곳 영주와 청산해야 될 앙금들이 남아 있소.
-str_i_am_thinking_of_settling_an_old_score|나는 그 곳 영주와의 오랜 앙금을 청산할 생각이오.
-str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|나는 재정이 풍부하지 않소, 그리고 나는 그 곳이 매우 부유하다고 들었소.
-str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|나는 가급적이면 적들의 돈으로 내 지갑을 다시 채울 필요가 있소.
-str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|적들의 가장 부유한 땅을 공격함으로서, 아마도 그들을 전장으로 끌어낼 수 있을 것이오!
-str_i_am_thinking_of_going_on_the_attack|나는 공격하러 갈 생각이오.
-str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|아마도, 내가 한번 더 강하게 공격한다면, 우리는 원하는 것을 얻어낸 채로 전쟁을 끝낼 수 있을 것이오.
-str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|우리는 아마 몇 번의 강한 공격으로 전쟁을 종결할 수 있을 것이오.
-str_i_wish_to_attend_the_feast_there|나는 그 곳의 연회에 참석하고 싶소.
-str_there_is_a_feast_which_i_wish_to_attend|그 곳의 연회는 나도 참석하고 싶소.
-str_there_is_a_fair_lady_there_whom_i_wish_to_court|그 연회에는 내가 구애하고 싶은 어여쁜 레이디가 있소.
-str_i_have_the_inclination_to_pay_court_to_a_fair_lady|나는 여어쁜 레이디에게 구애할 의향이 있소.
-str_we_have_heard_reports_that_the_enemy_is_in_the_area|우리는 적군이 이 지역에 있다는 보고를 들었소.
-str_i_have_heard_reports_of_enemy_incursions_into_our_territory|나는 적들이 우리의 영역으로 침투한다는 보고를 들었소.
-str_i_need_to_spend_some_time_with_my_household|나는 우리 가족들과 함께 보낼 얼마간의 시간을 필요로 하오.
-str_it_has_been_a_long_time_since_i_have_been_able_to_spend_time_with_my_household|나는 마지막으로 내 가족들과 같이 시간을 보낼 수 있었던 때로부터 오랜 시간이 흘렀소.
-str_i_am_watching_the_borders|나는 국경을 순찰하고 있소.
-str_i_may_be_needed_to_watch_the_borders|나는 아마 국경을 순찰할 필요가 있소.
-str_i_will_guard_the_areas_near_my_home|나는 나의 영지 근처를 순찰할 것이요.
-str_i_am_perhaps_needed_most_at_home|영지에서 아마도 나를 필요로 하고 있소.
-str_i_cant_think_of_anything_better_to_do|나는 더 이상 아무 것도 할 생각이 없소.
-str_i_am_completing_what_i_have_already_begun|나는 내가 이미 시작한 것을 끝냈소.
+str_i_am_supporting_my_s11_s10|나의 {s11} {s10}을(를) 지원하는 중이오.
+str_i_believe_that_one_of_my_comrades_is_in_need|내 전우 중 한 명이 도움이 필요한 것 같소.
+str_a_fortress_is_vulnerable|요새가 취약한 상태요.
+str_i_believe_that_the_enemy_may_be_vulnerable|적의 방비가 허술해진 것 같소.
+str_i_need_to_inspect_my_properties_and_collect_my_dues|내 재산을 점검하고 세금을 징수해야 하오.
+str_it_has_been_too_long_since_i_have_inspected_my_estates|내 영지들을 둘러본 지 너무 오래되었구려.
+str_my_men_are_weary_so_we_are_returning_home|부하들이 지쳤으니 집으로 돌아가겠소.
+str_my_men_are_becoming_weary|부하들이 지쳐가고 있소.
+str_i_have_a_score_to_settle_with_the_lord_there|그곳 영주와 결판을 내야 할 일이 있소.
+str_i_am_thinking_of_settling_an_old_score|오래된 원한을 청산할까 생각 중이오.
+str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|돈이 부족한데, 그곳이 아주 부유하다는 소문을 들었소.
+str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|적의 돈으로 내 지갑을 채우고 싶구려.
+str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|적의 가장 부유한 영지를 타격하면 그들을 전투로 끌어낼 수 있을 거요.
+str_i_am_thinking_of_going_on_the_attack|공격에 나설까 생각 중이오.
+str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|우리가 한 번만 더 결정적인 타격을 입힌다면, 우리에게 유리한 조건으로 전쟁을 끝낼 수 있을 거요.
+str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|몇 차례 더 타격을 가하면 이 전쟁을 끝낼 수 있을 것 같소.
+str_i_wish_to_attend_the_feast_there|그곳의 연회에 참석하고 싶소.
+str_there_is_a_feast_which_i_wish_to_attend|참석하고 싶은 연회가 열리고 있소.
+str_there_is_a_fair_lady_there_whom_i_wish_to_court|그곳에 내가 구애하고 싶은 아름다운 여인이 있소.
+str_i_have_the_inclination_to_pay_court_to_a_fair_lady|아름다운 여인에게 구애하고 싶은 마음이 생겼소.
+str_we_have_heard_reports_that_the_enemy_is_in_the_area|적군이 이 근방에 있다는 보고를 받았소.
+str_i_have_heard_reports_of_enemy_incursions_into_our_territory|적이 우리 영토를 침범했다는 보고를 들었소.
+str_i_need_to_spend_some_time_with_my_household|가족과 시간을 좀 보내야겠소.
+str_it_has_been_a_long_time_since_i_have_been_able_to_spend_time_with_my_household|가족과 시간을 보낸 지 정말 오래되었구려.
+str_i_am_watching_the_borders|국경을 감시하고 있소.
+str_i_may_be_needed_to_watch_the_borders|내가 국경을 감시해야 할 것 같소.
+str_i_will_guard_the_areas_near_my_home|내 영지 근처 지역을 지키겠소.
+str_i_am_perhaps_needed_most_at_home|아마 영지에서 내가 가장 필요할 것이오.
+str_i_cant_think_of_anything_better_to_do|딱히 더 나은 할 일이 생각나지 않는구려.
+str_i_am_completing_what_i_have_already_begun|이미 시작한 일을 마무리하는 중이오.
 str_i_dont_even_have_a_home_to_which_to_return|나는 돌아갈 영지조차 없소.
-str__i_am_acting_independently_because_no_marshal_is_appointed| 나는 독립적으로 행동하고 있소, 왜냐하면 아직 총사령관이 정해지지 않았기 때문이오.
-str__i_am_acting_independently_because_our_marshal_is_currently_indisposed| 나는 독립적으로 행동하고 있소, 왜냐하면 우리의 총사령관은 현재 부상 당했기 때문이오.
+str__i_am_acting_independently_because_no_marshal_is_appointed| 총사령관이 임명되지 않아 독자적으로 행동하고 있소.
+str__i_am_acting_independently_because_our_marshal_is_currently_indisposed| 우리 총사령관이 현재 작전 수행이 불가능하여 독자적으로 행동 중이오.
 str__i_am_acting_independently_because_our_realm_is_currently_not_on_campaign| 나는 독립적으로 행동하고 있소, 왜냐하면 우리 왕국은 현재 아무런 군사 작전도 하고 있지 않기 때문이오.
 str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_disaster| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 그가 우리를 재앙으로 이끌고 있다고 걱정하고 있기 때문이오.
-str_i_am_not_accompanying_the_marshal_because_i_question_his_judgment| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 솔직히, 그의 판단력이 의심스럽소.
+str_i_am_not_accompanying_the_marshal_because_i_question_his_judgment| 나는 총사령관과 같이 하지 않소, 솔직히 나는 그의 판단력이 의심스럽소.
 str_i_am_not_accompanying_the_marshal_because_i_can_do_greater_deeds| 나는 총사령관과 같이 하지 않소, 왜냐하면 나는 더 중요한 일을 해야 하기 때문이오.
-str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend| {s16}은(는) 군사 작전을 너무 오랫동안 하고 있소, 그리고 내가 관심을 가져야 하는 다른 중요한 문제들이 있소.
-str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army| 나는 총사령관의 군사 작전에 참여하지 않고 있소, 왜냐하면 총사령관과 우리 병력이 어디에 있는지 모르기 때문이오.
-str__i_am_acting_independently_although_some_enemies_have_been_spotted_within_our_borders_they_havent_come_in_force_and_the_local_troops_should_be_able_to_dispatch_them| 나는 독립적으로 행동하고 있소. 물론 우리의 국경지대에서 몇몇의 적들이 출몰했지만, 그들은 공격해 오지 않았고, 또한 지역의 수비병들이 그들을 처리할 수 있을 것이오.
+str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend| {s16}이 군사 작전을 너무 오래 끌고 있소. 내가 처리해야 할 다른 시급한 일들이 많구려.
+str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army| 우리 주력군이 어디에 있는지 알 길이 없어 총사령관의 작전에 참여하지 못하고 있소.
+str__i_am_acting_independently_although_some_enemies_have_been_spotted_within_our_borders_they_havent_come_in_force_and_the_local_troops_should_be_able_to_dispatch_them| 독자적으로 행동하는 중이오. 국경에 적이 나타나긴 했으나 대규모는 아니며, 지역 수비대만으로도 충분히 처리할 수 있을 것이오. 
 str__the_needs_of_the_realm_must_come_first| 왕국의 부름이 최우선이오.
-str_we_are_likely_to_be_overwhelmed_by_the_s9_let_each_defend_their_own|우리는 {s9}에 의해 압도 당하고 있소. 각각 스스로 방어하시오.
-str_we_should_see_this_siege_through|우리는 이 포위를 통과할 수 있을 것 같소.
+str_we_are_likely_to_be_overwhelmed_by_the_s9_let_each_defend_their_own|{s9}에게 압도당할 것 같구려. 각자 알아서 방어하도록 하시오.
+str_we_should_see_this_siege_through|이 포위전을 끝까지 지켜봐야 하오.
 str_we_should_prepare_to_defend_s21_but_we_should_gather_our_forces_until_we_are_strong_enough_to_engage_them|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 그 전에, 우리는 그들과 교전할 만큼 충분히 많은 병력을 모아야 하오.
-str_we_should_prepare_to_defend_s21_but_first_we_have_to_gather|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 우리는 그 전에 먼저 충분한 병력을 모을 필요가 있소.
-str_we_should_ride_to_break_the_siege_of_s21|우리는 {s21}의 포위를 무너뜨릴 것이오.
-str_we_should_ride_to_defeat_the_enemy_gathered_near_s21|우리는 {s21}의 근처에 모여 적을 물리칠 것이오.
-str_we_have_located_s21s_army_and_we_should_engage_it|우리는 {s21}의 군대를 찾았소, 이제 그들과 교전해야 하오.
+str_we_should_prepare_to_defend_s21_but_first_we_have_to_gather|우리는 {s21}의 방어 준비를 해야만 하오. 그러나 우리는 그 전에 군대를 집결시켜야 하오.
+str_we_should_ride_to_break_the_siege_of_s21|{s21}의 포위를 풀기 위해 진격해야 하오.
+str_we_should_ride_to_defeat_the_enemy_gathered_near_s21|{s21} 근처에 집결한 적들을 격퇴하러 가야 하오.
+str_we_have_located_s21s_army_and_we_should_engage_it|{s21}의 군대 위치를 파악했으니 이제 교전해야 하오.
 str_this_offensive_needs_to_wind_down_soon_so_the_vassals_can_attend_to_their_own_business|이 공격은 곧 끝낼 필요가 있소, 그래야 봉신들이 그들의 급한 업무를 수행할 수 있소.
 str_the_vassals_are_tired_we_let_them_rest_for_some_time|봉신들은 군사 작전으로 지쳐 있소. 우리는 잠시 동안 그들이 쉴 수 있게 내버려 두어야만 하오.
 str_the_vassals_still_need_time_to_attend_to_their_own_business|봉신들은 아직 그들의 업무를 수행할 시간을 필요로 하오.
 str_it_is_time_to_go_on_the_offensive_and_we_must_first_assemble_the_army|공격할 시간이오, 그리고 우리는 선봉대를 모아야만 하오.
-str_we_must_continue_to_gather_the_army_before_we_ride_forth_on_an_offensive_operation|우리는 단지 몇 안되는 봉신이 모여있소, 그러나 우리는 공세를 펴기 전에 계속해서 병력을 모아야만 하오.
-str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_important_towns|국경을 공격할 필요는 없소, 우리는 그들의 중요한 도시들 중 하나를 점령할 수 있을 것이오.
-str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|우리는 적들의 요새를 점령함으로써 {s21}에 대한 우리의 성과를 더할 수 있을 것이오.
-str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|우리가 할 수 있다면, 부유한 영지들을 목표로 적들의 중심부를 지나 그 곳까지 습격하면서 지나가야만 하오.
-str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|병력들은 해산될 것이오, 왜냐하면 우리는 목표없이 너무나 오랫동안 기다렸기 때문이오.
-str_it_is_time_for_the_feast_to_conclude|연회를 끝낼 시간이오.
-str_we_should_continue_the_feast_unless_there_is_an_emergency|우리는 비상 사태가 오지 않는 한 연회를 계속 할 생각이오.
-str_you_had_wished_to_hold_a_feast|당신은 연회를 열고 싶어 하셨지 않소?
+str_we_must_continue_to_gather_the_army_before_we_ride_forth_on_an_offensive_operation|아직 소수의 봉신들만 집결했소. 그러나 공격 작전에 나서기 전까지 군대를 계속 집결시켜야 하오.
+str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_important_towns|국경 주변만 맴돌 필요는 없소. 적의 주요 도시 중 하나를 점령할 수도 있을 것이오.
+str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|적의 요새 중 하나를 탈취하여 {s21}에서 거둔 승리를 이용해야 하오.
+str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|가능하다면 부유한 정착지들을 목표로 적의 심장부에 불길을 남기며 진격할 것이오.
+str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|병력들은 해산될 것이오, 왜냐하면 우리는 목표없이 너무나 오랫동안 대기했기 때문이오.
+str_it_is_time_for_the_feast_to_conclude|이제 연회를 마칠 시간이오.
+str_we_should_continue_the_feast_unless_there_is_an_emergency|비상 사태가 오지 않는 한 연회를 계속 할 생각이오.
+str_you_had_wished_to_hold_a_feast|그대가 연회를 열고 싶어 하지 않았소?
 str_your_wedding_day_approaches_my_lady|당신의 결혼식 날이 다가오는군요, 레이디.
 str_your_wedding_day_approaches|당신의 결혼식 날이 다가오고 있소.
 str_s22_and_s23_wish_to_marry|{s22}와(과) {s23}은(는) 결혼을 원하고 있소.
 str_it_has_been_a_long_time_since_the_lords_of_the_realm_gathered_for_a_feast|연회를 위해 왕국의 영주들이 모인지도 오래 되었소.
-str_the_circumstances_which_led_to_this_decision_no_longer_apply_so_we_should_stop_and_reconsider_shortly|이제 이 결정은 현재 상황에는 맞지 않소, 그래서 우리는 행동을 멈추고 다시 생각해보고 있소.
+str_the_circumstances_which_led_to_this_decision_no_longer_apply_so_we_should_stop_and_reconsider_shortly|이 결정을 내리게 했던 상황이 더 이상 유효하지 않으니, 잠시 멈추고 재고해야 하오.
 str_s15_is_at_war_with_s16_|{s15}은(는) {s16}와(과) 전쟁 중이오.
-str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) {s16}와(과) 휴전 상태에 있소. 일반적인 정책의 문제로서,
-str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|단기적으로, {s15}은(는) 최근 {s16}(으)로 인해 도발당했고, 전쟁을 선포하는 원인이 되었소. 일반적인 정책의 문제로서,
-str_s12s15_cannot_negotiate_with_s16_as_to_do_so_would_undermine_reg4herhis_own_claim_to_the_throne_this_civil_war_must_almost_certainly_end_with_the_defeat_of_one_side_or_another|{s12}{s15}은(는) {reg4?그녀의:그의} 정통성을 약화시키지 않기 위해 {s16}와 협상하지 않을 것이오. 이번 내전은 어느 한쪽이 패배하여야 끝날 것이오.
-str_s12s15_considers_s16_to_be_dangerous_and_untrustworthy_and_shehe_wants_to_bring_s16_down|{s12}{s15}은(는) {s16}이(가) 신뢰할 수 없고 위험한 자라고 생각하고 있고, 그리고 {reg4?그녀:그}은(는) {s16}이(가) 멸망하기를 원하고 있소.
-str_s12s15_is_anxious_to_reclaim_old_lands_such_as_s18_now_held_by_s16|{s12}{s15}은(는) 지금 {s16}에게 빼앗긴 {s18}와(과) 같은 옛 영지를 되찾기를 원하고 있소.
-str_s12s15_feels_that_reg4shehe_is_winning_the_war_against_s16_and_sees_no_reason_not_to_continue|{s12}{s15}은(는) {s16}와(과)의 전쟁에서 {reg4?그녀:그}가 승리했다고 느끼고 있고, 전쟁을 계속할 이유가 없다고 생각하고 있소.
-str_s12s15_faces_too_much_internal_discontent_to_feel_comfortable_ignoring_recent_provocations_by_s16s_subjects|{s12}{s15}은(는) 최근 {s16}의 영주들에 의한 도발을 무시했고, 그로 인해 많은 내부 불만에 직면해 있소.
-str_s12even_though_reg4shehe_is_fighting_on_two_fronts_s15_is_inclined_to_continue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12} 비록 {reg4?그녀:그}는 양면 전선에서 싸우는 한이 있더라도, {s15}의 체면을 지키기 위해 {s16}와(과)의 전쟁을 잠시 동안이라도 더 지속할 것으로 생각되오.
-str_s12s15_feels_that_reg4shehe_must_pursue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}{s15}는 {reg4?그녀:그}의 명예를 지키기 위해 잠시 동안이라도 더 {s16}에 대한 전쟁을 계속 수행할 것으로 생각되고 있소.
-str_s12s15_is_currently_on_the_offensive_against_s17_now_held_by_s16_and_reluctant_to_negotiate|{s12}{s15}은(는) 현재 {s17}에 대항해 공격하고 있고, 지금 {s16}에 의해 주도되는 그 어떤 협상이라도 받지 않을 것이라고 하고 있소.
+str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|단기적으로 {s15}은(는) {s16}와(과) 휴전 상태에 있소. 일반적인 정책상, 
+str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|단기적으로 {s15}은(는) 최근 {s16}에게 도발을 당해 전쟁을 선포해야 한다는 압박을 받고 있소. 일반적인 정책상, 
+str_s12s15_cannot_negotiate_with_s16_as_to_do_so_would_undermine_reg4herhis_own_claim_to_the_throne_this_civil_war_must_almost_certainly_end_with_the_defeat_of_one_side_or_another|{s12}{s15}은(는) {reg4?그녀의:그의} 정통성을 약화시키지 않기 위해 {s16}와 협상하지 않을 것이오. 이번 내전은 어느 한쪽이 패배해야만 끝날 것이오.
+str_s12s15_considers_s16_to_be_dangerous_and_untrustworthy_and_shehe_wants_to_bring_s16_down|{s12}{s15}은(는) {s16}이(가) 신뢰할 수 없고 위험한 자라고 생각하고 있고, {reg4?그녀:그}은(는) {s16}이(가) 멸망하기를 원하고 있소.
+str_s12s15_is_anxious_to_reclaim_old_lands_such_as_s18_now_held_by_s16|{s12}{s15}은(는) 지금 {s16}에게 빼앗긴 {s18}와(과) 같은 옛 영토를 되찾고 싶어 하오.
+str_s12s15_feels_that_reg4shehe_is_winning_the_war_against_s16_and_sees_no_reason_not_to_continue|{s12}{s15}은(는) {s16}와(과)의 전쟁에서 {reg4?그녀:그}가 승기를 잡았다고 느끼며, 전쟁을 중단할 이유가 없다고 생각하고 있소.
+str_s12s15_faces_too_much_internal_discontent_to_feel_comfortable_ignoring_recent_provocations_by_s16s_subjects|{s12}{s15}은(는) 내부 불만이 너무 커서 {s16} 측의 최근 도발을 그냥 넘기기 어려운 상황이오.
+str_s12even_though_reg4shehe_is_fighting_on_two_fronts_s15_is_inclined_to_continue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12} 비록 {reg4?그녀:그}는 양면 전쟁 중임에도 불구하고, {s15}의 체면을 지키기 위해 {s16}와(과)의 전쟁을 조금 더 지속할 것으로 생각되오.
+str_s12s15_feels_that_reg4shehe_must_pursue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}{s15}는 {reg4?그녀:그}의 명예를 지키기 위해 {s16}과(와)의 전쟁을 조금 더 수행해야 한다고 느끼고 있소.
+str_s12s15_is_currently_on_the_offensive_against_s17_now_held_by_s16_and_reluctant_to_negotiate|{s12}{s15}은(는) 현재 {s16}이 점유 중인 {s17}을 공격하고 있으며, 협상에는 소극적이오.
 str_s12s15_is_alarmed_by_the_growing_power_of_s16|{s12}{s15}은(는) {s16}의 세력이 지나치게 커지는 것을 경계하고 있소.
 str_s12s15_distrusts_s16_and_fears_that_any_deals_struck_between_the_two_realms_will_not_be_kept|{s12}{s15}은(는) {s16}을(를) 믿지 않고 있으며, 두 왕국간의 어떠한 협상들도 유지되지 않을 것을 우려하고 있소.
-str_s12s15_is_at_war_on_too_many_fronts_and_eager_to_make_peace_with_s16|{s12}{s15}은(는) 전쟁이 너무 오래 지속되었고, {s16}와 평화 협정을 맺길 바라고 있소.
-str_s12s15_seems_to_think_that_s16_and_reg4shehe_have_a_common_enemy_in_the_s17|{s12}{s15}은(는) {s16}을(를) {reg4?그녀:그}와 {s17}라는 공동의 적을 가지고 있다고 생각하고 있소.
-str_s12s15_feels_frustrated_by_reg4herhis_inability_to_strike_a_decisive_blow_against_s16|{s12}{s15}은(는) {s16}와의 전쟁이 너무 오래 지속되었고, {reg4?그녀의:그의} 병력의 무능함 때문에 좌절감을 느끼고 있소.
-str_s12s15_has_suffered_enough_in_the_war_with_s16_for_too_little_gain_and_is_ready_to_pursue_a_peace|{s12}{s15}은(는) 작은 이익을 얻기 위해 {s16}와(과) 시작한 전쟁에서 충분히 고통받았기에, 평화 협상을 생각하고 있소.
-str_s12s15_would_like_to_firm_up_a_truce_with_s16_to_respond_to_the_threat_from_the_s17|{s12}{s15}은(는) {s17}(으)로부터의 전쟁 위협에 대처하기 위해 {s16}와(과)의 평화 협상을 맺고 싶어하고 있소.
-str_s12s15_wishes_to_be_at_peace_with_s16_so_as_to_pursue_the_war_against_the_s17|{s12}{s15}은(는) {s17}와(과)의 전쟁을 계속 지속하기 위해 {s16}와(과) 평화를 바라고 있소.
-str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s12}{s15}은(는) {s16}을(를) 두려워하고 있는 것 같고, 그들이 전쟁을 선포하는 것을 원하지 않고 있는 것 같소.
-str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}은(는) {s16}와(과) 전쟁을 지속할 특별한 이유가 없으며, 기회가 주어진다면 아마도 평화 협정을 체결할 것이오.
-str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}은(는) {s16}와(과)의 관계를 개선하기 위해 적극적으로 나서고 있는 것으로 알려져 있소.
+str_s12s15_is_at_war_on_too_many_fronts_and_eager_to_make_peace_with_s16|{s12}{s15}은(는) 너무 많은 전선에서 싸우고 있어 {s16}과(와) 평화 협정을 맺길 바라고 있소.
+str_s12s15_seems_to_think_that_s16_and_reg4shehe_have_a_common_enemy_in_the_s17|{s12}{s15}은(는) {s16}과(와) 자신들이 {s17}이라는 공동의 적을 가졌다고 생각하는 듯하오.
+str_s12s15_feels_frustrated_by_reg4herhis_inability_to_strike_a_decisive_blow_against_s16|{s12}{s15}은(는) {s16}에게 결정적인 타격을 입히지 못하는 자신의 무능함에 좌절하고 있소.
+str_s12s15_has_suffered_enough_in_the_war_with_s16_for_too_little_gain_and_is_ready_to_pursue_a_peace|{s12}{s15}은(는) 실익 없는 {s16}와(과)의 전쟁에서 충분히 고통받았기에 평화를 추구할 준비가 되었소.
+str_s12s15_would_like_to_firm_up_a_truce_with_s16_to_respond_to_the_threat_from_the_s17|{s12}{s15}은(는) {s17}의 전쟁 위협에 대응하기 위해 {s16}와(과)의 휴전을 확고히 하고 싶어 하오.
+str_s12s15_wishes_to_be_at_peace_with_s16_so_as_to_pursue_the_war_against_the_s17|{s12}{s15}은(는) {s17}과(과)의 전쟁에 집중하기 위해 {s16}와(과) 평화를 바라고 있소.
+str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s12}{s15}은(는) {s16}의 기세에 눌린 듯하며, 적대 행위를 피하고 싶어 하오.
+"str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}은(는) {s16}과(과) 전쟁을 계속할 특별한 이유가 없으며, 기회가 된다면 평화 협정을 체결할 것이오.
+"
+str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}은(는) {s16}와(과)의 관계를 개선할 의지가 있는 것으로 보이오.
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|뭐라고? 당신은 당신 스스로가 우리 가문의 일원이 될 정도로 가치가 있는 사람이라고 생각하고 있는 것이오?
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소. 열심히 싸우시오, 당신 스스로의 재산을 늘리시오, 그러면 아마 훗날 언젠가 우리가 다시 이야기를 할 수도 있을 것이오, 좋은 사내여!
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소.
@@ -3154,227 +3155,227 @@ str_changing_gametype_is_not_voteable|Changing gametype is not voteable.{***}
 str_weapon_break|Damageable Equipment:{***}
 str_no_suit_religion|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.{***}
 str_modifications|
-str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
-str_s21__the_s5_has_no_outstanding_issues_with_the_s14{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
-str_assigned_lord_reputation_and_relations_cheat_mode_reg3할당된 영주의 평판과 관계도, 치트 모드: {reg3}
-str_reputation_cheat_mode_only_martial_평판 (cheat mode only): 호전적^
-str_reputation_cheat_mode_only_debauched_평판 (cheat mode only): 방탕함^
-str_reputation_cheat_mode_only_pitiless_평판 (cheat mode only): 무자비함^
-str_reputation_cheat_mode_only_calculating_평판 (cheat mode only): 계산적^
-str_reputation_cheat_mode_only_quarrelsome_평판 (cheat mode only): 싸움꾼^
-str_reputation_cheat_mode_only_goodnatured_평판 (cheat mode only): 온화함^
-str_reputation_cheat_mode_only_upstanding_평판 (cheat mode only): 강직함^
-str_reputation_cheat_mode_only_conventional_평판 (cheat mode only): 관습적^
-str_reputation_cheat_mode_only_adventurous_평판 (cheat mode only): 모험적^
-str_reputation_cheat_mode_only_romantic_평판 (cheat mode only): 낭만적^
-str_reputation_cheat_mode_only_moralist_평판 (cheat mode only): 도덕적^
-str_reputation_cheat_mode_only_ambitious_평판 (cheat mode only): 야심찬^
-str_reputation_cheat_mode_only_reg11_평판 (cheat mode only): {reg11}^
-str_reputation_only_reg11_평판 (cheat mode only): {reg11}^
-str_standard_dragon1standard dragon1
-str_standard_dragon2standard dragon2
-str_standard_dragon3standard dragon3
-str_standard_dragon4standard dragon4
-str_standard_dragon5standard dragon5
-str_standard_dragon6standard dragon6
-str_standard_dragon7standard dragon7
-str_standard_dragon8standard dragon8
-str_standard_extra01standard extra01
-str_standard_extra02standard extra02
-str_standard_extra03standard extra03
-str_standard_extra04standard extra04
-str_standard_extra05standard extra05
-str_standard_extra06standard extra06
-str_standard_extra07standard extra07
-str_standard_extra08standard extra08
-str_standard_extra09standard extra09
-str_standard_extra10standard extra10
-str_standard_extra11standard extra11
-str_standard_extra12standard extra12
-str_standard_extra13standard extra13
-str_standard_extra14standard extra14
-str_standard_extra15standard extra15
-str_standard_extra16standard extra16
-str_standard_extra17standard extra17
-str_standard_extra18standard extra18
-str_standard_extra19standard extra19
-str_standard_extra20standard extra20
-str_standard_extra21standard extra21
-str_standard_extra201standard extra201
-str_standard_extra202standard extra202
-str_standard_extra203standard extra203
-str_standard_extra204standard extra204
-str_standard_extra205standard extra205
-str_standard_extra206standard extra206
-str_standard_extra208standard extra208
-str_standard_extra209standard extra209
-str_standard_extra210standard extra210
-str_standard_extra211standard extra211
-str_standard_anglosaxon01standard anglosaxon01
-str_standard_anglosaxon02standard anglosaxon02
-str_standard_anglosaxon03standard anglosaxon03
-str_standard_anglosaxon04standard anglosaxon04
-str_standard_anglosaxon05standard anglosaxon05
-str_standard_anglosaxon06standard anglosaxon06
-str_standard_anglosaxon07standard anglosaxon07
-str_standard_anglosaxon08standard anglosaxon08
-str_standard_anglosaxon09standard anglosaxon09
-str_standard_anglosaxon10standard anglosaxon10
-str_standard_anglosaxon11standard anglosaxon11
-str_standard_anglosaxon12standard anglosaxon12
-str_standard_anglosaxon13standard anglosaxon13
-str_standard_anglosaxon14standard anglosaxon14
-str_standard_anglosaxon15standard anglosaxon15
-str_standard_anglosaxon16standard anglosaxon16
-str_standard_anglosaxon17standard anglosaxon17
-str_standard_anglosaxon18standard anglosaxon18
-str_standard_anglosaxon19standard anglosaxon19
-str_standard_anglosaxon20standard anglosaxon20
-str_standard_anglosaxon21standard anglosaxon21
-str_standard_anglosaxon201standard anglosaxon201
-str_standard_anglosaxon202standard anglosaxon202
-str_standard_anglosaxon203standard anglosaxon203
-str_standard_anglosaxon204standard anglosaxon204
-str_standard_briton01standard briton01
-str_standard_briton02standard briton02
-str_standard_briton03standard briton03
-str_standard_briton04standard briton04
-str_standard_briton05standard briton05
-str_standard_briton06standard briton06
-str_standard_briton07standard briton07
-str_standard_briton08standard briton08
-str_standard_briton09standard briton09
-str_standard_briton10standard briton10
-str_standard_briton11standard briton11
-str_standard_briton12standard briton12
-str_standard_briton13standard briton13
-str_standard_briton14standard briton14
-str_standard_briton15standard briton15
-str_standard_briton16standard briton16
-str_standard_briton17standard briton17
-str_standard_briton18standard briton18
-str_standard_briton19standard briton19
-str_standard_briton20standard briton20
-str_standard_briton21standard briton21
-str_standard_briton201standard briton201
-str_standard_briton202standard briton202
-str_standard_briton203standard briton203
-str_standard_briton204standard briton204
-str_standard_briton205standard briton205
-str_standard_briton206standard briton206
-str_standard_briton207standard briton207
-str_standard_briton208standard briton208
-str_standard_briton209standard briton209
-str_standard_briton210standard briton210
-str_standard_briton211standard briton211
-str_standard_briton212standard briton212
-str_standard_briton213standard briton213
-str_standard_briton214standard briton214
-str_standard_briton215standard briton215
-str_standard_briton216standard briton216
-str_standard_briton217standard briton217
-str_standard_briton218standard briton218
-str_standard_briton219standard briton219
-str_standard_briton220standard briton220
-str_standard_briton221standard briton221
-str_standard_irish01standard irish01
-str_standard_irish02standard irish02
-str_standard_irish03standard irish03
-str_standard_irish04standard irish04
-str_standard_irish05standard irish05
-str_standard_irish06standard irish06
-str_standard_irish07standard irish07
-str_standard_irish08standard irish08
-str_standard_irish09standard irish09
-str_standard_irish10standard irish10
-str_standard_irish11standard irish11
-str_standard_irish12standard irish12
-str_standard_irish13standard irish13
-str_standard_irish14standard irish14
-str_standard_irish15standard irish15
-str_standard_irish16standard irish16
-str_standard_irish17standard irish17
-str_standard_irish18standard irish18
-str_standard_irish19standard irish19
-str_standard_irish20standard irish20
-str_standard_irish21standard irish21
-str_standard_irish201standard irish201
-str_standard_irish202standard irish202
-str_standard_irish203standard irish203
-str_standard_irish204standard irish204
-str_standard_irish205standard irish205
-str_standard_irish206standard irish206
-str_standard_irish207standard irish207
-str_standard_irish208standard irish208
-str_standard_irish209standard irish209
-str_standard_irish210standard irish210
-str_standard_irish211standard irish211
-str_standard_irish212standard irish212
-str_standard_irish213standard irish213
-str_standard_pict01standard pict01
-str_standard_pict02standard pict02
-str_standard_pict03standard pict03
-str_standard_pict04standard pict04
-str_standard_pict05standard pict05
-str_standard_pict06standard pict06
-str_standard_pict07standard pict07
-str_standard_pict08standard pict08
-str_standard_viking01standard viking01
-str_standard_viking02standard viking02
-str_standard_viking03standard viking03
-str_standard_viking04standard viking04
-str_standard_viking05standard viking05
-str_standard_viking06standard viking06
-str_standard_viking07standard viking07
-str_standard_viking08standard viking08
-str_standard_viking09standard viking09
-str_standard_viking10standard viking10
-str_standard_viking11standard viking11
-str_standard_viking12standard viking12
-str_standard_viking13standard viking13
-str_standard_viking14standard viking14
-str_standard_viking15standard viking15
-str_standard_viking16standard viking16
-str_standard_viking17standard viking17
-str_standard_viking18standard viking18
-str_standard_viking19standard viking19
-str_standard_viking20standard viking20
-str_standard_viking21standard viking21
-str_standard_viking201standard viking201
-str_standard_viking202standard viking202
-str_standard_viking203standard viking203
-str_standard_viking204standard viking204
-str_standard_viking205standard viking205
-str_standard_viking206standard viking206
-str_standard_viking207standard viking207
-str_standard_viking208standard viking208
-str_standard_viking209standard viking209
-str_standard_viking210standard viking210
-str_standard_viking211standard viking211
-str_standard_viking212standard viking212
-str_standard_viking213standard viking213
-str_standard_viking214standard viking214
-str_standard_viking215standard viking215
-str_standard_viking216standard viking216
-str_standard_kingdom_astandard kingdom a
-str_standard_kingdom_bstandard kingdom b
-str_standard_kingdom_cstandard kingdom c
-str_standard_kingdom_dstandard kingdom d
-str_standard_kingdom_estandard kingdom e
-str_standard_kingdom_fstandard kingdom f
-str_standard_kingdom_gstandard kingdom g
-str_standard_kingdom_hstandard kingdom h
-str_standard_kingdom_istandard kingdom i
-str_standard_kingdom_jstandard kingdom j
-str_standard_kingdom_kstandard kingdom k
-str_standard_kingdom_lstandard kingdom l
-str_standard_kingdom_llstandard kingdom ll
-str_standard_kingdom_mstandard kingdom m
-str_standard_kingdom_nstandard kingdom n
-str_standard_kingdom_ostandard kingdom o
-str_standard_kingdom_pstandard kingdom p
-str_standard_kingdom_qstandard kingdom q
-str_standard_kingdom_rstandard kingdom r
-str_standard_kingdom_sstandard kingdom s
-str_standard_kingdom_tstandard kingdom t
-str_standard_defaultstandard extra207
+str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.|
+str_s21__the_s5_has_no_outstanding_issues_with_the_s14{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.|
+str_assigned_lord_reputation_and_relations_cheat_mode_reg3할당된 영주의 평판과 관계도, 치트 모드: {reg3}|
+str_reputation_cheat_mode_only_martial_평판 (cheat mode only): 호전적^|
+str_reputation_cheat_mode_only_debauched_평판 (cheat mode only): 방탕함^|
+str_reputation_cheat_mode_only_pitiless_평판 (cheat mode only): 무자비함^|
+str_reputation_cheat_mode_only_calculating_평판 (cheat mode only): 계산적^|
+str_reputation_cheat_mode_only_quarrelsome_평판 (cheat mode only): 싸움꾼^|
+str_reputation_cheat_mode_only_goodnatured_평판 (cheat mode only): 온화함^|
+str_reputation_cheat_mode_only_upstanding_평판 (cheat mode only): 강직함^|
+str_reputation_cheat_mode_only_conventional_평판 (cheat mode only): 관습적^|
+str_reputation_cheat_mode_only_adventurous_평판 (cheat mode only): 모험적^|
+str_reputation_cheat_mode_only_romantic_평판 (cheat mode only): 낭만적^|
+str_reputation_cheat_mode_only_moralist_평판 (cheat mode only): 도덕적^|
+str_reputation_cheat_mode_only_ambitious_평판 (cheat mode only): 야심찬^|
+str_reputation_cheat_mode_only_reg11_평판 (cheat mode only): {reg11}^|
+str_reputation_only_reg11_평판 (cheat mode only): {reg11}^|
+str_standard_dragon1standard dragon1|
+str_standard_dragon2standard dragon2|
+str_standard_dragon3standard dragon3|
+str_standard_dragon4standard dragon4|
+str_standard_dragon5standard dragon5|
+str_standard_dragon6standard dragon6|
+str_standard_dragon7standard dragon7|
+str_standard_dragon8standard dragon8|
+str_standard_extra01standard extra01|
+str_standard_extra02standard extra02|
+str_standard_extra03standard extra03|
+str_standard_extra04standard extra04|
+str_standard_extra05standard extra05|
+str_standard_extra06standard extra06|
+str_standard_extra07standard extra07|
+str_standard_extra08standard extra08|
+str_standard_extra09standard extra09|
+str_standard_extra10standard extra10|
+str_standard_extra11standard extra11|
+str_standard_extra12standard extra12|
+str_standard_extra13standard extra13|
+str_standard_extra14standard extra14|
+str_standard_extra15standard extra15|
+str_standard_extra16standard extra16|
+str_standard_extra17standard extra17|
+str_standard_extra18standard extra18|
+str_standard_extra19standard extra19|
+str_standard_extra20standard extra20|
+str_standard_extra21standard extra21|
+str_standard_extra201standard extra201|
+str_standard_extra202standard extra202|
+str_standard_extra203standard extra203|
+str_standard_extra204standard extra204|
+str_standard_extra205standard extra205|
+str_standard_extra206standard extra206|
+str_standard_extra208standard extra208|
+str_standard_extra209standard extra209|
+str_standard_extra210standard extra210|
+str_standard_extra211standard extra211|
+str_standard_anglosaxon01standard anglosaxon01|
+str_standard_anglosaxon02standard anglosaxon02|
+str_standard_anglosaxon03standard anglosaxon03|
+str_standard_anglosaxon04standard anglosaxon04|
+str_standard_anglosaxon05standard anglosaxon05|
+str_standard_anglosaxon06standard anglosaxon06|
+str_standard_anglosaxon07standard anglosaxon07|
+str_standard_anglosaxon08standard anglosaxon08|
+str_standard_anglosaxon09standard anglosaxon09|
+str_standard_anglosaxon10standard anglosaxon10|
+str_standard_anglosaxon11standard anglosaxon11|
+str_standard_anglosaxon12standard anglosaxon12|
+str_standard_anglosaxon13standard anglosaxon13|
+str_standard_anglosaxon14standard anglosaxon14|
+str_standard_anglosaxon15standard anglosaxon15|
+str_standard_anglosaxon16standard anglosaxon16|
+str_standard_anglosaxon17standard anglosaxon17|
+str_standard_anglosaxon18standard anglosaxon18|
+str_standard_anglosaxon19standard anglosaxon19|
+str_standard_anglosaxon20standard anglosaxon20|
+str_standard_anglosaxon21standard anglosaxon21|
+str_standard_anglosaxon201standard anglosaxon201|
+str_standard_anglosaxon202standard anglosaxon202|
+str_standard_anglosaxon203standard anglosaxon203|
+str_standard_anglosaxon204standard anglosaxon204|
+str_standard_briton01standard briton01|
+str_standard_briton02standard briton02|
+str_standard_briton03standard briton03|
+str_standard_briton04standard briton04|
+str_standard_briton05standard briton05|
+str_standard_briton06standard briton06|
+str_standard_briton07standard briton07|
+str_standard_briton08standard briton08|
+str_standard_briton09standard briton09|
+str_standard_briton10standard briton10|
+str_standard_briton11standard briton11|
+str_standard_briton12standard briton12|
+str_standard_briton13standard briton13|
+str_standard_briton14standard briton14|
+str_standard_briton15standard briton15|
+str_standard_briton16standard briton16|
+str_standard_briton17standard briton17|
+str_standard_briton18standard briton18|
+str_standard_briton19standard briton19|
+str_standard_briton20standard briton20|
+str_standard_briton21standard briton21|
+str_standard_briton201standard briton201|
+str_standard_briton202standard briton202|
+str_standard_briton203standard briton203|
+str_standard_briton204standard briton204|
+str_standard_briton205standard briton205|
+str_standard_briton206standard briton206|
+str_standard_briton207standard briton207|
+str_standard_briton208standard briton208|
+str_standard_briton209standard briton209|
+str_standard_briton210standard briton210|
+str_standard_briton211standard briton211|
+str_standard_briton212standard briton212|
+str_standard_briton213standard briton213|
+str_standard_briton214standard briton214|
+str_standard_briton215standard briton215|
+str_standard_briton216standard briton216|
+str_standard_briton217standard briton217|
+str_standard_briton218standard briton218|
+str_standard_briton219standard briton219|
+str_standard_briton220standard briton220|
+str_standard_briton221standard briton221|
+str_standard_irish01standard irish01|
+str_standard_irish02standard irish02|
+str_standard_irish03standard irish03|
+str_standard_irish04standard irish04|
+str_standard_irish05standard irish05|
+str_standard_irish06standard irish06|
+str_standard_irish07standard irish07|
+str_standard_irish08standard irish08|
+str_standard_irish09standard irish09|
+str_standard_irish10standard irish10|
+str_standard_irish11standard irish11|
+str_standard_irish12standard irish12|
+str_standard_irish13standard irish13|
+str_standard_irish14standard irish14|
+str_standard_irish15standard irish15|
+str_standard_irish16standard irish16|
+str_standard_irish17standard irish17|
+str_standard_irish18standard irish18|
+str_standard_irish19standard irish19|
+str_standard_irish20standard irish20|
+str_standard_irish21standard irish21|
+str_standard_irish201standard irish201|
+str_standard_irish202standard irish202|
+str_standard_irish203standard irish203|
+str_standard_irish204standard irish204|
+str_standard_irish205standard irish205|
+str_standard_irish206standard irish206|
+str_standard_irish207standard irish207|
+str_standard_irish208standard irish208|
+str_standard_irish209standard irish209|
+str_standard_irish210standard irish210|
+str_standard_irish211standard irish211|
+str_standard_irish212standard irish212|
+str_standard_irish213standard irish213|
+str_standard_pict01standard pict01|
+str_standard_pict02standard pict02|
+str_standard_pict03standard pict03|
+str_standard_pict04standard pict04|
+str_standard_pict05standard pict05|
+str_standard_pict06standard pict06|
+str_standard_pict07standard pict07|
+str_standard_pict08standard pict08|
+str_standard_viking01standard viking01|
+str_standard_viking02standard viking02|
+str_standard_viking03standard viking03|
+str_standard_viking04standard viking04|
+str_standard_viking05standard viking05|
+str_standard_viking06standard viking06|
+str_standard_viking07standard viking07|
+str_standard_viking08standard viking08|
+str_standard_viking09standard viking09|
+str_standard_viking10standard viking10|
+str_standard_viking11standard viking11|
+str_standard_viking12standard viking12|
+str_standard_viking13standard viking13|
+str_standard_viking14standard viking14|
+str_standard_viking15standard viking15|
+str_standard_viking16standard viking16|
+str_standard_viking17standard viking17|
+str_standard_viking18standard viking18|
+str_standard_viking19standard viking19|
+str_standard_viking20standard viking20|
+str_standard_viking21standard viking21|
+str_standard_viking201standard viking201|
+str_standard_viking202standard viking202|
+str_standard_viking203standard viking203|
+str_standard_viking204standard viking204|
+str_standard_viking205standard viking205|
+str_standard_viking206standard viking206|
+str_standard_viking207standard viking207|
+str_standard_viking208standard viking208|
+str_standard_viking209standard viking209|
+str_standard_viking210standard viking210|
+str_standard_viking211standard viking211|
+str_standard_viking212standard viking212|
+str_standard_viking213standard viking213|
+str_standard_viking214standard viking214|
+str_standard_viking215standard viking215|
+str_standard_viking216standard viking216|
+str_standard_kingdom_astandard kingdom a|
+str_standard_kingdom_bstandard kingdom b|
+str_standard_kingdom_cstandard kingdom c|
+str_standard_kingdom_dstandard kingdom d|
+str_standard_kingdom_estandard kingdom e|
+str_standard_kingdom_fstandard kingdom f|
+str_standard_kingdom_gstandard kingdom g|
+str_standard_kingdom_hstandard kingdom h|
+str_standard_kingdom_istandard kingdom i|
+str_standard_kingdom_jstandard kingdom j|
+str_standard_kingdom_kstandard kingdom k|
+str_standard_kingdom_lstandard kingdom l|
+str_standard_kingdom_llstandard kingdom ll|
+str_standard_kingdom_mstandard kingdom m|
+str_standard_kingdom_nstandard kingdom n|
+str_standard_kingdom_ostandard kingdom o|
+str_standard_kingdom_pstandard kingdom p|
+str_standard_kingdom_qstandard kingdom q|
+str_standard_kingdom_rstandard kingdom r|
+str_standard_kingdom_sstandard kingdom s|
+str_standard_kingdom_tstandard kingdom t|
+str_standard_defaultstandard extra207|
