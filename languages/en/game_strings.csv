@@ -2152,64 +2152,65 @@ str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s
 "
 str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}은(는) {s16}와(과)의 관계를 개선할 의지가 있는 것으로 보이오.
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|뭐라고? 당신은 당신 스스로가 우리 가문의 일원이 될 정도로 가치가 있는 사람이라고 생각하고 있는 것이오?
-str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소. 열심히 싸우시오, 당신 스스로의 재산을 늘리시오, 그러면 아마 훗날 언젠가 우리가 다시 이야기를 할 수도 있을 것이오, 좋은 사내여!
-str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|음, 그녀를 위해 우리는 좀 더 훌륭한 신랑감을 원하고 있소.
-str_it_is_too_early_for_you_to_be_speaking_of_such_things_you_are_still_making_your_mark_in_the_world|당신에게 그런 이야기를 듣기는 좀 이른 것 같군, 당신은 당신 스스로 그럴 가치가 있음을 증명하지 않았잖소.
-str_you_dont_serve_the_s4_so_id_say_no_one_day_we_may_be_at_war_and_i_prefer_not_to_have_to_kill_my_inlaws_if_at_all_possible|당신은 {s4}에게 충성 서약을 하지 않았소? 내가 거절할 수밖에 없음을 잘 알 것이오. 언젠가 우리는 전쟁을 하게 될 수도 있고, 나는 사위를 내 손 죽이는 것을 원치 않소, 어떤 경우든 말이오.
-str_as_you_are_not_a_vassal_of_the_s4_i_must_decline_your_request_the_twists_of_fate_may_mean_that_we_will_one_day_cross_swords_and_i_would_hope_not_to_make_a_widow_of_a_lady_whom_i_am_obligated_to_protect|당신이 {s4}의 봉신이 아닌 만큼, 나는 그 요청을 거부해야만 하오. 뒤틀린 운명이 우리가 서로에게 검을 겨누게 할 수도 있고, 내가 지켜야 할 레이디를 과부로 만드는 것은 내가 원치 않는 일이오.
-str_as_you_are_not_a_pledged_vassal_of_our_liege_with_the_right_to_hold_land_i_must_refuse_your_request_to_marry_into_our_family|당신이 우리 왕에게 충성 서약과 영지를 받지 않았기 때문에, 나는 우리 가문과 혼인하길 바라는 당신의 요청을 거부해야만 하오.
-str_look_here_lad__the_young_s14_has_been_paying_court_to_s16_and_youll_have_to_admit__hes_a_finer_catch_for_her_than_you_so_lets_have_no_more_of_this_talk_shall_we|이보시오, 친구 -- 젊은 {s14}이(가) {s16}에게 구애하고 있소, 그리고 당신은 그가 당신보다 더 그녀의 신랑에 어울린다는 것을 인정해야만 할 것이오. 그러니 더 이상 나에게 이 이야기는 하지 마시오. 알겠소?
-str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|탐탁지않은 구혼자들로부터 우리 가문의 레이디들을 지키는 것은 나의 의무라 생각하지만, 나는 당신에 대해서는 아무 것도 걱정하지 않겠소.
+str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|음, 그녀를 위해 우리는 좀 더 명망 있는 신랑감을 찾고 있었소. 열심히 싸우시오, 그리고 재산을 모으시오, 그러면 훗날 우리가 다시 이야기를 할 수도 있을 것이오, 멋진 친구!
+str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|음, 그녀를 위해 우리는 좀 더 명망 있는 신랑감을 원하고 있소.
+str_it_is_too_early_for_you_to_be_speaking_of_such_things_you_are_still_making_your_mark_in_the_world|이런 이야기를 꺼내기엔 너무 이르구려. 당신은 아직 세상에 이름을 알리는 단계일 뿐이오.
+str_you_dont_serve_the_s4_so_id_say_no_one_day_we_may_be_at_war_and_i_prefer_not_to_have_to_kill_my_inlaws_if_at_all_possible|당신은 {s4}를 섬기지 않으니 거절하겠소. 언젠가 우리가 전쟁을 하게 될 수도 있는데, 가급적 사돈을 죽이는 일은 피하고 싶구려.
+str_as_you_are_not_a_vassal_of_the_s4_i_must_decline_your_request_the_twists_of_fate_may_mean_that_we_will_one_day_cross_swords_and_i_would_hope_not_to_make_a_widow_of_a_lady_whom_i_am_obligated_to_protect|당신이 {s4}의 봉신이 아니기에 거절할 수밖에 없소. 운명의 장난으로 우리가 칼을 겨누게 될 수도 있는데, 내가 보호해야 할 여인을 과부로 만들고 싶지 않소.
+str_as_you_are_not_a_pledged_vassal_of_our_liege_with_the_right_to_hold_land_i_must_refuse_your_request_to_marry_into_our_family|당신은 우리 왕에게 충성을 맹세하고 영지를 하사받은 봉신이 아니기에, 가문의 혼인 요청을 거절하겠소.
+str_look_here_lad__the_young_s14_has_been_paying_court_to_s16_and_youll_have_to_admit__hes_a_finer_catch_for_her_than_you_so_lets_have_no_more_of_this_talk_shall_we|이보시오, 친구. 젊은 {s14}이(가) {s16}에게 구애하고 있소. 그리고 그가 당신보다 더 훌륭한 신랑감이라는 건 당신도 인정할 수 밖에 없을 것이오. 그러니 더 이상 나에게 이 이야기는 하지 마시오. 알겠소?
+str_i_do_not_care_for_you_sir_and_i_consider_it_my_duty_to_protect_the_ladies_of_my_household_from_undesirable_suitors|나는 당신이 마음에 들지 않소. 탐탁지 않은 구혼자로부터 가문의 여인들을 보호하는 것이 나의 의무라 생각하오.
 str_hmm_young_girls_may_easily_be_led_astray_so_out_of_a_sense_of_duty_to_the_ladies_of_my_household_i_think_i_would_like_to_get_to_know_you_a_bit_better_we_may_speak_of_this_at_a_later_date|흠, 어린 처녀들은 유혹에 빠지기 쉽소. 우리 가문의 숙녀들에 대한 의무를 고려하여 우리가 당신을 좀 더 안 뒤에 이야기했으면 하오. 이 일에 대해선 나중에 다시 이야기 나누기로 하겠소.
-str_you_may_indeed_make_a_fine_match_for_the_young_mistress|당신은 어쩌면 젊은 레이디와 좋은 인연을 만들 수도 있을 것이오.
-str_madame__given_our_relations_in_the_past_this_proposal_is_most_surprising_i_do_not_think_that_you_are_the_kind_of_woman_who_can_be_bent_to_a_hushands_will_and_i_would_prefer_not_to_have_our_married_life_be_a_source_of_constant_acrimony|레이디 -- 그동안의 우리 사이 관계에 비추어 봤을때 이 청혼은 정말 뜬금없군요. 저는 당신이 남편의 말을 고분고분히 들어줄 부류의 여자라고는 생각하지 않습니다, 그리고 당신과 결혼해서 우리의 결혼 생활을 끊임없이 독설을 퍼부어대게 하는 원인으로 만들어 버리고 싶지는 않네요.
-str_i_would_prefer_to_marry_a_proper_maiden_who_will_obey_her_husband_and_is_not_likely_to_split_his_head_with_a_sword|저는 남편에게 순종하는 적절한 레이디와 결혼하기를 원합니다, 남편의 머리를 검으로 내리쳐 쪼개버리지는 않을 것 같은 레이디 말이죠.
+str_you_may_indeed_make_a_fine_match_for_the_young_mistress|당신이라면 젊은 숙녀와 참으로 잘 어울리는 짝이 될 수도 있겠구려.
+str_madame__given_our_relations_in_the_past_this_proposal_is_most_surprising_i_do_not_think_that_you_are_the_kind_of_woman_who_can_be_bent_to_a_hushands_will_and_i_would_prefer_not_to_have_our_married_life_be_a_source_of_constant_acrimony|부인, 우리의 지난 관계를 생각하면 이 제안은 정말 뜬금없구려. 당신같은 여장부가 남편의 말을 고분고분 들어줄 것 같지는 않소. 결혼 생활이 끊임없이 서로에 대한 독설로 채워지는 건 원치 않는 일이오.
+str_i_would_prefer_to_marry_a_proper_maiden_who_will_obey_her_husband_and_is_not_likely_to_split_his_head_with_a_sword|나는 남편에게 순종하고, 칼로 남편의 머리를 쪼개버릴 것 같지 않은 조신한 처녀와 결혼하고 싶소.
 str_my_lady_while_i_admire_your_valor_you_will_forgive_me_if_i_tell_you_that_a_woman_like_you_does_not_uphold_to_my_ideal_of_the_feminine_of_the_delicate_and_of_the_pure|레이디, 저는 당신의 용맹과 아름다움을 존경하고 있소. 다만 실례를 각오하고 말씀드리면, 당신 같은 여성은 저의 이상적인 아내상에 부합하지는 않소. 예를 들어 여성스러움, 섬세함, 순수함 같은 것들 말이오.
-str_nah_i_want_a_woman_wholl_keep_quiet_and_do_what_shes_told_i_dont_think_thats_you|아니, 나는 군말없이 하라는 대로 하는 여자를 원하오. 당신이 그런 여자라는 생각은 안 드는군.
-str_my_lady_you_are_possessed_of_great_charms_but_no_properties_until_you_obtain_some_to_marry_you_would_be_an_act_of_ingratitude_towards_my_ancestors_and_my_lineage|레이디, 당신은 굉장히 매력 있는 사람이지만, 당신은 아무런 재산도 없습니다. 당신이 약간의 재산을 모으기 전까지는, 당신과 결혼하는건 내가 나의 조상들, 나의 혈통이 내려준 은혜를 배신한 꼴이 되지 않을까요?
-str_my_lady_you_are_a_woman_of_no_known_family_of_no_possessions__in_short_a_nobody_do_you_think_that_you_are_fit_to_marry_into_may_family|레이디, 당신은 아무 것도 알려지지 않은 집안 출신의, 아무런 재산도 없는 여자입니다 -- 짧게 말해서, 당신은 아무 것도 아니지요. 이런 당신이 우리 집안에 시집 올 여자로서 적당하다고 생각하시나요?
-str_my_lady__forgive_me__the_quality_of_our_bond_is_not_of_the_sort_which_the_poets_tell_us_is_necessary_to_sustain_a_happy_marriage|아가씨 -- 용서하십시오 -- 우리 사이 관계는 시인들이 행복한 결혼 생활에 필수적이라고 말하는 관계들과는 질적으로 많은 차이가 있네요.
-str_um_i_think_that_if_i_want_to_stay_on_s4s_good_side_id_best_not_marry_you|음, 나는 {s4}의 충실한 봉신으로 남기 위해서, 당신과 결혼하지 않는 것이 최선이라 생각하오.
-str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_union|당신은 다른 왕국을 섬기고 있소. 나는 우리의 결합에 {s4}이 {reg4?그녀의:그의} 축복을 주지 않을 것으로 보이오.
-str_madame_my_heart_currently_belongs_to_s4|아가씨, 내 심장은 지금 {s4}에게 속해 있소.
-str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_shall_give_your_proposal_consideration|아가씨, 당신은 아름다움, 우아함 그리고 재치를 가지고 있으며 강인한 정신과 용감함을 지닌 여성이오. 나는 당신의 청혼을 고려하겠소.
-str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|아가씨, 당신은 아름다움, 우아함 그리고 재치를 가지고 있으며 강인한 정신과 용감함을 지닌 여성이오. 당신이 나의 아내가 되어준다면 나에게 가장 큰 영광이 되겠소.
-str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|아 -- '오르페우스의 비극적인 이야기' -- 이런 슬픈 이야기가. 우리 집에 오는 음유시인이 우리 가족들을 위해 여러 번 이 이야기를 들려주었죠, 그리고 우리들은 매번 그 이야기를 들으며 눈물을 흘렸죠.
-str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|'오르페우스의 비극적인 이야기'? 매우 슬프고 애처로운 300여개의 절로 된 시죠. 만약 오르페우스가 비탄에서 도망치길 원했다면, 그는 그의 신분속에서의 삶을 배웠을 거에요, 그리고 그가 가질 수 없는 것을 동경하지 않았을 거예요.
-str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|'오르페우스의 비극적인 이야기' 말인가요? 어느 누구도 이같은 슬픈 시를 쓸수 없을 거예요. 만약 오르페우스와 칼리오페가 함께 할 운명이였다면, 그들의 사랑은 모든 장애물들을 정복했을 테니까요.
-str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|아, '오르페우스와 칼리오페.' 매우 오래된 이야기지만, 나름대로 감동적이군요
-str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|'베오울프 사가' 말인가요? 우리 조상들의 생활 속에 이렇게 행복한 시간이 있을 수가! 그녀 같은 여성들은 사내처럼 세상을 탐험할 수 있었고, 그들 자신의 이름으로 명성을 얻었고, 그들의 남편들의 그림자 안에 머물지 않았어요.
-str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|아, '베오울프 사가' 말이군요. 그녀는 원하는 것이 무엇인지 알았고, 그것을 얻기를 두려워 하지 않았던 한 여성이 있었어요.
-str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|'베오울프 사가'요? 무서운 이야기죠 - 그러나 그것은 매우 위대한 사랑에 대한 말하고 있죠. 만약 그녀의 가족과 기꺼이 전쟁을 했다면 말이죠.
-str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|'베오울프 사가'요? 제가 생각하기에는, 흘드가의 아내는 가족에 대한 의무보다 그녀의 욕망을 더 중요시했어요. 그래서 그녀는 아버지와 전쟁을 벌였죠. 저는 그런 여자를 찬양하는 시를 들을 겨를이 없어요!
-str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|'베오울프 사가'요? 아아!
-str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|'아에소피카' 말인가요? 저는 그 시에 나오는 그 여자를 이해할 수 없어요. 만약 그녀가 그 남자를 사랑한다면 왜 그녀는 그를 그렇게 애타게 만든 거죠?
-str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|'아에소피카' 말인가요? 우리 한 번 따져 봐요  -- 그건 도덕적으로 교훈적이지 못해요. 그것은 속이는 것을 찬양하고, 그녀의 순정을 내던지는 것으로 끝이 나죠... 그리고 저는 아직도 그 내용을 참지 못하겠어요. 그러나 그 이야기의 좋은 점을 찾았어요. 사랑이란 비극이 아니어도 추억이 될 수 있단 걸 우리에게 말해주기 때문이겠죠.
-str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|'아에소피카' 말인가요? 지금 모든 여자들이 느낌으로 알고 있는 반드시 연습해야 할 미묘한 이해 관계를 배우는 한 이야기가 그것이죠.
-str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|'아에소피카' 말인가요? 그것은 우스운 이야기라고 저는 생각해요 -- 비록 저의 영혼을 진실로 감동시킬 내용은 그것에 없지만 말이죠.
-str_storming_the_fortress_of_love_ah_yes_the_lady_sits_within_doing_nothing_while_the_man_is_the_one_who_strives_and_achieves_i_have_enough_of_that_in_my_daily_life_why_listen_to_poems_about_it|'이네스와 디도의 이야기' 말인가요? 아, 그래요. 그 여인은 남자가 노력하고 애쓰는 동안 아무것도 하지 않고 가만히 앉아있었지요. 제 일상은 그것으로 충분하죠. 그런데 제가 왜 그 시에 대해서 들어야하죠?
-str_storming_the_fortress_of_love_ah_yes_an_uplifting_tribute_to_the_separate_virtues_of_man_and_woman|'이네스와 디도의 이야기' 말인가요? 아, 그래요. 남자와 여자의 서로 다른 미덕은 권장되어야 하죠.
-str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtues_it_speaks_nothing_of_passion|'이네스와 디도의 이야기' 말인가요? 아, 그래요. 그건 비록 열정적이진 않지만, 괜찮은 장점을 갖고 있는 이야기예요!
-str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_ask_me|'이네스와 디도의 이야기' 말인가요? 아.. 당신이 저에게 물어 본다면 사랑의 시 처럼 보이는 설교일 뿐이에요.
-str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|'브란의 항해' 말인가요? 아.. 이처럼 딱 맞는 단어가 있을까요, 바로 완벽한 사랑이죠! 진정한 기쁨을 느낄 수 있도록 하는 사랑 말이예요.
-str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|'브란의 항해' 말인가요? 당신이 저에게 물어본다면, 어리석은 이야기에요. 만약 시인이 숙녀를 원한다면 그는 그녀를 얻기 위해 노력해야 해요 -- 그리고 경건함이라는 허식을 하고 있는 그의 욕망도 벗어버려야 해요!
-str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|'브란의 항해' 말인가요? 흠 -- 그건 세상과 신성한 사랑에 대한 흥미로운 탐험이에요. 남자를 가장 잘 표현할 수 있는 정신적인 탐구에 대하여 이야기하는군요. 하지만 만약 시인이 그의 원초적 열정과 함께 그가 동경하는 한 차원 높은 것에 대해서 혼동하지 않았다면 저는 놀라움을 금치 못해요.
-str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'브란의 항해'? 오, 네 -- 이건 매우 훌륭하고 철학적이에요. 그러나 저는 개인적으로 음유시인이 하프를 세 시간이나 뜯는 걸 듣느니 차라리 이야기가 조금 있는 편이 좋아요.
-str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg5}명의 손님이 {s4} {reg3}개를 소비했습니다.
+str_nah_i_want_a_woman_wholl_keep_quiet_and_do_what_shes_told_i_dont_think_thats_you|아니, 나는 군말없이 시키는 대로 하는 여자를 원하오. 당신이 그런 여자라는 생각은 안 드는군.
+str_my_lady_you_are_possessed_of_great_charms_but_no_properties_until_you_obtain_some_to_marry_you_would_be_an_act_of_ingratitude_towards_my_ancestors_and_my_lineage|레이디, 당신은 매력적이지만 재산이 없군요. 당신이 어느정도의 재산을 모으기 전엔, 당신과 결혼하는 것은 내 조상과 가문에 대한 불충이 될 것이오.
+str_my_lady_you_are_a_woman_of_no_known_family_of_no_possessions__in_short_a_nobody_do_you_think_that_you_are_fit_to_marry_into_may_family|레이디, 당신은 알려지지 않은 집안 출신에 재산도 없는, 짧게 말해서 아무것도 아닌 여자 아니오. 그런 당신이 우리 가문에 어울린다고 생각하오?
+str_my_lady__forgive_me__the_quality_of_our_bond_is_not_of_the_sort_which_the_poets_tell_us_is_necessary_to_sustain_a_happy_marriage|부인, 용서하십시오. 우리 사이의 감정은 시인들이 말하는 행복한 결혼 생활을 위한 종류의 것들은 아니오.
+str_um_i_think_that_if_i_want_to_stay_on_s4s_good_side_id_best_not_marry_you|음, {s4}와(과) 좋은 관계를 유지하려면 당신과 결혼하지 않는 게 최선일 것 같소.
+str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_union|당신은 다른 왕국을 섬기고 있지 않소. {s4}께서 우리의 결합을 축복해 주실 리 없소.
+str_madame_my_heart_currently_belongs_to_s4|부인, 제 심장은 {s4}에게 바쳐두었소.
+str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_shall_give_your_proposal_consideration|레이디, 당신은 강인한 정신과 용기, 그리고 아름다움과 우아함, 재치를 겸비한 여인이오. 당신의 청혼을 진지하게 고려해보겠소.
+str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|레이디, 당신은 강인한 정신과 용기, 아름다움과 우아함, 재치를 겸비한 여인이오. 당신이 내 아내가 되어준다면 더할 나위 없는 영광이겠소.
+str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|아, '오르페우스와 칼리오페'의 슬픈 이야기군요. 우리 집에 오는 유랑 시인들이 여러 번 들려주었는데, 들을 때마다 가족들 모두 눈물을 흘렸답니다.
+str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|아, '오르페우스와 칼리오페'요? 제가 보기엔 한심한 징징거림이 300절이나 이어지는 것뿐입니다. 오르페우스가 비탄에서 벗어나고 싶었다면 분수에 맞게 사는 법을 배웠어야지, 가질 수 없는 것을 탐내선 안 됐어요.
+str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|아, '오르페우스와 칼리오페'요? 그렇게 슬픈 시는 쓰여선 안 됐어요! 만약 두 사람이 함께할 운명이었다면, 그들의 사랑이 모든 장애물을 극복했어야죠!
+str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|아, '오르페우스와 칼리오페'군요. 아주 고전적이지만 나름대로 감동이 있지요.
+str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|아,' 베오울프 사가'요? 우리 조상들이 살았던 참으로 행복한 시대의 이야기군요! 그때의 여인들은 남자처럼 세상을 탐험하고 스스로 명성을 얻었으며, 남편의 그림자에만 머물지 않았죠.
+"str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|아, '베오울프 사가'군요. 자신이 무엇을 원하는지 알고 그것을 쟁취할 용기가 있는 여인이 등장하지요.
+"
+str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|아, '베오울프 사가'요? 무서운 이야기이긴 하지만 아주 위대한 전사에 대해 노래하고 있지요.
+str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|음, '베오울프 사가'요? 제가 기억하기로, 흘드가의 아내는 가족에 대한 의무보다 그녀의 천박한 욕망을 더 중요시했어요. 그래서 그녀는 아버지와 전쟁까지 벌였죠. 그런 여자를 찬양하는 시 따위에 낼 시간은 없어요!
+str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|음, 베오울프 사가'요? 여자가 어떻게 갑옷을 입고 검을 든단 말이에요? 남자가 어떻게 그런 거친 생명체를 사랑할 수 있겠어요?
+str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|음, '이솝 우화' 말인가요? 저는 그 시의 여인을 이해할 수 없어요. 남자를 사랑한다면 왜 그렇게 그를 애태우는 거죠?
+str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|아, '이솝 우화' 말인가요? 어디 한 번 따져 보죠. 그 이야기는 도덕적으로 교훈적이지도 않고 속임수를 미화하며, 결국 처녀가 본능에 굴복하는 내용이지만... 매력적이라는 건 부정할 수 없군요. 사랑이 꼭 비극적이어야만 기억에 남는 건 아니라는 걸 알려주니까요.
+str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|음, '이솝 우화'요? 그건 모든 여자들이 정치의 미묘한 구석을 익히기 위해 심장에 새겨야 할 이야기가 되었어요.
+str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|아, '이솝 우화' 말인가요? 익살스러운 이야기라고 생각해요. 제 영혼을 진정으로 감동시키는 구석은 없지만 말이죠.
+str_storming_the_fortress_of_love_ah_yes_the_lady_sits_within_doing_nothing_while_the_man_is_the_one_who_strives_and_achieves_i_have_enough_of_that_in_my_daily_life_why_listen_to_poems_about_it|음,' 아이네이스와 디도의 이야기' 말이죠? 남자가 고군분투하며 애써 무언가를 성취해내는 동안 여자는 아무것도 하지 않고 가만히 앉아있었지요.. 내 일상만으로도 충분한데 굳이 시로까지 들어야 하나요?
+str_storming_the_fortress_of_love_ah_yes_an_uplifting_tribute_to_the_separate_virtues_of_man_and_woman|음,' 아이네이스와 디도의 이야기' 말인가요? 맞아요, 남성과 여성의 서로 다른 미덕을 기리는 고무적인 헌사죠.
+str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtues_it_speaks_nothing_of_passion|음,' 아이네이스와 디도의 이야기' 말이죠? 훌륭한 미덕을 다룬 이야기지만, 열정이라는 면에서는 아무것도 느껴지지 않는군요!
+str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_ask_me|음,' 아이네이스와 디도의 이야기' 말인가요? 아... 제 생각엔 그냥 사랑에 대한 시의 탈을 쓴 설교일 뿐이에요.
+str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|오, '브란의 항해' 말인가요? 아.. 이처럼 딱 맞는 단어가 있을까요, 바로 완벽한 사랑이죠! 그런 사랑을 하는 것이야말로 진정한 황홀경을 아는 길일 거예요!
+str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|아, '브란의 항해' 말인가요? 저는 어리석은 이야기라고 생각해요. 시인이 여인을 원한다면 그녀를 얻기 위해 노력해야지, 경건한 척하며 자신의 욕망을 포장해선 안 되죠!
+str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|아, '브란의 항해' 말인가요? 흠, 지상과 천상의 사랑에 대한 흥미로운 탐구라고 생각해요. 인간의 가장 선한 면을 끌어내는 영적 추구를 다루고 있지만, 시인이 고결함에 대한 갈망과 세속적인 욕망을 혼동한 건 아닌지 궁금하군요.
+str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|오, '브란의 항해'요? 네, 매우 가치 있고 철학적인 이야기죠. 하지만 음유시인의 하프 소리를 세 시간이나 듣느니 차라리 좀 더 이야깃거리가 있는 시가 더 좋아요.
+str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg5}명의 손님과 수행원들을 위해 {s4} {reg3}단위를 소비했습니다.
 str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg5}개의 향신료 중 {reg3}개가 소비됨
 str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg5}개의 오일 중 {reg3}개가 소비됨
-str_of_food_which_must_come_before_everything_else_the_amount_is_s8|가장 중요한 음식의 양은 {s8}
+str_of_food_which_must_come_before_everything_else_the_amount_is_s8|무엇보다 우선시되어야 할 식량의 양은 {s8}이오.
 str_s9_and_the_variety_is_s8_|{s9} 그리고 종류는 {s8}.
-str_s9_of_drink_which_guests_will_expect_in_great_abundance_the_amount_is_s8|{s9} 손님들이 가장 기대하는 술의 양은 {s8}
-str_s9_of_jewellery_which_is_essential_to_demonstrate_x_the_amount_is_s8_|{s9} 선물용으로 적합한 보석의 양은 {s8}.
-str_s9_of_fur_which_we_shall_x_the_amount_is_s8|{s9} 편안한 모피의 양은 {s8}.
-str_s9_overall_our_table_will_be_considered_s8|{s9} 전체적으로, 우리 식탁은 {s8}.
+str_s9_of_drink_which_guests_will_expect_in_great_abundance_the_amount_is_s8|{s9} 손님들이 충분히 즐길 수 있도록 준비해야 할 음료의 양은 {s8}이오.
+str_s9_of_jewellery_which_is_essential_to_demonstrate_x_the_amount_is_s8_|{s9} 우리의 지위를 과시하기 위한 선물로 필수적인 보석의 양은 {s8}이오.
+str_s9_of_fur_which_we_shall_x_the_amount_is_s8|{s9} 안락함을 보장하기 위해 필요한 모피의 양은 {s8}이오.
+str_s9_overall_our_table_will_be_considered_s8|{s9} 전체적으로 우리 식탁은 {s8} 수준이라 평가받을 것이오.
 str_rebel|반란군
 str_bandit|강도
 str_relation_of_prisoner_with_captor_is_reg0|포획자와 포로의 관계는 {reg0}입니다.
 str_s5_suffers_attrition_reg3_x_s4|{s5} 병력 감소: {reg3} x {s4}
-str_s10_said_on_s1_s11__|{s10}이(가) {s1} 한 말 : {s11}^^
-str_totalling_casualties_caused_during_mission|임무중 발생한 총 사상자를 계산중...
+str_s10_said_on_s1_s11__|{s10}이(가) {s1}에 전하길 : {s11}^^
+str_totalling_casualties_caused_during_mission|임무 중 발생한 총 사상자 집계 중...
 str_removing_s4_from_s5|{s5}(으)로 부터 {s4}을 제거했습니다.
 str_s4_joins_prison_break|{s4}이(가) 탈옥하여 합류하였습니다.
 str_helper_is_spawned|도우미가 생성되었습니다.
