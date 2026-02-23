@@ -2247,76 +2247,76 @@ str_attacking_enemy_army_near_s11|{s11} 근처 적 부대를 공격 중
 str_holding_feast_at_s11|{s11}에서 열린 연회에 참석 중
 str_s9s10_current_state_s11_hours_at_current_state_reg3_current_strategic_thinking_s14_marshal_s12_since_the_last_offensive_ended_reg4_hours_since_the_decisive_event_reg10_hours_since_the_last_rest_reg9_hours_since_the_last_feast_ended_reg5_hours_percent_disgruntled_lords_reg7_percent_restless_lords_reg8__|{s9}{s10}^^현재 전략: {s11}^현재 전략 수립으로부터 지난 시간: {reg3}^^총사령관: {s12}^^마지막 공격으로부터 지난 시간: {reg4} 시간^마지막 사건으로부터 지난 시간: {reg10} 시간^마지막 18시간 이상의 휴식으로부터 지난 시간: {reg9} 시간^마지막 연회로부터 지난 시간: {reg5} 시간^^불만 있는 영주들의 비율: {reg7}%^불안해하는 영주들의 비율: {reg8}%^^
 str__right_to_rule_reg12|^정통성: {reg12}.
-str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|정치적 논거:^합법성: {reg3}^영주들의 권리: {reg4}^통일/평화: {reg5}^백성들의 권리: {reg6}^영지 약속: {reg7}
-str_renown_reg2_honour_rating_reg3s12_friends_s8_enemies_s6_s9|명성 : {reg2}.^명예 등급: {reg3}.{s12}^친구: {s8}.^적: {s6}.^{s9}
-str_you_lie_stunned_for_several_minutes_then_stagger_to_your_feet_to_find_your_s10_standing_over_you_you_have_lost_the_duel|당신은 몇 분간 기절해서 누웠고, 게다가 당신의 발은 절뚝였습니다. 당신은 당신의 위에 서 있는 {s10}을(를) 발견했습니다. 당신은 결투에서 졌습니다.
-str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_you_have_won_the_duel|{s10}은(는) 투기장의 먼지 속에 몇 분간 누워 버렸고, 게다가 그의 발은 절뚝였습니다. 당신이 결투에서 이겼습니다.
+str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|정치적 논거:^법적 정당성: {reg3}^영주들의 권리: {reg4}^통일과 평화: {reg5}^평민들의 권리: {reg6}^영지 하사 약속: {reg7}
+str_renown_reg2_honour_rating_reg3s12_friends_s8_enemies_s6_s9|명성: {reg2}.^명예 등급: {reg3}.{s12}^우호 세력: {s8}.^적대 세력: {s6}.^{s9}
+str_you_lie_stunned_for_several_minutes_then_stagger_to_your_feet_to_find_your_s10_standing_over_you_you_have_lost_the_duel|당신은 몇 분 동안 정신을 잃고 쓰러졌다가, 비틀거리며 일어났습니다. {s10}(이)가 당신을 내려다보고 있습니다. 당신은 결투에서 졌습니다.
+str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_you_have_won_the_duel|{s10}(이)가 투기장의 먼지 속에 몇 분간 쓰러져 있다가 비틀거리며 일어납니다. 당신이 결투에서 승리했습니다!
 str__this_castle_is_temporarily_under_royal_control| 이 요새는 임시적으로 왕실의 지배하에 있습니다.
 str__this_castle_does_not_seem_to_be_under_anyones_control| 이 요새는 어느 누구의 지배도 받지 않는 것처럼 보입니다.
 str__this_town_is_temporarily_under_royal_control| 이 도시는 임시적으로 왕실의 지배하에 있습니다.
 str__the_townspeople_seem_to_have_declared_their_independence| 시민들은 그들의 독립을 선언한 것처럼 보입니다.
 str_to_your_husband_s11|당신의 남편, {s11}.
-str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| 당신은 당신의 {reg59?아내:남편}, {s7}의 깃발이 성문 위에 있는 것을 보았습니다.
-str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| 당신의 {reg59?아내:남편}, {s7}의 깃발이 도시의 문 위로 휘날리고 있습니다.
+str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| 성문 위로 당신의 {reg59?아내:남편} {s7}의 깃발이 걸려 있는 것이 보입니다.
+str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| 도시의 문 위로 당신의 {reg59?아내:남편} {s7}의 깃발이 휘날리고 있습니다.
 str__the_lord_is_currently_holding_a_feast_in_his_hall|^영주는 지금 회당에서 연회를 주최하고 있습니다.
 str__join_the_feast| (연회에 참석합니다)
-str_belligerent_drunk_in_s4|{s4}에 있는 화가 난 주정뱅이
-str_belligerent_drunk_not_found|화가 난 주정뱅이를 찾지 못함
+str_belligerent_drunk_in_s4|{s4}에 있는 호전적인 주정뱅이
+str_belligerent_drunk_not_found|호전적인 주정뱅이를 찾지 못함
 str_roughlooking_character_in_s4|{s4}에 있는 거칠어 보이는 사람
 str_roughlooking_character_not_found|거칠어 보이는 사람을 찾지 못함
-str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle|. 그러나, 당신은 영주의 성에서 열린 연회에 참석하여 충분히 훌륭한 행동을 보였습니다.
-str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}. 당신은 또한 성에서 열리고 있는 연회에 초대되었습니다.
-str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11} 불행히도, {s12}은(는) 부상을 당했고, 뒤에 남아 있어야 했습니다.
-str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11} 또한, {s12}은(는) 부상을 당했고, 뒤에 남아 있어야 했습니다.
+str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle|. 하지만 당신은 영주의 성에서 열리고 있는 연회에 초대받을 만큼 충분히 명성을 쌓았습니다.
+str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}. 또한 당신은 성에서 열리고 있는 연회에 초대받았습니다.
+str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11} 불행히도 {s12}은(는) 부상을 입고 뒤에 남겨졌습니다.
+str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11} 또한 {s12}은(는) 부상을 입고 뒤에 남겨졌습니다.
 str_with_the_s10|{s10}와 함께 하기로
-str_outside_calradia|이 땅으로 떠나기로...
-str_you_have_been_indicted_for_treason_to_s7_your_properties_have_been_confiscated_and_you_would_be_well_advised_to_flee_for_your_life|당신은 {s7}(으)로 반역한 혐의로 기소당했습니다. 당신의 재산은 몰수당했고, 당신의 목숨을 아끼기 위해서는 도망가는 것이 현명한 일일 것입니다.
-str_by_order_of_s6_s4_of_the_s5_has_been_indicted_for_treason_the_lord_has_been_stripped_of_all_reg4herhis_properties_and_has_fled_for_reg4herhis_life_he_is_rumored_to_have_gone_into_exile_s11|{s6}의 명령에 따라, {s5}의 {s4}은(는) 반역죄로 기소되었습니다. 영주는 {reg4?그녀의:그의} 모든 재산을 박탈당했고, {reg4?그녀의:그의} 삶을 위해 도망쳤습니다. 그는 {s11} 했다는 소문입니다.
-str_local_notables_from_s1_a_village_claimed_by_the_s4_have_been_mistreated_by_their_overlords_from_the_s3_and_petition_s5_for_protection|{s1} 지방으로부터의 주목할만한 이야기로, 주민들이 {s3}의 영주로부터 혹사당했으며, 이에 {s5}에게 보호를 탄원했고, {s4}이(가) 마을을 요구했습니다
-str_villagers_from_s1_stole_some_cattle_from_s2| {s1} 주민들이 {s2} 마을에서 소를 몇 마리 훔쳤습니다
-str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|{s1} 주민들이 아들을 결혼시키기 위해 {s2} 마을의 저명한 가문 아가씨를 유괴했습니다
-str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|{s1} 주민들이 물 문제로 싸우던 중 {s2} 마을 주민 몇명을 죽였습니다
-str_your_new_minister_|당신의 새 재상: 
+str_outside_calradia|이 땅 너머로...
+str_you_have_been_indicted_for_treason_to_s7_your_properties_have_been_confiscated_and_you_would_be_well_advised_to_flee_for_your_life|당신은 {s7}에 대한 반역 혐의로 기소되었습니다. 당신의 모든 재산은 몰수되었으니, 목숨을 부지하고 싶다면 즉시 도망치는 것이 현명한 일일 것입니다.
+str_by_order_of_s6_s4_of_the_s5_has_been_indicted_for_treason_the_lord_has_been_stripped_of_all_reg4herhis_properties_and_has_fled_for_reg4herhis_life_he_is_rumored_to_have_gone_into_exile_s11|{s6}의 명령에 따라, {s5} 소속의 {s4} 영주가 반역죄로 기소되었습니다. 해당 영주는 모든 재산을 몰수당한 채 도주했으며, {s11}(으)로 망명했다는 소문이 돌고 있습니다.
+str_local_notables_from_s1_a_village_claimed_by_the_s4_have_been_mistreated_by_their_overlords_from_the_s3_and_petition_s5_for_protection|{s4}의 소유인 {s1} 마을의 유력자들이 {s3} 영주들의 학대에 견디다 못해 {s5}에게 보호를 요청하며 탄원서를 제출했습니다.
+str_villagers_from_s1_stole_some_cattle_from_s2| {s1} 주민들이 {s2} 마을에서 소를 몇 마리 훔쳤습니다.
+str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|{s1} 주민들이 마을 총각을 결혼시키기 위해 {s2} 마을의 명문가 아가씨를 유괴했습니다.
+str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|{s1} 마을 주민들이 수로 사용 문제로 싸우다 {s2} 마을 농부 몇 명을 살해했습니다.
+str_your_new_minister_|새 재상:
 str_s10_is_your_new_minister_and_|{s10} 이 당신의 새로운 재상이고 
-str_due_to_the_loss_of_s10_your_court_has_been_relocated_to_s11|당신이 {s10}을(를) 잃은 후, 당신의 궁정은 {s11}으(로) 이동했습니다.
+str_due_to_the_loss_of_s10_your_court_has_been_relocated_to_s11|{s10}을(를) 잃은 탓에 당신의 궁정은 {s11}으(로) 이전했습니다.
 str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|{s10}을(를) 잃은 후, 당신의 충성스러운 봉신인 {s9}이(가) 당신의 궁정을 {s11}에 초대했습니다
 str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|{s11}을 잃은 후, 당신의 궁정은 어디에도 갈 곳이 없습니다.
-str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8}는 {s9}의 영주들이 {s10}에 있는 대연회장에서 열릴 연회에 모일 것이라는 사실을 알리기 원했고, 당신을 이 고귀한 모임에 참석하도록 초대하였습니다.
-str_consult_with_s11_at_your_court_in_s12|{s12}의 당신 궁정에서 {s11}와(과) 상의해 봅시다.
-str_as_brief_as_our_separation_has_been_the_longing_in_my_heart_to_see_you_has_made_it_seem_as_many_years|우리의 이별이 짧았지만, 당신을 보고 싶은 내 마음은 그 시간이 몇 년처럼 느껴졌어요.
-str_although_it_has_only_been_a_short_time_since_your_departure_but_i_would_be_most_pleased_to_see_you_again|당신이 떠난 뒤 얼마 지나지 않았지만, 다시 볼 수 있다면 너무 기쁠 것 같아요.
-str_although_i_have_received_no_word_from_you_for_quite_some_time_i_am_sure_that_you_must_have_been_very_busy_and_that_your_failure_to_come_see_me_in_no_way_indicates_that_your_attentions_to_me_were_insincere_|당신으로부터 연락이 끊긴지 시간이 조금 흘렀지만, 당신이 매우 바빴고 저를 만나러 오지 못한 것은 결코 나에 대한 관심이 진실하지 않기 때문은 아니라는 것을 확신해요.
-str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_during_our_long_separation_|우리의 오래 떨어져 있는 동안, 당신은 신사와 같이 처신했으리라 믿어요.
-str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|당신이 온지 많은 날이 지났지만, 당신이 너무 보고 싶어요.
-str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me|당신이 내 {s11}인 {s16}의 허락을 받아야 하겠지만, 저를 만나러 오는 것을 막으리라 생각하진 않아요.
-str__you_should_first_ask_her_s11_s16s_permission|. 당신은 먼저 그녀의 {s11} {s16} 허락을 받아야 합니다.
-str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected|아아~, 알다시피 나의 {s11} {s16}는 당신을 만나는 걸 허락하지 않을 거에요. 그래도 당신이 들키지 않고 들어올 방법을 준비할 것이라 믿어요.
-str__as_my_s11_s16_has_already_granted_permission_for_you_to_see_me_i_shall_expect_your_imminent_arrival| 나의 {s11} {s16}가 이미 당신과의 만남을 허락했기 때문에, 당신이 빠른 시간 내에 오실 거라고 믿어요.
-str_visit_s3_who_was_last_at_s4s18|{s4}{s18}에 마지막으로 만난 {s3}을 방문합니다.
-str_the_guards_at_the_gate_have_been_ordered_to_allow_you_through_you_might_be_imagining_things_but_you_think_one_of_them_may_have_given_you_a_wink|문 앞의 근위병들은 당신을 통과시키도록 지시받았습니다. 당신의 상상이겠지만, 근위병 중의 한 명이 당신에게 윙크하는 것처럼 느껴졌습니다.
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_don_this_dress_and_throw_the_hood_over_your_face_i_will_smuggle_you_inside_the_castle_to_meet_her_in_the_guise_of_a_skullery_maid__the_guards_will_not_look_too_carefully_but_i_beg_you_for_all_of_our_sakes_be_discrete|근위병이 당신을 노려보고 있어 들어가기 위해서는 허락을 받아야 한다는 것을 알 수 있었습니다. 그런데, 당신이 숙소로 돌아가는 와중에 검은 옷을 입은 노파가 당신에게 다가왔습니다. "저는 {s11}의 시종입니다." 그녀가 절박하게 속삭였습니다. '이 드레스를 입고 얼굴을 후드로 덮으세요. 저는 당신이 그녀를 만날 수 있게 주방 하녀의 복장으로 성 안에 데려가겠습니다. 근위병들이 세심하게 살피진 않을 겁니다. 그래도 부탁인데 조심해주셔야 합니다!
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|근위병이 당신을 노려보고 있어 들어가기 위해서는 허락을 받아야 한다는 것을 알 수 있었습니다. 그런데, 당신이 숙소로 돌아가는 와중에 검은 옷을 입은 노파가 당신에게 다가왔습니다. "저는 {s11}의 시종입니다." 그녀가 절박하게 속삭였습니다. '성벽 밖의 분수대 옆에서 잠시만 기다리세요. 제가 아가씨에게 양치기 옷을 입혀 모시고 나오겠습니다. 그래도 부탁인데 조심해주셔야 합니다!
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|근위병이 당신을 노려보고 있어 들어가기 위해서는 허락을 받아야 한다는 것을 알 수 있었습니다. 그런데, 당신이 숙소로 돌아가는 와중에 검은 옷을 입은 노파가 당신에게 다가왔습니다. "저는 {s11}의 시종입니다." 그녀가 절박하게 속삭였습니다. '아가씨가 저에게 당신을 그리워한다는 말을 전하라고 하셨습니다. 하지만 당신은 참으셔야 해요. 만난 지 얼마 안돼 다시 비밀스러운 만남을 가지는 것은 너무 위험하다고 말씀하셨어요
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter|근위병이 당신을 노려보고 있어 들어가기 위해서는 허락을 받아야 한다는 것을 알 수 있었습니다.
+str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8} 영주가 알려오길, {s9}의 영주들이 {s10}에 있는 자신의 대연회장에 모여 연회를 열 예정이며 당신도 이 고귀한 모임에 참석해 주기를 바란다며 초대하였습니다.
+str_consult_with_s11_at_your_court_in_s12|{s12}에 있는 당신의 궁정에서 {s11}와(과) 상의해 봅시다.
+str_as_brief_as_our_separation_has_been_the_longing_in_my_heart_to_see_you_has_made_it_seem_as_many_years|우리가 떨어진 시간은 짧았으나, 당신을 보고픈 내 마음속 그리움은 마치 수년이 흐른 듯 깊었답니다.
+str_although_it_has_only_been_a_short_time_since_your_departure_but_i_would_be_most_pleased_to_see_you_again|당신이 떠난 지 얼마 되지 않았지만, 다시 당신을 뵙게 되어 더할 나위 없이 기쁘군요.
+str_although_i_have_received_no_word_from_you_for_quite_some_time_i_am_sure_that_you_must_have_been_very_busy_and_that_your_failure_to_come_see_me_in_no_way_indicates_that_your_attentions_to_me_were_insincere_|한동안 연락이 닿지 않았으나, 당신이 몹시 바쁘셨으리라 믿고 있어요. 저를 보러 오지 못한 것이 결코 저를 향한 마음이 식었기 때문은 아닐 것이라고요.
+str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_during_our_long_separation_|우리가 오랫동안 떨어져 있는 동안에도 당신이 신사답게 처신하셨으리라 믿어 의심치 않아요.
+str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|당신이 다녀간 지 꽤 오래되었군요. 다시 당신을 뵙기를 간절히 바라고 있었답니다.
+str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me| 내 {s11}인 {s16}의 허락을 구해야 하겠지만, 그가 당신이 나를 보러 오는 것을 막지는 않을 거예요.
+str__you_should_first_ask_her_s11_s16s_permission|. 당신은 먼저 그녀의 {s11}인 {s16} 허락을 받아야 합니다.
+str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected| 아아, 아시다시피 나의 {s11}인 {s16}께서 우리 사이를 허락하지 않으시겠지요. 하지만 들키지 않고 들어오실 수 있도록 제가 손을 써보겠습니다.
+str__as_my_s11_s16_has_already_granted_permission_for_you_to_see_me_i_shall_expect_your_imminent_arrival| 나의 {s11}인 {s16}께서 이미 당신과의 만남을 허락하셨으니, 당신이 곧 도착하시기만을 기다리고 있겠어요.
+str_visit_s3_who_was_last_at_s4s18|{s4}{s18}에 마지막으로 만난 {s3}을(를) 방문합니다.
+str_the_guards_at_the_gate_have_been_ordered_to_allow_you_through_you_might_be_imagining_things_but_you_think_one_of_them_may_have_given_you_a_wink|성문의 경비병들은 당신을 통과시키라는 명령을 받았습니다. 기분 탓일지도 모르겠으나, 그중 한 명이 당신에게 가볍게 윙크를 보낸 것 같습니다.
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_don_this_dress_and_throw_the_hood_over_your_face_i_will_smuggle_you_inside_the_castle_to_meet_her_in_the_guise_of_a_skullery_maid__the_guards_will_not_look_too_carefully_but_i_beg_you_for_all_of_our_sakes_be_discrete|경비병들이 당신을 매섭게 노려보고 있습니다. 당신은 감히 안으로 들여보내 달라고 청할 분위기가 아닌 것을 직감하고 돌아섭니다. 하지만 숙소로 돌아가는 길에 검은 옷을 입은 노파가 다가옵니다. "저는 {s11} 님의 유모입니다." 그녀가 다급히 속삭입니다. "이 옷을 입고 후드로 얼굴을 가리세요. 주방 하녀로 변장시켜 성안으로 몰래 들여보내 드리겠습니다. 경비들이 자세히 살피지는 않겠지만, 모두를 위해 부디 신중히 행동해 주셔야 합니다!"
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|경비병들이 당신을 매섭게 노려보고 있습니다. 당신은 감히 안으로 들여보내 달라고 청할 분위기가 아닌 것을 직감하고 돌아섭니다. 하지만 숙소로 돌아가는 길에 검은 옷을 입은 노파가 다가옵니다. "저는 {s11} 님의 유모입니다." 그녀가 다급히 속삭입니다. "성벽 밖 샘터에서 잠시 기다리십시오. 아가씨를 양치기 처녀로 변장시켜 몰래 데리고 나오겠습니다. 모두를 위해 부디 신중히 행동해 주셔야 합니다!"
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|경비병들이 당신을 매섭게 노려보고 있습니다. 당신은 감히 안으로 들여보내 달라고 청할 분위기가 아닌 것을 직감하고 돌아섭니다. 하지만 숙소로 돌아가는 길에 검은 옷을 입은 노파가 다가옵니다. "저는 {s11} 님의 유모입니다." 그녀가 다급히 속삭입니다. "아가씨께서 당신을 간절히 보고 싶어 하시지만, 지금은 때를 기다려야 한다고 전하라 하셨습니다. 지난 만남이 있은 지 얼마 되지 않아 또 밀회를 갖는 것은 너무 위험하다고 하시는군요."
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter|경비병들이 당신을 매섭게 노려보는 탓에, 당신은 감히 출입 허가를 요청하지 못하고 돌아섭니다.
 str_party_with_commander_mismatch__check_log_for_details_|부대와 지휘관이 불일치 - 자세한 사항은 로그를 확인하십시오.
 str_doing_political_calculations_for_s9|{s9}은(는) 정치적 계산을 수행 중
 str_current_wealth_reg1|현재 재산: {reg1}
-str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|이상하군요. 그는 보통의 골칫거리처럼 보이지 않았어요. 그는 술도 그렇게 많이 마시지 않았구요 -- 그는 단지 거기 서서 조용히 문만 쳐다 봤다. 당신은 당신이 이 도시에 있다는 걸 아는 당신의 적일지도 모른다 생각했는지도 모르겠군요. 하필이면 내 술집에서 피를 보다니...
-str_you_never_let_him_draw_his_weapon_still_it_looked_like_he_was_going_to_kill_you_take_his_sword_and_purse_i_suppose_he_was_trouble_but_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|그가 무기도 뽑지 못하게 했군요. 그렇다 해도 그가 당신을 죽이려 했던 것처럼 보였어요. 그의 칼과 지갑은 당신이 가지는 게 좋겠어요. 그는 골칫거리였지만, 이 곳이 사람이 죽은 곳이라고 이름붙여지는 건 달갑지 않군요.
-str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|이런, 그가 먼저 당신을 공격했군요. 제 생각에 저 칼과 지갑은 당신이 가지는 게 좋겠어요. 전 당신이 단골 손님 두엇이 머리가 깨질 뻔한 걸 막았다고 생각해요. 이리와서 한잔 해요. 그가 아직 숨을 쉬었으면 좋겠는데. 이 곳이 사람이 죽은 곳이라고 이름 붙여지는 건 좋지 않아요.
+str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|이상하군요. 그는 보통의 뜨내기같이 보이지 않았어요. 술도 그렇게 많이 마시지 않았구요. 그는 단지 거기 서서 조용히 문만 주시하고 있었어요. 당신이 이 도시에 있다는 걸 아는 적이 있는지 한번 생각해보시는 게 좋겠어요. 하필이면 내 술집에서 피를 보다니...
+str_you_never_let_him_draw_his_weapon_still_it_looked_like_he_was_going_to_kill_you_take_his_sword_and_purse_i_suppose_he_was_trouble_but_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|그가 무기도 뽑기도 전에 제압하셨군요... 하지만 그는 분명 당신을 죽이려 했던 것처럼 보였어요. 그의 칼과 지갑은 당신이 가지는 게 좋겠어요. 그가 골칫거리이긴 했지만, 우리 가게가 사람이 죽어나가는 곳으로 소문나지는 않았으면 좋겠군요.
+str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|이런... 그자가 먼저 시비를 걸었으니 그자의 검과 주머니는 당신이 가지는 게 좋겠어요. 손님 한두 명의 머리가 깨질 뻔한 걸 막아주셨으니 술은 내가 대접하죠. 그가 아직 숨은 붙어있으면 좋겠네요, 사람이 죽은 곳이라는 소문이 나면 장사에 좋을 게 없으니 말이에요.
 str_stop_no_shooting_no_shooting|멈춰요! 쏘지 마세요! 쏘지 말아요!
-str_em_ill_stay_out_of_this|흠... 나는 이 곳에서 벗어나 있겠소.
-str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_summons_and_many_are_ripe_to_defect| {s12}은(는) 경쟁과 원한이 미로처럼 꼬여 있소. 영주들은 그들의 주군의 소집을 무시하고, 많은 영주들이 왕국을 떠날 적합한 시기라 생각하고 있소.
-str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_defect_to_a_liege_that_they_consider_more_worthy| {s12}은(는) 휘청거리고 있소. 많은 영주들은 서로 협력하지 않으며, 일부는 그들이 더 가치있게 여겨지기 위해 군주를 잘못된 길로 가도록 부추기고 있소.
-str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_tend_to_stand_together_against_outside_enemies| {s12}은(는) 정치적으로 상당히 견고하오. 몇몇 영주들이 서로에게 적대감을 품고 있지만, 그들은 외부의 적에 대항하여 결속하는 경향이 있소.
-str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe| {s12}은(는) 정치적으로 말하면 안정적인 바위 같소. 무슨 일이 있어도 영주들은 서로를 생각할 것이고, 그들은 하나의 공통된 적에 대항하여 싸울 것이오.
+str_em_ill_stay_out_of_this|흠... 나는 이 일에서 빠지겠어요.
+str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_summons_and_many_are_ripe_to_defect| {s12}은(는) 경쟁과 원한이 복잡하게 얽힌 미로와 같소. 영주들은 주군의 소집을 무시하기 일쑤이며, 많은 이들이 배반할 기회만 엿보고 있소.
+str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_defect_to_a_liege_that_they_consider_more_worthy| {s12}의 정세가 위태롭소. 영주들은 서로 협력하지 않으며, 일부는 자신들을 더 높게 평가해 줄 군주에게 투항하려 할 것이오.
+str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_tend_to_stand_together_against_outside_enemies| {s12}은(는) 꽤 견고한 편이오. 영주들 사이에 개인적인 원한은 있을지언정, 외적 앞에서는 함께 맞서는 경향이 있소.
+str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe| 정치적으로 보자면 {s12}은(는) 바위처럼 단단하오. 영주들이 서로를 어떻게 생각하든 간에, 공동의 적을 상대로는 하나가 되어 싸울 것이오.
 str_tribune_s12|호민관 {s12}
 str_lady_s12|레이디 {s12}
 str_lord_s12|영주 {s12}
-str_resolve_the_dispute_between_s11_and_s12|{s11}와(과) {s12} 사이의 논쟁을 해결하시오.
-str_in_doing_so_you_will_be_in_violation_of_your_truce_is_that_what_you_want|그렇게 한다면, 당신은 당신의 휴전 협정을 위반하는 것이오. 그것이 당신이 원하는 것이오?
-str_if_you_attack_without_provocation_some_of_your_vassals_may_consider_you_to_be_too_warlike_is_that_what_you_want|만약 당신이 도발이 없음에도 공격을 하려 한다면, 당신의 봉신들 중 일부는 당신이 너무 호전적이라고 생각할 것이오. 그걸 원하오?
-str_our_men_are_ready_to_ride_forth_at_your_bidding_are_you_sure_this_is_what_you_want|우리의 병력들은 당신의 명령으로 앞으로 나갈 준비가 되어 있소... 당신이 원하는 게 이것이 확실하오?
+str_resolve_the_dispute_between_s11_and_s12|{s11}와(과) {s12} 사이의 분쟁을 해결하시오.
+str_in_doing_so_you_will_be_in_violation_of_your_truce_is_that_what_you_want|그리한다면 휴전 협정을 위반하게 될 것이오. 정말로 그것을 원하오?
+str_if_you_attack_without_provocation_some_of_your_vassals_may_consider_you_to_be_too_warlike_is_that_what_you_want|별다른 도발도 없는데 공격을 하려 한다면, 일부 봉신들이 당신을 너무 호전적이라 여길 것이오. 그래도 괜찮겠소?
+str_our_men_are_ready_to_ride_forth_at_your_bidding_are_you_sure_this_is_what_you_want|군사들이 당신의 명에 따라 출정할 준비를 마쳤소. 정말로 이것이 당신이 원하는 바요?
 str_seek_recognition|인정을 요구
 str_seek_vassalhood|봉신이 되고자하는 요청을
 str_seek_a_truce|휴전협상을 진행
