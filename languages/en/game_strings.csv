@@ -2220,31 +2220,31 @@ str_woman|여자
 str_man|남자
 str_noble|귀족
 str_common|평민
-str_may_find_that_you_are_able_to_take_your_place_among_calradias_great_lords_relatively_quickly|아마 당신은 이 땅의 다른 영주들보다 비교적 빨리 당신의 위치를 차지할 것입니다
-str_may_face_some_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|아마 당신이 위대한 영주들 사이에서 동등하게 서기 위해선 어느 정도 어려움에 직면할 것입니다
-str_may_face_great_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|아마 당신이 위대한 영주들 사이에서 동등하게 서기 위해선 큰 어려움에 직면할 것입니다
-str_current_party_morale_is_reg5_current_party_morale_modifiers_are__base_morale__50_party_size_s2reg1_leadership_s3reg2_food_variety_s4reg3s5s6_recent_events_s7reg4_total__reg5___|현재 부대 사기: {reg5}.^^부대 사기 세부내용:^^기본 사기:  +{reg8}^부대 크기에 따른 페널티: {s2}{reg1}^휴식 부족: {s3}{reg2}^다양한 식량: {s4}{reg3}{s5}{s6}^최근에 일어난 사건의 영향: {s7}{reg4}^{s13}^^{s19}^^최종:  {reg5}^^^
+str_may_find_that_you_are_able_to_take_your_place_among_calradias_great_lords_relatively_quickly|당신은 이 땅의 다른 위대한 영주들 사이에서 비교적 빨리 입지를 다질 수 있을 것이오.
+str_may_face_some_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|당신이 위대한 영주들 사이에서 동등한 위치를 인정받는 데 다소 어려움을 겪을 수 있소.
+str_may_face_great_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|당신은 위대한 영주들 사이에서 동등한 위치를 인정받는 데 큰 어려움을 겪게 될 것이오.
+str_current_party_morale_is_reg5_current_party_morale_modifiers_are__base_morale__50_party_size_s2reg1_leadership_s3reg2_food_variety_s4reg3s5s6_recent_events_s7reg4_total__reg5___|현재 부대 사기: {reg5}.^^부대 사기 세부내용:^^기본 사기:  +{reg8}^부대 크기: {s2}{reg1}^지휘력: {s3}{reg2}^식량 다양성: {s4}{reg3}{s5}{s6}^최근 사건: {s7}{reg4}^{s13}^^{s19}^^총계:  {reg5}^^^
 str_s1extra_morale_for_s9_troops__reg6_|{s1} {s9} 군대에 대한 추가 사기 : {reg6}^
-str_courtships_in_progress_|진행 중인 구애 관계:^
+str_courtships_in_progress_|구애 진행 상황:^
 str_s1_s2_relation_reg3_last_visit_reg4_days_ago|{s1}^{s2}, 관계 {reg3}, {reg4}일 전 마지막 방문
 str_s1__poems_known|{s1}^^알고있는 시:
-str_s1_storming_the_castle_of_love_allegoric|{s1}^이네스와 디도의 이야기 (우화적)
-str_s1_kais_and_layali_tragic|{s1}^오르페우스의 비극적인 이야기 (비극적)
-str_s1_a_conversation_in_the_garden_comic|{s1}^아에소피카 (희극적)
+str_s1_storming_the_castle_of_love_allegoric|{s1}^아이네이스와 디도의 이야기 (우화적)
+str_s1_kais_and_layali_tragic|{s1}^오르페우스와 칼리오페 (비극적)
+str_s1_a_conversation_in_the_garden_comic|{s1}^이솝 우화, 정원에서의 대화 (희극적)
 str_s1_helgered_and_kara_epic|{s1}^베오울프 사가 (서사시적)
 str_s1_a_hearts_desire_mystic|{s1}^브란의 항해 (신비주의적)
 str_no_companions_in_service|동료가 없다.
-str_gathering_support|지지를 모으는 중
+str_gathering_support|지지 세력을 규합하는 중
 str_expected_back_imminently|금방 돌아올 것으로 예상
 str_expected_back_in_approximately_reg3_days|대략 {reg3}일 안에 돌아올 것으로 예상
 str_gathering_intelligence|정보 수집 중
-str_diplomatic_embassy_to_s9|{s9}에 외교 사절로
-str_serving_as_minister|재상 업무를 수행 중
-str_in_your_court_at_s9|{s9}의 당신 왕궁 안
+str_diplomatic_embassy_to_s9|{s9}(으)로 파견된 외교 사절
+str_serving_as_minister|재상으로 재임 중
+str_in_your_court_at_s9|{s9}에 있는 당신의 궁정에 머무는 중
 str_under_arms|전투 태세를 갖추고 있음
 str_in_your_party|당신의 부대 내
 str_attacking_enemy_army_near_s11|{s11} 근처 적 부대를 공격 중
-str_holding_feast_at_s11|{s11}의 연회에 참가 중
+str_holding_feast_at_s11|{s11}에서 열린 연회에 참석 중
 str_s9s10_current_state_s11_hours_at_current_state_reg3_current_strategic_thinking_s14_marshal_s12_since_the_last_offensive_ended_reg4_hours_since_the_decisive_event_reg10_hours_since_the_last_rest_reg9_hours_since_the_last_feast_ended_reg5_hours_percent_disgruntled_lords_reg7_percent_restless_lords_reg8__|{s9}{s10}^^현재 전략: {s11}^현재 전략 수립으로부터 지난 시간: {reg3}^^총사령관: {s12}^^마지막 공격으로부터 지난 시간: {reg4} 시간^마지막 사건으로부터 지난 시간: {reg10} 시간^마지막 18시간 이상의 휴식으로부터 지난 시간: {reg9} 시간^마지막 연회로부터 지난 시간: {reg5} 시간^^불만 있는 영주들의 비율: {reg7}%^불안해하는 영주들의 비율: {reg8}%^^
 str__right_to_rule_reg12|^정통성: {reg12}.
 str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|정치적 논거:^합법성: {reg3}^영주들의 권리: {reg4}^통일/평화: {reg5}^백성들의 권리: {reg6}^영지 약속: {reg7}

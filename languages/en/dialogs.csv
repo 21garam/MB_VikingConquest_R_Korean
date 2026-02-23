@@ -4324,11 +4324,11 @@ dlga_start:minstrel_1|안녕하시오, {reg59?부인:경}.
 dlga_minstrel_1:minstrel_job_description|당신은 무엇을 하는 사람이오?
 dlga_minstrel_1:minstrel_courtship_questions|나는 이 땅에서의 구혼과 관습에 대해 물어볼 것이 있소.
 dlga_minstrel_1:minstrel_courtship_poem|나에게 시를 가르쳐 줄 수 있겠소?
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|내가 가르쳐줄 수 있는 건 '이네스와 디도의 이야기'요, 이 시는 상징과 비유로 가득 차 있지. 어떻겠소, 한 번 배워보시겠소?
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|내가 가르쳐줄 수 있는 건 '아이네이스와 디도의 이야기'요, 이 시는 상징과 비유로 가득 차 있지. 어떻겠소, 한 번 배워보시겠소?
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|내가 가르쳐줄 수 있는 건 '브란의 항해'요. 이 시는 성적으로든 예언적으로든 해석할 수 있는 시요. 어떻겠소, 한 번 배워보시겠소?
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|내가 가르쳐줄 수 있는 건 '오르페우스의 비극적인 이야기'요, 이 시는 단순하지만 듣는 사람의 마음을 슬픔으로 가득 채울 수 있는 시요. 어떻겠소, 한 번 배워보시겠소?
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|내가 가르쳐줄 수 있는 건 '오르페우스와 칼리오페'요, 이 시는 단순하지만 듣는 사람의 마음을 슬픔으로 가득 채울 수 있는 시요. 어떻겠소, 한 번 배워보시겠소?
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.3|내가 가르쳐줄 수 있는 건 '베오울프 사가'요. 이 시는 영웅적인 이야기를 담고 있고, 선혈적인 내용와 전투로 가득 차 있지. 어떻겠소, 한 번 배워보시겠소?
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.4|내가 가르쳐줄 수 있는 건 '아에소피카'요. 이 시는 우아한 사랑의 관습을 풍자한 희극적인 시요. 어떻겠소, 한 번 배워보시겠소?
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.4|내가 가르쳐줄 수 있는 건 '이솝 우화, 정원에서의 대화'요. 이 시는 우아한 사랑의 관습을 풍자한 희극적인 시요. 어떻겠소, 한 번 배워보시겠소?
 dlga_minstrel_courtship_poem_teach:minstrel_courtship_poem_teach_2|그리고 당신을 가르치기 위해서는 약간의 시간이 필요할 것 같소 -- 그리고 물론, 약간의 강습료도 받아야겠지. 나에게 300 페닝만 주시오. 그러면 당신에게 시를 가르쳐 주겠소.
 dlga_minstrel_courtship_poem:minstrel_pretalk|나는 내가 가르쳐줄 수 있는 시들을 이미 당신이 알고 있다고 생각하오.
 dlga_minstrel_courtship_poem_teach_2:minstrel_courtship_poem_teach_3|좋소. -- 나에게 시를 가르쳐 주시오.
