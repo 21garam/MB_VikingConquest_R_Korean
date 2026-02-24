@@ -2324,198 +2324,198 @@ str__promised_fief| (약속된 영지)
 str_no_fiefss12|(영지 없음){s12}
 str_fiefs_s0s12|(영지: {s0}{s12})
 str_please_s65_|{s65} 부탁합니다.
-str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us| {s15} 역시 여기에 잡혀 있소. 아마 당신은 {reg4?그녀:그}가 우리들에게 합류하는 것을 보고 싶지 않소?
-str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|한 가지 우리에게 우호적인 것은 {s12}의 지배력이 매우 흔들리고 있다는 것이오. 그의 통치는 경쟁과 원한의 미로로 가득 차 있소. 영주는 종종 협력에 실패하고, 그리고 많은 수가 더 나은 주군을 찾고 있소.
-str_thankfully_s12s_grip_is_fairly_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_seek_a_better_liege|다행히도, {s12}의 지배력은 상당히 흔들리고 있소. 많은 영주들이 서로 협력하지 않고 있고, 그리고 일부는 더 나은 주군을 찾으라는 유혹을 받고 있을 지도 모르오.
-str_unfortunately_s12s_grip_is_fairly_strong_until_we_can_shake_it_we_may_have_to_look_long_and_hard_for_allies|불행하게도, {s12}의 지배력은 상당히 강하오. 우리가 그 것을 흔들리게 하기 위해서는 오랫동안 열심히 동맹을 찾아야 할 것이오.
-str_unfortunately_s12s_grip_is_very_strong_unless_we_can_loosen_it_it_may_be_difficult_to_find_allies|불행하게도, {s12}의 지배력은 매우 강하오. 우리가 그 것을 느슨하게 할 수 있지 않는 한, 동맹을 찾는 것은 힘들 것이오.
+str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us| {s15} 역시 여기에 잡혀 있소. {reg4?그녀:그}가 우리와 함께할지 한번 확인해보시는 게 어떻겠소?
+str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|한 가지 우리에게 유리한 것은 {s12}의 지배력이 크게 흔들리고 있다는 것이오. 그의 통치는 원한과 경쟁의 미로 속에 갇혀 길을 잃었소. 영주들은 협력을 거부하기 일쑤이고, 많은 이들이 더 나은 군주를 찾아 떠나고 싶어 하오.
+str_thankfully_s12s_grip_is_fairly_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_seek_a_better_liege|다행히도 {s12}의 지배력은 상당히 흔들리고 있소. 많은 영주들이 서로 협력하지 않으며, 일부는 더 나은 군주를 찾아가고픈 유혹을 느끼고 있을 것이오.
+str_unfortunately_s12s_grip_is_fairly_strong_until_we_can_shake_it_we_may_have_to_look_long_and_hard_for_allies|안타깝지만 {s12}의 지배력은 꽤 확고하오. 그 기반을 흔들 수 있을 때까지 우리는 끈기 있게 동맹을 찾아야 할 것이오.
+str_unfortunately_s12s_grip_is_very_strong_unless_we_can_loosen_it_it_may_be_difficult_to_find_allies|유감스럽지만 {s12}의 지배력은 매우 강력하오. 우리가 그 세력을 약화시키지 못한다면 새로운 아군을 포섭하는 일도 쉽지 않을 것이오.
 str_playername_come_to_plague_me_some_more_have_you|{playername}... 당신은 얼마나 날 더 괴롭힐 생각이오?
-str_ah_it_is_you_again|아. 당신이로군...
-str_well_playername|흠, {playername}
+str_ah_it_is_you_again|아, 또 당신이로군...
+str_well_playername|오, {playername} 아니신가.
 str_flagon_of_mead|벌꿀주 한 단지
-str_skin_of_kumis|말젖술 한잔
-str_mug_of_kvass|호밀 맥주 한잔
-str_cup_of_wine|와인 한잔
-str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|당신은 강제적으로 모욕을 철회하게 하기 위해 {s13}에게 도전할 작정이다.
-str_youll_have_to_speak_to_me_at_some_other_time_then|다음에 나에게 말해 주었으면 하는데, 그럼.
-str_this_is_no_time_for_words|지금은 말할때가 아니오!
-str_of_course_my_wife|물론, 나의 아내.
-str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|아닐지도 모르지만. 우리의 결혼이 조금은 강요된 것이죠, 당신은 어떻게 생각하나요?
-str_why_is_that_my_wife_actually_our_marriage_has_become_such_that_i_prefer_to_have_a_witness_for_all_of_our_converations|나의 부인, 왜 그러시오? 사실, 우리의 모든 것이 결합한 것을 증명하는 데 결혼보다 더 좋은 것은 없다오.
-str_all_right_then_what_do_you_have_to_say_out_with_it|좋소 그럼. 무슨 말이 하고 싶소? 한 번 말해 보시오.
-str_bah__im_in_no_mood_for_whispering_in_the_corner|쳇 -- 나는 구석에서 속삭이는 건 내키지 않소.
-str_bah_i_dont_like_you_that_much_im_not_going_to_go_plot_with_you_in_some_corner|흥. 나는 당신을 별로 좋아하지 않소. 나는 당신과 구석에서 음모를 꾸미지는 않을 것이오.
-str_well__now_what_do_you_have_to_propose|흠 -- 지금 어떤 제안을 하고 싶소?
-str_trying_our_hand_at_intrigue_are_we_i_think_not|우리가 음모에 손을 댄다고, 우리가? 나는 그렇게 생각지 않소
-str_hah_i_trust_you_as_a_i_would_a_serpent_i_think_not|하! 나는 당신이 나처럼 교활한 사람이 되지 않을 거라고 믿고 있소.
-str_i_do_not_like_to_conduct_my_business_in_the_shadows_but_sometimes_it_must_be_done_what_do_you_have_to_say|나는 내일을 어둠 속에서 처리하는걸 좋아하지 않지만, 가끔은 그렇게 해야 되오. 무슨 말이 하고 싶소?
-str_i_would_prefer_to_conduct_our_affairs_out_in_the_open|나는 공개된 곳에서 대화하는 것을 좋아하오.
-str_do_not_take_this_amiss_but_with_you_i_would_prefer_to_conduct_our_affairs_out_in_the_open|기분나쁘게 생각하지는 마시오, 그러나 나는 당신과 우리의 일을 공개된 곳에서 처리하는 것을 더 좋아하오.
-str_hmm_you_have_piqued_my_interest_what_do_you_have_to_say|흠. 당신이 나의 호기심을 자극시켰소. 무슨 말을 하고 싶소?
-str_em_lets_keep_our_affairs_out_in_the_open_for_the_time_being|음... 당분간, 우리의 일은 공개된 곳에서 하도록 하는 게 좋을 것 같소.
-str_thats_sensible__the_world_is_full_of_churls_who_poke_their_noses_into_their_betters_business_now_tell_me_what_it_is_that_you_have_to_say|그것은 현명한 것이오 -- 세상은 그들에게 더 좋은 사업을 위해 코를 들이미는 막되먹은 놈들로 가득차 있지. 당신이 하려는 말을 지금 말해보시오.
-str_what_do_you_take_me_for_a_plotter|당신은 뭘 꾸밀려고 하오? 음모?
-str_well_i_normally_like_to_keep_things_out_in_the_open_but_im_sure_someone_like_you_would_not_want_to_talk_in_private_unless_heshe_had_a_good_reason_what_is_it|흠, 나는 보통 공개적인 대화를 좋아하지만, 당신같은 사람은 충분한 이유가 없는 한 사적으로 이야기하는 것을 원하지 않을거라 확신하오. 무엇이오?
-str_surely_we_can_discuss_whatever_you_want_to_discuss_out_here_in_the_open_cant_we|확실히 우리는 대화할 수 있지만, 이렇게 공개된 곳에서 대화하기를 원하오? 나는 당신이 그것을 원치 않을 거라고 생각하오.
-str_im_a_simple__man_not_one_for_intrigue_but_id_guess_that_you_have_something_worthwhile_to_say_what_is_it|나는 음모 같은 건 꾸밀 줄 모르는 단순한 사람이오, 그러나 내가 추측건데 당신은 뭔가 할만한 가치가 있는 말을 가지고 있군. 무엇이오?
-str_forgive_me_but_im_not_one_for_going_off_in_corners_to_plot|미안하지만, 음모를 꾸미기 위해 구석으로 갈 수는 없소.
-str_please_do_not_take_this_amiss_but_i_do_not_trust_you|기분 나쁘게 생각하지는 마시오, 그러나 나는 당신을 믿을 수 없소.
-str_certainly_playername_what_is_it|물론이지, {playername}. 무엇인가?
-str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|미안하오, 그러나 나는 우리의 대화가 좀 더 공개된 장소에서 이루어지길 원하오.
-str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|기분 나쁘게 생각하지는 마시오, 그러나 나는 당신과 내가 아직까지 친한 사이라고 확신할 수 없소.
-str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|정말이오? 글쎄, 그건 또 처음 듣는 소리인 것 같소. 만약 그대의 그 주장을 뒷받침해 줄 이들을 찾지 않는다면, 당신과 동맹을 이룰 자를 찾는 것도 쉬운 일이 아닐 것이오. 허나 언제라도 당신이 여왕으로서 세상에 공표할 생각이 있다면, 내 그대의 동행이 되는 영광을 누릴수 있도록 해 주시오.
-str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|그래... 내 그 이야기를 어디선가 들어 보았소. 그대가 지금 지지자를 찾고 있다는 게 좋긴 하나, 아직은 자신을 여왕으로서 공표할 시기가 아닌 것 같소. 허나, 결정권은 그대에게 두리니, 결정을 하신다면, 나에게 그대의 동행이 되는 영광을 누릴수 있도록 해 주시오.
-str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|그래... 이 땅의 많은 사람들도 당신과 같은 생각을 할 것이오. 어쩌면 이제 그대를 일국의 여왕으로서 공표하고, 왕권의 기반을 위해 움직일 시기일지도 모르겠소. 그대와 동행할 기회가 생긴다면 나에게 큰 영광일 것이오.
-str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|나는 나의 주인 {s15}의 동료에 대한 선택에 걱정스럽소.
-str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|흠, 솔직해져 보겠소. 나는 가끔 {s15}이(가) 나의 권리를 무시하고, 보호할 가치가 없는 것들을 보호하려고 하는 것처럼 느끼고 있소.
-str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards_in_his_court|쳇. 한 가지 내가 {s15}에 대해 말하려는 것은 그는 그의 법정에 사생아의 무리들을 한 번에 처리했지.
-str_well_sometimes_i_have_to_say_that_i_question_s15s_judgment_regarding_those_who_he_keeps_in_his_court|좋소, 가끔 나는 {s15}의 궁정에서 그가 고수하는 결정에 관해서 의문들이 있소.
-str_s15_is_a_weak_man_who_too_easily_lends_his_ear_to_evil_council_and_gives_his_protection_to_some_who_have_done_me_wrong|{s15}은(는) 너무 쉽게 사악한 무리에게 그의 귀를 내어 주는 약한 사람이야, 그리고 잘못한 이들도 그는 보호를 하지.
-str_i_will_confess_that_sometimes_i_worry_about_s15s_judgment_particularly_in_the_matter_of_the_counsel_that_he_keeps|나는 가끔 {s15}의 편파적인 권고를 고수하는 결정에 대해 걱정하고 있다고 말할 수 밖에 없군...
-str_what_do_i_think_i_think_that_s15_is_a_vile_pretender_a_friend_to_the_flatterer_and_the_hypocrite|내가 어떻게 생각하냐고? {s15}는 아첨꾼에 위선자인 용납할 수 없는 사람이라 나는 생각하오.
-str_well_s15_is_not_like_you_ill_say_that_much|좋아, {s15}는 당신과 같지 않소. 나는 충분히 그렇게 말할 수 있소.
-str_s15_long_may_he_live|{s15}? {s15} 만세!!
-str_he_is_my_liege_that_is_all_that_i_will_say_on_this_matter|그는 나의 주군이오. 나는 이 문제에 대해서는 그것이 전부라고 말하고 싶소.
-str_that_you_are_the_rightful_heir_to_the_throne_of_calradia|당신이 왕좌의 정당한 상속자입니까?
-str_that_s14_is_the_rightful_ruler_of_calradia|{s14}는 이 땅의 정당한 통치자입니까?
-str_that_s14_will_rule_this_land_justly|{s14}은(는) 이 땅을 공정하게 통치할 것이라고?
-str_that_s14_will_protect_our_rights_as_nobles|{s14}은(는) 귀족으로서 우리의 권리를 보장할 것이라고?
-str_that_s14_will_unify_this_land_and_end_this_war|{s14}은(는) 이 전쟁을 끝내고 이 땅을 통합할 것이라고?
-str_that_s14_will_reward_me_with_a_fief|{s14}은(는) 영지로 나에게 보상할 것이라고?
+str_skin_of_kumis|말젖술 한 가죽 부대
+str_mug_of_kvass|호밀 맥주 한 잔
+str_cup_of_wine|와인 한 잔
+str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|당신은 모욕을 철회시키기 위해 {s13}에게 결투를 신청할 예정입니다.
+str_youll_have_to_speak_to_me_at_some_other_time_then|나중에 다시 이야기 하기로 합시다. 그럼 이만...
+str_this_is_no_time_for_words|지금은 말 섞을 때가 아니오!
+str_of_course_my_wife|물론이지요, 나의 부인.
+str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|괜한 걱정일수도 있겠지만, 결혼을 앞둔 우리 관계가 조금 소원해진 것 같지 않나요? 당신은 어떻게 생각하시나요?
+str_why_is_that_my_wife_actually_our_marriage_has_become_such_that_i_prefer_to_have_a_witness_for_all_of_our_converations|나의 부인, 왜 그러시오? 사실 요즘 우리 사이가 모든 대화에 증인이 필요할 정도로 서먹해진 것 같구려.
+str_all_right_then_what_do_you_have_to_say_out_with_it|알았소. 하고 싶은 말이 무엇이오? 어서 말해보시오.
+str_bah__im_in_no_mood_for_whispering_in_the_corner|하아... 구석에 박혀 속닥거릴 기분이 아니오.
+str_bah_i_dont_like_you_that_much_im_not_going_to_go_plot_with_you_in_some_corner|흥. 나는 당신이 별로 내키지 않소. 당신과 구석에서 음모나 꾸밀 생각은 없소.
+str_well__now_what_do_you_have_to_propose|그래... 무엇을 제안하려 하오?
+str_trying_our_hand_at_intrigue_are_we_i_think_not|함께 음모를 꾸미자고? 그럴 일은 없을 것이오.
+str_hah_i_trust_you_as_a_i_would_a_serpent_i_think_not|허! 당신 같은 교활한 자를 믿느니 차라리 뱀을 믿겠소. 거절하겠소.
+str_i_do_not_like_to_conduct_my_business_in_the_shadows_but_sometimes_it_must_be_done_what_do_you_have_to_say|어둠 속에 숨어 무언가를 도모하는 걸 즐기지는 않지만, 때로는 필요한 법이지. 무슨 말을 하려는 것이오?
+str_i_would_prefer_to_conduct_our_affairs_out_in_the_open|나는 공개적으로 일을 처리하는 것을 좋아하오. 비밀은 만들고 싶지 않소.
+str_do_not_take_this_amiss_but_with_you_i_would_prefer_to_conduct_our_affairs_out_in_the_open|기분나쁘게 생각하지는 마시오, 그러나 나는 당신과 공개된 곳에서 이야기하는 쪽이 마음 편하오.
+str_hmm_you_have_piqued_my_interest_what_do_you_have_to_say|흠, 당신이 나의 호기심을 자극시켰소. 무슨 말을 하려는 것이오?
+str_em_lets_keep_our_affairs_out_in_the_open_for_the_time_being|음... 당분간은 공개적인 장소에서 대화하는 게 좋겠소.
+str_thats_sensible__the_world_is_full_of_churls_who_poke_their_noses_into_their_betters_business_now_tell_me_what_it_is_that_you_have_to_say|현명한 판단이오. 세상은 잘 되어가는 남의 사업마다 주둥이를 들이미는 막되먹은 놈들로 가득차 있으니까. 자, 하고 싶은 말이 무엇이오?
+str_what_do_you_take_me_for_a_plotter|나를 어디로 끌고가려고 하는 것이오. 음모를 꾸미자는 것이오?
+str_well_i_normally_like_to_keep_things_out_in_the_open_but_im_sure_someone_like_you_would_not_want_to_talk_in_private_unless_heshe_had_a_good_reason_what_is_it|음... 나는 보통 공개적으로 일을 처리하는 것을 좋아하오만, 당신 같은 이가 굳이 은밀한 대화를 청할 때는 그만한 이유가 있겠지. 무엇이오?
+str_surely_we_can_discuss_whatever_you_want_to_discuss_out_here_in_the_open_cant_we|우리가 나눌 이야기는 여기서도 충분히 할 수 있지 않겠소? 꼭 숨어서 해야 할 말이 있소?
+str_im_a_simple__man_not_one_for_intrigue_but_id_guess_that_you_have_something_worthwhile_to_say_what_is_it|나는 음모 따위는 꾸밀 줄 모르는 단순한 사람이오만, 당신이 뭔가 가치 있는 정보를 가져온 모양이구려. 무엇이오?
+str_forgive_me_but_im_not_one_for_going_off_in_corners_to_plot|미안하오만, 나는 구석에 처박혀 음모나 꾸미는 부류가 아니오.
+str_please_do_not_take_this_amiss_but_i_do_not_trust_you|기분 나쁘게 생각하지는 마시오, 나는 당신을 믿지 않소.
+str_certainly_playername_what_is_it|물론이지, {playername}. 무슨 일이오?
+str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|미안하오만, 대화는 공개된 장소에서 나누고 싶구려.
+str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|기분 나쁘게 듣지는 마시오, 당신과 내가 그런 은밀한 이야기를 나눌 사이인지는 잘 모르겠구려.
+str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|정말이오? 음, 그건 또 처음 듣는 소리인 것 같소. 만약 그대의 그 주장을 뒷받침해 줄 이들을 찾지 않는다면, 당신과 동맹을 이룰 자를 찾는 것도 쉽지 않을 것이오. 하지만 당신이 스스로를 여왕이라 선포하기로 마음먹는다면, 나는 당신의 부군이 되는 영광을 기꺼이 받아들이겠소.
+str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|그래... 그런 소문을 들은 적이 있소. 지지 세력을 모으는 것은 좋으나, 아직 자신을 왕으로 선포하기엔 이른 것 같소. 하지만 판단은 당신의 몫이니, 결심이 선다면 나는 당신의 충실한 부군이 되는 영광을 누리겠소.
+str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|그렇소. 이 땅의 많은 이들도 그렇게 생각하고 있지. 이제 스스로를 일국의 왕으로 선포할 때가 된 것 같구려. 함께 진격하여 당신의 왕좌를 세우는 것을 돕겠소. 내가 당신의 부군이 된다면 참으로 영광일 것이오.
+str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|나의 주군 {s15}의 동료 선택이 무척 우려스럽소.
+str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|솔직히 말해, 가끔은 {s15}께서 나의 권리를 무시하고 자격 없는 자들에게 보호의 손길을 뻗는 것 같아 마음이 불편하오.
+str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards_in_his_court|쳇, {s15}에 대해 한마디 하자면, {reg15?그녀:그}의 궁정엔 질 나쁜 사생아 놈들이 아주 득실거린다는 점이지.
+str_well_sometimes_i_have_to_say_that_i_question_s15s_judgment_regarding_those_who_he_keeps_in_his_court|글쎄 말이오, 가끔은 {s15}께서 곁에 두는 인물들에 대한 안목이 의심스러울 때가 있소.
+str_s15_is_a_weak_man_who_too_easily_lends_his_ear_to_evil_council_and_gives_his_protection_to_some_who_have_done_me_wrong|{s15}은(는) 간신들의 감언이설에 너무 쉽게 휘둘리는 물렁한 통치자요. 게다가 나에게 해를 끼친 자들을 되레 보호해주고 있단 말이오.
+str_i_will_confess_that_sometimes_i_worry_about_s15s_judgment_particularly_in_the_matter_of_the_counsel_that_he_keeps|솔직히 고백하자면, 가끔 {s15}의 판단력, 특히 {reg15?그녀:그}가 곁에 두는 조언자들에 대해 걱정이 앞서오.
+str_what_do_i_think_i_think_that_s15_is_a_vile_pretender_a_friend_to_the_flatterer_and_the_hypocrite|어떻게 생각하냐고? {s15}은(는) 아첨꾼과 위선자들의 친구이자 추악한 찬탈자일 뿐이오.
+str_well_s15_is_not_like_you_ill_say_that_much|뭐, {s15}은(는) 당신과는 확실히 다르오. 그 말만은 해두지.
+str_s15_long_may_he_live|{reg15?여왕:국왕}폐하 만세!! 내가 {s15}님에 대해 할 말은 이것이오. 
+str_he_is_my_liege_that_is_all_that_i_will_say_on_this_matter|{s15}님은 나의 주군이오. 이 문제에 대해서는 그 이상 말하지 않겠소.
+str_that_you_are_the_rightful_heir_to_the_throne_of_calradia|당신이 왕좌의 정당한 후계자라는 사실 말이오?
+str_that_s14_is_the_rightful_ruler_of_calradia|{s14}(이)가 이 땅의 정당한 통치자라는 사실 말이오?
+str_that_s14_will_rule_this_land_justly|{s14}(이)가 이 땅을 정의롭게 다스릴 것이라는 사실 말이오?
+str_that_s14_will_protect_our_rights_as_nobles|{s14}(이)가 귀족으로서 우리의 권리를 지켜줄 것이라는 사실 말이오?
+str_that_s14_will_unify_this_land_and_end_this_war|{s14}(이)가 이 땅을 하나로 통합하고 전쟁을 끝낼 것이라는 사실 말이오?
+str_that_s14_will_reward_me_with_a_fief|{s14}(이)가 나에게 영지를 하사하여 보답할 것이라는 사실 말이오?
 str_he|그
 str_king|국왕
 str_she|그녀
 str_queen|여왕
 str_khan|왕
 str_i|나
-str_according_to_the_ancient_law_and_custom_of_the_calradians_s45_should_be_s47|오래된 법과 관습에 따르면, {s45}가 {s47}이 될 것이오.
-str_because_s44_is_the_rightful_s47_of_the_s46|왜냐하면 {s44}는 {s46}의 정당한 권리를 가진 {s47}이기 때문이오
-str_you_speak_of_claims_and_legalities_yet_to_others_you_talk_of_bringing_peace_by_force|당신은 자질과 정당성에 대해서 말했소, 그러나 아직 다른 이들에게는 무력으로 평화를 가져온다고 말하고 있소
-str_you_speak_of_bringing_peace_by_force_yet_to_others_you_make_legal_claims|당신은 무력으로 평화를 가져온다고 말하고 있소, 그러나 아직 다른 이들에게는 합법적 자질을 말하고 있소.
-str_you_speak_to_some_of_upholding_the_rights_of_the_commons_yet_you_speak_to_others_of_uphold_the_rights_of_nobles_what_if_those_rights_are_in_conflict|당신은 백성들의 권리를 지지한다고 말하고 있소, 그러나 아직 당신은 다른 이들에게 귀족들의 권리를 지지한다고 말하고 있소. 만약 두 권리가 충돌한다면 무엇이 더 중요하오?
-str_you_speak_to_me_of_upholding_my_rights_as_a_lord_but_to_others_you_talk_of_upholding_the_rights_of_all_commons_what_if_those_rights_come_into_conflict|당신은 영주로서 나의 권리를 지지한다고 말했소, 그러나 당신은 다른 이들에게는 모든 백성의 권리를 지지한다고 말하고 있소. 만약 두 권리가 충돌한다면 무엇이 더 중요하오?
-str_a_claim_should_be_strong_indeed_before_one_starts_talking_about_it|그 것에 대해 말을 시작하기 전에 이야기하겠는데, 왕이 되기 위한 정통성은 정말로 설득력이 있어야 하오.
-str_a_king_should_prove_his_valor_beyond_any_doubt_before_he_starts_talking_about_a_claim_to_the_throne|왕은 왕좌에 대한 주장을 말하기 전에 어떠한 의심도 넘어서는 그의 용기를 증명해야만 하오.
-str_you_must_prove_yourself_a_great_warrior_before_men_will_follow_you_as_king|당신은 반드시 사람들이 당신을 왕으로 따르기 전에 당신이 위대한 전사라는 것을 증명해야 하오.
-str_a_claim_to_the_throne_should_be_strong_indeed_before_one_presses_it|왕좌에 대한 주장은 그것을 밀어 붙이기 전에 정말로 그럴듯한 명분이 있어야 하오.
-str_indeed_but_a_man_must_also_prove_himself_a_great_warrior_before_men_will_follow_you_as_king|사실이군. 그러나 사람들이 당신을 왕으로 따르기 전에 그 스스로 위대한 전사라는 것을 증명해야만 하오.
-str_my_pigherd_can_declare_himself_king_if_he_takes_he_fancy_i_think_you_need_to_break_a_few_more_heads_on_tbe_battlefield_before_men_will_follow_you|나의 돼지치기도 만약 그가 변덕을 부린다면 스스로 왕이라고 선언할 것이오. 내 생각에는 사람들이 당신을 따르기 전에 전장에서 좀 더 당신 스스로를 증명할 필요가 있다고 생각하오.
-str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_suggest_that_you_to_build_your_claim_on_stronger_foundations_so_that_men_will_follow_you|만약 당신이 당신 이전에 왕위를 주장하다 실패해 교수형틀 위에서 죽어간 많은 이들처럼 죽고 싶지 않다면, 나는 당신에게 더 설득력 있는 근거로 주장하길 제안하오. 그래야만 사람들이 당신을 따를 것이오.
-str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_advise_you_prove_yourself_on_the_field_of_battle_so_that_men_will_follow_you|만약 당신이 당신 이전에 왕위를 주장하다 실패해 교수형틀 위에서 죽어간 많은 이들처럼 죽고 싶지 않다면, 나는 당신에게 전장에서 당신 스스로를 증명하라고 충고하오. 그래야만 사람들이 당신을 따를 것이오.
-str_talk_is_for_heralds_and_lawyers_real_kings_prove_themselves_with_their_swords|대소신료들을 위한 말이군. 사실 왕은 그들의 칼로 그들 스스로를 증명하지.
-str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressing_my_claim|만약 내가 당신이라면, 나의 요구를 밀어 붙이기 전에 내 스스로를 좀 더 증명해 보이겠소.
-str_indeed_please_continue|사실이지. 계속하시오.
+str_according_to_the_ancient_law_and_custom_of_the_calradians_s45_should_be_s47|이 땅의 오래된 법과 관습에 따르면, {s47}은(는) {s45}이(가) 되어야 마땅하오.
+str_because_s44_is_the_rightful_s47_of_the_s46|왜냐하면 {s44}(이)가 {s46}의 정당한 {s47}이기 때문이오.
+str_you_speak_of_claims_and_legalities_yet_to_others_you_talk_of_bringing_peace_by_force|당신은 명분과 법도를 말하면서도, 한편으로는 무력으로 평화를 가져오겠는 모순된 말을 하고 있소.
+str_you_speak_of_bringing_peace_by_force_yet_to_others_you_make_legal_claims|당신은 무력에 의한 평화를 주장하면서도, 한편으로는 법적 명분을 내세우고 있구려.
+str_you_speak_to_some_of_upholding_the_rights_of_the_commons_yet_you_speak_to_others_of_uphold_the_rights_of_nobles_what_if_those_rights_are_in_conflict|당신은 백성의 권리를 옹호한다면서 또 어떤 이에게는 귀족의 권리를 말하고 있소. 두 권리가 충돌하면 어찌할 셈이오?
+str_you_speak_to_me_of_upholding_my_rights_as_a_lord_but_to_others_you_talk_of_upholding_the_rights_of_all_commons_what_if_those_rights_come_into_conflict|당신은 내게는 영주의 권리를 약속하고, 또 어떤 이에게는 평민의 권리를 말하고 있소. 이해관계가 얽히면 누구 편을 들겠소?
+str_a_claim_should_be_strong_indeed_before_one_starts_talking_about_it|왕위를 주장하려면 그 명분이 누구보다도 확고해야 하는 법이오.
+str_a_king_should_prove_his_valor_beyond_any_doubt_before_he_starts_talking_about_a_claim_to_the_throne|왕이 되고자 한다면 왕좌를 논하기 전에 자신의 용맹함을 만천하에 증명해야 하오.
+str_you_must_prove_yourself_a_great_warrior_before_men_will_follow_you_as_king|백성들이 당신을 왕으로 받들게 하려면 먼저 위대한 전사임을 증명해야 할 것이오.
+str_a_claim_to_the_throne_should_be_strong_indeed_before_one_presses_it|왕좌를 차지하려거든 그전에 그럴듯한 명분부터 갖추어야 할 것이오.
+str_indeed_but_a_man_must_also_prove_himself_a_great_warrior_before_men_will_follow_you_as_king|옳은 말이오. 허나 사람들이 따르게 하려면 그에 걸맞은 무력을 먼저 증명해야만 하오.
+str_my_pigherd_can_declare_himself_king_if_he_takes_he_fancy_i_think_you_need_to_break_a_few_more_heads_on_tbe_battlefield_before_men_will_follow_you|내 돼지치기도 마음만 먹으면 왕이라 자처할 수 있소. 사람들이 따르길 원한다면 전장에서 적들의 머리통을 더 깨부수고 오시오.
+str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_suggest_that_you_to_build_your_claim_on_stronger_foundations_so_that_men_will_follow_you|앞서 실패한 왕위 찬탈자들처럼 교수대에서 생을 마감하고 싶지 않다면, 더 탄탄한 명분을 쌓아 사람들을 설득하시오. 그래야만 사람들이 당신을 따를 것이오.
+str_if_you_do_not_wish_to_die_on_a_scaffold_like_so_many_failed_pretenders_before_you_i_would_advise_you_prove_yourself_on_the_field_of_battle_so_that_men_will_follow_you|실패한 왕위 찬탈자들처럼 처형당하기 싫다면, 전장에서 실력을 증명하라고 충고하겠소. 그래야만 사람들이 따르게 될 것이오.
+str_talk_is_for_heralds_and_lawyers_real_kings_prove_themselves_with_their_swords|말잔치는 전령이나 법률가들에게나 맡기시오. 진정한 왕은 칼로 자신을 증명하는 법이오.
+str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressing_my_claim|내가 당신이라면 명분을 내세우기 전에 스스로를 좀 더 증명해 보이겠소.
+str_indeed_please_continue|과연 그렇구려. 계속 말씀하시오.
 str_me|나를
-str_i_worry_about_those_with_whom_you_have_chosen_to_surround_yourself|나는 당신 주위에 선택된 그들과 같이 하는 것이 걱정이오.
-str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|나와 당신의 봉신들 사이에 현저한 문제가 몇몇 있소.
-str_my_liege_has_his_faults_but_i_dont_care_for_your_toadies|내 주군이 결점은 있지만, 나는 당신의 아첨에 신경쓰지 않을 것이오.
-str_i_think_youre_a_good_man_but_im_worried_that_you_might_be_pushed_in_the_wrong_direction_by_some_of_those_around_you|나는 당신이 좋은 사람이라 생각하오. 그러나 나는 당신 주위의 누군가에 의해 당신이 잘못된 방향으로 몰아붙여지고 있는 것은 아닌지 걱정되오.
-str_i_am_loathe_to_fight_alongside_you_so_long_as_you_take_under_your_wing_varlots_and_base_men|나는 오랫동안 당신의 날개 아래서 신하로서 당신과 나란히 싸우는 것이 매우 싫다고 생각해 왔소.
-str_ill_be_honest__with_some_of_those_who_follow_you_i_think_id_be_more_comfortable_fighting_against_you_than_with_you|솔직해 지겠소 -- 당신을 따르는 그들과 함께하며, 또 당신과 함께하는 것보다 당신에 대항해서 싸우는 것이 더 편하다고 나는 생각되오.
-str_i_say_that_you_can_judge_a_man_by_the_company_he_keeps_and_you_have_surrounded_yourself_with_vipers_and_vultures|나는 친구를 보면 그 사람을 알 수 있다고 말하고 싶군. 당신은 독사같고, 욕심많은 놈들로 둘러싸여 있소.
-str_you_know_that_i_have_always_had_a_problem_with_some_of_our_companions|당신은 내가 항상 우리의 동료들 중 몇몇과 문제를 가지고 있다는 것을 알고 있군.
-str_politically_i_would_be_a_better_position_in_the_court_of_my_current_liege_than_in_yours|정치적으로, 나는 지금 군주의 궁정에서의 위치가 당신의 궁정에서의 위치보다 더 좋소.
-str_i_am_more_comfortable_with_you_and_your_companions_than_with_my_current_liege|당신과 당신의 동료들과 함께 한다면 나의 현재 주군과 함께하는 것보다 더 편안할 것이오.
-str_militarily_youre_in_no_position_to_protect_me_should_i_be_attacked_id_be_reluctant_to_join_you_until_you_could|군사적으로 말하면, 내가 공격당할 때 당신은 나를 보호해줄 수 없소. 나는 당신이 나를 보호해줄 수 있을 때까지 당신에게 가세하는 것이 주저되오.
-str_militarily_when_i_consider_the_lay_of_the_land_i_realize_that_to_pledge_myself_to_you_now_would_endanger_my_faithful_retainers_and_my_family|군사적으로 말하면, 형세를 고려해 볼때 지금 당신에게 충성을 맹세하는것 나의 충성스러운 부하들과 가족들을 위험하게 한다는 것을 깨달았소.
-str_militarily_youre_in_no_position_to_come_to_my_help_if_someone_attacked_me_i_dont_mind_a_good_fight_but_i_like_to_have_a_chance_of_winning|군사적으로 말하면, 당신은 만약 나를 누군가 공격하는 경우, 나를 도울 수 없을 것이오. 나는 나 스스로가 잘 싸우지는 못하지만, 승리의 기회를 가지고 싶소.
-str_militarily_you_would_have_me_join_you_only_to_find_myself_isolated_amid_a_sea_of_enemies|군사적으로 말하면, 당신이 나를 영입하려는 것은, 오직 해적들 사이에 혼자 고립 되었음을 알 때일 뿐이오.
-str_militarily_youre_in_no_position_to_come_to_my_help_if_someone_attacked_me_youd_let_me_be_cut_down_like_a_dog_id_bet|군사적으로 말하면, 당신은 만약 나를 누군가 공격하는 경우, 당신은 나를 도울 수 없을 것이오. 당신은 나를 개처럼 내팽개칠 것을 나는 확신하오.
-str_militarily_i_wouldnt_be_any_safer_if_i_joined_you|군사적으로 말하면, 내가 당신에게 가세한다면 어떠한 안전도 없을 것이오.
-str_militarily_i_might_be_safer_if_i_joined_you|군사적으로으로 말하면, 내가 당신에게 가세한다면 더 안전해질 것이오.
-str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_very_high|마지막으로, 봉신은 그의 충성 서약의 철회에 대해서 항상 주의깊게 생각해야 하오, 비록 충분한 이유가 있다고 할 지라도, 주군을 쉽게 바꾸는 사람이라는 평판을 가지는 건 좋지 않은 일이오. 이번 경우는, 내 명성에 대해 치러야 할 대가가 매우 클 것이오.
-str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_significant|마지막으로, 봉신은 그의 충성 서약의 철회에 대해서 항상 주의깊게 생각해야 하오, 비록 충분한 이유가 있다고 할 지라도, 주군을 쉽게 바꾸는 사람이라는 평판을 가지는 건 좋지 않은 일이오. 이번 경우는, 내 스스로 명성에 대해 치러야 할 대가가 만만치 않소.
-str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_however_many_men_would_understand|마지막으로, 봉신은 그의 충성 서약의 철회에 대해서 항상 주의깊게 생각해야 하오, 비록 충분한 이유가 있다고 할 지라도, 주군을 쉽게 바꾸는 사람이라는 평판을 가지는 건 좋지 않은 일이오. 그러나, 이번 경우는 많은 사람들이 이해할 것이오.
-str_i_will_not_have_it_be_said_about_me_that_i_am_a_traitor_that_is_my_final_decision_i_have_nothing_more_to_say_on_this_matter|나는 내가 배신자라고 나에 대해 말해지는 것은 하지 않을 것이오. 그것이 나의 마지막 결정이오. 이 문제에 대해 이제 나는 더 이상 할 말이 없소.
-str_i_am_pledged_to_defend_s14_i_am_sorry_though_we_may_meet_on_the_battlefield_i_hope_that_we_will_still_be_friends|나는 {s14}을 지키기로 맹세했소. 미안하오. 우리가 비록 전장에서 만날지 모르지만, 나는 아직 우리들이 친구라고 믿고 있소.
-str_i_really_cannot_bring_myself_to_renounce_s14_i_am_sorry_please_lets_not_talk_about_this_any_more|나는 현실적으로 내 스스로 {s14}을 버릴 수 없소. 미안하오. 제발 더 이상 이 것에 대해서는 이야기하지 마시오.
-str_however_i_have_decided_that_i_must_remain_loyal_to_s14_i_am_sorry|하지만, 나는 아마도 {s14}에 대한 충성심이 남아 있다고 스스로 생각했소. 미안하오.
-str_however_i_will_not_let_you_lead_me_into_treason_do_not_talk_to_me_of_this_again|하지만, 당신이 나를 반역죄로 이끌게 두지는 않을 것이오. 이 문제로 두번 다시 나에게 이야기하지 마시오.
-str_its_not_good_to_get_a_reputation_as_one_who_abandons_his_liege_that_is_my_decision_let_us_speak_no_more_of_this_matter|자신의 주군을 버린 사람이라는 평판을 얻는 것은 좋지 않은 일이오. 그것이 나의 결정이오. 우리는 이 문제에 대해서는 더 이상 말하지 않는 게 좋을 것 같소.
-str_ive_decided_to_stick_with_s14_i_dont_want_to_talk_about_this_matter_any_more|나는 {s14}의 곁에 머물기로 결심했소. 나는 더 이상 이 문제에 대해서 당신과 이야기하기 싫소.
-str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|나에게 결투를 신청하는 것인가? 가소롭군! {playername}, 내가 네놈의 머리를 부셔 버리는건 좋은 운동이 될 것인데, 그걸 바라나!
-str_call_me_coward_very_well_you_leave_me_no_choice|나를 비겁하다고 부를 건가? 좋아, 당신이 나를 떠난다면 선택의 여지가 없지.
+str_i_worry_about_those_with_whom_you_have_chosen_to_surround_yourself|당신 곁을 지키는 자들이 어떤 이들인지 심히 우려되는구려.
+str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|나와 당신의 봉신들 사이에 해결되지 않은 해묵은 문제들이 몇몇 있소.
+str_my_liege_has_his_faults_but_i_dont_care_for_your_toadies|내 주군께 결점이 있을지언정, 당신 곁의 아첨꾼들보다는 낫다고 보오.
+str_i_think_youre_a_good_man_but_im_worried_that_you_might_be_pushed_in_the_wrong_direction_by_some_of_those_around_you|당신은 성품이 곧고 좋은 사람이라고 생각하오. 그러나 당신이 주변인들의 꼬드김에 넘어가 그릇된 길로 갈까 걱정이오.
+str_i_am_loathe_to_fight_alongside_you_so_long_as_you_take_under_your_wing_varlots_and_base_men|비천하고 질 낮은 자들을 거두는 당신과는 결코 나란히 싸우고 싶지 않소.
+str_ill_be_honest__with_some_of_those_who_follow_you_i_think_id_be_more_comfortable_fighting_against_you_than_with_you|솔직히 말해, 당신을 따르는 자들을 보니 당신과 함께하기보다 차라리 적이 되어 싸우는 게 마음 편하겠소.
+str_i_say_that_you_can_judge_a_man_by_the_company_he_keeps_and_you_have_surrounded_yourself_with_vipers_and_vultures|유유상종이라 했소. 독사와 들개 같은 자들을 곁에 두었으니 당신도 그들과 다를 바 없지 않겠소?
+str_you_know_that_i_have_always_had_a_problem_with_some_of_our_companions|당신도 알다시피 나는 당신의 동료 중 몇몇과 항상 깔끄러운 관계였소.
+str_politically_i_would_be_a_better_position_in_the_court_of_my_current_liege_than_in_yours|정치적 실익을 따져보면 당신보다는 현재 내 주군의 궁정에 머무는 것이 훨씬 유리하오.
+str_i_am_more_comfortable_with_you_and_your_companions_than_with_my_current_liege|현재의 주군보다 당신 그리고 당신의 동료들과 함께하는 것이 훨씬 마음 편할 것 같소.
+str_militarily_youre_in_no_position_to_protect_me_should_i_be_attacked_id_be_reluctant_to_join_you_until_you_could|군사적으로 볼 때 당신은 내 안전을 보장할 처지가 못 되오. 나를 지켜줄 힘을 갖추기 전까지는 합류하기 어렵소.
+str_militarily_when_i_consider_the_lay_of_the_land_i_realize_that_to_pledge_myself_to_you_now_would_endanger_my_faithful_retainers_and_my_family|군사적인 형세를 보아하니 지금 당신에게 충성을 맹세했다가는 내 부하들과 가족들이 위험에 처할 것 같소.
+str_militarily_youre_in_no_position_to_come_to_my_help_if_someone_attacked_me_i_dont_mind_a_good_fight_but_i_like_to_have_a_chance_of_winning|군사적인 관점으로 볼 때, 당신은 적의 공격으로부터 나를 지켜줄 힘이 없소. 싸움을 마다하진 않겠으나, 승산 없는 싸움은 하지 않소.
+str_militarily_you_would_have_me_join_you_only_to_find_myself_isolated_amid_a_sea_of_enemies|군사적인 관점으로 볼 때, 당신에게 합류했다가는 적들에게 둘러싸여 고립무원의 처지가 될 게 뻔하오.
+str_militarily_youre_in_no_position_to_come_to_my_help_if_someone_attacked_me_youd_let_me_be_cut_down_like_a_dog_id_bet|군사적인 관점으로 볼 때, 누군가 나를 공격해도 당신은 구하러 올 처지가 못되지 않소. 내가 개처럼 도살당하게 내버려 둘 게 뻔한 일이오.
+str_militarily_i_wouldnt_be_any_safer_if_i_joined_you|당신에게 합류한다 한들 군사적으로 더 안전해질 것 같지는 않구려.
+str_militarily_i_might_be_safer_if_i_joined_you|당신에게 합류하는 것이 군사적으로 더 안전한 선택이 될 것 같소.
+str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_very_high|마지막으로, 충성 서약을 철회하는 일은 명예에 큰 타격을 주는 일이오. 비록 충분한 이유가 있더라도 배신자라는 낙인은 피하기 힘든 법이오. 지금의 결정으로 내 명성이 치루어야 할 대가는 가혹할 것이오.
+str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_significant|마지막으로, 봉신은 그의 충성 서약의 철회에 대해서 항상 주의깊게 생각해야 하오, 비록 마땅한 이유가 있다고 할 지라도, 주군을 쉽게 바꾸는 사람이라는 평판을 얻는 것은 좋지 않은 일이오. 지금의 결정이 내 명성이 입힐 타격이 만만치 않을 것 같소.
+str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_however_many_men_would_understand|마지막으로, 봉신은 그의 충성 서약의 철회에 대해서 항상 주의깊게 생각해야 하오, 비록 충분한 이유가 있다고 할 지라도, 주군을 쉽게 바꾸는 사람이라는 평판을 얻는 것은 좋지 않은 일이오. 그럼에도 불구하고, 이번만큼은 많은 이들이 내 결정을 이해해 줄 것이라 믿소.
+str_i_will_not_have_it_be_said_about_me_that_i_am_a_traitor_that_is_my_final_decision_i_have_nothing_more_to_say_on_this_matter|배신자라는 소리를 들으며 살 순 없소. 이것이 내 마지막 결정이니 더는 이 문제로 말하지 마시오.
+str_i_am_pledged_to_defend_s14_i_am_sorry_though_we_may_meet_on_the_battlefield_i_hope_that_we_will_still_be_friends|나는 {s14}을(를) 지키기로 맹세한 몸이오. 당신에겐 미안하게 되었소. 하지만 우리가 전장에서 만나더라도 여전히 친구이길 바라겠소.
+str_i_really_cannot_bring_myself_to_renounce_s14_i_am_sorry_please_lets_not_talk_about_this_any_more|차마 {s14}와(과)의 신의를 저버릴 수 없구려. 미안하오. 이 주제에 대해선 더 이야기 하지 않으면 좋겠소.
+str_however_i_have_decided_that_i_must_remain_loyal_to_s14_i_am_sorry|유감스럽게도 나는 {s14}에게 충성을 다하기로 마음먹었소. 미안하게 됐소.
+str_however_i_will_not_let_you_lead_me_into_treason_do_not_talk_to_me_of_this_again|나를 반역의 길로 끌어들이려 하지 마시오. 다시는 내게 이런 말을 꺼내지 마시오.
+str_its_not_good_to_get_a_reputation_as_one_who_abandons_his_liege_that_is_my_decision_let_us_speak_no_more_of_this_matter|주군을 배신한 자라는 오명을 쓰고 싶지 않소. 내 결정은 변함없으니 더는 왈가왈부하지 맙시다.
+str_ive_decided_to_stick_with_s14_i_dont_want_to_talk_about_this_matter_any_more|{s14}의 곁에 남기로 했소. 더는 이 문제로 입씨름하고 싶지 않구려.
+str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|나에게 결투를 신청하다니, 가소롭구려! {playername}, 정 원한다면 당신의 머리통을 박살 내주는 수고를 아끼지 않겠소.
+str_call_me_coward_very_well_you_leave_me_no_choice|나를 겁쟁이라 부르다니... 좋소, 정 그렇다면 방도가 없구려.
 str_reg3_hours|{reg3} 시간.
 str_hour|시간.
-str_however_circumstances_have_changed_since_we_made_that_decision_and_i_may_reconsider_shortly_s16|그러나, 우리가 그 결정을 한 뒤에 상황이 변했소, 그래서 나는 그 결정을 다시 한 번 재고해볼 것이오. {s16}
-str_i_wish_to_marry_your_s11_s10_i_ask_for_your_blessing|저는 당신의 {s11}, {s10}와 결혼하고 싶다. 당신이 축복해주길 바라오.
-str_i_wish_to_marry_your_s11_s10_i_ask_for_your_help|저는 당신의 {s11}, {s10}와 결혼하고 싶소. 당신의 도움이 필요하오.
-str_you_plan_to_marry_s3_at_a_feast_hosted_by_s4_in_s5_you_should_be_notifed_of_the_feast_as_soon_as_it_is_held|당신은 {s5}에서 {s4}의 주체로 열리는 연회에서 {s3}와(과) 결혼할 계획이다. 당신은 연회가 곧 열릴 것이라는 통보를 받았다.
+str_however_circumstances_have_changed_since_we_made_that_decision_and_i_may_reconsider_shortly_s16|허나 상황이 변했으니, 그 결정에 대해 조만간 다시 생각해 보겠소. {s16}
+str_i_wish_to_marry_your_s11_s10_i_ask_for_your_blessing|당신의 {s11}인 {s10}와(과) 혼인하고 싶소. 부디 축복해 주시오.
+str_i_wish_to_marry_your_s11_s10_i_ask_for_your_help|당신의 {s11}인 {s10}와(과) 혼인하고 싶으니, 부디 힘을 보태주시오.
+str_you_plan_to_marry_s3_at_a_feast_hosted_by_s4_in_s5_you_should_be_notifed_of_the_feast_as_soon_as_it_is_held|당신은 {s5}에서 {s4}(이)가 주최하는 연회 중에 {s3}와(과) 혼인할 예정이오. 연회가 열리는 대로 소식을 듣게 될 것이오.
 str_your_s11_|당신의 {s11}, 
-str_i_ask_again_may|다시 물어보지만
-str_may|아마
-str_very_well_as_far_as_im_concerned_i_suppose_she_can_see_most_anyone_she_likes__within_reason_of_course|좋소. 내가 가능한 만큼 관심을 가지리다. 나는 그녀가 가장 좋아할 최고의 사람이 누군지 알 것이라 생각하오 - 당연한 일이지만.
-str_very_well_an_alliance_with_you_could_be_valuable_go_chat_with_her_and_see_if_you_can_get_her_to_take_a_fancy_to_you_if_she_doesnt_and_if_we_still_want_to_conclude_this_business_then_i_can_make_her_see_reason|좋소, 당신과의 동맹은 가치가 있을 것 같군. 가서 그녀와 담소를 나누시오. 그리고 그녀가 당신을 좋아하게 할 수 있을지를 살펴 보시오. 만약 그녀가 당신을 별로 좋아하지 않고, 우리가 여전히 이 일을 지속하기를 원하다면, 그 때는 그녀가 왜 당신을 싫어하는지에 대해 알아보겠소.
-str_you_have_my_blessing_to_pay_suit_to_her__so_long_as_your_intentions_are_honorable_of_course_depending_on_how_things_proceed_between_you_two_we_may_have_more_to_discuss_at_a_later_date|당신은 내 은혜에 걸맞는 보상을 그녀에게 해야 하네 -- 물론 당신이 명예로운 결혼을 할 의사가 있는 한 말이지. 일이 어떻게 진행될 지는 전적으로 두 사람 사이에 달려 있네.  우리는 아마 나중에 이 일에 대해서 더 의논 할 수 있을 거라 생각하네.
-str_the_war_has_barely_begun_so_and_it_is_too_early_to_say_who_is_winning_and_who_is_losing|전쟁은 이제 막 시작되었소, 그래서 누가 이기고 누가 질지를 말하기에는 너무 이르다고 생각하오.
-str_we_have_been_hitting_them_very_hard_and_giving_them_little_chance_to_recover|우리는 그들을 쉬지 않고 공격했소, 그리고 그들에게 회복할 기회를 주지 않고 있소.
-str_the_fighting_has_been_hard_but_we_have_definitely_been_getting_the_better_of_them|힘든 전투였소, 그러나 우리는 명백하게 그들보다 유리해지고 있소.
-str_they_have_been_hitting_us_very_hard_and_causing_great_suffering|그들은 맹렬히 우리를 공격했소, 덕분에 큰 고통을 받고 있소.
-str_the_fighting_has_been_hard_and_i_am_afraid_that_we_have_been_having_the_worst_of_it|힘든 전투였소, 그리고 유감스럽지만 우리는 전투에서 최악이었소.
-str_both_sides_have_suffered_in_the_fighting|양측 다 싸움에서 고통을 받았소.
-str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_think_we_are_getting_the_better_of_them|아직 표면적으로 나타난 싸움의 명백한 승리자는 없소, 그러나 내 생각에는 우리가 그들보다 유리한 것 같소.
-str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_fear_they_may_be_getting_the_better_of_us|아직 표면적으로 나타난 싸움의 명백한 승리자는 없소, 그러나 내 생각에는 유감스럽게도 그들이 우리보다 유리한 것 같소.
-str_no_clear_winner_has_yet_emerged_in_the_fighting|아직 표면적으로 나타난 싸움의 명백한 승리자는 없소.
-str_there_is_no_campaign_currently_in_progress|현재 진행중인 군사 작전은 없소.
-str_we_are_assembling_the_army|우리는 군대를 조직하고 있소.
-str_we_aim_to_take_the_fortress_of_s8|우리는 {s8} 요새 점령을 목표로 하고 있소.
-str_we_are_on_a_raid_and_are_now_targeting_s8|우리는 기습을 하고 있으며, 지금의 목표는 {s8}(이)오.
-str_we_are_trying_to_seek_out_and_defeat_s8|우리는 {s8}을(를) 찾아내 격파할 것이오.
-str_we_are_riding_to_the_defense_of_s8|우리는 {s8}을(를) 방어하고 있소.
-str_we_are_gathering_for_a_feast_at_s8|우리는 {s8} 에서 연회를 개최할 것이오.
-str__however_that_may_change_shortly_s14| 그러나, 그건 금방 변경될 수 있소. {s14}
-str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_have_been_looking_for_a_suitable_groom_for_my_s11_s14|결혼을 통해 동맹을 공고히 하는것이 우리들의 관습이지. 사실 우리는 나의 {s11}, {s14}의 적당한 배우자감을 찾고 있소.
+str_i_ask_again_may|다시 한번 여쭙겠소, 허락해 주시겠소?
+str_may|그리 해도 좋소.
+str_very_well_as_far_as_im_concerned_i_suppose_she_can_see_most_anyone_she_likes__within_reason_of_course|좋소. 내가 상관할 바는 아니나, 그녀도 분별력이 있으니 자신이 좋아하는 이를 만날 권리가 있겠지.
+str_very_well_an_alliance_with_you_could_be_valuable_go_chat_with_her_and_see_if_you_can_get_her_to_take_a_fancy_to_you_if_she_doesnt_and_if_we_still_want_to_conclude_this_business_then_i_can_make_her_see_reason|좋소. 당신과의 동맹은 가치가 있을 것 같구려. 가서 그녀와 이야기를 나누며 환심을 사 보시오. 만약 일이 잘 안 풀리더라도 우리가 이 혼사를 꼭 성사시켜야 한다면, 그때는 내가 그녀를 설득해 보겠소.
+str_you_have_my_blessing_to_pay_suit_to_her__so_long_as_your_intentions_are_honorable_of_course_depending_on_how_things_proceed_between_you_two_we_may_have_more_to_discuss_at_a_later_date|당신이 신사답게 행동한다는 전제하에 구애를 허락하겠소. 내가 그대를 축복할테니 부디 그녀를 진심으로 대해 주시오. 두 사람 사이가 어떻게 진전되느냐에 따라 나중에 다시 이야기해 봅시다.
+str_the_war_has_barely_begun_so_and_it_is_too_early_to_say_who_is_winning_and_who_is_losing|전쟁은 이제 막 시작되었소. 누가 승기를 잡았는지 논하기엔 아직 이르구려.
+str_we_have_been_hitting_them_very_hard_and_giving_them_little_chance_to_recover|우리는 쉼 없이 그들을 몰아쳤고, 재정비할 틈조차 주지 않았소.
+str_the_fighting_has_been_hard_but_we_have_definitely_been_getting_the_better_of_them|전투가 치열했으나, 우리가 확실히 승기를 잡아가고 있소.
+str_they_have_been_hitting_us_very_hard_and_causing_great_suffering|적들의 공세가 맹렬하여 아군의 피해가 막심하오.
+str_the_fighting_has_been_hard_and_i_am_afraid_that_we_have_been_having_the_worst_of_it|힘든 전투였소. 유감스럽게도 우리가 가장 큰 타격을 입은 듯하오.
+str_both_sides_have_suffered_in_the_fighting|전투로 인하여 양측 모두 큰 피해를 입었소.
+str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_think_we_are_getting_the_better_of_them|아직 명확한 승자는 없으나, 우리 쪽이 조금 더 유리해 보오.
+str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_fear_they_may_be_getting_the_better_of_us|아직 승패가 갈리지 않았으나, 안타깝게도 적들이 우위를 점한 듯하오.
+str_no_clear_winner_has_yet_emerged_in_the_fighting|아직은 어느 쪽이 승자라고 단정 지을 수 없소.
+str_there_is_no_campaign_currently_in_progress|현재 진행 중인 군사 작전은 없소.
+str_we_are_assembling_the_army|현재 군대를 소집하는 중이오.
+str_we_aim_to_take_the_fortress_of_s8|우리는 {s8} 요새를 점령하는 것을 목표로 삼고 있소.
+str_we_are_on_a_raid_and_are_now_targeting_s8|우리는 기습 작전 중이며, 현재 목표는 {s8}(이)오.
+str_we_are_trying_to_seek_out_and_defeat_s8|우리는 {s8}을(를) 추격하여 격파하려 하오.
+str_we_are_riding_to_the_defense_of_s8|우리는 {s8}을(를) 방어하기 위해 이동 중이오.
+str_we_are_gathering_for_a_feast_at_s8|우리는 {s8}에서 열릴 연회를 위해 모이고 있소.
+str__however_that_may_change_shortly_s14|허나 상황은 언제든 변할 수 있소. {s14}
+str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_have_been_looking_for_a_suitable_groom_for_my_s11_s14|혼인을 통해 동맹을 맺는 것은 우리의 오랜 관습이오. 사실 내 {s11}인 {s14}에게 적합한 배우자를 찾고 있었소.
 str_once_again_|한번 더
 str_cheat__marriage_proposal|Cheat - marriage proposal
-str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|당신은 {s4}과 결혼할 계획이다. 당신은 이 땅에 가족이 없기 때문에, 그가 당신을 위해 결혼 연회를 준비해야 할 것이다.
-str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43}, 당신도 알고 있겠지만, 만약 당신이 나를 공격한다면, 당신이 {s34}와 체결한 평화 협정을 위반하는 하는 것이 될 것이오.
-str_very_well__you_are_now_my_liege_as_well_as_my_husband|당신은 이 점만은 알아야 하오: 당신은 지금 나의 봉신이며, 또한 서로에 대한 의무를 가지고 있고, 내가 당신의 남편이라는 것을..
-str_i_thank_you_reg39my_ladylord|고맙소, {reg39?아가씨:주군}.
-str_now_some_might_say_that_women_have_no_business_leading_mercenary_companies_but_i_suspect_that_you_would_prove_them_wrong_what_do_you_say|지금까지, 대부분의 사람들은 여자는 용병이 될 수 없다고 말해왔지만, 나는 당신이 그들이 틀렸음을 증명할 거라 생각하오. 어떻소?
-str_what_do_you_say_to_entering_the_service_of_s9_as_a_mercenary_captain_i_have_no_doubt_that_you_would_be_up_to_the_task|용병 대장으로 {s9}을(를) 위해 일하는 것은 어떻소? 나는 그 일을 잘해낼 수 있을 것이라 믿어 의심치 않소.
-str_s9_asked_you_to_rescue_s13_who_is_prisoner_at_s24|당신은 {s9}(으)로부터 {s24}에 포로로 잡혀있는 {s13}을(를) 구출해 달라는 요청을 받았다.
-str_s9_asked_you_to_attack_a_village_or_some_caravans_as_to_provoke_a_war_with_s13|{s9}은(는) {s13}와(과)의 전쟁을 불러 일으킬 수 있게 당신이 그들의 마을이나 몇몇 상단을 공격하기를 요청했다.
-str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9}이(가) 당신이 도망치는 농노 세 무리를 잡고, 그들을 포로로 잡아 {s4}(으)로 붙잡와주기를 요청했다. 그는 세 무리 모두가 {s3}로 향하고 있다고 말했다.
-str_you_intend_to_bring_goods_to_s9_in_preparation_for_the_feast_which_will_be_held_as_soon_as_conditions_permit|당신은 연회를 위해 준비된 상품들을 상황이 허락되는 대로 곧 {s9}로 가져갈 예정이다.
-str_hello_playername|안녕하시오, {playername}
-str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again| 당신을 다시 보게 되어 얼마나 좋은지 모르겠어요! 때때로, 저는 우리 사이의 거리를 초월해 신비한 유대감을 느껴요.
-str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world| 나는 당신이 자유롭게 다니며, 세상을 경험할 수 있는 것이 부럽다고 말할 수 있어요.
-str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met| 나는 우리가 마지막으로 만났을 때부터 당신의 명예스러운 행동을 신뢰하고 있어요.
-str_playername__i_am_so_glad_that_you_were_able_to_come| 전 당신이 와주셔서 정말 기뻐요.
-str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|저는 당신과 이야기하는게 즐거워요. 그러나 저는 사람들이 가족 외의 남자와 너무 오랫동안 이야기하는 여자에 대해서 사람들이 수근수근 거린다는 것을 당신이 이해할거라 믿어요 -- 비록 하늘은 이것이 절대 남자의 책임이 아니라는 것을 알고 있지만.
-str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|저는 당신과 이야기 하는게 얼마나 즐거운지 몰라요. 저는 저의 우아함과 아름다움이 부족하다고 수다 떨 사람들을 걱정하지 않아요.
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 이 땅에 있는 귀족의 딸중 한명으로서, 저는 예절의 모범을 보여야만 해요.
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 명문가의 딸로서, 저는 명성을 지켜야 해요.
-str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|비록 나를 향한 관심이 당신의 친절일지라도, 저는 당신의 호의에 더 좋아할 다른 숙녀를 당신이 찾을 수 있을 거라고 생각되는군요.
-str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|당신의 관심으로 저는 기쁘지만, 아마도 머지 않아 다른 숙녀를 찾으시겠죠...  우리는 말하겠죠... 서로 다른 성격에 대해서.
-str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|당신의 관심을 받아서 저는 기쁘지만, 저는 훌륭한 집안의 딸로서 저의 평판에 주의해야만 해요. 한 번에 한 남자와 너무 오래 이야기 하는 것은 옳지 않아요. 저는 당신이 이해하리라 믿어요. 지금은 실례하겠어요...
-str_very_well__i_will_let_you_choose_the_time|알았소 -- 당신이 적당한 때를 선택하시오.
-str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|알겠어요! 저는 제가 준비도 되기 전에 저를 결혼으로 몰아넣겠다는 당신의 생각을 그만둬줘서 기쁘네요.
+str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|당신은 {s4}와(과) 혼인할 계획입니다. 당신은 이 땅에 연고가 없으니 그가 예식을 준비할 것입니다.^^연회가 시작될 때까지 기다린 후, 성이나 도시의 회당 안에서 약혼자를 만나십시오. 30일이 지나면 약혼자에게 인근 거점으로 이동할 것을 요청할 수 있습니다.
+str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43}, 만일 나를 공격한다면 당신이 {s34}와(과) 맺은 휴전 협정을 위반하는 것임을 명심하시오.
+str_very_well__you_are_now_my_liege_as_well_as_my_husband|좋아요. 이제 당신은 나의 주군이자 남편이에요. 그에 따른 상호간에 의무를 다하도록 해요.
+str_i_thank_you_reg39my_ladylord|감사하오, {reg39?부인:주군}.
+str_now_some_might_say_that_women_have_no_business_leading_mercenary_companies_but_i_suspect_that_you_would_prove_them_wrong_what_do_you_say|여자가 용병단을 이끄는 것을 탐탁지 않게 여기는 이들도 있소만, 당신은 그들이 틀렸음을 증명할 것 같구려. 어떻소?
+str_what_do_you_say_to_entering_the_service_of_s9_as_a_mercenary_captain_i_have_no_doubt_that_you_would_be_up_to_the_task|용병 대장으로서 {s9}의 휘하에 들어오는 게 어떻소? 당신이라면 충분히 해내리라 믿소.
+str_s9_asked_you_to_rescue_s13_who_is_prisoner_at_s24|당신은 {s9}(으)로부터 {s24}에 포로로 잡혀있는 {s13}을(를) 구출해 달라는 요청을 받았습니다.
+str_s9_asked_you_to_attack_a_village_or_some_caravans_as_to_provoke_a_war_with_s13|{s9}은(는) {s13}와(과)의 전쟁 명분을 만들기 위해 마을이나 상단을 습격해달라고 요청하였습니다.
+str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9}은(는) 도망친 농노 세 무리를 생포하여 {s4}(으)로 압송해달라고 요청하였습니다. 그들은 {s3}(으)로 향하고 있다고 합니다.
+str_you_intend_to_bring_goods_to_s9_in_preparation_for_the_feast_which_will_be_held_as_soon_as_conditions_permit|당신은 연회 준비를 위해 필요한 물품들을 챙겨 상황이 허락하는 대로 {s9}(으)로 가져가야 합니다.
+str_hello_playername|안녕하시오, {playername}!
+str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again| 다시 뵙게 되어 정말 기쁘군요. 가끔은 우리 사이에 거리를 초월한 신비로운 유대감이 느껴지곤 해요.
+str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world| 다시 뵙게 되어 반가워요. 밖으로 나가 드넓은 세상을 경험할 수 있는 당신의 자유가 정말 부럽군요.
+str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met| 반갑군요. 마지막 만남 이후로도 계속 명예롭게 처신하셨으리라 믿고 있어요.
+str_playername__i_am_so_glad_that_you_were_able_to_come| 와주셔서 정말 기뻐요.
+str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|당신과 대화하는 것은 참 즐거운 일이에요. 하지만 여인이 가족 외의 사내와 너무 오래 대화하면 사람들이 수군댄다는 걸 이해해 주시겠지요. 물론 그런 상황에서 비난을 받는 쪽은 남자가 아니라는 것도 잘 아실 테고요.
+str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|저는 당신과 이야기 하는게 얼마나 즐거운지 몰라요. 하지만 저의 우아함과 아름다움을 시기하여 험담을 늘어놓는 자들의 입에 오르내리고 싶진 않아요.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|정말 즐거운 시간이었어요. 허나 이 땅의 명문가 여식으로서 예의범절에 모범을 보여야 해요.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|저는 당신과 말하는 시간이 매우 즐거워요. 그러나 명문가의 딸로서 제 평판도 지켜야 해요.
+str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|제게 관심을 주시는 것은 고맙지만, 당신의 호의에 더 기쁘게 화답해 줄 다른 숙녀분을 찾아보시는 게 당신에게 더 이로울 것 같아요.
+str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|당신의 과분한 관심은 감사하지만, 저보다는 좀 더... 뭐랄까, 다른 취향의 숙녀분을 찾아보시는 게 좋겠어요.
+str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|당신의 관심을 받게 되어 기쁘군요. 하지만 저는 지체 높은 가문의 여식으로서 평판을 신경써야만 해요. 사내와 단둘이 길게 대화하는 것은 저에겐 부적절한 일이랍니다. 당신도 이해해 주시리라 믿어요. 이만 실례할게요...
+str_very_well__i_will_let_you_choose_the_time|좋소. 때가 되면 당신이 직접 결정하시오.
+str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|다행이군요! 혼사를 서두르려던 생각을 접어주셔서 기뻐요. 준비가 되지 않은 결혼으로 내몰리고 싶지는 않거든요.
 str_i_am|나는
 str_s12_s11_to_s14|{s12} {s14}의 {s11}
-str_s12_i_am_here_for_the_feast|{s12}. 전 연회를 위해 여기에 와 있어요.
-str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|또 다른 토너먼트를 헌정한다구요? 오, 언제나 기쁘게 해주는 군요...
-str_do_you_why_what_a_most_gallant_thing_to_say|당신이요? 얼마나 친절하게 말하시는지 모르겠어요.
-str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|흠.. 저는 이런 경박함을 전적으로 동의한다고 말하지 못하겠어요. 하지만 조금은 기쁘다는걸 인정할께요.
-str_why_thank_you_you_are_most_kind_to_do_so|오, 감사합니다. 당신은 가장 친절하군요.
-str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|당신은 가장 정중하시군요, 그리고 정중함은 좋은 덕목이에요.
-str_hmm_youre_a_bold_one_but_i_like_that_|흠. 당신은 뻔뻔스런 사람이군요, 그러나 전 그런게 좋아요.
-str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|아, 흠, 그들 모두가 그렇게 말하죠. 그러나 문제 없어요. 칭찬은 적어도 좋은 시작을 위해서 좋은 방법이죠.
-str_oh_do_you_mean_that_such_a_kind_thing_to_say|오! 그런 의미인가요? 당신은 정말 친절하군요!
-str_you_are_a_most_gallant_young_man_|당신은 가장 용감한 남자에요.
-str__do_come_and_see_me_again_soon| 곧 나를 보러 다시 와줘요.
-str_you_intend_to_ask_s12_for_permission_to_marry_s15|당신은 {s15}와의 결혼을 {s12}에게 허락받을 생각이다.
-str_you_intend_to_ask_s12_to_pressure_s10_to_marry_you|당신은 {s12}에게 {s10}이(가) 당신과 결혼하도록 압력을 행사해주기를 요청할 생각이다.
-str_do_be_careful_i_am_so_much_endebted_to_you_for_this|부디 조심하세요! 저는 당신을 많이 걱정하고...
-str_go_then__we_shall_see_which_of_you_triumphs|가세요, 머지않아 -- 우리는 당신이 승리한 모습을 볼 수 있겠죠....
-str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|에휴... 저는 절대 남자들을 정말로 이해하지 못하겠어요. 그리고 그들의 성급한 행동들도...
-str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|당신은 {s13}에게 도전해 {s11}에게 대한 그의 구혼을 포기하도록 강제할 예정이다.
+str_s12_i_am_here_for_the_feast|{s12}. 저는 연회에 참석하러 왔어요.
+str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|또 토너먼트 경기의 우승을 제게 헌정하신다고요? 오, 언제나 기분 좋은 소식이군요.
+str_do_you_why_what_a_most_gallant_thing_to_say|정말인가요? 어쩜 이리도 정중하게 말씀하시는지요.
+str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|흠... 이런 가벼운 말을 깊게 생각하지는 않지만, 솔직히 조금은 기분이 좋군요.
+str_why_thank_you_you_are_most_kind_to_do_so|감사해요. 정말 친절하시군요.
+str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|정말 예의가 바르시군요. 예의는 아주 훌륭한 덕목이지요.
+str_hmm_youre_a_bold_one_but_i_like_that_|흠, 꽤 대담하시네요. 하지만 그런 점이 마음에 들어요.
+str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|아, 다들 그렇게 말하긴 하죠. 그래도 상관없어요. 듣기 좋은 칭찬은 좋은 시작이 되니까요.
+str_oh_do_you_mean_that_such_a_kind_thing_to_say|오, 진심인가요? 정말 다정한 말씀이네요!
+str_you_are_a_most_gallant_young_man_|당신은 정말 용감한 남자에요.
+str__do_come_and_see_me_again_soon| 조만간 꼭 다시 보러 와주세요.
+str_you_intend_to_ask_s12_for_permission_to_marry_s15|당신은 {s12}에게 {s15}와(과)의 혼인 승낙을 구하려고 합니다.
+str_you_intend_to_ask_s12_to_pressure_s10_to_marry_you|당신은 {s12}에게 {s10}와(과) 결혼할 수 있도록 압력을 넣어달라고 요청할 계획입니다.
+str_do_be_careful_i_am_so_much_endebted_to_you_for_this|부디 몸조심하세요! 이 일로 당신께 큰 빚을 지게 되었군요...
+str_go_then__we_shall_see_which_of_you_triumphs|가세요, 그럼. 머지않아 우리는 당신이 승리한 모습을 볼 수 있겠죠...
+str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|에휴... 남자들과 그들의 성급한 행동은 정말이지 이해할 수가 없군요...
+str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|당신은 {s13}에게 결투를 신청하여 {s11}에 대한 구애를 포기하도록 강제할 계획입니다.
 str_farewell|안녕히 가시오.
 str_farewell_playername|잘 가시오, {playername}.
-str___we_believe_that_there_is_money_to_be_made_selling_| 우리는 우리가 만든 물품들을 이 곳에서 팔아 돈을 벌고 있소.
-str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole| 우리는 우리가 생산한 물품들을 창고로 옮기겠소. 비록 각 물품들의 시세 차이가 그렇게 많지 않더라도, 전체적으로 이익이 나길 바라오.
-str_s14and_other_goods|{s14}그리고 다른 물품들도요.
-str__have_you_not_signed_a_truce_with_our_lord| 당신은 우리의 주군과 평화 협정을 체결하지 않았소?
+str___we_believe_that_there_is_money_to_be_made_selling_| 여기서 물품을 팔아 이득을 남길 수 있을 것이라 믿소.
+str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole| 우리는 여러 물품을 취급 중이오. 각 물품들의 이윤은 크지 않으나 전체적으로는 이윤이 남길 바라고 있소.
+str_s14and_other_goods| {s14} 그리고 다른 물품들도 있소.
+str__have_you_not_signed_a_truce_with_our_lord| 우리 주군과 휴전 협정을 맺지 않았소?
 str_parole|가석방
 str__meanwhile_s51_reg2areis_being_held_in_the_castle_but_reg2havehas_made_pledges_not_to_escape_and_reg2areis_being_held_in_more_comfortable_quarters| 그러는 사이에, {s51}{reg2?들은:은(는)} 성에 붙잡혀 있었지만, 도망치지 않겠다는 맹세를 했고, 좀 더 쾌적한 처소에서 머물렀소.
 str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|당신은 아마도 왕국의 결속에 손상을 주며, 당신의 권위를 무너뜨리는 {s4}와(과) {s5}의 논쟁을 알고 있을 것이오, {reg59?경:아가씨}. 만약 당신이 영주들을 화해하도록 설득한다면, 그것은 당신의 입지를 끌어올릴 것이오. 그러나, 당신이 한 영주의 편만을 들어준다면 그의 라이벌의 편을 들었다는 위험에 직면하는 결과를 가져올 것이오.
