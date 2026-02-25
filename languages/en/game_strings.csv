@@ -2517,77 +2517,77 @@ str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is
 str_s14and_other_goods| {s14} 그리고 다른 물품들도 있소.
 str__have_you_not_signed_a_truce_with_our_lord| 우리 주군과 휴전 협정을 맺지 않았소?
 str_parole|가석방
-str__meanwhile_s51_reg2areis_being_held_in_the_castle_but_reg2havehas_made_pledges_not_to_escape_and_reg2areis_being_held_in_more_comfortable_quarters| 그러는 사이에, {s51}{reg2?들은:은(는)} 성에 붙잡혀 있었지만, 도망치지 않겠다는 맹세를 했고, 좀 더 쾌적한 처소에서 머물렀소.
-str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|당신은 아마도 왕국의 결속에 손상을 주며, 당신의 권위를 무너뜨리는 {s4}와(과) {s5}의 논쟁을 알고 있을 것이오, {reg59?경:아가씨}. 만약 당신이 영주들을 화해하도록 설득한다면, 그것은 당신의 입지를 끌어올릴 것이오. 그러나, 당신이 한 영주의 편만을 들어준다면 그의 라이벌의 편을 들었다는 위험에 직면하는 결과를 가져올 것이오.
-str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_i_imagine_that_s7_would_be_most_pleased_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|당신은 아마도 왕국의 결속에 손상을 주는 {s4}와(과) {s5}의 논쟁을 알고 있을 것이오, {reg59?주군:아가씨}. 만약 당신이 영주들을 화해하도록 설득한다면, 나는 {s7}이(가) 가장 기뻐할 거라고 생각하오. 그러나, 당신이 한 영주의 편만을 들어준다면 그의 라이벌의 편을 들었다는 위험에 직면하는 결과를 가져올 것이오.
-str__of_course_the_land_is_currently_at_peace_so_you_may_have_better_luck_in_other_realms| 물론, 최근 이 땅은 평화롭소, 그래서 아마 당신은 다른 왕국에서 더 좋은 기회를 가질 수 있을 것이오.
+str__meanwhile_s51_reg2areis_being_held_in_the_castle_but_reg2havehas_made_pledges_not_to_escape_and_reg2areis_being_held_in_more_comfortable_quarters| 한편, {s51}{reg2?들은:은(는)} 성내에 억류되어 있으나, 도망치지 않겠다는 맹세를 한 덕에 쾌적한 처소에 머물고 있소.
+str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|{reg59?경:부인}, 왕국의 단결을 해치고 당신의 권위를 갉아먹는 {s4}와(과) {s5}의 갈등을 알고 계실 것이오. 그들을 화해시킨다면 입지가 단단해지겠지만, 그렇지 못하면 자칫 한쪽 편을 든 것으로 보일 위험도 있소.
+str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_i_imagine_that_s7_would_be_most_pleased_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|당신도 왕국의 단결을 저해하는 {s4}와(과) {s5}의 갈등을 알고 계실 것이오. 그들을 화해시킨다면 {s7}께서 매우 기뻐하시겠지만, 그렇지 못하면 한쪽 편을 든 것으로 오해받을 위험도 있소.
+str__of_course_the_land_is_currently_at_peace_so_you_may_have_better_luck_in_other_realms| 요즘 이 땅은 평화로우니, 아마 다른 왕국에서 일거리를 찾는 게 나을 것이오.
 str_here|여기
 str_over|멀리
-str_s8_in_s12|{s8} {s12}의
-str__has_put_together_a_bounty_on_some_bandits_who_have_been_attacking_travellers_in_the_area| 근처 여행자를 공격하는 도둑들에게 현상금을 걸었다.
-str__is_looking_for_a_way_to_avoid_an_impending_war| 임박한 전쟁을 막을 방법을 찾고 있다.
-str__may_need_help_rescuing_an_imprisoned_family_member| 포로로 잡힌 가족을 구하는데 도움을 필요로 한다.
-str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though| 일거리를 원하는 사람을 수소문 하고 있다고 한다.
+str_s8_in_s12|{s12}의 {s8}
+str__has_put_together_a_bounty_on_some_bandits_who_have_been_attacking_travellers_in_the_area| 이 근방의 여행자들을 습격하는 도적떼에게 현상금을 걸었소.
+str__is_looking_for_a_way_to_avoid_an_impending_war| 곧 닥쳐올 전쟁을 피할 방도를 찾고 있소.
+str__may_need_help_rescuing_an_imprisoned_family_member| 사로잡힌 가족을 구출하는 데 도움을 구하고 있소.
+str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though| 일손을 도울 사람을 찾고 있소. 하지만 그자를 상대할 땐 조심하는 게 좋을 거요.
 str_town|마을
 str_castle|요새
-str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13| 그러나 {reg4?그녀:그}는 {s13}의 지하 감옥에 포로로 잡혀 있다.
-str_they_say_that_s9_is_a_most_conventional_maiden__devoted_to_her_family_of_a_kind_and_gentle_temperament_a_lady_in_all_her_way|그들이 말하길 {s9}, 그녀는 가족에게 친절하고 부드러우며 헌신적인 가장 전통적인 처녀라고 하더군. 아마 그녀는 그녀의 가족들을 거역한다는 건 꿈도 꾸지 않을 것 같은데.
-str_they_say_that_s9_is_a_bit_of_a_romantic_a_dreamer__of_a_gentle_temperament_yet_unpredictable_she_is_likely_to_be_led_by_her_passions_and_will_be_trouble_for_her_family_ill_wager|그들이 말하길 {s9}, 그녀는 온화한 성격을 가진 누군가와의 로맨스를 꿈꾼다고 하는군. 어쩌면 가족이 반대하는 남자와 눈이 맞아서 야반도주할 지 누가 알겠나?
-str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|그들이 말하길 {s9}, 그녀는 능력 있는 남자와 결혼해 높은 지위에 오르기로 마음먹었다고 하는군. 글쎄, 그녀의 야심을 충족시킬만한 남자가 과연 그녀에게 관심이 있을까?
-str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|그들이 말하길 {s9}, 그녀는 승마와 사냥을 좋아한다고 하더군. 아쩌면 그녀는 '내가 남자였으면...' 하고 있을 지도 모르지. 저런 야생마같은 여자와 결혼해서 사는 것도 쉽지는 않을 것 같은데.
-str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|그들이 말하길 {s9}, 그녀는 매우 높은 도덕 관념을 가진 숙녀라고 말하더군. 매우 훌륭한 처녀라는 소문이 돌던데. 하지만 그녀의 마음에 드는 것이 쉽지는 않을 것 같네.
-str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|{s9}은(는) 지금 {s11}와(과) 약혼했고, 나는 곧 그들이 결혼할 것이라고 믿고 있네.
-str_i_have_not_heard_any_news_about_her|나는 그녀에 대한 어떠한 새로운 소식도 듣지 못했네.
-str_they_say_that_s9_has_shown_favor_to_s11_perhaps_it_will_not_be_long_until_they_are_betrothed__if_her_family_permits|그들이 말하길 {s9}은(는) {s11}에게 호의적으로 보인다고 말하더군. 아마도 그녀 가족이 허락만 한다면 그들은 오래 가지 않아 약혼할 것 같네.
-str_they_say_that_s9_has_been_forced_by_her_family_into_betrothal_with_s11|그들이 말하길 {s9}은(는) 그녀의 가족들로부터 {s11}와(과) 약혼하도록 압력을 받고 있다고 하네.
-str_they_say_that_s9_has_agreed_to_s11s_suit_and_the_two_are_now_betrothed|그들이 말하길 {s9}은(는) {s11}의 구애를 받아들였다고 하네. 그리고 둘은 현재 약혼했네.
-str_they_say_that_s9_under_pressure_from_her_family_has_agreed_to_betrothal_with_s11|그들이 말하길 {s9}은(는) 그녀의 가족들의 압력 아래서, {s11}와(과)의 약혼에 동의했다고 하네.
-str_they_say_that_s9_has_refused_s11s_suit|그들이 말하길 {s9}은(는) {s11}의 구애를 거절했다고 하네.
-str_they_say_that_s11_has_tired_of_pursuing_s9|그들이 말하길 {s11}은(는) {s9}의 마음을 얻으려하고 있다는군.
-str_they_say_that_s9s_family_has_forced_her_to_renounce_s11_whom_she_much_loved|그들이 말하길 {s9}의 가족이 그녀에게 그녀가 몹시 사랑하는 남자인 {s11}에 대한 마음을 단념하도록 강요받고 있다고 하오.
-str_they_say_that_s9_has_run_away_with_s11_causing_her_family_much_grievance|그들이 말하길 그녀의 가족에 대한 반대가 심한 나머지 {s9}이(가) {s11}와(과) 사랑의 도피를 했다는 말이 있소.
-str_they_say_that_s9_and_s11_have_wed|그들이 말하길 {s9}와 {s11}가 결혼을 했다더군.
-str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|그들이 말하길 {s9}이(가) 최근 {s11}의 방문을 받았다고 하더군. 어디서 만났는지 누가 알겠소?
-str_there_is_not_much_to_tell_but_it_is_still_early_in_the_season|내가 말할만한 소식이 없군, 그러나 이건 아직 너무 이른 시기라 그렇소.
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_but_it_has_been_going_on_for_a_couple_of_days_and_is_about_to_end_|{s12} {s3}의 {s4}에서 연회가 진행되고 있소, 그러나 연회는 이미 몇일 동안이나 진행되었고 곧 끝날 것이오.^
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_should_last_for_at_least_another_day_|{s12} {s3}의 {s4}에서 연회가 진행중이고, 연회는 최소한 몇일 후에나 끝이 날 것이오.^
-str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_has_only_just_begun_|{s12} {s3}의 {s4}에서 연회가 진행중이며, 연회는 이제 막 시작했소.^
+str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13| 하지만 {reg4?그녀:그}는 {s13}의 지하 감옥에 포로로 잡혀 있소.
+str_they_say_that_s9_is_a_most_conventional_maiden__devoted_to_her_family_of_a_kind_and_gentle_temperament_a_lady_in_all_her_way|소문에 따르면 {s9}은(는) 가족에게 헌신적이고 성품이 온화하며 예절이 바른, 아주 전형적인 숙녀라고 하더군.
+str_they_say_that_s9_is_a_bit_of_a_romantic_a_dreamer__of_a_gentle_temperament_yet_unpredictable_she_is_likely_to_be_led_by_her_passions_and_will_be_trouble_for_her_family_ill_wager|소문에 따르면 {s9}은(는) 온화한 성격이면서도 종종 예기치 못한 행동을 하는 낭만주의자이자 공상가라고 하더군. 열정에 이끌려 가족이 반대하는 남자와 눈이 맞아 가문의 골칫덩이가 될 지 누가 알겠소.
+str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|소문에 따르면 {s9}은(는) 지체 높은 가문과 혼인하여 높은 지위에 오르겠다는 야망이 대단하다고 하오. 그녀는 남편에게도 엄청난 자산이 될 것이오, 그녀의 야망을 채워줄 수 있는 남자라면 말이지.
+str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|소문에 따르면 {s9}은(는) 사냥과 승마를 즐긴다고 하더군. 어쩌면 사내로 태어나지 못한 것을 아쉬워할지도 모르지. 누구든 그녀와 혼인하는 자는 주도권을 잡느라 꽤나 애를 먹을 것이오.
+str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|소문에 따르면 {s9}은(는) 도덕적 기준이 매우 높은 숙녀라고 하더군. 아주 훌륭하고 고결하지만, 그만큼 비위를 맞추기도 무척 힘들 것이오.
+str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|{s9}은(는) 이제 {s11}와(과) 약혼했소. 머지않아 예식이 치러질 것으로 예상되오.
+str_i_have_not_heard_any_news_about_her|그녀에 대해서는 어떤 소식도 듣지 못했소.
+str_they_say_that_s9_has_shown_favor_to_s11_perhaps_it_will_not_be_long_until_they_are_betrothed__if_her_family_permits|소문에 따르면 {s9}이(가) {s11}에게 호감을 보였다고 하더군. 가문의 허락만 있다면 머지않아 약혼 소식이 들려올지도 모르겠소.
+str_they_say_that_s9_has_been_forced_by_her_family_into_betrothal_with_s11|소문에 따르면 {s9}은(는) 가문의 압박에 못 이겨 {s11}와(과) 억지로 약혼했다고 하더군.
+str_they_say_that_s9_has_agreed_to_s11s_suit_and_the_two_are_now_betrothed|소문에 따르면 {s9}이(가) {s11}의 구애를 받아들여 두 사람이 이제 약혼한 사이라고 하오.
+str_they_say_that_s9_under_pressure_from_her_family_has_agreed_to_betrothal_with_s11|소문에 따르면 {s9}은(는) 가족들의 압력을 이기지 못하고 {s11}와(과)의 약혼에 동의했다고 하더군.
+str_they_say_that_s9_has_refused_s11s_suit|소문에 따르면 {s9}은(는) {s11}의 구애를 단칼에 거절했다고 하오.
+str_they_say_that_s11_has_tired_of_pursuing_s9|소문에 따르면 {s11}이(가) {s9}의 마음을 얻으려 애쓰는 것에 지쳐 포기했다고 하더군.
+str_they_say_that_s9s_family_has_forced_her_to_renounce_s11_whom_she_much_loved|소문에 따르면 {s9}의 가문은 그녀에게 그녀가 몹시 사랑하던 {s11}와(과)의 관계를 끊으라고 강요했다고 하오.
+str_they_say_that_s9_has_run_away_with_s11_causing_her_family_much_grievance|소문에 따르면 {s9}이(가) {s11}와(과) 사랑의 도피를 하여 가문에 큰 슬픔을 안겨주었다고 하오.
+str_they_say_that_s9_and_s11_have_wed|소문에 따르면 {s9}와(과) {s11}이(가) 혼례를 올렸다고 하더군.
+str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|소문에 따르면 최근 {s11}이(가) {s9}을(를) 방문했다고 하오. 이 만남이 어떤 결과로 이어질지는 아무도 모르는 법이지.
+str_there_is_not_much_to_tell_but_it_is_still_early_in_the_season|딱히 전할 소식은 없소. 하지만 곧 재미있는 소식들이 도착할지도 모르지.
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_but_it_has_been_going_on_for_a_couple_of_days_and_is_about_to_end_|{s12} {s3}의 {s4}에서 연회가 진행되고 있소, 다만 연회는 이미 몇일 동안이나 진행되어서 곧 끝날 것이오.^
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_should_last_for_at_least_another_day_|{s12} {s3}의 {s4}에서 연회가 진행중이고, 최소 하루 이상은 더 지속될 것이오.^
+str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_has_only_just_begun_|{s12} {s3}의 연회가 {s4}에서 이제 막 시작했소.^
 str_not_at_this_time_no|지금은 없군요.
-str_s12the_great_lords_bring_their_daughters_and_sisters_to_these_occasions_to_see_and_be_seen_so_they_represent_an_excellent_opportunity_to_make_a_ladys_acquaintance|{s12}^위대한 영주들은 그들의 딸과 자매을 이런 기회에 데려와 보기도 보여주기도 하는데, 이는 그들에게 귀부인의 지인을 만드는 훌륭한 기회라는데 의미가 있소.
-str_you_will_not_be_disappointed_sirmadam_you_will_not_find_better_warriors_in_all_calradia|실망하실 필요 없다, {reg59?부인:경}. 당신은 우리보다 더 훌륭한 전사를 찾지 못할 거요.
+str_s12the_great_lords_bring_their_daughters_and_sisters_to_these_occasions_to_see_and_be_seen_so_they_represent_an_excellent_opportunity_to_make_a_ladys_acquaintance|{s12}^위대한 영주들은 이런 자리에 딸이나 자매를 데려와 선을 보이곤 하오. 그러니 연회야 말로 귀부인들과 안면을 트기엔 더할 나위 없이 좋은 기회라 할 수 있지.
+str_you_will_not_be_disappointed_sirmadam_you_will_not_find_better_warriors_in_all_calradia|실망하지 않으실 거요, {reg59?부인:경}. 이 땅을 통틀어 우리보다 뛰어난 전사는 찾을 수 없을 것이오.
 str_your_excellency|전하
 str_s10_and_s11|{s10} 그리고 {s11}
 str_your_loyal_subjects|당신의 충성스러운 백성
 str_loyal_subjects_of_s10|{s10}의 충성스러운 백성
 str_the|그
 str_we|우리
-str_track_down_s7_and_defeat_him_defusing_calls_for_war_within_the_s11|{s11}이내에 {s7}을 찾아 그를 패배시켜, 전쟁의 불씨를 제거해야 합니다.
-str_track_down_the_s9_who_attacked_travellers_near_s8_then_report_back_to_the_town|{s8}의 근처에서 여행자들을 공격한 {s9}을 추적한 후에, 도시로 돌아가서 보고합니다.
-str_do_you_wish_to_award_it_to_one_of_your_vassals|당신은 당신의 봉신 중 한 명에게 이 것을 주기 원합니까?
-str_who_do_you_wish_to_give_it_to|이것을 누구에게 줄 생각이오?
-str_sire_my_lady_we_have_taken_s1_s2|{reg59?아가씨:경},우리가 {s1}을 점령했소. {s2}
-str_s12i_want_to_have_s1_for_myself|{s12}내가 {s1}을 가질 것이네. {s2}
+str_track_down_s7_and_defeat_him_defusing_calls_for_war_within_the_s11|{s7}을(를) 찾아내 격파함으로써 {s11} 내부에 감도는 전쟁의 기운을 잠재워야 하오.
+str_track_down_the_s9_who_attacked_travellers_near_s8_then_report_back_to_the_town|{s8} 근처에서 여행자들을 습격한 {s9}을(를) 추적한 뒤 도시로 돌아와 보고하시오.
+str_do_you_wish_to_award_it_to_one_of_your_vassals|이 영지를 봉신 중 한 명에게 하사하시겠소?
+str_who_do_you_wish_to_give_it_to|이것을 누구에게 하사할 계획이오?
+str_sire_my_lady_we_have_taken_s1_s2|{reg59?부인:경}, 우리가 {s1}을(를) 점령했소. {s2}
+str_s12i_want_to_have_s1_for_myself|{s12} {s1}은(는) 내가 직접 다스리겠소. {s2}
 str_fiefs_s0|(영지: {s0})
-str_production_setting_buy_from_market|우리는 원자재를 시장에서 구매하고 있소.
-str_production_setting_buy_from_inventory|우리는 창고에 재고가 남은 원자재만 사용하고 있소.
-str_production_setting_produce_to_inventory|우리는 우리의 생산품을 창고의 재고 품목에 놓고 있소.
-str_production_setting_produce_to_market|우리는 생산품을 재고 품목에서 거내어 바로 판매하고 있소.
-str_feast_quest_expired|당신은 연회를 계획대로 열지 못했습니다. 아마도, 중요한 왕국의 군사 작전이 다른 행사를 방해한 것 같습니다. 만약 당신이 원한다면 다시 연회를 개최할 수 있습니다.
-str_amber_riverbeds|해변과 황토로 된 강바닥
-str_hunting_forests|사냥을 위한 숲과 숲지기의 집
-str_acres_flax|에이커의 아마밭
+str_production_setting_buy_from_market|시장에서 원자재를 조달하고 있소.
+str_production_setting_buy_from_inventory|창고에 있는 원자재만 사용하고 있소.
+str_production_setting_produce_to_inventory|생산품을 창고에 저장하고 있소.
+str_production_setting_produce_to_market|생산품을 창고로 보내지 않고 시장에 바로 판매하고 있소.
+str_feast_quest_expired|예정되었던 연회를 열지 못했습니다. 아마도 국가의 주요 군사 작전이나 다른 사건들에 의해 중단된 것 같습니다. 원한다면 다시 연회를 준비할 수 있습니다.
+str_amber_riverbeds|호박이 묻힌 해변과 강바닥
+str_hunting_forests|사냥용 숲과 육류 훈제실
+str_acres_flax|몇 에이커의 아마 밭
 str_enterprise_enemy_realm|{reg59?부인:경}, 당신은 이 왕국의 적이오. 우리는 당신이 이 곳에 땅을 사는 것을 허락할 수 없소.
-str_you_intend_to_denounce_s14_to_s13_on_behalf_of_s12|당신은 {s12}의 이익을 위해 {s13}에게 {s14}를 몰래 비난할 계획입니다.
-str_you_intend_to_denounce_s14_to_his_face_on_behalf_of_s14|당신은 {s12}의 이익을 위해 {s14}의 면전에서 공개적으로 비난할 계획입니다.
-str_you_intend_to_bring_gift_for_s14|당신은 벨벳과 모피를 {s12}에게 가져갈 계획입니다. 그 후에, 만약 {s12}이 화해할 것 같아 보인다면 {s14}와(과) 대화해야 할 것입니다.
-str_we_will_gather_the_army_but_not_ride_until_we_have_an_objective|우리는 군사를 모을 것이오, 허나 명확한 목표가 생기기 전까진 출병하지 않을 것이오.
-str_we_shall_lay_siege_to_an_easy_fortress_to_capture|우리는 그들의 가장 취약한 요새에 병력을 집중하고 있소.
-str_we_shall_strike_at_the_heart_of_our_foe_and_seize_the_fortress_of_s14|우리는 적에게 가장 큰 피해를 줄 수 있는 공격을 할 것이오.
-str_we_shall_take_the_fortress_of_s14_which_appears_easily_defensible|우리는 방어에 유리한 성채들부터 점령할 것이오.
-str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_battle|우리는 적이 전장으로 나올 때까지 주변의 비옥한 토지를 약탈할 것이오.
-str_strategy_criticism_rash|내 생각에 그 작전은 약간 무모한것 같소. 또한 우리 군은 불필요한 위험에 노출될 것이오.
-str_strategy_criticism_cautious|내 생각에 그 작전은 지나치게 신중해서, 아군은 그 어떤 성취도 없이 지루함에 녹아버릴 것만 같소.
-str_tavernkeeper_invalid_quest| 이(가) 어떤 일을 가지고 있지만, 그 세부적인 내용까지 기억하지는 못하는 것 같소.
+str_you_intend_to_denounce_s14_to_s13_on_behalf_of_s12|당신은 {s12}을(를) 대신하여 {s13}에게 {s14}의 잘못을 은밀히 고발할 계획입니다.
+str_you_intend_to_denounce_s14_to_his_face_on_behalf_of_s14|당신은 {s12}을(를) 대신하여 {s14}의 면전에서 그를 공개적으로 비난할 계획입니다.
+str_you_intend_to_bring_gift_for_s14|{s12}에게 줄 보석과 모피를 가져갈 계획입니다. 그 후 {s14}와(과) 대화하여 {s12}이(가) 화해할 마음이 있는지 확인해야 합니다.
+str_we_will_gather_the_army_but_not_ride_until_we_have_an_objective|군대를 집결시키되, 명확한 목표가 생기기 전까지는 출정하지 않을 것이오.
+str_we_shall_lay_siege_to_an_easy_fortress_to_capture|아군은 적의 요새 중 가장 취약한 곳에 전력을 집중하고 있소.
+str_we_shall_strike_at_the_heart_of_our_foe_and_seize_the_fortress_of_s14|적에게 가장 뼈아픈 타격을 줄 수 있는 지점을 공격할 작정이오.
+str_we_shall_take_the_fortress_of_s14_which_appears_easily_defensible|수성이 용이하여 요새를 점령하는 것이 목표요.
+str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_battle|적이 싸우러 나오지 않을 수 없도록 그들의 가장 비옥한 영토를 불태우며 진격할 것이오.
+str_strategy_criticism_rash|이 전략은 너무 무모하오. 우리 군을 불필요한 위험에 빠뜨릴 뿐이오.
+str_strategy_criticism_cautious|이 전략은 지나치게 신중하오. 아무런 성과도 없이 군사들이 지루함에 지쳐 흩어지게 될 것이오.
+str_tavernkeeper_invalid_quest|무슨 일이 있었던 것 같은데, 세부적인 내용이 잘 기억나지 않는 모양이오.
 str_faction_title_male_player|코눙구르 {s0}
 str_faction_title_male_1|야를 {s0}
 str_faction_title_male_2|헤르시르 {s0}
@@ -2603,36 +2603,36 @@ str_faction_title_female_4|말 {s0}
 str_faction_title_female_5|공작 {s0}
 str_faction_title_female_6|군주 {s0}
 str_name_kingdom_text|당신의 왕국의 이름을 정해주세요.
-str_default_kingdom_name|{s0}의 왕국
-str_lord_defects_ordinary|영주 망명^^{s1}는 {reg4?그녀의:그의} {s3}에 대한 충성 서약을 철회하고, {s2}에 망명했습니다.
-str_lord_defects_player|영주 망명^^{s1}는 {reg4?그녀의:그의} {s3}에 대한 충성 서약을 철회했습니다. 그는 잠정적으로 당신의 왕국에 합류했습니다. 당신이 원한다면 충성 서약을 받을 수 있습니다.
-str_lord_defects_player_faction|영주 망명^^{s1}는 {reg4?그녀의:그의} {s3}에 대한 충성 서약을 철회했습니다. 그는 잠정적으로 당신의 왕국에 합류했습니다. 당신이 원한다면 충성 서약을 받을 수 있습니다.
-str_lord_indicted_player_faction|{s6}의 명령으로, {s5}의 {s4}이(가) 반역죄로 기소당했다. {s4}은(는) {reg4?그녀의:그의} 모든 재산과 영지를 몰수당했고, {reg4?그녀:그}는 목숨을 부지하기 위해 다른 국가로 망명했습니다. 그는 당신의 왕국에 합류하길 원합니다. 만약 당신이 원한다면 당신의 궁정에서 그를 만나 {reg?그녀의:그의} 충성 서약을 받을 수 있을 것입니다.
-str_lord_indicted_dialog_approach|안녕하십니까, {reg59?부인:경}. 내가 {s10}에게서 푸대접을 받았다는 것을 들으셨는지 모르겠소. 당신는 당신의 봉신을 후하게 다룬다는 평판을 가지고 있소. 만약 당신이 나를 받아 들인다면, 나는 나 스스로 당신의 봉신으로 맹세하는 것을 영광으로 생각할 것이오.
-str_lord_indicted_dialog_approach_yes|그렇다면 당신의 서약을 허락할 수 있어 영광이오.
-str_lord_indicted_dialog_approach_no|미안하네. 그대의 서약은 필요 없네.
-str_lord_indicted_dialog_rejected|정말이시오? 좋소, 아무래도 당신의 평판은 잘못된 것 같소, {reg59?아가씨:경} -- 나는 내 진가를 알아보는 통치자를 찾아봐야겠소.
-str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home|도적들이 그의 영지 근처에 은거지를 세우고 있어 걱정하고 있소
-str_bandit_lair_quest_description|{s9}을 찾아 파괴한 뒤, {s11}에게 돌아가 보고합니다.
-str_reveal_ass|누군가가 당신을 암살하려고 시도했습니다, 당신은 {s3}에서 암살자와 접촉했던 자를 찾을 수 있을 것입니다.
-str_reveal_ass2|암살을 지시한 연락처에서 당신은 음모의 배후에 위치한 영주를 찾았습니다 - 그는 {s9}입니다. 이제 그와 직접 대면할 시간입니다.
-str_bandit_hideout_preattack|당신은 은거지에 다가갔습니다. {s4}들은 아직 당신을 발견하지 못한 것 같았고, 당신은 계속 들키지 않고 숨어들어갈 수 있었습니다. 은거지는 접근하기 어려운 {s5} 합니다. 그것은 당신의 부대에서 오직 소수의 병사들만이 공격에 가담할 수 있음은 물론, 말을 데려갈 수 없음을 의미합니다. 만약 당신의 첫 공격이 실패하면 {s4}들은 쉽게 탈출해 흩어져 버릴 것 입니다.^은거지를 공격하겠습니까, 아니면 다음 기회를 기다릴 것입니까?
-str_bandit_hideout_failure|{s4}들은 당신의 공격을 격퇴했습니다. 그들이 주변의 마을로 흩어져서 사라져버렸기 때문에 당신은 병력을 재편성하고 다시 진군하여 그들을 찾으려 했지만 찾지 못했고, 의심할 필요도 없이 그들은 계속 여행자들을 위협할 것입니다
-str_bandit_hideout_success|그들의 퇴각은 차단되었고, 당신의 굳건한 공격 앞에 하나씩 쓰러져 나갔습니다. 그들의 은거지와, 그들이 부정하게 얻은 약탈품들은 이제 당신의 것입니다.
+str_default_kingdom_name|{s0} 왕국
+str_lord_defects_ordinary|영주 망명^^{s1}이(가) {s3}에 대한 충성을 철회하고 {s2}에 합류했습니다.
+str_lord_defects_player|영주 망명^^{s1}이(가) {s3}에 대한 충성을 철회하고 임시로 당신의 왕국에 합류했습니다. 원한다면 궁정에서 그의 충성 서약을 받을 수 있습니다.
+str_lord_defects_player_faction|영주 망명^^{s1}이(가) {s3}에 대한 충성을 철회하고 임시로 당신의 왕국에 합류했습니다. 원한다면 궁정에서 그의 충성 서약을 받을 수 있습니다.
+str_lord_indicted_player_faction|{s6}의 명에 따라 {s5}의 {s4}이(가) 반역죄로 기소되었습니다. {reg4?그녀:그}는 모든 영지와 재산을 몰수당하고 도주 중입니다. {s4}은(는) 당신의 왕국에 합류하길 희망하며, 원한다면 궁정에서 그의 충성 서약을 받을 수 있습니다.
+str_lord_indicted_dialog_approach|안녕하시오, {reg59?부인:경}. 제가 {s10}의 수하에서 어떤 부당한 대우를 받았는지 들으셨을 것이오. 당신은 봉신들을 각별히 아낀다는 명성이 자자하더구려. 저를 받아주신다면 당신의 봉신으로서 기꺼이 충성을 맹세하겠소.
+str_lord_indicted_dialog_approach_yes|당신의 서약을 받아들이게 되어 영광이오.
+str_lord_indicted_dialog_approach_no|미안하오. 지금은 그대의 힘이 필요치 않소.
+str_lord_indicted_dialog_rejected|정말이오? 좋소, 아무래도 소문이 과장되었나 보구려, {reg59?부인:경}. 내 진가를 알아봐 줄 다른 군주를 찾아보겠소.
+str__has_been_worried_about_bandits_establishing_a_hideout_near_his_home|근처에 도적들의 은거지가 생겨 여행자들을 위협하는 것을 걱정하고 있소.
+str_bandit_lair_quest_description|{s9}을(를) 찾아 파괴한 뒤 {s11}에게 보고하시오.
+str_reveal_ass|누군가 당신의 목숨을 노리고 있습니다. {s3}에서 암살자들의 접선책을 만나 배후를 알아내야 합니다.
+str_reveal_ass2|접선책이 암살을 사주한 영주를 실토했습니다. 배후는 바로 {s9}입니다. 이제 그를 직접 대면할 시간입니다.
+str_bandit_hideout_preattack|당신은 은거지에 다가갔습니다. {s4}들은 아직 당신을 발견하지 못한 것 같았고, 계속 들키지 않고 접근할 수 있었습니다. 다만 지형이 {s5} 하여 소수의 인원만 도보로 진입할 수 있습니다. 만약 첫 공격이 실패하면 {s4}들은 흩어져 도망칠 것입니다.^은거지를 공격하겠습니까, 아니면 다음 기회를 기다릴 것입니까?
+str_bandit_hideout_failure|{s4}들이 당신의 공격을 격퇴했습니다. 병력을 재편성하여 다시 진군했으나 그들은 이미 주변으로 흩어져 자취를 감추었습니다. 의심할 여지 없이 그들은 계속 여행자들을 괴롭힐 것입니다.
+str_bandit_hideout_success|적들의 퇴로를 차단한 채 맹공을 퍼붓자 {s4}들이 하나둘씩 쓰러져 나갑니다. 그들의 은거지와 약탈품은 이제 당신의 것입니다.
 str_bandit_approach_defile|좁은 골짜기 길을 내려가야
 str_bandit_approach_swamp|소나무 습지을 지나야
-str_bandit_approach_thickets|빽빽한 덤불이 연속된 구간을 지나야
-str_bandit_approach_cliffs|절벽의 측면을 지나 올라야
-str_bandit_approach_cove|바다 절벽을 관통하여 잘린 개울 바닥을 내려가야
-str_political_explanation_lord_lacks_center|이번 경우는, 아무런 땅도 수입도 없는 영주에게 영지를 주어야 하오.
-str_political_explanation_lord_took_center|이번 경우는, 요새를 점령한 사람에게 주어야 하오.
-str_political_explanation_most_deserving_friend|이번 경우는 내 근처의 친구와 동료중 영지를 가장 받을 만한 사람으로 결정했소.
-str_political_explanation_most_deserving_in_faction|이번 경우는 왕국 내 영주들 중 영지를 가장 받을 만한 사람으로 결정했소.
-str_political_explanation_self|I다른 깨끗한 후보가 없기에, 나는 나 자신을 지명하오.
-str_political_explanation_marshal|그는 내가 아는 귀족들중 가장 용감하고, 내가 신뢰할 수 있으며, 그의 이름은 논쟁으로 더럽혀지지 않았기에 나는 그를 지지하겠소.
-str_prisoner_at_large|그를 포로로 잡고 있던 이가 전투에서 패했소. 내 예상에 그 친구는 곧 다시 나타날 것이오.
+str_bandit_approach_thickets|울창한 덤불숲을 통과해야
+str_bandit_approach_cliffs|절벽 옆 좁은 길을 따라 올라야
+str_bandit_approach_cove|해안 절벽 사이의 개울 바닥을 내려가야
+str_political_explanation_lord_lacks_center|이 영지는 땅도 수입도 없는 영주에게 하사하는 것이 옳소.
+str_political_explanation_lord_took_center|이 요새는 직접 점령한 공로가 있는 자에게 하사해야 하오.
+str_political_explanation_most_deserving_friend|가까운 동료와 가신들 중에서 가장 자격이 있는 자에게 영지를 주기로 결심했소.
+str_political_explanation_most_deserving_in_faction|왕국의 모든 영주를 통틀어 가장 큰 공을 세운 자에게 하사하기로 했소.
+str_political_explanation_self|딱히 적임자가 없으니, 이 영지는 내가 직접 거두겠소.
+str_political_explanation_marshal|내가 신뢰하는 자들 중 가장 용맹하고, 평판에 흠결이 없는 자를 원수로 선발했소.
+str_prisoner_at_large|그를 붙잡고 있던 자들이 패배하면서 포로가 풀려났소. 조만간 다시 모습을 드러낼 것이오.
 str_quick_battle_scene_1|농가
-str_quick_battle_scene_2|웨일즈인 마을
+str_quick_battle_scene_2|웨일스 마을
 str_quick_battle_scene_3|톨북으로 가는 길
 str_quick_battle_scene_4|톰 턴 버러
 str_quick_battle_scene_5|스카게락
@@ -2642,19 +2642,19 @@ str_quick_battle_scene_8|전투 화면 6
 str_quick_battle_scene_9|전투 화면 7
 str_quick_battle_scene_10|전투 화면 8
 str_quick_battle_scene_11|전투 화면 9
-str_quick_battle_troop_1|Bodo, servitor to the kings of Asturias, is on a secret mission to the lands of the north.(***)
-str_quick_battle_troop_2|Sven, hersir in the service of Sigurd Snake-in-the-Eye, rides in the prow of his master's ship. He has a well-deserved reputation for ruthlessness and cruelty, running slaves and demanding protection money from Friese to Alba.(***)
-str_quick_battle_troop_3|Cerball mac Dunlainge, head of one of the larger petty kingdoms in Ireland, has won independence from Munster through capable arms and even more capable playing of the various Goidelic (Irish) and Viking factions against one another. Now that he possesses riches and mercenaries from the Viking settlement at Waterford, will he become overlord of Ireland?(***)
-str_quick_battle_troop_4|Artorius, a champion of Rhodri Mawr, helps his master to attempt once again to unify the factious Britons of Wales. It is not a project of expansion but survival against their ancient enemies, the Angles and Saxons, and now the new threat of Vikings.(***)
-str_quick_battle_troop_5|Cinead is named after the chieftain who unified Alba after the old rival dynasties of the Picts and Dal Riata were virtually destroyed by Vikings in a three-way battle in 839. He is one of the few who retain the ancient tradition of horsemanship in these parts, fast-disappearing as the Vikings displace his people from the low-lying areas to the southwest.(***)
-str_quick_battle_troop_6|Oswald is a thegn in the Saxon levy, commanding a large group of ceorls who rent his lands. While the glory goes to the kings, it is the solid officers like him that actually protect West Seaxe.(***)
-str_quick_battle_troop_7|Hildr comes from a persistent tradition among Germanic peoples of women fighters, called skjaldmo, or shield maidens, by the Danes. Her comrades accept her none too grudgingly, as it is whispered she has harnessed the power of runes from wizards in far-off Finland.(***)
-str_quick_battle_troop_cam|Watch the AI play the battle out. The camera uses the standard movement and rotation controls, plus F for up and V for down, +/- for zoom, Q to toggle follow terrain, numpad for game speed, mouse wheel for camera speed, arrow key rotation, Y to toggle invert y-axis, and R to toggle rotate-before-pan.(***)
-str_strategy_cam|이 카메라는 플레이어를 따라다닙니다. F 키를 누르면 거리가 증가하고 V 키를 누르면 거리가 줄어듭니다. 줌은 +/- , 게임 속도는 Numpad, 카메라 스피드는 마우스 휠로 조절할 수 있습니다.
-str_tutorial_training_ground_intro_message|훈련소 주위를 걸어 보고, 다양한 전투방법을 연습하기 위해 전사들과 이야기해야 할 것이다. 당신은 ASDW 키들을 이용해 주위를 이동할 수 있다. 다른 인물들과 이야기를 하려면, 당신의 화면에 그의 이름이 나타날때 까지 그에게 다가가, F 키를 눌러라. 또한 당신은 F키를 이용해 아이템들을 주울 수 있으며, 문을 열거나 대상들과 상호작용할 수 있다. Tab 키를 누르면 당신이 원하는 언제라도 튜토리얼을 나갈 수 있다.
-str_tutorial_doccinga_ground_intro_message|독싱가는 프리지아의 해변에 위치한 작은 어촌입니다. 비록 옛 마법사가 죽은 뒤 외국인의 발길은 끊겼지만, 여전히 이 곳의 사람들은 열심히 일하며 번영을 누리고 있는 것 같아 보입니다. 마을에 들어오면 당신 주변에서 일어나는 다양한 일 들을 볼 수 있을 것입니다.^바쁘게 살아가는 주민들을 제외한 일부 전사들은 바다를 넘어서 모험을 준비하기 위해 무리를 지어 전투 기술을 단련하고 있습니다. 어쩌면 전사들에게 요청하여 다양한 방식의 전투 기술을 연습하는 것도 좋겠군요. (기억하세요: ASDW 키로 이동을 하고. 인물들과 대화하기 위해서는 그 인물들의 이름이 화면에 출력될 때까지 다가가 F 키를 누르세요. 당신은 F키를 눌러 물건을 집거나 문을 열거나 하는 상호 작용을 할 수 있습니다. TAB 키를 누르면 독싱가에서 나갈 수 있을 것입니다.)
-str_map_basic|맵
-str_game_type_basic|게임 타입
+str_quick_battle_troop_1|보도는 아스투리아스 국왕들을 섬기는 가신으로, 북쪽 땅으로 향하는 비밀스러운 임무를 수행 중이오.
+str_quick_battle_troop_2|뱀 눈 시구르드 휘하의 헤르시르인 스벤은 주군 함선의 선수에 올라 있소. 무자비하고 잔인하기로 정평이 난 그는 프리지아에서 알바에 이르기까지 노예를 부리고 보호세를 갈취하고 있소.
+str_quick_battle_troop_3|아일랜드의 군소 왕국 중 하나를 다스리는 케르발 막 둔랑거는 뛰어난 무력과 고이델인 및 바이킹 분파들을 이간질하는 탁월한 책략으로 뮌스터로부터 독립을 쟁취했소. 이제 그는 강력한 부와 워터포드 바이킹 정착지의 용병을 거느리고 있소. 과연 그가 아일랜드의 지배자가 될 수 있겠소?
+str_quick_battle_troop_4|로드리 마우르의 전사인 아르토리우스는 분열된 웨일스의 브리튼인들을 통합하려는 군주를 돕고 있소. 이는 단순한 영토 확장이 아니라 고대의 숙적인 앵글인과 색슨인, 그리고 새로운 위협인 바이킹으로부터 살아남기 위한 생존의 투쟁이오.
+str_quick_battle_troop_5|키네드는 839년 바이킹과의 삼자 전투에서 픽트족과 달 리아타의 고대 왕조들이 멸망한 후 알바를 통합한 족장의 이름을 땄소. 바이킹들이 남서쪽 저지대에서 그의 백성들을 몰아내고 있으나, 그는 여전히 이 지역에 얼마 남지 않은 고유의 기마술 전통을 고수하고 있소.
+str_quick_battle_troop_6|오스왈드는 색슨 민병대의 테인으로, 자신의 땅을 임차한 다수의 세오를들을 지휘하오. 영광은 국왕들에게 돌아가지만, 웨스트 색슨을 실제로 지키는 이들은 그와 같은 강직한 지휘관들이오.
+str_quick_battle_troop_7|힐드르는 게르만 민족 사이에서 전해 내려오는 여전사들의 전통, 즉 데인인들이 '스칼드메르' 혹은 '방패 처녀'라 부르는 계보를 잇고 있소. 멀리 떨어진 핀란드의 마법사들로부터 룬의 힘을 빌려왔다는 소문 덕에 동료들도 그녀를 꽤나 인정하는 분위기요.
+str_quick_battle_troop_cam|인공지능이 전투를 수행하는 것을 관전하세요. 카메라는 표준 이동 및 회전 조작을 사용하며, F(상승), V(하강), +/-(줌), Q(지형 추적 전환), 키패드(게임 속도), 마우스 휠(카메라 속도), 방향키(회전), Y(Y축 반전), R(이동 전 회전 전환)로 조절할 수 있습니다.
+str_strategy_cam|이 카메라는 플레이어를 따라다닙니다. F 키를 누르면 거리가 증가하고 V 키를 누르면 거리가 줄어듭니다. 줌은 +/- , 게임 속도는 Numpad(치트가 활성화된 경우), 카메라 스피드는 마우스 휠로 조절할 수 있습니다.
+str_tutorial_training_ground_intro_message|훈련소를 둘러보고 전사들과 대화하여 전투의 다양한 기술을 연습하십시오. WASD 키로 이동할 수 있습니다. 다른 인물과 대화하려면 화면에 이름이 나타날 때까지 다가가 F 키를 누르십시오. 또한 F 키로 물건을 줍거나 문을 열고 사물과 상호작용할 수 있습니다. 튜토리얼을 종료하려면 언제든 Tab 키를 누르세요.
+str_tutorial_doccinga_ground_intro_message|독싱가는 프리지아의 해안에 위치한 작은 어촌입니다. 비록 옛 마법사가 죽은 뒤로 이방인의 발길은 끊겼지만, 여전히 이 곳의 사람들은 성실하게 일하며 번영을 누리고 있습니다. 마을에 들어서면 그 활기를 느낄 수 있을 것입니다..^바쁘게 살아가는 주민들 사이에는 바다 너머의 모험을 준비하기 위해 전투 기술을 단련하는 전사들이 섞여 있습니다. 어쩌면 전사들에게 요청하여 다양한 방식의 전투 기술을 연습하는 것도 좋겠군요. (기억하세요: ASDW 키로 이동을 하고, 인물과 대화하기 위해서는 그 인물들의 이름이 화면에 출력될 때까지 다가가 F 키를 누르세요. F키를 눌러 물건을 집거나 문을 여는 상호 작용을 할 수 있습니다. TAB 키를 누르면 독싱가에서 나갈 수 있습니다.)
+str_map_basic|지도
+str_game_type_basic|게임 유형
 str_battle|전투
 str_siege_offense|공성전 (공격)
 str_siege_defense|공성전 (방어)
@@ -2664,61 +2664,61 @@ str_player|플레이어
 str_enemy|적
 str_faction|세력
 str_army_composition|군대 구성
-str_army_size|군대 크기
+str_army_size|군대 규모
 str_reg0_men|{reg0}명
 str_start|시작
-str_i_need_to_raise_some_men_before_attempting_anything_else|나는 다른 행동을 하기 전에 병력들을 모을 필요가 있소.
-str_we_are_currently_at_peace|우리는 현재 평화롭소.
+str_i_need_to_raise_some_men_before_attempting_anything_else|다른 일을 도모하기 전에 먼저 병사들을 모집해야 하오.
+str_we_are_currently_at_peace|우리는 현재 평화로운 시기를 보내고 있소.
 str_the_marshalship|총사령관
 str_you|당신
 str_myself|나 자신
 str_my_friend_s15|당신의 친구 {s15}
 str_custom_battle|커스텀 배틀
-str_comment_intro_liege_affiliated_to_player|당신은 왕위를 주장하는 나를 반대한다고 들었네. 두말 할 나위도 없이, 나는 그 소식이 기쁘지 않아. 그러나, 아직 우리는 대화할 여지가 남아 있다고 생각하네.
-str_s21_the_s8_declared_war_out_of_personal_enmity|{s21} {s8}은(는) 개인적 증오로 인해 전쟁을 선포하였습니다.
-str_s21_the_s8_declared_war_in_response_to_border_provocations|{s21} {s8}은(는) 국경 마찰로 인해 전쟁을 선포하였습니다.
-str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s21} {s8}은(는) 다른 세력의 힘을 억제하기 위해 전쟁을 선포하였습니다.
+str_comment_intro_liege_affiliated_to_player|그대가 나의 왕위 계승권에 반기를 들었다고 들었소. 두말할 필요 없이 유쾌한 소식은 아니구려. 허나, 아직은 대화로 풀 여지가 남아 있다고 생각하오.
+str_s21_the_s8_declared_war_out_of_personal_enmity|{s21} {s8}은(는) 개인적인 원한으로 전쟁을 선포하였습니다.
+str_s21_the_s8_declared_war_in_response_to_border_provocations|{s21} {s8}은(는) 국경 분쟁에 대한 보복으로 전쟁을 선포하였습니다.
+str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s21} {s8}은(는) 다른 세력의 확장을 억제하기 위해 전쟁을 선포하였습니다.
 str_s21_the_s8_declared_war_to_regain_lost_territory|{s21} {s8}은(는) 잃어버린 영토를 되찾기 위해 전쟁을 선포하였습니다.
-str_we_are_conducting_recce|우리는 먼저 그 지역을 정찰하고, 그 후에 무엇을 할지 결정하겠소.
+str_we_are_conducting_recce|먼저 해당 지역을 정찰한 뒤, 다음 행동을 결정할 것이오.
 str_center_party_not_active|은(는) 우리의 목표가 아니오. 왜냐하면 우리는 전장을 지휘할 지휘관이 없기 때문이오.
-str_center_is_friendly|은(는) 우리의 적이 아닙니다.
-str_center_is_already_besieged|은(는) 이미 포위되었습니다.
-str_center_is_looted_or_raided_already|은(는) 이미 약탈되었습니다.
-str_center_marshal_does_not_want_to_attack_innocents|은(는) 그 땅이 황폐해 졌을때 가장 슬퍼하게 될 평민들이 거주하는 곳이오.
-str_center_we_have_already_committed_too_much_time_to_our_present_siege_to_move_elsewhere|은(는) 이미 포위되었소. 그러니 다른 곳으로 가는 것은 기회를 놓치는 실수가 될 것이오.
-str_center_we_are_already_here_we_should_at_least_loot_the_village|은(는) 우리 손 안에 있소. 우리는 그들의 부를 차지하고 그 곳을 황폐하게 만들 것이오.
-str_center_far_away_we_can_reconnoiter_but_will_delay_decision_until_we_get_close|NOT USED
-str_center_far_away_our_cautious_marshal_does_not_wish_to_reconnoiter|은(는) 정찰만 하기에도 너무 먼 것 같소만.
-str_center_far_away_even_for_our_aggressive_marshal_to_reconnoiter|은(는) 정찰만 하기에도 너무 먼 것 같소만.
-str_center_far_away_reason|{s6}은(는) {s5}보다 멀어서 점령 후에 지켜내기 힘들 것 같소.
-str_center_closer_but_this_is_not_enought|{s6}은(는) {s5}보다 우리 국경에 가깝소만, 다른 연유로 하여 현재 {s6}을 공격하고 있지는 않소.
-str_center_protected_by_enemy_army_aggressive| 은(는) 우리 부대보다 많은 수의 병력으로 지켜지고 있소.
-str_center_protected_by_enemy_army_cautious| 은(는) 그저 승리에 대한 자신감만으로 공격하기에는 너무 강한 군사로 지켜지고 있소.
-str_center_cautious_marshal_believes_center_too_difficult_to_capture|은(는) 많은 희생이 필요한 위험한 공성을 필요로 하오.
+str_center_is_friendly|은(는) 우리의 적이 아니오.
+str_center_is_already_besieged|은(는) 이미 포위 중이오.
+str_center_is_looted_or_raided_already|은(는) 이미 폐허가 되었소.
+str_center_marshal_does_not_want_to_attack_innocents|은(는) 무고한 백성들이 사는 곳이오. 땅이 황폐해지면 그들이 가장 큰 고통을 겪게 될 것이오.
+str_center_we_have_already_committed_too_much_time_to_our_present_siege_to_move_elsewhere|은(는) 이미 포위되었소. 우리는 이미 공성전에 많은 시간을 할애했소. 이제 와서 다른 곳으로 이동하는 것은 실책이 될 것이오.
+str_center_we_are_already_here_we_should_at_least_loot_the_village|은(는) 지척에 있소. 적의 재물을 취하고 그 땅을 짓밟아야 하오.
+str_center_far_away_we_can_reconnoiter_but_will_delay_decision_until_we_get_close|사용되지 않음
+str_center_far_away_our_cautious_marshal_does_not_wish_to_reconnoiter|은(는) 정찰하기에도 너무 먼 곳에 있소.
+str_center_far_away_even_for_our_aggressive_marshal_to_reconnoiter|은(는) 정찰하기에도 너무 먼 곳에 있소.
+str_center_far_away_reason|{s6}은(는) {s5}보다 우리 거점에서 멀리 떨어져 있소. 따라서 점령하더라도 방어하기가 더 힘들 것이오.
+str_center_closer_but_this_is_not_enought|{s6}은(는) {s5}보다 국경에 가깝소만, 다른 사정으로 인해 지금은 {s6}을(를) 공격하지 않고 있소.
+str_center_protected_by_enemy_army_aggressive| 은(는) 우리 군대보다 더 강한 적군이 지키고 있소.
+str_center_protected_by_enemy_army_cautious| 은(는) 너무 강한 적군에 의해 지켜지고 있어 승리를 확신하기 어렵소.
+str_center_cautious_marshal_believes_center_too_difficult_to_capture| 은(는) 위험한 공성전을 펼쳐야만 하오. 점령하려면 많은 희생을 치뤄야만 할 것이오.
 str_center_even_aggressive_marshal_believes_center_too_difficult_to_capture|을(를) 점령하기에는 그곳의 방어가 너무 견고하오.
-str_center_value_outweighed_by_difficulty_of_capture|은(는) 공격의 어려움을 정당화할만큼 충분한 가치가 없소.
-str_center_value_justifies_the_difficulty_of_capture|은(는) 우리가 점령할 수 있고, 공격을 정당화시킬만큼 충분한 가치가 있소.
-str_center_is_indefensible|은(는) 우리가 방어하고 있는 다른 요새와 너무 멀리 떨어져 있소.
-str_we_are_waiting_for_selection_of_marshal|우리는 총사령관의 선택을 기다리고 있소.
-str_best_to_attack_the_enemy_lands|우리의 군세를 감안할때, 적의 땅을 공격하는 것이 가장 좋은 방법이라 믿고 있소.
-str_we_believe_the_fortress_will_be_worth_the_effort_to_take_it|우리는 그 요새를 점령하기 위해 노력할 만한 가치가 있다고 믿고 있소.
-str_we_will_gather_to_defend_the_beleaguered_fortress|우리는 포위된 요새를 방어하기 위해서 모일 것이오.
-str_the_enemy_temporarily_has_the_field|적은 일시적으로 야전에서 우위에 있소. 따라서 우리는 이 공격이 끝날 때까지 피할 곳을 찾아야 하오.
-str_center_has_not_been_scouted|은(는) 최근 우리 군대가 정찰 하지 못했소. 그러나 우리는 거기로 갈것이고, 그 근처에 갔을때 우리가 어떻게 해야 할지 결정했소.
-str_we_have_assembled_some_vassals|우리는 몇몇 봉신들로 조직되어 있지만, 적들의 영토로 들어가는 모험을 하기까지 좀 더 기다려야 하오.
-str_we_are_waiting_here_for_vassals|우리는 봉신들이 합류해오길 기다리고 있소.
-str_we_are_travelling_to_s11_for_vassals|우리는 {s11}(으)로 이동하고 있소, 그렇게 해서 우리가 더 멀리 가기 전에 봉신들이 좀 더 쉽게 우리의 주인에게 합류할 것이오.
-str_center_strength_not_scouted|우리는 최근 그곳을 정찰하지 못했소. 그래서 그곳의 방어가 얼마나 견고 한지 알지 못하고 있소.
-str_center_strength_strongly_defended|우리는 그곳이 견고하게 방어되고 있다고 믿고 있소.
-str_center_strength_moderately_defended|우리는 그곳이 적당히 잘 방어되고 있다고 믿고 있소.
-str_center_strength_weakly_defended|우리는 그곳의 방어가 허술 할것이라 믿고 있소.
-str_center_distant_from_concentration|은(는) 적의 본대보다 우리에게 가까이 있는다는 것을 알아냈소. 그들이 호응하기 전에 공격해 섬멸할 수 있을 것이오.
+str_center_value_outweighed_by_difficulty_of_capture|은(는) 공격의 어려움을 감수할 만큼의 가치가 없소.
+str_center_value_justifies_the_difficulty_of_capture|은(는) 우리의 힘으로 함락시킬 수 있을 것 같소. 그럴만한 가치가 있는 곳이오.
+str_center_is_indefensible|은(는) 우리의 다른 요새들과 너무 멀어 방어하기가 불가능하오.
+str_we_are_waiting_for_selection_of_marshal|총사령관의 선출을 기다리고 있소.
+str_best_to_attack_the_enemy_lands|아군의 규모를 고려할 때, 적의 영토를 공격하는 것이 최선의 방책이라 믿고 있소.
+str_we_believe_the_fortress_will_be_worth_the_effort_to_take_it|우리는 그 요새를 점령하기 위해 전력을 다할 가치가 있다고 믿고 있소.
+str_we_will_gather_to_defend_the_beleaguered_fortress|우리는 포위당한 요새를 구원하기 위해 집결할 것이오.
+str_the_enemy_temporarily_has_the_field|적군이 일시적으로 야전을 장악했소. 폭풍같은 공세가 지나갈 때까지는 피난처를 찾아야 하오.
+str_center_has_not_been_scouted|은(는) 아직 정찰하지 못했으나, 일단 그곳으로 이동한 뒤 근방에서 다음 행동을 결정하겠소.
+str_we_have_assembled_some_vassals|몇몇 봉신들이 모였으나, 적진으로 진격하기에는 더 많은 병력이 올 때까지 기다려야 하오.
+str_we_are_waiting_here_for_vassals|봉신들이 합류하기를 기다리는 중이오.
+str_we_are_travelling_to_s11_for_vassals|우리는 {s11}(으)로 이동 중이오. 출정하기 전에 봉신들이 아군 본대에 더 쉽게 합류할 수 있도록 하려는 것이오.
+str_center_strength_not_scouted|최근엔 그 곳까지 정찰하지 못하여 적의 방어 태세가 어떠한지 알지 못하오.
+str_center_strength_strongly_defended|그곳의 방비가 매우 삼엄할 것으로 보고 있소.
+str_center_strength_moderately_defended|그곳의 방비가 적당히 잘 갖춰진 것으로 보고 있소.
+str_center_strength_weakly_defended|그곳의 방비가 허술할 것으로 보고 있소.
+str_center_distant_from_concentration|은(는) 적의 본대보다 우리에게 더 가까이 있다는 것을 알아냈소. 적이 대응하기 전에 공격하여 섬멸할 수 있을 것이오.
 str_plus|+
 str_minus|-
-str_tutorial_training_ground_warning_no_weapon|이보게, 당신은 우리가 훈련하기 전에 당신은 어떤 무기라도 필요하다는 생각이 안드나? 저기 여분의 무기들이 있을 걸세. 가서 아무거나 하나 가져오게.
-str_tutorial_training_ground_warning_shield|당신은 먼저 방패를 내려놓는게 필요하네. 마우스 휠을 아래로 스크롤하면 당신의 방패를 내려 놓을 수 있네.
-str_tutorial_training_ground_warning_melee_with_parry|이 연습을 위해서는 당신은 근접 무기를 사용해야 하네.
-str_tutorial_training_ground_warning_melee|무기를 착용하려면 당신의 마우스 휠을 위로 스크롤 하게. 위로 스크롤 하면 다음 무기를 착용하고, 아래로 스크롤 하면 다음 방패를 착용하게 되네.
+str_tutorial_training_ground_warning_no_weapon|이보게, 연습을 시작하기 전에 무기 정도는 갖춰야 하지 않겠나? 저기에 여분의 무기가 있으니 가서 하나 챙겨오게.
+str_tutorial_training_ground_warning_shield|먼저 방패를 내려놓아야 하네. 마우스 휠을 아래로 굴리면 방패를 해제할 수 있네.
+str_tutorial_training_ground_warning_melee_with_parry|이 훈련을 수행하려면 근접 무기를 장착해야 하네.
+str_tutorial_training_ground_warning_melee|마우스 휠을 위로 굴려 무기를 장착하게. 위로 굴리면 무기가 바뀌고, 아래로 굴리면 방패가 바뀐다네.
 str_tutorial_training_ground_attack_training|성공적으로 공격한 수: {reg0} / 5^실패한 공격 수: {reg1}^{s0}
 str_tutorial_training_ground_attack_training_down|찌르기 공격을 하시오! (왼쪽 마우스 버튼을 누른 동안 당신의 마우스를 아래로 움직여라)
 str_tutorial_training_ground_attack_training_up|내려찍기 공격을 하시오! (왼쪽 마우스 버튼을 누른 동안 당신의 마우스를 위로 움직여라)
@@ -2727,10 +2727,10 @@ str_tutorial_training_ground_attack_training_right|오른쪽으로 공격하시�
 str_tutorial_training_ground_parry_training|성공적으로 쳐낸 수: {reg0} / 5
 str_tutorial_training_ground_chamber_training|방어에 성공한 횟수: {reg0} / 5
 str_tutorial_training_ground_archer_training|명중한 횟수: {reg0} / 3^{s0}
-str_tutorial_training_ground_ammo_refill|당신의 화살이 튜토리얼을 위해 보충되었습니다.
-str_tutorial_training_ground_archer_text_1|{s0} 앞으로 다가가서 F 키를 눌러 집으세요.
-str_tutorial_training_ground_archer_text_2|타겟을 향해 발사하라.
-str_tutorial_training_ground_archer_text_3|목표 조준선의 크기는 당신의 정확도를 가리킵니다. 조준선의 크기가 최소화될 때까지 마우스 왼쪽 버튼을 누르고 있어야 할 것입니다. 조준선이 가장 작을 때 왼쪽 마우스 버튼을 놓으십시오. 만약 당신이 너무 오랫동안 기다린다면 조준선은 다시 커질 것입니다.
+str_tutorial_training_ground_ammo_refill|훈련을 위한 투척 무기/화살이 보충되었습니다.
+str_tutorial_training_ground_archer_text_1|{s0}에게 다가가 F 키를 눌러 획득하세요.
+str_tutorial_training_ground_archer_text_2|표적을 맞히시오.
+str_tutorial_training_ground_archer_text_3|조준선의 크기는 정확도를 나타냅니다. 조준선이 최소가 될 때까지 마우스 왼쪽 버튼을 누르고 있다가, 가장 작아졌을 때 버튼을 놓으십시오. 너무 오래 머뭇거리면 조준선이 다시 벌어질 것입니다.
 str_tutorial_training_ground_archer_text_4|R 키를 누르면 1인칭 시점으로 볼 수 있습니다. 1인칭 시점은 원거리 무기를 보다 더 쉽게 조준할 수 있게 해 줍니다.
 str_tutorial_training_ground_archer_text_5|모든 목표물을 맞췄습니다. 훈련 교관과 다시 대화하세요.
 str_tutorial_training_ground_horseman_text_1|{s0} 근처로 가서 F 키를 눌러 집으세요.
@@ -2739,102 +2739,102 @@ str_tutorial_training_ground_horseman_text_3|다음 지점으로 이동하세요
 str_tutorial_training_ground_horseman_text_4|다음 모형을 목표로 하여 그것을 강타하세요!
 str_tutorial_training_ground_horseman_text_5|궁술 훈련 목표물을 조준하고 맞추세요!
 str_tutorial_training_ground_horseman_text_6|연습을 성공적으로 마쳤습니다. 지금 훈련 교관에게 돌아가 대화하세요.
-str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|당신 왕국의 위대한 영주들이 연회를 위해 {s10}의 당신의 회당에 모일 예정입니다
+str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|왕국의 위대한 영주들이 연회를 위해 {s10}에 있는 당신의 회당에 모일 예정입니다.
 str_your_previous_court_some_time_ago|당신이 소유한 이전의 궁정,
 str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court|당신의 궁정으로 사용할 수 있는 요새를 탈환하기 위해 기다리는 중이오.
-str_but_if_this_goes_badly| 나는 당신의 조언에 충분한 가치가 있다고 보고 있소. 그러나 만약 그 내용이 틀린 것이라면, 나는 당신에게 책임을 물을 것이오.
-str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm| 나는 당신이 {s4}와 좋은 관계에 있다는 것을 알고 있소. 그러나 이 일을 받아들이는 것이 모두를 위해서도, 왕국을 위해서도 더 좋은 일일 것이오.
-str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more|나는 당신이 {s4}와 좋은 관계에 있다는 것을 알고 있소 -- 그러나 당신이 그를 공격하는 것은 단지 당신에게 고난이 가중되는 것이라는 것을 기억하시오!
-str_killed_bandit_at_alley_fight|그 상인은 당신을 그의 집으로 데리고 갔다. 일단 안으로, 그는 문 주변과 거리를 확인하고, 마침내 미행되지 않는다고 확신하고 조용히 당신한테 말하는데....
-str_wounded_by_bandit_at_alley_fight|당신은 쓰러졌다. 그러나, 당신은 의식을 잃기전, 함성과 달려오는 소리를 들었씁니다... 당신은 깨어나 건물안에서 다쳤지만 살아있는 당신 자신을 발견했다.
-str_cannot_leave_now|지금은 이 곳에서 떠날 수 없다.
-str_press_tab_to_exit_from_town|Tab 키를 눌러라. 게임 내에서 TAB 키로 어떤 내부 공간이든 빠르게 빠져나올 수 있다.
-str_find_the_lair_near_s9_and_free_the_brother_of_the_prominent_s10_merchant|{s9}의 근처에 있는 도적들의 은신처를 찾고, {s10}의 동생을 구출하십시오.
-str_please_sir_my_lady_go_find_some_volunteers_i_do_not_know_how_much_time_we_have|{reg59?아가씨:경} -- 내가 당신을 신임하길 바란다면 조금 서두를 필요가 있소. 가서 지원자들을 더 찾으시오. 나는 우리에게 주어진 시간이 얼마인지 확신할 수 없소.
-str_you_need_more_men_sir_my_lady|이보시오 -- 당신은 더 많은 사람이 필요하오. 지금 당신 부대에는 {reg0}명 뿐이오. 만약 당신이 너무 적은 인원으로 그들을 공격한다면 스스로 족쇄를 차고 그들의 은신처를 발견한거요. 그리고 그것은 우리의 계획이 아니오. 그런 위험을 감수하지 마시길 바라오. 나가서 마을들을 방문해 더 많은 지원자를 찾으시오. 그리고 그때 당신은 그들에게 보수를 지불해야하오.
-str_good_you_have_enough_men|좋소, 좋아. 잘했소. 당신은 충분한 인원을 모았소. 이제 나가서 한무리의 도적 떼를 쓰러뜨리고 그들의 은신처를 당신이 어떻게 찾을수 있을지 말하게 만드시오.
-str_do_not_waste_time_go_and_learn_where_my_brother_is|이보시오, {reg59?아가씨:경}. 시간이란 중요한 것이오. 지금, 당신이 내 동생을 그들이 어디에 숨겼는 지 찾아낸다면, 더욱 가치있게 될 것이오.
-str_start_up_quest_message_1|{s9}은 당신이 근처 마을들로부터 최소한 다섯 명의 병력들을 모집하길 원합니다. 병력들을 모집한 후에 그를 찾아 대화하세요. 그는 {s1}의 선술집에 있습니다.
-str_start_up_quest_message_2|{s9}의 근처에 숨어있는 도적 무리들을 찾아내서 무찌르고, 당신 의뢰인의 동생이 어디에 잡혀있는 지 알아내십시오.
-str_start_up_quest_message_3|상인의 동생을 {s9} 근처에 위치한 강도들의 은신처로 부터 구출하십시오.
-str_start_up_first_quest|당신은 첫 번째 임무를 받았습니다. 당신은 게임 중 어느 때든지 'Q'를 누르면 임무 기록을 볼 수 있습니다.
-str_reason_1|우리의 현재 목표는 중요한 가치가 있소.
-str_reason_2|{s8}을(를) 공략하는 것은 우리의 왕국에 큰 위험이 될 것이라고 믿고 있소.
-str_reason_3|우리는 {s8}이(가) 더 급박한 위협에 직면해 있다고 믿고 있소.
-str_reason_4|그것은 아마 그럴 것이오. 왜나하면 지역의 적의 규모 때문일 것이오.
-str_reason_5|나는 확신할 수 없군.
-str_reason_6|우리는 얼마나 강력하게 방어되고 있는지 모르오.
-str_reason_7|우리는 강력하게 방어 되고 있다고 믿소.
-str_reason_8|우리는 적절하게 잘 방어 되고 있다고 믿고 있소.
-str_reason_9|우리는 허술하게 방어되고 있다고 믿소.
-str_has_decided_that_an_attack_on_|공략하기로 결정했소
-str_this_would_be_better_worth_the_effort|이것은 그것의 가치와, 거리, 수비병의 수 같은 것들을 고려해 볼 때, 시도할만한 가치가 더 있소.
-str_has_decided_to_defend_|방어하기로 결정했소
-str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so_this_can_be_reason_marshal_choosed_defending_s4|어떤 위협이 있을 경우, 우리는 공격을 하기 전에 우리의 영지들을 지켜야만 하오. 그래서 나는 적들에게서 {s4}을(를) 방어하기 위해 가고 있소.
-str_are_you_all_right|그럼... 저의 제의에 대해 설명하겠다.
-str_you_are_awake|아 -- 일어났구려, 당신이 아직 걸을 수 있는 것 같아 다행이오.
+str_but_if_this_goes_badly| 그대의 조언을 귀히 여기겠소. 허나 일이 잘못된다면 그대에게 책임을 물을 것이오.
+str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm| 그대가 {s4}와(과) 각별한 사이인 것은 알고 있소만, 이 일은 왕국의 안녕을 위한 것이니 이해해 주시오.
+str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more|그대가 {s4}와(과) 각별한 사이라는 것을 알고 있소. 하지만 그것은 그대의 공격이 그에게 더 큰 상처가 될 것임을 의미할 뿐이오!
+str_killed_bandit_at_alley_fight|상인은 당신을 그의 집으로 데리고 갑니다. 안으로 들어서자 그는 문 주변과 거리를 신중히 살핍니다. 미행이 없다는 것을 확신한 후에야 마침내 안심한 듯 입을 엽니다...
+str_wounded_by_bandit_at_alley_fight|당신은 쓰러졌습니다. 의식을 잃기 직전, 거친 함성과 달려오는 발소리를 들었습니다... 다시 눈을 떴을 때, 비록 몸은 크게 다쳤으나, 살아남아 안전한 실내에 누워있다는 것을 알아차렸습니다.
+str_cannot_leave_now|지금은 이 곳에서 떠날 수 없습니다.
+str_press_tab_to_exit_from_town|떠나려면 Tab 키를 누르시오. 게임 내 어디서든 Tab 키를 누르면 빠르게 현장을 빠져나갈 수 있습니다.
+str_find_the_lair_near_s9_and_free_the_brother_of_the_prominent_s10_merchant|{s9} 근처에 있는 도적들의 은신처를 찾아 {s10}의 동생을 구출하십시오.
+str_please_sir_my_lady_go_find_some_volunteers_i_do_not_know_how_much_time_we_have|{reg59?부인:경} 당신에 대한 내 신뢰를 증명하고 싶다면 서두르시오. 가서 지원병을 더 모집해 오시오. 우리에게 시간이 얼마나 남았는지 조차 확신할 수 없소.
+str_you_need_more_men_sir_my_lady|이보시오, 더 많은 인원이 필요하오. 지금 그대의 부대에는 고작 {reg0}명뿐이지 않소. 너무 적은 수로 덤볐다가는 놈들의 은신처를 구경하기도 전에 쇠고랑을 차게 될 것이오. 그렇게 되는 것이 우리의 계획은 아니지 않소. 무리한 위험을 감수하지 마시오. 마을을 돌아다니며 지원자를 더 찾고 그들에게 합당한 대가를 지불하시오.
+str_good_you_have_enough_men|좋소, 아주 잘했소. 충분한 인원을 모았구려. 이제 나가서 도적 무리를 때려잡고 그놈들의 입을 열어 은신처 위치를 알아내시오.
+str_do_not_waste_time_go_and_learn_where_my_brother_is|{reg59?부인:경}, 시간이 촉박하오. 내 형제가 어디에 잡혀있는지 어서 알아내 준다면 정말 고맙겠소.
+str_start_up_quest_message_1|{s9}은(는) {s1}에서 해답을 찾을 수 있을 것이라 말합니다. 그곳의 마을 촌장인 손크릭에게 물어봅시다.
+str_start_up_quest_message_2|손크릭은 독싱가 근처 정착지인 켄네머의 야를이 '황소 목' 스벤의 행방을 알고 있을지도 모른다고 합니다.
+str_start_up_quest_message_3|{s9} 근처에 있는 도적 은신처에서 상인의 형제를 구출하시오.
+str_start_up_first_quest|당신은 첫 번째 임무를 받았습니다. 당신은 게임 중 어느 때든지 'Q'를 누르면 임무 기록을 볼 수 있습니다.^^이 화면(혹은 다른 장소)에서 나가려면 TAB 키를 누르십시오.
+str_reason_1|현재 우리가 추구하는 목표에는 더 큰 가치가 있소.
+str_reason_2|{s8}을(를) 공격하는 것은 우리의 왕국에 큰 위험을 초래할 것이라 믿고 있소.
+str_reason_3|우리는 {s8}이(가) 더 급박한 위협에 직면해 있다고 판단했소.
+str_reason_4|이 지역에 주둔한 적군의 규모 때문일 것이오.
+str_reason_5|확신할 수 없소.
+str_reason_6|그곳의 방비가 얼마나 삼엄한지 알지 못하오.
+str_reason_7|그곳의 방비가 매우 견고할 것이라 믿소.
+str_reason_8|그곳의 방비가 적당히 갖춰져 있을 것이라 믿소.
+str_reason_9|그곳의 방비가 허술할 것이라 믿소.
+str_has_decided_that_an_attack_on_|공격을 결정했소.
+str_this_would_be_better_worth_the_effort|영지의 가치와 거리, 예상되는 수비병 수 등을 고려할 때, 이곳을 공략하는 것이 더 효율적이오.
+str_has_decided_to_defend_|방어를 결정했소.
+str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so_this_can_be_reason_marshal_choosed_defending_s4|공세에 나서기 전, 위협으로부터 우리 영토를 먼저 보호해야 하오. 이것이 사령관이 {s4}의 방어를 선택한 이유일 것이오.
+str_are_you_all_right|아, 정신이 드는 모양이구려. 아직 걸을 수 있다니 다행이오. 운이 좋았소, 이방인! 신께서 보살피신 게 분명하오. 이곳으로 실려 왔을 때만 해도 그대는 송장이나 다름없었으니 말이오.
+str_you_are_awake|아, 정신이 드는 모양이구려. 아직 걸을 수 있다니 다행이오. 운이 좋았소, 이방인! 신께서 보살피신 게 분명하오. 이곳으로 실려 왔을 때만 해도 그대는 송장이나 다름없었으니 말이오.
 str_save_town_from_bandits|도적들로부터 {s9}를 구해내라.
-str_you_fought_well_at_town_fight_survived|하! 잘했소 -- 나는 당신의 앞에서 적어도 3명의 적이 쓰러지는 걸 봤소. 앞으로도 그렇게 싸운다면 당신의 이름을 이 땅에 떨칠 수 있을 것이오.
-str_you_fought_normal_at_town_fight_survived|아주 잘했네! 그대가 그 도적놈들을 손봐 주었다는 소리를 들었네. 그러고도 사지 멀쩡히 살아있다니, 전투 후에는 그보다 나은 결과가 또 어디 있겠나...
-str_you_fought_bad_at_town_fight_survived|글쎄, 그 도적놈들은 도망쳤다 들었네. 그대의 사지도 멀쩡해 보이니, 전투 후에는 그것이 가장 중요하지 않겠나.
-str_you_fought_well_at_town_fight|아! 일어 나셨군. 상처가 꽤 깊어보이지만, 좋은 소식이 있다네! 우리가 그들을 무찔렀네 -- 그리고 그대가 기절하기 전 적들에게 상당한 타격을 입혔지. 그대가 없었다면 상황이 더 악화 되었겠지. 감사의 뜻을 표하네...
-str_you_wounded_at_town_fight|아! 살아있었군. 상처가 꽤 깊어보이는데, 그대가 정말로 적을 무찔렀는지는 모르겠네만, 다행이도 나와 내 동료들만으로 그들을 무찌를 수 있었다네. 그보다 당신이 치료받아야 할지부터 좀 알아보세...
-str_you_fought_well_at_town_fight_survived_answer|모든 악한들이 {playername}의 이름에 공포를 배우게 될거요!
-str_you_fought_normal_at_town_fight_survived_answer|아, 음, 동료과 함께 내 할 일을 할수 있었던 내 자신이 자랑스러웠소...
-str_you_fought_bad_at_town_fight_survived_answer|글쎄, 놈들 중 한놈을 치려했는데, 피 때문에 미끄러져 버렸소. 무슨 뜻인지 알지않소..
-str_you_fought_well_at_town_fight_answer|아, 글쎄, 좋은 일을 하다 입은 상처는 크게 신경쓰지 않소.
-str_you_wounded_at_town_fight_answer|그렇군. 앞으로는 조금 더 조심하리다.
-str_unfortunately_reg0_civilians_wounded_during_fight_more| 불행하게도 한 {reg0}명의 내 동료들이 부상을 입었네. 나는 그들을 보러 가야해.
-str_unfortunately_reg0_civilians_wounded_during_fight| 불행히도, 내 동료들 중 한명이 꽤 깊은 부상을 입었네. 그를 보러 가봐야겠군.
-str_also_one_another_good_news_is_any_civilians_did_not_wounded_during_fight| 또, 우리 동료들중 누구도 심한 부상을 입지 않았다네. 그 또한 좋은 소식이지.
-str_merchant_and_you_call_some_townsmen_and_guards_to_get_ready_and_you_get_out_from_tavern|당신은 선술집을 나와 거리로 향했다. 긴장해 보이는 청년들이 거리의 모퉁이마다 기다리고 있었다. 당신은 그들의 옷 밑에 숨긴 단검들과 뭉둥이들을 볼 수 있었고, 그들이 당신이 지나는 옆으로 흘깃 던지는 시선에서 두려움, 초조, 그리고 결의를 느낄 수 있었다. 그러나 이 모든 것이 너무 노골적이여서 적들이 이걸 눈치채지 못하길 기도하며, 당신은 결행에 옮기기에 앞서 자신의 무기를 점검했다.
-str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|남아 있는 몇몇의 도적들은 성난 시민들에 의해 차례차례 몰아져 좁은 골목길로 흩어졌다. 이것은 확실합니다. 당신의 승리는 완벽하고 모든 부상당한 사람들은 치료 받았으며, 당신과 상인의 수장은 그의 집에서 오늘의 일을 재검토 했다.
-str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|당신은 마지막 숨소리와 함께 쓰러졌으며, 몸을 움직일 수 없었고 단지 의식을 잃지 않기 위해 노력하고 있다. 곧 주변으로 사람들이 몰려와 당신을 구조했고, 당신은 오늘 진정으로 이긴 것은 당신이라는 사실을 구조되며 실감했다. 곧, 사람들이 당신을 땅에서 일으켜 세웠고, 당신은 행복한 잠에 빠졌다. 한 시간 후, 당신은 여관에서 일어났다.
-str_seabattle_tutorial|You are the captain of the ship! You have to give commands:^> 위쪽 십자키와 아래쪽 십자키로 속도를 조절할 수 있습니다.^> 오른쪽 십자키와 왼쪽 십자키로 선회 방향을 조정할 수 있습니다.^> 엔터 키를 누르면 돛을 올리거나 내릴 수 있습니다.^> 백스페이스 키를 누르면 당신의 시점을 변경할 수 있습니다.^^키를 여러번 누르지 않는 것이 좋을 것입니다. 그들은 당신의 명령을 수행하기 위한 약간의 시간을 필요로 합니다. 오른쪽 상단 모서리에서 당신은 당신의 배에 내린 마지막 명령을 확인할 수 있을 것입니다.
-str_bodo_animos|보도가 외쳤습니다. '{playername}! 싸웁시다! 우리 같이 저들에 맞서 싸웁시다!'
-str_journey_to_reyvadin|You have reached Grantebrycge in the land of the East Engle. When you arrive, you see that people look at you with apprehension, and they reach for their weapons.^^Here live the Angles under the rule of Annan Eningen. This land doesn't know peace because the Angles of Mierce invade and destroy, killing people and kings and claiming the country as their own. Annan Ening is a Christian, a good Christian, but he has seen his brothers, kings before him, die under the sword of Penda, King of Mierce, and Annan hungers for revenge.
-str_journey_to_praven|Your steps lead you to the cold North. This country, known as Alt Clut, is big, hard and it has a landscape dominated by forests. Alt Clut is populated by Britons, strong and tough people accustomed to using both the plow and the spear.^^Here rules Bili ap Neithon, a descendant of an ancient lineage. Bili is nearly 50 years old, but he still is a hard and strong man.
-str_journey_to_jelkala|Welcome to Clochair, in the green land of Ireland. You are in the young Kingdom of Airgialla, forged in the heat of the sword when three warlike princes, called the Three Collas, made a conquest of a great part of Ulaid. Airgialla knows only war, because of a constant struggle with the Kingdom of Ulaid.^^In these days, it's ruled by Mael Odhar Caech, arrogant and bellicose. His reputation keeps enemies away, but what will happen when he dies?
-str_journey_to_sargoth|You get to Cantwaraburh, in Centware country, where Eadbald Aethelberthing rules. Their ancestors were Brytenwaldas, but he has lost the title that now holds a master of the North: Oswald of Bernaccia. Eadbald has good partnerships with the most powerful lords of Britain and even with the Franks. His country does not suffer from the war with regularity, the land is peaceful and prosperous. It is a good place to buy a piece of land, marry and see your children grow... for now.
-str_journey_to_tulga|You came by ship, skirting the cliffs where the Gwynedd highlands meet the sea. Soon you distinguish Din Gonwy, capital of the kingdom. Walking you see that the streets are dark and silent. The great king-warrior Cadwallon died two years ago, and Gwynedd is still mourning his death. He left a son, Cadwaladr, but he is still a child of three years old. The hard men of Gwynedd, considered among the strongest in Britain, have been summoned to war this year. They cry and wait, keeping sharp swords.^^There is a new master, Cadfael Cadomedd, which has displaced the son of Cadwallon and his mother's power. He says that they have returned to the glory days...
-str_journey_to_shariz|You are in Dun Iasgach, a powerful town in Mumain Kingdom in the south of Ireland. It is a rich land, with great forests and rivers teeming with fish. It could be a perfect place to live, but Ireland is a land of war, where clans fight for any reason, stealing cattle and women and killing the young warriors in fratricidal struggles.^^Mumain is ruled by Failbhe Flann mac Aedh, he is ambitious and wants more land and a weakened Laigin Kingdom.
-str_lost_tavern_duel_ordinary|당신은 주정뱅이의 마지막 공격에 바닥에 고꾸라졌습니다. 당신을 공격한 사람의 분노는 곧 수그러들었고 그는 의자에 주저앉아 당신을 바라보며 후회하는 듯한 중얼거림이 그의 숨소리에서 새어져 나왔습니다. 몇몇 다른 손님들이 그를 달래어 일으켜 세우고는 문 밖으로 데리고 나갔고 다른 한 명은 당신의 상처를 돌봐주었습니다. 그리고 곧 당신은 자신의 발로 일어섰습니다. 아직 불안정하긴 하지만 당신은 살아있습니다.
-str_lost_tavern_duel_assassin|당신은 습격자의 마지막 공격에 의식을 잃고 바닥에 쓰러져 넘어졌습니다. 그리고 유유히 그는 당신의 옆에 무릎을 꿇고 앉아 옷 속에서 천천히 긴 단도를 꺼내들었습니다. 그러나 그가 당신의 숨통을 끊기 전에 용기를 낸 술집 주인이 당신을 공격한 사람의 뒤로 다가가 머리를 내려쳤습니다. 그는 균형을 잃었고, 곧 당신을 죽일 기회를 놓쳤음을 알고서 문으로 달려 그대로 달아났습니다. 그 사이 주점에 있던 다른 사람이 당신 방으로 돌아가 쉬고 회복할 수 있도록 상처를 묶고 잡아 매어 주었습니다.
-str_lost_startup_hideout_attack|잠시 후, 당신은 정신을 차렸고, 납치범들이 술통을 깨며 자신들의 승리를 축하하느라 당신의 손과 발을 묶는 것을 잊어버리고 있는 걸 알아차렸습니다. 덕분에 당신은 몰래 잘 빠져나왔습니다. 은신처에서 들리는 왁자지껄한 소리를 통해 당신은 동료를 더 모아 또 다른 공격을 시도할 시간이 있음을 짐작할 수 있었습니다.
-str_as_you_no_longer_maintain_an_independent_kingdom_you_no_longer_maintain_a_court|당신은 더 이상 독립된 왕국을 지배하는 군주가 아니며, 당신의 궁정은 해산되었습니다.
+str_you_fought_well_at_town_fight_survived|하! 훌륭했소! 그대의 칼끝에 적어도 셋은 쓰러지는 걸 보았지. 계속 그렇게 싸워준다면 이 땅에 그대의 명성을 떨칠 수 있을 것이오.
+str_you_fought_normal_at_town_fight_survived|잘했소! 그대가 그놈들을 몇 명 처리했다고 들었소. 사지 멀쩡히 서 있으니 다행이구려. 전투에서 이보다 더 나은 결과가 어디 있겠소...
+str_you_fought_bad_at_town_fight_survived|음, 어쨌든 적들은 도망쳤고 그대도 무사해 보이는구려. 결국 전투에서 가장 중요한 건 살아남는 것이지.
+str_you_fought_well_at_town_fight|아! 일어 나셨군. 상처가 꽤 깊어보이긴 하지만, 어쨌든 좋은 소식이 있소! 우리가 놈들을 물리쳤소. 그대가 쓰러지기 전까지 적들에게 입힌 타격이 컸소. 당신이 없었다면 상황이 아주 나빠졌을 거요. 참으로 고맙소...
+str_you_wounded_at_town_fight|아! 살아있었군. 다행이오. 꽤나 깊은 상처를 입었더군. 그대가 직접 적을 쓰러뜨렸는지는 확실치 않으나, 다행히 남은 우리끼리 놈들을 격퇴할 수 있었소. 그보다 당신은 치료부터 받아야겠구려...
+str_you_fought_well_at_town_fight_survived_answer|모든 악한들이 {playername}의 이름만 들어도 벌벌 떨게 될 것이오!
+str_you_fought_normal_at_town_fight_survived_answer|아, 그저 동료들과 함께 내 몫을 다했을 뿐이오. 그렇게 할 수 있어 자랑스럽소...
+str_you_fought_bad_at_town_fight_survived_answer|그게, 놈 중 하나를 내리치려던 찰나에 그만 핏물에 미끄러졌지 뭐요...
+str_you_fought_well_at_town_fight_answer|아, 뭐 어떻소. 대의를 위해 입은 상처라면 개의치 않소.
+str_you_wounded_at_town_fight_answer|알겠소. 앞으로는 좀 더 조심해야겠구려.
+str_unfortunately_reg0_civilians_wounded_during_fight_more| 유감스럽게도 내 부하들 중 {reg0}명 정도가 부상을 입었소. 그들을 좀 살펴봐야겠구려.
+str_unfortunately_reg0_civilians_wounded_during_fight| 유감스럽게도 내 부하 중 한 명이 꽤 심한 상처를 입었소. 상태가 어떤지 보러 가야겠소.
+str_also_one_another_good_news_is_any_civilians_did_not_wounded_during_fight|또한 우리 측 인원 중 누구도 크게 다치지 않았소. 참으로 다행한 일이지.
+str_merchant_and_you_call_some_townsmen_and_guards_to_get_ready_and_you_get_out_from_tavern|당신은 선술집을 나와 거리로 향합니다. 거리 모퉁이마다 긴장한 기색을 감추지 못한 젊은이들이 기다리고 있습니다. 옷 밑에 숨긴 단검과 몽둥이가 보였고, 그들이 당신에게 던지는 눈빛에는 두려움과 기대, 그리고 결의가 뒤섞여 있습니다. 이 허술한 모의꾼들의 모습이 적들에게 들키지 않았기를 기도하며, 당신은 마지막으로 무기를 점검하고 결전을 준비합니다.
+str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|남아있던 소수의 도적은 격노한 시민들에게 쫓겨 좁은 골목으로 흩어졌고, 결국 하나씩 소탕되었습니다. 완벽한 승리를 거두고 부상자들을 모두 돌본 뒤, 당신과 상인들의 수장은 그의 집에서 오늘의 일을 되짚어 봅니다.
+str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|당신은 마지막 일격을 허용하며 쓰러졌습니다. 몸을 움직일 수 없었지만 정신을 잃지 않으려 안간힘을 써 봅니다. 이윽고 거리를 가득 채운 전투의 소음이 시민들의 환호성으로 바뀌었을 때, 아군이 승리했음을 깨달으며 안도합니다. 친절한 손길들이 당신을 일으켜 세웠고, 곧 깊고 편안한 잠에 빠져들었습니다. 몇 시간 뒤, 당신은 상인의 집에서 깨어납니다.
+str_seabattle_tutorial|당신은 이 배의 선장입니다! 다음과 같이 명령을 내릴 수 있습니다:^> '위' 및 '아래' 방향키로 노 젓는 속도를 조절할 수 있습니다.^> '오른쪽' 및 '왼쪽' 방향키로 방향타를 조절할 수 있습니다.^> 'Enter' 키로 돛을 올리거나 내릴 수 있습니다.^> 'Backspace' 키로 시점을 변경할 수 있습니다.^^키를 연타하기보다 몇 번씩 끊어서 누르며 원하는 명령을 내리십시오. 선원들이 당신의 명령을 수행하기 위한 약간의 시간을 필요로 합니다. 우측 상단에서 현재 선박의 상태와 마지막으로 내린 명령을 확인할 수 있습니다.
+str_bodo_animos|보도가 외쳤습니다. '{playername}! 싸웁시다! 내가 아직 그대 곁에 있소!'
+str_journey_to_reyvadin|당신은 이스트 앵글 땅의 그란테브리지에 당도하였습니다. 당신이 도착하자 사람들은 경계하는 눈초리로 무기에 손을 올립니다.^^이곳은 안난 에닝겐의 통치 아래의 앵글인들이 사는 곳 입니다. 머시아의 앵글인들이 침략하여 왕과 백성들을 죽이고 땅을 찬탈하고 있기에 평화 따위는 모르는 곳 입니다. 안난 에닝은 독실한 기독교인이지만, 선왕이었던 그의 형제들이 머시아 국왕 펜다의 칼날에 쓰러지는 것을 목격했기에 복수심에 불타고 있습니다.
+str_journey_to_praven|당신의 발길은 차가운 북쪽 땅으로 향합니다. '알트 클럿'이라 불리는 이곳은 거대하고 험준하며 울창한 숲이 펼쳐진 땅입니다. 알트 클럿에는 쟁기와 창을 다루는 데 능숙하고 강인한 브리튼인들이 살고 있습니다.^^이곳은 고대 혈통의 후손인 빌리 압 네이톤이 다스리고 있습니다. 빌리는 쉰 살에 가까운 나이지만 여전히 단단하고 강인한 사내입니다.
+str_journey_to_jelkala|에리우의 푸른 땅, 클로하르에 온 것을 환영합니다. 당신은 세 명의 호전적인 왕자, 이른바 '삼인조 콜라'가 울라이드의 태반을 정복하며 칼끝에서 벼려낸 신생 왕국 '아이르기알라'에 와 있소. 아이르기알라는 울라이드 왕국과의 끊임없는 투쟁 때문에 전쟁이 그칠 날이 없습니다.^^현재 이곳은 오만하고 호전적인 마엘 오다르 카에크가 다스리고 있습니다. 그의 명성이 적들을 저지하고는 있으나, 그가 죽고 나면 과연 어떤 일이 벌어질까요?
+str_journey_to_sargoth|당신은 에드발드 에델버싱이 다스리는 켄트의 칸트와라부르흐에 도착했습니다. 그의 조상들은 브레튼왈다였으나, 이제 그 칭호는 북부의 강자 베르니키아의 오스왈드에게 넘어갔습니다. 에드발드는 브리튼의 강력한 영주들, 심지어 프랑크족과도 좋은 관계를 맺고 있습니다. 덕분에 이곳은 전쟁의 고통이 적고 평화로우며 번영하고 있습니다. 땅을 사고 혼인하여 자녀를 키우기에 아주 좋은 곳이죠... 아직까지는 말입니다.
+str_journey_to_tulga|당신은 귀네드 고원의 높은 절벽이 바다와 맞닿은 곳을 따라 배를 타고 왔습니다. 곧 왕국의 수도인 딘 곤위가 보일 것입니다. 거리에는 어둠과 침묵만이 가득하군요. 위대한 전사왕 캐드왈론이 2년 전 서거한 뒤 귀네드는 여전히 애도 중입니다. 그는 카드왈라드르라는 아들을 남겼으나 이제 고작 세 살배기 아이일 뿐입니다. 브리튼에서 가장 강인하다는 귀네드의 사내들은 올해 전장으로 소집되었습니다. 그들은 예리한 칼을 쥔 채 울부짖으며 기다리고 있습니다.^^이제 캐드왈론의 아들과 그의 어미가 쥐고 있던 권력을 몰아낸 카드파엘 카드메드라는 새로운 통치자가 이곳을 지배하고 있습니다. 그는 다시 영광의 시대로 돌아왔다고 주장하고 있습니다...
+str_journey_to_shariz|그대는 에리우 남부 무메인 왕국의 강성한 도시, 둔 이스가흐에 있습니다. 울창한 숲과 물고기가 넘쳐나는 강이 있는 풍요로운 땅입니다. 살기에 더할 나위 없는 곳처럼 보이나, 에리우는 클랜들이 사소한 이유로 전쟁을 벌이고 가축과 여인을 약탈하며 형제들이 서로 죽고 죽이는 투쟁의 땅입니다.^^무메인은 야심가 파일베 플란 막 아에드가 다스리고 있으며, 그는 더 많은 영토와 약화된 레이긴 왕국의 땅을 원하고 있습니다.
+str_lost_tavern_duel_ordinary|당신은 주정뱅이의 마지막 일격에 바닥으로 고꾸라졌습니다. 당신을 공격한 사람의 분노는 곧 수그러들었고, 이내 의자에 주저앉아 후회 섞인 중얼거림을 내뱉으며 당신을 지켜봅니다. 몇몇 다른 손님들이 그를 달래어 문 밖으로 데리고 나갔고, 남은 사람들은 당신의 상처를 돌봐주었습니다. 곧 당신은 비틀거리면서 자신의 발로 일어섰습니다. 어찌 되었든 당신은 살아있습니다.
+str_lost_tavern_duel_assassin|당신은 습격자의 마지막 공격에 의식을 잃고 바닥에 쓰러졌습니다. 습격자는 천천히 다가와 무릎을 꿇더니 옷 속에서 긴 단검을 꺼내들었습니다. 그러나 그가 당신의 숨통을 끊기 직전, 용기를 낸 술집 주인이 뒤에서 그의 머리를 후려칩니다. 습격자는 균형을 잃었고, 이내 당신을 죽일 기회를 놓쳤음을 직감하고는 그대로 문을 박차고 달아났습니다. 그 사이 주점에 있던 다른 사람이 당신의 상처를 지혈하고 뒷방으로 옮겨 회복하게 도와주었습니다.
+str_lost_startup_hideout_attack|잠시 후 정신을 차려보니 납치범들은 승리에 도취해 벌꿀술을 마시며 승리를 자축하고 있습니다. 그들은 포로의 손발을 묶는 기초적인 조치조차 잊고 있었고, 그 덕에 당신은 몰래 빠져나왔습니다. 은신처에서 들려오는 요란한 소리로 보아, 아직은 동료를 더 모아 다시 공격을 시도할 시간이 남아있음을 짐작할 수 있었습니다.
+str_as_you_no_longer_maintain_an_independent_kingdom_you_no_longer_maintain_a_court|당신은 더 이상 독립된 왕국을 지배하는 군주가 아니므로, 당신의 궁정은 해산되었습니다.
 str_rents_from_s0|{s0}의 세금:
 str_tariffs_from_s0|{s0}의 관세:
-str_general_quarrel| 지난 몇 년간 우리들 사이엔 많은 언쟁과 증오같은 부정적인 면이 있다는 걸 알게 되었소.
-str_the_steppes|스텝 지대
-str_the_deserts|사막
-str_the_tundra|툰드라
+str_general_quarrel| 지난 몇 년간 우리 사이에 쌓인 수많은 논쟁과 악감정 때문에 관계가 틀어지고 말았소.
+str_the_steppes|평원 지대
+str_the_deserts|산악 지대
+str_the_tundra|깊은 숲
 str_the_forests|숲
-str_the_highlands|산악 지대
+str_the_highlands|고원 지대
 str_the_coast|해안가
 str_my_lady_not_sufficient_chemistry|레이디, 이미 내 마음을 훔쳐간 다른 여인이 있소.
-str_my_lady_engaged_to_another|레이디, 내가 알고 있는 바로는, 당신은 다른 사람과 이미 약혼한 것으로 알고 있소.
+str_my_lady_engaged_to_another|레이디, 당신은 다른 사람과 이미 약혼한 것으로 알고 있소.
 str_attempting_to_rejoin_party|부대 재합류를 시도 중
-str_separated_from_party|부대에서 떨어져 있음
+str_separated_from_party|부대와 떨어져 있음
 str_whereabouts_unknown|어디 있는지 모름
-str_leading_party|부대를 통솔
-str_court_disbanded|당신은 더 이상 독립된 왕국을 지배하는 군주가 아니며, 당신의 궁정은 해산되었습니다.
-str_i_am_not_accompanying_the_marshal_because_will_be_reappointment| 나는 총사령관과 동행하고 있지 않고 있고, 나는 우리의 주군이 곧 다른 목표를 지시할 것이라 예상하고 있소.
+str_leading_party|부대 통솔 중
+str_court_disbanded|당신은 더 이상 독립된 왕국을 지배하는 군주가 아니므로, 당신의 궁정은 해산되었습니다.
+str_i_am_not_accompanying_the_marshal_because_will_be_reappointment| 나는 총사령관과 동행하지 않고 있소. 우리 주군이 곧 다른 이를 그 직책에 임명할 것 같기 때문이오.
 str_persuasion_opportunity|설득 기회.^자동 성공을 위한 관계 요구치: {reg4}^현재의 관계 수치: {reg5}^성공 가능성: {reg7}^관계 수치 {reg9}을 잃을 위험성: {reg8}
-str_marshal_warning|당신은 {s1}을 따라 종군하지 않고 있습니다. 그러나, 당신은 그로 인해 어떤 불이익도 받지 있지 않고 있습니다.
-str_follow_army_quest_brief_2|당신의 임무는 완료되었습니다. 만약 당신이 더 많은 임무를 원한다면 {s9}의 부대를 계속 따라 종군할 수도 있습니다.
-str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success_in_your_efforts_to_make_your_name_in_the_world| 저는 당신을 만나서 반갑소. 나는 그 곳에서 당신이 성공할 것이라 믿소. 세상에 당신의 이름을 떨치십시오.
-str_minister_advice_select_fief| 제가 한가지 조언을 한다면, 당신의 {s4}에 대한 선택은, 봉신들이 당신이 어떻게 임명을 할지 예측하고 하고, 그들이 원하는 방향으로 하는 것이 좋을 것입니다.
-str_minister_advice_select_fief_wait| 제가 한가지 조언을 한다면, 당신은 봉신들이 누구를 지지할 것인지 결정할 때까지 그들에게 시간을 주어 기다린 후, 총사령관을 임명해야 하는 것이 좋을 것입니다.
-str_minister_advice_fief_leading_vassal| 그런데, 그 안건에 대해서 {s4}은(는) 이미 {reg4}명의 지지를 받고 있다.
+str_marshal_warning|당신은 {s1}을(를) 따르지 않고 있습니다. 다만 이로 인한 불이익은 없을 것입니다.
+str_follow_army_quest_brief_2|임무를 완료하였습니다. 추가적인 임무를 원한다면 계속해서 {s9}의 군대를 따라 종군해도 됩니다.
+str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success_in_your_efforts_to_make_your_name_in_the_world| 만나게 되어 반갑소. 세상에 그대의 이름을 떨치기 위한 그간의 여정이 순탄했기를 바라오.
+str_minister_advice_select_fief| 봉신들 사이에서 {s4}의 임명에 대한 추측이 무성하오니, 그를 선택하여 그들의 기대에 부응하는 것이 어떻겠습니까?
+str_minister_advice_select_fief_wait| 봉신들이 누구를 지지할지 결정할 수 있도록, 사령관 임명을 잠시 미루고 기다려 보시는 것이 어떻겠습니까?
+str_minister_advice_fief_leading_vassal| 참고로 {s4}은(는) 이미 {reg4}명의 봉신으로부터 지지를 얻었고 있습니다.
 str_unassigned_center| (할당되지 않음)
-str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43} 당신은 왕국의 지배자로서, 당신은 이 공격이 전쟁 선언이나 다름 없음을 알아야 할 것입니다.
-str_missing_after_battle|전투 후에 실종
-str_retrieve_garrison_warning| (요새가 다른 이에게 수여된다면 병력을 회수할 수 없습니다)
-str_s12s15_declared_war_to_control_calradia|{s12}{s15}은(는) {s16}을(를) 아무런 명분 없이 침공하였소.
-str_offer_gift_description| 선물을 제공해서 나의 입지를 향상시키는
-str_resolve_dispute_description| 논쟁을 해결해서 나의 입지를 향상시키는
-str_feast_wedding_opportunity| 만약 당신의 약혼자와 그녀의 가족이 참석한다면, 이것은 당신이 결혼식을 축하 할 수 있는 기회입니다.
-str_s21_the_s8_declared_war_as_part_of_a_bid_to_conquer_all_calradia|{s21}. {s8}은(는) 이 땅을 정복해보겠다는 매우 빈약한 구실로 전쟁을 선포했소.
+str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43} 당신은 왕국의 지배자로서, 이 공격이 전쟁 선포와 다름없음을 명심해야 할 것이오.
+str_missing_after_battle|전투 후 실종됨
+str_retrieve_garrison_warning|^(요새가 다른 이에게 수여된다면 주둔군을 회수할 수 없습니다)
+str_s12s15_declared_war_to_control_calradia|{s12}{s15}은(는) 이 땅 전역으로 세력을 확장하려는 야심 하에, 아무런 명분 없이 {s16}을(를) 공격할 수도 있소.
+str_offer_gift_description|선물을 보내 나의 입지를 다지기
+str_resolve_dispute_description|분쟁을 중재하여 나의 입지를 다지기
+str_feast_wedding_opportunity| 당신의 약혼자와 그녀의 가족이 참석한다면, 이번 연회는 당신의 결혼을 축하할 수 있는 좋은 기회가 될 것입니다.
+str_s21_the_s8_declared_war_as_part_of_a_bid_to_conquer_all_calradia|{s21}. {s8}은(는) 이 땅 전체를 정복하려는 야망의 일환으로, 아주 빈약한 구실을 내세워 전쟁을 선포했소.
 str_master_vinter|장인 빈터
 str_s54_has_left_the_realm|{s54}는 노스란드를 떠났습니다
 str_enterprise_s5_at_s0|{s0} {s5}의 순수익
