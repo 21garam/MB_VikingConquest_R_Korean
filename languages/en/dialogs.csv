@@ -2,22 +2,22 @@ dlga_start:blocked_agent|이 사람은 바빠보인다. 자리를 비켜주는�
 dlga_blocked_agent:close_window|미안하오. 당신이 하던 일을 방해하려는 뜻은 없었소.
 dlga_blocked_agent:close_window.1|[떠납니다]
 dlga_dog_talk_2:close_window|따라와!
-dlga_dog_talk_2:close_window.1|가라, {s1}, 어서 가! 
+dlga_dog_talk_2:close_window.1|가라, {s1}, 어서 가!
 dlga_dog_talk_2:close_window.2|{s1}, 기다려!
 dlga_dog_talk_2:dog_talk_pretrain|자, 여기 너에게 줄 선물을 가져왔다...
 dlga_dog_talk_2:close_window.3|나중에 다시 부르마...
-dlga_dog_talk_2:close_window.4|이 미련한 놈! 당장 꺼져! 네놈 따윈 이제 필요 없다! 
+dlga_dog_talk_2:close_window.4|이 미련한 놈! 당장 꺼져! 네놈 따윈 이제 필요 없다!
 dlga_dog_talk_2:close_window.5|그만두지 못해!
 dlga_start:dog_talk_recruit|
-dlga_dog_talk_recruit:dog_talk_1|자, 소시지다. 먹으려무나! 
+dlga_dog_talk_recruit:dog_talk_1|자, 소시지다. 먹으려무나!
 dlga_dog_talk_recruit:close_window|옳지, 착한 녀석!
-dlga_dog_talk_recruit:close_window.1|저리 가라! 
+dlga_dog_talk_recruit:close_window.1|저리 가라!
 dlga_dog_talk_pretrain:dog_talk_train|자, 여기 너에게 줄 선물을 가져왔다...
 dlga_dog_talk_train:dog_talk_pretrain|상태가 좋지 않아 보이는구나. 자, 여기 {s7} 좀 먹거라!
-dlga_dog_talk_train:dog_talk_pretrain.1|자, 이 {s7}을 먹으면 다시 기운을 차릴 게다! 
-dlga_dog_talk_train:dog_talk_pretrain.2|네가 더 강인해졌으면 좋겠구나. 여기 {s7}을 받거라. 도움이 될 거다! 
+dlga_dog_talk_train:dog_talk_pretrain.1|자, 이 {s7}을 먹으면 다시 기운을 차릴 게다!
+dlga_dog_talk_train:dog_talk_pretrain.2|네가 더 강인해졌으면 좋겠구나. 여기 {s7}을 받거라. 도움이 될 거다!
 dlga_dog_talk_train:dog_talk_pretrain.3|너무 말랐구나. 자, 이 {s7} 맛 좀 보거라!
-dlga_dog_talk_train:dog_talk_pretrain.4|더 빨리 달릴 수 있을 것 같군, 친구여. 자, 여기 너를 위한 {s7}이다! 
+dlga_dog_talk_train:dog_talk_pretrain.4|더 빨리 달릴 수 있을 것 같군, 친구여. 자, 여기 너를 위한 {s7}이다!
 dlga_dog_talk_train:dog_talk_pretrain.5|자, 네 이빨에 좋은 {s7}이다. 어서 먹어보렴!
 dlga_dog_talk_train:dog_talk_1|더는 줄 음식이 없구나.
 dlga_dog_talk_train:dog_talk_1.1|오늘은 여기까지만 하자꾸나.
@@ -80,7 +80,7 @@ dlga_port_chief_info_main_3:port_chief_build_ship_main_4|품질이 중요하니,
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|소나무면 적당할 것 같소.
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|돈을 너무 낭비해서는 안 되지. 물푸레나무로 해 주시오.
 dlga_port_chief_info_main_3:port_chief2|생각이 바뀌었소.
-dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|{s12}로 {s11}을 건조하려면 {reg11} 페닝이 필요하오. {s2} 완공까지는 {reg12}일이 걸릴 거요. 
+dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|{s12}로 {s11}을 건조하려면 {reg11} 페닝이 필요하오. {s2} 완공까지는 {reg12}일이 걸릴 거요.
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|그 배를 건조해주시오!
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|내가 무슨 잡상인으로 보이시오? 내게 그런 자재는 없소.
 dlga_port_chief_build_ship_missing_1:port_chief2|유감스럽지만 자재 없이는 배를 완성할 수 없소. 필요한 것을 모두 구해 다시 오시오.
@@ -2623,36 +2623,36 @@ dlga_kennemerjarl_thiaderdm9:kennemerjarl_thiaderdm9a|그렇게 대답할줄 알
 dlga_kennemerjarl_thiaderdm9a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티아데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지.^자, 이제 어서 가서 날 왕으로 만들어!
 dlga_kennemerjarl_thiaderdm91:kennemerjarl_thiaderdm91a|하, 내가 생각했던것 보다 멍청하군. 스벤을 찾기 위해 필요한 돈이나 병력은 네 한계를 한참 넘어선 것이야. 어쩌다 네가 스벤을 찾는다고 해도 스벤은 아주 쉽게 너를 죽일 수 있을 거야.^만약 네가 마음을 바꿔먹고 내 제안을 받아들인다면, 이걸 기억하도록 해. 그의 죽음은 그를 두려워하는 사람 눈 앞에 보여져야만 해. 그러기에 가장 이상적인 시간은 바로 축제 기간이지. 네가 독을 쓰든 단검을 쓰든 내가 알바 아니지만, 이 중요한 두 가지 사항은 명심하는게 좋을거야...
 dlga_kennemerjarl_thiaderdm91a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티아데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지. 네게도 머리가 있다면 일을 마치고 빨리 프리지아를 뜨는게 좋을거야. 그렇지 않으면 안좋은 꼴을 보게 될 테니까.
-dlga_kennemerjarl_salida:lord_pretalk|아주 좋소.
-dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|조심하시오, 야를! 그 자들은 스벤의 수하들이었소. 당신은 배신자요! 그리고 나는 지금부터 당신의 적이오.
-dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad4|나는 당신에게 잘 봉사했소, 그 대신에 당신은 스벤에 대해 나에게 거짓말을 했소. 그리고 지금 당신이 나를 협박했고.
-dlga_kennemerjarl_enemistad2:kennemerjarl_enemistad21|맞아, 그건 확실하지. 네가 제공한 봉사에 대한 보답으로, 나는 너에게 몇일 유예기간을 주도록 하지. 그 후에 나는 네 머리에 현상금을 걸 것이고, 그럼 너는 너에게 오는 자객들을 맞이하게 되겠지. 너는 한쪽 눈을 항상 뜨고 베게 밑에 칼을 숨겨야 할 것이다.^네가 프리지아를 떠나지 않거나 내 부하들에게 걸린다면 내가 맨손으로 직접 너를 때려죽여주지.
-dlga_kennemerjarl_enemistad4:kennemerjarl_enemistad21|말해주지. 그 자들은 내가 마을을 점령한 뒤 덴마크에서 더 많은 병력이 올 때까지 마을을 지키게 하기 위해 보냈던 것이다. 그러나 이제 물거품이 됐어! 네놈이 내 꿈을 망쳐버렸다고! 네놈 때문에 이제 '눈 속의 뱀' 시구르드 라그나르손은 나를 배신자라고 여기고는 내 머리를 가지려 들겠지. 저리 꺼져! 네놈이 다시 내 눈앞에 띈다면 참지 못하고 너를 죽여버릴지도 모르니까.^^네놈은 더 이상 여기서 환영받지 못할꺼다. 차라리 프리지아에서 흔적도 없이 사라지는 것이 신상에 좋을꺼야!
+dlga_kennemerjarl_salida:lord_pretalk|아주 좋군.
+dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad2|조심하시오, 야를! 그들은 스벤의 수하들이었소. 당신은 배신자요! 그리고 나는 지금부터 당신의 적이오.
+dlga_kennemerjarl_enemistad1:kennemerjarl_enemistad4|나는 당신을 충실히 섬겼소. 하지만 당신은 스벤의 일로 나를 속였고, 이제는 협박까지 하고 있소.
+dlga_kennemerjarl_enemistad2:kennemerjarl_enemistad21|맞아, 그건 확실하지. 네가 제공한 봉사에 대한 보답으로, 짐을 쌀 수 있는 몇 시간의 여유시간을 주도록 하지. 그 후에는 네 머리에 현상금을 걸 것이니 암살자들을 조심해야 할 거다. 자는 동안에도 한쪽 눈을 뜨고 베개 밑에 칼을 숨겨야 할 것이다.^프리지아를 떠나지 않거나 내 눈에 다시 띈다면, 그땐 내 맨손으로 직접 네놈을 때려죽여 주마.
+dlga_kennemerjarl_enemistad4:kennemerjarl_enemistad21|말해주지. 그 자들은 내가 마을을 점령한 뒤 덴마크에서 지원군이 올 때까지 마을을 요새화하기 위해 보낸 놈들이었다. 그러나 이제 물거품이 됐어! 네놈이 내 꿈을 망쳐버렸다고! 네놈 때문에 이제 '눈 속의 뱀' 시구르드 라그나르손께선 나를 배신자라고 여기고는 내 목을 치려 들겠지. 저리 꺼져! 네놈이 다시 내 눈앞에 띈다면 참지 못하고 너를 죽여버릴지도 모르니까.^^네놈은 더 이상 여기서 환영받지 못할꺼다. 차라리 프리지아에서 흔적도 없이 사라지는 것이 신상에 좋을꺼야!
 dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22|언젠가 우리는 다시 만날 것이고, 내가 당신을 죽일 거요.
-dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22_f|지금 떠나야겠군.
-dlga_kennemerjarl_enemistad22:lord_pretalk|나는 그 날을 기대하고 있겠다, 이 쓰레기야!
-dlga_kennemerjarl_enemistad22_f:lord_pretalk|아주 좋군.
-dlga_frisaking_1:frisaking_2|기쁜 소식이로군! 내가 연회의 주인으로서 내 평판이 번창하는 걸 볼 수 있겠군...
-dlga_frisaking_2:frisaking_3|나는 그 특별한 연회에 참여해 그 멋진것들을 직접 보고싶소.
-dlga_frisaking_2:frisaking_4|내가 정말로 하고 싶은 이야기는 당신의 연회에 대한 이야기가 아니오, 켄네머의 야를은 당신이 죽기를 원하오.
-dlga_frisaking_3:frisaking_41|너는 별로 유명한 사람처럼 보이지 않는군.
-dlga_frisaking_41:frisaking_5|그렇다면.. 내가 그들과 함께 어울리기 위해 무엇을 할 수 있소? 그들은 나보다 아주 유명한데 말이오!
-dlga_frisaking_5:lord_pretalk|좋소, 당신은 단호한 {reg59?여자:남자}처럼 보이는군. 어쩌면 당신은 독싱가에 대한 문제를 도울 수 있을 것이오. 가서 나를 위해 무슨 일이 일어나고 있는지 조사하시오. 당신이 돌아올 때, 우리는 연회에 대하여 이야기할 것이오.
-dlga_frisaking_5:lord_pretalk.1|좋소, 당신은 단호한 {reg59?여자:남자}처럼 보이는군. 어쩌면 당신은 독싱가에 대한 문제를 도울 수 있을 것이오. 가서 마을을 보호하시오. 당신이 돌아올 때, 우리는 연회에 대하여 이야기할 것이오.
-dlga_frisaking_4:lord_pretalk|너는 내 소중한 야를들 중 하나를 반역자라고 비난하는 건가? 좋아, 누군가 나에게 내 야를들 중 한명에게 문제를 만들려고 나에게 소문과 낯선 사람을 보냈다고 치지. 바보가 아닌 이상 누가 과연 그런 사기꾼을 믿을까? 잘 들어라, 쥐새끼야. 네 말은 아무런 가치도 없어. 단지 증거가 필요할 뿐이지. 지금, 너에게 지옥을 보여주기 전에 떠나! 지금 당장 내가 네 머리를 네 목에서 잘라버리지 않는 것을 감사하게 여겨라!
-dlga_jarldenunciado1:jarldenunciado12|안녕하신가, {playername}! 나는 자네가 독싱가에 도움을 주었다는 것에 대해 들었네. 자네의 도움에 감사하고 있어. 나는 그 공격을 예상하지 못했고, 더불어 내 부하들은 준비하지 못했지. 자네의 용기에 대한 선물을 받아가게.
-dlga_jarldenunciado12:jarldenunciado11|감사하오, 내 주인이시여. 나는 당신을 방해하기를 원치 않소, 하지만 {s11}은(는) 반역자요.
-dlga_jarldenunciado12:jarldenunciado4|당신의 선물은 언제나 환영합니다. 그럼 이만.
-dlga_jarldenunciado12:jarldenunciado4.1|나는 당신의 부하가 아니오. 우리는 동등한 관계이오, 나는 그 선물을 원하지 않소. 그럼 이만.
-dlga_jarldenunciado11:jarldenunciado13|자네는 {s11}가 내 조카였단것은 기억하고 말하고 있는건가? 이미 전에 그것에 대해 이야기 한적이 있었을텐데...^어디 한번 말해보게.
-dlga_jarldenunciado13:jarldenunciado14|물론 알고 있소, 그러나 나에겐 당신의 조카가 당신에 대해 황소 목 스벤과 공모했다고 말할 의무가 있소.
-dlga_jarldenunciado13:jarldenunciado4|이해합니다만, 더 이야기 하지 않는편이 좋겠소. 나는 그것을 증명할 방법이 없소. 안녕히.
-dlga_jarldenunciado14:jarldenunciado15|황소 목 스벤은 '눈 속의 뱀' 야를 시구르드의 충실한 개지. 더불어 시구르드는 라그나르 로드브록의 가장 오래된 아들 중 하나야. 당신은 매우 두렵고 위험한 자들에 대해서 이야기하는군, {playername}. 내 조카는 매우 무모하고 대담한 자고, 우리 왕국은 프리지아인의 반란으로 어려운 상황이네. 그는 내가 프리지아인 반란을 막지 못하고, 그를 후원하는 프랑키아를 공격하지 않는 약한 자라 생각하지. 사실, 우리는 과거에도 지금처럼 강하지는 않았어. 그러나, 나는 사실 그가 반역자라고 생각하지는 않네. 자네에게 증거가 있나?
-dlga_jarldenunciado15:jarldenunciado16|아니, 그는 당신을 죽일 것을 부탁했소.
-dlga_jarldenunciado16:lord_pretalk|그것이 그에게 반대하는 당신의 말이군. 그런 말로는 자네를 믿을 수 없네. 가서 지금의 평화를 즐기게. 그리고 그런 함정을 파고 내 궁전에 돌아오지 말게.
+dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22_f|알겠소, 이 곳을 떠나겠소.
+dlga_kennemerjarl_enemistad22:lord_pretalk|나도 그 날이 오길 기다리마, 이 쓰레기 같은 놈!
+dlga_kennemerjarl_enemistad22_f:lord_pretalk|당연히 그래야지.
+dlga_frisaking_1:frisaking_2|기쁜 소식이로군! 연회 주최자로서 나의 명성이 드높아지는 모양이야...
+dlga_frisaking_2:frisaking_3|그 특별한 연회에 직접 참석해서 확인해보고 싶소.
+dlga_frisaking_2:frisaking_4|내가 하고 싶은 이야기는 연회에 대한 이야기가 아니오, 켄네머의 야를이 당신의 목숨을 노리고 있소.
+dlga_frisaking_3:frisaking_41|자네는 그럴 만한 격식을 갖춘 사람처럼 보이지 않는군.
+dlga_frisaking_41:frisaking_5|그렇다면... 그들과 어울리기 위해 내가 무엇을 해야 하오? 그들은 무척 유명하지 않소!
+dlga_frisaking_5:lord_pretalk|좋아, 자네는 꽤 결단력 있는 {reg59?여인:사내} 같군. 어쩌면 독싱가의 문제를 해결해 줄 수도 있겠어. 가서 무슨 일이 벌어지고 있는지 조사해 보시오. 돌아오면 연회에 대해 이야기하기로 하지.
+dlga_frisaking_5:lord_pretalk.1|음, 자네는 꽤 결단력 있는 {reg59?여인:사내} 같군. 어쩌면 독싱가 일을 도와줄 수도 있겠어. 가서 마을 방어를 도와주시오. 돌아오면 연회에 대해 이야기하기로 하지.
+dlga_frisaking_4:lord_pretalk|나의 소중한 야를 중 한 명을 반역자로 몰다니? 뻔하지, 누군가 내 야를들과의 사이를 이간질하려고 낯선 자를 보내 소문을 퍼뜨리는 모양이야. 내가 그런 허무맹랑한 속임수를 믿을 바보로 보이는가? 잘 들어라, 쥐새끼 같은 놈. 네 말은 아무런 가치도 없어. 오직 증거만이 중요할 뿐이지. 당장 여기서 꺼져라! 네 목을 몸통에서 잘라내지 않은 것을 감사히 여기면서 말이야!
+dlga_jarldenunciado1:jarldenunciado12|안녕하신가, {playername}! 독싱가를 도와주었다는 이야기를 들었네. 자네의 도움에 감사를 표하겠네, 벗이여. 공격이 워낙 갑작스러워 미처 부하들을 준비시키지 못했었네. 그대의 용기에 대한 보답이니 이 선물을 받게.
+dlga_jarldenunciado12:jarldenunciado11|감사합니다, 주군... 심기를 어지럽히고 싶지는 않으나 {s11}이 반역을 꾸미고 있소.
+dlga_jarldenunciado12:jarldenunciado4|선물은 감사히 받겠소. 나는 이제 가봐야겠소.
+dlga_jarldenunciado12:jarldenunciado4.1|나는 당신의 부하가 아니라 대등한 관계이오. 이런 선물은 원하지 않소. 그럼 이만.
+dlga_jarldenunciado11:jarldenunciado13|{s11}이 내 조카라는 사실은 알고 말하는 것인가? 이미 전에 이야기 한적이 있을텐데...^어디 말해 보시게.
+dlga_jarldenunciado13:jarldenunciado14|물론 알고 있소. 유감스럽지만 당신의 조카가 당신을 몰아내려고 '황소 목' 스벤과 공모했소.
+dlga_jarldenunciado13:jarldenunciado4|알고 있소만, 더 이야기 하지 않는편이 좋겠소. 지금은 마땅히 증명할 길이 없소. 그럼 이만.
+dlga_jarldenunciado14:jarldenunciado15|음... '황소 목' 스벤은 라그나르 로드브록의 맏이들 중 하나인 야를 '눈 속의 뱀' 시구르드의 충견이네. 자네는 지금 아주 무섭고 위험한 자들에 대해 언급했어, {playername}. 내 조카는 무모하고 대담한 자고, 우리 왕국은 프리지아인들의 반란으로 어려운 시기에 처해 있네. 그는 내가 프리지아인들을 토벌하지 않고 그들을 후원하고 있는 프랑키아를 공격하지 않는 걸 나약하다고 생각하지. 사실, 우리가 예전만큼 강하지 않은 건 사실이네. 하지만 그렇다고 해서 그가 반역을 도모할 것이라고 생각지 않네. 증거가 있는가?
+dlga_jarldenunciado15:jarldenunciado16|증거는 없소, 하지만 그가 직접 나에게 당신을 죽이라고 사주했소.
+dlga_jarldenunciado16:lord_pretalk|그건 자네의 일방적인 주장일 뿐이네. 그런 말을 근거로 자네를 믿어줄 수는 없네. 평화롭게 물러가게. 그리고 다시는 이 궁정에 함정을 파러 오지 마시게.
 dlga_jarldenunciado4:lord_pretalk|알겠소...
-dlga_jarldenunciado1extra:lord_pretalk|난 자네가 나에게 무엇을 말하려고 하는 건지 알고 있다. {playername}, 내 조카는 그를 불신하는 자네의 거짓말에 대해 나에게 경고했지. 자네은 내 집에서 환영받지 못할 것이야. 나는 더 이상 그런 거짓말은 듣고 싶지 않네.
-dlga_jarldenunciado2extra:lord_pretalk|난 자네가 나에게 무엇을 말하려고 하는 건지 알고 있다. {playername}, 내 조카는 그를 불신하는 자네의 거짓말에 대해 나에게 경고했지. 자네은 내 집에서 환영받지 못할 것이야. 나는 더 이상 그런 거짓말은 듣고 싶지 않네. 내 조카는 자네에게 프리지아를 떠나기 위해 며칠의 유예를 주겠다고 약속했지. 그 유예기간이 지나면 자네는 프리지아의 적으로 선언될 것이다.
+dlga_jarldenunciado1extra:lord_pretalk|자네가 무슨 말을 하려는지 알고 있네. {playername}, 내 조카가 자네의 모략에 대해 이미 경고했지. 자네는 내 집에서 환영받지 못할 것이네. 더는 그런 거짓말을 듣고 싶지 않군.
+dlga_jarldenunciado2extra:lord_pretalk|자네가 무슨 말을 하려는지 알고 있네. {playername}, 내 조카가 자네의 모략에 대해 이미 경고했지. 자네는 내 집에서 증오의 대상일 뿐이네. 더는 그런 거짓말을 듣고 싶지 않군. 내 조카는 자네가 프리지아를 떠날 수 있도록 며칠간 유예를 주겠다고 약속했네. 그 기간이 지나면 자네는 프리지아의 적으로 선포될 것이네.
 dlga_kinghorik_quest_revenge1:kinghorik_quest_revenge2|흥미로운 자로군, 당신은 내 관심을 끄는데 성공했다네. 들어볼테니 말 해보시게.
 dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge21|시구르드에 대해 하고싶은 이야기가 있습니다.
 dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge22|용서하십시오, 나는 당신을 방해하고 싶지 않습니다. 다른 날 다시 이야기 하겠습니다.
