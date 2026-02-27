@@ -27,12 +27,12 @@ dlga_start:close_window.3|아, 당신이 {playername}인가 보군. 손크릭에
 dlga_start:port_chief_travel|이봐요! 다른 마을로 떠날 생각이오?
 dlga_start:close_window.4|모두가 승선할 때까지 기다려 주시오.
 dlga_port_chief2:port_chief3|무엇이 필요하오?
-dlga_port_chief3:port_chief_fleet1|반갑소. 잉글랜드로 향하는 '황소목 스벤'과 '하랄드 하랄드손'의 선단에 합류하러 왔소.
+dlga_port_chief3:port_chief_fleet1|반갑소. 잉글랜드로 향하는 '황소 목 스벤'과 '하랄드 하랄드손'의 선단에 합류하러 왔소.
 dlga_port_chief3:port_chief_bodoletter1|얼마 전 아틀리 에이릭손이라는 자가 이 항구를 떠났소. 혹 그가 어디로 향했는지 아시오?
 dlga_port_chief3:port_chief_pieles|호그니에게 가죽을 전했으니 이제 당신 차례요. 아틀리 에이릭손은 어디 있소?
 dlga_port_chief3:port_chief_catach|글렌 다 로흐에서 '콜룸 카일의 시편'을 가져왔소.
 dlga_port_chief3:port_chief_catach32|아쉽지만 글렌 다 로흐는 너무 멀구려. 대신 돈이라도 받아가겠소?
-dlga_port_chief3:port_chief_svenlair|내가 무엇을 원하는지 잘 알 텐데. '황소목 스벤'의 은신처가 어디요?
+dlga_port_chief3:port_chief_svenlair|내가 무엇을 원하는지 잘 알 텐데. '황소 목 스벤'의 은신처가 어디요?
 dlga_port_chief3:port_chief_buy_ship|배를 한 척 사고 싶소.
 dlga_port_chief_buy_ship:close_window|나를 따르시오!
 dlga_port_chief3:port_chief_info_main|선박과 항해에 대해 묻고 싶은 게 있소.
@@ -45,7 +45,7 @@ dlga_port_chief_info_main_1:port_chief2|그 정도면 충분하오. 고맙소!
 dlga_port_chief_info_a_1:port_chief_info_main|바다 건너로 물자나 노예를 거래하면 꽤나 짭짤하게 벌 수 있지.  아니면 해안가 정착지를 약탈하거나 말이오. 그리고 훌륭한 배를 갖추지 못한 자를 지도자로 존경할 바이킹은 이 세상에 없소.
 dlga_port_chief_info_b_1:port_chief_info_main|낮에는 태양을 보고, 밤에는 쉬는 것이지. 항해술이 뛰어날수록 여정은 짧아지는 법이라오.
 dlga_port_chief_info_c_1:port_chief_info_c_2|먼저 어떤 배를 원하는지 정해야 하오. 무역이 목적이라면 노르가 좋겠지. 적재 공간은 넓지만 그리 빠르진 않소. 스네크야, 스케이드, 부세는 병력을 가득 실을 수 있는 빠른 군선이라오. 카르비는 그 중간쯤 되고. 부하가 적다면 비르딩 같은 작은 배가 적당할 거요.
-dlga_port_chief_info_c_2:port_chief_info_main|두 번째는 목재요. 참나무로 만든 배가 으뜸이지만 그만큼 비싸다오. 너도밤나무는 값은 싸지만 훨씬 빨리 썩지.
+dlga_port_chief_info_c_2:port_chief_info_main|두 번째는 목재요. 참나무로 만든 배가 으뜸이지만 그만큼 비싸다오. 물푸레나무는 값은 싸지만 훨씬 빨리 썩지.
 dlga_port_chief_info_d_1:port_chief_info_main|바람이 가장 중요하오! 돛을 펼쳐 바람을 잘 타는 것이 핵심이지. 바람이 멎으면 선원들이 노를 저어야 하오. 노잡이가 많을수록 배는 빨라지는 법. 선단에 배가 여러 척이라면 가장 느린 배의 속도에 맞춰 움직이게 될 거요. 숙련된 항해사가 있다면 선단의 속력을 더 높일 수 있을 것이오.
 dlga_port_chief3:port_chief_travel|다른 항구로 떠나고 싶소.
 dlga_port_chief_travel:close_window|송구하오. 현재 이 항구에는 사령관과 그의 대군을 실어 나를 수 있는 배가 없소.
@@ -78,7 +78,7 @@ dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|미안하오만, �
 dlga_port_chief_build_ship_main_2:port_chief_info_main_3|어떤 목재를 사용하시겠소?
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4|품질이 중요하니, 참나무로 해주시오.
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|소나무면 적당할 것 같소.
-dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|돈을 너무 낭비해서는 안 되지. 너도밤나무로 해 주시오.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|돈을 너무 낭비해서는 안 되지. 물푸레나무로 해 주시오.
 dlga_port_chief_info_main_3:port_chief2|생각이 바뀌었소.
 dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|{s12}로 {s11}을 건조하려면 {reg11} 페닝이 필요하오. {s2} 완공까지는 {reg12}일이 걸릴 거요. 
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|그 배를 건조해주시오!
@@ -104,7 +104,7 @@ dlga_port_chief_catach5:port_chief_catach5_1|이런 세상에, 엄청난 부자�
 dlga_port_chief_catach5_1:port_chief2|내가 더 고맙소.
 dlga_port_chief_catach31:port_chief_catach31_1|음, 고맙소. 은신처는 여기요. 덴마크의 리베 북동쪽, 강 상류에 있소. 좋은 여행 되기를.
 dlga_port_chief_catach31_1:port_chief2|내가 더 고맙소.
-dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^목소리가 너무 크구려, 친구. 이 항구의 누구도 우리가 말하는 내용을 알 필요는 없지 않소? 아무래도 누가 나에 대해서 이야기한 것 같군. 그건 상관 없소. 그게 내 사업을 키우는 방식이니까.^^그럼, 그 쪽은 스벤이 있는 곳을 알고 싶은 거로군. 알려주기는 쉽지만, 당연히 공짜는 아니지. 거기다 싸게 먹힐 일도 아니고. 황소목 스벤은 당신 생각보다 아주 위험한 사람이오.
+dlga_port_chief_svenlair:port_chief_svenlair2|{s2}^^목소리가 너무 크구려, 친구. 이 항구의 누구도 우리가 말하는 내용을 알 필요는 없지 않소? 아무래도 누가 나에 대해서 이야기한 것 같군. 그건 상관 없소. 그게 내 사업을 키우는 방식이니까.^^그럼, 그 쪽은 스벤이 있는 곳을 알고 싶은 거로군. 알려주기는 쉽지만, 당연히 공짜는 아니지. 거기다 싸게 먹힐 일도 아니고. 황소 목 스벤은 당신 생각보다 아주 위험한 사람이오.
 dlga_port_chief_svenlair2:port_chief_svenlair3|{s2}^^내 말을 잘 들으시오. 운 좋게도 내게는 당신 같은 자가 필요하오. 귀공이... 흠, 일종의 '약탈자'가 되어 에리우로 가주어야겠소. 그곳의 어느 수도원에 유물로 보관된 책을 노리는 의뢰인이 있소. '글렌 다 로흐'라는 수도원이지. 책의 이름은 '콜룸 카일의 시편'이라오. 난 오직 그 책에만 관심이 있소. 나머지는 당신이 다 가져도 좋소. 책만 가져오면 스벤이 어디 숨었는지 알려주리다.
 dlga_port_chief_svenlair3:port_chief_svenlair31|제안이 나쁘지 않군! 책을 가져오겠소. 곧 다시 봅시다.
 dlga_port_chief_svenlair3:port_chief_svenlair32|난 수도원을 습격할 생각도 없고, 수도사를 죽일 생각도 없소.
@@ -158,8 +158,8 @@ dlga_start:close_window.5|왜 이렇게 귀찮게 구는 건가? 난 바쁜 몸�
 dlga_start:kinghorik_quest_danmarkprot|이곳이라면 엿듣는 귀가 없을 게야. 자, 말해보게.
 dlga_start:kinghorik_quest_revenge4|이곳이라면 엿듣는 귀가 없을 게야. 자, 말해보게.
 dlga_start:kinghorik_quest_thething1|반갑네, {playername}.
-dlga_start:svenbn_hunting1_1|{playername}, 친구. 고맙게 됐소, 우리가 전투에서 이겼소! 웨식스는 이제 우리 차지요! 그래도 당신은 여전히 황소목 스벤의 위치를 더 신경쓰고 있겠지, 안 그렇소? 음, 그는 도망쳤소. 하지만 멀리는 아니오. 레딩엄에 거점을 마련하고 요새화했더군. 하지만 내 부하들이 그를 미행했지. 난 이 작전을 맡은 헤르시르인 아른비드를 믿어보시오. 레딩엄에서 그를 만나시오. 당신이 공격하기로 마음먹는다면 그의 부하들을 기꺼이 내어줄 거요.
-dlga_start:svenbn_hunting1_1.1|반갑군, {playername}! 덴마크 놈들이 줄행랑을 치고 있고 수많은 야를을 잃었소. 아직 적들이 많이 남아 있기는 하나, 우린 중대한 승리를 이뤄냈소. 저들도 이제 예전처럼 대담하게 굴지는 못하겠지. 들려줄 소식이 몇 가지 있소. 황소목 스벤이 레딩엄으로 도망가서 요새를 세웠소. 에드릭이 이끄는 내 부하들이 그를 미행했고 당신이 도착할 때까지 기다릴 것이오. 이제 모든 순간은 당신에게 달렸소! 레딩엄으로 가서 황소목 스벤에게 당신이 당한 빚을 갚아 주시오.
+dlga_start:svenbn_hunting1_1|{playername}, 친구. 고맙게 됐소, 우리가 전투에서 이겼소! 웨식스는 이제 우리 차지요! 그래도 당신은 여전히 황소 목 스벤의 위치를 더 신경쓰고 있겠지, 안 그렇소? 음, 그는 도망쳤소. 하지만 멀리는 아니오. 레딩엄에 거점을 마련하고 요새화했더군. 하지만 내 부하들이 그를 미행했지. 난 이 작전을 맡은 헤르시르인 아른비드를 믿어보시오. 레딩엄에서 그를 만나시오. 당신이 공격하기로 마음먹는다면 그의 부하들을 기꺼이 내어줄 거요.
+dlga_start:svenbn_hunting1_1.1|반갑군, {playername}! 덴마크 놈들이 줄행랑을 치고 있고 수많은 야를을 잃었소. 아직 적들이 많이 남아 있기는 하나, 우린 중대한 승리를 이뤄냈소. 저들도 이제 예전처럼 대담하게 굴지는 못하겠지. 들려줄 소식이 몇 가지 있소. 황소 목 스벤이 레딩엄으로 도망가서 요새를 세웠소. 에드릭이 이끄는 내 부하들이 그를 미행했고 당신이 도착할 때까지 기다릴 것이오. 이제 모든 순간은 당신에게 달렸소! 레딩엄으로 가서 황소 목 스벤에게 당신이 당한 빚을 갚아 주시오.
 dlga_start:close_window.6|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:close_window.7|미안하오, 지금은 대화할 때가 아니오.
 dlga_start:close_window.8|미안하오, 지금은 대화할 때가 아니오.
@@ -867,7 +867,7 @@ dlga_start:close_window.39|오늘은 더 이상 내 시간을 낭비하지 말�
 dlga_start:companion_reginhard4x|웬 고아가 가족들을 도와줘서 고맙다고 하더군. 당신은 좋은 사람이요, {playername}! 내 죄책감을 덜어주고 조금이나마 기쁘게 만들어주었소.
 dlga_start:close_window.40|아다에게 돈을 주고 온 것이오?
 dlga_start:companion_reginhard43|지금은 돌아설지 몰라도, 분명 티아데르트의 은신처에는 관심이 있겠지...
-dlga_companion_recruit_intro_responsebodos:companion_recruit_backstory_a|워든 릭이 황소목 스벤에게 공격당했을 당시 상황에 대해서 알려주십시오. 제 어머니는 살아계십니까?
+dlga_companion_recruit_intro_responsebodos:companion_recruit_backstory_a|워든 릭이 황소 목 스벤에게 공격당했을 당시 상황에 대해서 알려주십시오. 제 어머니는 살아계십니까?
 dlga_companion_recruit_intro_responsebrunhilds:companion_recruit_backstory_a|진정하시오. 당신 부친 손크릭이 당신을 찾으라고 날 보냈소.
 dlga_companion_recruit_intro_response:companion_recruit_egil1|조금만 떨어져서 뭘 원하는지 말해보시오.
 dlga_companion_recruit_egil1:companion_recruit_backstory_a|진정하세요! 전 적이 아닙니다. 당신이 호리크 왕과 말하는 것을 보았기에 따라온 것입니다. 제 손도 무기에서 떼 놓은 상태입니다. 자비를 베풀어주십시오...
@@ -883,15 +883,15 @@ dlga_companion_questions_aghatinos1:companion_recruit_backstory_response|{s2}^^�
 dlga_companion_questions_aghatinos2:companion_recruit_backstory_response|{s2}^^콘스탄티노폴리스에서 노스인을 찾아낼 줄은 몰랐는데 아, 노스인이 요기 잉네! 노예 잡아가느라 아주 바쁘겠어!
 dlga_companion_recruit_backstory_responsebeda:companion_questions_beda1|무슨 말씀이오? 우리 어머니에 대한 편지를 전한 사람이 바로 당신이요?
 dlga_companion_recruit_backstory_responsebeda:companion_questions_beda1.1|닥쳐라, 쓰레기야! 그래서 우리 어머니를 아느냐?
-dlga_companion_questions_beda1:companion_questions_beda2|{s2}^^압니다, 알아요! 그분이 당신과 말해보라고 나를 보냈소. 황소목 스벤의 덴마크인이 절 포로로 잡아갔을 때 그 분과 함께 있었고. 아, 물론 시종으로서 말이오. 스벤은 끔찍한 자요! 나는 너무 무서웠소. 탈출해볼까 생각도 해봤지만 너무 무서워서 시도도 해보질 못했소.
-dlga_companion_questions_beda4:companion_questions_beda5|{s2}^^한 달 조금 전에 덴마크인이 미들 앵글리아에서 나를 잡아갔을 때, 당신 어머니의 노예로 지냈소. 이미 아시겠지만 당신의 어머니의 상태는 그리 좋지 않소. 아주 아픈 상태요, 죽어가고 있소. 그녀는 자신이 누구인지도 기억하지 못하고, 이상한 말만 하고 있소. 황소목 스벤의 바이킹들은 그녀를 영혼을 가진 사람, 세이드라고 생각하고 있소. 그래서 그녀에게 자신들의 운명을 점치곤 하오. 스벤이 당신의 어머니와 혼인을 했는데, 그러면 자기 운이 좀 좋아질거라 생각해서 그랬던 것 같소. 그가 당신을 잡으면 신에게 제물로 바치겠다고 했지. 세이드의 피를 가지고 있다는게 그 이유였소.
+dlga_companion_questions_beda1:companion_questions_beda2|{s2}^^압니다, 알아요! 그분이 당신과 말해보라고 나를 보냈소. 황소 목 스벤의 덴마크인이 절 포로로 잡아갔을 때 그 분과 함께 있었고. 아, 물론 시종으로서 말이오. 스벤은 끔찍한 자요! 나는 너무 무서웠소. 탈출해볼까 생각도 해봤지만 너무 무서워서 시도도 해보질 못했소.
+dlga_companion_questions_beda4:companion_questions_beda5|{s2}^^한 달 조금 전에 덴마크인이 미들 앵글리아에서 나를 잡아갔을 때, 당신 어머니의 노예로 지냈소. 이미 아시겠지만 당신의 어머니의 상태는 그리 좋지 않소. 아주 아픈 상태요, 죽어가고 있소. 그녀는 자신이 누구인지도 기억하지 못하고, 이상한 말만 하고 있소. 황소 목 스벤의 바이킹들은 그녀를 영혼을 가진 사람, 세이드라고 생각하고 있소. 그래서 그녀에게 자신들의 운명을 점치곤 하오. 스벤이 당신의 어머니와 혼인을 했는데, 그러면 자기 운이 좀 좋아질거라 생각해서 그랬던 것 같소. 그가 당신을 잡으면 신에게 제물로 바치겠다고 했지. 세이드의 피를 가지고 있다는게 그 이유였소.
 dlga_companion_questions_beda5:companion_questions_beda61|듣고 있소.
 dlga_companion_questions_beda5:companion_questions_beda62|스벤에게는 관심 없소. 어머니 얘기를 해주시오.
-dlga_companion_questions_beda61:companion_questions_beda62|황소목 스벤은 문제투성이요. 거기다 당신이 올비르라는 그의 형제를 죽여서 당신을 잡겠다고 집착하고 있소. 당신의 어머니가 올비르가 당신의 손에 죽을 것이라는 걸 예언했는데, 그래서 스벤은 올비르를 당신이 있는 곳으로 보낸 그의 주인 시구르드 라그나르손에게도 엄청난 불만을 품었소.^^제가 스벤에 대해 아는 것은 없지만, 전령은 그가 한 때 대단한 지도자였다고 했소. 하지만 내가 본 자는 두려움을 이용해 부하들의 충성심을 유지하는 한 명의 남자뿐이었소.
+dlga_companion_questions_beda61:companion_questions_beda62|황소 목 스벤은 문제투성이요. 거기다 당신이 올비르라는 그의 형제를 죽여서 당신을 잡겠다고 집착하고 있소. 당신의 어머니가 올비르가 당신의 손에 죽을 것이라는 걸 예언했는데, 그래서 스벤은 올비르를 당신이 있는 곳으로 보낸 그의 주인 시구르드 라그나르손에게도 엄청난 불만을 품었소.^^제가 스벤에 대해 아는 것은 없지만, 전령은 그가 한 때 대단한 지도자였다고 했소. 하지만 내가 본 자는 두려움을 이용해 부하들의 충성심을 유지하는 한 명의 남자뿐이었소.
 dlga_companion_questions_beda62:companion_questions_beda63|당신 어머니는 가끔 기억이 돌아와서 자기가 누구인지 기억하기도 하오. 그리고 {reg59?딸:아들}인 당신 얘기를 묻곤 했소. 그녀가 말하길 당신은 중대한 일을 맡을 운명이라 했소. 그리고 당신의 운명은 스벤을 보낸 노른 저 너머에 있다고 했지. 그녀가 유일하게 후회하는 것은 그저 자신의 끝이 다가왔기에 당신을 더 이상 볼 수 없다는 것 뿐이었다고 말했소.^^그녀는 나보고 달아나라고 했었소. 그리고 당신이 태어났을 때가 가장 행복한 순간이었다는 사실을 전해달라고 하더군. 그리고 말하기를 그녀가 더 이상 당신을 보지 못하게 된다고 해도 항상 당신 곁에 있을 것이라고 전해달라고 했소.
 dlga_companion_questions_beda63:companion_questions_beda7|어머니는 어디 계시오?
 dlga_companion_questions_beda63:companion_questions_beda7.1|어머니는 항상 부드러운 사람이었소. 스벤은 어디 있소?
-dlga_companion_questions_beda7:companion_questions_beda8|내가 도망쳐 나왔을 때는 우리는 그렌트브리지 근처에 있었소. 하지만 그건 이미 당신을 만나기 2주 전의 이야기요. 황소목 스벤의 소식을 마지막으로 들은 것은 그가 왕을 섬기기 위해 군사를 모아 선단으로 이끌고 있을 때였소.
+dlga_companion_questions_beda7:companion_questions_beda8|내가 도망쳐 나왔을 때는 우리는 그렌트브리지 근처에 있었소. 하지만 그건 이미 당신을 만나기 2주 전의 이야기요. 황소 목 스벤의 소식을 마지막으로 들은 것은 그가 왕을 섬기기 위해 군사를 모아 선단으로 이끌고 있을 때였소.
 dlga_companion_questions_beda8:companion_questions_beda9|두아르-안-에네즈로 가려는 속셈인가?
 dlga_companion_questions_beda8:companion_questions_beda92|알겠소. 어디로 갔는지 알 것 같군.
 dlga_companion_questions_beda9:companion_recruit_backstory_response|음? 나는 두아르가 누군지 모르겠소. 잘 들으시오, 나는 여기에 머무를 수 없소. 당신 어머니가 나에게 당신을 따라가라고 부탁했으니, 나는 당신과 함께 갈 것이오.
@@ -976,37 +976,37 @@ dlga_companion_brunhild_conv10:companion_brunhild_conv111|레긴하르트, 당�
 dlga_companion_brunhild_conv10:companion_brunhild_conv112|시구르드와 대화하거나 호리크 왕과 대화하는 것? 아주 결정하기 힘든 문제군.
 dlga_companion_brunhild_conv111:companion_brunhild_conv112|총회는 분쟁을 해결하고 결정을 하는 자유인들의 모임이오.
 dlga_companion_brunhild_conv112:companion_brunhild_conv12|아무래도 호리크 왕을 지지해서 그의 보호를 받는 것이 좋겠어요. 그러면 시구르드를 상대할 때 그가 우리 목숨을 쉽게 해칠 수 없게 해줄거에요. 호리크 왕이 우릴 도와준다면, 공식적으로 어머니를 돌려달라고 요청할 수도 있어요.
-dlga_companion_brunhild_conv12:companion_brunhild_conv13|곧장 '눈 속의 뱀' 시구르드에게 가는것만은 피하는게 좋겠소. 그랬다간 당신 어머니 목숨을 앗아갈 수도 있고, 황소목 스벤을 쫓아갈 기회도 영영 잃어버리게 될 지도 모르오. 먼저 호리크 왕이 우리를 지원해줄 지 살펴보는게 어떻겠소?
+dlga_companion_brunhild_conv12:companion_brunhild_conv13|곧장 '눈 속의 뱀' 시구르드에게 가는것만은 피하는게 좋겠소. 그랬다간 당신 어머니 목숨을 앗아갈 수도 있고, 황소 목 스벤을 쫓아갈 기회도 영영 잃어버리게 될 지도 모르오. 먼저 호리크 왕이 우리를 지원해줄 지 살펴보는게 어떻겠소?
 dlga_companion_brunhild_conv13:companion_brunhild_conv14|만약 내가 이 상황에서 곧장 시구르드를 찾아가서 죽임을 당하거나, 호리크 왕에게 찾아가서 당신 어머니를 죽게 내버려두는 것들 중 하나를 골라야 한다면... 정말 뭘 선택해야 할 지 모르겠소. 하지만 당신이 나를 내가 빠져있던 구멍에서 빼내주었소. 그러니까... 당신이 무슨 선택을 하든 난 괜찮소.
 dlga_companion_brunhild_conv14:close_window|생각을 좀 해봐야겠군. 모두 고맙소. 이제 가던 길을 계속 가야 하오.
-dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|급습 이후에 황소목 스벤이 이곳을 찾아왔습니다. 우리 포로들과 함께 부하 몇을 남겨두고 떠났죠. 또 그가 프리지아를 공격하기 위해 선박을 보내는 것도 목격했습니다. 그리고 북쪽으로 떠났습니다. 제 생각엔 누군가, 아니면 무언가 북쪽에서 그를 불렀다고 생각됩니다. 아니면 부하들이 얘기하던 것을 줏어들은 것도 있지만, 저들이 한 말이 모두 진실일 리 없겠죠.
+dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|급습 이후에 황소 목 스벤이 이곳을 찾아왔습니다. 우리 포로들과 함께 부하 몇을 남겨두고 떠났죠. 또 그가 프리지아를 공격하기 위해 선박을 보내는 것도 목격했습니다. 그리고 북쪽으로 떠났습니다. 제 생각엔 누군가, 아니면 무언가 북쪽에서 그를 불렀다고 생각됩니다. 아니면 부하들이 얘기하던 것을 줏어들은 것도 있지만, 저들이 한 말이 모두 진실일 리 없겠죠.
 dlga_companion_questions_bodo2:companion_responsebodostory|당신 모친께서 아직 살아 계신지, 그리고 어디 계신지 묻고 싶어하는 마음이 제게도 느껴지는구려. 사실, 아직 전하지 못한 말들이 많이 남았소. 진정하고 조심스레 내 말을 들어주십시오.
-dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^황소목 스벤은 거기서 끝내지 않았소. 우리 선박이 그의 목적이었고, 우리 선박에는 배신자가 하나 타고 있었소...
+dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^황소 목 스벤은 거기서 끝내지 않았소. 우리 선박이 그의 목적이었고, 우리 선박에는 배신자가 하나 타고 있었소...
 dlga_companion_responsebodostory3:companion_responsebodostory41|무슨 말을 하는 거요? 무슨 목적? 무슨 배신자 말이오?
 dlga_companion_responsebodostory3:companion_responsebodostory42|당신이 말하는 모든 것에 집중해야겠소. 우리 어머니께 무슨 일이 일어났는지 꼭 알고 싶소.
 dlga_companion_responsebodostory42:companion_responsebodostory41|{s2}^^진정하라고 하지 않았소! 곧바로 말하겠지만, 그 전에 이것부터 먼저 알아야 하오.
-dlga_companion_responsebodostory41:companion_responsebodostory5|{s2}^^모두 나의 불찰이었소, {playername}. 내가 황소목 스벤의 목표였소. 그래서 공격받은 것이고 결국엔 이렇게 된 것이오. 나는 내 영혼을 에루디노에게 맡긴채 죽으려는 심산이었지만 바이킹들은 날 살려두고 싶어했소. 이 모든게 내 불찰이란 말이오, 선박에 탔던 나의 가족들을 죽음으로 몰아넣은 사람은 결국 나였소! 이제 황소목 스벤을 내 손으로 처단하는것이 나의 안식이자 할 수 있는 유일한 속죄로 남았소.
+dlga_companion_responsebodostory41:companion_responsebodostory5|{s2}^^모두 나의 불찰이었소, {playername}. 내가 황소 목 스벤의 목표였소. 그래서 공격받은 것이고 결국엔 이렇게 된 것이오. 나는 내 영혼을 에루디노에게 맡긴채 죽으려는 심산이었지만 바이킹들은 날 살려두고 싶어했소. 이 모든게 내 불찰이란 말이오, 선박에 탔던 나의 가족들을 죽음으로 몰아넣은 사람은 결국 나였소! 이제 황소 목 스벤을 내 손으로 처단하는것이 나의 안식이자 할 수 있는 유일한 속죄로 남았소.
 dlga_companion_responsebodostory5:companion_responsebodostory61|그래서 '당신이' 배신자였다는 거요?!
 dlga_companion_responsebodostory5:companion_responsebodostory62|이게 다 당신 탓이오. 당신이 내 인생을 망쳤소.
-dlga_companion_responsebodostory5:companion_responsebodostory63|아니, 황소목 스벤은 내 차지요. 그리고 당신이 내 길을 막으려 든다면 당신도 죽여버리겠소.
+dlga_companion_responsebodostory5:companion_responsebodostory63|아니, 황소 목 스벤은 내 차지요. 그리고 당신이 내 길을 막으려 든다면 당신도 죽여버리겠소.
 dlga_companion_responsebodostory61:companion_responsebodostory7|{s2}^^내 말을 제대로 듣지 않았군! 내가 스벤의 목표였다고 하지 않았소. 어떻게 내가 나를 배신한단 말이오?
 dlga_companion_responsebodostory62:companion_responsebodostory7|{s2}^^알고있소, 그저 죄송하기만 할 따름이오.
 dlga_companion_responsebodostory63:companion_responsebodostory7|{s2}^^그 문제는 지금 얘기할 사안이 아니지만... 나는 이미 에루디노에게 맹세했소.
-dlga_companion_responsebodostory7:companion_responsebodostory8|내가 멍청했소. 워든 릭은 안전할 거라고 생각했는데, 내가 틀렸소. 나는 그곳의 선장에게 배신당한것이오. 그 가엾은 양반은 황소목 스벤이 부귀영화라도 안겨줄 거라 생각했나보오. 하지만 그 역시 배신을 당했고 바이킹들이 워든 릭을 공격할 때 그도 죽고 말았소. 그제야 우리에게 일어난 일들이 점점 아귀가 맞아떨어지는 것 같더구려. 우리가 그 난파선들 사이에 멈추었던 진짜 이유에 대해서 말이오...
+dlga_companion_responsebodostory7:companion_responsebodostory8|내가 멍청했소. 워든 릭은 안전할 거라고 생각했는데, 내가 틀렸소. 나는 그곳의 선장에게 배신당한것이오. 그 가엾은 양반은 황소 목 스벤이 부귀영화라도 안겨줄 거라 생각했나보오. 하지만 그 역시 배신을 당했고 바이킹들이 워든 릭을 공격할 때 그도 죽고 말았소. 그제야 우리에게 일어난 일들이 점점 아귀가 맞아떨어지는 것 같더구려. 우리가 그 난파선들 사이에 멈추었던 진짜 이유에 대해서 말이오...
 dlga_companion_responsebodostory8:companion_responsebodostory9|워든 릭의 대장이 나는 물론 우리 모두를 배신했소. 물론 그를 탓하는건 아니오. 그는 그저 멍청했을 뿐이었고 그 대가를 목숨으로 치루었으니 말이오.
 dlga_companion_responsebodostory9:companion_responsebodostory101|차라리 죽는게 나을 거요. 안 그랬으면 내가 직접 처단했을테니. 난 배신자들이 정말 싫소.
-dlga_companion_responsebodostory9:companion_responsebodostory102|하지만 왜 황소목 스벤이 당신을 쫓는 거요? 왜 당신이 그의 목표인거지?
+dlga_companion_responsebodostory9:companion_responsebodostory102|하지만 왜 황소 목 스벤이 당신을 쫓는 거요? 왜 당신이 그의 목표인거지?
 dlga_companion_responsebodostory9:companion_responsebodostory103|우리 어머니 얘기를 들으려고 기다리고 있소.
 dlga_companion_responsebodostory101:companion_responsebodostory103|
-dlga_companion_responsebodostory102:companion_responsebodostory11|내가 황소목 스벤의 목표였던 것은 내가 아주 중요한 뭔가를 손에 쥐고 있기 때문이오. 너무 중요해서 시구르드 라그나르손이 죽여서라도 얻을만한 물건 말이오. 하지만 나는 바이킹 습격에 앞서... 후회할만한 아주 끔찍한 일을 저질러버렸소... 그래서 내가 진정해달라고 부탁한 것이오.
-dlga_companion_responsebodostory103:companion_responsebodostory102|모친께서는 아직 살아계시오. 제가 황소목 스벤의 선박에 포로로 잡혀있다 깨어났을 때 당신 모친께서 제 옆에 계셨소. 당신이 나를 구출해주기 전 까지는 '우리가 유일한 생존자다...' 라고 생각하고 있었소. 당신 모친께서는 당신이 죽은 줄만 알고 있소, 친구여.
+dlga_companion_responsebodostory102:companion_responsebodostory11|내가 황소 목 스벤의 목표였던 것은 내가 아주 중요한 뭔가를 손에 쥐고 있기 때문이오. 너무 중요해서 시구르드 라그나르손이 죽여서라도 얻을만한 물건 말이오. 하지만 나는 바이킹 습격에 앞서... 후회할만한 아주 끔찍한 일을 저질러버렸소... 그래서 내가 진정해달라고 부탁한 것이오.
+dlga_companion_responsebodostory103:companion_responsebodostory102|모친께서는 아직 살아계시오. 제가 황소 목 스벤의 선박에 포로로 잡혀있다 깨어났을 때 당신 모친께서 제 옆에 계셨소. 당신이 나를 구출해주기 전 까지는 '우리가 유일한 생존자다...' 라고 생각하고 있었소. 당신 모친께서는 당신이 죽은 줄만 알고 있소, 친구여.
 dlga_companion_responsebodostory11:companion_responsebodostory13|무슨 짓을 했소?
 dlga_companion_responsebodostory13:companion_responsebodostory14|나는 그 무언가를 당신 모친께 드렸소. 그 분이 갖고 계시는게 내가 갖고 있는 것 보다 안전할 거라고 생각했기 때문에... 당신이 내게 심각하게 화내기 전에, 내가 그 분의 목숨을 살려드렸다는 것만은 알아주시오. 왜냐면 바이킹들이 그 분을 나의 주인으로 생각했기 때문이오.
-dlga_companion_responsebodostory14:companion_responsebodostory15|이해 하시겠소? 그 물건이 없었다면 그 분은 워든 릭의 다른 사람들처럼 벌써 돌아가셨을 것이오. 모친의 병세도 도움이 됐소. 왜냐면 그 바이킹들은 모친의 광증을 신의 손길이라고 생각했기 때문이오. 스벤은 모친을 북쪽으로 데려갔고 나는 노예로 팔아버리기 위해 여기 남겨두었는데, 그는 당신 모친이 제 주인이자 운반자라고 생각했기 때문이오. 서두릅시다. 황소목 스벤이 진실을 알기라도 하는 날엔 그 분을 죽이고 말것이오.
+dlga_companion_responsebodostory14:companion_responsebodostory15|이해 하시겠소? 그 물건이 없었다면 그 분은 워든 릭의 다른 사람들처럼 벌써 돌아가셨을 것이오. 모친의 병세도 도움이 됐소. 왜냐면 그 바이킹들은 모친의 광증을 신의 손길이라고 생각했기 때문이오. 스벤은 모친을 북쪽으로 데려갔고 나는 노예로 팔아버리기 위해 여기 남겨두었는데, 그는 당신 모친이 제 주인이자 운반자라고 생각했기 때문이오. 서두릅시다. 황소 목 스벤이 진실을 알기라도 하는 날엔 그 분을 죽이고 말것이오.
 dlga_companion_responsebodostory15:companion_responsebodostory161|진정으로 당신은 누구고, 뭐가 그렇게 중요해서 스벤과 그의 영주 시구르드가 애타게 찾아 헤매는거요?
 dlga_companion_responsebodostory15:companion_responsebodostory162|우리 어머니를 어디로 데려갔소?
-dlga_companion_responsebodostory161:companion_recruit_signup|그게 중요한건 아닙니다만, 내가 평범한 여행자가 아니라는 것만은 말해드릴 수 있소. 전 아스투리아스의 국왕이 보낸 사람이오. 그리고 제가 가져온 건 전쟁의 흐름을 뒤바꿀 수도 있는 선물이오! 이 일은 나중에 얘기하기로 합시다. 당신 어머니를 찾는 일이 더 급하오. 황소목 스벤은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드는 이 물건을 원하니 당신 어머니를 심문할 것이오. 분명 그 분께서 필요한 정보를 가지고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
-dlga_companion_responsebodostory162:companion_recruit_signup|황소목 스벤은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드가 이 물건을 원하니 당신 어머니를 심문할 것이오. 왜냐면 그분께서 필요한 정보를 갖고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
+dlga_companion_responsebodostory161:companion_recruit_signup|그게 중요한건 아닙니다만, 내가 평범한 여행자가 아니라는 것만은 말해드릴 수 있소. 전 아스투리아스의 국왕이 보낸 사람이오. 그리고 제가 가져온 건 전쟁의 흐름을 뒤바꿀 수도 있는 선물이오! 이 일은 나중에 얘기하기로 합시다. 당신 어머니를 찾는 일이 더 급하오. 황소 목 스벤은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드는 이 물건을 원하니 당신 어머니를 심문할 것이오. 분명 그 분께서 필요한 정보를 가지고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
+dlga_companion_responsebodostory162:companion_recruit_signup|황소 목 스벤은 그의 영주 '눈 속의 뱀' 시구르드 라그나르손에게 불려갔소. 시구르드가 이 물건을 원하니 당신 어머니를 심문할 것이오. 왜냐면 그분께서 필요한 정보를 갖고 계시다고 생각할 테니 말이오. 시구르드를 빨리 찾아야만 하오.
 dlga_companion_reginhard1:companion_reginhard2|{s2}^^아직 얘기할 거리는 없는 것 같군.
 dlga_companion_reginhard2:companion_reginhard3|좋소. 당신과 함께 있어주겠지만, 왜 당신이 여기 있으면 안 되는지 말해보시오.
 dlga_companion_reginhard2:companion_reginhard3.1|레긴하르트, 나는 그걸 물어볼 자격이 있는 사람이오. 왜 당신이 여기 있으면 안 되는지 말해보시오.
@@ -1022,7 +1022,7 @@ dlga_companion_reginhard422:companion_reginhard423.1|날 갖고 노는 것 같�
 dlga_companion_reginhard423:close_window|{s3}^^날 똑바로 보고 잘 들으시오. 이 반역을 치르면서 수많은 사람들이 힘든 시대를 보내고 있소. 특히 과부들과 고아들이 말이오. 도레스타드에 여자가 한 명 있는데 과부와 고아들을 도와주기 위해 기부금을 모으고 있소. 그녀를 찾아가서 도와주시오. 당신이 좋은 사람인 것 같긴 하지만, 증명해보시오. 이 여자에게 가서 대화해보시오. 이름은 아다라고 하는데, 부두에 있는 큰 집들중 사다리를 올라가야 하는 상점 안에서 찾을 수 있을 거요. 내 이름으로 기부금을 내고 오시오. 이거면 사람들이 날 다른 시선으로 보아주겠지.
 dlga_bodo_choiceside1:bodo_choiceside21|보도, 당신 임무에 대해 다시 말해주시오.
 dlga_bodo_choiceside1:bodo_choiceside22|그래, 안 그래도 편지에 대해 생각하던 참이었고, 이제 결정을 내렸소.
-dlga_bodo_choiceside21:bodo_choiceside22|당신 기억력이 좋지 않군요, 친구. 우리가 워든 릭으로 향했을때 황소목 스벤이 우릴 공격하고 편지를 뺏어갔습니다. 거기서부터 이야기가 시작되죠. 스벤은 그의 영주 '눈 속의 뱀' 시구르드에게 갖다주기 위해 편지를 훔쳤지만, 우리가 노스비거에서 되찾았죠. 우린 시구르드가 편지를 지키라고 지시한 아틀리의 시체 손아귀에서 편지를 빼냈습니다. 이제 편지는 우리 손에 있고, 그걸 웨식스로 가져다 주기 딱 적당한 시간을 알아보고 있습니다. 때가 되었군요.
+dlga_bodo_choiceside21:bodo_choiceside22|당신 기억력이 좋지 않군요, 친구. 우리가 워든 릭으로 향했을때 황소 목 스벤이 우릴 공격하고 편지를 뺏어갔습니다. 거기서부터 이야기가 시작되죠. 스벤은 그의 영주 '눈 속의 뱀' 시구르드에게 갖다주기 위해 편지를 훔쳤지만, 우리가 노스비거에서 되찾았죠. 우린 시구르드가 편지를 지키라고 지시한 아틀리의 시체 손아귀에서 편지를 빼냈습니다. 이제 편지는 우리 손에 있고, 그걸 웨식스로 가져다 주기 딱 적당한 시간을 알아보고 있습니다. 때가 되었군요.
 dlga_bodo_choiceside22:bodo_choiceside3|아주 기쁩니다! 당신이 없이는 이렇게 멀리 오지 못했을 겁니다. 이 편지는 웨식스, 아스루리아스와 프랑키아의 동맹을 성사시켜줄겁니다. 이 3개의 왕국은 함께 군사와 선박을 모아 북해의 바이킹들을 쓸어버리겠죠. 실은, 아스투리아스의 선단이 슬슬 출발할 때가 되었을 겁니다. 제 임무가 늦어져서 말이죠.
 dlga_bodo_choiceside3:bodo_choiceside4_s|결정을 하기 전에 동료들의 의견도 들어봐야 겠소.
 dlga_bodo_choiceside3:bodo_choiceside4_1|이제, 결정을 내리겠소.
@@ -1312,7 +1312,7 @@ dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^어쨌든 당신은 켄네�
 dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^그렇소. 나는 쥐새끼일지도 모르지만, 당신이라고 더 나은 건 아니오. 티아데르트를 찾아가려고 나를 이용했잖소! 티아데르트는 좋은 사람이었소. 그의 유일한 죄는 덴마크인에게 저항하여 자유를 얻어내려고 한 것일 뿐이오. ^신이시여 저를 용서하소서! 제 명을 받아들이겠나이다!^야를에게 가서 얘기해보시오. 그리고 말한대로 이 부대를 나가겠소. 좋은 여행 되기를!
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|운명은 가고 싶은 대로 가는 법이오!
 dlga_reginhard_calm_finalcon2:close_window|운명은 항상 그녀가 가야 할 곳으로 가는 법이오!
-dlga_reginhard_mission3_1:reginhard_mission3_2|황소목 스벤을 찾기 위해선 그가 필요하오.
+dlga_reginhard_mission3_1:reginhard_mission3_2|황소 목 스벤을 찾기 위해선 그가 필요하오.
 dlga_reginhard_mission3_1:reginhard_mission3_3|당신 의견엔 관심 없소. 당신 물건들을 챙길 수 있는지 보시오. 왜냐면 당신은 곧 이 부대를 떠야 할 거니까.
 dlga_reginhard_mission3_2:close_window|{s2}^^하늘이 무너져도 솟아날 구멍이 있다고 했소. 일단 나중에 다시 이야기 합시다. 저기, 독싱가에서 기수가 오고 있소.
 dlga_reginhard_mission3_3:close_window|{s2}^^압니다. 제 물건도 다 챙겨놨습니다. 언제든지 절 내쫓으실 수야 있으시겠지만, 새 근심이 생기실 겁니다. 기수가 독싱가에서 오고 있습니다.
@@ -1454,7 +1454,7 @@ dlga_start:pretender_start|반갑소, {playername}.
 dlga_pretender_start:pretender_rebellion_cause_prelim|당신의 인생사를 다시 들려주시겠습니까, {reg65?부인:경}?
 dlga_pretender_rebellion_cause_prelim:pretender_rebellion_cause_1|말해드리지.
 dlga_pretender_start:pretender_discuss_rebellion_1|당신을 도와 왕좌를 차지하는 것을 돕고 싶습니다!
-dlga_pretender_start:pretender_end|황소목 스벤만 쓰러트리고 나면 당신이 왕좌를 되찾는 것을 도와줄 수 있을 거 같습니다.
+dlga_pretender_start:pretender_end|황소 목 스벤만 쓰러트리고 나면 당신이 왕좌를 되찾는 것을 도와줄 수 있을 거 같습니다.
 dlga_pretender_start:pretender_end.1|이만 가봐야겠소.
 dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|정말 이 일을 돕겠소, {playername}? 왕좌를 되찾는 일은 절대 쉬운 일이 아니오. 우리 영토의 영주들은 {s11}에게 경의를 표할 것을 맹세했소. 찬탈자에게 바치는 맹세는 당연히 효력이 없고, 어떤 영주들이 우릴 도와줄 기대를 할 수도 있겠지만 아주 힘들고 거친 일이 될 것이오.
 dlga_pretender_discuss_rebellion_2:pretender_discuss_rebellion_3|이런 고난은 언제든지 준비 되어있습니다.
@@ -1773,9 +1773,9 @@ dlga_ulf_dialog122:ulf_dialog1221|당신은 쥐새끼 같은 울프를 보호하
 dlga_ulf_dialog1221:ulf_dialog1232|좋은 말씀입니다, 레긴하르트. 나 또한 당신의 결정을 존중해요, {playername}. 하지만 당신은 당신이 지휘하는 부하들에게 무엇이 좋을지 잘 생각해서 결정해야 합니다...
 dlga_ulf_dialog1231:ulf_dialog1232|창고를 건들지 마시오, 그 음식은 우리 것이 아닙니다.
 dlga_ulf_dialog121:ulf_dialog122|{s2}^^하지만 그건 내 음식과 음료야... 당신은 도둑이고, 강도야!
-dlga_ulf_dialog122:close_window|이제 그건 더이상 당신 물건이 아니야, 우리가 황소목 스벤을 기다리는 동안 이 농장은 우리 것이다.
-dlga_ulf_dialog1232:ulf_dialog1233|고맙소, 신께서 당신께 보답해 주실 것이오. 내가 당신에게 한 가지만 일러두겠소. 황소목 스벤은 쉽게 볼만한 사람이 아니오. 그러니 그를 대할 땐 늘 무기를 가까이 두시오.
-dlga_ulf_dialog1233:close_window|그러게 하겠소. 나는 이만 내 부하들에게 가서 황소목 스벤이 도착할 때 까지 기다리겠소.
+dlga_ulf_dialog122:close_window|이제 그건 더이상 당신 물건이 아니야, 우리가 황소 목 스벤을 기다리는 동안 이 농장은 우리 것이다.
+dlga_ulf_dialog1232:ulf_dialog1233|고맙소, 신께서 당신께 보답해 주실 것이오. 내가 당신에게 한 가지만 일러두겠소. 황소 목 스벤은 쉽게 볼만한 사람이 아니오. 그러니 그를 대할 땐 늘 무기를 가까이 두시오.
+dlga_ulf_dialog1233:close_window|그러게 하겠소. 나는 이만 내 부하들에게 가서 황소 목 스벤이 도착할 때 까지 기다리겠소.
 dlga_ulf_ormvictory1:ulf_ormvictory21|울프, 이 전리품을 미래에 태어날 토라의 아이를 위해 남겨두시오. 그 아이가 어른이 되면 그 때 아버지에 대하여 이야기하시오.
 dlga_ulf_ormvictory1:ulf_ormvictory2|울프, 이 돈과 전리품을 미래에 태어날 토라의 아이를 위해 남겨두시오. 받아주면 기쁘겠소.
 dlga_ulf_ormvictory1:ulf_ormvictory2.1|울프, 이 돈은 미래에 태어날 토라의 아이를 위해 남겨두시오. 나는 오름의 갑옷과 무기에 만족하겠소.
@@ -1984,7 +1984,7 @@ dlga_prisionero_interrogation1:prisionero_golpea|--당신은 포로의 얼굴을
 dlga_prisionero_interrogation1:prisionero_golpea2|--당신은 포로 옆구리의 상처를 때렸습니다--
 dlga_prisionero_interrogation1:prisionero_golpea3|자, 이제 이야기해봅시다! --그런 다음 다시 포로의 옆구리를 때렸습니다.--
 dlga_prisionero_interrogation1:prisionero_persuasion1|아무도 당신을 위해 오지 않을 거요. 당신의 두목은 당신 뒤에 숨었소. 당신은 혼자고. 내 질문에 대답하시오, 그러면 내가 당신을 도울 수 있소 (설득)
-dlga_prisionero_persuasion1:pretalkdc|나는 당신의 포로이고, 나는 당신의 손 안에 혼자 남겨졌소, 아지만 내 두목은 나를 잊지 않을 거요. 황소목 스벤은 그의 부하를 포기하지 않지. 나는 당신의 질문에 대답하겠지만, 내 두목이나 그의 일에 영향을 주지 않는 경우에만 대답하겠습니다.
+dlga_prisionero_persuasion1:pretalkdc|나는 당신의 포로이고, 나는 당신의 손 안에 혼자 남겨졌소, 아지만 내 두목은 나를 잊지 않을 거요. 황소 목 스벤은 그의 부하를 포기하지 않지. 나는 당신의 질문에 대답하겠지만, 내 두목이나 그의 일에 영향을 주지 않는 경우에만 대답하겠습니다.
 dlga_prisionero_interrogation1:prisionero_persuasion2|당신은 충성스러운 전사였소, 나는 당신을 풀어주고 당신이 내 질문에 대답할 경우 1000 페닝을 제공할 것을 약속하오. (설득)
 dlga_prisionero_persuasion2:pretalkdc|당신은 진심이군요, 나는 당신의 제안에 끌립니다. 나는 발할라를 방문할 준비가 안 됐어요. 나는 질문에 대답하겠소.
 dlga_prisionero_interrogation1:prisionero_golpeado1|아마 그가 이야기하기 위한 동기를 마련하기 위해 --그의 가랑이를 붙잡고 쥐어짭니다-- (공격성)
@@ -1999,7 +1999,7 @@ dlga_prisionero_interrogation_torturer:prisionero_interrogationth|{s2}^^물론, 
 dlga_prisionero_interrogationth:pretalkdc|{s2}^^제발, 제발, 나는 충분히 고통받았소. 나는 당신이 다른 방법으로 정보를 얻을 수 있을 거라고 확신하오.
 dlga_prisionero_interrogation2:pretalkdc|내가 아는 모든 걸 말하겠소.
 dlga_prisionero_interrogation22:prisionero_interrogation31|당신이 독싱가를 공격한 이유는 뭐지?
-dlga_prisionero_interrogation22:prisionero_interrogation32|황소목 스벤은 당신과 함께 있지 않았지, 그는 어디 있나?
+dlga_prisionero_interrogation22:prisionero_interrogation32|황소 목 스벤은 당신과 함께 있지 않았지, 그는 어디 있나?
 dlga_prisionero_interrogation22:prisionero_interrogation33|'눈 속의 뱀' 시구르드 라그나르손이라는 이름을 최근에 들었다. 그는 당신의 주인인가?
 dlga_prisionero_interrogation22:prisionero_interrogation34|라그나르와 그의 아들들에 대해서 말해라.
 dlga_prisionero_interrogation22:prisionero_interrogation35|올라프, 당신은 워든 릭이라는 상선을 공격하는 데 참여했나?
@@ -2011,7 +2011,7 @@ dlga_prisionero_interrogation4:prisionero_interrogation42|들어봐, 매우 중�
 dlga_prisionero_interrogation43:prisionero_interrogation44|내 어머니가 그 선박에 타고 있었다.
 dlga_prisionero_interrogation43:prisionero_interrogation45|포로는 어디로 갔지?
 dlga_prisionero_interrogation44:prisionero_interrogation43|음, 우리는 몇몇 죽어가는 남자들을 잡았고, 이상한 소리를 지껄이는 미친 여자를 잡았소. 당신 어머니가 그들 중 하나요?
-dlga_prisionero_interrogation45:prisionero_interrogation22th|황소목 스벤은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요. 하지만 그곳이 어딘지 이야기 해줄 생각은 없소. 심지어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신하지 않을것이오.
+dlga_prisionero_interrogation45:prisionero_interrogation22th|황소 목 스벤은 그들과 함께 이동했소. 그는 북부로 여행을 계속하기 전에 자신의 은신처로 가고 있었소. 은신처는 덴마크에 있소. 그곳은 수비하기 좋은 장소요. 하지만 그곳이 어딘지 이야기 해줄 생각은 없소. 심지어 당신이 나를 죽인다고 해도, 나는 내 주인을 배신하지 않을것이오.
 dlga_prisionero_interrogation22th:prisionero_interrogation22th2|{s3}^^더 이상 그를 고문할 필요가 없을것 같소. 리베의 항구에 사는 독싱가 출신의 남자가 있는데, 리베로 상경해 항구 관리로 지내며 바이킹이 잡아온 노예를 거래하고 있소. 종종 부두 바깥에 있는 그를 발견할 수 있을것이오. 그는 그리 좋은 사람이 아니지만, 그는 필요한 온갖 정보를 판매하고 있소. 하지만 당신이 그와 이야기할 때 내 이름을 언급하진 마시오. 몇 년 전에 그를 독싱가에서 추방한 사람이... 바로 나였소.
 dlga_prisionero_interrogation22th2:prisionero_interrogation22|내가 이야기할 것은 더 없소.
 dlga_start:close_window.59|명령을 기다리고 있소.
@@ -2021,11 +2021,11 @@ dlga_start:sven_comprapr|남자는 건강한 치아와 탄탄한 근육을 갖�
 dlga_start:svenlair_1|당신은 누구고, 무엇을 원합니까?
 dlga_start:revenge_kingmen|안녕하시오, {playername}! 안녕하시오, 에길, 형제여! 우리는 당신의 서신을 받고 여기에 왔소. 우리는 우리가 부대에 합류하기를 바라오.
 dlga_start:close_window.61|신께서 우릴 지키셨도다!
-dlga_revenge_kingmen:revenge_kingmen2|물론, 하랄드! 우리는 여전히 '눈 속의 뱀' 시구르드를 기다리고 있어. 여기, 내 친구가, 황소목 스벤을 잡기 위해 혈안이 되어 있지.
+dlga_revenge_kingmen:revenge_kingmen2|물론, 하랄드! 우리는 여전히 '눈 속의 뱀' 시구르드를 기다리고 있어. 여기, 내 친구가, 황소 목 스벤을 잡기 위해 혈안이 되어 있지.
 dlga_revenge_kingmen2:revenge_kingmen3|환영하오, 하랄드. 우리는 호리크 왕의 도움을 감사하게 생각하오.
 dlga_revenge_kingmen3:revenge_kingmen4|나에게도 기쁜 일이오. 적당한 때가 될 때까지 내 부하들을 숨겨두겠소. 상황이 좋지 않다면 개입할 준비가 되었소. 왕의 요구는 명확하오, {playername}. 먼저 적대적으로 대해선 안되오. 사실 왕께선 가능한 한 대립을 피하길 원하고 있소.
 dlga_revenge_kingmen4:revenge_kingmen5|전쟁을 하더라도 그 시작이 나는 아닐 것이오. 약속하겠소.
-dlga_revenge_kingmen4:revenge_kingmen5.1|황소목 스벤은 나에게 많은 해악을 저질렀소. 그건 약속할 수 없소.
+dlga_revenge_kingmen4:revenge_kingmen5.1|황소 목 스벤은 나에게 많은 해악을 저질렀소. 그건 약속할 수 없소.
 dlga_revenge_kingmen5:close_window|왕꼐서도 그의 바람이 지켜지길 바라고 있소. 우리는 이제 농장으로 진입할 것이오. 내 부하들은 배고픔과 갈증에 굶주렸소.
 dlga_harald_meeting1:harald_meeting21|나도 이 회의에 특별한 관심을 가지고 왔소. 나는 오랬동안 내 어머니에 대한 소식을 기다려 왔단 말이오.
 dlga_harald_meeting1:harald_meeting3|(아무 말도 하지 않습니다.)
@@ -2040,27 +2040,27 @@ dlga_harald_meeting4_2:harald_meeting5|동의하는 바이오.
 dlga_harald_meeting5_2:harald_meeting5|단정하여 말하긴 어렵소. 우리가 가진 정보는 상인이나 여행자에게 들은 것이오. 그들은 그저 수천 명의 병력이라고만 이야기 할 뿐이오. 그러나 그들의 숫자는 별로 중요한 문제가 아니오. 앵글인과 색슨인은 완전히 왕에게 길들여져 있는 약해 빠진 자들이오. 그들을 상대하는 일은 집안일이나 하던 여자들을 공격하는 것만큼 쉬운 일일 것이오.
 dlga_harald_meeting5_3:harald_meeting5_4|{s2}^^이런, 이런, 오늘의 아첨꾼이 등장했군. 우두머리의 호의를 얻기 위해 어디든 끼고 싶어 하는 사람은 항상 있기 마련이지.
 dlga_harald_meeting5_4:harald_meeting5|나는 아첨꾼을 그냥 놔두지 않소, {playername}. 이제 본격적으로 진지한 이야기를 해 봅시다.
-dlga_harald_meeting5:harald_meeting6|{s2}^^모든 것들이 명확하고 우리의 목표 역시 가까이 왔지만, 황소목 스벤에 대한 문제는 멈출 줄 모르고 튀어나오고 있소. 여기 있는 올라프 선장이 우리에게 매우 심각한 정보를 가져왔소. 말해 보시오, 올라프.
-dlga_harald_meeting6:harald_meeting7|{s2}^^빙빙 돌려 말하지 않겠소. 황소목 스벤은 하랄드 하랄드손과 지휘권을 나눌 생각이 없소. 기회만 있다면, 그는 하랄드를 죽이고 지휘권을 빼앗을 것이오. 확신할 순 없지만, 아마도 우리가 육지에 도착할 때 그가 일을 벌일지도 모르오. 어쩌면 내가 그의 파벌에서 돌아섰다는 이유로 마음을 바꿨을지도 모르지만 말이오.
-dlga_harald_meeting7:harald_meeting8|남은 여행 동안에는 경계 근무를 강화시키도록 하겠소. 우리가 육지에 도착하면, 나는 스벤에게 죽음의 결투로 도전할 것이오. 그런 생각을 하다니, 황소목 스벤이 미치광이인 것은 알았지만 이렇게 위험한 미치광이인 줄은 몰랐소.
+dlga_harald_meeting5:harald_meeting6|{s2}^^모든 것들이 명확하고 우리의 목표 역시 가까이 왔지만, 황소 목 스벤에 대한 문제는 멈출 줄 모르고 튀어나오고 있소. 여기 있는 올라프 선장이 우리에게 매우 심각한 정보를 가져왔소. 말해 보시오, 올라프.
+dlga_harald_meeting6:harald_meeting7|{s2}^^빙빙 돌려 말하지 않겠소. 황소 목 스벤은 하랄드 하랄드손과 지휘권을 나눌 생각이 없소. 기회만 있다면, 그는 하랄드를 죽이고 지휘권을 빼앗을 것이오. 확신할 순 없지만, 아마도 우리가 육지에 도착할 때 그가 일을 벌일지도 모르오. 어쩌면 내가 그의 파벌에서 돌아섰다는 이유로 마음을 바꿨을지도 모르지만 말이오.
+dlga_harald_meeting7:harald_meeting8|남은 여행 동안에는 경계 근무를 강화시키도록 하겠소. 우리가 육지에 도착하면, 나는 스벤에게 죽음의 결투로 도전할 것이오. 그런 생각을 하다니, 황소 목 스벤이 미치광이인 것은 알았지만 이렇게 위험한 미치광이인 줄은 몰랐소.
 dlga_harald_meeting8:harald_meeting8_1|좋은 생각이오. 나도 당신을 최대한 지원하겠소. 스벤이 준비가 부족한 틈을 타 그의 배를 공격하기로 결정한다고 해도 말이오.
 dlga_harald_meeting8_1:harald_meeting9|당신은 내 지원도 받게 될 것이오, 하랄드. 스벤, 그 자는 너무 위험하오.
 dlga_harald_meeting9:harald_meeting11|나도 충분히 기다린 것 같소! 내 어머니에 대해선 아시오?
 dlga_harald_meeting9:harald_meeting11.1|당신은 내 지원도 받을 것이오, 그러나 일단 내 어머니에 대해서 물어보고 싶소.
-dlga_harald_meeting9:harald_meeting10_3|내가 생각하기에 황소목 스벤이 당신보다 이 함대의 사령관으로 더 나은 것 같소.
-dlga_harald_meeting10_3:harald_meeting11|당신의 의견은 알겠소. 당신도 당신 어머니처럼 황소목 스벤의 노예가 될 수 있소. 당신은 정말 혐오스럽군, {playername}. 당신은 내게 모욕감을 주고 있소. 그러나 총회는 우리를 강제로 함께 일하도록 결정한 바 있소. 당신이 나에게 한 말은 듣지 않은 것으로 하겠소.
-dlga_harald_meeting11:harald_meeting12|황소목 스벤과 여행하고 있는 여자가 한 명 있소. 그녀는 그의 세이드로서, 까마귀의 영혼을 받아 오딘의 말씀을 전하고 있소. 그녀에게 신의 손길이 닿았기 때문에, 그녀는 모두의 존경을 받고 있소. 황소목 스벤은 신의 손길이 닿은 아이를 낳길 바라며 그녀와 결혼까지 했소. 그러나 그녀는 늙었고, 그녀의 배는 가물러 버려서 더 이상 아이를 가질 수 없었소. 만약 그녀가 당신의 어머니가 맞다고 해도, 내 생각엔 그녀는 당신을 기억하지도 못 할 것이오. 그녀는 하룻밤 사이의 기억조차 가질 수 없는 저주에 걸려있소.
-dlga_harald_meeting12:harald_meeting13|당신의 어머니는 이제 황소목 스벤을 섬기고 있는 것 같아 보이는구려. 최악의 상황이 닥치더라도 이 문제에 대처할 준비가 되어 있기를 바라오.
+dlga_harald_meeting9:harald_meeting10_3|내가 생각하기에 황소 목 스벤이 당신보다 이 함대의 사령관으로 더 나은 것 같소.
+dlga_harald_meeting10_3:harald_meeting11|당신의 의견은 알겠소. 당신도 당신 어머니처럼 황소 목 스벤의 노예가 될 수 있소. 당신은 정말 혐오스럽군, {playername}. 당신은 내게 모욕감을 주고 있소. 그러나 총회는 우리를 강제로 함께 일하도록 결정한 바 있소. 당신이 나에게 한 말은 듣지 않은 것으로 하겠소.
+dlga_harald_meeting11:harald_meeting12|황소 목 스벤과 여행하고 있는 여자가 한 명 있소. 그녀는 그의 세이드로서, 까마귀의 영혼을 받아 오딘의 말씀을 전하고 있소. 그녀에게 신의 손길이 닿았기 때문에, 그녀는 모두의 존경을 받고 있소. 황소 목 스벤은 신의 손길이 닿은 아이를 낳길 바라며 그녀와 결혼까지 했소. 그러나 그녀는 늙었고, 그녀의 배는 가물러 버려서 더 이상 아이를 가질 수 없었소. 만약 그녀가 당신의 어머니가 맞다고 해도, 내 생각엔 그녀는 당신을 기억하지도 못 할 것이오. 그녀는 하룻밤 사이의 기억조차 가질 수 없는 저주에 걸려있소.
+dlga_harald_meeting12:harald_meeting13|당신의 어머니는 이제 황소 목 스벤을 섬기고 있는 것 같아 보이는구려. 최악의 상황이 닥치더라도 이 문제에 대처할 준비가 되어 있기를 바라오.
 dlga_harald_meeting13:harald_meeting13_1|나는...
 dlga_harald_meeting13_1:harald_meeting13_2|--당신의 주변은 갑작스런 소란과 사람들의 고함 소리로 뒤덥혔고, 당신의 대답은 묻혀버리고 말았습니다. 한 전사는 회의에 끼어듭니다. 그는 흥분해 있으며, 그의 눈은 당혹감에 질려있습니다.--
-dlga_harald_meeting13_2:harald_meeting13_3|주군, 헤르시르 하랄드! 황소목 스벤이 우리를 공격중입니다! 함대 중 절반이 우리에게 돌격하고 있습니다! 토르가 우리에게 가호를 내리기를, 스벤이 우리를 속였습니다!
-dlga_harald_meeting13_3:close_window|{s3}^^선장, 당신의 선박에 돌아가서 선원들을 지휘하시오. 황소목 스벤의 공격에 대한 대가를 치루게 할 것이오. 만일 우리가 이 전투에서 패배할 경우 황소목 스벤의 배신에 대해 라드바르드 라그나르손에게 알려야만 한다는 것을 기억해 두시오. 그대에게 행운이 있기를! 이제, 전투로!
-dlga_start:svenfinal_ld1|{playername}! 내 주인께서는 당신이 나에게 올 것이라고 귀띔했소. 황소목 스벤은 레딩엄을 점령하고 충성을 맹세한 그의 많은 부하들, 주로 덴마크인들을 데리고 있소. 그들은 전설적인 스벤과 마찬가지로 거칠고 전투로 다져진 사람들이오. 나라면 스벤에 맞서야 하는 당신이나 당신의 부하들의 입장이 되고 싶지 않을 것이오.
+dlga_harald_meeting13_2:harald_meeting13_3|주군, 헤르시르 하랄드! 황소 목 스벤이 우리를 공격중입니다! 함대 중 절반이 우리에게 돌격하고 있습니다! 토르가 우리에게 가호를 내리기를, 스벤이 우리를 속였습니다!
+dlga_harald_meeting13_3:close_window|{s3}^^선장, 당신의 선박에 돌아가서 선원들을 지휘하시오. 황소 목 스벤의 공격에 대한 대가를 치루게 할 것이오. 만일 우리가 이 전투에서 패배할 경우 황소 목 스벤의 배신에 대해 라드바르드 라그나르손에게 알려야만 한다는 것을 기억해 두시오. 그대에게 행운이 있기를! 이제, 전투로!
+dlga_start:svenfinal_ld1|{playername}! 내 주인께서는 당신이 나에게 올 것이라고 귀띔했소. 황소 목 스벤은 레딩엄을 점령하고 충성을 맹세한 그의 많은 부하들, 주로 덴마크인들을 데리고 있소. 그들은 전설적인 스벤과 마찬가지로 거칠고 전투로 다져진 사람들이오. 나라면 스벤에 맞서야 하는 당신이나 당신의 부하들의 입장이 되고 싶지 않을 것이오.
 dlga_svenfinal_ld1:svenfinal_ld11|나는 두렵지 않소. 심판 시간이오!
 dlga_svenfinal_ld1:svenfinal_ld2|그와 함께 있는 여성에 대해 알고 있습니까?
 dlga_svenfinal_ld1:svenfinal_ld3|당신도 우리와 함께 싸우는 것이 어떻겠소?
-dlga_svenfinal_ld2:svenfinal_ld11|당신의 어머니, 그 세이드를 말하는 것이오? 그렇소, 그녀는 그들과 함께 있소. 황소목 스벤이 레딩엄에 들어갔을 때 우리는 그녀를 보았소. 전에는 그녀가 어떤 모습이었는지 모르지만, 지금은 매우 겁에 질리고 수척해져 있소. 그녀의 모습은 더 이상 살 날이 머지 않아보였소.
-dlga_svenfinal_ld3:svenfinal_ld11|유감스럽게도 그럴 순 없소. 내 임무는 다른 것이오. 여기에서의 내 역할은 당신이 도착했을 때 황소목 스벤을 확인할 수 있도록 하는 것이었소. 내 주인은 그것을 당신에게 약속한 것으로 알고 있소. 그는 자신의 말을 어기지 않소.
+dlga_svenfinal_ld2:svenfinal_ld11|당신의 어머니, 그 세이드를 말하는 것이오? 그렇소, 그녀는 그들과 함께 있소. 황소 목 스벤이 레딩엄에 들어갔을 때 우리는 그녀를 보았소. 전에는 그녀가 어떤 모습이었는지 모르지만, 지금은 매우 겁에 질리고 수척해져 있소. 그녀의 모습은 더 이상 살 날이 머지 않아보였소.
+dlga_svenfinal_ld3:svenfinal_ld11|유감스럽게도 그럴 순 없소. 내 임무는 다른 것이오. 여기에서의 내 역할은 당신이 도착했을 때 황소 목 스벤을 확인할 수 있도록 하는 것이었소. 내 주인은 그것을 당신에게 약속한 것으로 알고 있소. 그는 자신의 말을 어기지 않소.
 dlga_svenfinal_ld11:close_window|음... 당신 또한 위험한 사람이라고 들었소. 나는 내 주군께 약속한 대로 내 부하 100명 중 원하는 자 절반을 당신과 함께 남겨두겠소. 그들은 용감한 전사이고, 그들은 당신을 돕는 대가로 내 주인에게 한 무더기의 금을 받기로 약속받았소. 잘 싸우길 빌겠소. 무운을 비오, {playername}. 행운이 있기를!
 dlga_start:close_window.62|당신을 상대할 시간이 없소. 잘 가시오.
 dlga_start:close_window.63|당신을 상대할 시간이 없소. 잘 가시오.
@@ -2244,24 +2244,24 @@ dlga_lord_talk:jarldenunciado2extra|나는 켄네머의 야를에 대해 이야�
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사합니다, 호리크 왕이시여. 저는 저뿐만 아니라 보도와 부룬힐드를 데려왔습니다. 그들은 신뢰할 수 있을 것입니다.
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|왕께 제 이야기를 하겠습니다...
 dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|알겠네, 알겠어, 만나서 반갑네. 이제, 요점으로 넘어가시게. 시간이 얼마 없네.
-dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|최근에, 저는 보트를 타고 여행하다가 '눈 속의 뱀' 시구르드의 수하 황소목 스벤의 바이킹에게 공격을 받았습니다.
+dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|최근에, 저는 보트를 타고 여행하다가 '눈 속의 뱀' 시구르드의 수하 황소 목 스벤의 바이킹에게 공격을 받았습니다.
 dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^특별한 것이 없잖나. 덴마크의 많은 야를들은 자신의 바이킹을 데리고 있고, 심지어 야를들은 물론 나 역시도 한때는 바이킹이었네, 나는 당신이 내 시간을 낭비하지 않길 바라네. 신중하게 할 말을 고르시게, 그렇지 않으면 이 대화는 끝이야.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|황소목 스벤은 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다!
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|황소 목 스벤은 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다!
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다. 왕이시여...
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 정보를 알고 있습니다.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|황소목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 잡혀있습니다.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 황소목 스벤과 '눈 속의 뱀' 시구르드는 뭔가 꿍꿍이가 있습니다. 나는 그들을 막고 싶습니다.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|황소 목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 잡혀있습니다.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 황소 목 스벤과 '눈 속의 뱀' 시구르드는 뭔가 꿍꿍이가 있습니다. 나는 그들을 막고 싶습니다.
 dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^당신의 어머니? 시구르드가 당신의 어머니를 데려갔다고 날 찾아온건가? 내 시간만 낭비했군. 난 더 이야기하고 싶지 않네. 이제 당신도 가봐야 할 시간이군.
 dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 고작 그게 당신이 말한 비밀인가? 그는 내 형제들의 조력자로서 잉글랜드에 갈 남성들을 모집중이네. 내 백성들에게, 원한다면 내 야를과 헤르시르들의 원정대에 가입할 수 있도록 허락한건 나란 말일세. 잉글랜드는 부유한 땅이고, 태생적으로 약한 사람들이 살면서, 그보다 더 나은 사람들의 지배와 약탈을 기다리고 있는 곳이라네.^당신은 내 시간을 낭비했어. 더 이야기 할 필요 없네. 이제 당신도 가봐야 할 시간이군.
 dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^자네는 이미 내가 알고 있는 것을 말했군, 게다가 내 관심 끌지도 못했지. 이제 내 인내심도 한계야. 당신은 내 시간을 낭비했어. 더는 이야기를 하고 싶지 않네. 나가보게.
 dlga_kinghorik_quest_revenge21_2:close_window|우리의 회담은 끝났네.
 dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드가 많은 남자들의 미움과 두려움을 사고 있나보군. 그들이 나에게 영향을 끼칠 수 있는 뭔가를 꾸미고 있는가?
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|황소목 스벤이 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|황소 목 스벤이 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다.
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다.
 dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 일이 있었소.
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|황소목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 있습니다.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|황소 목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 있습니다.
 dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|제가 더 이상 비밀을 유지할 수 없을 것 같군요, 물론 지금이 적절한 때도, 당신들에게 말해야 할 사안도 아니지만 말입니다. 하지만 지금 말을 하지 않으면, 위험은 더 심해지고 아주 끔찍해 질 것입니다.^^워든 릭에 대한 공격은 우연히 일어난 일이 아닙니다.
-dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨식스의 왕, 애설레드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 황소목 스벤이 워든 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 잉글랜드의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
+dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨식스의 왕, 애설레드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 황소 목 스벤이 워든 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 잉글랜드의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
 dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|시구르드가 왕위를 노리고 있는 건 나도 알고 있네, 하지만 어떻게 그 선물이 그에게 내 왕위를 가져다 줄 수 있지?
 dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 현재 덴마크, 스베아란드 및 노섬브리아 등 많은 곳에서 강력한 영향력을 미치고 있습니다. 지금 당장은, 그들의 노력이 잉글랜드의 저항을 받고 있는것 같습니다, 실제로도 그렇구요. 그러나 그것 덕분에 그들이 덴마크의 자원과 전사들에게 쉽게 접근할 수 있도록 보장하고 있습니다. 만약 시구르드가 왕이 된다면 그 모든것을 쓸 수 있겠죠. 게다가 이제 그는 온 덴마크를 결집할 수 있습니다. 제가 가지고 있던 선물인 라그나르 로드브록의 검으로 말입니다!^그의 아들인 '무적' 비요른과 헤스턴이 알-안달루스 남쪽에서 그들의 무슬림 함대에 의해 격파되었을 때 잃어버렸던 그 검으로요.
 dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|어떻게 무슬림이 가진 검을 얻었지?
@@ -2274,7 +2274,7 @@ dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|그럼 우리는 거래
 dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(부룬힐드가 무언가를 말하고 싶은 것 같다. 그녀에게 기회를 주자.)
 dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에게 '볼일'이 있습니다. 나는 내가 필요로 할 때 당신의 보호와 지원을 받길 원합니다.
 dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았네, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 하지만 조심해야 할 걸세. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 가서 그를 만나고 그 검을 얻게나.  그를 설득해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 덴마크에 있는 동안 내 보호를 받을 것이며, 그것을 공식적으로 선언해주겠네. 그러면 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 이만 돌아가보겠네.
-dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들이 '눈 속의 뱀' 시구르드와 이야기하기 전에 동료들이 당신과 먼저 이야기 할 수 있도록 이야기 한 것이 저라는걸 알아주세요. 제가 켄네머의 야를에게 봉사하는 동안 그가 위험한 자임을 알게 되었습니다. 우리가 이 일을 하며 당신의 보호와 지원을 요청하는 이유는 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 황소목 스벤의 손안에 있기 때문입니다.
+dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들이 '눈 속의 뱀' 시구르드와 이야기하기 전에 동료들이 당신과 먼저 이야기 할 수 있도록 이야기 한 것이 저라는걸 알아주세요. 제가 켄네머의 야를에게 봉사하는 동안 그가 위험한 자임을 알게 되었습니다. 우리가 이 일을 하며 당신의 보호와 지원을 요청하는 이유는 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 황소 목 스벤의 손안에 있기 때문입니다.
 dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠구나, 소녀여. 너는 내 지원을 받을 것이다. 하지만 나는 라그나르의 검을 원한다. 시구르드가 너를 죽이려고 하지는 않을 것이니, 가서 이야기 해 보도록 하거라. 만약 필요하다면 너는 내 보호 아래에 있다고 말하거라. 검을 내게 가져오는건 아주 중요한 일이야. 훔쳐와도 좋으니 그저 내게 가져만 다오. 이제 정말 가야겠군. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 행운을 비네. 그럼 이만.
 dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 왕에게 한 말은 거짓이었소. 뭐, 완전히 거짓말은 아니지만 말이오... 검의 존재를 제외한다면 말이지. 덴마크인들은 라그나르와 관련된건 어떤것이든 중요하게 생각한다는걸 알고 있었고, 나는 그 점을 이용한 것이오. 위험한 짓이긴 했소만, 우리는 왕을 우리편에 세울 필요가 있었소. 당신도 그것을 이해해주기를 바라오.
 dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|검은 왕의 지원을 얻기 위해 중요한 요소였소. 고맙소. 이제 진실을 말해 보시오.
@@ -2288,8 +2288,8 @@ dlga_kinghorik_quest_revenge87:close_window|우리는 서둘러 가야만 하오
 dlga_kinghorik_quest_revenge87:close_window.1|그렇소, 우리는 더 이상 보도를 귀찮게 할 필요가 없소. 우리는 시구르드를 찾아야만 하오.
 dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|시구르드 라그나르손은 울프의 농장으로 우리를 죽일 사람을 보냈습니다.
 dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|시구르드는 울프의 농장에서 스벤과 내 어머니를 보내주기로 약속했지만, 약속을 지키는 대신 우리를 공격했습니다.
-dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|시구르드는 그의 최고의 심복인 황소목 스벤을 내어주지 않을 것이오. 그가 약속대로 그렇게 할 것을 믿었다니, 그대는 내가 생각했던 것 보다 어리석군.
-dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|나의 왕이시여, 당신께서 말씀하신대로, 저는 당신의 눈과 귀의 역할을 해내었습니다. {playername}의 야영지에는 비밀이 없었기에, 모든 중요한 정보를 알 수 있었습니다. 이미 아시는대로 {playername}은(는) 프리지아에 꼭두각시 왕을 앉히려던 시구르드의 계획을 망친 사람 입니다. 그러나 이것은 의도적인 것이 아니라 사고에 의한 것인 것 같습니다. {playername}는 시구르드의 심복인 황소목 스벤이 납치한 그의 어머니를 구하고 스벤에게 복수하려고 여기까지 온 것 입니다. {playername}와 시구르드가 협상했을 때, 그들은 울프의 농장에서 켄타브리아인 보도를 넘기는 대신 황소목 스벤과 {playername}의 어머니를 내어주기로 했습니다.
+dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|시구르드는 그의 최고의 심복인 황소 목 스벤을 내어주지 않을 것이오. 그가 약속대로 그렇게 할 것을 믿었다니, 그대는 내가 생각했던 것 보다 어리석군.
+dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|나의 왕이시여, 당신께서 말씀하신대로, 저는 당신의 눈과 귀의 역할을 해내었습니다. {playername}의 야영지에는 비밀이 없었기에, 모든 중요한 정보를 알 수 있었습니다. 이미 아시는대로 {playername}은(는) 프리지아에 꼭두각시 왕을 앉히려던 시구르드의 계획을 망친 사람 입니다. 그러나 이것은 의도적인 것이 아니라 사고에 의한 것인 것 같습니다. {playername}는 시구르드의 심복인 황소 목 스벤이 납치한 그의 어머니를 구하고 스벤에게 복수하려고 여기까지 온 것 입니다. {playername}와 시구르드가 협상했을 때, 그들은 울프의 농장에서 켄타브리아인 보도를 넘기는 대신 황소 목 스벤과 {playername}의 어머니를 내어주기로 했습니다.
 dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|그래, 그정도는 내가 예상했던 것과 크게 다르지 않군.
 dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^네, 보도가 시구르드의 포로가 되었다고 들었습니다. 보도는 고문을 당하다 죽을 것이고, 죽은 뒤에는 그의 몸을 바다의 신 뇨르드에게 제물로 보내겠지요.
 dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|에길, 이 배신자, 네놈이 스파이였어!
@@ -2308,15 +2308,15 @@ dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|알겠소. 당신
 dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--아무 말도 하지 않습니다.--
 dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|그대의 그 담대함이 좋긴 하지만 그렇게 극단적으로 굴진 마시오. 내가 알고 싶었던 것은 시구르드가 어떤 위험을 감수하고 있는지에 대한 것이었소. 이것으로 분명해 진 것은, 시구르드가 당신을 죽이는 데 관심을 가진 채 꽤 많은 것을 걸고 있다는 것이지.
 dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^시구르드는 내 왕국을 원하지. 그는 이미 많은 군대를 모집했소. 비록 잉글랜드에 있는 그의 형제를 돕는다는 구실이긴 했지만 총회에서 이들의 지지를 모은다면 나의 왕좌까지 빼앗을 수 있게 될 것이 우려스럽소. 그리고 이제는 그런 지지를 모으기 위한 두가지 패가 더 생겨버렸소. 첫째는 아스투리아스에서 온 보도의 편지, 두 번째로 '하얀 머리' 올비르의 죽음까지.
-dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|이미 우리의 운명은 엮여버리고 말았소, {playername}. 당신이 오기 전에 점쟁이들도 당신에 대해 이야기했소. 그들은 {reg59?그녀:그}가 그 운 좋은 시구르드보다 더 큰 행운을 지니고, 그가 내 왕위를 지킬 것이라 말하더군. 그대는 황소목 스벤과 그대의 어머니를 원하고, 나는 시구르드의 계획이 어그러지는것을 원하고 있소. 내가 그대를 도울 테니, 그대는 나를 돕도록 하시오. 지금 이 순간부터, 덴마크에서 그대는 왕의 이름으로 보호를 받게 되었소.
+dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|이미 우리의 운명은 엮여버리고 말았소, {playername}. 당신이 오기 전에 점쟁이들도 당신에 대해 이야기했소. 그들은 {reg59?그녀:그}가 그 운 좋은 시구르드보다 더 큰 행운을 지니고, 그가 내 왕위를 지킬 것이라 말하더군. 그대는 황소 목 스벤과 그대의 어머니를 원하고, 나는 시구르드의 계획이 어그러지는것을 원하고 있소. 내가 그대를 도울 테니, 그대는 나를 돕도록 하시오. 지금 이 순간부터, 덴마크에서 그대는 왕의 이름으로 보호를 받게 되었소.
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|당신은 당신의 계획이 무엇인지 말해줄 수 있소?
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|당신은 이미 너무 많은 이득을 누렸소. 나는 당신에게 봉사하지 않을 것이오. 내겐 당신의 도움이 필요하지 않소.
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|지금은 동맹을 맺지만 이 일이 끝나면 당신들과 나는 아무것도 아닌 사이가 되는 것이오.
 dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|좋아, 같은 편에 서 준다니 기쁘군. 이제 들어보시오.
-dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|내가 보기엔 그대는 신들이 내려주는 운이 없다면 아무것도 못 할만큼 어리석군. 이제 잘 들어보시오. 그대는 총회에 가야만 하지만 내 후원 없이는 근처에도 얼씬할 수 없지. 분명 황소목 스벤도 총회에 참석할 것이고, 형제의 죽음에 책임을 물으려 하겠지. 그대가 총회에 참석하지 않는다면, 그대는 스스로 변호할 기회도 없이 재판에서 지고 말 것이오. 결국 총회는 그대를 추방할 것이고, 그대가 법의 보호를 받지 못하게 할 것이오. 데인족은 자유롭게 무법자와 추방자를 죽이고 괴롭힐 수 있소. 반대로, 그대의 어머니를 되찾고 스벤을 죽이려면 그대에겐 내 도움이 절실하다는 것이오. 내 말대로 하시오.
+dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|내가 보기엔 그대는 신들이 내려주는 운이 없다면 아무것도 못 할만큼 어리석군. 이제 잘 들어보시오. 그대는 총회에 가야만 하지만 내 후원 없이는 근처에도 얼씬할 수 없지. 분명 황소 목 스벤도 총회에 참석할 것이고, 형제의 죽음에 책임을 물으려 하겠지. 그대가 총회에 참석하지 않는다면, 그대는 스스로 변호할 기회도 없이 재판에서 지고 말 것이오. 결국 총회는 그대를 추방할 것이고, 그대가 법의 보호를 받지 못하게 할 것이오. 데인족은 자유롭게 무법자와 추방자를 죽이고 괴롭힐 수 있소. 반대로, 그대의 어머니를 되찾고 스벤을 죽이려면 그대에겐 내 도움이 절실하다는 것이오. 내 말대로 하시오.
 dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|좋은 조건이오, 그리고 이치에 맞는군. 우리의 이익이 함께하는 동안, 우리는 동맹이 될 것이오. 이 일이 끝나면, 그대는 덴마크를 떠나시오.
 dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^덴마크 남자들 중 구트럼이라고 불리는 자가 있소. 그는 덴마크에서 존경받고 있고, 믿을만한 남자이오. 나는 라그나르의 아들들이 잉글랜드를 침공할 때 지원군으로 보내질 시구르드의 바이킹 군대 그가 지휘할 수 있도록 요청하려고 하오. 그러나 '눈 속의 뱀' 시구르드가 총회에서 보도의 편지를 공개하거나, '하얀 머리의' 올비르의 죽음을 나와 결부시킬 경우 내 제안은 받아들여지지 않을 것이오.
-dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|불행히도, 편지는 이미 어딘가에 숨겨져 있소. 내 정보망에 의하면 시구르드의 심복 중 황소목 스벤 다음가는 자인 아틀리 에이릭손이 가지고 있다고 하오. 아틀리는 몇 시간 전에 리베에서 출항했는데 아무도 그의 행방을 모른다고 하오. 아마도 리베의 항구 관리는 무언가를 알고 있는 것 같지만 내 사람에게는 아무 이야기도 하지 않을 것이오. 내가 곧 있을 총회를 위해 충성심을 사들이는 동안 그대는 그 편지를 확보하시오.
+dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|불행히도, 편지는 이미 어딘가에 숨겨져 있소. 내 정보망에 의하면 시구르드의 심복 중 황소 목 스벤 다음가는 자인 아틀리 에이릭손이 가지고 있다고 하오. 아틀리는 몇 시간 전에 리베에서 출항했는데 아무도 그의 행방을 모른다고 하오. 아마도 리베의 항구 관리는 무언가를 알고 있는 것 같지만 내 사람에게는 아무 이야기도 하지 않을 것이오. 내가 곧 있을 총회를 위해 충성심을 사들이는 동안 그대는 그 편지를 확보하시오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|정보를 얻기 위해선 비싼 대가를 치뤄야 합니다. 나는 더 많은 돈이 필요하오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|편지는 내가 맡겠소. 하지만 재정적인 지원이 필요하오.
 dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot16|항구 관리와 몇마디 이야기를 나눠보겠소.
@@ -2338,23 +2338,23 @@ dlga_kinghorik_quest_danmarkprot23:close_window.2|나는 이 문제에 대해 �
 dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^왜 이렇게 늦게 온 것이오? 시구르드 라그나르손이 더 유리한 상황이오.
 dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|몇 가지 문제를 해결하느라 시간이 걸렸소. 어쨌든 제 시간에 온 것이오.
 dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|당신의 전갈을 받자마자 최대한 빨리 온 것이오. 아마도 당신의 전령이 너무 늦게 왔나 보오.
-dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|어쨌든 상관 없소, 내 생각에는 저들도 그대의 도착을 기다리고 있었던 것 같소. 내가 궂이 서둘러 당신을 부를 필요가 없었을지도 모르지. 추측컨데, 그들은 뭔가 이야기를 꺼낼 것이 있는 것 같소. 시구르드 라그나르손은 내가 800명의 병력을 그가 이끌지 못하게 한 것에 대해 문제를 제기하고 있소. 물론, 내가 그 군대를 구트럼이 지휘하도록 제안한 것은 사실이오. 그런데 문제는 구트럼이 몇일 전 자신의 농장에서 살해된 채로 발견되는 불행을 겪었다는 것이지. 그들은 구트럼이 손님을 접대하는 잔치를 주최하는 동안 집을 불태웠다는 무법자나 범죄자들을 비난하고 있소. 하지만 내 생각에는 시구르드의 뱃머리이자 오른팔인 황소목 스벤이 일을 저지른 것 같소. 그게 아니면 도대체 누구겠소? 그러나 나는 아무런 증거나 증인을 찾을 수 없었소. 구트럼의 집과 함께 모든 증거와 모든 증인들이 불타 사라져 버렸소.
+dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|어쨌든 상관 없소, 내 생각에는 저들도 그대의 도착을 기다리고 있었던 것 같소. 내가 궂이 서둘러 당신을 부를 필요가 없었을지도 모르지. 추측컨데, 그들은 뭔가 이야기를 꺼낼 것이 있는 것 같소. 시구르드 라그나르손은 내가 800명의 병력을 그가 이끌지 못하게 한 것에 대해 문제를 제기하고 있소. 물론, 내가 그 군대를 구트럼이 지휘하도록 제안한 것은 사실이오. 그런데 문제는 구트럼이 몇일 전 자신의 농장에서 살해된 채로 발견되는 불행을 겪었다는 것이지. 그들은 구트럼이 손님을 접대하는 잔치를 주최하는 동안 집을 불태웠다는 무법자나 범죄자들을 비난하고 있소. 하지만 내 생각에는 시구르드의 뱃머리이자 오른팔인 황소 목 스벤이 일을 저지른 것 같소. 그게 아니면 도대체 누구겠소? 그러나 나는 아무런 증거나 증인을 찾을 수 없었소. 구트럼의 집과 함께 모든 증거와 모든 증인들이 불타 사라져 버렸소.
 dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|모든 것을 종합하면, 상황이 매우 심각한 상태이오. 구트럼이 죽었다는 이유로, 시구르드는 800명의 병력에 대한 지휘권을 얻으려고 하고 있소. 나는 시구르드가 그 병사들을 이용해 내 왕좌를 노리는 것을 우려하고 있소.
 dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|일단 무슨 일이 일어나고 있는지 같이 봅시다.
-dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|나는 당신의 문제에 신경쓸 여력이 없소. 나는 황소목 스벤과 어머니를 위해 여기 있는 거요.
+dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|나는 당신의 문제에 신경쓸 여력이 없소. 나는 황소 목 스벤과 어머니를 위해 여기 있는 거요.
 dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|내 문제는 동시에 그대의 문제란 말이오. 시구르드가 이길 경우, 그대의 목숨은 아무런 가치가 없게 되오. 총회는 그대를 무법자로 지명할 것이오. 그렇게 되면 그대는 그대의 모든 것을 잃는 것은 물론, 누군가 당신을 죽일 때 까지 숲 속에 숨어 살아야 할 것이란 말이오.
-dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^안녕하시오, {playername}. 황소목 스벤이 총회에 발언할 수 있는 권한을 얻었소. 그 쥐새끼가 무슨 이야기를 하는 지 들어 봅시다.
+dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^안녕하시오, {playername}. 황소 목 스벤이 총회에 발언할 수 있는 권한을 얻었소. 그 쥐새끼가 무슨 이야기를 하는 지 들어 봅시다.
 dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|조용! 그 뱀같은 자가 무슨 이야기를 하는지 들어봅시다.
 dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^덴마크의 남자들이여, 내가 누구인지는 알고 있을 것이오. 나는 작고 어렸을 때부터 라그나르와 함께했고, 그가 프랑키아를 상대로 120척의 선박과 4000명이 넘는 병력을 데리고 약탈했을 때 함께 했소. 아직도 스칼드들이 노래하고 있는 그 이야기 속의 그 때 말이오. 나는 잉글랜드에서 가장 강력한 왕국인 웨식스에서 400명의 바이킹들을 이끌었고, 큰 부와 명성을 얻었소. 그 덕분에 프리지아, 잉글랜드, 프랑키아의 남자들은 모두 나를 두려워하고 있소. 그러나 이곳 덴마크 에서만은 합당한 존중과 사랑을 받고 있는 사람이오.
 dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|나보다 더 나은 남자였던 '하얀 머리의' 올비르는 내 형제였소. 그는 명예롭고 신들의 사랑을 받던 남자였지만 청춘을 다 피우지 못하고 살해당해 죽고 말았소. 그런데 왕은 그 살인자를 보호하고 있소. 나는 여태까지 총회에 그 어떤 요구도 하지 않았소만, 지금은 한 가지 바라는 것이 있소. 그것은 바로 정의이오. 살인자가 우리들 사이에 서 있는것이, 왕이 악을 두둔하는 것이 정의란 말이오? 살인자들이 이 땅에서 처벌받지 않고 돌아다니도록 놔두어야겠소?^^{s2}
 dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^우리가 예상한 대로 흘러가고 있소. 그들이 당신을 이용해 호리크 왕을 공격하고, 그의 권위를 훼손시키고 있지 않소!
-dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^황소목 스벤, 모든 사람들이 당신의 가치를 알고 있고, 당신이 과거에 이룬 업적을 알고 있소. 그러나 당신은 왕께서 살인자를 지원하고 있음을 말하고 있소. 이 혐의는 매우 엄중한 것이오. 총회는 호리크 왕의 말 역시 들어봐야 하오.
+dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^황소 목 스벤, 모든 사람들이 당신의 가치를 알고 있고, 당신이 과거에 이룬 업적을 알고 있소. 그러나 당신은 왕께서 살인자를 지원하고 있음을 말하고 있소. 이 혐의는 매우 엄중한 것이오. 총회는 호리크 왕의 말 역시 들어봐야 하오.
 dlga_kinghorik_quest_thething85:kinghorik_quest_thething86|스벤은 나를 모욕하고 있소. 나는 살인자를 보호한 적이 없고, 앞으로도 그럴 생각이 없소. 만에하나 내가 그렇게 했었더라도, 그것은 내가 모르는 일이오. {playername}(은)는 자유로운 사람으로써 나의 보호를 요청하기 위해 나에게 왔소. 그리고 나는 {reg59?그녀:그}가 스스로 {reg59?그녀:그}의 가치를 입증하는 모습은 본 후에 {reg59?그녀:그}에게 보호를 약속했소. 또한 {reg59?그녀:그}가 나에게 이야기한 '하얀 머리의' 올비르의 죽음의 진상은 스벤의 고발과는 전혀 다르오.
 dlga_kinghorik_quest_thething86:kinghorik_quest_thething9|이제 피고인이 이 일에 대해 이야기 할 차례이오.
-dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|당신은 황소목 스벤을 망신주기로 결정했다. (설득)
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|당신은 황소 목 스벤을 망신주기로 결정했다. (설득)
 dlga_kinghorik_quest_thething9:kinghorik_quest_thething91|당신은 당신 어머니의 납치 사건을 언급하여 군중의 동정심에 호소하기로 결정했다.
 dlga_kinghorik_quest_thething9:kinghorik_quest_thething92|당신은 당신의 어머니 납치 사건을 언급하지 않고 사건을 설명하는 것이 더 나을 것이라고 생각했다.
-dlga_kinghorik_quest_thething90:kinghorik_quest_thething90_1|제 이름은 {playername}이오. '하얀 머리의' 올비르는 그의 형제, 황소목 스벤의 명령을 받고 나를 죽이려고 했소. 나는 이 자리에 있는 시구르드 라그나르손과의 합의에 따라 울프의 농장에 갔고, 그 곳에서 평화로운 시간을 보내고 있었소. 그러나 '하얀 머리의' 올비르는 여러 명의 부하들을 데리고 나타나더니 나를 죽이려고 했소. 나에겐 반드시 마쳐야 할 과업이 있고, 결국 죽은 것은 올비르였소. 내가 당신에게 묻겠소. 스벤이 나를 제거하고 싶었다면, 왜 직접 오지 않고 올비르를 보낸 것이오? 내 생각엔 그는 나를 두려워하고 있소. 그의 모든 대담해보이는 말들과는 다르게, 사실 그는 그저 무방비 상태의 배들을 약탈하고, 그의 군주의 망토 뒤에 숨어있는 겁쟁이에 불과하단 말이오.
+dlga_kinghorik_quest_thething90:kinghorik_quest_thething90_1|제 이름은 {playername}이오. '하얀 머리의' 올비르는 그의 형제, 황소 목 스벤의 명령을 받고 나를 죽이려고 했소. 나는 이 자리에 있는 시구르드 라그나르손과의 합의에 따라 울프의 농장에 갔고, 그 곳에서 평화로운 시간을 보내고 있었소. 그러나 '하얀 머리의' 올비르는 여러 명의 부하들을 데리고 나타나더니 나를 죽이려고 했소. 나에겐 반드시 마쳐야 할 과업이 있고, 결국 죽은 것은 올비르였소. 내가 당신에게 묻겠소. 스벤이 나를 제거하고 싶었다면, 왜 직접 오지 않고 올비르를 보낸 것이오? 내 생각엔 그는 나를 두려워하고 있소. 그의 모든 대담해보이는 말들과는 다르게, 사실 그는 그저 무방비 상태의 배들을 약탈하고, 그의 군주의 망토 뒤에 숨어있는 겁쟁이에 불과하단 말이오.
 dlga_kinghorik_quest_thething91:kinghorik_quest_thething94|제 이름은 {playername}이고, 살인자가 아니오. 올비르의 죽음은 정당방위에 의한 것이었소. 스벤은 나의 어머니를 납치했고, 시구르드 라그나르손은 울프의 농장에서 다시 나에게 그녀를 돌려보내기로 약속했었소. 그런데 그는 약속을 지키는 대신 날 죽일 '하얀 머리의' 올비르를 보냈소. 올비르는 비록 열심히 싸웠지만 부상을 입었고, 결국 죽고 말았소.
 dlga_kinghorik_quest_thething92:kinghorik_quest_thething95|제 이름은 {playername}이고, 살인자가 아니오. 올비르의 죽음은 정당방위에 의한 것이었소. 나는 울프의 농장에서 시구르드 라그나르손의 전령을 기다리고 있었소. 그러나 전령 대신 '하얀 머리의' 올비르가 와서는 나를 공격했고, 전투를 하던 중 치명상을 입고 말았소.
 dlga_kinghorik_quest_thething90_1:kinghorik_quest_thething95|{s2}^^잘 말해주었소. 당신이 그의 말문을 막은 것 같소.
@@ -2362,8 +2362,8 @@ dlga_kinghorik_quest_thething94:kinghorik_quest_thething95|{reg59?그녀:그}의
 dlga_kinghorik_quest_thething95:kinghorik_quest_thething10|지금까지 우리는 양 당사자의 이야기를 들어보았소. 이제 양측의 증인을 부를 차례이오.
 dlga_kinghorik_quest_thething10:kinghorik_quest_thething11|{s2}^^나는 에길이오. 여기 사람들은 전부 내가 누구인지 알 것이고, 내가 거짓말을 하면 신들께서 나를 벌하실 것이오. '하얀 머리의' 올비르가 왔을 때 나도 울프의 농장에 있었소. 내 아버지, 호리크 왕께서는, 이 땅에서 일어나는 모든 일에 대해서 항상 신경을 쓰고 있었소. 그래서 왕께서는 나에게 {playername}와(과) 함께 여행하도록 명령했소.^'하얀 머리의' 올비르는 많은 부하들과 함께 왔소. 멩세하건데, 그 싸움을 먼저 시작한 것은 그들이었소. 올비르는 명예로운 죽음을 맞이했지만, 그를 죽게 한 전투는 그가 일으킨 것이었단 말이오. {playername}에겐 살인에 대한 죄가 없소.
 dlga_kinghorik_quest_thething11:kinghorik_quest_thething11_1|당신에게는 불행하게도, 당신이 거짓말쟁이라는 것을 입증할 수 있소. 올비르가 정당하게 좋은 죽음을 맞이했다면, 어째서 살인자가 올비르의 검을 가지고 있겠소. {reg59?그녀:그}는 내 형제가 죽음의 순간에 자신의 검을 들지 못하게 막았고, 그 때문에 그는 발할라 들어가지 못했소. 에길은 거짓말쟁이요, 그의 증언은 유효하지 않소.
-dlga_kinghorik_quest_thething11:kinghorik_quest_thething12|{s2}^^우리는 증언을 들었습니다. 감사합니다, 에길. 황소목 스벤, 당신은 불러낼 증인이 있습니까?
-dlga_kinghorik_quest_thething11_1:kinghorik_quest_thething12|{s2}^^에길은 거짓말을 하고 있소. 따라서, 그의 증언은 유효하지 않소. 황소목 스벤, 당신은 불러낼 증인이 있습니까?
+dlga_kinghorik_quest_thething11:kinghorik_quest_thething12|{s2}^^우리는 증언을 들었습니다. 감사합니다, 에길. 황소 목 스벤, 당신은 불러낼 증인이 있습니까?
+dlga_kinghorik_quest_thething11_1:kinghorik_quest_thething12|{s2}^^에길은 거짓말을 하고 있소. 따라서, 그의 증언은 유효하지 않소. 황소 목 스벤, 당신은 불러낼 증인이 있습니까?
 dlga_kinghorik_quest_thething12:kinghorik_quest_thething13|나에겐 중요한 증인인 울프 토리손이 있지만 그는 총회에 오지 않았소. 또 다른 남자가 내 형이 어떻게 죽었는지 말해주었지만 그는 증언을 하지 않기로 했소...
 dlga_kinghorik_quest_thething13:kinghorik_quest_thething13_1|우리는 참석한 야를들에게 의견을 묻고 싶습니다. 여러분들의 의견은 어떻습니까?
 dlga_kinghorik_quest_thething13_5:kinghorik_quest_thething14|{s2}^^오딘의 지혜를 빌려, 우리는 평결을 내릴 준비가 되었소.
@@ -2386,7 +2386,7 @@ dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|모든 것은 때
 dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|시구르드 라그나르손, 당신의 고발은 매우 중차대한 사안이오. 당신의 주장을 확인할 수 있는 증거나 증인이 있소?
 dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|그렇소, 지금까지 {playername}와(과) 모든 시간을 함께 여행한 사람이 있소. 그도 지금 여기에 있고, 기꺼이 이 총회에서 증언을 할 것이오. 그의 이름은 레긴하르트이고, 켄네머의 야를의 시종이었소.
 dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|레긴하르트, 나와주시오. 당신은 시구르드 라그나르손의 말이 사실인 것을 확인해줄 수 있소?
-dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^전... 그게... 네, 맞습니다. 나는 {playername}을(를) 프리지아에서 만났는데, 그 때 {reg59?그녀:그}는 내가 친애하고 사랑하던 티아데르트를 죽여서 켄네머 야를의 신뢰를 얻으려고 하고 있었소. 그 다음, {reg59?그녀:그}는 켄네머의 야를을 배신하고 황소목 스벤과 시구르드 라그나르손을 쫒아 덴마크로 왔소. {reg59?그녀:그}는 스벤과 시구르드를 적으로 삼아 증오하고 있소. 그래서 {reg59?그녀:그}는 호리크 왕과 동맹을 맺고 올비르와 아틀리를 죽인 것이오. 맹세하건데, 이 모든것은 사실이오.
+dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^전... 그게... 네, 맞습니다. 나는 {playername}을(를) 프리지아에서 만났는데, 그 때 {reg59?그녀:그}는 내가 친애하고 사랑하던 티아데르트를 죽여서 켄네머 야를의 신뢰를 얻으려고 하고 있었소. 그 다음, {reg59?그녀:그}는 켄네머의 야를을 배신하고 황소 목 스벤과 시구르드 라그나르손을 쫒아 덴마크로 왔소. {reg59?그녀:그}는 스벤과 시구르드를 적으로 삼아 증오하고 있소. 그래서 {reg59?그녀:그}는 호리크 왕과 동맹을 맺고 올비르와 아틀리를 죽인 것이오. 맹세하건데, 이 모든것은 사실이오.
 dlga_kinghorik_quest_thething16_3:kinghorik_quest_thething16_4|{s2}^^레긴하르트? 이게 무슨 짓이야!?
 dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}은(는) 살인자입니다. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername)은(는) 그와 그의 가족을 모두 죽였소! 심지어 그의 아들까지! 나는 언젠가 티아데르트를 위해 복수할 것이라고 약속했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
 dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^내 화살은 그대를 향한게 아니오, 에길. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername}은(는) 그를 찾기 위해, 그리고 그를 죽이기 위해 나에게 거짓말을 했소. 나는 언젠가 티아데르트의 죽음을 복수하기 위해 {playername}의 신뢰를 얻겠노라 다짐했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
@@ -2411,19 +2411,19 @@ dlga_kinghorik_quest_thething20_2:kinghorik_quest_thething21|자, 이제 이 문
 dlga_kinghorik_quest_thething21:kinghorik_quest_thething22|(당신은 법관들이 큰 바위 뒤에서 열띤 토론을 하는 것을 지켜봅니다. 모든 주변 사람들이 전력으로 대화에 임하고 있습니다. 야를들 중 일부는 호리크 왕을 지지하고, 다른 일부는 야를 시구르드 라그나르손을 지지합니다. 이 총회는 내전의 시발점이 될 수도, 그것의 해결책이 될 수도 있어 보입니다. 이제 모든 것은 심사위원들의 결정에 달렸습니다.^^당신은 아무도 당신에게 접근하지 않고 있다는 것을 알아차렸습니다. 모두가 당신을 마치 전염병처럼 피하고 있습니다. 당신은 그 누구도 당신에게 어머니의 납치 사건에 대해 이야기 할 수 있는 기회를 주지 않았다는 것을 알고 있습니다. 당신은 당신이 덴마크의 유력한 남자들 사이에서 벌어지는 왕좌의 게임에서 장기말에 지나지 않는다는 생각이 들었습니다.)
 dlga_kinghorik_quest_thething22:kinghorik_quest_thething23|(법관들의 결정은 느리게 이루어지고 있습니다. 시간이 얼마나 지났는지는 확실하지 않지만 아주 아주 오랜 시간이 걸릴 것만은 확실합니다. 당신 주위의 많은 사람들이 바닥에 앉기 시작했고, 어떤 상인들은 음식과 벌꿀주를 나누어 주기도 했습니다. 레긴하르트는 마치 화강암에 새겨진 것 처럼 미동조차 하지 않은 채 같은 자리에 조용히 앉아있습니다. 에길도 당신을 보지 않습니다. 그는 호리크 왕 주변의 남자들 속에서 그에게 조언과 격려를 하고 있습니다.^^드디어, 법관들은 큰 바위 뒤에서 돌아옵니다.)
 dlga_kinghorik_quest_thething23:kinghorik_quest_thething24|위대하신 오딘이시여, 현명하신 오딘이시여, 신들과 영웅들의 아버지시여. 동료에 의해 선출된 우리가 우리의 말을 이끌어줄 당신의 지혜를 요청드리옵니다. 우리의 판결은 당신의 귀에 들어 닿기를 바라며, 그것에 따르지 않는 자들이 헬에 의해 처벌 받기를 바라옵니다. 우리의 다음의 결정을 내렸습니다:
-dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_1|'하얀 머리의' 올비르의 죽음에 대해, 황소목 스벤은 {playername}(으)로부터 4,800 페닝의 웨어길드를 받아야 할 것이다. {playername}, 지금 웨어길드를 지불할 수 있는가?
+dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_1|'하얀 머리의' 올비르의 죽음에 대해, 황소 목 스벤은 {playername}(으)로부터 4,800 페닝의 웨어길드를 받아야 할 것이다. {playername}, 지금 웨어길드를 지불할 수 있는가?
 dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_2|'하얀 머리의' 올비르의 죽음에 대해, 총회는 {playername}이(가) 자신을 방어하려는 행동이었다고 판결하였다. {playername}에게 무죄를 선고한다.
 dlga_kinghorik_quest_thething25_1:kinghorik_quest_thething26|이건 농간이오! 내 형제의 목숨 값이 겨우 4,800 페닝? 그 대가는 피로 치뤄야 할 것이오!
-dlga_kinghorik_quest_thething26:kinghorik_quest_thething27|{s2}^^황소목 스벤은 총회의 결정을 받아들입니다.
+dlga_kinghorik_quest_thething26:kinghorik_quest_thething27|{s2}^^황소 목 스벤은 총회의 결정을 받아들입니다.
 dlga_kinghorik_quest_thething25_2:kinghorik_quest_thething26_2|뭐? 이건 정의롭지 않아! 이 총회는 내 형의 무덤에 모욕을 했어!
-dlga_kinghorik_quest_thething26_2:kinghorik_quest_thething30_2|{s2}^^황소목 스벤은 총회의 결정을 받아들입니다.
+dlga_kinghorik_quest_thething26_2:kinghorik_quest_thething30_2|{s2}^^황소 목 스벤은 총회의 결정을 받아들입니다.
 dlga_kinghorik_quest_thething27:kinghorik_quest_thething28|{playername}, 당신은 지금 웨어길드를 지불할 수 있습니까?
 dlga_kinghorik_quest_thething28:kinghorik_quest_thething30|나는 지불할 수 있소.
 dlga_kinghorik_quest_thething28:kinghorik_quest_thething29|아뇨, 나는 그런 돈이 없소.
 dlga_kinghorik_quest_thething29:kinghorik_quest_thething30|비록 내 몫이 아니나, 나는 총회의 결정을 존중하여 나는 {playername} 몫의 웨어길드를 지불할 것이오.
 dlga_kinghorik_quest_thething29:kinghorik_quest_thething29_2|누가 {reg59?부인:경}의 웨어길드를 지불할 것이오? 아무도 지불할 수 없다면 {reg59?그녀:그}는 무법자로 선언될 것이오. 그렇게 될 경우 {reg59?그녀:그}가 소유한 모든 재산은 인정되지 않을 것이며, 죽음을 포함한 어떤 것에 대해서도 법의 보호를 받지 못하게 될 것이오.
 dlga_kinghorik_quest_thething29_2:kinghorik_quest_thething30|우리는 {reg59?그녀:그}의 부대원이고 우리가 웨어길드를 지불하겠소. {playername}이(가) 자유민으로 남아 우리를 계속 이끌 수 있도록 말이오.
-dlga_kinghorik_quest_thething30:kinghorik_quest_thething31|그 다음 총회에서는 돈을 받아 황소목 스벤에게 주겠소. 흘린 피의 대가는 충족되었소. 신들과 사람들 앞에서, 두 사람 사이의 분쟁은 종결되었소.
+dlga_kinghorik_quest_thething30:kinghorik_quest_thething31|그 다음 총회에서는 돈을 받아 황소 목 스벤에게 주겠소. 흘린 피의 대가는 충족되었소. 신들과 사람들 앞에서, 두 사람 사이의 분쟁은 종결되었소.
 dlga_kinghorik_quest_thething30_2:kinghorik_quest_thething31|좋소, 총회는 선언하겠소. 신들과 사람들 앞에서, 두 사람 사이의 분쟁은 종결되었소.
 dlga_kinghorik_quest_thething31:kinghorik_quest_thething31_2|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오.
 dlga_kinghorik_quest_thething31_2:kinghorik_quest_thething33|레긴하르트라는 증인의 대해서, 그는 거짓말 혐의로 기소되었고 신들께서는 그의 유죄를 결정할 것이오. 중대한 고발이므로, 총회는 {playername}와(과) 레긴하르트가 6일 안에 작은 섬인 홀름강에서 죽음의 결투를 치루는 것으로 결정하였소. 두 명이 가지만, 단 한명만 돌아올 것이오. 만약 결투에 나타나지 않을 경우, {reg59?그 또는 그녀:그}는 무법자에 겁쟁이이자 사람보다 못한 이로 선언되어 스칼드들과 전령들에 의해 온 덴마크와 해외에 알려질 것이오.
@@ -2437,7 +2437,7 @@ dlga_kinghorik_quest_thething33_4:kinghorik_quest_thething33_5|나도 총회의 
 dlga_kinghorik_quest_thething33_5:kinghorik_quest_thething33_6|이 총회가 끝나면 덴마크의 요인들이 와서 당신과 상대를 작은 섬에 데려갈 것이오.
 dlga_kinghorik_quest_thething33_6:kinghorik_quest_thething33_7|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오.
 dlga_kinghorik_quest_thething33_7:kinghorik_quest_thething34|이 총회는 마지막 주요 안건에 대한 결정 또한 내렸소. 호리크 왕과 야를 시구르드 사이의 비난과 모욕은 덴마크에 심각한 피해를 일으킬 수 있소. 야를들과 왕보다 높고, 오직 신들에게만 응답하는 자유민들의 총회로서, 야를 시구르드와 호리크 왕이 화해를 하는 것으로 결정하였소. 호리크 왕은 자신의 의회에 야를 시구르드에게서 가장 신뢰받는 남성의 자리를 마련하여야 할 것이며, 또한 호리크 왕은 원정대를 조직한 시구르드의 노력에 대한 보상으로 15000 페닝의 웨어길드를 지불해야 할 것이오.
-dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호리크 왕 옆에 남아서 그에게 조언을 해야 할 것이오. 따라서 야를 시구르드 라그나르손은 그의 형제를 돕기 위한 함대의 지휘권을 포기해야 하오. 이 함대는 호리크 왕의 편인 하랄드 하랄드손과 야를 시구르드손의 편인 황소목 스벤, 두 명이 함께 지휘할 것이오. 함대는 지체없이 며칠 뒤 잉글랜드를 향해 출발할 것이오.
+dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호리크 왕 옆에 남아서 그에게 조언을 해야 할 것이오. 따라서 야를 시구르드 라그나르손은 그의 형제를 돕기 위한 함대의 지휘권을 포기해야 하오. 이 함대는 호리크 왕의 편인 하랄드 하랄드손과 야를 시구르드손의 편인 황소 목 스벤, 두 명이 함께 지휘할 것이오. 함대는 지체없이 며칠 뒤 잉글랜드를 향해 출발할 것이오.
 dlga_kinghorik_quest_thething35:kinghorik_quest_thething36_1|또한 신들이 홀름강에서 {playername}에게 승리를 안겨준다면, 그 역시 하랄드 하랄드손의 고문으로 참여해야 한다는 것이 우리의 결정이오. 그렇지 않으면, 에길이 {playername}의 자리와 부대를 차지하게 될 것이오. 홀름강의 일이 끝나면 둘 중 한 명은 리베의 선술집으로 나를 만나러 오시오.
 dlga_kinghorik_quest_thething36_1:kinghorik_quest_thething36|{s2}^^총회는, 신들과 덴마크의 자유민을 대표해서 말씀하였소.^두 당사자는 승복하는가? 호리크 왕, 시구르드 라그나르손?
 dlga_kinghorik_quest_thething36:kinghorik_quest_thething37|나는 총회의 판결을 받아들이겠나이다. 선포된 바와 같이 나는 내 역할을 다할 것이고, 그것을 옹호하고 시행할 것을 맹세하오.^^{s2}
@@ -2476,9 +2476,9 @@ dlga_ragnarssons_3_3:ragnarssons_4|음, 사랑스러운 소식이로군! 나는 
 dlga_ragnarssons_3_4:ragnarssons_4|알겠소, 하지만 나는 비밀 따위는 이해할 수 없소. 소식은 항상 사기를 개선하는데 도움이 되니까 말이오. 그러나 당신은 명령 때문에 비밀을 지키고 있는 것 같으니 더 이상 물어보진 않겠소.
 dlga_ragnarssons_5:ragnarssons_6|이미 여기에서 충분히 이야기한 것 같군. 울프, 부하들을 데리고 성벽으로 돌아가게. 나와 내 형제들이 새로 온 이 사람과 독대하겠네.
 dlga_ragnarssons_6:ragnarssons_7|안녕하시오, 전령! 내 이름은 할프단이고, 이쪽은 내 형제, 이바르와 후비요. 당신이 머시아 포위망을 통과해서 여기까지 왔다는 소식에 매우 기뻤소. 어떤 소식을 가지고 왔소?
-dlga_ragnarssons_7:ragnarssons_8|당신의 형제인, 비요른이 황소목 스벤의 반란으로 인해 덴마크에서 온 증원이 손실되었음을 알리려 나를 보냈소. 지원군은 없을 것이오. '무적' 비요른은 스노팅햄을 그들에게 돌려주고 당신들을 북쪽으로 데려가기 위해 색슨인과 머시아인 지도자와의 협정을 원하고 있소.^^라그나르가 가지고 있던 이 색슨 검으로 내가 당신의 형제가 보내서 온 것이 사실임을 증명하겠소.
+dlga_ragnarssons_7:ragnarssons_8|당신의 형제인, 비요른이 황소 목 스벤의 반란으로 인해 덴마크에서 온 증원이 손실되었음을 알리려 나를 보냈소. 지원군은 없을 것이오. '무적' 비요른은 스노팅햄을 그들에게 돌려주고 당신들을 북쪽으로 데려가기 위해 색슨인과 머시아인 지도자와의 협정을 원하고 있소.^^라그나르가 가지고 있던 이 색슨 검으로 내가 당신의 형제가 보내서 온 것이 사실임을 증명하겠소.
 dlga_ragnarssons_8:ragnarssons_9|빌어먹을 비요른! 그가 연장자이고 영광스러운 것은 맞지만 이젠 우리의 것까지 시기하는군. 색슨인과 앵글인은 약해 빠진 놈들이오. 나라면 그들의 진영을 공격했을 것이고, 그랬다면 그들은 쥐새끼들처럼 도망쳤을 것이오.
-dlga_ragnarssons_9:ragnarssons_10|쓸데 없는 말은 그만해, 후비. 그들은 우리보다 다섯배나 많지. 성벽 밖에서 전투를 치루는 것은 멍청한 짓이야...^^당신, 전령, 듣고 있소? 나는 이바르 라그나르손이오. 사람들은 '뼈없는' 이바르 인 베인라우시이라고 부르지. 당신 말대로 황소목 스벤이 반역을 일으켜 우리의 지원군을 전멸시킨 것이 사실이라면 그를 피의 독수리 형에 처해 신에게 바칠 것이오. 그러나 당신의 말이 거짓이라면 피의 독수리는 당신의 운명이 될 것이오!
+dlga_ragnarssons_9:ragnarssons_10|쓸데 없는 말은 그만해, 후비. 그들은 우리보다 다섯배나 많지. 성벽 밖에서 전투를 치루는 것은 멍청한 짓이야...^^당신, 전령, 듣고 있소? 나는 이바르 라그나르손이오. 사람들은 '뼈없는' 이바르 인 베인라우시이라고 부르지. 당신 말대로 황소 목 스벤이 반역을 일으켜 우리의 지원군을 전멸시킨 것이 사실이라면 그를 피의 독수리 형에 처해 신에게 바칠 것이오. 그러나 당신의 말이 거짓이라면 피의 독수리는 당신의 운명이 될 것이오!
 dlga_ragnarssons_10:ragnarssons_11|내 형제들의 무례를 용서하시오, 전령. 여기에 갇혀있는 상황이 우리 모두의 신경이 날카롭게 만들었나보오.
 dlga_ragnarssons_11:ragnarssons_12_1|걱정하지 마시오, 야를 할프단. 어려운 상황임을 이해하고 있소.
 dlga_ragnarssons_11:ragnarssons_12_2|후비의 말이 맞소. 당신은 나가서 이 더러운 색슨인들을 죽여야 하오.
@@ -2499,8 +2499,8 @@ dlga_ragnarssons_14:close_window|나도 행운을 비오. 돌아가는 길은 �
 dlga_ragnarssons_15:close_window|물론이오! 이 돈을 받고, 당신의 행운을 비는 우리의 기원도 함께 받으시오. 돌아가는 길은 당신이 왔던 것 보다 험하지 않을까 걱정되오. 머시아의 앵글인들이 당신을 보았고, 더 많은 병력이 숲을 지키고 있소.
 dlga_lord_talk:kennemerjarl_muy_angry|{s11}, 나는 스벤으로부터 독싱가를 지켰소...
 dlga_kennemerjarl_muy_angry:kennemerjarl_enemistad1|{s2}^^내가 네놈에게 준 임무가 있었을 텐데? 네놈은 왕을 죽이려고 하느라 바빠야 하지 않나? 그리고 대체 무슨 짓을 한 거야? 독싱가로 지원하러 가다니, 나는 그걸 기쁘게 생각하지 않아. 네가 왕을 죽인 후에 내가 왕이 될 수 있도록 지지할 수 있는 수하들을 죽인거라고! 네놈은 나를 배신했어, 자네의 야를을! 내 이름 {s11}에 맹세코, 그 대가를 받아내도록 하지!
-dlga_lord_talk:kennemerjarl_doccingacano|나의 주인이여, 독싱가가 황소목 스벤에게 공격받았소! 그들은 병력이 필요하오.
-dlga_lord_talk:king_doccingacano|독싱가가 황소목 스벤에게 공격받고 있소! 그들은 도움이 필요하오!
+dlga_lord_talk:kennemerjarl_doccingacano|나의 주인이여, 독싱가가 황소 목 스벤에게 공격받았소! 그들은 병력이 필요하오.
+dlga_lord_talk:king_doccingacano|독싱가가 황소 목 스벤에게 공격받고 있소! 그들은 도움이 필요하오!
 dlga_lord_talk:kennemerjarl_thiaderdm1|{s11}, 나는 티아데르트에 관한 임무에서 돌아왔소
 dlga_lord_talk:kennemerjarl_juicio_1|{s11}, 나는 수도원에 가서 당신의 이름으로 판결을 내렸소.
 dlga_lord_talk:kennemerjarl_recruit_back1|{s11}, 당신이 나에게 모아오라고 한 전사를 모아왔소.
@@ -2528,32 +2528,32 @@ dlga_lord_talk:jarlbjornneg_1|나는 당신의 형제 자매와 이야기했소,
 dlga_lord_talk:jarlbjorn_1|야를 비요른, 나는 덴마크에서 보낸 지원군이오.
 dlga_lord_talk:jarlbjornwf_1|야를 비요른, 색슨의 포위망은 이제 뚫렸소.
 dlga_lord_talk:sigurd_quest_collect1|여기 200명 이상의 병력이 당신을 위해 있소.
-dlga_lord_talk:sigurd_quest_revenge1|나는 프리지아에서 왔소. 나는 황소목 스벤과 내 어머니를 찾고 있소. 그들은 어디에 있소?
+dlga_lord_talk:sigurd_quest_revenge1|나는 프리지아에서 왔소. 나는 황소 목 스벤과 내 어머니를 찾고 있소. 그들은 어디에 있소?
 dlga_lord_talk:sigurd_quest_revenge_horik0|이야기할 때가 왔소, 시구르드. 당신은 내가 누군지 모르겠지만, 당신이 내 말을 듣지 않는다면 나는 당신에게 큰 피해를 입힐 수 있소.
 dlga_lord_talk:sigurd_quest_revenge_horik|이야기할 때가 왔소, 시구르드. 나는 평범한 사람이 아니오. 나는 호리크 왕의 지원을 받고 있소.
 dlga_sigurd_quest_revenge1:lord_pretalk|나는 네놈이 누군지, 무엇을 위해 움직이는지 신경쓰지 않는다. 이 곳 덴마크에서 네놈은 아무것도 아니다. 네놈은 이 땅의 그 누구의 지원이나 신임도 받지 못하고 있지. 한 번만 말하겠다. 내 면전에서 꺼져라, 쥐새끼야.
 dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^알겠다. 이 문제는 피하고 싶었는데 그것도 이젠 피곤하군. 네놈의 존재만으로 내 시야가 불쾌하게 만드는군.^^물론 이미 네가 누군지 알고 있지, {playername}. {s4}이(가) 너에 대한 소식을 보내왔지. {reg59?그녀:그}는 우리를 도와서 흐로리크 헤밍손 왕을 죽이고 프리지아를 손에 넣는 우리의 계획을 도울 사람이라고 말이야. 그 소식을 듣고 행복했었는데 어제는 야를로부터 너에 대한 새 소식을 들었지. 전령은 '{playername}은(는) 배신자입니다.' 라고 하더니 이어서 '{reg59?그녀:그}는(은) 프리지아에 대한 우리의 계획을 무너뜨렸습니다. 독싱가를 지키고 당신의 바이킹들을 죽였습니다. 만약 {playername}를 만나게 된다면 {reg59?그녀:그}를 죽이십시오.' 라고 하더군. 그런데도 여기까지 온 걸 보니 겂도 없나보군.
 dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^네놈은 참 끈질기군! 나는 이 문제를 피하고 싶지만, 다른 사람도 아닌 호리크 왕의 이름을 댄다니 어쩔 수 없군...^^물론 이미 네가 누군지 알고 있지, {playername}. {s4}이(가) 너에 대한 소식을 보내왔지. {reg59?그녀:그}는 우리를 도와서 흐로리크 헤밍손 왕을 죽이고 프리지아를 손에 넣는 우리의 계획을 도울 사람이라고 말이야. 그 소식을 듣고 행복했었는데 어제는 야를로부터 너에 대한 새 소식을 들었지. 전령은 '{playername}은(는) 배신자입니다.' 라고 하더니 이어서 '{reg59?그녀:그}는(은) 프리지아에 대한 우리의 계획을 무너뜨렸습니다. 독싱가를 지키고 당신의 바이킹들을 죽였습니다. 만약 {playername}를 만나게 된다면 {reg59?그녀:그}를 죽이십시오.' 라고 하더군. 그런데도 여기까지 온 걸 보니 겂도 없나보군.
-dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|내 문제는 당신과는 상관 없소. 난 단지 황소목 스벤과 내 어머니를 찾고 싶을 뿐이오.
+dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|내 문제는 당신과는 상관 없소. 난 단지 황소 목 스벤과 내 어머니를 찾고 싶을 뿐이오.
 dlga_sigurd_quest_revenge2:sigurd_quest_revenge32|나는 야를의 계획에 대해서는 몰랐소. 그래서 나는 독싱가를 지켰던 것이오. 내가 당신의 대의에 충성하겠소.
-dlga_sigurd_quest_revenge31:sigurd_quest_revenge4|어떻게 그렇게 멍청할 수 있지? 황소목 스벤은 누구와도 바꿀 수 없는 내 가장 소중한 심복이야. 내 함선의 뱃머리에 선 사람이란 말이다. 너와 나는 아무 것도 할 이야기가 없다. 네놈의 말을 잠자코 들어줄 의무는 이것으로 끝났다. 내가 아직 칼을 내리고 있을 때 꺼져!
+dlga_sigurd_quest_revenge31:sigurd_quest_revenge4|어떻게 그렇게 멍청할 수 있지? 황소 목 스벤은 누구와도 바꿀 수 없는 내 가장 소중한 심복이야. 내 함선의 뱃머리에 선 사람이란 말이다. 너와 나는 아무 것도 할 이야기가 없다. 네놈의 말을 잠자코 들어줄 의무는 이것으로 끝났다. 내가 아직 칼을 내리고 있을 때 꺼져!
 dlga_sigurd_quest_revenge32:sigurd_quest_revenge322|네 충성은 너무 교묘하고 또 너무 늦었군. 넌 그저 내 계획을 방해한 쥐새끼일 뿐이야. {s4}은(는) 나에게 잉글랜드로 보낼 원정대 600명을 약속했어. 그런데 지금은 정확히 한 명도 없지.
-dlga_sigurd_quest_revenge322:sigurd_quest_revenge31|미안하오, 하지만 나는 단지 황소목 스벤이 어디 있는지 알고 싶을 뿐이오.
+dlga_sigurd_quest_revenge322:sigurd_quest_revenge31|미안하오, 하지만 나는 단지 황소 목 스벤이 어디 있는지 알고 싶을 뿐이오.
 dlga_sigurd_quest_revenge322:sigurd_quest_revenge33|내가 당신을 위해 600명의 군대를 모아주겠소.
 dlga_sigurd_quest_revenge33:lord_pretalk|{s4}^^네놈의 말이 로키가 나를 괴롭히려고 네 입을 빌려 하는 말이 아니길 빌어보도록 하지. 솔직히 말해서, 네가 600명이나 모집할 수 있을거란 기대는 하지도 않는다. 하지만 네놈이 200명이 넘는 군대를 모집한다면 다시 나를 찾아와라. 그때 다시 이야기 하도록 하지. 그때는 나의 친구 스벤과 대화할 기회를 줄 수도 있다.
-dlga_sigurd_quest_collect1:sigurd_quest_collect1|{s2}^^이제 내 헤르시르중 한명이 네가 데려온 사람들을 돌봐줄 것이다. 물론, 이젠 네 사람이 아니라 내 사람이지만 말이야. 나는 정말 네놈같은 녀석이 이런 일을 해낼 줄은 몰랐는데 이렇게 해냈군. 이제 보니 네놈은 황소목 스벤과 너의 어머니를 찾기 위해서라면 무엇이든 할 사람처럼 보이는군.
-dlga_sigurd_quest_collect1:sigurd_quest_collect2|그렇소. 황소목 스벤은 내가 타고 있던 선박을 공격했고, 내 어머니를 납치했소. 그녀가 가진 물건 때문에 그는 사람을 착각하고 어머니를 데려간 것이오. 황소목 스벤은 대가를 치뤄야 하고, 나는 내 어머니를 구해낼 것이오.
+dlga_sigurd_quest_collect1:sigurd_quest_collect1|{s2}^^이제 내 헤르시르중 한명이 네가 데려온 사람들을 돌봐줄 것이다. 물론, 이젠 네 사람이 아니라 내 사람이지만 말이야. 나는 정말 네놈같은 녀석이 이런 일을 해낼 줄은 몰랐는데 이렇게 해냈군. 이제 보니 네놈은 황소 목 스벤과 너의 어머니를 찾기 위해서라면 무엇이든 할 사람처럼 보이는군.
+dlga_sigurd_quest_collect1:sigurd_quest_collect2|그렇소. 황소 목 스벤은 내가 타고 있던 선박을 공격했고, 내 어머니를 납치했소. 그녀가 가진 물건 때문에 그는 사람을 착각하고 어머니를 데려간 것이오. 황소 목 스벤은 대가를 치뤄야 하고, 나는 내 어머니를 구해낼 것이오.
 dlga_sigurd_quest_collect2:sigurd_quest_revenge5|네 어머니는 신의 손길이 닿은 여자라지? 그래, 내가 부탁한 대로 스벤은 나에게 그녀를 데려왔다. 그녀는 뭔가를 간직하고 있었어. 우리가 가로채야 했던, 바다 건너에서 온 편지를 말이야. 그래, 난 이미 그녀와 이야기를 해 봤어... 그녀는 워든 릭이라는 선박에서 그녀에게 편지를 쥐어준 보도라는 사람에 대해 말했지. 너는 그 이름을 알고 있나?
 dlga_sigurd_quest_revenge5:sigurd_quest_revenge51|아니, 나는 그가 누군지 모르오. 내가 알아야 할 사람이오?
 dlga_sigurd_quest_revenge5:sigurd_quest_revenge52|그렇소, 그는 워든 릭에 동승한 여행자였소.
-dlga_sigurd_quest_revenge51:sigurd_quest_revenge6|거짓말! 거짓말을 하는 이유가 뭔가? 너는 어머니와 같은 선박을 탔다고 말했고, 그녀는 그 배에서 보도를 만났다고 말했어. 그 남자, 보도는 나에게 있어 매우 중요하지만, 스벤은 그의 은신처에서 그를 놓치는 실수를 했지. 누군가가 보도를 구출한 덕분에 보도는 내 수중에서 사라졌어. 나는 내가 보도를 구출한자가 누군지 알고있다고 확신한다! 보도는 내게 있어 중요해, 보도를 넘겨준다면 기꺼이 황소목 스벤과 너의 어머니를 내놓는걸로 하지. 네 어머니는 스벤이 그녀를 좋아한다는 이유로 살아남았지만, 그 외에는 그녀가 살아남을 방법이 없을꺼다.
-dlga_sigurd_quest_revenge52:sigurd_quest_revenge6|이미 알고 있다. 네 어머니가 나에게 말해주었지. 그 남자, 보도는 나에게 있어 매우 중요하지만, 스벤은 그의 은신처에서 그를 놓치는 실수를 했지. 누군가가 보도를 구출한 덕분에 보도는 내 수중에서 사라졌어. 나는 내가 보도를 구출한자가 누군지 알고있다고 확신한다! 보도는 내게 있어 중요해, 보도를 넘겨준다면 기꺼이 황소목 스벤과 너의 어머니를 내놓는걸로 하지. 네 어머니는 스벤이 그녀를 좋아한다는 이유로 살아남았지만, 그 외에는 그녀가 살아남을 방법이 없을꺼다.
-dlga_sigurd_quest_revenge6:sigurd_quest_revenge61|황소목 스벤과 어머니가 어디 있는지 말해주시오. 그러면 보도는 당신 몫이오.
+dlga_sigurd_quest_revenge51:sigurd_quest_revenge6|거짓말! 거짓말을 하는 이유가 뭔가? 너는 어머니와 같은 선박을 탔다고 말했고, 그녀는 그 배에서 보도를 만났다고 말했어. 그 남자, 보도는 나에게 있어 매우 중요하지만, 스벤은 그의 은신처에서 그를 놓치는 실수를 했지. 누군가가 보도를 구출한 덕분에 보도는 내 수중에서 사라졌어. 나는 내가 보도를 구출한자가 누군지 알고있다고 확신한다! 보도는 내게 있어 중요해, 보도를 넘겨준다면 기꺼이 황소 목 스벤과 너의 어머니를 내놓는걸로 하지. 네 어머니는 스벤이 그녀를 좋아한다는 이유로 살아남았지만, 그 외에는 그녀가 살아남을 방법이 없을꺼다.
+dlga_sigurd_quest_revenge52:sigurd_quest_revenge6|이미 알고 있다. 네 어머니가 나에게 말해주었지. 그 남자, 보도는 나에게 있어 매우 중요하지만, 스벤은 그의 은신처에서 그를 놓치는 실수를 했지. 누군가가 보도를 구출한 덕분에 보도는 내 수중에서 사라졌어. 나는 내가 보도를 구출한자가 누군지 알고있다고 확신한다! 보도는 내게 있어 중요해, 보도를 넘겨준다면 기꺼이 황소 목 스벤과 너의 어머니를 내놓는걸로 하지. 네 어머니는 스벤이 그녀를 좋아한다는 이유로 살아남았지만, 그 외에는 그녀가 살아남을 방법이 없을꺼다.
+dlga_sigurd_quest_revenge6:sigurd_quest_revenge61|황소 목 스벤과 어머니가 어디 있는지 말해주시오. 그러면 보도는 당신 몫이오.
 dlga_sigurd_quest_revenge6:sigurd_quest_revenge62|나는 보도가 어디 있는지 모르오.
 dlga_sigurd_quest_revenge61:sigurd_quest_revenge71|그러면 우리는 거래를 해야겠군. 나는 네가 보도와 함께 있다고 의심하고 있다. 그를 잡아올 남자 둘을 보내겠다. 네놈들은 부디 가만히 있어야 할 꺼다. 나의 공격 명령을 기다리는 수백 명의 전사를 상대하기 싫다면 말이야. 보도가 별 문제 없이 잡혀온다면 아무런 문제도 없을꺼야. 싸움은 여기 누구에게도 도움이 되지 않을걸세. 그러니 내가 말한대로 일이 진행되길 빌도록 하지.
-dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^그리고 내가 지불할 몫에 대해서 이야기 하겠다. 스카이파 근처에 나에게 충성하는자의 농장이 있다. 거기로 가면 황소목 스벤과 네 어머니를 만날 수 있을것이다. {playername}, 그곳에는 덴마크의 법률이 적용된다는 것을 기억해라. 만일 네가 스벤에게 위해를 가한다면 너 역시 대가를 치뤄야 할 거야...
+dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^그리고 내가 지불할 몫에 대해서 이야기 하겠다. 스카이파 근처에 나에게 충성하는자의 농장이 있다. 거기로 가면 황소 목 스벤과 네 어머니를 만날 수 있을것이다. {playername}, 그곳에는 덴마크의 법률이 적용된다는 것을 기억해라. 만일 네가 스벤에게 위해를 가한다면 너 역시 대가를 치뤄야 할 거야...
 dlga_sigurd_quest_revenge62:sigurd_quest_revenge72|나는 네 거짓말을 참아내기엔 너무 늙었어. 보도는 나에게 너무나도 중요하고, 나는 네가 보도가 어디 있는지 알고 있다는 것 쯤은 알고있다고. 내가 모르는건 그가 너의 부대 속에 숨어 있는지 아니면 다른 어딘가에 숨겼는지야. 그러니 거래를 제안하겠다:
-dlga_sigurd_quest_revenge72:sigurd_quest_revenge82|{s4}^^스카이파 근처에 나에게 충성하는자의 농장이 있다. 거기로 가면 황소목 스벤과 네 어머니를 만날 수 있을것이다. 보도를 데려간다면, 내 부하들이 황소목 스벤과 네 어머니를 내어놓을 것이다. 그러나 보도가 없는 경우 네 어머니는 네 눈앞에서 죽을 것이고, 황소목 스벤은 네가 절대 찾지 못 할 곳으로 보내버릴 것이다.
+dlga_sigurd_quest_revenge72:sigurd_quest_revenge82|{s4}^^스카이파 근처에 나에게 충성하는자의 농장이 있다. 거기로 가면 황소 목 스벤과 네 어머니를 만날 수 있을것이다. 보도를 데려간다면, 내 부하들이 황소 목 스벤과 네 어머니를 내어놓을 것이다. 그러나 보도가 없는 경우 네 어머니는 네 눈앞에서 죽을 것이고, 황소 목 스벤은 네가 절대 찾지 못 할 곳으로 보내버릴 것이다.
 dlga_sigurd_quest_revenge8:close_window|당신의 부하들이 나를 따라오게 하시오. 보도에게 작별을 고하고 그들에게 내어주겠소.
 dlga_sigurd_quest_revenge82:sigurd_quest_revenge82_1|스카이파 근처의 농장으로 가보도록 하겠소. 잘 지내시오.
 dlga_sigurd_quest_revenge82_1:close_window|그럼 이제 이 문제로 이야기 할 일은 없겠군.
@@ -2566,11 +2566,11 @@ dlga_king_doccingacano:lord_pretalk|나는 이미 3주 전에 그곳으로 부�
 dlga_kennemerjarl_doccingacano:lord_pretalk|그건 내 문제도, 당신의 문제도 아닙니다. 왕의 문제요.
 dlga_kennemerjarl_1:kennemerjarl_2|손크릭은 그리 나쁜 놈은 아니지. 네놈이 그의 소개로 여기에 왔다면 네놈을 딱히 의심할 필요는 없겠군. 나에게 뭘 바라는 거지?
 dlga_kennemerjarl_1:kennemerjarl_2.1|손크릭은 그리 나쁜 놈은 아니지. 네놈이 그의 소개로 여기에 왔다면 네놈을 딱히 의심할 필요는 없겠군. 나에게 뭘 바라는 거지? 한번 네놈 말을 들어나 봐야겠군!
-dlga_kennemerjarl_2:kennemerjarl_3|워든 릭을 알고 있소? 내 어머니와 함께 선박에 타고 여행을 하고 있었소, 그러나 우리는 황소목 스벤에 의해 공격을 받았소.
+dlga_kennemerjarl_2:kennemerjarl_3|워든 릭을 알고 있소? 내 어머니와 함께 선박에 타고 여행을 하고 있었소, 그러나 우리는 황소 목 스벤에 의해 공격을 받았소.
 dlga_kennemerjarl_3:kennemerjarl_4|스벤은 상선과 우리들의 땅을 잔혹하게 공격하지. 그가 공물을 매년 봄에 가져가니까. 걱정하지 마라, 나는 그 망할 자식을 잡기 위해 병력을 모으고 있으니까. 하지만 나는 지금 다른 할 일로 바쁘단 말이다!
 dlga_kennemerjarl_4:kennemerjarl_51|나도 스벤을 잡는 데 가담하고자 하오. 내 목표는 어머니의 죽음을 복수하는 것이오.
 dlga_kennemerjarl_51:kennemerjarl_6|{s1}^^글쎄, 가능할지 모르겠군... 얼마나 많은 병사와 선박을 가지고 있지?
-dlga_kennemerjarl_6:kennemerjarl_71|내 팔은 내 병력이고, 내 용기가 곧 내 선박이오. 우리가 함께 황소목 스벤을 죽일 것이오.
+dlga_kennemerjarl_6:kennemerjarl_71|내 팔은 내 병력이고, 내 용기가 곧 내 선박이오. 우리가 함께 황소 목 스벤을 죽일 것이오.
 dlga_kennemerjarl_6:kennemerjarl_72|사실, 난 모든 것을 잃었지만, 나는 내 복수를 달성할 수 있을만한 용기는 부족하지 않다고 생각하오.
 dlga_kennemerjarl_6:kennemerjarl_73|나는 혼자요, {reg59?부인:경}, 하지만 나는 당신에게 영원한 충성을 맹세하겠소.
 dlga_kennemerjarl_71:kennemerjarl_8|그래, 뭐, 그런 일이군... 나는 그런 일에 신경쓸 여유가 없을 정도로 아주 바쁘다고. 다음에 다시 오는게 어떤가? 한, 10년쯤 뒤에 말이야.
@@ -2606,19 +2606,19 @@ dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^좋아, 좋아... 솔
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|재산? 걱정 마시오, 나는 그냥 스벤을 원하오.
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|내가 무엇을 들어도 좋소! 계속 이야기하시오.
 dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|나도 그건 잘 알고있어! 그러나 두 일은 관련된 일이라고. 모든 이야기를 듣고 난 뒤에나 결정해.
-dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|사실은 이미 독싱가 근처에 스벤을 사냥할 사람들을 배치해뒀지. 나도 네가 스벤을 잡는 데 동참했으면 좋겠다고...^하지만 문제가 있어. 나의 삼촌이기도 한 왕이 문제야. 그는 황소목 스벤을 공격하고 싶어하지 않아. 왜냐하면 그가 스벤의 주인인 '눈 속의 뱀' 야를 시구르드를 무서워하고 있기 때문이야. 시구르드.. 그는 노스의 로드브록이라고 불렸던 '털 바지' 라그나르의 아들 중 가장 강력한 남자지.
+dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|사실은 이미 독싱가 근처에 스벤을 사냥할 사람들을 배치해뒀지. 나도 네가 스벤을 잡는 데 동참했으면 좋겠다고...^하지만 문제가 있어. 나의 삼촌이기도 한 왕이 문제야. 그는 황소 목 스벤을 공격하고 싶어하지 않아. 왜냐하면 그가 스벤의 주인인 '눈 속의 뱀' 야를 시구르드를 무서워하고 있기 때문이야. 시구르드.. 그는 노스의 로드브록이라고 불렸던 '털 바지' 라그나르의 아들 중 가장 강력한 남자지.
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm52|이런 이름들은 나에게 아무런 의미도 없소, 시구르드나, 그의 아버지 라그나르는 누구고, 나는 그들을 두려워해야 하오?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm51|지금까지 이 모든 정보를 숨겨온 거요?
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm6|난 듣고 있소, 계속 이야기하시오.
 dlga_kennemerjarl_thiaderdm51:kennemerjarl_thiaderdm6|이해를 못하는군, 이건 그렇게 간단한 문제가 아니라고. 이건 우리에게 민감한 문제야. 게다가 방금 전까지 우리에게 넌 바다를 떠돌다 표류해온 이방인에 불과했단 말이지... 물론 이제는 상황이 달라졌어. 내 생각엔 너는 내가 믿어줄 만한 사람인 것 같군.
 dlga_kennemerjarl_thiaderdm52:kennemerjarl_thiaderdm5|라그나르 시구르드손은 덴마크의 일부를 지배한 전설적인 왕이야. 그의 선박이 나타난 곳이면 어느곳이든 두려움을 일으키고 다녔지. 라그나르는 몇년 전 죽었지만, 지금은 그의 여러 아들들이 잉글랜드를 침략하고 있지.^'눈 속의 뱀' 시구르드 라그나르손은 아슬라우그 공주에 의해 태어난 나이 많은 아들중 하나야. 그가 비록 지금은 나이가 들었지만 아직도 두려움과 존경을 한 몸에 받는 덴마크인 야를이지.^네가 강력한 왕이나 야를의 지원을 받지 못한다면, 너도 그를 두려워 해야만 할거야. 그리고 네가 나를 돕는다면 내가 바로 너에게 그런 지원을 해 줄 수 있는 사람이고 말이야.
-dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 황소목 스벤을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
+dlga_kennemerjarl_thiaderdm6:kennemerjarl_thiaderdm7|내 제안은 이런거다.^...^가서 나의 삼촌 {s10}을(를) 죽여, 그러면 나는 왕권을 차지하겠다. 그런 뒤에 나는 너에게 황소 목 스벤을 사냥하고 그의 주인인 '눈 속의 뱀' 시구르드를 공격하는데 필요한것들을 제공하지. 또한, 나는 이 땅의 '야를' 작위를 주고, 덤으로 네가 더 강해질 수 있도록 병력들과 돈을 줄것을 약속하지.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71|당신은 나를 이용해서 왕이 되고싶은것이오? 나는 당신을 믿지 않소! 나는 당신의 암살자가 아니란 말이오!
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm71.1|알겠소. 티아데르트는 죽었소. 당신이 할 일은 내가 스벤을 사냥할 수 있도록 필요한 것을 제공하는 것이오.
 dlga_kennemerjarl_thiaderdm7:kennemerjarl_thiaderdm9|제안을 받아들이겠소. 나는 가서 당신의 왕을 죽일것이오.
 dlga_kennemerjarl_thiaderdm71:kennemerjarl_thiaderdm8|이 것만 해결해주면 앞으로 더 이상의 거래나 속임수, 임무는 없다! 이 하나의 조건만 이루어지면 모든게 네 것이 될거야. 네 대답은 뭐지?
 dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm9|알겠소, {s10}을(를) 죽이겠소.
-dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|아니, 당신은 다른 암살자를 알아보시오. 난 스스로 황소목 스벤을 사냥할 것이오.
+dlga_kennemerjarl_thiaderdm8:kennemerjarl_thiaderdm91|아니, 당신은 다른 암살자를 알아보시오. 난 스스로 황소 목 스벤을 사냥할 것이오.
 dlga_kennemerjarl_thiaderdm9:kennemerjarl_thiaderdm9a|그렇게 대답할줄 알았어! 역시 내가 널 잘못보지 않았군. {s10}은 아무나 라고 할만한 사람이 아니야. 그를 두려워하지 않는 사람은 없어. 왜냐하면 그는 항상 충실한 전사들의 호위를 동반하고 있거든.^그의 죽음은 그를 두려워하는 사람 눈 앞에 보여져야만 해. 그러기에 가장 이상적인 시간은 바로 축제 기간이지. 네가 독을 쓰든 단검을 쓰든 내가 알바 아니지만, 이 중요한 두 가지 사항은 명심하는게 좋을거야...
 dlga_kennemerjarl_thiaderdm9a:kennemerjarl_salida|첫째, 네가 붙잡힌다고 해도 절대 내 이름을 언급하면 안 돼. 반드시 네가 스스로 꾸민 일로 밝혀져야 한다고. 그리고 그 일을 치루기 전에 우리가 만나는 일도 없어야 하지. 만약 우리가 만날일이 있다고 해도 서로 모른척 하자고.^^둘째, 이게 더 중요한데... 절대 잡히지 마!^^네 일을 마치고 나서도 여기로 오면 안돼. 티아데르트의 은신처가 있던 산에 몸을 숨기고 있다가, 사태가 진정되고 내가 왕이 되고 나면 널 찾도록 하지.^자, 이제 어서 가서 날 왕으로 만들어!
 dlga_kennemerjarl_thiaderdm91:kennemerjarl_thiaderdm91a|하, 내가 생각했던것 보다 멍청하군. 스벤을 찾기 위해 필요한 돈이나 병력은 네 한계를 한참 넘어선 것이야. 어쩌다 네가 스벤을 찾는다고 해도 스벤은 아주 쉽게 너를 죽일 수 있을 거야.^만약 네가 마음을 바꿔먹고 내 제안을 받아들인다면, 이걸 기억하도록 해. 그의 죽음은 그를 두려워하는 사람 눈 앞에 보여져야만 해. 그러기에 가장 이상적인 시간은 바로 축제 기간이지. 네가 독을 쓰든 단검을 쓰든 내가 알바 아니지만, 이 중요한 두 가지 사항은 명심하는게 좋을거야...
@@ -2645,9 +2645,9 @@ dlga_jarldenunciado12:jarldenunciado11|감사하오, 내 주인이시여. 나는
 dlga_jarldenunciado12:jarldenunciado4|당신의 선물은 언제나 환영합니다. 그럼 이만.
 dlga_jarldenunciado12:jarldenunciado4.1|나는 당신의 부하가 아니오. 우리는 동등한 관계이오, 나는 그 선물을 원하지 않소. 그럼 이만.
 dlga_jarldenunciado11:jarldenunciado13|자네는 {s11}가 내 조카였단것은 기억하고 말하고 있는건가? 이미 전에 그것에 대해 이야기 한적이 있었을텐데...^어디 한번 말해보게.
-dlga_jarldenunciado13:jarldenunciado14|물론 알고 있소, 그러나 나에겐 당신의 조카가 당신에 대해 황소목 스벤과 공모했다고 말할 의무가 있소.
+dlga_jarldenunciado13:jarldenunciado14|물론 알고 있소, 그러나 나에겐 당신의 조카가 당신에 대해 황소 목 스벤과 공모했다고 말할 의무가 있소.
 dlga_jarldenunciado13:jarldenunciado4|이해합니다만, 더 이야기 하지 않는편이 좋겠소. 나는 그것을 증명할 방법이 없소. 안녕히.
-dlga_jarldenunciado14:jarldenunciado15|황소목 스벤은 '눈 속의 뱀' 야를 시구르드의 충실한 개지. 더불어 시구르드는 라그나르 로드브록의 가장 오래된 아들 중 하나야. 당신은 매우 두렵고 위험한 자들에 대해서 이야기하는군, {playername}. 내 조카는 매우 무모하고 대담한 자고, 우리 왕국은 프리지아인의 반란으로 어려운 상황이네. 그는 내가 프리지아인 반란을 막지 못하고, 그를 후원하는 프랑키아를 공격하지 않는 약한 자라 생각하지. 사실, 우리는 과거에도 지금처럼 강하지는 않았어. 그러나, 나는 사실 그가 반역자라고 생각하지는 않네. 자네에게 증거가 있나?
+dlga_jarldenunciado14:jarldenunciado15|황소 목 스벤은 '눈 속의 뱀' 야를 시구르드의 충실한 개지. 더불어 시구르드는 라그나르 로드브록의 가장 오래된 아들 중 하나야. 당신은 매우 두렵고 위험한 자들에 대해서 이야기하는군, {playername}. 내 조카는 매우 무모하고 대담한 자고, 우리 왕국은 프리지아인의 반란으로 어려운 상황이네. 그는 내가 프리지아인 반란을 막지 못하고, 그를 후원하는 프랑키아를 공격하지 않는 약한 자라 생각하지. 사실, 우리는 과거에도 지금처럼 강하지는 않았어. 그러나, 나는 사실 그가 반역자라고 생각하지는 않네. 자네에게 증거가 있나?
 dlga_jarldenunciado15:jarldenunciado16|아니, 그는 당신을 죽일 것을 부탁했소.
 dlga_jarldenunciado16:lord_pretalk|그것이 그에게 반대하는 당신의 말이군. 그런 말로는 자네를 믿을 수 없네. 가서 지금의 평화를 즐기게. 그리고 그런 함정을 파고 내 궁전에 돌아오지 말게.
 dlga_jarldenunciado4:lord_pretalk|알겠소...
@@ -2668,7 +2668,7 @@ dlga_kinghorik_quest_thing1:close_window|목소리를 낮추게, 나를 따라�
 dlga_kinghorik_quest_thing1:lord_pretalk|목소리를 낮추시게, 여긴 그럴만한 장소가 아냐. 내가 내 군대와 이곳을 뜰 때까지 기다리시게. 그 뒤에 길에서 다시 이야기 해 보도록 하지.
 dlga_kinghorik_quest_atlieiriksson1:kinghorik_quest_atlieiriksson2|좋은 소식이군, 그는 어디에 있나?
 dlga_kinghorik_quest_atlieiriksson2:kinghorik_quest_atlieiriksson3|우리는 호르달란드 근처, 노스비거의 한 동굴에서 아틀리 에이릭손과 그의 부하들을 발견했소. '눈 속의 뱀' 시구르드는 그곳에 편지를 숨겼고, 그 편지를 보호하기 위해 그와 그의 수하들을 보냈소. 하지만 그들은 전투 중에 그 편지를 태웠고, 그래서 '눈 속의 뱀' 시구르드가 총회에서 이 편지를 당신에 대한 무기로 사용할 수는 없을 거요. 이제는 두려워 할 필요가 없소.
-dlga_kinghorik_quest_atlieiriksson3:kinghorik_quest_atlieiriksson4|아틀리가 죽었다고? 그는 황소목 스벤 다음가는 시구르드 라그나르손의 수하야. 당신이 어딜 가든 당신 근처엔 시체가 따라다니는군, 너는 시구르드의 하나의 무기를 사용하지 못하게 만들었지만, 또 하나의 무기로 너는 그에게 복수라는 무기를 주었어. 내가 보기에 네가 그 동굴에서 모두를 죽이지 않았을 경우 시구르드는 생존자를 아틀리의 살해에 대한 증인으로 제시하겠지. 그 경우에 나는 너를 추방 선언으로부터 보호할 수 없어!
+dlga_kinghorik_quest_atlieiriksson3:kinghorik_quest_atlieiriksson4|아틀리가 죽었다고? 그는 황소 목 스벤 다음가는 시구르드 라그나르손의 수하야. 당신이 어딜 가든 당신 근처엔 시체가 따라다니는군, 너는 시구르드의 하나의 무기를 사용하지 못하게 만들었지만, 또 하나의 무기로 너는 그에게 복수라는 무기를 주었어. 내가 보기에 네가 그 동굴에서 모두를 죽이지 않았을 경우 시구르드는 생존자를 아틀리의 살해에 대한 증인으로 제시하겠지. 그 경우에 나는 너를 추방 선언으로부터 보호할 수 없어!
 dlga_kinghorik_quest_atlieiriksson4:kinghorik_quest_atlieiriksson52|음, 이미 엎질러진 물이오. 우리는 아무런 일도 없기를 기대해야겠지.
 dlga_kinghorik_quest_atlieiriksson4:kinghorik_quest_atlieiriksson53|내가 무너지면, 당신도 같은 운명이오. 당신은 날 보호해야만 하오.
 dlga_kinghorik_quest_atlieiriksson52:kinghorik_quest_atlieiriksson6|알겠소, 하지만 당신의 목도 걸려있다는 걸 잊지 마시오.
@@ -2696,7 +2696,7 @@ dlga_jarlbjornneg_4:jarlbjornneg_52|나는 내 봉사에 대한 보상을 기대
 dlga_jarlbjornneg_51:lord_pretalk|기억하시오. 당신은 스노팅햄에 가서, 라그나르의 아들들의 사절로 자신을 소개하고, 앨프레드와의 회담을 요청하시오. 그에게 우리가 유혈 사태를 피하고 명예로운 방식으로 이 공성을 끝내고 싶어하며, 이 문제에 대해 논의하기 위해 스노팅햄의 성문 앞에서 만나길 원한다고 전하시오.^^분명히 말하건데! 우리가 원하는 협상 방식이 아니라면, 북쪽에서 새로운 남자들을 데려와 색슨인들과 머시아인들이 값 비싼 대가를 치르게 할 것이라고 말 하시오. 행운을 빌겠소.
 dlga_jarlbjornneg_52:jarlbjornneg_51|좋소, 상인에게 말해둔다는 것을 깜빡 했소. 나는 충실한 자들에겐 은으로 보상하여 연대의 상징으로 삼곤 하오. 하지만 나는 당신이 그런 부류의 사람이 아니라는 건 잘 알고 있소. 여기, 당신의 봉사에 대한 보상이 있소. 그리고 당신이 당신의 일을 잘 마무리지으면 더 큰 보상을 줄 것이오. 그럼 이제...
 dlga_jarlbjorn_1:jarlbjorn_2|내 형제인 시구르드는 1000명의 병력을 약속했지, 그들은 어디에 있소?
-dlga_jarlbjorn_2:jarlbjorn_3|그들은 죽거나 실종됐소. 시구르드 라그나르손은 총회의 판결에 따라 황소목 스벤과 하랄드 하랄드손이 같이 이끄는 함대를 보냈지만, 황소목 스벤의 추종자들이 갑자기 하랄드의 추종자들을 습격했고, 학살이 있었소. 나를 제외한 하랄드의 추종자들이 모두 죽고, 스벤을 따르던 자들도 심각한 손상을 입었을 것이오.
+dlga_jarlbjorn_2:jarlbjorn_3|그들은 죽거나 실종됐소. 시구르드 라그나르손은 총회의 판결에 따라 황소 목 스벤과 하랄드 하랄드손이 같이 이끄는 함대를 보냈지만, 황소 목 스벤의 추종자들이 갑자기 하랄드의 추종자들을 습격했고, 학살이 있었소. 나를 제외한 하랄드의 추종자들이 모두 죽고, 스벤을 따르던 자들도 심각한 손상을 입었을 것이오.
 dlga_jarlbjorn_3:jarlbjorn_4|{s2}^^스벤은 항상 다루기 어려웠고, 나는 그를 아끼는 시구르드의 취향을 전혀 이해할 수 없었어. 결국엔 스노팅햄의 어려운 상황에 우리를 몰아넣었군. 내가 다시 스벤을 만나는 날에는 내 맨손으로 그 개자식을 때려죽일 것이오. 우리는 웨식스와 머시아의 병력에 비해 열세에 있고, 지금까지 우리는 우리의 악명 덕분에 버틸 수 있었지만, 그들은 점점 대담해지고 있고 결국 스노팅햄에 몰아칠 것이오. 이대로 간다면 스노팅햄에 갇힌 병력은 전멸하고 말 거요. 지금은 전황이 불리해서, 우리 병력들이 스노팅햄을 탈출하게 하기 위한 협정을 맺으려면 그들이 가지고 있던 공포를 다시 일으킬 필요가 있소. 지원군이 없다면 물러서는 것만이 유일한 선택이오.
 dlga_jarlbjorn_4:jarlbjorn_5_1|나는 잉글랜드가 바이킹 군대에겐 쉬운 먹잇감이라고 생각했는데 말이오.
 dlga_jarlbjorn_5_1:jarlbjorn_5_3|웨식스와 머시아, 이 두 왕국은 쉽게 건드리기 강력한 왕국이오. 우리는 지금, 특히 두 왕들이 힘을 합쳐 우리에게 대항하는 상황에서는, 더 많은 군대를 필요로 하오. 다행스러운 것은, 이 동맹이 일시적일 뿐이라는 것이오. 우리가 지금 후퇴하고 좀 더 약한 국가에 관심을 집중할 경우 머시아나 웨식스로 갈 수 있는 또 다른 기회가 올 것이오. 지금이라면 가난하고 돌 투성이인 픽트란드가 좋지 않겠소!
@@ -2713,12 +2713,12 @@ dlga_jarlbjornwf_3:jarlbjornwf_4_1|당신의 형제가 과연 나를 믿고 항�
 dlga_jarlbjornwf_4_1:jarlbjornwf_4|나는 그들이 당신을 내 전령으로 인정할 수 밖에 없을 만한 징표를 당신에게 줄 것이오. 나는 비요른이고, 라그나르의 아들이오. 그리고 내 형제들은 내 말을 들을 것이오. 그들은 그 내용을 듣고 당신을 존중해줄 거시오.
 dlga_jarlbjornwf_4:close_window|기다리시오, 나는 당신에게 내 아버지인 라그나르가 사용했던 색슨 검을 줄 것이오. 이것은 당신이 우리에게 하고 있는 봉사에 필요한 것이고, 동시에 당신에게 주는 내 선물이기도 하오. 내 형제들은 이 무기를 알아보고 당신의 말을 들을 것이오. 머시아인들의 경계가 더 부실하다는 것을 기억하시오. 그 점을 이용해서 밤중에 포위망의 측면을 이용하면 좋을 것이오. 당신에게 행운이 있기를.
 dlga_raethbarth_1:raethbarth_2|당신의 안색을 보아하니 좋은 소식은 아닌 것 같구려. 어쨌든 말해 보시오.
-dlga_raethbarth_2:raethbarth_3|나는 머시아에 대한 라그나르의 아들들의 침공을 지원하기 위해 덴마크에서 보낸 바이킹 지원군에 대한 나쁜 소식을 가지고 왔소. 함대는 30척의 보트와 약 800명의 병력으로 출발했으나, 황소목 스벤과 그의 추종자들이 하랄드 하랄드손과 하랄드의 추종자들을 습격했고, 그 과정에서 학살이 있었소. 나는 스벤이 당신에게 거짓말을 할것을 우려하고 있소. 어쨌든 스벤의 반란 과정에서 많은 수의 병사들이 죽고 다쳤기 때문에 그는 훨씬 적은 수의 남자들만 데리고 올 것이오.
-dlga_raethbarth_3:raethbarth_4|{s2}^^황소목 스벤은 내 형, 시구르드의 약탈선에서 늘 뱃머리에 서는 자이오. 그에 대한 당신의 비난은 아주 심각한 일이라는 것을 알아 두시오. 그러나, 우리는 아직까지 함대나 스벤에 대한 그 어떤 소식도 듣지 못했소. 덴마크에서 보낸 지원군은 스노팅햄에서 색슨족에게 승리하기 위해 매우 중요한 요소요. 그들 없이는 우리는 매우 어려운 상황에 놓일 수밖에 없소.
+dlga_raethbarth_2:raethbarth_3|나는 머시아에 대한 라그나르의 아들들의 침공을 지원하기 위해 덴마크에서 보낸 바이킹 지원군에 대한 나쁜 소식을 가지고 왔소. 함대는 30척의 보트와 약 800명의 병력으로 출발했으나, 황소 목 스벤과 그의 추종자들이 하랄드 하랄드손과 하랄드의 추종자들을 습격했고, 그 과정에서 학살이 있었소. 나는 스벤이 당신에게 거짓말을 할것을 우려하고 있소. 어쨌든 스벤의 반란 과정에서 많은 수의 병사들이 죽고 다쳤기 때문에 그는 훨씬 적은 수의 남자들만 데리고 올 것이오.
+dlga_raethbarth_3:raethbarth_4|{s2}^^황소 목 스벤은 내 형, 시구르드의 약탈선에서 늘 뱃머리에 서는 자이오. 그에 대한 당신의 비난은 아주 심각한 일이라는 것을 알아 두시오. 그러나, 우리는 아직까지 함대나 스벤에 대한 그 어떤 소식도 듣지 못했소. 덴마크에서 보낸 지원군은 스노팅햄에서 색슨족에게 승리하기 위해 매우 중요한 요소요. 그들 없이는 우리는 매우 어려운 상황에 놓일 수밖에 없소.
 dlga_raethbarth_4:raethbarth_5|당장은 내가 할 수 있는 일이 없소. 당신은 당신의 병력을 이끌고 스노팅햄 근처에 주둔한 비요른에게 가 주시오. 지원군이 전혀 없는 것보다는 낫겠지. 비요른은 내 형이고 머시아인에게 포위된 내 다른 형제들인 할프단, 이바르, 후비를 지원하기 위한 병력을 이끌고 있소. 스노팅햄의 북쪽을 찾아보면 야영을 하고 있는 그의 진영을 찾을 수 있을 것이오. 그는 당신의 어떤 지원이든지 환영해줄 것이오. 한편, 나는 그 동안 함대와 스벤의 반역에 관련된 문제를 조사할 것을 당신에게 약속하겠소. 그가 정말로 반역을 저질렀을 경다면 그는 자신의 목숨으로 죄값을 치루게 될 것이오.
 dlga_raethbarth_5:raethbarth_6_1|아니, 당신은 스벤을 죽여서는 안 되오. 스벤은 내 몫이오.
 dlga_raethbarth_5:raethbarth_6_2|좋소, 그를 죽이시오.
-dlga_raethbarth_5:raethbarth_6_3|황소목 스벤은 데리고 있는 여자가 있소. 나는 그녀에게 무슨 일이 생기기를 바라지 않소.
+dlga_raethbarth_5:raethbarth_6_3|황소 목 스벤은 데리고 있는 여자가 있소. 나는 그녀에게 무슨 일이 생기기를 바라지 않소.
 dlga_raethbarth_6_1:lord_pretalk|이제 보니 당신과 스벤 사이에 개인적인 일이 있나보군. 스벤의 유죄가 밝혀진다면, 그에 대한 처분은 당신에게 넘기겠소.
 dlga_raethbarth_6_2:lord_pretalk|그것이 바로 그의 유죄가 밝혀지면 일어날 일이오. 나는 배신자를 용납하지 않소.
 dlga_raethbarth_6_3:lord_pretalk|그럼, 이렇게 하겠소. 스벤이 유죄로 밝혀질 경우, 나는 그의 신변을 구속하고 그녀는 당신이 돌아올 때까지 안전하게 보호해 주겠소.
@@ -2729,21 +2729,21 @@ dlga_raethbarthbodoletter_4:raethbarthbodoletter_51|감사하오, 내가 무엇�
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_52|나는 프리지아에 가서 프랑크인의 경황을 보고 올 수 있소.
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_53|나는 아스투리아스에 가서 그들의 병력을 괴멸시킬 수 있소.
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_54|나는 스벤을 잡아야 하오, 그에 대한 소식은 없소?
-dlga_raethbarthbodoletter_51:raethbarthbodoletter_6|{s2}^^당신은 이미 우리에게 많은 도움이 되었소, 정말 고마워서 몸둘 바를 모르겠군. 당신은 내가 황소목 스벤의 행방을 추적할 병력을 보낸 것을 알고 있을 것이오. 그는 대가를 치뤄야만 하오...
+dlga_raethbarthbodoletter_51:raethbarthbodoletter_6|{s2}^^당신은 이미 우리에게 많은 도움이 되었소, 정말 고마워서 몸둘 바를 모르겠군. 당신은 내가 황소 목 스벤의 행방을 추적할 병력을 보낸 것을 알고 있을 것이오. 그는 대가를 치뤄야만 하오...
 dlga_raethbarthbodoletter_52:raethbarthbodoletter_6|우리가 프리지아에서 얻을 수 있는 정보는 확실하지 않소, 그것은 직접 프랑키아로 가보는 것이 가장 확실할 것이오. 그러나 이것은 지금 우리가 결정할 수 없는 문제요. 당신과 나를 포함해서.
 dlga_raethbarthbodoletter_53:raethbarthbodoletter_6|{s2}^^내 형, 비요른에 대해서 몇 가지 이야기를 하고 싶소. 그는 전쟁에 닳고 닳은 약 600명의 병력을 데리고 아스투리아스로 갔으나, 그는 알-안달루스인과 아스투리아스 전사의 공격에 그의 병력과 선박 대부분을 잃었소. 우리는 이 문제에 대한 언급을 그만두는 것이 좋을 것이오.
-dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|나는 잉글랜드 구석구석까지 황소목 스벤을 찾기 위해 병력을 보냈소. 지금까지 내가 아는 한, 그는 하랄드 하랄드손과의 전투에서 살아남았소. 하지만 그가 어디에 있는 지는 밝혀지지 않았소. 내 병력 중 일부는 그가 그의 병력을 이끌고 남쪽으로 갔다고 언급했소.
+dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|나는 잉글랜드 구석구석까지 황소 목 스벤을 찾기 위해 병력을 보냈소. 지금까지 내가 아는 한, 그는 하랄드 하랄드손과의 전투에서 살아남았소. 하지만 그가 어디에 있는 지는 밝혀지지 않았소. 내 병력 중 일부는 그가 그의 병력을 이끌고 남쪽으로 갔다고 언급했소.
 dlga_raethbarthbodoletter_6:raethbarthbodoletter_91|하지만 그에 앞서, 내 형제인 야를 할프단 라그나르손을 만나, 그에게 충성을 맹세하시오. 당신은 가능한 빨리 그의 봉신이 되는 것이 중요할 것이오.
 dlga_raethbarthbodoletter_91:lord_pretalk|할프단은 영리한 사람이니, 당신의 가치를 잘 알고 있을 것이오. 행운을 비오.
 dlga_raethbarthbodoletter_1_1:raethbarthbodoletter_7|나는 곧 내 형제와 합류하기 위해 그들에게 전령을 보낼 것이고, 우리는 왕국 국무에 관련된 회의를 열 것이오, 그러나 우리는 이 편지에 대해 논의하고 곧 결정을 내릴 것이오. 나는 당신에게 부탁하고 싶은 것이 있소. 나는 당신이 북쪽, 알반 왕국의 영토로 가서 우리들에게 문제를 일으키는 알바인들의 병력을 처단해줄 사람이 필요하오.
 dlga_raethbarthbodoletter_7:raethbarthbodoletter_81|당신은 무엇이 필요하시오?
-dlga_raethbarthbodoletter_7:raethbarthbodoletter_82|미안하오, 나는 오직 황소목 스벤만 잡으면 충분하오.
+dlga_raethbarthbodoletter_7:raethbarthbodoletter_82|미안하오, 나는 오직 황소 목 스벤만 잡으면 충분하오.
 dlga_raethbarthbodoletter_81:raethbarthbodoletter_9|나는 남쪽의 아스투리아스와 프랑키아가 오기 전에, 알바인들이 우리에 대항해 군대를 불러 요르빅을 공격할 가능성을 배제하고, 후방을 안전하게 만들어야 하기 때문이오.^우리는 남쪽 아스투리아스에서 온 편지에 대해서 조치를 취할 것이고, 당신은 병력을 모집해 우리가 그들 왕국의 중심을 공격할 것처럼 보이게끔, 던 타루오를 공격해 점령한 뒤, 20일간 그 지역을 방어해 주시오. 그 동안 우리는 알반 왕국과 조약을 맺을 것이오.
-dlga_raethbarthbodoletter_82:raethbarthbodoletter_81|나는 당신에게 황소목 스벤의 처분에 대한 문제를 맡긴다고 약속했소. 그는 당신의 몫이 될 것이오. 하지만 그를 찾기 위해서는 돈과 시간이 필요하오. 당신이 이 문제에서 나를 도와줄 수 있다면 나는 좀 더 많은 돈과 시간을 투자할 수 있을 것이오.
-dlga_raethbarthbodoletter_9:close_window|행운을 비오, 당신이 당신의 임무를 수행할 때. 나는 황소목 스벤의 처분에 대한 권리를 당신에게 주는 것에 대해 내 형제와 함께 결정하는 것에 도움을 줄 수 있을 것이오.
+dlga_raethbarthbodoletter_82:raethbarthbodoletter_81|나는 당신에게 황소 목 스벤의 처분에 대한 문제를 맡긴다고 약속했소. 그는 당신의 몫이 될 것이오. 하지만 그를 찾기 위해서는 돈과 시간이 필요하오. 당신이 이 문제에서 나를 도와줄 수 있다면 나는 좀 더 많은 돈과 시간을 투자할 수 있을 것이오.
+dlga_raethbarthbodoletter_9:close_window|행운을 비오, 당신이 당신의 임무를 수행할 때. 나는 황소 목 스벤의 처분에 대한 권리를 당신에게 주는 것에 대해 내 형제와 함께 결정하는 것에 도움을 줄 수 있을 것이오.
 dlga_raethbarthbjorn_1:close_window|모든 것을 듣고 나서 안심했소, 몇일 뒤 다시 이야기하러 돌아오겠소.
 dlga_raethbarth_wp_1:raethbarth_wp_2|나는 그 소식을 듣고 기쁘게 생각했소, 알바인들은 호전적인 자들이오. 그리고 나는 당신이 선뜻 성공할 지 확신이 가지 않았소.
-dlga_raethbarth_wp_2:raethbarth_wp_3|나도 당신을 위한 좋은 소식이 있소. 황소목 스벤이 이스트 앵글리아에서 발견되었소. 나는 우리가 처음 잉글랜드에 도착했을 때 우리에게 보급품과 말을 지원해 준 나라이기 때문에, 그가 그곳에 있었다고 생각하오. 그러나 그것은 그들의 왕이 약하기 때문에 두려워하고 있다는 문제가 크다고 생각되오. 이스트 앵글리아는 우리에게 약점을 잡혀 있기 때문에, 우리 땅이나 다름없는 곳이오.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 웨식스로 갔다는 것이오. 나는 그가 우리를 적으로 삼았기 때문에, 우리의 강력한 적에게 의탁하러 간다고 추측하고 있소.
+dlga_raethbarth_wp_2:raethbarth_wp_3|나도 당신을 위한 좋은 소식이 있소. 황소 목 스벤이 이스트 앵글리아에서 발견되었소. 나는 우리가 처음 잉글랜드에 도착했을 때 우리에게 보급품과 말을 지원해 준 나라이기 때문에, 그가 그곳에 있었다고 생각하오. 그러나 그것은 그들의 왕이 약하기 때문에 두려워하고 있다는 문제가 크다고 생각되오. 이스트 앵글리아는 우리에게 약점을 잡혀 있기 때문에, 우리 땅이나 다름없는 곳이오.^^나쁜 소식은 황소 목 스벤이 이스트 앵글리아를 떠나 웨식스로 갔다는 것이오. 나는 그가 우리를 적으로 삼았기 때문에, 우리의 강력한 적에게 의탁하러 간다고 추측하고 있소.
 dlga_raethbarth_wp_3:raethbarth_wp_41|그는 어째서 시구르드를 배신한 건지, 아직도 이해가 가지 않소.
 dlga_raethbarth_wp_3:raethbarth_wp_5|나는 곧 웨식스로 갈 것이오.
 dlga_raethbarth_wp_41:raethbarth_wp_42|{s2}^^나는 그것에 대해서 대답할 수 있소. 내 동생, 시구르드에게서 곧 전령이 도착했는데. 그는 우리에게 이렇게 이야기했소. 불행히도 너무 늦었지만 -시구르드는 그를 주의하라고 우리에게 전했소-, 분명 누군가가 스벤이 매우 사랑하는 그의 형, '하얀 머리의' 올비르를 살해했으나. 총회는 그를 유죄로 처벌하지 않았소. 스벤은 시구르드가 복수로서 자신의 권리를 방어하지 않음으로서 자신을 버렸다고 여긴 것 같소. 그래서 그는 함대가 출항하기 전에, 시구르드는 스벤이 충성 서약을 파기하고, 그에 대한 복수를 맹세했다고 전했소.
@@ -2751,14 +2751,14 @@ dlga_raethbarth_wp_42:raethbarth_wp_43|내가 올비르를 죽였지만, 그건 
 dlga_raethbarth_wp_42:raethbarth_wp_43.1|내가 올비르를 죽였소, 그는 개만도 못한 자였소.
 dlga_raethbarth_wp_42:raethbarth_wp_5|(아무 말도 하지 않습니다)
 dlga_raethbarth_wp_43:raethbarth_wp_5|전령은 그의 이야기에서 당신의 이름을 언급하지 않았소. 하지만 나는 당신과 스벤 사이에 있었던 많은 문제가 오직 한 명의 죽음으로만 끝날 것이라는 것만은 알 수 있겠소.
-dlga_raethbarth_wp_5:raethbarth_wp_6|음, 황소목 스벤은 무법자고, 덴마크의 적이오. 특히 라그나르의 아들들에게는 더욱이, 그러나 웨식스는 크고 강한 나라요. 황소목 스벤은 여기에 숨을 수 있고. 당신이 그를 찾을 수도 있소. 그러나, 나는 웨식스에게 그들이 필요한 두 가지를 넘겨줄 것이오 --선박과 좋은 선원들--, 내 생각에는 그렇게 할 경우, 색슨인들은 그를 붙잡아서 우리에게로 보낼 것이오.
+dlga_raethbarth_wp_5:raethbarth_wp_6|음, 황소 목 스벤은 무법자고, 덴마크의 적이오. 특히 라그나르의 아들들에게는 더욱이, 그러나 웨식스는 크고 강한 나라요. 황소 목 스벤은 여기에 숨을 수 있고. 당신이 그를 찾을 수도 있소. 그러나, 나는 웨식스에게 그들이 필요한 두 가지를 넘겨줄 것이오 --선박과 좋은 선원들--, 내 생각에는 그렇게 할 경우, 색슨인들은 그를 붙잡아서 우리에게로 보낼 것이오.
 dlga_raethbarth_wp_6:raethbarth_wp_71|아스투리아스 왕국에서 함대를 보내고, 지휘권을 넘기기 위해 웨식스와 접선할 거라는 생각이 드는데, 동의하오?
 dlga_raethbarth_wp_6:raethbarth_wp_72|당신이 알고 있는 것을 말해주시오.
 dlga_raethbarth_wp_6:raethbarth_wp_73|그가 간 곳으로, 나는 그를 잡으러 갈 것이오.
 dlga_raethbarth_wp_71:raethbarth_wp_72|{s2}^^나는 나를 섬기는 이가 똑똑한 경우를 좋아하오, 당신은 전적으로 옳은 말을 하고 있소.
 dlga_raethbarth_wp_73:raethbarth_wp_72|당신의 집착이 독이 될 거요...
-dlga_raethbarth_wp_72:raethbarth_wp_8|당신이 알반에서 바쁘게 지내는 동안, 나도 내 형제를 만나느라 바빴소. 우리는 남쪽에서 온 편지에 대해 자세한 내용을 논의했고, 편지에 의하면 두아르-안-에네즈라는 곳에서 아스투리아스 함대가 정박하여 프랑키아, 웨식스에서 보낸 사람과 만나는 것이 거의 확실하오. 색슨인과 한 때, 지금 여기 있는 당신의 동반자였던 보도라는 자가 있었소. 그래서 우리는 색슨인이 우리와 같은 정보를 가지고 있다고 생각하오. 그래서, 그들이 아직 만남을 가지지 않았을 경우. 웨식스에서 곧 두아르-안-에네즈에 황소목 스벤과 보도를 보낼 것이라고 생각되오.
-dlga_raethbarth_wp_8:raethbarth_wp_91|보도는 황소목 스벤과 일하지 않을 것이오, 그는 나를 싫어하는 만큼 스벤을 혐오하니까.
+dlga_raethbarth_wp_72:raethbarth_wp_8|당신이 알반에서 바쁘게 지내는 동안, 나도 내 형제를 만나느라 바빴소. 우리는 남쪽에서 온 편지에 대해 자세한 내용을 논의했고, 편지에 의하면 두아르-안-에네즈라는 곳에서 아스투리아스 함대가 정박하여 프랑키아, 웨식스에서 보낸 사람과 만나는 것이 거의 확실하오. 색슨인과 한 때, 지금 여기 있는 당신의 동반자였던 보도라는 자가 있었소. 그래서 우리는 색슨인이 우리와 같은 정보를 가지고 있다고 생각하오. 그래서, 그들이 아직 만남을 가지지 않았을 경우. 웨식스에서 곧 두아르-안-에네즈에 황소 목 스벤과 보도를 보낼 것이라고 생각되오.
+dlga_raethbarth_wp_8:raethbarth_wp_91|보도는 황소 목 스벤과 일하지 않을 것이오, 그는 나를 싫어하는 만큼 스벤을 혐오하니까.
 dlga_raethbarth_wp_8:raethbarth_wp_9|그러면 나는 두아르-안-에네즈로 갈 것이오.
 dlga_raethbarth_wp_91:raethbarth_wp_9|아마도, 나는 당신의 사람으로 함께 있었던 보도라는 자에 대해 잘 모르겠지만. 그는 지금 당신이 아니라 우리의 원수의 편에 있으며, 그리고 나는 당신과 그의 관계가 끝났다는 것도 알고 있소. 우리는 위험을 감수하지 않을 것이오.
 dlga_raethbarth_wp_9:raethbarth_wp_10|아스투리아스에서 이 병력들은 매우 중요하오, 더불어 우리는 이 병력을 웨식스가 아닌 우리 측에서 사용할 수도 있을 것이오. 그 중 그들의 배신자, 그 땅에 있을 때 내 형 비요른의 포로였던 실로라는 자가 있소. 비요른은 그의 충성심을 얻은 후 그를 풀어줬고, 그 자는 많은 돈을 대가로 우리에게 정보를 전달하고 있소. 웨식스에서 온 자들을 전부 무덤에 보내버리고, 그 병력들을 우리에게 합류시킨 뒤. 아스투리아스의 호의를 얻기 위해 실로를 이용하시오, 당신이 그들을 설득하는 데 실패한다면 그들을 모두 죽여야만 할 것이오.
@@ -2769,31 +2769,31 @@ dlga_aelfredbodoletter_2:aelfredbodoletter_2_1|{s2}^^.
 dlga_aelfredbodoletter_2_1:aelfredbodoletter_3|--당신은 구석진 곳에 있고, 당신은 아무 것도 들을 수 없습니다. 그러나 당신은 열심히 그에게 설명하는 보도의 입과 제스쳐를 볼 수 있었습니다. 앨프레드는 그 모든 설명을 참을성 있게 듣고 있었고, 몇 가지의 질문을 했습니다. 그는 전혀 세상의 풍파와 관련 없어 보이는 젊은 사람이지만, 그는 자신의 속마음을 잘 숨기는 것 같았습니다. 설명이 끝나고, 그들이 당신의 옆으로 돌아왔습니다.--
 dlga_aelfredbodoletter_3:aelfredbodoletter_4|{playername}, 웨식스을 대표해 이 편지를 가져온 당신에게 감사를 표하겠소. 보도는 나에게 모든 것을 이야기했소. 그리고 당신이 이 사명 때문에 덴마크에서 겪은 모든 고난을 알게 되었소. 그리고 당신의 어머니가 납치되었다니, 훨씬 개인적인 차원에서라도 나는 어떻게든 당신에게 보상을 해 주고 싶소. 그렇게 하게 해주시겠소?
 dlga_aelfredbodoletter_4:aelfredbodoletter_51|올바른 일을 하는 것 자체가 나에게 이미 큰 보상이오.
-dlga_aelfredbodoletter_4:aelfredbodoletter_52|당신에게 부탁하겠소, 당신은 덴마크인 황소목 스벤을 찾을 수 있도록 도와주실 수 있습니까?
-dlga_aelfredbodoletter_4:aelfredbodoletter_53|나는 당신에게 황소목 스벤을 찾는 것을 도와주는 것과 충분한 돈을 보상해주기를 기대하고 있소.
+dlga_aelfredbodoletter_4:aelfredbodoletter_52|당신에게 부탁하겠소, 당신은 덴마크인 황소 목 스벤을 찾을 수 있도록 도와주실 수 있습니까?
+dlga_aelfredbodoletter_4:aelfredbodoletter_53|나는 당신에게 황소 목 스벤을 찾는 것을 도와주는 것과 충분한 돈을 보상해주기를 기대하고 있소.
 dlga_aelfredbodoletter_4:aelfredbodoletter_54|나는 보상을 기대하지 않았소, 나는 보도를 위해 이 일을 한 것 뿐이오.
 dlga_aelfredbodoletter_51:aelfredbodoletter_6|{s2}^^흔한 일이 아니군: 사람들에게 좋은 일을 기꺼이 사심 없이 하는 것을 하나님께서 모든 것을 보고 계시고, 우리 아버지, 주께서는 당신을 위해 천국에 당신의 자리를 마련하셨을 거라 믿어 의심치 않소.
-dlga_aelfredbodoletter_52:aelfredbodoletter_6|우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오. 최대한 빨리 무언가를 알아본 뒤 당신에게 알려줄 것이오.
-dlga_aelfredbodoletter_53:aelfredbodoletter_6|{s2}^^알겠소, 이 보상을 가져가시오. 황소목 스벤에 대해서는 우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오.
-dlga_aelfredbodoletter_54:aelfredbodoletter_6|우정은 색슨인들 사이에서 가장 중요한 덕목중 하나요. 당신은 그를 도왔고, 더불어 웨식스을 도왔소. 그 보답으로 우리가 황소목 스벤의 행방을 알게 되자마자, 우리는 당신에게 알려줄 것이오.
+dlga_aelfredbodoletter_52:aelfredbodoletter_6|우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소 목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오. 최대한 빨리 무언가를 알아본 뒤 당신에게 알려줄 것이오.
+dlga_aelfredbodoletter_53:aelfredbodoletter_6|{s2}^^알겠소, 이 보상을 가져가시오. 황소 목 스벤에 대해서는 우리 웨식스는 잉글랜드에 정보 제공자가 있소. 황소 목 스벤이 어딘가에 나타나는 경우, 우리는 곧 알게 될 것이오.
+dlga_aelfredbodoletter_54:aelfredbodoletter_6|우정은 색슨인들 사이에서 가장 중요한 덕목중 하나요. 당신은 그를 도왔고, 더불어 웨식스을 도왔소. 그 보답으로 우리가 황소 목 스벤의 행방을 알게 되자마자, 우리는 당신에게 알려줄 것이오.
 dlga_aelfredbodoletter_6:aelfredbodoletter_91|하지만 먼저, 내 형, 왕과 이야기해서 그에게 충성을 맹세하시오. 나는 당신이 웨식스의 봉신이 되는 것이 중요한 일이라고 생각하오.
 dlga_aelfredbodoletter_91:close_window|내 형은 좋은 사람이고, 그는 당신을 받아들일 것을 확신하오. 행운이 있기를.
 dlga_aelfredbodoletter_1_1:aelfredbodoletter_7|나는 내 형, 왕에게 전령을 보내 회의를 주최할 것이며, 회의에서는 나라의 국무를 논의할 것이오, 그러나 우리는 이 편지에 대하여 상의하고, 곧 결정을 내릴 것이오. 나는 당신에게 부탁하고 싶은 것이 있소. 우리는 웨일즈 접경으로부터 반복된 구원 요청을 받았소. 하지만 우리는 덴마크와의 대결로 상황이 매우 급박하게 돌아가고 있소. 때문에 우리는 그 문제에 충분한 관심을 줄 수가 없소. 나는 당신이 웨식스을 대표하여 그곳으로 가서 항구적인 평화를 가져오기를 원하오.
 dlga_aelfredbodoletter_7:aelfredbodoletter_81|당신은 무엇이 필요합니까?
-dlga_aelfredbodoletter_7:aelfredbodoletter_82|미안하오, 내 관심사는 오직 황소목 스벤뿐이오.
-dlga_aelfredbodoletter_82:aelfredbodoletter_81|당신이 임무를 마치고 돌아왔을 때, 우리는 당신을 위해 황소목 스벤에 대한 소식을 가지고 있을 것이라고 확신하오. 황소목 스벤은 그의 분노로 미쳐있는 사람으로 유명하오. 그래서 우리의 정보원은 곧 뭔가를 들을 수 있을 것이오.
+dlga_aelfredbodoletter_7:aelfredbodoletter_82|미안하오, 내 관심사는 오직 황소 목 스벤뿐이오.
+dlga_aelfredbodoletter_82:aelfredbodoletter_81|당신이 임무를 마치고 돌아왔을 때, 우리는 당신을 위해 황소 목 스벤에 대한 소식을 가지고 있을 것이라고 확신하오. 황소 목 스벤은 그의 분노로 미쳐있는 사람으로 유명하오. 그래서 우리의 정보원은 곧 뭔가를 들을 수 있을 것이오.
 dlga_aelfredbodoletter_81:aelfredbodoletter_9|나는 당신이 가서 딘 비치라는 요새를 에 당신의 깃발을 꽂고, 20일간 그곳을 지켜내시오. 그들이 평화를 유지할 생각이 없는 경우, 우리가 강제로 그들의 땅을 점령할 준비가 되어 있다는 사실을 웨일즈에게 보여주시오.
 dlga_aelfredbodoletter_9:lord_pretalk|행운을 비오. 우리가 스노팅햄에서 처음 만난 이후로, 나는 당신이 웨식스에게 있어 중요한 사람이 될 거라고는 생각하지 않았소. 그러나 지금 당신은 우리에게 큰 은혜를 베푼 셈이오.
 dlga_aethelred_wp_1:aethelred_wp_2|나는 그 소식을 듣고 기쁘게 생각하오. 웨일즈인은 호전적인 사람들이고, 나는 당신이 그 것을 선뜻 성공할 거라는 확신이 없었소.
-dlga_aethelred_wp_2:aethelred_wp_3|나도, 당신을 위한 좋은 소식이 있소. 황소목 스벤은 이스트 앵글리아에서 발견되었소, 나는 처음 그들이 잉글랜드에 도착했을 때 그 나라는 덴마크에 가장 먼저 보급품과 말을 지원한 국가였기 때문에, 그곳에 그가 있을 거라고 확신했소. 그곳은 나약한 왕과 전염병으로 가난한 국가요.^^나쁜 소식은 황소목 스벤이 이스트 앵글리아를 떠나 노섬브리아로 갔다는 거요. 나는 그가 당신에게서 도망치려고 하고, 그는 웨식스을 피해 당신의 공격에서 보호받기를 원하는 것으로 추측하고 있소.
+dlga_aethelred_wp_2:aethelred_wp_3|나도, 당신을 위한 좋은 소식이 있소. 황소 목 스벤은 이스트 앵글리아에서 발견되었소, 나는 처음 그들이 잉글랜드에 도착했을 때 그 나라는 덴마크에 가장 먼저 보급품과 말을 지원한 국가였기 때문에, 그곳에 그가 있을 거라고 확신했소. 그곳은 나약한 왕과 전염병으로 가난한 국가요.^^나쁜 소식은 황소 목 스벤이 이스트 앵글리아를 떠나 노섬브리아로 갔다는 거요. 나는 그가 당신에게서 도망치려고 하고, 그는 웨식스을 피해 당신의 공격에서 보호받기를 원하는 것으로 추측하고 있소.
 dlga_aethelred_wp_3:aethelred_wp_41|그는 호리크 왕의 사람인 하랄드를 살해했는데, 어째서 그들은 그를 보호하는 것이오?
 dlga_aethelred_wp_3:aethelred_wp_5|나는 노섬브리아로 갈 것이오.
-dlga_aethelred_wp_41:aethelred_wp_42|{s2}^^노섬브리아는 덴마크의 왕, 호리크에 의해 지배되지 않는 곳이오. 하지만 대신 그곳은 라그나르의 아들이 지배하오. 지금까지 내가 아는 한, 라그나르 로드브록의 아들중 가장 위험한 자인 '눈 속의 뱀' 시구르드의 약탈선 뱃머리에서 선두지휘하는 자가 황소목 스벤이라고 알고 있소.
+dlga_aethelred_wp_41:aethelred_wp_42|{s2}^^노섬브리아는 덴마크의 왕, 호리크에 의해 지배되지 않는 곳이오. 하지만 대신 그곳은 라그나르의 아들이 지배하오. 지금까지 내가 아는 한, 라그나르 로드브록의 아들중 가장 위험한 자인 '눈 속의 뱀' 시구르드의 약탈선 뱃머리에서 선두지휘하는 자가 황소 목 스벤이라고 알고 있소.
 dlga_aethelred_wp_42:aethelred_wp_43|언젠가 시구르드와 나는 묵은 원한을 청산할 것이오.
 dlga_aethelred_wp_42:aethelred_wp_43.1|시구르드는 덴마크에 있지만, 큰 영향력을 가지고 있군.
 dlga_aethelred_wp_42:aethelred_wp_5|(아무 말도 하지 않습니다)
 dlga_aethelred_wp_43:aethelred_wp_5|내 생각에, 스벤과 시구르드 그리고 당신의 사이에서 많은 문제가 있었고, 이는 오직 하나가 죽어야만 끝날 문제라는 건 알 수 있을 것 같군요.
-dlga_aethelred_wp_5:aethelred_wp_6|음, 황소목 스벤은 문제가 될 것이오, 하지만 노섬브리아는 덴마크인으로 가득한 곳이고. 그들은 강한 영향력을 가지고 있지. 황소목 스벤은 여기에서 자신을 숨길만한 장소를 찾을 수는 있을 것이오. 그리고 당신도 그를 찾을 수 있을 것이고, 그러나 그는 그 이전에, 라그나르의 아들들에게 다시 한 번 자신의 가치를 증명할 기회를 얻고, 그걸 증명해야 할 것이오. 그렇기 때문에 나는 그들이 그를 보낼 곳을 대충 예상할 수 있소.
+dlga_aethelred_wp_5:aethelred_wp_6|음, 황소 목 스벤은 문제가 될 것이오, 하지만 노섬브리아는 덴마크인으로 가득한 곳이고. 그들은 강한 영향력을 가지고 있지. 황소 목 스벤은 여기에서 자신을 숨길만한 장소를 찾을 수는 있을 것이오. 그리고 당신도 그를 찾을 수 있을 것이고, 그러나 그는 그 이전에, 라그나르의 아들들에게 다시 한 번 자신의 가치를 증명할 기회를 얻고, 그걸 증명해야 할 것이오. 그렇기 때문에 나는 그들이 그를 보낼 곳을 대충 예상할 수 있소.
 dlga_aethelred_wp_6:aethelred_wp_71|아스투리아스에서 보낸 함대와 만나 그들을 몰아내는 것에, 동의하시오?
 dlga_aethelred_wp_6:aethelred_wp_72|당신이 알고 있는 것을 말해주시오.
 dlga_aethelred_wp_6:aethelred_wp_73|그가 가는 곳이 어디든, 그를 찾아내고 말 것이오.
@@ -2817,9 +2817,9 @@ dlga_aelfred_ad_6:aelfred_ad_71|좋소, 당신이 병력을 모으는 동안 나
 dlga_aelfred_ad_6:aelfred_ad_72|나는 웨식스을 위해 일하는 데 지쳤소.
 dlga_aelfred_ad_6:aelfred_ad_73|스벤은 두아르-안-에네즈에 없었소. 나는 소를 찾으러 다닐 수 없소. 나는 스벤을 찾아야 하오.
 dlga_aelfred_ad_71:lord_pretalk|좋소, 당신을 믿어 보겠소.
-dlga_aelfred_ad_72:aelfred_ad_74|보시오, 평소에 나는 포현력이 좋은 편은 아니지만... 당신은 웨식스에 매우 중요하다고 말할 수 있소. 나는 그 어떤 것도 쉽지 않다는 것을 잘 알고 있소. 무엇보다, 황소목 스벤은 적의 군대 속에 있소. 우리 편에서 싸우는 것은 그에게 도달할 수 있는 가장 좋은 방법이오. 뭐든지 해보시오! 웨식스는 생사의 기로에 있고, 당신을 필요로 하오. 당신의 도움에 대한 보상으로 내 개인 자금으로 10000 페닝을 보상하겠소. 어떻소, 이제 동의하시겠소?
-dlga_aelfred_ad_73:aelfred_ad_74|황소목 스벤은 우리의 적이고, 웨식스을 약탈할 준비가 되어 있소. 즉, 우리의 이해관계는 일치하오. 음. 우리는 생사의 기로에 있고, 웨식스는 당신을 필요로 하기 때문에 우리는 당신의 도움에 대한 보상으로 내 자금을 꺼내서 10000 페닝으로 보상하겠소. 어떻소?
-dlga_aelfred_ad_74:aelfred_ad_71|당신의 돈은 필요 없소, 나는 황소목 스벤을 잡는 데에 당신의 지원을 필요로 하오.
+dlga_aelfred_ad_72:aelfred_ad_74|보시오, 평소에 나는 포현력이 좋은 편은 아니지만... 당신은 웨식스에 매우 중요하다고 말할 수 있소. 나는 그 어떤 것도 쉽지 않다는 것을 잘 알고 있소. 무엇보다, 황소 목 스벤은 적의 군대 속에 있소. 우리 편에서 싸우는 것은 그에게 도달할 수 있는 가장 좋은 방법이오. 뭐든지 해보시오! 웨식스는 생사의 기로에 있고, 당신을 필요로 하오. 당신의 도움에 대한 보상으로 내 개인 자금으로 10000 페닝을 보상하겠소. 어떻소, 이제 동의하시겠소?
+dlga_aelfred_ad_73:aelfred_ad_74|황소 목 스벤은 우리의 적이고, 웨식스을 약탈할 준비가 되어 있소. 즉, 우리의 이해관계는 일치하오. 음. 우리는 생사의 기로에 있고, 웨식스는 당신을 필요로 하기 때문에 우리는 당신의 도움에 대한 보상으로 내 자금을 꺼내서 10000 페닝으로 보상하겠소. 어떻소?
+dlga_aelfred_ad_74:aelfred_ad_71|당신의 돈은 필요 없소, 나는 황소 목 스벤을 잡는 데에 당신의 지원을 필요로 하오.
 dlga_aelfred_ad_74:aelfred_ad_75|다행히 마지막에 내 보상이 있군요. 나는 소들을 건네주고, 당신은 돈을 나에게 지불하시오.
 dlga_aelfred_ad_75:lord_pretalk|당신의 돈을 주시오, 나는 소를 데려올 것이고. 행운을 비오.
 dlga_aelfred_bt_1:aelfred_bt_2|{s3}^^덴마크인들이 이곳으로 진군하고 있다는 정보를 입수했소. 내 형은 승리를 위해 기도하고 있고, 우리는 준비가 되었소. 하나님께서 우리의 편에 서 계신다면, 우리는 웨식스을 지킬 수 있을 것이오. 그렇지 않으면, 우리는 멸망하겠지. 이런 말을 자주 하진 않소만... {playername}, 당신이 해 온 모든 일들에 감사하고 있소. 특히 당신의 운명을 우리와 함께 해 준 것에 대해서 말이오.
@@ -2838,10 +2838,10 @@ dlga_halfdan_ad_4:halfdan_ad_5|음, 이제 중요한 거사를 치룰 시간이�
 dlga_halfdan_ad_5:halfdan_ad_6|{s2}^^그리고 즉시, 우리는 우리의 전사들을 먹여살릴 고기가 필요해. 나는 당신이 우리 전사들을 먹일 수 있도록 소 {reg3}마리를 데려왔으면 좋겠군. 나는 당신이 그 소들을 어떤 방식으로 손에 넣건 신경쓰지 않겠소. 그저 그 소들을 빨리 데려와주면 좋겠군.
 dlga_halfdan_ad_6:halfdan_ad_71|좋소, 당신이 당신의 병력을 모으는 동안, 나는 소를 데려올 수 있을 것이오. 그리고 나는 스벤을 죽이고 웨식스을 전리품으로 취하겠지.
 dlga_halfdan_ad_6:halfdan_ad_72|너무 쉽게 생각하지 마시오, 나는 당신 친구가 아니오.
-dlga_halfdan_ad_6:halfdan_ad_73|당신은 두아르-안-에네즈에 황소목 스벤이 없었다고 했지. 당신이 소들을 데려오지 않으면, 나도 스벤을 찾지 않을 것이야.
+dlga_halfdan_ad_6:halfdan_ad_73|당신은 두아르-안-에네즈에 황소 목 스벤이 없었다고 했지. 당신이 소들을 데려오지 않으면, 나도 스벤을 찾지 않을 것이야.
 dlga_halfdan_ad_71:close_window|젠장, 가면 되잖소, 어서 가자!
 dlga_halfdan_ad_72:halfdan_ad_74|알겠소, 당신은 바이킹처럼 생각하는 걸 좋아하는군. 나에 대한 당신의 봉사에 충분한 보상을 지불할 수 있지. 나는 지금 당신에게 8000 페닝을 줄 것이오, 그 정도면 충분하지?
-dlga_halfdan_ad_73:halfdan_ad_74|황소목 스벤은 우리의 적인 웨식스의 방어병력에 들어가 있어. 즉 우리는 서로 이해관계가 맞아. 어떤가, 당신이 봉사한 만큼 대가도 지불할 것이야. 나는 8000 페닝을 지불할 수 있는데, 그 정도면 충분하지?
+dlga_halfdan_ad_73:halfdan_ad_74|황소 목 스벤은 우리의 적인 웨식스의 방어병력에 들어가 있어. 즉 우리는 서로 이해관계가 맞아. 어떤가, 당신이 봉사한 만큼 대가도 지불할 것이야. 나는 8000 페닝을 지불할 수 있는데, 그 정도면 충분하지?
 dlga_halfdan_ad_74:halfdan_ad_71|나는 돈이 필요 없소, 그건 필요 없다는 건... 사실 농담이오, 나는 당신과 정말 함께할 것이오.
 dlga_halfdan_ad_74:halfdan_ad_75|다행히 마지막에 보상이 들어오는군, 나에게 돈을 주시오, 소들을 넘길테니.
 dlga_halfdan_ad_75:close_window|내 돈을 주시오, 소를 넘길테니. 그럼 행운을.
@@ -4458,7 +4458,7 @@ dlga_novicemaster_ready_to_fight1:close_window|이제 당신은 연습에 들어
 dlga_novicemaster_are_you_ready1:novicemaster_not_ready1|잠깐 기다리시오, 나는 아직 준비가 안 되었소.
 dlga_novicemaster_not_ready1:close_window|이보시오, 당신이 연습을 하지 않으면 교육의 성과를 확인할 수 없잖소.
 dlga_start:close_window.88|제발, 친절을 베푸시어 우리를 도우소서, {reg59?부인:나리}! 나는 노예가 되고 싶지 않아요!
-dlga_start:bodo_prisoner_sl|안녕하시오, {playername}. 다행히 살아서 당신을 볼 수 있었군. 나는 황소목 스벤과 그의 부하들이 선박을 공격했을 때 당신이 죽은 줄로만 알고 있었소. 나는 정말로 운이 없었소, 당신이 볼 수 있듯이.
+dlga_start:bodo_prisoner_sl|안녕하시오, {playername}. 다행히 살아서 당신을 볼 수 있었군. 나는 황소 목 스벤과 그의 부하들이 선박을 공격했을 때 당신이 죽은 줄로만 알고 있었소. 나는 정말로 운이 없었소, 당신이 볼 수 있듯이.
 dlga_bodo_prisoner_sl:bodo_prisoner_s2|보도! 대답하시오, 내 어머니는 어디에 있소? 그리고 이 여자들은 누구요?
 dlga_bodo_prisoner_sl:close_window|일단 여기서 나를 내보내준 뒤에, 밖에서 이야기하는 것이 어떻소, 친구?
 dlga_bodo_prisoner_s2:close_window|우리는 여기서는 이야기할 수가 없소, 저들이 듣고 있잖소. 일단 여기서 나를 내보내주시오, 그 다음에 당신에게 아는 걸 다 이야기하겠소.
@@ -4525,7 +4525,7 @@ dlga_frisianship_merchant_11:close_window|내가 보장하겠소, {reg59?부인:
 dlga_start:frisianship_mer_1|젠장, 오단! 우리에게 문제가 생겼소!
 dlga_start:close_window.94|나중에 다시 이야기 하는게 어떻겠소, {reg59?부인:경}? 지금은 부하들에게 시킬 일이 있어서 바쁘오.
 dlga_frisianship_mer_1:frisianship_mer_2|무슨 일이오?
-dlga_frisianship_mer_2:frisianship_mer_3|오, 오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움 연습에 한눈을 파는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 황소목 스벤의 깃발이오! 이런, 젠장! 이제 우리들이 할 수 있는 거라곤 신들에게 지옥에 가지 않도록 비는것 뿐이오. 그들은 포로를 잡지 않고 모두 죽여버리니까.
+dlga_frisianship_mer_2:frisianship_mer_3|오, 오딘이시여! 조용히 하고 들으시오! 우리는 위험에 빠졌소. 우리가 당신이 하고 있는 싸움 연습에 한눈을 파는 동안 두 척의 바이킹 롱 보트가 다가왔소. 나는 그 선박에 달린 깃발이 무엇인지 알고 있소. 그건 황소 목 스벤의 깃발이오! 이런, 젠장! 이제 우리들이 할 수 있는 거라곤 신들에게 지옥에 가지 않도록 비는것 뿐이오. 그들은 포로를 잡지 않고 모두 죽여버리니까.
 dlga_frisianship_mer_3:frisianship_mer_4c|내가 이럴 줄 알았소, 우리는 정박하지 않고 도망가야 했소!
 dlga_frisianship_mer_3:frisianship_mer_4b|진정하시오, 선장! 대체 스벤이 누구요?
 dlga_frisianship_mer_3:frisianship_mer_4c.1|그것 참 끔찍한 소식이로군! 우리는 무엇을 해야 하오?
@@ -5461,7 +5461,7 @@ dlga_village_elder_deliver_cattle_thank:village_elder_talk|{reg59?부인:경}, �
 dlga_start:doccinga_interrogation_1|내 생각에, 더 이상 이 자에게서 알아낼 정보는 없을것 같소. 내 친구여, 덴마크로 가시오, 그건 당신의 운명이고, 필연적인 일이오.
 dlga_start:village_elder_talk_p|{playername}, 우리는 이 포로의 심문을 기다리고 있소. 내 생각에 그는 아마도 몇 가지 정보에 대해 알고 있을 것이오.
 dlga_start:close_window.111|운명은 그녀의 결정에 맡깁시다!(Wyrd bith ful araed!)
-dlga_start:doccinga_thonkrikca|{playername}, 당신이 여기에 왔군! 당신을 여기에 보낸 우리의 하나님께 감사드리겠소! 이런, 황소목 스벤의 바이킹 롱 보트들이 오고 있소! 그들이 우리 모두 죽이려고 하고 있소!
+dlga_start:doccinga_thonkrikca|{playername}, 당신이 여기에 왔군! 당신을 여기에 보낸 우리의 하나님께 감사드리겠소! 이런, 황소 목 스벤의 바이킹 롱 보트들이 오고 있소! 그들이 우리 모두 죽이려고 하고 있소!
 dlga_start:close_window.112|미안하오, {reg59?부인:경}. 밤이 깊었으니 나는 집에 가봐야 하오. 다른 날에 다시 찾아주시오.
 dlga_start:village_elder_thonkrik1|{s9}에 온 것을 환영하... 오, 맙소사! 당신은 우리가 해변에서 발견했던 그 {reg59?여자:남자}가 아니오! 당신을 보게 되어 정말 반갑소! 나는 당신이 살아서 여기 올 거라고는 생각지도 않았소, 그 치유사는 아버지의 유산이 가치있음을 증명했구려, 그의 영혼이 신의 품에서 지금 모습을 보고 편히 쉬기를!
 dlga_village_elder_thonkrik1:village_elder_thonkrik2a|당신이 손크릭이오? 내 이름은 {playername}(이)라고 하오, 당신과 독싱가에게 빚을 졌군.
@@ -5473,8 +5473,8 @@ dlga_village_elder_thonkrik4:village_elder_thonkrik5|워든 릭에 대해서는 
 dlga_village_elder_thonkrik5:village_elder_thonkrik7|나는 그에게 치료를 받으러 온 사람 중 하나였소. 내 어머니가 아팠기 때문에, 그러나 지금은, 아마도 그녀는... 죽었을 것이오.
 dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|내 어머니는 나와 함께 같이 여행하고 있었소, 당신은 다른 사람이나... 혹은 시체를 발견한 적이 있소?
 dlga_village_elder_thonkrik7:village_elder_thonkrik8|바다는 이따금 우리의 해안에 시체와 난파선들을 실어나르곤 하오, 하지만 당신 이외에는 아무 것도 없었소. 일반적으로, 바이킹들은 그들의 포로를 노예로 팔곤 한다오.
-dlga_village_elder_thonkrik8:village_elder_thonkrik9|손크릭, 우리 선박은 황소목 스벤에 의해 공격받았소. 당신은 그에 대해 들어본 적이 있소?
-dlga_village_elder_thonkrik9:village_elder_thonkrik10|{s1}^^황소목 스벤? 오, 하나님! 그가 당신을 습격한 거라면, 당신은 지금 살아있는게 기적이오. 스벤은 살인마고, 그의 부하들은 악마요. 그는 포로를 잡지 않소, 선원들을 모두 죽이고, 그들의 시체와 함께 선박을 불태워 버리지.^그는 부자가 되는 것엔 관심이 없는 것 같소. 스벤은 그것보다 더 큰 야심을 가지고 있는 것 같더군. 우리는 매년 그에게 공격받지 않기 위해 공물을 바치고 있소.
+dlga_village_elder_thonkrik8:village_elder_thonkrik9|손크릭, 우리 선박은 황소 목 스벤에 의해 공격받았소. 당신은 그에 대해 들어본 적이 있소?
+dlga_village_elder_thonkrik9:village_elder_thonkrik10|{s1}^^황소 목 스벤? 오, 하나님! 그가 당신을 습격한 거라면, 당신은 지금 살아있는게 기적이오. 스벤은 살인마고, 그의 부하들은 악마요. 그는 포로를 잡지 않소, 선원들을 모두 죽이고, 그들의 시체와 함께 선박을 불태워 버리지.^그는 부자가 되는 것엔 관심이 없는 것 같소. 스벤은 그것보다 더 큰 야심을 가지고 있는 것 같더군. 우리는 매년 그에게 공격받지 않기 위해 공물을 바치고 있소.
 dlga_village_elder_thonkrik10:village_elder_thonkrik11.1|그가 내 어머니를 죽인 거요, 그래서 나는 지금 그를 죽이러 갈 거요! 나에게 말해주시오, 어디로 가야 내가 스벤을 찾을 수 있겠소?
 dlga_village_elder_thonkrik10:village_elder_thonkrik11.2|내 어머니의 운명은 상관없소, 하지만 나는 그가 나를 공격한 대가를 치르게 할 거요! 스벤은 어디 있소?
 dlga_village_elder_thonkrik11:village_elder_thonkrik12|{s3}^^스벤을 찾겠다고 말했소? 당신 미친 거요? 당신 말은 못 들은 걸로 하겠소! 한번 스스로 자신을 보기나 해 보았소? 당신은 잘 훈련된 병사가 있소? 그들은 강력한 전사들이고, 우리의 야를이 그들을 보냈었소! 그러나 그들은 스벤에게 패배했소. 그리고 우리는 운이 좋았소! 여기를 제외한 다른 마을은 야를이 별로 중요하지 않게 생각했고, 그 마을 사람들은 전부 스벤에게 죽었소.^안되오, 아니, 나는 스벤에 대해 아무것도 모르오!
@@ -5488,12 +5488,12 @@ dlga_village_elder_thonkrik16:village_elder_thonkrik18|나는 당신이 아무�
 dlga_village_elder_thonkrik17:village_elder_pretalk|당신의 눈에서는 오직 결의에 찬 눈동자만 보이는군. 여기, 약간의 경비와 함께 내 충고를 기억하시오: 스벤은 잊고, 일자리를 찾으시오. 당신이 그럴 생각이 없다면, 켄네머의 야를을 찾아가야 할 거요. 그는 당신을 도울 수 있을 거요.
 dlga_village_elder_thonkrik18:village_elder_pretalk|당신 생각은 잘 알겠소, 그러나 정말 나는 아무 것도 모르고 있소, 하지만 당신은 켄네머의 야를을 만나볼 수 있을 거요. 이 약간의 식량을 받으시오, 당신의 긴 여정에 필요할 것이오.
 dlga_doccinga_thonkrikca:doccinga_thonkrikca2|진정하시오, 손크릭! 여기에 내가 당신을 도우러 왔소.
-dlga_doccinga_thonkrikca2:doccinga_thonkrikca3|마을의 젊은 사람들과 왕의 병사들이 황소목 스벤의 공격을 막으러 해변에 모여 있소, 하지만 그들의 수가 몇 명 되지 않소. 우리를 도와주어서 고맙소!
+dlga_doccinga_thonkrikca2:doccinga_thonkrikca3|마을의 젊은 사람들과 왕의 병사들이 황소 목 스벤의 공격을 막으러 해변에 모여 있소, 하지만 그들의 수가 몇 명 되지 않소. 우리를 도와주어서 고맙소!
 dlga_doccinga_thonkrikca3:doccinga_thonkrikca4|드디어 스벤이 눈 앞에 왔군. 그가 나에게 한 짓에 대한 대가를 그가 치루게 만들 것이오!
 dlga_doccinga_thonkrikca3:doccinga_thonkrikca5|당신의 야를인 {s4}은 지금 어디에 있소?
 dlga_doccinga_thonkrikca4:doccinga_thonkrikca3|{s2}^^저 보트는 확실히 스벤의 것이 맞소, 스벤은 항상 저 선박을 몰고 다녔지. 하지만 이 많은 병력들은... 나는 스벤이 이렇게 많은 병력들로 마을을 공격한다는 것에 대해 결코 들어보지 못했소, 이건 일반적인 약탈이 아니오, 이건 침공이오!
 dlga_doccinga_thonkrikca5:doccinga_thonkrikca51|내가 알기로 {s4}은 오지 않을 거요, 우리는 그에게 몇 명의 전령을 보냈소, 왕과 당신에게도, 하지만 그는 오지 않았소.^^보통 나는 이런 문제에 대해서 공개적으로 이야기하지 않지만, 그 덴마크 놈은 큰 골칫거리요! 하지만 지금은 바로 그의 손에 우리 마을 사람들의 목숨이 달려 있지. 그러나 사실, 나는 이 모든 일이 그가 계획한 일들의 일부가 아닐까 의심하고 있소.
-dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^나는 야를의 집에서 일하는 사람을 한 명 알고 있소. 그리고 그는 그가 프리지아의 왕위를 찬탈하려는 야망을 가지고 있다는 소문을 나한테 이야기한 적이 있소... 나는 사실 이 이야기를 별로 하고 싶지 않았지만, 황소목 스벤은 예전에 그 곳에 간 적이 있었소.^나는 이 보트에 타고 온 병력들이 야를이 스벤의 전사들을 이용해 왕위를 찬탈하기 위한 병력일까 두렵소, 아직까지는 모든 내용은 전부 다 내 가설에 불과할 뿐이지만 말이오.
+dlga_doccinga_thonkrikca51:doccinga_thonkrikca6|{s2}^^나는 야를의 집에서 일하는 사람을 한 명 알고 있소. 그리고 그는 그가 프리지아의 왕위를 찬탈하려는 야망을 가지고 있다는 소문을 나한테 이야기한 적이 있소... 나는 사실 이 이야기를 별로 하고 싶지 않았지만, 황소 목 스벤은 예전에 그 곳에 간 적이 있었소.^나는 이 보트에 타고 온 병력들이 야를이 스벤의 전사들을 이용해 왕위를 찬탈하기 위한 병력일까 두렵소, 아직까지는 모든 내용은 전부 다 내 가설에 불과할 뿐이지만 말이오.
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca71|흐로덜프! 이 망할 배신자 같으니, 그는 나를 이용해먹었어!
 dlga_doccinga_thonkrikca6:doccinga_thonkrikca72|그 이야기는 나중에 하시오, 지금은 스벤의 병력의 침공을 막아야만 하오.
 dlga_doccinga_thonkrikca71:doccinga_thonkrikca72|당신은 그에 대해서 주의할 필요가 있소, 그는 위험한 남자요.
@@ -5503,7 +5503,7 @@ dlga_doccinga_interrogation_1:doccinga_interrogation_12|당신은 저 포로를 
 dlga_doccinga_interrogation_12:doccinga_interrogation_mu|그를 죽이시오! 그는 살인자고, 살아있을 가치가 없는 쓰레기요.
 dlga_doccinga_interrogation_12:doccinga_interrogation_mu.1|그를 풀어주시오, 나는 그가 흘린 피가 우리의 영혼을 무겁게 만드는 것을 원치 않소.
 dlga_doccinga_interrogation_mu:doccinga_interrogation_11|당신 뜻대로 하겠소, 당신은 이제 어떻게 할 생각이오?
-dlga_doccinga_interrogation_11:doccinga_interrogation_2|이 곳, 프리지아에서는 더 이상 내가 원하는 것을 얻을 수 없을 것이오. 당장은 이 곳에서 생긴 나의 강력한 적에게 대항할 수 없을 것 같소, 손크릭. 내게 가장 중요한 일은 내 어머니요, 나는 그녀를 구해야만 하오. 나는 덴마크로 가는 배편을 구해서 황소목 스벤을 찾아내고야 말 것이오. 어쩌면 우리가 다시는 만날 수 없을 지도 모르겠소...
+dlga_doccinga_interrogation_11:doccinga_interrogation_2|이 곳, 프리지아에서는 더 이상 내가 원하는 것을 얻을 수 없을 것이오. 당장은 이 곳에서 생긴 나의 강력한 적에게 대항할 수 없을 것 같소, 손크릭. 내게 가장 중요한 일은 내 어머니요, 나는 그녀를 구해야만 하오. 나는 덴마크로 가는 배편을 구해서 황소 목 스벤을 찾아내고야 말 것이오. 어쩌면 우리가 다시는 만날 수 없을 지도 모르겠소...
 dlga_doccinga_interrogation_2:doccinga_interrogation_3|나는 당신이 언젠가 돌아올 거라고 믿고 있겠소.
 dlga_doccinga_interrogation_3:doccinga_interrogation_31|그렇소, 나는 군대를 모아 이 곳으로 돌아올 것이오. 켄네머의 야를과 프리지아의 왕은 내게 한 짓에 대한 대가를 치루게 될 것이오.
 dlga_doccinga_interrogation_3:doccinga_interrogation_32|아니, 나는 이 땅을 증오하오. 당신은 다시는 나를 볼 수 없을 것이오.

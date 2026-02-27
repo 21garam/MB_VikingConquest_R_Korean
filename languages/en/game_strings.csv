@@ -2836,65 +2836,65 @@ str_resolve_dispute_description|분쟁을 중재하여 나의 입지를 다지�
 str_feast_wedding_opportunity| 당신의 약혼자와 그녀의 가족이 참석한다면, 이번 연회는 당신의 결혼을 축하할 수 있는 좋은 기회가 될 것입니다.
 str_s21_the_s8_declared_war_as_part_of_a_bid_to_conquer_all_calradia|{s21}. {s8}은(는) 이 땅 전체를 정복하려는 야망의 일환으로, 아주 빈약한 구실을 내세워 전쟁을 선포했소.
 str_master_vinter|장인 빈터
-str_s54_has_left_the_realm|{s54}는 노스란드를 떠났습니다
+str_s54_has_left_the_realm|{s54}는 노스란드를 떠났습니다.
 str_enterprise_s5_at_s0|{s0} {s5}의 순수익
 str_bread_site|풍차와 제분소
 str_ale_site|에일 양조장
 str_tar_kiln|타르 제작소
-str_wine_cellar|프랑키아 와인 수입상
-str_tool_site|주조소
-str_leather_site|무두장
-str_linen_site|마직물 직조장
+str_wine_cellar|프랑키아산 와인 수입 창고
+str_tool_site|철공소
+str_leather_site|무두질 작업장
+str_linen_site|아마포 직조소
 str_wool_cloth_site|모직물 직조장
 str_velvet_site|염색소
-str_under_sequestration|압류 상태
-str_describe_secondary_input| 게다가, 당신은 또 {reg10} 페닝의 가치가 있는 {s11}을(를) 구매할 필요가 있습니다.
+str_under_sequestration|압류됨
+str_describe_secondary_input| 또한 {reg10} 페닝 상당의 {s11}을(를) 추가로 구매해야 하오.
 str_profit|이익
 str_loss|손실
 str_server_name_s0|서버 이름: {s0}
 str_map_name_s0|지도 이름: {s0}
 str_game_type_s0|게임 타입: {s0}
 str_remaining_time_s0reg0_s1reg1|남은 시간: {s0}{reg0}:{s1}{reg1}
-str_you_are_a_lord_lady_of_s8_s9|당신은 {s8}의 {reg59?영주:아가씨}입니다.^{s9}
+str_you_are_a_lord_lady_of_s8_s9|당신은 {s8}의 {reg59?귀부인:영주} 입니다.^{s9}
 str_you_are_king_queen_of_s8_s9|왕국: {s8}.^{s9}
-str_you_are_a_lord_lady_of_s18_s19|{reg59?Lady:Lord} of the {s18}.^{s19}
-str_you_are_king_queen_of_s18_s19|Kingdom: {s18}.^{s19}
-str_for_s4| for {s4}
-str_cancel_fiancee_quest| 또한, 당신은 당신이 성공적으로 완수할 수 있도록 내가 요청한 다른 문제에 대해서도 즐거운 마음으로 고려해야 하오. 당신의 일을 나에게 위임하는 것은 적절하지 않소.
+str_you_are_a_lord_lady_of_s18_s19|{s18}의 {reg59?귀부인:영주} 입니다.^{s19}
+str_you_are_king_queen_of_s18_s19|왕국: {s18}.^{s19}
+str_for_s4|{s4}을(를) 위해
+str_cancel_fiancee_quest| 또한 내가 요청했던 다른 일은 성공적으로 해결된 것으로 간주하겠소. 그대에게 번거로운 과업을 맡기는 것은 이제 적절치 않은 듯하오.
 str_a_duel_request_is_sent_to_s0|{s0}에게 결투 신청을 합니다.
 str_s0_offers_a_duel_with_you|{s0}(으)로 부터 결투 신청이 왔습니다.
 str_your_duel_with_s0_is_cancelled|당신과 {s0}의 결투가 취소되었습니다.
 str_a_duel_between_you_and_s0_will_start_in_3_seconds|당신과 {s0}의 결투가 3초 이내로 시작될 것입니다.
-str_you_have_lost_a_duel|당신은 결투에 졌습니다.
-str_you_have_won_a_duel|당신은 결투에서 이겼습니다!
+str_you_have_lost_a_duel|결투에 졌습니다.
+str_you_have_won_a_duel|결투에서 이겼습니다!
 str_server_s0|[서버]: {s0}
 str_disallow_ranged_weapons|원거리 무기 사용금지
 str_ranged_weapons_are_disallowed|원거리 무기가 사용 금지 되었다.
 str_ranged_weapons_are_allowed|원거리 무기가 사용 허가 되었다.
-str_duel_starts_in_reg0_seconds|결투가 {reg0}초 이내에 시작...
-str_circunvalation_none|>> 더 이상 봉쇄는 없을 것입니다, 그리고 이제 포위되었던 곳으로 병력과 보급품이 자유롭게 드나들 수 있을 것입니다.^^
-str_water_poison_im|당신의 병력들은 우물과 다른 수원지에 죽은 쥐를 던저 식수원을 오염시켰습니다, 이제 그 곳의 수비대와 주민들은 질병에 시름시름 앓게 될 것입니다.
-str_cattle_kill_im|당신의 병력들은 이 근처 마을에 있는 가축들을 죽였습니다. 즉, 그들이 보유한 식량은 크게 줄어들었습니다.^^더불어, 이것은 이 곳을 지배하고 있는 영주의 명성과 세금에 치명타를 줄 것입니다.
-str_people_morale_im|당신의 병력들은 소문을 퍼트렸고, 광장에서 밤에 몰래 일부 지역 주민의 시체를 남겨두고, 더불어 수비병들간의 불화를 조장했습니다. 이 덕분에 수비대에서 일부 병력이 탈영해 당신의 부대에 합류할 것입니다.
-str_food_burn_im|당신의 병력들은 식량 창고를 불태울 수 있었습니다. 이제 그들은 식량을 잃고 배를 곯을 것입니다.
-str_give_order|명령을 내립니다.
-str_no_money|당신은 충분한 돈을 가지고 있지 않습니다!
+str_duel_starts_in_reg0_seconds|결투 시작 {reg0}초 전...
+str_circunvalation_none|>> 봉쇄가 해제되었습니다. 그리고 이제 병력과 보급품이 자유롭게 드나들 수 있습니다.^^
+str_water_poison_im|부하들에게 우물과 수원지에 죽은 쥐를 던져 식수를 오염시도록 할 수 있습니다. 그리하면 수비대와 주민들이 병들어 시름시름 앓게 될 것입니다.
+str_cattle_kill_im|부하들에게 이곳과 인근 마을의 가축을 도살하게 합니다. 이는 적의 식량 비축량을 크게 줄일 것입니다.^^또한, 이는 이곳을 지배하는 영주의 명성과 수입에 큰 타격을 줄 것입니다.
+str_people_morale_im|부하들에게 소문을 퍼뜨리고 밤중에 광장에 주민의 시신을 내버려 두어 수비대 내부에 불화를 조장하게 할 수 있습니다. 이로 인해 적 수비대원 일부가 탈영하여 우리 쪽으로 귀순할 수도 있습니다.
+str_food_burn_im|부하들에게 적의 곡창지대를 불태우도록 할 수 있습니다. 이는 적의 식량 보급에 치명적인 피해를 줄 것입니다.
+str_give_order|그렇게 하도록 명령을 내립니다.
+str_no_money|충분한 돈을 가지고 있지 않습니다!
 str_hold|닻을 내리고 여기에 정박합니다!
 str_skirmish|적과 교전을 시작합니다!
 str_board|적들의 배에 올라타 백병전을 시작합니다!
 str_numberofships|{reg60}
-str_retreat_in_face_of_enemy|당신은 당신의 병력들에게 다음 공격을 위해 후퇴하라고 명령을 내렸습니다.^당신의 병사들은 불평했습니다.^그들은 당신이 듣고 있음에도 아랑곳 없이 이야기했고, 그들 중 일부는 당신이 겁쟁이가 아니냐며 불평했습니다.
-str_retreat_from_fortress|당신은 당신의 병력들에게 공격을 중지하고 후퇴하라고 명령을 내렸습니다.^모두 성에 대한 사격을 멈추고 뒤로 후퇴하기 시작했고, 적들은 당신의 사다리를 부수는 데 성공했습니다.^당신의 병력들은 이에 대해 화가 나 있습니다; 그들은 이 공격이 무산된 것과 그로 인해 준비한 것을 허사로 돌린 것에 대해 불평하고 있습니다.
-str_retreat_not_dead|당신은 당신의 병력들에게 후퇴를 명령했지만, 전술적으로 봤을 때 그건 가망이 없는 일이었습니다.^당신의 병력들은 전투에서 패배했습니다; 당신의 병력들은 당신에게 불평을 대놓고 이야기하고 있으며, 일부는 당신의 지도력을 의심하고 불평하고 있습니다.
-str_s7_scouts|픽트 정찰병
-str_s7_foragers|습격자
-str_s7_northern_picts|북쪽에서 온 픽트인 습격대
-str_raise_relation_with_village_tavern_built|{s1}의 마을 주민들은 행복한 상태입니다! 선술집을 건설하는 것은 그들의 충성심을 굳게 만들 수 있을 것입니다.
-str_the_sun_rises|해가 떴습니다
-str_the_sun_sets|해가 가라앉았습니다.
+str_retreat_in_face_of_enemy|부하들에게 더 유리한 위치를 선점하기 위해 후퇴하라고 명령을 내렸습니다.^부하들이 투덜거립니다.^그들은 당신이 듣지 못한다고 생각하는지, 당신이 겁쟁이가 아니냐며 수근댑니다.
+str_retreat_from_fortress|부하들에게 공격을 중지하고 후퇴하라고 명령을 내렸습니다.^^모두가 성벽의 화살 사거리 밖으로 물러났고, 적들은 우리측의 공성 사다리를 파괴했습니다.^부하들은 이 결정에 상심했습니다. 공격 위치를 찾고 준비하느라 들인 노력이 헛수고가 된 것에 분개하고 있습니다.
+str_retreat_not_dead|전술적으로 볼 때 승산이 없다는 판단하에, 부대에 퇴각을 명령했습니다.^아군은 이번 전투에서 패배했습니다. 부하들은 당신의 결단력 부족에 대해 노골적으로 불만을 표출하고 있으며, 일부는 당신의 지도력까지 의심하고 있습니다. 군기를 확립하기 위한 조치가 필요해 보입니다.
+str_s7_scouts|픽트족 정찰대
+str_s7_foragers|징발대
+str_s7_northern_picts|북부 픽트족 약탈대
+str_raise_relation_with_village_tavern_built|{s1}의 마을 주민들이 기뻐하고 있습니다! 선술집을 건설한 덕분에 그들의 충성심 또한 깊어지고 있습니다.
+str_the_sun_rises|해가 떴습니다.
+str_the_sun_sets|해가 저뭅니다.
 str_it_is_noon|정오가 되었습니다.
 str_it_is_midnight|자정이 되었습니다.
-str_iniau_the_banished|A man known to the name of Iniau has insulted king Rhoedd. He used to be a member of Rhoedd's teulu, and he is a skilled fighter. Rhoedd wants you to find out Iniau and slay him. As a proof, you must bring back his horn to Rhoedd. Iniau has taken refuge in the land of Llan Heledd.
+str_iniau_the_banished|이니아우라 불리는 자가 로이드 왕을 모욕했소. 그는 숙련된 전사이자 왕의 근위병인 테일루 였으나 이제는 추방자가 되었소. 로이드는 그대가 이니아우를 찾아 처단하기를 원하오. 증거로 그의 뿔피리를 가져와야 하오. 이니아우는 란 헬레드 땅으로 망명했소.
 str_busse|부세
 str_skeid|스케이드
 str_karvi|카르비
@@ -2903,7 +2903,7 @@ str_knorr|노르
 str_byrding|비르딩
 str_ship_wood_1|참나무
 str_ship_wood_2|소나무
-str_ship_wood_3|너도밤나무
+str_ship_wood_3|물푸레나무
 str_ship_name_1|트란난
 str_ship_name_2|오르무린 스카마
 str_ship_name_3|오르무린 랑기
@@ -2928,59 +2928,59 @@ str_ship_name_21|야르다콜라
 str_ship_name_22|알프트르
 str_ship_name_23|세울프르
 str_ship_names_end|ship names end
-str_cant_set_sail|당신은 이 선박에 탈 수 없습니다. 당신의 선박은 {reg3}명의 병력들을 수용할 만한 공간이 없습니다.
-str_ship_tutorial_0|이 튜토리얼에서 당신은 배를 조정하는 방법을 배우게 될 것입니다. 당신은 이 시간에 승무원에게 명령하는 방법을 배울 것이고, 빠른 속도로 배워 해전에서 냉정함을 유지할 수 있게 될 것입니다.^^(K 키를 누르시오.)
-str_ship_tutorial_1|해전에서 멀리 보고 싶다면 시점을 조정해야 할 것입니다.^^(백스페이스 키를 눌러 시점을 조정할 수 있습니다.)
-str_ship_tutorial_2|당신은 마우스를 움직여서 주변 상황을 둘러볼 수 있을 것입니다, 만약 당신이 원래 시점으로 돌아오고 싶다면 다시 백스페이스 키를 누르면 될 것입니다.^^(K 키를 누르시오.)
-str_ship_tutorial_3|만약 당신이 선박을 이동시키고 싶다면, 당신은 선원들에게 명령할 수 있을 것입니다. 그리고 당신이 더 많은 승무원들을 태운다면 배의 속도도 더 빨라질 것입니다.^^당신은 위쪽 십자키와 아랫쪽 십자키를 이용해 배를 앞으로 움직거나, 뒤로 움직거나, 혹은 정지시킬 수도 있을 것입니다 (위쪽 십자키와 아래쪽 십자키를 눌러 보시오.).^^당신이 현재 내린 명령은 배의 오른쪽 상단에 위치한 장식 앞 뒤의 화살표 방향을 통해 알 수 있습니다. 다른 조정 명령도 내려보는 것이 좋을 것입니다!
-str_ship_tutorial_4|만약 당신이 선박을 이동시키고 싶다면, 당신은 선원들에게 명령할 수 있을 것입니다. 그리고 당신이 더 많은 승무원들을 태운다면 배의 속도도 더 빨라질 것입니다.^^당신은 위쪽 십자키와 아랫쪽 십자키를 이용해 배를 앞으로 움직거나, 뒤로 움직거나, 혹은 정지시킬 수도 있을 것입니다 (위쪽 십자키와 아래쪽 십자키를 눌러 보시오.).^^당신이 현재 내린 명령은 배의 오른쪽 상단에 위치한 장식 앞 뒤의 화살표 방향을 통해 알 수 있습니다. 다른 조정 명령도 내려보는 것이 좋을 것입니다!^^(K 키를 누르시오.)
-str_ship_tutorial_5|만약 당신이 직접 선박을 움직이고 싶은 경우, 키잡이에게 명령해야만 할 것입니다. 당신은 오른쪽 십자키와 왼쪽 십자키를 이용해 배를 우현, 좌현등으로 선회시킬 수 있습니다. (오른쪽 십자키와 왼쪽 십자키를 눌러 보시오.).^^당신이 현재 내린 명령은 배의 오른쪽 상단에 위치한 장식에 달린 양 옆의 화살표 방향을 통해 알 수 있습니다. 당신의 키잡이에게 다른 조정 명령도 내려보는 것이 좋을 것입니다!
-str_ship_tutorial_6|만약 당신이 직접 선박을 움직이고 싶은 경우, 키잡이에게 명령해야만 할 것입니다. 당신은 오른쪽 십자키와 왼쪽 십자키를 이용해 배를 우현, 좌현등으로 선회시킬 수 있습니다. (오른쪽 십자키와 왼쪽 십자키를 눌러 보시오.).^^당신이 현재 내린 명령은 배의 오른쪽 상단에 위치한 장식에 달린 양 옆의 화살표 방향을 통해 알 수 있습니다. 당신의 키잡이에게 다른 조정 명령도 내려보는 것이 좋을 것입니다!^^(K 키를 누르시오.)
-str_ship_tutorial_7|만약 바람의 방향이 유리하다면, 당신은 돛을 펴도록 명령할 수 있을 것입니다, 돛을 펴거나 접기 위해서는 엔터키를 누르면 됩니다, 하지만 바람의 방향이 당신에게 유리하지 않다면, 당신은 돛을 접어야 할 것입니다. (엔터키를 눌러 보시오). 당신의 돛이 펴져 있는지, 접혀 있는지에 대한 여부는 배의 오른쪽 상단에 위치한 장식의 배의 돛의 형상을 통해 알 수 있습니다. 그리고 현재 부는 바람의 방향이 장식의 파란 색 깃발로 표시될 것입니다. 돛을 펴거나 접어보는 것이 좋을 것입니다!
-str_ship_tutorial_8|만약 바람의 방향이 유리하다면, 당신은 돛을 펴도록 명령할 수 있을 것입니다, 돛을 펴거나 접기 위해서는 엔터키를 누르면 됩니다, 하지만 바람의 방향이 당신에게 유리하지 않다면, 당신은 돛을 접어야 할 것입니다. (엔터키를 눌러 보시오). 당신의 돛이 펴져 있는지, 접혀 있는지에 대한 여부는 배의 오른쪽 상단에 위치한 장식의 배의 돛의 형상을 통해 알 수 있습니다. 그리고 현재 부는 바람의 방향이 장식의 파란 색 깃발로 표시될 것입니다. 돛을 펴거나 접어보는 것이 좋을 것입니다!^^(K 키를 누르시오.)
-str_ship_tutorial_9|이제 당신은 배를 조정하기 위한 기본적인 조작법에 대해 알게 되었을 것입니다. 만약 당신이 해전에서 적의 선박에 올라타고 싶을 경우, 적의 선박 가까이에 당신의 선박을 대면 당신의 선원들의 그들의 선박에 올라타 백병전을 시작할 것입니다.^^지금, 당신이 원하는 만큼 배의 조작을 시도해 보세요. 원하는 만큼 조작을 해 보았다면, 다시 해변 가까이에 배를 대면 될 것입니다!
+str_cant_set_sail|출항할 수 없습니다. 부대의 규모가 함대의 수용량 보다 {reg3}명 많습니다.
+str_ship_tutorial_0|이 튜토리얼에서는 선박 조종법을 배우게 될 것입니다. 승무원에게 명령을 내리는 법을 익혀 급박한 해전에서도 평정심을 유지할 수 있도록 하십시오.^^(계속하려면 K 키를 누르시오.)
+str_ship_tutorial_1|해전에서는 전황을 넓게 파악하는 것이 도움이 될 것입니다.^^(백스페이스 키를 누르면 시점을 전환할 수 있습니다.)
+str_ship_tutorial_2|마우스를 움직여 주변을 둘러볼 수 있으며, 다시 백스페이스 키를 누르면 원래 시점으로 돌아옵니다.^^(계속하려면 K 키를 누르시오.)
+str_ship_tutorial_3|배를 움직이려면 승무원들에게 노를 젓도록 명령해야 합니다. 승무원이 많을수록 노를 저어 얻는 속도도 빨라집니다.^^'전진', '전속 전진', '정지', '후진' 명령을 내릴 수 있습니다. 위/아래 방향키를 눌러 명령을 전환해 보십시오.^^현재 명령은 화면 우측 상단 선박 표시의 위아래 화살표로 표시됩니다. 다양한 노 젓기 명령을 내려보십시오!
+str_ship_tutorial_4|배를 움직이려면 승무원들에게 노를 저으라 명령해야 하합니다. 승무원이 많을수록 더 빠른 속도를 낼 수 있습니다.^^위/아래 방향키로 전진, 전속 전진, 정지, 후진 명령을 전환할 수 있습니다.^^현재 명령은 우측 상단 선박 UI의 화살표로 표시됩니다. 여러 명령을 시도해 보십시오!^^(계속하려면 K 키를 누르시오.)
+str_ship_tutorial_5|선박의 방향을 바꾸려면 키잡이에게 명령을 내려야 합니다. '직진', '우현', '급우현', '좌현', '급좌현' 명령이 가능합니다. 왼쪽/오른쪽 방향키를 눌러 명령을 전환해 보십시오.^^현재 명령은 화면 우측 상단 선박 표시의 좌우 화살표로 표시됩니다. 키잡이에게 다양한 방향 명령을 내려보십시오!
+str_ship_tutorial_6|선박의 방향을 바꾸려면 키잡이에게 명령을 내려야 합니다. 좌/우 방향키로 직진, 우현, 급우현, 좌현, 급좌현 명령을 내릴 수 있습니다.^^현재 명령은 UI 상의 좌우 화살표로 표시됩니다. 방향 전환을 연습해 보십시오!^^(계속하려면 K 키를 누르시오.)
+str_ship_tutorial_7|순풍이 불 때는 돛을 펼치라는 명령을 내릴 수 있지만, 역풍이 불 때는 돛을 접어야 합니다. 엔터(ENTER) 키를 눌러 돛을 펴거나 접으십시오. 현재 상태는 우측 상단 선박 표시의 돛 모양으로 알 수 있습니다. 파란 깃발은 현재 바람이 부는 방향을 알려줍니다. 돛을 펼치거나 접어보십시오!
+str_ship_tutorial_8|바람이 선박의 진행 방향과 같으면 돛을 펴고, 역풍일 때는 돛을 접으십시오. 엔터 키로 돗을 펼치거나 접을 수 있습니다. UI의 돛 모양과 파란 깃발로 현재 돛 상태와 풍향을 확인할 수 있습니다.^^(계속하려면 K 키를 누르시오.)
+str_ship_tutorial_9|이제 선박 조종에 필요한 기본 명령을 익혔습니다. 해전에서 적선에 승선하여 백병전을 벌이고 싶다면 그저 적선에 바짝 붙으면 됩니다. 이후의 일은 승무원들이 알아서 수행할 것 입니다.^^이제 자유롭게 배를 조작해 보십시오. 그리고 떠날 준비가 되었다면 배가 정박되어 있던 해변으로 돌아가 배를 정박시키면 됩니다!
 str_trait_1|광전사
 str_trait_2|격려
 str_trait_3|불굴
 str_trait_4|강인함
-str_s12s15_dominates_its_weaker_neighbor_s16|{s12}{s15}은(는) {reg4?그녀:그}의 약한 이웃인 {s16}을(를) 지배하려 하고 있습니다.
-str_s12s15_acts_to_drive_the_people_of_s16_and_their_like_out_of_the_isles|{s12}{s15}은(는) {s16}을(를) 섬들에게서 쫓아내려 하고 있습니다!
+str_s12s15_dominates_its_weaker_neighbor_s16|{s12}{s15}은(는) 약한 이웃인 {s16}을(를) 지배하려 하고 있습니다.
+str_s12s15_acts_to_drive_the_people_of_s16_and_their_like_out_of_the_isles|{s12}{s15}은(는) {s16}의 백성과 그 일족을 섬에서 몰아내려 하고 있습니다!
 str_none|없음
 str_camp_pillage| 적이 야영지에 들어왔습니다!
-str_camp_pillage2| 적이 당신의 야영지의 보관함에 접근해, 돈을 훔쳤습니다!^{s4} 페닝을 잃었습니다.
-str_capitan_mode_started|Reconnaissance Round: Explore the terrain and kill enemy champions. In the next round, your troops will come!
-str_capitan_mode_started2|Battle Round! Lead your troops to victory!
-str_armamento_pesado|Buy heavy armour. This will allow you to choose medium and heavy infantry from the inventory menu.
-str_acceso_caballeria|Buy horses. This will allow you to choose medium and heavy cavalry from the inventory menu.
-str_buy_tropas|My lord, choose your army:
-str_nopuedes_comprar|You are not a lord or captain,^so you may not choose troops.
-str_numero_hombres|Number of warriors to hire:
-str_initial_gold_multiplierboth|Basic silver both teams (%):
-str_initial_gold_multipliert1|Team 1 Extra silver for troop wages (%):
-str_initial_gold_multipliert2|Team 2 Extra silver for troop wages (%):
-str_choose_a_captain|Choose a troop class:
-str_lords_battle_explanation|Press ESC to start game.^^In this game, you will be able to choose one of two types of troops:^^Lords represent the leaders of armies. They have access to armies as well as quality weapons. If you are a lord, then money that you don't spend on equipment will buy troops. Each basic troop costs 50 coins, but above level 21, it costs 100. If a unit is above level 25, each additional level costs you +30 coins. If a unit has a horse, +50 coins.^^Elite warriors represent the most prestigious army troops. Choosing this allows you to be a standard bearer, musician, scout, messenger, adviser or bodyguard, among other things. If you are an elite troop, there is no need to worry about recruiting troops. Spend all your money equipping the best gear. Also, if the lords fall, the task of leading the troops will fall upon you.
-str_your_men_break_off_the_siege_of_s10_to_follow_you|당신의 병력들이 당신을 따라 {s10}의 포위 공격을 끝냈습니다.
-str_if_you_get_too_far_from_s10_your_siege_will_end|만약 당신이 {s10}에서 너무 멀리 떨어진다면, 당신의 공성은 끝날 것입니다.
-str_the_s0_in_s4_has_been_completed|{s4}에서 {s0}의 건축이 끝났습니다.
-str_s5_sends_word_that_your_betrothal_is_ended|{s5}은(는) 당신의 약혼이 파기되었다고 알려 왔습니다!
-str_you_dont_have_enough_money_to_continue_training_troops_at_s10|당신은 {s10}을(를) 계속 훈련하기 위한 자금이 충분하지 않습니다.
-str_at_s10_has_promoted_reg5_reg6s8_to_s9s6_to_s7|at {s10} has promoted {reg5} {reg6?{s8} to {s9}:{s6} to {s7}}.
-str_good_news_our_foragers_found_much_meat|좋은 소식입니다! 당신이 약탈하러 보낸 병사들이 고기를 발견했습니다.
-str_our_foragers_have_returned_after_getting_some_food|당신이 약탈하러 보낸 병사들이 인근 마을에서 식량을 약탈하고 돌아왔습니다, 하지만 마을 사람들은 당신에게 분노할 것입니다.
-str_bad_news_our_foragers_didnt_find_food_today|나쁜 소식입니다! 당신이 약탈하러 보낸 병사들이 식량을 구하지 못했습니다.
-str_very_bad_news_our_foragers_were_attacked|아주 나쁜 소식입니다! 당신이 약탈하러 보낸 병사들이 분노한 마을 주민들에게 공격받았습니다! 당신은 2명에서 4명 사이의 병력을 잃었습니다.
-str_your_scouts_are_exploring_enemy_territory|당신의 정찰병들이 적의 영토를 정찰하고 있습니다.
-str_very_bad_news_our_scouts_were_attacked|아주 나쁜 소식입니다! 당신의 부대의 정찰병들이 공격받았고, 당신은 2명에서 4명 사이의 병력을 잃었습니다.
-str_you_hear_rumors_of_discontent_among_your_men|당신은 당신의 부대의 병력들의 불만에 대해 들었습니다. 당신은 그들에게 군기를 세우기 위해 조치를 취해야만 합니다.
-str_i_dont_have_enough_money|당신은 자금이 충분하지 않습니다!
-str_forget_it|떠납니다.
-str_you_need_to_improve_your_refuge_first|먼저 당신의 은신처를 보강해야 합니다.
-str_you_have_suffered_a_serious_injury_to_your|당신은 부상을 입었습니다!
-str_it_will_be_permanent_in_reg1_days|이 부상은 {reg1}일간 치료하지 않을 경우 영구적인 부상이 될 것입니다.
+str_camp_pillage2| 적이 야영지에 침입하여 보물 상자에 손을 댔습니다!^{s4} 페닝을 잃었습니다.
+str_capitan_mode_started|정찰 라운드: 지형을 탐색하고 적의 챔피언들을 처치하십시오. 다음 라운드에 아군 병력이 도착할 것입니다!
+str_capitan_mode_started2|전투 라운드! 병사들을 이끌고 승리를 쟁취하십시오!
+str_armamento_pesado|중갑을 구매하십시오. 이제 인벤토리 메뉴에서 중보병을 선택할 수 있습니다.
+str_acceso_caballeria|말을 구매하십시오. 이제 인벤토리 메뉴에서 중기병을 선택할 수 있습니다.
+str_buy_tropas|부대를 선택하십시오, 주군:
+str_nopuedes_comprar|당신은 군주 또는 지휘관이 아닙니다.^따라서 부대를 선택할 수 없습니다.
+str_numero_hombres|고용할 전사 수:
+str_initial_gold_multiplierboth|양 팀 기본 은화 (%):
+str_initial_gold_multipliert1|1팀 부대 임금 추가 은화 (%):
+str_initial_gold_multipliert2|2팀 부대 임금 추가 은화 (%):
+str_choose_a_captain|병종을 선택하시오:
+str_lords_battle_explanation|ESC를 눌러 게임을 시작하십시오.^^이 모드에서는 두 가지 유형의 부대를 선택할 수 있습니다.^^군주는 군대의 지도자로서 군대를 지휘하고 양질의 무기를 사용할 수 있습니다. 군주를 선택하면 장비에 쓰고 남은 돈으로 병사를 고용할 수 있습니다. 기본적인 병사의 비용은 은화 50개, 21레벨을 초과하는 병사는 100개, 25레벨을 초과하는 병사는 각 레벨마다 30개의 추가 비용이 필요합니다. 말을 타는 병사는 비용이 50개 더 비쌉니다.^^정예 전사는 군대의 가장 명망 높은 병사를 의미합니다. 기수, 악사, 정찰병, 전령, 조언자 또는 근위병 등의 역할을 수행할 수 있습니다. 정예 전사는 병사 모집을 신경 쓸 필요 없이 모든 돈을 최고의 장비를 갖추는 데 사용하면 됩니다. 또한 군주가 쓰러지면 정예 전사가 병사들을 이끌어야 합니다.
+str_your_men_break_off_the_siege_of_s10_to_follow_you|부대원들이 {s10}의 포위를 풀고 당신을 따릅니다.
+str_if_you_get_too_far_from_s10_your_siege_will_end|{s10}에서 너무 멀어지면 공성 상태가 해제됩니다.
+str_the_s0_in_s4_has_been_completed|{s4}에 {s0} 건축이 완료되었습니다.
+str_s5_sends_word_that_your_betrothal_is_ended|{s5}측에서 약혼이 파기되었다는 전갈을 보내왔습니다!
+str_you_dont_have_enough_money_to_continue_training_troops_at_s10|{s10}에서 병사들을 계속 훈련할 자금이 부족합니다.
+str_at_s10_has_promoted_reg5_reg6s8_to_s9s6_to_s7|{s10}에서 {reg5}명의 {reg6?{s8}을(를) {s9}(으)로:{s6}을(를) {s7}(으)로} 승급시켰습니다.
+str_good_news_our_foragers_found_much_meat|좋은 소식입니다! 우리의 징발대가 고기를 찾아냈습니다.
+str_our_foragers_have_returned_after_getting_some_food|징발대가 인근 마을에서 식량을 구해 돌아왔습니다. 다만 마을 사람들은 우리에게 분노하고 있습니다.
+str_bad_news_our_foragers_didnt_find_food_today|나쁜 소식입니다! 징발대가 오늘은 식량을 찾지 못했습니다.
+str_very_bad_news_our_foragers_were_attacked|최악의 소식입니다! 징발대가 성난 마을 사람들에게 공격받아 2~4명의 병사를 잃었습니다.
+str_your_scouts_are_exploring_enemy_territory|정찰병들이 적의 영토를 정찰하고 있습니다.
+str_very_bad_news_our_scouts_were_attacked|최악의 소식입니다! 정찰병들이 공격받아 2~4명의 병사를 잃었습니다.
+str_you_hear_rumors_of_discontent_among_your_men|병사들 사이에 불만의 목소리가 들리고 있습니다. 꺾인 사기를 진작시키기 위해 조치를 취해야 합니다.
+str_i_dont_have_enough_money|자금이 충분하지 않습니다!
+str_forget_it|관둡니다.
+str_you_need_to_improve_your_refuge_first|먼저 은신처를 보강해야 합니다.
+str_you_have_suffered_a_serious_injury_to_your|당신은 심각한 부상을 입었습니다!
+str_it_will_be_permanent_in_reg1_days|치료하지 않으면 {reg1}일 후에 영구적인 장애로 남게 될 것입니다.
 str_it_will_be_cured_in_reg1_days|이 부상은 {reg1}일 뒤에 자연적으로 치료될 것입니다.
 str_go_to_the_lords_hall_s1|영주의 회당으로 갑니다{s1}.
-str_s9_wants_you_to_meet_with_s11|{s9}은(는) 당신이 {s3} 북쪽에 위치한 {s11}의 진영으로 가서 그를 도와주기를 원하고 있습니다. 그 동안에, {s9}은(는) 황소목 스벤의 배신에 대해서 알아보기로 했습니다.
+str_s9_wants_you_to_meet_with_s11|{s9}은(는) 당신이 {s3} 북쪽 진영에 있는 {s11}을(를) 만나 그를 도와주기를 바라고 있습니다. 그동안 {s9}은(는) '황소 목' 스벤의 배신에 대해 조사하기로 했습니다.
 str_inv_command_class_all|모두 선택
 str_inv_command_class_0|보병: {reg1}
 str_inv_command_class_1|궁병: {reg1}
@@ -2991,123 +2991,124 @@ str_inv_command_order_move|이동하라
 str_inv_command_order_use_any|재량에 따른 무기 사용
 str_inv_command_order_use_melee|근접 무기만 사용
 str_inv_command_order_use_ranged|원거리 무기만 사용
-str_norse_slave|Leysingja Levy Auxillary
-str_norse_bowman|Gestr Bowman
-str_norse_level0_landed|Bondi Levy Back
-str_norse_level1_landed|Drengr Levy 3rd Rank
-str_norse_level2_landed|Thegn Levy 2nd Rank
-str_norse_level3_landed|Hersi Levy 1st Rank
-str_norse_level0_companion|Hirdmann Hird Back
-str_norse_level1_companion|Rekkr Hird Mid
-str_norse_level2_companion|Huskarl Hird Front
-str_norse_elitearcher|Heimthegi Elite Archer
-str_briton_slave|Aillt Auxillary
-str_briton_bowman|Bweydd Bowman
-str_briton_marksman|Saethydd Marksman
-str_briton_level0_landed|Bonheddwr Levy Back
-str_briton_level1_landed|Pedyt Levy 3rd Rank
-str_briton_level2_landed|Gwrda Levy 2nd Rank
-str_briton_level3_landed|Uchelwr Levy 1st Rank
-str_briton_level0_companion|Cadwr Companion Back
-str_briton_level1_companion|Campiwr Companion Mid
-str_briton_level2_companion|Teulu Companion Front
-str_briton_horseman|Marchoc Horseman
-str_saxon_slave|Gebur Auxillary
-str_saxon_bowman|Sceotand Bowman
-str_saxon_level0_landed|Kotsetla Fyrd Back
-str_saxon_level1_landed|Geoguth Fyrd 3rd Rank
-str_saxon_level2_landed|Duguth Fyrd 2nd Rank
-str_saxon_level3_landed|Thegn Fyrd 1st Rank
-str_saxon_level0_companion|Geneata Companion Back
-str_saxon_level1_companion|Gesith Companion Mid
-str_saxon_level2_companion|Hearthweru Companion Front
-str_saxon_horseman|Ridwiga Horseman
-str_scotch_peasant|Petta Auxillary
-str_scotch_bowman|Fuidir Skirmisher
-str_scotch_level0_skirmisher|Saiogdear Skirmisher
-str_scotch_level1_skirmisher|Cruithne Skirmisher
-str_scotch_level0_landed|Bothach Levy Back
-str_scotch_level1_landed|Octhingern Levy Mid
-str_scotch_level2_landed|Diuberr Levy Mid
-str_scotch_level0_companion|Creach Sluach Companion Back
-str_scotch_level1_companion|Bruide Companion Back
-str_scotch_level2_companion|Gaisgidh Companion Front
-str_scotch_horseman|Each Raidh Horseman
-str_scotch_knight|Toisech Knight
-str_angle_slave|Gebur Auxillary
-str_angle_bowman|Sceotand Bowman
-str_angle_level0_landed|otsetla Fyrd Back
-str_angle_level1_landed|Geoguth Fyrd 3rd Rank
-str_angle_level2_landed|Duguth Fyrd 2nd Rank
-str_angle_level3_landed|Thegn Fyrd 1st Rank
-str_angle_level0_companion|Geneata Companion Back
-str_angle_level1_companion|Gesith Companion Mid
-str_angle_level2_companion|Hearthweru Companion Front
-str_angle_horseman|Ridwiga Horseman
-str_irish_slave|Senchleithe Auxillary
-str_irish_bowman|Fer Midboth Skirmisher
-str_irish_level0_skirmisher|Ceitherne Skirmisher
-str_irish_level1_skirmisher|Fian Skirmisher
-str_irish_level0_landed|Bothach Levy Back
-str_irish_level1_landed|Ocaire Levy 3rd Rank
-str_irish_level2_landed|Boaire Levy 2nd Rank
-str_irish_level3_landed|Airig Levy 1st Rank
-str_irish_level0_companion|Cliarthaire Companion
-str_irish_level1_companion|Curraidh Companion
-str_irish_horseman|Marcach Horseman
-str_irish_knight|Deaisbard Knight
+str_norse_slave|노스 레이싱기 보조병
+str_norse_bowman|게스트 궁병
+str_norse_level0_landed|본디 민병대 후열
+str_norse_level1_landed|드렝그르 민병대 3열
+str_norse_level2_landed|데인 민병대 2열
+str_norse_level3_landed|헤르시르 민병대 1열
+str_norse_level0_companion|히르드마르 친위대 후열
+str_norse_level1_companion|레크르 친위대 중열
+str_norse_level2_companion|허스칼 친위대 전열
+str_norse_elitearcher|헤임데기 정예 궁병
+str_briton_slave|아일트 보조병
+str_briton_bowman|브웨이드 궁병
+str_briton_marksman|사이디드 사수
+str_briton_level0_landed|본헤드워 민병대 후열
+str_briton_level1_landed|페디트 민병대 3열
+str_briton_level2_landed|구르다 민병대 2열
+str_briton_level3_landed|우켈워 민병대 1열
+str_briton_level0_companion|카드워 전우조 후열
+str_briton_level1_companion|캄피워 전우조 중열
+str_briton_level2_companion|테일루 전우조 전열
+str_briton_horseman|마코크 기병
+str_saxon_slave|게부르 보조병
+str_saxon_bowman|스콧탄드 궁병
+str_saxon_level0_landed|코트세틀라 민병대 후열
+str_saxon_level1_landed|게오구스 민병대 3열
+str_saxon_level2_landed|두구스 민병대 2열
+str_saxon_level3_landed|데인 민병대 1열
+str_saxon_level0_companion|게네아트 전사 후열
+str_saxon_level1_companion|게시스 전사 중열
+str_saxon_level2_companion|헤어스웨루 전사 전열
+str_saxon_horseman|리드위가 기병
+str_scotch_peasant|페타 보조병
+str_scotch_bowman|피디어 척후병
+str_scotch_level0_skirmisher|사이오그데어 투척병
+str_scotch_level1_skirmisher|크루이네 투척병
+str_scotch_level0_landed|보타흐 민병대 후열
+str_scotch_level1_landed|옥티게른 민병대 중열
+str_scotch_level2_landed|디우베르 민병대 중열
+str_scotch_level0_companion|크레아흐 슬루아흐 전사 후열
+str_scotch_level1_companion|브루이드 전사 후열
+str_scotch_level2_companion|가이스게다흐 전사 전열
+str_scotch_horseman|에아흐 라이드 기병
+str_scotch_knight|토이섹 기사
+str_angle_slave|게부르 보조병
+str_angle_bowman|스콧탄드 궁병
+str_angle_level0_landed|코트세틀라 민병대 후열
+str_angle_level1_landed|게오구스 민병대 3열
+str_angle_level2_landed|두구스 민병대 2열
+str_angle_level3_landed|데인 민병대 1열
+str_angle_level0_companion|게네아타 전우조 후열
+str_angle_level1_companion|게시스 전우조 중열
+str_angle_level2_companion|헤어스웨루 전우조 전열
+str_angle_horseman|리드위가 기병
+str_irish_slave|센흘레이허 보조병
+str_irish_bowman|페르 미드보흐 투척병
+str_irish_level0_skirmisher|케이데른 투척병
+str_irish_level1_skirmisher|피안 투척병
+str_irish_level0_landed|보타흐 민병대 후열
+str_irish_level1_landed|오카레 민병대 3열
+str_irish_level2_landed|보아레 민병대 2열
+str_irish_level3_landed|아레 민병대 1열
+str_irish_level0_companion|클리아르나흐 전우조
+str_irish_level1_companion|카우르 전우조
+str_irish_horseman|메르게아흐 기병
+str_irish_knight|데아이스바르드 기사
 str_multi_scene_coast|해안
 str_multi_scene_fjord|피오르드
 str_multi_scene_islands|섬
-str_set_goal_custom|내 소유
-str_set_goal_raider|불명예스러운 약탈자
-str_set_goal_warrior|명예로운 전사
+str_set_goal_custom|나만의 길
+str_set_goal_raider|악명 높은 약탈자
+str_set_goal_warrior|명성 높은 전사
 str_set_goal_lord|강력한 영주
 str_set_goal_king|강인한 왕
 str_set_goal_expand|안정된 왕국
 str_set_goal_custom_hint|자유 목표 설정
-str_set_goal_raider_hint|마을을 습격하고, 부락민들을 사냥하십시오. 누구도 당신으로부터 안전할 수 없습니다. 빠른 배를 타고 먼 땅으로 여행하며 안전한 피난처를 마련하십시오.
-str_set_goal_warrior_hint|당신은 위대한 전사로 알려지길 원합니다. 연회의 토너먼트 경기에서 싸우십시오. 부락민들을 보호하십시오. 도적떼를 물리치고 상단을 호위하십시오. 도시와 마을에서도 다양한 할 일들을 찾을 수 있겠지만, 당신에게 필요한 영광과 영애는 전장에서 태어난다는 것을 잊지 마십시오.
-str_set_goal_lord_hint|평범한 삶은 당신을 위한 것이 아닙니다. 당신은 귀족으로서 위대한 군대를 이끌고 당신이 소유한 땅들의 주인이자 군주로서 알려지길 바랍니다.
-str_set_goal_king_hint|당신의 야망엔 끝이 없습니다! 영광과 권력, 금을 위해 싸우십시오. 당신에겐 많은 적들이 생길 것이며, 당신의 영토 사방에서 쇄도할 위협에 맞설 준비를 해야만 합니다!
+str_set_goal_raider_hint|마을을 습격하고 부락민들을 사냥하십시오. 누구도 당신으로부터 안전할 수 없습니다. 빠른 배를 타고 먼 땅으로 여행하며 안전한 피난처를 마련하십시오.
+str_set_goal_warrior_hint|당신은 위대한 전사로 명성을 떨치길 원합니다. 연회의 토너먼트 경기에서 싸우십시오. 부락민들을 보호하십시오. 도적떼를 물리치고 상단을 호위하십시오. 정착지에서 할 일도 많지만, 진정한 영광은 전장에서 태어난다는 사실을 잊지 마십시오.
+str_set_goal_lord_hint|평범한 삶은 당신에게 어울리지 않습니다. 당신은 귀족이 되어 대군을 이끌고 자신의 영토를 다스리는 이름난 군주가 되길 원합니다.
+str_set_goal_king_hint|당신의 야망엔 끝이 없습니다! 영광과 권력, 황금을 위해 싸우십시오. 수많은 적들이 생길 것이니, 사방에서 쇄도할 위협에 맞설 준비를 해야만 합니다!
 str_set_goal_expand_hint|언덕 위의 작은 요새는 당신에게 충분하지 않습니다. 당신은 왕중의 왕이 되길 원합니다. 검에 날을 세우고 군대를 소집하십시오. 전쟁이 다가오고 있습니다!
-str_view_goal_hint_renown|명성: 당신은 무엇보다도 명성을 원합니다. 전투와 경쟁에서 승리하십시오. 임무를 완수하십시오. 당신의 명성이 높아질수록, 더 많은 군대를 지휘할 수 있고 당신의 고귀함은 존중받을 것이며, 더 좋은 용병들을 모집할 수 있을 것입니다!^
-str_view_goal_hint_reputation|평판: 영웅 또는 악당이 될 수 있습니다. 당신이 하는 행동은 세상 사람들이 당신을 어떤 방식으로 보는지에 대해 영향을 미칠 것 입니다. 그것은 당신과 다른 국가들 사이의 관계는 물론, 당신의 결혼 가능성에 대해서도 영향을 미칠 것 입니다.^
-str_view_goal_hint_army|군대: 당신은 당신 부대의 균형을 맞추고 싶습니다. 더 좋은 군대를 훈련시키고 유지하는 데에는 더 많은 비용이 필요합니다. 군대의 25% 이상을 숙련병(고등급 병사)으로 구성해 보십시오.^
-str_view_goal_hint_marry|결혼은 연회와 경기를 개최하는 것을 가능하게 하고, 왕국을 경영하는 데 다양한 도움을 줍니다. 결혼은 또한 당신의 통치권에 대한 정통성을 높힐 수 있는 수단입니다.^
-str_view_goal_hint_right_to_rule|통치권에 대한 정통성은 왕에게 매우 중요합니다. 정통성은 다른 왕국과 세력들이 당신과 당신의 외교적 관계를 보는 방식에 영향을 미칠 것입니다.^
-str_view_goal_hint_wealth|부: 전쟁은 값비싼 대가를 치룹니다. 급료, 음식, 훈련, 장비, 치료사, 와인...^미리 준비하십시오!^
-str_set_goal_trigger_new_game|모험으로 가득한 새로운 새계가 여러분을 기다립니다!^^만약 당신이^바이킹 컨퀘스트의 샌드박스 모드^를 처음으로 플레이 하는 것 이라면, 다음의 '목표 선택'을 확인하고 게임에 대해 배우십시오. 그리고 당신이 다음에 무엇을 할 수 있는지 확인하십시오.^^(개인 메뉴를 열고^통계에서 '목표 선택'을 확인하세요.)
-str_set_goal_already_completed|(당신은 이미 이 목표를 달성했습니다!)
-str_set_goal_you_are_a_noble|(당신은 이미 귀족이나 용병이며^당신은 스스로의 맹세를 포기할 수 없습니다!)
+str_view_goal_hint_renown|명성: 당신은 무엇보다도 명예를 갈망합니다. 전투와 경기에서 승리하고 임무를 완수하십시오. 명성이 높아질수록 더 많은 군대를 지휘하고 귀족들의 존경을 받으며, 유능한 용병을 고용할 수 있습니다!^
+str_view_goal_hint_reputation|평판: 영웅이 될지 악당이 될지는 당신의 몫입니다. 당신의 행동은 세상의 시선과 타 세력과의 관계, 나아가 혼사에도 영향을 미칠 것입니다.^
+str_view_goal_hint_army|군대: 당신은 균형잡힌 부대를 꾸리길 원하고 있습니다. 정예병은 훈련과 유지에 더 많은 비용이 필요합니다. 숙련된 중보병(고등급 병사)의 비율을 25% 이상으로 구성해 보십시오.^
+str_view_goal_hint_marry|결혼을 통해 연회와 경기를 개최할 수 있으며, 왕국 운영에 큰 도움을 얻을 수 있습니다. 또한 당신의 통치권에 대한 정통성을 높여줄 것입니다.^
+str_view_goal_hint_right_to_rule|정통성(통치권)은 왕에게 매우 중요합니다. 이는 다른 세력들이 당신과 외교 관계를 맺는 방식에도 큰 영향을 미칠 것입니다.^
+str_view_goal_hint_wealth|부: 전쟁에는 막대한 비용이 들어갑니다. 급료, 식량, 훈련, 장비, 치유사, 그리고 와인까지...^미리 대비하십시오!^
+str_set_goal_trigger_new_game|모험으로 가득한 새로운 세계가 당신을 기다립니다!^^바이킹 컨퀘스트 샌드박스를 처음 접한다면 '목표 설정' 기능을 통해 게임에 대해 배우고 앞으로의 나아갈 길을 확인해 보십시오.^^(캐릭터 보고서 내 통계에서 '목표 설정'을 확인하시오.)
+str_set_goal_already_completed|(이미 이 목표를 달성했습니다!)
+str_set_goal_you_are_a_noble|(이미 귀족이나 용병이며^함부로 맹세를 저버릴 수 없습니다!)
 str_set_goal_open_button_label|목표 선택
 str_set_goal_open_button_label2|목표 현황 확인
-str_set_goal_complete_goal|당신은 당신이 설정한 목표를 달성했습니다!^^당신이 이룰 수 없는 일은 없습니다!^^^당신의 성취에 기뻐하세요^그리고 다음 목표를 설정하세요!
-str_set_goal_half_way_there|당신에겐 여전히 목표를 달성하기 위한 많은 일들이 남아있습니다!
-str_set_goal_almost_there|당신은 목표에 매우 가까이 다가왔습니다!
-str_set_goal_custom_reward|자유 목표 완료: 특별한 보상은 없습니다!
-str_set_goal_raider_reward|약탈자 목표 완료: 용병 부대가 당신에게 합류합니다!
+str_set_goal_complete_goal|설정한 목표를 달성했습니다!^^당신에게 불가능한 일은 없습니다!^^^성취를 만끽하고^다음 목표를 설정하십시오!
+str_set_goal_half_way_there|목표를 달성하기 위해 해야 할 일이 아직 많이 남아있습니다!
+str_set_goal_almost_there|목표 달성이 머지 않았습니다!
+str_set_goal_custom_reward|자유 목표 완료: 보상은 없습니다.
+str_set_goal_raider_reward|약탈자 목표 완료: 용병 무리가 당신에게 합류합니다!
 str_set_goal_warrior_reward|전사 목표 완료: 당신의 검술 기술이 향상되었습니다!
-str_set_goal_lord_reward|영주 목표 완료: 당신이 속한 왕국의 우호적인 영주들이 당신에게 깊은 인상을 받았습니다. {reg0?고디:사제}가 당신의 부대에 합류했고, 소를 한 마리 얻었습니다. 소는 당신의 부대원들이 맛있게 먹을 수 있는 버터를 만들 수 있게 해줍니다!
-str_set_goal_king_reward|왕 목표 달성: 용병 부대가 당신에게 합류했고, 당신은 특별한 책 한권을 얻었습니다!
-str_set_goal_expand_reward|안정화된 왕국 목표 달성: 온 왕국이 당신과 함께 기쁨을 나누었고, 당신에게 귀한 검 한 자루를 선물했습니다!
+str_set_goal_lord_reward|영주 목표 완료: 아군 영주들이 당신에게 깊은 감명을 받았습니다. {reg0?고디:사제}가 부대에 합류했으며, 맛좋은 버터를 만들 수 있는 소 한 마리를 얻었습니다!
+str_set_goal_king_reward|국왕 목표 완료: 용병 무리가 합류했으며, 특별한 책 한 권을 얻었습니다!
+str_set_goal_expand_reward|안정된 왕국 목표 완료: 우호적인 왕국들이 당신에게 감명받았으며, 희귀한 보검 한 자루를 선물로 보내왔습니다!
 str_com_companions|동료: 
 str_com_view_companions|동료 확인
 str_com_s0|{s0}
-str_com_debug_1|Char picture for npc = {s0}, id = 
-str_com_debug_2|Click for troop: {s1}, id = 
+str_com_debug_1|NPC 초상화 = {s0}, ID = 
+str_com_debug_2|부대 클릭: {s1}, ID = 
 str_com_heroes|  영웅들  
 str_com_morale_reg0|{s1}^^사기: {reg0}
 str_com_relation_reg12|{s1}^^관계도: {reg12}
-str_com_catholic|{s1}^^종교: 기독 신앙
+str_com_catholic|{s1}^^종교: 기독교
 str_com_pagan|{s1}^^종교: 이교
-str_tactical_controls|키보드의 '숫자키'를 눌러 원하는 부대를 선택하세요. '0'을 누르면 모든 병사를 선택합니다.^^F1-F4 을 이용해 분대에게 명령을 내릴 수 있습니다. F1 키를 누르고 있으면 선택된 부대들의 위치를 지정할 수 있습니다. 이런 방법으로 공격할 적 대상을 지정할 수 있습니다.^^'ENTER' 키를 누르면 전술 카메라를 볼 수 있습니다.^^BACKSPACE 키를 누르면 지도와 전투 명령 화면을 볼 수 있습니다.
-str_division_placement|특정 부대가 선택되면, 표시된 지점에 부대의 최전방 중앙이 위치하게 됩니다.^^다수의 부대가 선택된 경우, 그들은 플레이어 주변에 부대별로 모여 배치됩니다.^^F2와 F7을 누를 때 선택된 부대에 대해 기억할 것은 기본적으로 보병은 좌측에, 기병은 우측에 그리고 장거리 병과는 전방에 선다는 것 입니다.
-str_formations|The Complex Formations on the Battle Menu are:^^- RANKS with best troops up front^- SHIELD WALL, ranks with shields in front and longer weapons in back^- WEDGE with best troops up front^- SQUARE in no particular order^- NO FORMATION^^Even in the last case, the player can make formations up to four lines by ordering Stand Closer enough times.
-str_log_created|A log has been created. Please check the rgl log.txt!
-str_debug_log_print2|{s30}^End of LOG.
-str_print_player_trade|{reg1} goods for {reg2} and {reg3} other items for {reg4}
-str_multi_game_type_desc_10|^Peasants try to defend their home against raiders!^^Villagers have numerical advantage but raiders are much better equipped.^
+str_tactical_controls|숫자키로 부대를 선택하시오. '0'을 누르면 모든 병사를 선택합니다.^^F1~F4로 명령을 내릴 수 있으며, F1을 길게 눌러 배치 지점이나 공격 대상을 지정할 수 있습니다.^^ENTER 키로 전술 시점, BACKSPACE 키로 전술 지도와 지휘 화면을 띄울 수 있습니다.
+str_division_placement|한 부대만 선택하면 표시된 지점에 부대 전열의 중앙이 배치됩니다.^^다수 부대를 선택하면 플레이어 위치를 기준으로 하여 부대별로 흩어져 배치됩니다.^^F2와 F7로 플레이어 기준 배치 위치를 저장할 수 있습니다. 부대 배치의 기본값은 보병 좌측, 기병 우측, 궁병 전방입니다.
+str_formations|전투 메뉴의 복합 진형은 다음과 같습니다:^^- 횡대: 정예병을 전면에 배치^- 방패벽: 방패병을 전면에, 장병기를 후면에 배치^- 쐐기: 정예병을 선두의 꼭지점에 배치^- 사각방진: 사방 방어 진형^- 진형 해제^^진형 해제 상태에서도 '간격 좁히기' 명령으로 최대 4열까지 대열을 만들 수 있습니다.
+str_log_created|로그를 생성했습니다. rgl log.txt 파일을 확인하십시오!
+str_debug_log_print2|{s30}^로그 끝.
+"str_print_player_trade|
+아이템 {reg1}개를 {reg2}에, 나머지 {reg3}개를 {reg4}에 거래함"
+str_multi_game_type_desc_10|^주민들이 습격자로부터 고향을 지켜내려고 합니다!^^주민들은 머릿수에서 앞서지만, 습격자들의 장비가 월등히 좋습니다.^
 str_beginner|초보
 str_normal|보통
 str_hardcore|하드코어
@@ -3117,16 +3118,16 @@ str_budget|예산:
 str_stamina|기력:
 str_gear_affects_skills|장비품에 따른 페널티:
 str_resting_morale|휴식시 사기 보충:
-str_insane_difficult|치명타:
-str_gore|잔인함:
+str_insane_difficult|치명적 난이도:
+str_gore|유혈 표현:
 str_disable_scenic_menu|3D 조경 비활성화:
 str_shield_bash|방패 강타:
-str_disable_complex_formations|복잡한 진형 비활성화:
-str_have_formations_face_enemy|진형은 무조건 적 방향을 바라봄:
-str_players_enemies_only_attack|적들은 무조건 돌격함:
-str_music_in_battles|전투 중 음악 재생 대체
-str_damage_to_player|플레이어 타격:
-str_damage_to_friends|아군 타격:
+str_disable_complex_formations|복합 진형 비활성화:
+str_have_formations_face_enemy|진형이 적 방향을 바라봄:
+str_players_enemies_only_attack|적군이 무조건 돌격함:
+str_music_in_battles|전투 음악 대체:
+str_damage_to_player|플레이어가 받는 피해:
+str_damage_to_friends|아군이 받는 피해:
 str_combat_ai|전술 작전 인공지능:
 str_campaign_ai|군사 작전 인공지능:
 str_movement_and_combat_speed|전투 속도:
@@ -3136,25 +3137,25 @@ str_realism_feature|현실적인 기능
 str_special_setting|특별 설정
 str_formation_feature|진형 설정
 str_performance_feature|성능 설정
-str_battle_size_text|전투에 나오는 인물들의 숫자의 최대 한계치입니다. 만약 당신이 전투에서 속도 저하가 발생하는 경우, 이 옵션의 수치를 낮춰 주세요.^또한, 이 옵션의 수치를 높임으로서 좀 더 큰 규모의 전투를 즐길 수도 있습니다. 이 설정과 그래픽 품질 관련 설정은 게임 중 ESC 키를 사용해 설정을 바꿀 수 있습니다.
-str_this_setting_affects_all|플레이어 외의 게임 내의 다른 모든 인물들도 이 효과가 적용될 것입니다.
-str_game_concepts_tutorial|^^이제, 당신은 바이킹 컨퀘스트에 대한 경험이 생겼습니다. 만약 이 것이 당신의 첫 번째 게임 경험이라면, 이 게임의 몇 가지 개념들을 익히고 익숙해 질 것을 추천합니다. 게임 플레이에 유용한 개념들을 소개하는 페이지를 보여드리겠습니다.^^당신은 언제든 이 페이지를 볼 수 있습니다. 캠페인 맵에서 '여행 기록' 버튼을 클릭하고 거기에서 '게임 컨셉' 버튼을 클릭하여 조회할 수 있습니다.
+str_battle_size_text|전투에 투입되는 병사의 최대 한계. 성능 저하가 발생하면 수치를 낮추십시오. 엔진의 한계치인 300을 넘기면 문제를 야기할 수 있습니다.^^메인 메뉴의 비디오 옵션이나 게임 중 ESC 키를 눌러 조정할 수 있습니다.
+str_this_setting_affects_all|이 설정은 플레이어와 게임 내의 모든 인물들에게 적용됩니다.
+str_game_concepts_tutorial|^^이제 바이킹 컨퀘스트에 대한 경험을 쌓았습니다. 처음 플레이한다면 게임의 주요 개념들을 익히는 것을 권장합니다. 게임 플레이에 유용한 개념들을 소개하는 페이지를 보여드리겠습니다..^^이 내용은 캠페인 지도의 '여행 기록'>'게임 컨셉' 메뉴에서 언제든 다시 볼 수 있습니다.
 str_wounds|부상:
 str_blood_loss|출혈:
-str_quantity_bandit_parties|도적 부대:
+str_quantity_bandit_parties|도적뗴의 규모:
 str_game_difficulty_warning|게임 난이도 경고
-str_game_difficulty_warning_desc|현재의 캠페인 AI 난이도에 따라서, {s1}(일부의) 약탈자 무리는 플레이어의 파티보다 더 강하게 생성됩니다. 그들은 최대 {reg1} 부대까지 생성 가능합니다.^^난이도를 조절하기 원한다면 ESC 옵션 메뉴에서 난이도를 조절하세요. 단, 탈영병 무리에게는 적용되지 않습니다. 또한 해적 무리는 항상 최소 1척 이상의 배와 함께 생성됩니다. (30 명 이상).
+str_game_difficulty_warning_desc|현재의 캠페인 AI 난이도에 따라서, {s1} 약탈자 무리는 플레이어의 파티보다 더 강하게 생성될 수 있습니다. 그들은 최대 {reg1}명까지 구성될 수 있습니다.^^조정을 원한다면 ESC 옵션 메뉴에서 난이도를 변경하세요. 단, 탈영병 무리에게는 적용되지 않습니다. 또한 해적 무리는 항상 최소 1척(30명) 이상의 배와 함께 생성됩니다.
 str_player_division|플레이어 부대:
-str_poll_cooldown|Delay between polls (seconds){***}
-str_polls_disabled_for_reg1|Polls are disabled for {reg1} seconds.{***}
-str_poll_cooldown_is_now_reg1|Delay between polls is now set to {reg1} seconds.{***}
-str_poll_change_gametype|{s0} started a poll to change game type to {s1}.
-str_poll_to_change_gametype|Poll to change game type to {s1}: 1 = Accept, 2 = Decline
-str_make_gametype_voteable|Allow polls to change game type
-str_changing_gametype_is_voteable|Changing gametype is voteable.{***}
-str_changing_gametype_is_not_voteable|Changing gametype is not voteable.{***}
-str_weapon_break|Damageable Equipment:{***}
-str_no_suit_religion|You can't possibly think of marrying into my family since you do not even believe in the same gods! Convert first, then we may discuss this topic again.{***}
+str_poll_cooldown|투표 간격 (초)
+str_polls_disabled_for_reg1|{reg1}초 동안 투표가 금지됩니다.
+str_poll_cooldown_is_now_reg1|투표 간격이 {reg1}초로 설정되었습니다.
+str_poll_change_gametype|{s0}이(가) 게임 타입을 {s1}(으)로 변경하기 위한 투표를 시작합니다.
+str_poll_to_change_gametype|게임 타입을 {s1}(으)로 변경: 1 = 찬성, 2 = 반대
+str_make_gametype_voteable|게임 타입 변경 투표 허용
+str_changing_gametype_is_voteable|게임 타입 변경 투표가 가능합니다.
+str_changing_gametype_is_not_voteable|게임 타입 변경 투표가 불가능합니다.
+str_weapon_break|장비 파손:
+str_no_suit_religion|나와 다른 신을 믿는 자와 내 가문을 맺어줄 생각은 눈곱만큼도 없소! 먼저 개종한 후에 다시 이야기하도록 하시오.
 str_modifications|
 str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.|
 str_s21__the_s5_has_no_outstanding_issues_with_the_s14{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.|
