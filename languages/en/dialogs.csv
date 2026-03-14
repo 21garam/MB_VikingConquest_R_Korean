@@ -2241,208 +2241,208 @@ dlga_lord_talk:frisaking_1|나는 당신의 연회가 훌륭하다고 들었소!
 dlga_lord_talk:jarldenunciado1|우리는 켄네머의 야를에 대해 이야기할 필요가 있소.
 dlga_lord_talk:jarldenunciado1extra|나는 켄네머의 야를에 대해 이야기하고 싶소.
 dlga_lord_talk:jarldenunciado2extra|나는 켄네머의 야를에 대해 이야기하고 싶소.
-dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사합니다, 호리크 왕이시여. 저는 저뿐만 아니라 보도와 부룬힐드를 데려왔습니다. 그들은 신뢰할 수 있을 것입니다.
-dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|왕께 제 이야기를 하겠습니다...
-dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|알겠네, 알겠어, 만나서 반갑네. 이제, 요점으로 넘어가시게. 시간이 얼마 없네.
-dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|최근에, 저는 보트를 타고 여행하다가 '눈 속의 뱀' 시구르드의 수하 황소 목 스벤의 바이킹에게 공격을 받았습니다.
-dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^특별한 것이 없잖나. 덴마크의 많은 야를들은 자신의 바이킹을 데리고 있고, 심지어 야를들은 물론 나 역시도 한때는 바이킹이었네, 나는 당신이 내 시간을 낭비하지 않길 바라네. 신중하게 할 말을 고르시게, 그렇지 않으면 이 대화는 끝이야.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|황소 목 스벤은 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다!
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다. 왕이시여...
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 정보를 알고 있습니다.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|황소 목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 잡혀있습니다.
-dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|왕이시여, 황소 목 스벤과 '눈 속의 뱀' 시구르드는 뭔가 꿍꿍이가 있습니다. 나는 그들을 막고 싶습니다.
-dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^당신의 어머니? 시구르드가 당신의 어머니를 데려갔다고 날 찾아온건가? 내 시간만 낭비했군. 난 더 이야기하고 싶지 않네. 이제 당신도 가봐야 할 시간이군.
-dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대? 고작 그게 당신이 말한 비밀인가? 그는 내 형제들의 조력자로서 잉글랜드에 갈 남성들을 모집중이네. 내 백성들에게, 원한다면 내 야를과 헤르시르들의 원정대에 가입할 수 있도록 허락한건 나란 말일세. 잉글랜드는 부유한 땅이고, 태생적으로 약한 사람들이 살면서, 그보다 더 나은 사람들의 지배와 약탈을 기다리고 있는 곳이라네.^당신은 내 시간을 낭비했어. 더 이야기 할 필요 없네. 이제 당신도 가봐야 할 시간이군.
-dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^자네는 이미 내가 알고 있는 것을 말했군, 게다가 내 관심 끌지도 못했지. 이제 내 인내심도 한계야. 당신은 내 시간을 낭비했어. 더는 이야기를 하고 싶지 않네. 나가보게.
-dlga_kinghorik_quest_revenge21_2:close_window|우리의 회담은 끝났네.
-dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드가 많은 남자들의 미움과 두려움을 사고 있나보군. 그들이 나에게 영향을 끼칠 수 있는 뭔가를 꾸미고 있는가?
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|황소 목 스벤이 제 어머니를 납치했고, 시구르드는 그녀를 데려갔습니다.
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 큰 군대를 모으고 있고, 그는 군대에 대한 대가로 프리지아의 켄네머의 야를을 왕으로 만들기 위해 노력하고 있습니다.
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|내 동료인 보도는 아스투리아스 왕의 특사이며, 그는 시구르드가 원하는 것에 대해 중요한 일이 있었소.
-dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|황소 목 스벤의 은신처가 리베 근처에 있으며, 그가 데려간 워든 릭의 포로가 그곳에 있습니다.
-dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|제가 더 이상 비밀을 유지할 수 없을 것 같군요, 물론 지금이 적절한 때도, 당신들에게 말해야 할 사안도 아니지만 말입니다. 하지만 지금 말을 하지 않으면, 위험은 더 심해지고 아주 끔찍해 질 것입니다.^^워든 릭에 대한 공격은 우연히 일어난 일이 아닙니다.
-dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|저는 칸타브리아의 말라코리아에서 온 보도 비마라니즈입니다. 저는 아스투리아스의 왕 알데폰소가 보냈습니다. 저는 웨식스의 왕, 애설레드에게 보내는 선물과 함께 북쪽으로 보내졌습니다. 그 선물과 제가 바로 황소 목 스벤이 워든 릭을 습격한 이유입니다. 시구르드 라그나르손은 자신을 위해서 그 선물을 쓰길 원합니다. 그는 그의 형제들이 잉글랜드의 왕이 된 것 처럼 자신도 덴마크의 왕이 되길 원하고 있습니다.
-dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|시구르드가 왕위를 노리고 있는 건 나도 알고 있네, 하지만 어떻게 그 선물이 그에게 내 왕위를 가져다 줄 수 있지?
-dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 현재 덴마크, 스베아란드 및 노섬브리아 등 많은 곳에서 강력한 영향력을 미치고 있습니다. 지금 당장은, 그들의 노력이 잉글랜드의 저항을 받고 있는것 같습니다, 실제로도 그렇구요. 그러나 그것 덕분에 그들이 덴마크의 자원과 전사들에게 쉽게 접근할 수 있도록 보장하고 있습니다. 만약 시구르드가 왕이 된다면 그 모든것을 쓸 수 있겠죠. 게다가 이제 그는 온 덴마크를 결집할 수 있습니다. 제가 가지고 있던 선물인 라그나르 로드브록의 검으로 말입니다!^그의 아들인 '무적' 비요른과 헤스턴이 알-안달루스 남쪽에서 그들의 무슬림 함대에 의해 격파되었을 때 잃어버렸던 그 검으로요.
-dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|어떻게 무슬림이 가진 검을 얻었지?
-dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|보도, 나는 충격받았소. 당신은 정말 덴마크에 대해 많이 알고 있군. 당신이 나에게 말하지 않은 무언가가 있소?
-dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(아무 말도 하지 않습니다.)
-dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|그것은 알-안달루스의 왕족이 중요한 포로들과 교환하기 위해서 나의 왕에게 진상한 것이오. 웨식스의 왕, 애설레드는 그 검에 대해 큰 관심을 보였소. 이에 나의 왕인 알데폰소는 그에게 선물하기 위해 그 검을 얻은것이오.
-dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|나는 한 때 북쪽에서 지냈소. 하지만 그것은 지금 그다지 중요하지 않소.
-dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|라그나르는 사람보다 한층 높은 존재였지. 스칼드-그러니까 시인들은 그를 신으로서 존경하고, 남자들은 그의 전설에 매혹되었다네. 시구르드는 검을 얻은 뒤, 총회에 그것을 가져와서 라그나르의 권리를 돌려받길 주장할 셈이로군. 그는 필히 왕위를 요구할테고, 심지어 나를 죽이려 할테지... 그렇게 되면 모두가 아버지의 검을 회수한 그를 지지할걸세. 다른 사람이 그 검의 존재를 알기 전에 반드시 그것을 부숴야만 하네.
-dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|그럼 우리는 거래를 할 수 있지 않겠습니까? 검을 위해 지원을 해주십시오.
-dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(부룬힐드가 무언가를 말하고 싶은 것 같다. 그녀에게 기회를 주자.)
-dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에게 '볼일'이 있습니다. 나는 내가 필요로 할 때 당신의 보호와 지원을 받길 원합니다.
-dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|알았네, 그렇게 하도록 하지. 그 검은 세상에 나와서는 안되네. 하지만 조심해야 할 걸세. 시구르드 라그나르손은 영리한 녀석이야, 그는 공개적으로 공격하지 않아. 가서 그를 만나고 그 검을 얻게나.  그를 설득해 검을 얻든, 그걸 훔치든, 구입하든, 혹은 그에게 영원한 충성을 맹세해서 그 검을 얻든 신경쓰지 않겠네. 내가 원하는 건 그 검을 부술 수 있게 내게 가져다만 주면 되네. 검만 가져다 준다면, 덴마크에 있는 동안 내 보호를 받을 것이며, 그것을 공식적으로 선언해주겠네. 그러면 시구르드 라그나르손이라도 감히 거역하지 않을 것일세. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 이만 돌아가보겠네.
-dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|내 왕이시여, 저의 동료들이 '눈 속의 뱀' 시구르드와 이야기하기 전에 동료들이 당신과 먼저 이야기 할 수 있도록 이야기 한 것이 저라는걸 알아주세요. 제가 켄네머의 야를에게 봉사하는 동안 그가 위험한 자임을 알게 되었습니다. 우리가 이 일을 하며 당신의 보호와 지원을 요청하는 이유는 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 황소 목 스벤의 손안에 있기 때문입니다.
-dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠구나, 소녀여. 너는 내 지원을 받을 것이다. 하지만 나는 라그나르의 검을 원한다. 시구르드가 너를 죽이려고 하지는 않을 것이니, 가서 이야기 해 보도록 하거라. 만약 필요하다면 너는 내 보호 아래에 있다고 말하거라. 검을 내게 가져오는건 아주 중요한 일이야. 훔쳐와도 좋으니 그저 내게 가져만 다오. 이제 정말 가야겠군. 더 이상 이야기할 시간이 없군, 너무 오래 이야기했어. 지금은 내가 신경써야 할 다른 문제가 있어서... 행운을 비네. 그럼 이만.
-dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 왕에게 한 말은 거짓이었소. 뭐, 완전히 거짓말은 아니지만 말이오... 검의 존재를 제외한다면 말이지. 덴마크인들은 라그나르와 관련된건 어떤것이든 중요하게 생각한다는걸 알고 있었고, 나는 그 점을 이용한 것이오. 위험한 짓이긴 했소만, 우리는 왕을 우리편에 세울 필요가 있었소. 당신도 그것을 이해해주기를 바라오.
-dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|검은 왕의 지원을 얻기 위해 중요한 요소였소. 고맙소. 이제 진실을 말해 보시오.
-dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|젠장, 보도! 당신의 계획이 뭔진 모르지만, 앞으로는 거짓말을 하지 마시오. 당장 나에게 모든 진실을 털어놓으시오.
-dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|거짓말은 참을 수 없소, 다시는 거짓말을 하지 마시오, 보도. 그렇지 않으면 나도 당신에 대해 조치를 취할 것이오. (정의)
-dlga_kinghorik_quest_revenge82:kinghorik_quest_revenge84|찬성할 수 없소. 검이 존재하지도 않았다는 사실을 왕에게 어떻게 말할 셈이오? 거짓말은 문제만 일으킬 뿐이오. 이는 모두가 아는 사실이오. 최소한, 모두가 알아야 하는 사실이란 말이오.
-dlga_kinghorik_quest_revenge84:kinghorik_quest_revenge85|{s2}^^나는 명예를 존중하는 사람이오. 명예가 곧 내 법이오. 하지만 나는 신하로서 내 왕과 나에게 맡겨진 사명에 충실해야 하오. 현 아스투리아스의 왕의 아버지이신 오르도니오 왕이 나를 여기로 보냈고, 내가 이 외국 땅을 밟기까지 수 년이나 걸렸소. 이해하기 어렵겠지만, 아스투리아스라는 곳은 원수의 손에 죽지 않기 위해서라면 모든 사람이 전사로서 맞서 싸워야 할 만큼 작은 왕국이오. 우리는 해마다 알-안달루스에 대항해서 싸우고있소. 그것은 끈임없이 돌아오는 연례행사처럼 벌어지지만, 최소한 바이킹이 오기 전엔 우리의 뒤는 안전하다고 생각해왔소. 옛 왕 오르도니오와 그의 아들 알데폰소는 프랑키아와 웨식스와의 동맹을 원하고 있소. 바이킹에게서 자신을 보호하고 더 안전한 바다를 만들기 위해서 말이오.
-dlga_kinghorik_quest_revenge85:kinghorik_quest_revenge86|나는 웨식스의 왕에게 나의 왕이 직접 봉인한 편지를 전달하려 하고 있었소. 그것은 빼앗기지 않도록 비밀스럽게 보내진 동맹 서신이었소. 했지만 그 비밀은 들켰고, 실패하고 말았소. 이제 그 편지는 시구르드 라그나르손의 수중에 떨어졌소. 편지를 통해 보호받길 원했던 그 남자의 손에 말이오. 당신은 그것이 얼마나 애처로운 일인지 이해 하시오? 얼마 전에는 그의 형제인 '무적' 비요른과 할프단이 아스투리아스 왕국의 서쪽인 갈리시아를 공격하기까지 했단 말이오.
-dlga_kinghorik_quest_revenge86:kinghorik_quest_revenge87|보도에겐 잘못이 있어요, {playername}. 하지만 우리는 여기에 더 시간을 허비하면 안돼요. 지금은 '눈 속의 뱀' 시구르드를 만나러 갈 시간이에요.
-dlga_kinghorik_quest_revenge87:close_window|우리는 서둘러 가야만 하오. 하지만 나중에라도 당신의 임무에 대해 다시 이야기를 해야겠소, 보도. 일단 출발합시다.
-dlga_kinghorik_quest_revenge87:close_window.1|그렇소, 우리는 더 이상 보도를 귀찮게 할 필요가 없소. 우리는 시구르드를 찾아야만 하오.
-dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|시구르드 라그나르손은 울프의 농장으로 우리를 죽일 사람을 보냈습니다.
-dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|시구르드는 울프의 농장에서 스벤과 내 어머니를 보내주기로 약속했지만, 약속을 지키는 대신 우리를 공격했습니다.
-dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|시구르드는 그의 최고의 심복인 황소 목 스벤을 내어주지 않을 것이오. 그가 약속대로 그렇게 할 것을 믿었다니, 그대는 내가 생각했던 것 보다 어리석군.
-dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|나의 왕이시여, 당신께서 말씀하신대로, 저는 당신의 눈과 귀의 역할을 해내었습니다. {playername}의 야영지에는 비밀이 없었기에, 모든 중요한 정보를 알 수 있었습니다. 이미 아시는대로 {playername}은(는) 프리지아에 꼭두각시 왕을 앉히려던 시구르드의 계획을 망친 사람 입니다. 그러나 이것은 의도적인 것이 아니라 사고에 의한 것인 것 같습니다. {playername}는 시구르드의 심복인 황소 목 스벤이 납치한 그의 어머니를 구하고 스벤에게 복수하려고 여기까지 온 것 입니다. {playername}와 시구르드가 협상했을 때, 그들은 울프의 농장에서 켄타브리아인 보도를 넘기는 대신 황소 목 스벤과 {playername}의 어머니를 내어주기로 했습니다.
-dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|그래, 그정도는 내가 예상했던 것과 크게 다르지 않군.
-dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^네, 보도가 시구르드의 포로가 되었다고 들었습니다. 보도는 고문을 당하다 죽을 것이고, 죽은 뒤에는 그의 몸을 바다의 신 뇨르드에게 제물로 보내겠지요.
-dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|에길, 이 배신자, 네놈이 스파이였어!
-dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot5|--아무 말도 하지 않습니다.--
-dlga_kinghorik_quest_danmarkprot41:kinghorik_quest_danmarkprot42|{s2}^^나는 배신자가 아닙니다. 나는 오직 왕에게만 충성할 뿐, 난 당신이 생각하는 것보다 더 당신을 돕고 있어요. 호리크 왕은 모든 곳에서 일어나는 일들을 알 수 있는 정보망을 가지고 있습니다. 이미 당신에 대해서도 알고 있었고, 보도에 대한 정보는 그보다 훨씬 전부터 알고 있었죠. 당신이 이곳에 오기도 전 부터 말입니다.
-dlga_kinghorik_quest_danmarkprot42:kinghorik_quest_danmarkprot5|계속 이야기 해보게, 에길. 내 시간과 인내심에 한계가 있다는 것 정도는 알고 있겠지?
-dlga_kinghorik_quest_danmarkprot5:kinghorik_quest_danmarkprot6|그런데 문제가 좀 있습니다. 시구르드가 {playername}을(를) 죽이기 위해 '하얀 머리의' 올비르를 보냈습니다. 그러나 되려 올비르는 죽었고, 아직 '눈 속의 뱀' 시구르드가 총회에 이 사안을 제기하지 않았습니다. 제 예상에는 울프가 그에게 유리한 증인이 될 것입니다. 문제는 이미 너무 많은 사람들이 {playername}이(가) 당신과 이야기 하는 것을 봐버렸다는 것 입니다. 시구르드는 이 사실을 당신을 공격하는 데 쓸 수도 있습니다.
-dlga_kinghorik_quest_danmarkprot6:kinghorik_quest_danmarkprot61|{s2}^^너는 {playername}과 함께 여행했지. {reg59?그녀:그}를 어떻게 생각하는가?
-dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7|저는 {reg59?그녀:그}에 대해 감탄했습니다. {reg59?그녀:그}는 아주 맑은 마음을 가진 사람입니다. 신들의 은총을 받고 있고, 목표를 향해 지칠 줄을 모르는 사람입니다. {reg59?그녀:그}는 내가 알고 있는 어떤 사람보다 타고난 운을 지니고 있습니다. 당신은 {reg59?그녀:그}를 믿을 수 있으며, 우리의 목표를 이루는 데 도움이 될 것이라고 생각합니다.
-dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.1|{reg59?그녀:그}는 나쁜 지도자입니다. 참을 수 없을만큼 멍청하고, 다루기 어렵습니다. 이미 몇 번이나 {reg59?그녀:그}의 얼굴에 침을 뱉을뻔 한 것을 겨우 참았습니다. 그러나 {reg59?그녀:그}는 내가 알고 있는 어떤 사람보다 타고난 운을 지니고 있습니다. 어떻게 그럴 수 있었는지는 모르겠지만, 어쨌든 {reg59?그녀:그}는 항상 승리했습니다. {reg59?그녀:그}는 우리의 목표를 이루는 데 도움이 될 것이라고 생각합니다.
-dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.2|조금만 이야기하겠습니다. {reg59?그녀:그}는 그냥 보통 사람입니다. 저는 특별한 일을 보지 못했습니다. 음, 한 가지를 제외하고는 말이죠, 그것은 바로 {reg59?그녀:그}의 운입니다. {reg59?그녀:그}는 대단한 운을 지니고 있습니다. 어떻게 그럴 수 있었는지는 모르겠지만, 그러나 {reg59?그녀:그}는 항상 승리했습니다. {reg59?그녀:그}는 우리의 목표를 이루는 데 도움이 될 것이라고 생각합니다.
-dlga_kinghorik_quest_danmarkprot7:kinghorik_quest_danmarkprot8|{s2}^^보도의 임무는 비밀이 아니었소. 거기에 기울인 모든 노력에도 불구하고 나에게나, '눈 속의 뱀' 시구르드 에게나 비밀이 아니었지. 아스투리아스 궁정에는 알데폰소 왕을 끌어내리기 위해 무슨 짓이든 할 사람이 있소. 믿겨지시오? 그 왕국이 그렇게나 멀리 떨어져 있는데도, 우리와 같은 문제를 가지고 있다니! 나는 이미 오래전, 그대가 나를 처음 만나러 오기 전부터 다 알고 있었소. 비록 아무것도 모르는 체 했지만 말이오.
-dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81|나는 나를 가지고 놀려고 드는 사람을 좋아하지 않소. 그 것이 비록 왕일지라도 말이오.
-dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81.1|당신은 우리가 처음 이야기를 나눌 때 부터 우리를 비웃고 있었군.
-dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|알겠소. 당신과 시구르드의 왕좌를 두고 게임을 벌이고 있군. 나는 중간으로 빠지겠소.
-dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--아무 말도 하지 않습니다.--
-dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|그대의 그 담대함이 좋긴 하지만 그렇게 극단적으로 굴진 마시오. 내가 알고 싶었던 것은 시구르드가 어떤 위험을 감수하고 있는지에 대한 것이었소. 이것으로 분명해 진 것은, 시구르드가 당신을 죽이는 데 관심을 가진 채 꽤 많은 것을 걸고 있다는 것이지.
-dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^시구르드는 내 왕국을 원하지. 그는 이미 많은 군대를 모집했소. 비록 잉글랜드에 있는 그의 형제를 돕는다는 구실이긴 했지만 총회에서 이들의 지지를 모은다면 나의 왕좌까지 빼앗을 수 있게 될 것이 우려스럽소. 그리고 이제는 그런 지지를 모으기 위한 두가지 패가 더 생겨버렸소. 첫째는 아스투리아스에서 온 보도의 편지, 두 번째로 '하얀 머리' 올비르의 죽음까지.
-dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|이미 우리의 운명은 엮여버리고 말았소, {playername}. 당신이 오기 전에 점쟁이들도 당신에 대해 이야기했소. 그들은 {reg59?그녀:그}가 그 운 좋은 시구르드보다 더 큰 행운을 지니고, 그가 내 왕위를 지킬 것이라 말하더군. 그대는 황소 목 스벤과 그대의 어머니를 원하고, 나는 시구르드의 계획이 어그러지는것을 원하고 있소. 내가 그대를 도울 테니, 그대는 나를 돕도록 하시오. 지금 이 순간부터, 덴마크에서 그대는 왕의 이름으로 보호를 받게 되었소.
-dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|당신은 당신의 계획이 무엇인지 말해줄 수 있소?
-dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|당신은 이미 너무 많은 이득을 누렸소. 나는 당신에게 봉사하지 않을 것이오. 내겐 당신의 도움이 필요하지 않소.
-dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|지금은 동맹을 맺지만 이 일이 끝나면 당신들과 나는 아무것도 아닌 사이가 되는 것이오.
-dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|좋아, 같은 편에 서 준다니 기쁘군. 이제 들어보시오.
-dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|내가 보기엔 그대는 신들이 내려주는 운이 없다면 아무것도 못 할만큼 어리석군. 이제 잘 들어보시오. 그대는 총회에 가야만 하지만 내 후원 없이는 근처에도 얼씬할 수 없지. 분명 황소 목 스벤도 총회에 참석할 것이고, 형제의 죽음에 책임을 물으려 하겠지. 그대가 총회에 참석하지 않는다면, 그대는 스스로 변호할 기회도 없이 재판에서 지고 말 것이오. 결국 총회는 그대를 추방할 것이고, 그대가 법의 보호를 받지 못하게 할 것이오. 데인족은 자유롭게 무법자와 추방자를 죽이고 괴롭힐 수 있소. 반대로, 그대의 어머니를 되찾고 스벤을 죽이려면 그대에겐 내 도움이 절실하다는 것이오. 내 말대로 하시오.
-dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|좋은 조건이오, 그리고 이치에 맞는군. 우리의 이익이 함께하는 동안, 우리는 동맹이 될 것이오. 이 일이 끝나면, 그대는 덴마크를 떠나시오.
-dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^덴마크 남자들 중 구트럼이라고 불리는 자가 있소. 그는 덴마크에서 존경받고 있고, 믿을만한 남자이오. 나는 라그나르의 아들들이 잉글랜드를 침공할 때 지원군으로 보내질 시구르드의 바이킹 군대 그가 지휘할 수 있도록 요청하려고 하오. 그러나 '눈 속의 뱀' 시구르드가 총회에서 보도의 편지를 공개하거나, '하얀 머리의' 올비르의 죽음을 나와 결부시킬 경우 내 제안은 받아들여지지 않을 것이오.
-dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|불행히도, 편지는 이미 어딘가에 숨겨져 있소. 내 정보망에 의하면 시구르드의 심복 중 황소 목 스벤 다음가는 자인 아틀리 에이릭손이 가지고 있다고 하오. 아틀리는 몇 시간 전에 리베에서 출항했는데 아무도 그의 행방을 모른다고 하오. 아마도 리베의 항구 관리는 무언가를 알고 있는 것 같지만 내 사람에게는 아무 이야기도 하지 않을 것이오. 내가 곧 있을 총회를 위해 충성심을 사들이는 동안 그대는 그 편지를 확보하시오.
-dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|정보를 얻기 위해선 비싼 대가를 치뤄야 합니다. 나는 더 많은 돈이 필요하오.
-dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|편지는 내가 맡겠소. 하지만 재정적인 지원이 필요하오.
-dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot16|항구 관리와 몇마디 이야기를 나눠보겠소.
-dlga_kinghorik_quest_danmarkprot151:kinghorik_quest_danmarkprot153|리베의 항구 관리를 알고 있소. 그리고 그는 야심이 많은 사람이지. 정보를 구하려면 충분한 돈이 필요하오.
-dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|좋소, 만약을 대비해 내 보물 몇가지를 제공해 주도록 하겠소. 이것으로 15000 페닝 정도는 구할 수 있을 것이오. 항구 관리를 상대하는 것을 비롯해 다른 비용들이 이것으로 충당되길 바라오.
-dlga_kinghorik_quest_danmarkprot16:kinghorik_quest_danmarkprot17|더해서, 그대의 목이 달아나고 싶은 것이 아니라면, 울프를 설득해서 그가 총회에서 너에게 불리한 증언을 하지 않도록 만드는게 좋을 것이오. 도움될만한 또 다른 것을 이야기 해 주자면, 덴마크의 야를들과 좋은 관계를 유지하라는 것이오. 그러면 그들 역시 총회에서 그대에게 도움을 줄 것이오. 권하건데, 그들을 만나 그들의 환심을 사 보도록 하시오.
-dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot181|당연히 그래야지요. 나는 내 목을 소중히 여기오.
-dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot182|나는 더 이상 우리가 할 이야기가 없다고 생각하오, 이만 가보겠소.
-dlga_kinghorik_quest_danmarkprot181:kinghorik_quest_danmarkprot19|그대의 목숨은 이제 나에게도 중요한 것이 됐소. 그러니 날 믿으시오. 행운을 빌겠소.
-dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|옳소. 나는 이미 이 일에 많은 시간을 들였소. 행운을 빌겠오.
-dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playername}, 우리는 해야만 하는 임무가 있소.
-dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|좋소. 하지만 나는 당신과 당신의 배신을 잊지 않을 것이오, 에길.
-dlga_kinghorik_quest_danmarkprot20:close_window|알겠소, 더 이상 시간을 낭비하지 않도록 합시다.
-dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^너는 거짓말쟁이야, 에길! 너는 나를 속였어, 나는 너를 믿었는데! 나는 우리 사이에 뭔가가 있다고 생각했는데, 네가 원한건 {playername}에 대한 정보가 다였다니. 나는... 우리가... 그런줄 알았는데...^^{s3}
-dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^호리크 왕은 내 아버지고, 내 모든 충성은 그에게 바치고 있습니다. 이 외에 더 설명할 것은 없어요. 나는 부룬힐드를 이용한적 없고, 그냥 우리 둘 다 즐긴 것 뿐입니다. 그녀가 그 이상의 무언가라고 생각했다면 그건 그녀의 잘못이죠. 그녀는 나같은 사람은 절대 결혼 따위는 하지 않는 다는 것을, 특히 프리지아 노예와는 더더욱 그렇다는 것을 미리부터 알았어야 했습니다. 당신이 어떤식으로 생각하든지 간에, 나에게 감사하는게 좋을 거요. 어쩄든 내 아버지의 지원을 받게 되지 않았습니까?
-dlga_kinghorik_quest_danmarkprot23:close_window|이 일이 끝나면, 당신은 우릴 떠나시오. 당신의 소중한 아버지에게 돌아가는게 나을 것이오.
-dlga_kinghorik_quest_danmarkprot23:close_window.1|당신이 부룬힐드에게 한 짓에 대한 대가를 치르시오. 이 일이 끝나고 나면 당신에게 결투를 신청하겠소.
-dlga_kinghorik_quest_danmarkprot23:close_window.2|나는 이 문제에 대해 이야기하고 싶지 않소. 어서 출발 합시다.
-dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^왜 이렇게 늦게 온 것이오? 시구르드 라그나르손이 더 유리한 상황이오.
-dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|몇 가지 문제를 해결하느라 시간이 걸렸소. 어쨌든 제 시간에 온 것이오.
-dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|당신의 전갈을 받자마자 최대한 빨리 온 것이오. 아마도 당신의 전령이 너무 늦게 왔나 보오.
-dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|어쨌든 상관 없소, 내 생각에는 저들도 그대의 도착을 기다리고 있었던 것 같소. 내가 궂이 서둘러 당신을 부를 필요가 없었을지도 모르지. 추측컨데, 그들은 뭔가 이야기를 꺼낼 것이 있는 것 같소. 시구르드 라그나르손은 내가 800명의 병력을 그가 이끌지 못하게 한 것에 대해 문제를 제기하고 있소. 물론, 내가 그 군대를 구트럼이 지휘하도록 제안한 것은 사실이오. 그런데 문제는 구트럼이 몇일 전 자신의 농장에서 살해된 채로 발견되는 불행을 겪었다는 것이지. 그들은 구트럼이 손님을 접대하는 잔치를 주최하는 동안 집을 불태웠다는 무법자나 범죄자들을 비난하고 있소. 하지만 내 생각에는 시구르드의 뱃머리이자 오른팔인 황소 목 스벤이 일을 저지른 것 같소. 그게 아니면 도대체 누구겠소? 그러나 나는 아무런 증거나 증인을 찾을 수 없었소. 구트럼의 집과 함께 모든 증거와 모든 증인들이 불타 사라져 버렸소.
-dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|모든 것을 종합하면, 상황이 매우 심각한 상태이오. 구트럼이 죽었다는 이유로, 시구르드는 800명의 병력에 대한 지휘권을 얻으려고 하고 있소. 나는 시구르드가 그 병사들을 이용해 내 왕좌를 노리는 것을 우려하고 있소.
-dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|일단 무슨 일이 일어나고 있는지 같이 봅시다.
-dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|나는 당신의 문제에 신경쓸 여력이 없소. 나는 황소 목 스벤과 어머니를 위해 여기 있는 거요.
-dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|내 문제는 동시에 그대의 문제란 말이오. 시구르드가 이길 경우, 그대의 목숨은 아무런 가치가 없게 되오. 총회는 그대를 무법자로 지명할 것이오. 그렇게 되면 그대는 그대의 모든 것을 잃는 것은 물론, 누군가 당신을 죽일 때 까지 숲 속에 숨어 살아야 할 것이란 말이오.
-dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^안녕하시오, {playername}. 황소 목 스벤이 총회에 발언할 수 있는 권한을 얻었소. 그 쥐새끼가 무슨 이야기를 하는 지 들어 봅시다.
-dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|조용! 그 뱀같은 자가 무슨 이야기를 하는지 들어봅시다.
-dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^덴마크의 남자들이여, 내가 누구인지는 알고 있을 것이오. 나는 작고 어렸을 때부터 라그나르와 함께했고, 그가 프랑키아를 상대로 120척의 선박과 4000명이 넘는 병력을 데리고 약탈했을 때 함께 했소. 아직도 스칼드들이 노래하고 있는 그 이야기 속의 그 때 말이오. 나는 잉글랜드에서 가장 강력한 왕국인 웨식스에서 400명의 바이킹들을 이끌었고, 큰 부와 명성을 얻었소. 그 덕분에 프리지아, 잉글랜드, 프랑키아의 남자들은 모두 나를 두려워하고 있소. 그러나 이곳 덴마크 에서만은 합당한 존중과 사랑을 받고 있는 사람이오.
-dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|나보다 더 나은 남자였던 '하얀 머리의' 올비르는 내 형제였소. 그는 명예롭고 신들의 사랑을 받던 남자였지만 청춘을 다 피우지 못하고 살해당해 죽고 말았소. 그런데 왕은 그 살인자를 보호하고 있소. 나는 여태까지 총회에 그 어떤 요구도 하지 않았소만, 지금은 한 가지 바라는 것이 있소. 그것은 바로 정의이오. 살인자가 우리들 사이에 서 있는것이, 왕이 악을 두둔하는 것이 정의란 말이오? 살인자들이 이 땅에서 처벌받지 않고 돌아다니도록 놔두어야겠소?^^{s2}
-dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^우리가 예상한 대로 흘러가고 있소. 그들이 당신을 이용해 호리크 왕을 공격하고, 그의 권위를 훼손시키고 있지 않소!
-dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^황소 목 스벤, 모든 사람들이 당신의 가치를 알고 있고, 당신이 과거에 이룬 업적을 알고 있소. 그러나 당신은 왕께서 살인자를 지원하고 있음을 말하고 있소. 이 혐의는 매우 엄중한 것이오. 총회는 호리크 왕의 말 역시 들어봐야 하오.
-dlga_kinghorik_quest_thething85:kinghorik_quest_thething86|스벤은 나를 모욕하고 있소. 나는 살인자를 보호한 적이 없고, 앞으로도 그럴 생각이 없소. 만에하나 내가 그렇게 했었더라도, 그것은 내가 모르는 일이오. {playername}(은)는 자유로운 사람으로써 나의 보호를 요청하기 위해 나에게 왔소. 그리고 나는 {reg59?그녀:그}가 스스로 {reg59?그녀:그}의 가치를 입증하는 모습은 본 후에 {reg59?그녀:그}에게 보호를 약속했소. 또한 {reg59?그녀:그}가 나에게 이야기한 '하얀 머리의' 올비르의 죽음의 진상은 스벤의 고발과는 전혀 다르오.
-dlga_kinghorik_quest_thething86:kinghorik_quest_thething9|이제 피고인이 이 일에 대해 이야기 할 차례이오.
-dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|당신은 황소 목 스벤을 망신주기로 결정했다. (설득)
-dlga_kinghorik_quest_thething9:kinghorik_quest_thething91|당신은 당신 어머니의 납치 사건을 언급하여 군중의 동정심에 호소하기로 결정했다.
-dlga_kinghorik_quest_thething9:kinghorik_quest_thething92|당신은 당신의 어머니 납치 사건을 언급하지 않고 사건을 설명하는 것이 더 나을 것이라고 생각했다.
-dlga_kinghorik_quest_thething90:kinghorik_quest_thething90_1|제 이름은 {playername}이오. '하얀 머리의' 올비르는 그의 형제, 황소 목 스벤의 명령을 받고 나를 죽이려고 했소. 나는 이 자리에 있는 시구르드 라그나르손과의 합의에 따라 울프의 농장에 갔고, 그 곳에서 평화로운 시간을 보내고 있었소. 그러나 '하얀 머리의' 올비르는 여러 명의 부하들을 데리고 나타나더니 나를 죽이려고 했소. 나에겐 반드시 마쳐야 할 과업이 있고, 결국 죽은 것은 올비르였소. 내가 당신에게 묻겠소. 스벤이 나를 제거하고 싶었다면, 왜 직접 오지 않고 올비르를 보낸 것이오? 내 생각엔 그는 나를 두려워하고 있소. 그의 모든 대담해보이는 말들과는 다르게, 사실 그는 그저 무방비 상태의 배들을 약탈하고, 그의 군주의 망토 뒤에 숨어있는 겁쟁이에 불과하단 말이오.
-dlga_kinghorik_quest_thething91:kinghorik_quest_thething94|제 이름은 {playername}이고, 살인자가 아니오. 올비르의 죽음은 정당방위에 의한 것이었소. 스벤은 나의 어머니를 납치했고, 시구르드 라그나르손은 울프의 농장에서 다시 나에게 그녀를 돌려보내기로 약속했었소. 그런데 그는 약속을 지키는 대신 날 죽일 '하얀 머리의' 올비르를 보냈소. 올비르는 비록 열심히 싸웠지만 부상을 입었고, 결국 죽고 말았소.
-dlga_kinghorik_quest_thething92:kinghorik_quest_thething95|제 이름은 {playername}이고, 살인자가 아니오. 올비르의 죽음은 정당방위에 의한 것이었소. 나는 울프의 농장에서 시구르드 라그나르손의 전령을 기다리고 있었소. 그러나 전령 대신 '하얀 머리의' 올비르가 와서는 나를 공격했고, 전투를 하던 중 치명상을 입고 말았소.
-dlga_kinghorik_quest_thething90_1:kinghorik_quest_thething95|{s2}^^잘 말해주었소. 당신이 그의 말문을 막은 것 같소.
-dlga_kinghorik_quest_thething94:kinghorik_quest_thething95|{reg59?그녀:그}의 어머니에게는 프리지아 해안에서 건 현상금이 걸려 있었소. 나는 습격 중이었고, 워든 릭이라 불리던 배를 공격했었소. 내 권리에 따라, 그녀는 내 노예가 되었소. 그러나 나는 그녀가 마술의 힘을 가진 세이드인 것을 알아차렸소. 이제 그녀는 나의 아내로서, 조언자 역할을 하고 있소.^^{s2}
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|감사하오, 호리크 왕. 부룬힐드와 보도도 함께 데려왔소. 두 사람 모두 믿을 만하오.
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|제 사정을 말씀드리겠소...
+dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|그래, 그래. 둘 다 만나서 반갑네. 이제 본론으로 들어가세. 내 시간은 많지 않네.
+dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|얼마 전, 내가 타고 가던 배가 '눈 속의 뱀' 시구르드의 수하, '황소 목' 스벤의 바이킹들에게 습격당했소.
+dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^그게 뭐 그리 대단한 일인가. 덴마크의 야를 가운데 제 사람들을 바이킹으로 부리는 자가 한둘이 아니네. 야를들이나 나나 한때는 다들 바이킹이었지. 괜히 내 시간을 허비하게 만들 생각은 말게... 말을 잘 골라 하게. 아니면 이 대화는 여기서 끝이네.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|'황소 목' 스벤이 내 어머니를 사로잡아 시구르드에게 데려갔소!
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|시구르드는 군대를 대가로 켄네머의 야를를 프리지아의 왕으로 세우려 했소.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|내 동료 보도는 아스투리아스 왕의 사람이고, 시구르드가 탐내는 중요한 물건을 지니고 있었소.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge64|'황소 목' 스벤은 리베 근처에 은신처를 두고 있소. 워든 릭에서 끌고 간 포로들도 거기 있소.
+dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge65|'황소 목' 스벤과 '눈 속의 뱀' 시구르드는 뭔가를 꾸미고 있소. 나는 그들을 막고 싶소.
+dlga_kinghorik_quest_revenge61:kinghorik_quest_revenge21_2|{s2}^^네 어머니를 시구르드가 데려갔다는 말 때문에 날 찾아온 건가? 내 시간을 헛되이 썼군. 더는 이야기하지 않겠네. 이제 물러가게.
+dlga_kinghorik_quest_revenge62:kinghorik_quest_revenge21_2|{s2}^^군대라고? 그게 자네의 비밀이란 말인가? 그는 내 형제들을 돕겠다며 잉글랜드로 갈 병력을 모으고 있네. 원한다면 내 야를들과 헤르시르들도 그 원정에 끼도록 허락한 건 바로 나일세. 잉글랜드는 부유한 땅이지만, 본디 약한 자들이 살며 더 강한 자들의 지배와 약탈을 기다리는 곳이지. 자네는 내 시간을 낭비했네. 더는 말하지 않겠어. 이제 가보게.
+dlga_kinghorik_quest_revenge64:kinghorik_quest_revenge21_2|{s2}^^자네는 내가 이미 아는 이야기만 늘어놓고 있네. 흥미조차 없군. 내 인내에도 한계가 있네만, 자네는 그 선을 너무 빨리 넘었어. 내 시간을 낭비했네. 이제 나가보게.
+dlga_kinghorik_quest_revenge21_2:close_window|이만 회담은 끝났네.
+dlga_kinghorik_quest_revenge65:kinghorik_quest_revenge55|스벤과 시구르드가 많은 이들에게 미움과 두려움을 사는 건 알겠네. 문제는 그들이 나에게까지 해가 될 일을 꾸미고 있느냐는 것이지.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge61|'황소 목' 스벤이 내 어머니를 붙잡아 시구르드에게 데려갔소.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge62|시구르드는 군대를 대가로 켄네머의 야를를 프리지아의 왕으로 세우려 했소.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge63|내 동료 보도는 아스투리아스 왕의 사람이고, 시구르드가 탐내는 중요한 물건을 지니고 있었소.
+dlga_kinghorik_quest_revenge55:kinghorik_quest_revenge64|'황소 목' 스벤은 리베 근처에 은신처를 두고 있으며, 워든 릭의 포로들도 거기 있소.
+dlga_kinghorik_quest_revenge63:kinghorik_quest_revenge67|이제는 더는 비밀로 묻어둘 수 없을 듯하오. 여기가 그 말을 꺼낼 자리도 아니고, 당신들이 그 말을 들을 사람도 아니긴 하나, 지금 말하지 않으면 더 큰 재앙을 부를 수 있소.^^워든 릭에 대한 습격은 우연한 해적질이 아니었소.
+dlga_kinghorik_quest_revenge67:kinghorik_quest_revenge68_1|내 이름은 칸타브리아 말라코리아 출신 보도 비마라니즈요. 나는 아스투리아스의 알데폰소 왕에게서 왔고, 웨식스 왕 애설레드께 드릴 선물을 품고 북쪽으로 파견되었소. '황소 목' 스벤이 워든 릭을 덮친 까닭도 바로 그 선물과 나 때문이오. 시구르드 라그나르손은 그 선물을 제 것으로 삼고자 하오. 잉글랜드에서 그의 형제들이 왕노릇하듯, 자신도 덴마크의 왕이 되려 하기 때문이오.
+dlga_kinghorik_quest_revenge68_1:kinghorik_quest_revenge68|시구르드가 왕이 되고 싶어 한다는 건 나도 알고 있네. 하지만 선물 하나가 어찌 내 왕좌를 흔들 수 있단 말인가?
+dlga_kinghorik_quest_revenge68:kinghorik_quest_revenge69|라그나르의 아들들은 덴마크와 스베아란드, 이제는 노섬브리아에까지 뿌리를 둔 강대한 자들이오. 겉으로는 잉글랜드를 노리는 듯하나, 결국 그러려면 덴마크의 자원과 전사들을 손쉽게 끌어다 쓸 수 있어야 하오. 시구르드가 여기서 왕이 되면 그 모든 것이 그의 손에 들어가겠지. 게다가 내가 지니고 있던 선물은 라그나르 로드브록의 검이었소. 그의 아들 '무적' 비요른과 헤스턴이 알안달루스 남쪽에서 무슬림 함대에게 패했을 때 잃어버린 바로 그 검이오.
+dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7|그 검을 어찌 무슬림들 손에서 빼냈지?
+dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge7.1|보도, 놀랍군. 자네는 데인들 사정을 너무도 잘 알고 있어. 아직 숨기는 것이 있나?
+dlga_kinghorik_quest_revenge69:kinghorik_quest_revenge71|(아무 말도 하지 않는다)
+dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71|알안달루스의 에미르가 귀한 포로들과 맞바꾸어 내 왕께 바친 선물이오. 웨식스 왕 애설레드가 그 검에 큰 관심을 보였고, 그래서 내 왕 알데폰소가 그를 위해 손에 넣었소.
+dlga_kinghorik_quest_revenge7:kinghorik_quest_revenge71.1|나도 예전에 북쪽에 머문 적이 있소. 하지만 지금 중요한 일은 아니오.
+dlga_kinghorik_quest_revenge71:kinghorik_quest_revenge72|라그나르는 한낱 인간이 아니었네. 스칼드들은 그를 신처럼 떠받들고, 사내들은 그의 전설로 제 넋을 달래지. 시구르드는 그 검을 총회에 들고 나와 제 아버지의 유산을 되찾았다고 떠벌릴 걸세. 왕위를 요구할 수도 있고, 나를 죽일 수도 있지. 그런데도 사람들은 아버지의 검을 되찾아 왔다는 이유만으로 그를 용서할 거야. 그러니 누구든 그 검의 존재를 알기 전에 반드시 부숴야 하네.
+dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge73|그렇다면 거래를 할 수 있겠군. 검과 당신의 지원을 맞바꾸는 거요.
+dlga_kinghorik_quest_revenge72:kinghorik_quest_revenge732|(부룬힐드가 무언가 말하고 싶어 하는 듯하다. 그녀에게 맡긴다.)
+dlga_kinghorik_quest_revenge73:kinghorik_quest_revenge74|나는 스벤과 시구르드에게 갚아야 할 일이 있소. 필요할 때 왕의 보호와 지원을 받고 싶소.
+dlga_kinghorik_quest_revenge74:kinghorik_quest_revenge8|좋네. 그렇게 하지. 그 검은 세상 밖으로 나와서는 안 되네. 다만 조심해야 하오. 시구르드 라그나르손은 교활한 자라 드러내 놓고 치지는 않을 걸세. 가서 그를 만나고, 내게 말한 일들을 구실로 삼아 그 검을 손에 넣게. 훔치든, 사들이든, 영원한 충성을 맹세하든, 내 알 바 아니네. 다만 그 검이 자네 손에 들어오기만 하면 되지. 그 검을 내게 가져오게. 내가 부숴 버릴 테니. 그러면 자네가 덴마크에 있는 동안 내 보호를 받는다고 공표하겠네. 그리하면 시구르드 라그나르손도 감히 자네를 건드리지 못할 걸세. 이제 그만 가보게. 자네와 너무 오래 이야기했군. 처리해야 할 일이 아직 많아. 행운을 비네.
+dlga_kinghorik_quest_revenge732:kinghorik_quest_revenge75|폐하, 우리가 '눈 속의 뱀' 시구르드를 만나기 전에 먼저 왕께 아뢰자고 한 것은 저였습니다. 저는 켄네머의 야를 밑에서 일한 적이 있어 그가 얼마나 위험한 자인지 알고 있습니다. 우리가 왕의 보호와 지원을 청하는 까닭은 {playername}의 어머니가 '눈 속의 뱀' 시구르드와 '황소 목' 스벤의 손아귀에 있기 때문입니다.
+dlga_kinghorik_quest_revenge75:kinghorik_quest_revenge8|알겠다, 아가. 내 지원을 주마. 하지만 나는 라그나르의 검을 원한다. 시구르드는 너를 죽이지 않을 테니 가서 그와 이야기하거라. 필요하면 네가 내 보호 아래 있다고 말해도 좋다. 무엇보다 검을 내게 가져오는 일이 중요하다. 훔쳐서라도 좋으니 반드시 가져오너라. 이제 정말 가봐야겠구나. 너무 오래 붙들고 있었어. 행운을 빈다.
+dlga_kinghorik_quest_revenge8:kinghorik_quest_revenge81|{s2}^^{playername}, 내가 왕께 거짓을 고했소. 뭐, 아주 새빨간 거짓은 아니오. 검이 있다는 것만 빼면 다 사실이었으니. 데인들이 라그나르와 얽힌 것이라면 무엇이든 중히 여긴다는 걸 알고 있었고, 나는 그 점을 이용했소. 위험한 도박이었지만, 우리 편에 왕을 세울 필요가 있었소. 이해해 주길 바라오.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge82|왕의 지원을 끌어내려면 그 검 이야기가 필요했소. 알겠소. 이제 진실을 말해 보시오.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84|안 되오, 보도. 무슨 속셈인지는 모르겠지만, 앞으로는 거짓을 입에 올리지 마시오. 이제 사실을 남김없이 말하시오.
+dlga_kinghorik_quest_revenge81:kinghorik_quest_revenge84.1|거짓은 용납할 수 없소. 다시는 거짓말하지 마시오, 보도. 그렇지 않으면 나도 가만있지 않겠소. (정의)
+dlga_kinghorik_quest_revenge82:kinghorik_quest_revenge84|나는 찬성할 수 없소. 검이 애초에 없었다는 걸 왕께 어떻게 둘러댈 셈이오? 거짓은 늘 화를 부를 뿐이오. 모두가 아는 일이오. 적어도 모두가 알아야 할 일이지.
+dlga_kinghorik_quest_revenge84:kinghorik_quest_revenge85|{s2}^^나는 명예를 중히 여기는 사람이오. 내게 명예는 곧 법이오. 그러나 나는 내 왕과, 그가 내게 맡긴 사명에도 충성을 다해야 하오. 지금의 아스투리아스 왕의 아버지이신 오르도니오 왕께서 나를 보낸 뒤로, 이 낯선 땅을 떠돌아다닌 세월만도 수년이오. 이해하기 어려울지 모르나, 아스투리아스는 모든 사내가 전사로 싸우지 않으면 적의 손에 죽고 마는 작은 왕국이오. 우리는 해마다 알안달루스의 세력과 맞서 싸우오. 늘 이어지는 전선이지만, 바이킹이 오기 전까지는 적어도 등 뒤는 안전하다고 여겼소. 옛 왕 오르도니오와, 이제 그의 아들 알데폰소 왕은 바이킹에게 맞서고 바다를 더 안전하게 만들기 위해 프랑키아와 웨식스와의 동맹을 원하고 있소.
+dlga_kinghorik_quest_revenge85:kinghorik_quest_revenge86|나는 내 왕께서 친히 봉한 서신을 웨식스 왕께 전하려 했소. 가로채이지 않도록 비밀리에 보내야 하는 동맹 서한이었소. 그런데 내가 실패했소. 이제 그 편지는 시구르드 라그나르손의 손에 있소. 우리를 지켜 주어야 했을 자의 손에 말이오. 이 아이러니가 보이시오? 얼마 전에는 그의 형제 '무적' 비요른과 할프단이 아스투리아스 왕국 서부 갈라이키아를 공격하기까지 했소.
+dlga_kinghorik_quest_revenge86:kinghorik_quest_revenge87|{playername}, 보도는 지금 몹시 지쳤어요. 여기서 더 시간을 허비할 순 없어요. 이제 '눈 속의 뱀' 시구르드를 만나러 가야 해요.
+dlga_kinghorik_quest_revenge87:close_window|지금은 서둘러야 하오. 하지만 보도, 자네 임무 이야기는 나중에 다시 해야겠소. 우선 갑시다.
+dlga_kinghorik_quest_revenge87:close_window.1|좋소. 보도를 더 몰아세울 건 없소. 이제 시구르드를 찾아갑시다.
+dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot1|시구르드 라그나르손이 울프의 농장에 우리를 죽일 자들을 보냈소.
+dlga_kinghorik_quest_danmarkprot:kinghorik_quest_danmarkprot2|시구르드는 울프의 농장에서 스벤과 내 어머니를 넘기겠다고 했지만, 돌아온 것은 매복뿐이었소.
+dlga_kinghorik_quest_danmarkprot2:kinghorik_quest_danmarkprot1|시구르드가 제 심복인 '황소 목' 스벤을 내줄 리 없소. 그런 일을 믿었다면, 그대는 내가 생각한 것보다 더 어리석군.
+dlga_kinghorik_quest_danmarkprot1:kinghorik_quest_danmarkprot3|폐하, 명하신 대로 저는 폐하의 눈과 귀가 되어 움직였습니다. {playername}의 진영에는 숨길 비밀이 없었으니, 중요한 사정은 모두 파악할 수 있었습니다. 이미 아시듯 {playername}은(는) 프리지아 왕좌에 꼭두각시를 앉히려던 시구르드의 계획을 깨뜨린 자입니다. 다만 그것은 치밀한 책략이라기보다 우연에 가까웠습니다. {playername}은(는) '황소 목' 스벤에게 납치된 자기 어머니를 구하고, 스벤에게 복수하려고 이곳까지 왔습니다. {playername}이(가) 시구르드와 담판했을 때도, 칸타브리아인 보도를 넘기는 대가로 스벤과 어머니를 울프의 농장에서 돌려받기로 했습니다.
+dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4|그래. 대체로 내 예상에서 벗어나지 않는군.
+dlga_kinghorik_quest_danmarkprot3:kinghorik_quest_danmarkprot4.1|{s2}^^그래, 보도가 시구르드의 포로가 되었다는 소식은 들었지. 그는 고문을 당한 뒤 죽을 것이고, 시구르드는 그의 시체를 뇨르드께 바치겠지.
+dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot41|에길, 이 배신자! 네가 첩자였군!
+dlga_kinghorik_quest_danmarkprot4:kinghorik_quest_danmarkprot5|--아무 말도 하지 않는다.--
+dlga_kinghorik_quest_danmarkprot41:kinghorik_quest_danmarkprot42|{s2}^^나는 배신자가 아니오. 내 충성은 오직 왕께 있을 뿐이오. 그리고 네가 아는 것보다 훨씬 더 너를 돕고 있지. 호리크 왕께는 온 덴마크에 정보망이 있고, 너뿐 아니라 특히 보도에 관한 일은 네가 오기 전부터 이미 알고 계셨소.
+dlga_kinghorik_quest_danmarkprot42:kinghorik_quest_danmarkprot5|에길, 계속하게. 내 시간과 인내에 한계가 있다는 것쯤은 알겠지?
+dlga_kinghorik_quest_danmarkprot5:kinghorik_quest_danmarkprot6|문제가 하나 있소. 시구르드가 {playername}을(를) 죽이려고 '하얀 머리' 올비르를 보냈소. 그런데 올비르는 죽었고, 죽기 전 시구르드가 이 일을 총회에 가져가겠다고 떠들어 놓았소. 울프도 틀림없이 그쪽 편 증인이 되겠지. 문제는, 폐하, 이미 너무 많은 이들이 {playername}이(가) 폐하와 이야기를 나누는 걸 보았다는 겁니다. 시구르드는 그걸 폐하를 치는 데 써먹을 수 있습니다.
+dlga_kinghorik_quest_danmarkprot6:kinghorik_quest_danmarkprot61|{s2}^^너는 {playername}와 함께 다녔지. {reg59?그녀:그}를 어떻게 보느냐?
+dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7|저는 {reg59?그녀:그}를 높이 삽니다. {reg59?그녀:그}는 머리가 맑고, 목표를 좇는 데 지칠 줄 모르며, 신들의 총애까지 받은 사람입니다. {reg59?그녀:그}의 운은 내가 본 누구보다도 큽니다. 우리 뜻을 이루는 데 믿고 맡길 만한 사람이라 생각합니다.
+dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.1|{reg59?그녀:그}는 형편없는 지도자요. 멍청하고 고집이 세며, 견디기조차 힘들지. 몇 번이나 얼굴에 침을 뱉지 않고 참았는지 모르겠소. 그래도 운만큼은 내가 본 누구보다 크오. 어찌 된 일인지는 모르나, 결국엔 늘 이기더군. 우리 일을 이루는 데 쓸모는 있을 거요.
+dlga_kinghorik_quest_danmarkprot61:kinghorik_quest_danmarkprot7.2|딱히 길게 할 말은 없소. {reg59?그녀:그}는 그저 평범한 사람처럼 보였으니까. 특별한 점은 못 봤소. 하나만 빼면 말이오. 바로 운이오. {reg59?그녀:그}의 운은 내가 본 누구보다도 크오. 어찌 된 일인지는 모르나, 늘 이기더군. 우리 일에 힘이 되긴 할 거요.
+dlga_kinghorik_quest_danmarkprot7:kinghorik_quest_danmarkprot8|{s2}^^보도의 임무는 비밀이 아니었소. 그걸 감추려 온갖 수를 썼다 해도, 나에게도, '눈 속의 뱀' 시구르드에게도 말이오. 아스투리아스 궁정에는 알데폰소 왕을 끌어내리기 위해서라면 무슨 짓이든 할 자가 있소. 믿기시오? 그렇게 먼 왕국도 우리와 똑같은 골칫거리를 안고 있다니. 나는 자네가 처음 나를 찾아오기 훨씬 전부터 이 일을 알고 있었소. 모른 체하고 있었을 뿐이지.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81|누가 되었든, 나를 갖고 놀려 드는 자는 좋아하지 않소. 왕이라 해도 마찬가지요.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot81.1|우리가 처음 만났을 때부터 우리를 비웃고 있었던 거군.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9|알겠소. 당신과 시구르드는 왕좌를 두고 계략을 겨루고 있고, 나는 그 한가운데 끼어든 셈이오.
+dlga_kinghorik_quest_danmarkprot8:kinghorik_quest_danmarkprot9.1|--아무 말도 하지 않는다.--
+dlga_kinghorik_quest_danmarkprot81:kinghorik_quest_danmarkprot9|그리 극적으로 굴진 마시오. 다만 그대의 담대함은 마음에 드는군. 내가 보고 싶었던 건 시구르드가 어디까지 감수할 작정인가 하는 점이었소. 이제 분명해졌지. 그는 자네를 죽이는 데 꽤 큰 판돈을 걸어 두었어.
+dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^시구르드는 내 왕국을 노리고 있소. 그는 이미 군대를 긁어모았지. 겉으로는 잉글랜드에 있는 형제들을 돕기 위한 병력이라 하지만, 총회에서 지지를 얻어 내면 그 병력으로 내 왕좌까지 노릴 수 있소. 그리고 이제 그 지지를 모을 패가 둘 더 생겼지. 하나는 아스투리아스에서 온 보도의 편지, 다른 하나는 '하얀 머리' 올비르의 죽음이오.
+dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|우리의 운명은 이미 얽혔소, {playername}. 그대가 오기 전부터 점쟁이들이 그대 이야기를 했소. 시구르드보다 더 큰 행운을 지닌 {reg59?여인:사내}가 와서 내 왕좌를 지켜 줄 것이라더군. 그대는 '황소 목' 스벤과 제 어머니를 원하고, 나는 시구르드의 계획을 꺾고 싶소. 내가 그대를 돕겠소. 그러니 그대도 나를 돕게. 지금부터 그대는 덴마크에서 내 공식적인 보호 아래 있소.
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|왕의 계획이 무엇인지 들을 수 있겠소?
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|내가 당신에게 너무 많은 것을 내준 것 같군. 나는 당신의 신하가 아니오. 당신 도움이 꼭 필요하다고도 생각지 않소.
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|지금은 동맹으로 묶이겠지만, 이 일이 끝나면 당신들과는 더 얽히고 싶지 않소.
+dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|좋소. 같은 편에 서 준다니 기쁘군. 이제 잘 들으시오.
+dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|보아하니 그대는 신들이 내려 준 행운을 죄다 끌어다 써야 겨우 버틸 만큼 우둔하군. 잘 들으시오. 그대는 총회에 가야 하오. 하지만 내 후원 없이는 그 문턱조차 넘지 못할 거요. 거기엔 형제의 죽음을 들먹이며 그대를 고발할 '황소 목' 스벤도 있을 것이오. 총회에 나오지 않으면 변론도 못 하고 패하게 되지. 그러면 총회는 그대를 추방하고 법의 보호 밖으로 밀어낼 거요. 그리 되면 어떤 데인이라도 무법자가 된 그대를 죽이거나 능멸할 수 있소. 그러니 어머니를 되찾고 스벤을 죽이고 싶다면, 결국 내 도움이 절실한 셈이오. 내 말을 따르시오.
+dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|그건 타당한 조건이오. 우리의 이해가 맞물리는 동안에는 동맹으로 남겠소. 일이 끝나면 나는 덴마크를 떠나리다.
+dlga_kinghorik_quest_danmarkprot12:kinghorik_quest_danmarkprot13|{s2}^^구트럼이라 불리는 사내가 있소. 덴마크에서 존경받고, 믿을 만한 자지. 나는 라그나르의 아들들이 잉글랜드를 침공할 때 시구르드가 모은 바이킹 병력을 그가 지휘하게 하려 하오. 그러나 '눈 속의 뱀' 시구르드가 총회에서 보도의 편지를 내보이거나, '하얀 머리' 올비르의 죽음을 나와 엮어 버리면, 내 제안은 먹히지 않을 것이오.
+dlga_kinghorik_quest_danmarkprot13:kinghorik_quest_danmarkprot14|불행히도 그 편지는 이미 숨겨졌소. 내 정보원들 말로는 시구르드가 '황소 목' 스벤 다음가는 심복, 아틀리 에이릭손에게 맡겼다고 하오. 아틀리는 얼마 전 리베를 떠나 배를 띄웠고, 지금은 누구도 행방을 모르오. 리베 항구 관리가 뭔가를 알고 있을 수는 있으나, 내 사람들에게는 입을 열지 않을 거요. 내가 총회를 앞두고 충성심을 사들이는 동안, 그대는 그 편지를 손에 넣어야 하오.
+dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151|그 정보를 얻어내려면 돈이 꽤 들 듯하오. 자금이 더 필요하오.
+dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot151.1|이 일은 내가 맡겠소. 다만 자금 지원이 좀 필요하오.
+dlga_kinghorik_quest_danmarkprot14:kinghorik_quest_danmarkprot16|항구 관리와는 내가 직접 담판을 짓겠소.
+dlga_kinghorik_quest_danmarkprot151:kinghorik_quest_danmarkprot153|리베 항구 관리를 알지. 야심이 큰 자요. 그 입을 열려면 값을 제대로 치러야 하오.
+dlga_kinghorik_quest_danmarkprot153:kinghorik_quest_danmarkprot16|좋소. 이런 때를 위해 따로 떼어 둔 보물이 좀 있지. 1만 5천 페닝을 가져가시오. 항구 관리에게 건넬 돈이며 다른 경비까지 그걸로 충당할 수 있기를 바라오.
+dlga_kinghorik_quest_danmarkprot16:kinghorik_quest_danmarkprot17|또 하나. 제 목이 아직 어깨 위에 붙어 있길 바란다면, 울프를 설득해 총회에서 그대에게 불리한 증언을 하지 않게 만드는 편이 좋소. 그리고 덴마크의 야를들과도 좋은 관계를 쌓아 두시오. 그러면 총회에서 그대 편을 들어 줄 자들이 생길 것이오. 그들을 만나 안면을 터 두길 권하오.
+dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot181|물론이오. 내 목은 소중하니까.
+dlga_kinghorik_quest_danmarkprot17:kinghorik_quest_danmarkprot182|이제 더 할 말은 없는 듯하오. 이만 물러가겠소.
+dlga_kinghorik_quest_danmarkprot181:kinghorik_quest_danmarkprot19|이제 그대 목숨은 내게도 중요한 문제가 되었소. 그러니 나를 믿으시오. 행운을 비오.
+dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|옳소. 나도 여기 너무 오래 붙들려 있었군. 행운을 비오.
+dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playername}, 우리에게는 해내야 할 일이 있소.
+dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|좋소. 하지만 에길, 네 배신은 잊지 않겠소.
+dlga_kinghorik_quest_danmarkprot20:close_window|좋소. 더는 시간을 허비하지 맙시다.
+dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^거짓말쟁이! 에길, 넌 나를 속였어. 나는 널 믿었단 말이야. 우리 사이에 뭔가가 있다고 여겼는데, 네가 원한 건 {playername}에 관한 정보뿐이었다니. 나는... 우리는... 난 정말...^^{s3}
+dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^호리크 왕은 내 왕이자 내 아버지요. 내 충성은 그분 위에 다른 누구에게도 가지 않소. 누구에게 설명할 의무도 없소. 나는 브룬힐드를 이용한 적 없소. 우리 둘 다 즐겼을 뿐이오. 그 이상을 기대했다면 그건 그녀의 잘못이지. 나 같은 자가 결혼 같은 건 하지 않는다는 것쯤, 하물며 프리지아 노예와는 더더욱 그럴 리 없다는 것쯤, 진작 알았어야 했소. 당신이 어떻게 생각하든 상관없소. 어쨌든 내 덕에 당신은 아버지의 지원을 얻게 되었으니 감사하는 편이 나을 거요.
+dlga_kinghorik_quest_danmarkprot23:close_window|이 일이 끝나면 우리 곁에서 꺼지시오. 당신의 그 소중한 아버지에게 돌아가면 될 거요.
+dlga_kinghorik_quest_danmarkprot23:close_window.1|브룬힐드에게 한 짓의 대가를 치르게 하겠소. 일이 끝나면 당신에게 결투를 청하리다.
+dlga_kinghorik_quest_danmarkprot23:close_window.2|이 문제로 더 말하고 싶지 않소. 어서 출발합시다.
+dlga_kinghorik_quest_thething1:kinghorik_quest_thething2|{s2}^^왜 이렇게 늦었소? 시구르드 라그나르손 쪽 기세가 심상치 않소.
+dlga_kinghorik_quest_thething2:kinghorik_quest_thething3|해결해야 할 일이 좀 있었소. 그래도 제때 오긴 했소.
+dlga_kinghorik_quest_thething2:kinghorik_quest_thething3.1|전갈을 받는 대로 곧장 달려왔소. 늦은 건 당신 쪽 전령일지도 모르겠군.
+dlga_kinghorik_quest_thething3:kinghorik_quest_thething4|아무렴 어떤가. 저들 역시 그대가 오기를 기다리고 있었던 듯하니, 어쩌면 내가 굳이 사람을 보낼 필요도 없었을지 모르겠군. 저들이 무슨 수를 꺼내 들 참인 것 같소. 시구르드 라그나르손은 내가 800명의 병력을 자기 손에 넘기지 않는다고 불평하고 있소. 사실 그 병력을 구트럼이 이끌게 하자고 한 건 나였지. 그런데 며칠 전 구트럼이 제 농장에서 살해당하는 불행을 당했소. 손님을 불러 잔치를 벌이던 중 집째 불탄 거요. 저들은 무법자나 범죄자 소행이라 하지만, 내 생각엔 시구르드의 히르드에서 뱃머리를 맡는 오른팔, '황소 목' 스벤 짓이오. 다만 증거도 증인도 없소. 집과 함께 모두 타 버렸으니.
+dlga_kinghorik_quest_thething4:kinghorik_quest_thething5|이 모든 사정을 합치면 형편이 몹시 심각하오. 구트럼이 죽었으니, 시구르드는 저 800명을 손에 넣으려 필사적으로 밀어붙일 거요. 나는 그가 그 병력으로 내 왕좌를 노릴까 두렵소.
+dlga_kinghorik_quest_thething5:kinghorik_quest_thething7|우선 무슨 꼴이 벌어지는지 지켜봅시다.
+dlga_kinghorik_quest_thething5:kinghorik_quest_thething63|나는 당신 사정까지 돌볼 겨를이 없소. 내 관심은 '황소 목' 스벤과 어머니요.
+dlga_kinghorik_quest_thething63:kinghorik_quest_thething7|내 사정이 곧 그대 사정이오. 시구르드가 이기면, 그대 목숨은 내 보호 없이는 한 푼 값어치도 없어지오. 총회는 그대를 무법자로 선언할 것이고, 그대는 모든 것을 잃은 채 누가 죽여 줄 때까지 숲속에 숨어 살아야 할 거요.
+dlga_kinghorik_quest_thething7:kinghorik_quest_thething8_1|{s2}^^왔군, {playername}. '황소 목' 스벤이 이제 총회에서 입을 열 권리를 얻었소. 저 쥐 같은 자가 무슨 말을 늘어놓는지 봅시다.
+dlga_kinghorik_quest_thething8_1:kinghorik_quest_thething8|조용! 저 뱀 같은 자가 무슨 말을 하는지 들어 보자.
+dlga_kinghorik_quest_thething8:kinghorik_quest_thething81|{s2}^^덴마크의 사내들이여, 내 이름을 모를 자는 없을 것이오. 나는 아직 어린아이에 불과했을 적부터 라그나르와 함께했고, 그가 120척의 배와 4천이 넘는 병력을 거느리고 프랑키아를 휩쓸었을 때도 함께했소. 지금도 스칼드들이 노래하는 바로 그 이야기 말이오. 나는 잉글랜드 최강의 왕국 웨식스에서 400명의 바이킹을 이끌어 큰 명예와 부를 얻은 사람이오. 그러니 프리지아와 잉글랜드, 프랑키아의 사내들이 나를 두려워하는 것은 당연하오. 그리고 이곳 덴마크에서는 마땅한 존중과 사랑을 받고 있지.
+dlga_kinghorik_quest_thething81:kinghorik_quest_thething82|내게는 '하얀 머리' 올비르라는 형제가 있었소. 나보다 더 나은 사내였지. 명예롭고 신들의 사랑을 받던 자였으나, 한창때에 살해당했소. 그런데 지금 왕은 그 살인자를 감싸고 있소. 나는 이제껏 총회에 아무것도 요구한 적이 없지만, 오늘은 정의를 구하겠소. 살인자가 우리 곁에 서 있는 것이 옳소? 왕이 악을 감싸는 것이 옳소? 이 땅에서 살인자들이 벌도 받지 않고 돌아다니게 둘 것이오?^^{s2}
+dlga_kinghorik_quest_thething82:kinghorik_quest_thething83|{s2}^^예상대로 흘러가는군. 저들은 당신을 핑계 삼아 호리크 왕의 권위를 흔들고 있소.
+dlga_kinghorik_quest_thething83:kinghorik_quest_thething85|{s2}^^'황소 목' 스벤, 그대의 이름값과 지난 무훈을 모르는 이는 없소. 그러나 지금 그대 말은 왕이 살인자를 비호하고 있다고 들리오. 이는 대단히 중한 고발이니, 총회는 이제 호리크 왕의 답변도 들어야 하오.
+dlga_kinghorik_quest_thething85:kinghorik_quest_thething86|스벤은 나를 모욕하고 있소. 나는 살인자를 비호한 적도 없고, 앞으로도 그럴 생각이 없소. 설령 그런 일이 있었다 해도, 그것은 내가 알지 못한 채 벌어진 일이오. {playername}(은)는 자유민으로서 내 보호를 청하러 왔고, 나는 {reg59?그녀:그}가 제 가치를 증명한 뒤에야 보호를 약속했소. 또한 {reg59?그녀:그}가 내게 들려준 '하얀 머리' 올비르의 죽음 이야기는 스벤의 고발과 전혀 다르오.
+dlga_kinghorik_quest_thething86:kinghorik_quest_thething9|이제 피고인이 이 일에 대해 말할 차례이오.
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething90|당신은 '황소 목' 스벤의 체면을 꺾기로 했다. (설득)
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething91|당신은 어머니의 납치를 꺼내 군중의 동정심에 호소하기로 했다.
+dlga_kinghorik_quest_thething9:kinghorik_quest_thething92|당신은 어머니 이야기를 빼고 사건 경위만 밝히는 편이 낫다고 판단했다.
+dlga_kinghorik_quest_thething90:kinghorik_quest_thething90_1|내 이름은 {playername}이오. '하얀 머리' 올비르는 형제 '황소 목' 스벤의 사주를 받고 나를 죽이러 왔소. 나는 이 자리에 있는 시구르드 라그나르손과의 약조에 따라 울프의 농장에 갔고, 그곳에서는 평화롭게 머무르고 있었소. 그런데 '하얀 머리' 올비르가 여러 부하를 거느리고 들이닥쳐 나를 죽이려 했소. 나는 그런 일을 순순히 받아들이는 사람이 아니오. 결국 죽은 쪽은 올비르였지. 내가 묻겠소. 정말 나를 없애고 싶었다면, 스벤은 왜 제 손으로 오지 않고 올비르를 보냈소? 내게는 그가 나를 두려워한 것으로 보이오. 그토록 호언장담을 늘어놓지만, 결국은 무방비한 배나 털고 주군의 망토 뒤에 숨는 겁쟁이에 지나지 않소.
+dlga_kinghorik_quest_thething91:kinghorik_quest_thething94|내 이름은 {playername}이오. 나는 살인자가 아니오. 올비르의 죽음은 정당방위였소. '황소 목' 스벤은 내 어머니를 납치했고, 시구르드 라그나르손은 울프의 농장에서 그녀를 돌려주겠다고 약속했소. 하지만 그는 약속 대신 '하얀 머리' 올비르를 보내 나를 죽이려 했소. 올비르도 맹렬히 싸우긴 했으나, 결국 상처를 입고 죽었소.
+dlga_kinghorik_quest_thething92:kinghorik_quest_thething95|내 이름은 {playername}이오. 나는 살인자가 아니오. 올비르의 죽음은 정당방위였소. 나는 울프의 농장에서 시구르드 라그나르손의 전령을 기다리고 있었소. 그런데 전령 대신 '하얀 머리' 올비르가 와서 나를 공격했고, 전투 끝에 치명상을 입고 죽었소.
+dlga_kinghorik_quest_thething90_1:kinghorik_quest_thething95|{s2}^^잘 말했소. 저자의 말문이 막힌 듯하군.
+dlga_kinghorik_quest_thething94:kinghorik_quest_thething95|{reg59?그녀:그}의 어머니는 프리지아 앞바다에서 내가 올린 전리품이었소. 나는 워든 릭을 습격했고, 내 권리에 따라 그녀는 내 노예가 되었지. 하지만 나는 그녀가 세이드, 곧 영을 다루는 자임을 알게 되었소. 이제 그녀는 내 아내이자 조언자요.^^{s2}
 dlga_kinghorik_quest_thething95:kinghorik_quest_thething10|지금까지 우리는 양 당사자의 이야기를 들어보았소. 이제 양측의 증인을 부를 차례이오.
-dlga_kinghorik_quest_thething10:kinghorik_quest_thething11|{s2}^^나는 에길이오. 여기 사람들은 전부 내가 누구인지 알 것이고, 내가 거짓말을 하면 신들께서 나를 벌하실 것이오. '하얀 머리의' 올비르가 왔을 때 나도 울프의 농장에 있었소. 내 아버지, 호리크 왕께서는, 이 땅에서 일어나는 모든 일에 대해서 항상 신경을 쓰고 있었소. 그래서 왕께서는 나에게 {playername}와(과) 함께 여행하도록 명령했소.^'하얀 머리의' 올비르는 많은 부하들과 함께 왔소. 멩세하건데, 그 싸움을 먼저 시작한 것은 그들이었소. 올비르는 명예로운 죽음을 맞이했지만, 그를 죽게 한 전투는 그가 일으킨 것이었단 말이오. {playername}에겐 살인에 대한 죄가 없소.
-dlga_kinghorik_quest_thething11:kinghorik_quest_thething11_1|당신에게는 불행하게도, 당신이 거짓말쟁이라는 것을 입증할 수 있소. 올비르가 정당하게 좋은 죽음을 맞이했다면, 어째서 살인자가 올비르의 검을 가지고 있겠소. {reg59?그녀:그}는 내 형제가 죽음의 순간에 자신의 검을 들지 못하게 막았고, 그 때문에 그는 발할라 들어가지 못했소. 에길은 거짓말쟁이요, 그의 증언은 유효하지 않소.
-dlga_kinghorik_quest_thething11:kinghorik_quest_thething12|{s2}^^우리는 증언을 들었습니다. 감사합니다, 에길. 황소 목 스벤, 당신은 불러낼 증인이 있습니까?
-dlga_kinghorik_quest_thething11_1:kinghorik_quest_thething12|{s2}^^에길은 거짓말을 하고 있소. 따라서, 그의 증언은 유효하지 않소. 황소 목 스벤, 당신은 불러낼 증인이 있습니까?
-dlga_kinghorik_quest_thething12:kinghorik_quest_thething13|나에겐 중요한 증인인 울프 토리손이 있지만 그는 총회에 오지 않았소. 또 다른 남자가 내 형이 어떻게 죽었는지 말해주었지만 그는 증언을 하지 않기로 했소...
-dlga_kinghorik_quest_thething13:kinghorik_quest_thething13_1|우리는 참석한 야를들에게 의견을 묻고 싶습니다. 여러분들의 의견은 어떻습니까?
-dlga_kinghorik_quest_thething13_5:kinghorik_quest_thething14|{s2}^^오딘의 지혜를 빌려, 우리는 평결을 내릴 준비가 되었소.
-dlga_kinghorik_quest_thething14:kinghorik_quest_thething14_1|나, 시구르드, 라그나르 로드브록의 아들이 발언권을 요청하겠소. 이 문제는 큰 나무에서 하나의 가지에 지나지 않소. 그리고 이 가지 하나가 진짜 문제를 숨기고 있소.
-dlga_kinghorik_quest_thething14_1:kinghorik_quest_thething14_2|발언하시오, 야를 시구르드, 라그나르의 아들. 우리 모두의 소중한 기억이자, 라그나로크를 준비하며 신들의 연회에서 우리를 기다리고 있는 그의 아들로써 말이오.
-dlga_kinghorik_quest_thething14_2:kinghorik_quest_thething14_3|{s2}^^아버지께서 살아계실 적의 자유인들의 총회에서는 '하얀 머리의' 올비르처럼 좋은 사람을 죽인 도적을 위해 이렇게나 많은 고민을 하지 않았소. 그러나 시간은 많은 것을 바꾸는 법이오. 오히려 소수의 사람들은 그 변화를 조장했소. 지금의 총회는 왕의 손 위에 올려진 장난감에 불과하오. 저 자, {playername}는 거대한 힘의 장기말에 불과하다는 것이오.
-dlga_kinghorik_quest_thething14_3:kinghorik_quest_thething14_4|{s2}^^내 왕이시여, '눈 속의 뱀' 시구르드는 {playername}에 대해 이야기 하려고 하는 것이 아닙니다. 그는 당신을 원하고 있어요. 그는 우리가 우려했던 대로 당신의 왕좌를 노리고 있습니다.
-dlga_kinghorik_quest_thething14_4:kinghorik_quest_thething14_5|{s2}^^아버지, 우리는 시구르드의 발언을 끊어야 합니다. {playername}가 {reg59?그녀:그}의 죄를 인정하게 하고, 총회에 의해 처벌받게 둡시다! {reg59?그녀:그}의 희생으로 이 계략을 끝내야만 합니다. 그렇지 않으면 당신의 왕위를 잃을 수도 있습니다. '눈 속의 뱀' 시구르드는 날카로운 사람이고, 확실한 우위를 가지고 있지 않았다면 총회에서 이렇게 공개적으로 당신을 공격하지 않았을 겁니다.
-dlga_kinghorik_quest_thething14_5:kinghorik_quest_thething14_6|에길, 빌어먹을 배신자 같으니. 나는 내 죄를 인정하지 않소. 나는 결백해!
-dlga_kinghorik_quest_thething14_5:kinghorik_quest_thething14_6.1|그 것이 당신에게 필요한 일이라면, 나는 내 죄를 인정하고 왕을 지키겠소.
-dlga_kinghorik_quest_thething14_6:kinghorik_quest_thething15|일단 침착할 필요가 있소. 우리는 총회의 존중을 잃을 수 있는 그 어떤 일도 해선 안 되오. 힘의 균형은 매우 섬세하고, 여기 있는 야를들 역시 매우 중요하오. 우리는 시구르드가 무엇으로 우리에게 대항하려고 하는지 확인할 필요가 있소.
-dlga_kinghorik_quest_thething15:kinghorik_quest_thething15_1|{s2}^^스벤에겐 올비르가 살해당했다는 증언을 해 줄 울프 토리슨 이라는 증인이 있었소. 그러나 호리크 왕은 그를 침묵시키기 위해 울프의 농장에 {playername}을(를) 보냈고, 결국 스벤은 최고의 증인을 잃었소. 나에겐 아틀리 에이릭손이라고 하는 충실하고 소중한 다른 부하가 있었소. 나는 그에게 이 총회에서 사용할 중요한 증거를 보호하는 임무를 맡겼었소. 그런데 호리크 왕은 {playername}을 보내 그를 죽였소.^^{s3}
-dlga_kinghorik_quest_thething15_1:kinghorik_quest_thething15_2|{s2}^^시구르드 라그나르손, 그대는 너무 많은 말을 했소. 그대는 나를 모욕하고, 명예를 깎아내리고 있지만 증거나 증인은 빈약하오. 이런식으로는 결코 그대에게 좋은 쪽으로 끝나지 않을 것이오.
-dlga_kinghorik_quest_thething15_2:kinghorik_quest_thething15_31|그가 이야기를 끝내게 두시오. 우리 모두는 이 곳에서 무슨 일이 일어나고 있는지 더 알고 싶소.
-dlga_kinghorik_quest_thething15_31:kinghorik_quest_thething15_3|나는 그저 내 명예를 지킬 뿐이오!
-dlga_kinghorik_quest_thething15_3:kinghorik_quest_thething15_4|맞소, 그는 발언을 하도록 허락 받았고, 그럴 권리가 있소. 만일 그가 말한 것 들에 대해서 증명할 수 있다면 왕권을 바꿀 때가 되었다는 것이오.
-dlga_kinghorik_quest_thething15_4:kinghorik_quest_thething15_5|호리크 왕은 좋은 왕이시오. 당신은 당신의 말을 증명할 수 있어야 할 것이오, 시구르드.
-dlga_kinghorik_quest_thething15_5:kinghorik_quest_thething15_6|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 잉글랜드에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호리크 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
-dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|모든 것은 때가 되면 알게 될 것이오. 하지만 그에 앞서 이 문제가 우리의 생각보다 훨씬 더 크다는 것을 재차 이야기 하고 싶소. 800명의 바이킹들이 잉글랜드에 있는 나의 형제들을 돕기 위해 출항할 준비가 되어있소. 켄네머의 야를이 나에게 400명의 지원을 약속했고, 그 덕에 우리는 1200명이 넘는 병력을 가질 수 있었소. 그러나 호리크 왕이 이 조약을 방해하기 위해 {playername}을(를) 프리지아에 보냈소. 그것도 성에 차지 않았는제, 왕은 구트럼이 군대를 이끌도록 제안했소. 이 모든 병사들을 모으고, 배와 식량을 모으기 위해 애 쓴 사람은 나였는데도 말이오...
-dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|시구르드 라그나르손, 당신의 고발은 매우 중차대한 사안이오. 당신의 주장을 확인할 수 있는 증거나 증인이 있소?
-dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|그렇소, 지금까지 {playername}와(과) 모든 시간을 함께 여행한 사람이 있소. 그도 지금 여기에 있고, 기꺼이 이 총회에서 증언을 할 것이오. 그의 이름은 레긴하르트이고, 켄네머의 야를의 시종이었소.
-dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|레긴하르트, 나와주시오. 당신은 시구르드 라그나르손의 말이 사실인 것을 확인해줄 수 있소?
-dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^전... 그게... 네, 맞습니다. 나는 {playername}을(를) 프리지아에서 만났는데, 그 때 {reg59?그녀:그}는 내가 친애하고 사랑하던 티아데르트를 죽여서 켄네머 야를의 신뢰를 얻으려고 하고 있었소. 그 다음, {reg59?그녀:그}는 켄네머의 야를을 배신하고 황소 목 스벤과 시구르드 라그나르손을 쫒아 덴마크로 왔소. {reg59?그녀:그}는 스벤과 시구르드를 적으로 삼아 증오하고 있소. 그래서 {reg59?그녀:그}는 호리크 왕과 동맹을 맺고 올비르와 아틀리를 죽인 것이오. 맹세하건데, 이 모든것은 사실이오.
-dlga_kinghorik_quest_thething16_3:kinghorik_quest_thething16_4|{s2}^^레긴하르트? 이게 무슨 짓이야!?
-dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}은(는) 살인자입니다. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername)은(는) 그와 그의 가족을 모두 죽였소! 심지어 그의 아들까지! 나는 언젠가 티아데르트를 위해 복수할 것이라고 약속했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
-dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^내 화살은 그대를 향한게 아니오, 에길. 티아데르트는 나에게 형제 같은 사람이었소. 그리고 {playername}은(는) 그를 찾기 위해, 그리고 그를 죽이기 위해 나에게 거짓말을 했소. 나는 언젠가 티아데르트의 죽음을 복수하기 위해 {playername}의 신뢰를 얻겠노라 다짐했소. 그리고 그 날이 왔소. 나는 그저 농장, 아내와 아이들을 바란게 다였소. 그러나 {playername}은(는) {reg59?그녀:그}가 가는 곳마다 불행만을 안겨주었소. 나는 보호의 필요성을 느꼈고, 시구르드가 내가 원하는 모든 것을 약속했소.
-dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething17_1|레긴하르트, 당신은 나를 알고있소. 내가 배신자를 어떻게 처단하는지 당신도 잘 알 것이오. 곧 다시 보기로 합시다.
-dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething18|당신이 언젠가 말했듯이, 운명은 뒤돌아보지 않는 법이오! 운명은 항상 그녀의 앞으로만 간다오.
-dlga_kinghorik_quest_thething17_1:kinghorik_quest_thething18|그럴 일은 없소. 우리는 서로를 다시 볼 수 없을 거요. 나와 내 농장, 그리고 내 부인은 야를의 보호를 받을 거고, 당신은 죽거나 추방자가 되겠지.
-dlga_kinghorik_quest_thething18:kinghorik_quest_thething19|호리크 왕, 시구르드 라그나르손이 매우 심각한 주장을 하였고, 그를 지지하는 증인이 있소. 이에 대해 당신은 어떤 변론을 할 생각이오?
-dlga_kinghorik_quest_thething19:kinghorik_quest_thething20|{s2}^^나는 레긴하르트라는 이름의 남자를 모르오. 나는 그가 {playername}와(과) 분쟁을 빌미로 시구르드에게 매수된 거짓말쟁이로 의심하고 있소. 어쨌든, 그의 증언은 {playername}에 대한 것이지, 나에게 대항하는 것은 없소. 그는 내가 {playername}를 도왔던 일에 어떤 잘못이 있었던 것인지 보여주지도 못했고, 심지어 나를 언급조차 하지 않았소. 이 것이 나에 대해 시구르드 라그나르손이 고발하려고 하는 전부라면, 이 총회에 요청컨데, 나의 명예에 대한 모욕에 대한 보상을 요청하는 바이오.
-dlga_kinghorik_quest_thething20:kinghorik_quest_thething20_1|{s2}^^신들은 당신이 내 증거와 증인들을 제거한 사실을 모두 알고있소! 당신이 아틀리 에이릭손과 울프 토리손에게 당신의 개를 보냈을 때도 이 자는 {playername}와(과) 함께 있었소. 따라서 그는 당신이 그 모든 일들에 관여했다는 것을 증언할 수 있소!
-dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_2|나는 레긴하르트가 나에 대한 증오에 눈이 먼 거짓말쟁이라고 말 하겠소. 그의 주장은 나에게 반대하는 그 말이 전부이오.
-dlga_kinghorik_quest_thething20_1:kinghorik_quest_thethingdialogextend1|우선, 레긴하르트의 첫번째 주인은 켄네머의 야를이 아닌, 티아데르트였소. (설득)
-dlga_kinghorik_quest_thethingdialogextend1:kinghorik_quest_thething20_2|지금 그가 나를 배신하듯이, 레긴하르트는 그의 첫번째 주인인 티아데르트도 배신했소. 어떤 사람이 알려진 적을 그의 부대에 두려고 하겠소? 그 남자는 단지 그가 신뢰할 수 없음을 보여 주었소.
-dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_3|레긴하르트는 진실을 말하고 있소. 그가 설명한 대로 모든 일이 사실이오.
-dlga_kinghorik_quest_thething20_3:kinghorik_quest_thething20_4|뭐라고? 나 역시 {playername}의 부대에 있었소. 그리고 이 자가 거짓말을 한다는 것을 신에게 맹세하오. 나는 그들의 주장에 대해서 죽음의 결투를 요구하오.
-dlga_kinghorik_quest_thething20_4:kinghorik_quest_thething20_5|나, 하랄드 하랄드손, 에길에 이어 두 번째 도전하겠소.
-dlga_kinghorik_quest_thething20_5:kinghorik_quest_thething20_6|오, 신이시여, 무슨 짓이요, {playername}? 당신 미쳤소? 난 당신을 배신했소. 내가 어떻게 당신의 도움을 받겠소?
-dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7|왜냐하면 당신의 깊은 곳엔 좋은 사람이 남아있다는 것을 알기 때문이오. 그리고 당신은 내 친구이지 않소.
-dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7.1|왜냐하면 호리크 왕은 자신을 보호하기 위해 나의 행동에서 본인의 개입을 제외시켰기 때문이오.
-dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7.2|나도 내가 왜 그렇게 말 했는지 모르겠소.
-dlga_kinghorik_quest_thething20_7:kinghorik_quest_thething20_2|조용히 하시오! 우리는 이 총회를 조롱거리로 만드는 사람을 용납하지 않을 것이오.
-dlga_kinghorik_quest_thething20_2:kinghorik_quest_thething21|자, 이제 이 문제는 왕국의 안녕에 영향을 미칠 수 있는 매우 민감한 문제가 되었소. 법관들은 잠시 물러나 신중하게 생각해 볼 시간을 갖기로 하겠소.
-dlga_kinghorik_quest_thething21:kinghorik_quest_thething22|(당신은 법관들이 큰 바위 뒤에서 열띤 토론을 하는 것을 지켜봅니다. 모든 주변 사람들이 전력으로 대화에 임하고 있습니다. 야를들 중 일부는 호리크 왕을 지지하고, 다른 일부는 야를 시구르드 라그나르손을 지지합니다. 이 총회는 내전의 시발점이 될 수도, 그것의 해결책이 될 수도 있어 보입니다. 이제 모든 것은 심사위원들의 결정에 달렸습니다.^^당신은 아무도 당신에게 접근하지 않고 있다는 것을 알아차렸습니다. 모두가 당신을 마치 전염병처럼 피하고 있습니다. 당신은 그 누구도 당신에게 어머니의 납치 사건에 대해 이야기 할 수 있는 기회를 주지 않았다는 것을 알고 있습니다. 당신은 당신이 덴마크의 유력한 남자들 사이에서 벌어지는 왕좌의 게임에서 장기말에 지나지 않는다는 생각이 들었습니다.)
-dlga_kinghorik_quest_thething22:kinghorik_quest_thething23|(법관들의 결정은 느리게 이루어지고 있습니다. 시간이 얼마나 지났는지는 확실하지 않지만 아주 아주 오랜 시간이 걸릴 것만은 확실합니다. 당신 주위의 많은 사람들이 바닥에 앉기 시작했고, 어떤 상인들은 음식과 벌꿀주를 나누어 주기도 했습니다. 레긴하르트는 마치 화강암에 새겨진 것 처럼 미동조차 하지 않은 채 같은 자리에 조용히 앉아있습니다. 에길도 당신을 보지 않습니다. 그는 호리크 왕 주변의 남자들 속에서 그에게 조언과 격려를 하고 있습니다.^^드디어, 법관들은 큰 바위 뒤에서 돌아옵니다.)
-dlga_kinghorik_quest_thething23:kinghorik_quest_thething24|위대하신 오딘이시여, 현명하신 오딘이시여, 신들과 영웅들의 아버지시여. 동료에 의해 선출된 우리가 우리의 말을 이끌어줄 당신의 지혜를 요청드리옵니다. 우리의 판결은 당신의 귀에 들어 닿기를 바라며, 그것에 따르지 않는 자들이 헬에 의해 처벌 받기를 바라옵니다. 우리의 다음의 결정을 내렸습니다:
-dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_1|'하얀 머리의' 올비르의 죽음에 대해, 황소 목 스벤은 {playername}(으)로부터 4,800 페닝의 웨어길드를 받아야 할 것이다. {playername}, 지금 웨어길드를 지불할 수 있는가?
-dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_2|'하얀 머리의' 올비르의 죽음에 대해, 총회는 {playername}이(가) 자신을 방어하려는 행동이었다고 판결하였다. {playername}에게 무죄를 선고한다.
-dlga_kinghorik_quest_thething25_1:kinghorik_quest_thething26|이건 농간이오! 내 형제의 목숨 값이 겨우 4,800 페닝? 그 대가는 피로 치뤄야 할 것이오!
-dlga_kinghorik_quest_thething26:kinghorik_quest_thething27|{s2}^^황소 목 스벤은 총회의 결정을 받아들입니다.
-dlga_kinghorik_quest_thething25_2:kinghorik_quest_thething26_2|뭐? 이건 정의롭지 않아! 이 총회는 내 형의 무덤에 모욕을 했어!
-dlga_kinghorik_quest_thething26_2:kinghorik_quest_thething30_2|{s2}^^황소 목 스벤은 총회의 결정을 받아들입니다.
-dlga_kinghorik_quest_thething27:kinghorik_quest_thething28|{playername}, 당신은 지금 웨어길드를 지불할 수 있습니까?
-dlga_kinghorik_quest_thething28:kinghorik_quest_thething30|나는 지불할 수 있소.
-dlga_kinghorik_quest_thething28:kinghorik_quest_thething29|아뇨, 나는 그런 돈이 없소.
-dlga_kinghorik_quest_thething29:kinghorik_quest_thething30|비록 내 몫이 아니나, 나는 총회의 결정을 존중하여 나는 {playername} 몫의 웨어길드를 지불할 것이오.
-dlga_kinghorik_quest_thething29:kinghorik_quest_thething29_2|누가 {reg59?부인:경}의 웨어길드를 지불할 것이오? 아무도 지불할 수 없다면 {reg59?그녀:그}는 무법자로 선언될 것이오. 그렇게 될 경우 {reg59?그녀:그}가 소유한 모든 재산은 인정되지 않을 것이며, 죽음을 포함한 어떤 것에 대해서도 법의 보호를 받지 못하게 될 것이오.
-dlga_kinghorik_quest_thething29_2:kinghorik_quest_thething30|우리는 {reg59?그녀:그}의 부대원이고 우리가 웨어길드를 지불하겠소. {playername}이(가) 자유민으로 남아 우리를 계속 이끌 수 있도록 말이오.
-dlga_kinghorik_quest_thething30:kinghorik_quest_thething31|그 다음 총회에서는 돈을 받아 황소 목 스벤에게 주겠소. 흘린 피의 대가는 충족되었소. 신들과 사람들 앞에서, 두 사람 사이의 분쟁은 종결되었소.
-dlga_kinghorik_quest_thething30_2:kinghorik_quest_thething31|좋소, 총회는 선언하겠소. 신들과 사람들 앞에서, 두 사람 사이의 분쟁은 종결되었소.
-dlga_kinghorik_quest_thething31:kinghorik_quest_thething31_2|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오.
-dlga_kinghorik_quest_thething31_2:kinghorik_quest_thething33|레긴하르트라는 증인의 대해서, 그는 거짓말 혐의로 기소되었고 신들께서는 그의 유죄를 결정할 것이오. 중대한 고발이므로, 총회는 {playername}와(과) 레긴하르트가 6일 안에 작은 섬인 홀름강에서 죽음의 결투를 치루는 것으로 결정하였소. 두 명이 가지만, 단 한명만 돌아올 것이오. 만약 결투에 나타나지 않을 경우, {reg59?그 또는 그녀:그}는 무법자에 겁쟁이이자 사람보다 못한 이로 선언되어 스칼드들과 전령들에 의해 온 덴마크와 해외에 알려질 것이오.
-dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_4|나는 총회의 결정을 받아들이겠소.
-dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_1|나는 레긴하르트를 죽이길 거부하겠소.
-dlga_kinghorik_quest_thething33_1:kinghorik_quest_thething33_2|당신은 무법자가 되길 원하오? 그러면 아무도 당신을 따르지 않게 될 것이오. 모두가 당신을 죽일 자유를 가지게 될 거요. 더불어, 당신은 우리를 배신한 레긴하르트의 주장을 인정하는 셈이오. 나 역시 레긴하르트가 거짓말쟁이라고 주장하고 있소. 당신이 그와 싸우지 않는다면, 당신 역시 똑같은 거짓말 쟁이라는 말을 들을 구실을 주는것이오.
-dlga_kinghorik_quest_thething33_2:kinghorik_quest_thething33_3|총회의 결정은 번복할 수 없소. 그들 뒤에 신들과 덴마크의 자유민들이 지켜보고 있소. 판결은 거짓을 밝혀내기 위해 결투를 하라는 것이오. {playername}, 선택하시오. 레긴하르트에 맞서 싸울 것인지, 아니면 에길으로부터 그를 지킬 것인지 말이오.
-dlga_kinghorik_quest_thething33_3:kinghorik_quest_thething33_4|나는 레긴하르트에 맞서 싸울 것이오.
-dlga_kinghorik_quest_thething33_3:kinghorik_quest_thething33_4.1|나는 에길에게 맞서 싸울 것이오.
-dlga_kinghorik_quest_thething33_4:kinghorik_quest_thething33_5|나도 총회의 결정을 받아들이겠소. 나는 거짓말쟁이가 아니오, 그러나 나는 당신을 배신한 것을 후회하고 있소. 할 말이 없소, {playername}.
-dlga_kinghorik_quest_thething33_5:kinghorik_quest_thething33_6|이 총회가 끝나면 덴마크의 요인들이 와서 당신과 상대를 작은 섬에 데려갈 것이오.
-dlga_kinghorik_quest_thething33_6:kinghorik_quest_thething33_7|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오.
-dlga_kinghorik_quest_thething33_7:kinghorik_quest_thething34|이 총회는 마지막 주요 안건에 대한 결정 또한 내렸소. 호리크 왕과 야를 시구르드 사이의 비난과 모욕은 덴마크에 심각한 피해를 일으킬 수 있소. 야를들과 왕보다 높고, 오직 신들에게만 응답하는 자유민들의 총회로서, 야를 시구르드와 호리크 왕이 화해를 하는 것으로 결정하였소. 호리크 왕은 자신의 의회에 야를 시구르드에게서 가장 신뢰받는 남성의 자리를 마련하여야 할 것이며, 또한 호리크 왕은 원정대를 조직한 시구르드의 노력에 대한 보상으로 15000 페닝의 웨어길드를 지불해야 할 것이오.
-dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호리크 왕 옆에 남아서 그에게 조언을 해야 할 것이오. 따라서 야를 시구르드 라그나르손은 그의 형제를 돕기 위한 함대의 지휘권을 포기해야 하오. 이 함대는 호리크 왕의 편인 하랄드 하랄드손과 야를 시구르드손의 편인 황소 목 스벤, 두 명이 함께 지휘할 것이오. 함대는 지체없이 며칠 뒤 잉글랜드를 향해 출발할 것이오.
-dlga_kinghorik_quest_thething35:kinghorik_quest_thething36_1|또한 신들이 홀름강에서 {playername}에게 승리를 안겨준다면, 그 역시 하랄드 하랄드손의 고문으로 참여해야 한다는 것이 우리의 결정이오. 그렇지 않으면, 에길이 {playername}의 자리와 부대를 차지하게 될 것이오. 홀름강의 일이 끝나면 둘 중 한 명은 리베의 선술집으로 나를 만나러 오시오.
-dlga_kinghorik_quest_thething36_1:kinghorik_quest_thething36|{s2}^^총회는, 신들과 덴마크의 자유민을 대표해서 말씀하였소.^두 당사자는 승복하는가? 호리크 왕, 시구르드 라그나르손?
-dlga_kinghorik_quest_thething36:kinghorik_quest_thething37|나는 총회의 판결을 받아들이겠나이다. 선포된 바와 같이 나는 내 역할을 다할 것이고, 그것을 옹호하고 시행할 것을 맹세하오.^^{s2}
-dlga_kinghorik_quest_thething37:kinghorik_quest_thething38|{s2}^^나 또한 총회의 판단에 동의하며, 그것을 옹호하고 시행할 것을 맹세하오.
-dlga_kinghorik_quest_thething38:close_window|오딘, 토르와 프레이께서 이 곳에서의 결정을 들으셨소. 그들은 오늘의 맹세를 어긴 자들을 처벌하실 것이오. 이 총회는 종결되었소. 모두들 이제 떠나도 상관 없소.
+dlga_kinghorik_quest_thething10:kinghorik_quest_thething11|{s2}^^내 이름은 에길이오. 여기 모인 자들 가운데 나를 모를 이는 없을 것이며, 내가 거짓을 말한다면 신들께서 나를 벌하실 것이오. '하얀 머리' 올비르가 왔을 때 나도 울프의 농장에 있었소. 내 아버지 호리크 왕께서는 이 땅에서 벌어지는 일을 늘 주시하시기에, 나더러 {playername}와 동행하라 명하셨소. 올비르는 많은 부하를 거느리고 왔고, 맹세컨대 먼저 칼을 빼 든 쪽은 그들이었소. 올비르는 명예로운 죽음을 맞았으되, 그 싸움을 불러온 장본인도 바로 그였소. {playername}에게 살인의 죄는 없소.
+dlga_kinghorik_quest_thething11:kinghorik_quest_thething11_1|유감이지만, 네가 거짓말쟁이라는 건 내가 입증할 수 있소. 올비르가 정녕 좋은 죽음을 맞았다면, 어째서 살인자가 그의 검을 쥐고 있겠소? {reg59?그녀:그}는 내 형제가 마지막 순간에 자기 검을 쥐지 못하게 했고, 그 때문에 그는 발할라에 들지 못했소. 에길은 거짓말쟁이니, 그의 증언은 효력이 없소.
+dlga_kinghorik_quest_thething11:kinghorik_quest_thething12|{s2}^^증언은 들었소. 에길, 수고했소. '황소 목' 스벤, 그대 쪽에서도 증인을 내세우겠소?
+dlga_kinghorik_quest_thething11_1:kinghorik_quest_thething12|{s2}^^에길은 거짓을 말했다는 주장이 제기되었소. 그러므로 그의 증언은 유효하지 않소. '황소 목' 스벤, 그대는 증인을 부를 수 있소?
+dlga_kinghorik_quest_thething12:kinghorik_quest_thething13|중요한 증인인 울프 토리르손이 있긴 했으나, 그는 총회에 나오지 않았소. 또 한 사람, 내 형이 어떻게 죽었는지 말해 준 자가 있으나, 그 역시 이 일로는 증언하지 않겠다고 했소...
+dlga_kinghorik_quest_thething13:kinghorik_quest_thething13_1|참석한 야를들의 의견도 듣고자 하오. 여러분은 어떻게 보시오?
+dlga_kinghorik_quest_thething13_5:kinghorik_quest_thething14|{s2}^^오딘의 지혜를 빌려, 이제 우리는 평결을 내릴 준비가 되었소.
+dlga_kinghorik_quest_thething14:kinghorik_quest_thething14_1|나, 라그나르 로드브록의 아들 시구르드가 발언을 청하겠소. 지금 다루는 일은 큰 나무의 한 가지에 불과하오. 그리고 그 가지 뒤에 진짜 문제가 숨어 있소.
+dlga_kinghorik_quest_thething14_1:kinghorik_quest_thething14_2|말하시오, 야를 시구르드, 라그나르의 아들이여. 우리 모두가 그를 기억하고, 그는 라그나로크를 준비하며 신들의 연회장에서 우리를 기다리고 있으니.
+dlga_kinghorik_quest_thething14_2:kinghorik_quest_thething14_3|{s2}^^내 아버지가 살아 계셨을 적, 자유민들의 이 총회는 '하얀 머리' 올비르 같은 훌륭한 사내를 죽인 도적 하나 때문에 이렇게 오래 고민하지 않았소. 하지만 시대는 바뀌었지. 아니, 바뀌게 만든 자들이 있소. 이제 이 총회는 왕 손바닥 위에서 노는 장난감에 지나지 않소. 저 자, {playername}는 더 큰 힘들의 장기말일 뿐이오.
+dlga_kinghorik_quest_thething14_3:kinghorik_quest_thething14_4|{s2}^^폐하, '눈 속의 뱀' 시구르드는 {playername}을(를) 겨누는 것이 아닙니다. 그는 폐하를 노리고 있습니다. 우리가 우려했던 대로 왕좌를 원하고 있습니다.
+dlga_kinghorik_quest_thething14_4:kinghorik_quest_thething14_5|{s2}^^아버지, 지금 시구르드의 말을 끊어야 합니다. {playername}이(가) 죄를 인정하게 하고 총회의 벌을 받게 두십시오! {reg59?그녀:그}를 희생시켜서라도 이 계략을 여기서 끊어야 합니다. 그렇지 않으면 왕위를 잃을 수도 있습니다. '눈 속의 뱀' 시구르드는 교활한 자입니다. 확실한 우세가 아니었다면 총회에서 이렇게 대놓고 폐하를 치지 않았을 것입니다.
+dlga_kinghorik_quest_thething14_5:kinghorik_quest_thething14_6|에길, 이 빌어먹을 배신자 같으니. 나는 죄를 인정하지 않겠소. 나는 결백하오!
+dlga_kinghorik_quest_thething14_5:kinghorik_quest_thething14_6.1|그것이 왕을 살리는 길이라면, 나는 내 죄를 인정하겠소.
+dlga_kinghorik_quest_thething14_6:kinghorik_quest_thething15|침착하시오. 총회의 존중을 잃을 만한 행동은 어떤 것도 해선 안 되오. 힘의 균형은 몹시 섬세하고, 여기 모인 야를들 하나하나가 중요하오. 시구르드가 무엇을 들고 나왔는지 먼저 지켜봐야 하오.
+dlga_kinghorik_quest_thething15:kinghorik_quest_thething15_1|{s2}^^스벤에게는 올비르가 살해되었다고 증언할 울프 토리르손이라는 증인이 있었소. 그런데 호리크 왕은 그를 입막음하려고 {playername}을(를) 울프의 농장에 보냈고, 그리하여 스벤은 가장 중요한 증인을 잃었소. 내게도 충직하고 아끼는 부하 아틀리 에이릭손이 있었소. 나는 그에게 이 총회에서 쓸 중대한 증거를 지키게 했지. 그런데 호리크 왕은 {playername}을 보내 그를 죽였소.^^{s3}
+dlga_kinghorik_quest_thething15_1:kinghorik_quest_thething15_2|{s2}^^시구르드 라그나르손, 그대는 말을 너무 많이 하는군. 그대는 나를 모욕하고 내 명예를 깎고 있으나, 증거도 증인도 빈약하오. 그런 식으로는 결코 좋게 끝나지 않을 것이오.
+dlga_kinghorik_quest_thething15_2:kinghorik_quest_thething15_31|그의 말을 끝까지 듣게 하시오. 여기 있는 모두가 무슨 일이 벌어지는지 더 알고 싶어 하오.
+dlga_kinghorik_quest_thething15_31:kinghorik_quest_thething15_3|나는 그저 내 명예를 지키는 것뿐이오!
+dlga_kinghorik_quest_thething15_3:kinghorik_quest_thething15_4|옳소. 그는 발언할 권리를 허락받았소. 만일 그 말이 사실로 증명된다면, 왕권을 바꿀 때가 왔다는 뜻일 수도 있소.
+dlga_kinghorik_quest_thething15_4:kinghorik_quest_thething15_5|호리크 왕은 좋은 왕이오. 시구르드, 그대는 반드시 그 말을 증명해 내야 할 것이오.
+dlga_kinghorik_quest_thething15_5:kinghorik_quest_thething15_6|때가 되면 모두 드러날 것이오. 그러나 그보다 먼저, 이 문제가 여러분이 생각하는 것보다 훨씬 크다는 점을 다시 말해 두고 싶소. 라그나르의 아들들을 돕기 위해 잉글랜드로 떠날 800명의 바이킹이 이미 준비되어 있었소. 켄네머의 야를도 400명이 넘는 병력을 약속했으니, 우리는 1200명을 훌쩍 넘길 수 있었지. 그런데 호리크 왕은 이 협약을 망치려고 {playername}을(를) 프리지아로 보냈소. 그것도 모자라, 병력을 이끌 자로 구트럼을 내세웠지. 정작 이 병사들과 배, 식량을 모으느라 힘쓴 사람은 나였는데도 말이오...
+dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|때가 되면 모두 드러날 것이오. 그러나 그보다 먼저, 이 문제가 여러분이 생각하는 것보다 훨씬 크다는 점을 다시 말해 두고 싶소. 라그나르의 아들들을 돕기 위해 잉글랜드로 떠날 800명의 바이킹이 이미 준비되어 있었소. 켄네머의 야를도 400명이 넘는 병력을 약속했으니, 우리는 1200명을 훌쩍 넘길 수 있었지. 그런데 호리크 왕은 이 협약을 망치려고 {playername}을(를) 프리지아로 보냈소. 그것도 모자라, 병력을 이끌 자로 구트럼을 내세웠지. 정작 이 병사들과 배, 식량을 모으느라 힘쓴 사람은 나였는데도 말이오...
+dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|시구르드 라그나르손, 그 고발은 대단히 중하오. 그 주장을 입증할 증거나 증인이 있소?
+dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|그렇소. {playername}와 줄곧 함께 다닌 자가 한 사람 있소. 그 역시 이 자리에 와 있으며, 이 총회에서 기꺼이 증언하겠다고 했소. 이름은 레긴하르트. 켄네머의 야를를 섬기던 자요.
+dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|레긴하르트, 앞으로 나오시오. 시구르드 라그나르손의 말이 사실임을 확인할 수 있소?
+dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^저는... 그게... 예, 맞습니다. 저는 프리지아에서 {playername}을(를) 만났습니다. 그때 {reg59?그녀:그}는 제가 사랑하고 아끼던 티아데르트를 죽여 켄네머의 야를의 신임을 얻으려 했습니다. 그리고는 켄네머의 야를를 배신하고 덴마크로 와, '황소 목' 스벤과 시구르드 라그나르손을 원수처럼 뒤쫓았습니다. 그래서 올비르와 아틀리가 죽었고, {reg59?그녀:그}는 호리크 왕과 손을 잡은 것입니다. 맹세하건대 사실입니다.
+dlga_kinghorik_quest_thething16_3:kinghorik_quest_thething16_4|{s2}^^레긴하르트? 왜 이러는 거요!?
+dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}은(는) 살인자요. 티아데르트는 내게 형제 같은 사람이었고, {playername}은(는) 그와 그 가족 모두를 죽였소. 아들까지도! 나는 언젠가 티아데르트의 원수를 갚겠다고 맹세했고, 그날이 온 거요. 나는 그저 농장 하나, 아내와 아이들을 바랐을 뿐이오. 그런데 {playername}은(는) 가는 곳마다 불행만 끌고 다녔소. 나는 보호가 필요했고, 시구르드는 내가 바라는 모든 것을 약속했소.
+dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^에길, 내 원한은 그대에게 있지 않소. 티아데르트는 내게 형제 같은 사람이었고, {playername}은(는) 그를 찾고 죽이려고 내게 거짓말했소. 나는 {playername}의 신임을 얻어 언젠가 티아데르트의 죽음을 갚겠다고 다짐했고, 그날이 온 거요. 나는 그저 농장 하나, 아내와 아이들을 바랐을 뿐이오. 그런데 {playername}은(는) 가는 곳마다 불행만 끌고 다녔소. 나는 보호가 필요했고, 시구르드는 내가 바라는 것을 모두 약속했소.
+dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething17_1|레긴하르트, 네가 어떤 꼴로 배신자를 다루는지 나를 통해 잘 배웠을 텐데. 곧 다시 보자꾸나.
+dlga_kinghorik_quest_thething16_5:kinghorik_quest_thething18|네가 예전에 말했지. "운명은 정해진 길로만 간다"고!
+dlga_kinghorik_quest_thething17_1:kinghorik_quest_thething18|글쎄, 그럴 일은 없을 거요. 우리는 다시 못 볼 테니까. 나에게는 농장과 아내, 야를의 보호가 남겠지만, 당신은 죽거나 추방자가 되겠지.
+dlga_kinghorik_quest_thething18:kinghorik_quest_thething19|호리크 왕, 시구르드 라그나르손이 매우 중대한 혐의를 제기했고, 이를 뒷받침하는 증인도 내세웠소. 왕은 무엇으로 변론하겠소?
+dlga_kinghorik_quest_thething19:kinghorik_quest_thething20|{s2}^^나는 레긴하르트라는 자를 모르오. {playername}와 사적인 원한이 있어 시구르드에게 매수된 거짓말쟁이로 보일 뿐이오. 어쨌든 그의 증언은 나를 향한 것이 아니라 {playername}을 향한 것이오. 내가 {playername}을(를) 도와 무슨 잘못을 저질렀는지 그는 전혀 밝히지 못했고, 심지어 나를 언급하지도 못했소. 시구르드 라그나르손이 나를 상대로 내놓을 것이 고작 이것뿐이라면, 나는 이 총회에 내 명예를 모욕당한 데 대한 보상을 청하오.
+dlga_kinghorik_quest_thething20:kinghorik_quest_thething20_1|{s2}^^신들은 알고 있소! 그대가 내 증거와 내 증인들을 하나씩 없애 버렸다는 것을! 그대가 아틀리 에이릭손과 울프 토리르손을 향해 개를 풀어 보냈을 때, 이 자도 {playername}와 함께 있었소. 그러니 그대가 그 모든 일에 연루되었다고 증언할 수 있소!
+dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_2|내 말은 이렇소. 레긴하르트는 나에 대한 증오에 눈먼 거짓말쟁이요. 결국 내 말과 그의 말이 맞서는 것뿐이오.
+dlga_kinghorik_quest_thething20_1:kinghorik_quest_thethingdialogextend1|우선, 레긴하르트의 첫 주인은 켄네머의 야를가 아니라 티아데르트였소. (설득)
+dlga_kinghorik_quest_thethingdialogextend1:kinghorik_quest_thething20_2|지금 그가 나를 배신하듯, 레긴하르트는 첫 주인이었던 티아데르트도 배신했소. 어떤 야를가 자기 히르드 안에 알려진 적을 품고 두겠소? 이자는 방금 스스로 믿을 수 없는 자임을 드러냈을 뿐이오.
+dlga_kinghorik_quest_thething20_1:kinghorik_quest_thething20_3|레긴하르트는 진실을 말하고 있소. 일은 그가 말한 그대로 벌어졌소.
+dlga_kinghorik_quest_thething20_3:kinghorik_quest_thething20_4|뭐라고? 나도 {playername}의 히르드에 있었소. 그리고 신들께 맹세하건대, 이자들이야말로 거짓말을 하고 있소. 저 주장들을 고집한다면, 나는 죽음의 결투를 요구하겠소.
+dlga_kinghorik_quest_thething20_4:kinghorik_quest_thething20_5|나 하랄드 하랄드손도, 에길에 이어 이 도전에 동참하겠소.
+dlga_kinghorik_quest_thething20_5:kinghorik_quest_thething20_6|오, 신들이시여, 지금 무슨 짓을 하는 거요, {playername}? 미쳤소? 난 당신을 배신했소. 그런데 어째서 내 편을 드는 거요?
+dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7|당신 안에는 아직 선한 심지가 남아 있다고 믿기 때문이오. 그리고 당신은 내 친구요.
+dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7.1|호리크 왕이 제 몸을 지키려고 내 행동에서 자기 몫을 떼어 내고 있기 때문이오.
+dlga_kinghorik_quest_thething20_6:kinghorik_quest_thething20_7.2|나도 왜 그런 말을 했는지 모르겠소.
+dlga_kinghorik_quest_thething20_7:kinghorik_quest_thething20_2|조용! 이 총회를 희롱거리로 만드는 짓은 용납하지 않겠소.
+dlga_kinghorik_quest_thething20_2:kinghorik_quest_thething21|좋소. 이제 이 일은 왕국의 안녕을 흔들 수도 있는 매우 민감한 사안이 되었소. 법관들은 잠시 물러가 숙의하도록 하겠소.
+dlga_kinghorik_quest_thething21:kinghorik_quest_thething22|(법관들이 큰 바위 뒤로 물러나 열띤 논쟁을 벌이는 모습이 보인다. 사방에서는 저마다 낮고 격한 목소리로 의견을 주고받는다. 어떤 야를들은 호리크 왕을, 또 어떤 야를들은 시구르드 라그나르손을 지지한다. 이 총회는 내전의 불씨가 될 수도 있고, 그 불씨를 꺼뜨릴 마지막 기회가 될 수도 있어 보인다. 모든 것은 이제 법관들의 판단에 달려 있다.^^아무도 당신에게 다가오지 않는다. 모두가 마치 역병이라도 피하듯 당신을 비켜 간다. 당신은 아무도 어머니의 납치 이야기를 제대로 꺼낼 기회를 주지 않았다는 사실을 깨닫는다. 덴마크의 유력자들이 벌이는 왕좌의 게임에서, 당신은 그저 장기말 하나였다는 생각이 든다.)
+dlga_kinghorik_quest_thething22:kinghorik_quest_thething23|(법관들의 결정은 더디기만 하다. 얼마나 시간이 흘렀는지조차 가늠하기 어렵지만, 분명 아주 오래 걸리는 중이다. 주위 사람들 중 여럿은 바닥에 주저앉았고, 몇몇 상인들은 음식과 벌꿀주까지 나누어 주고 있다. 레긴하르트는 화강암을 깎아 세운 듯 꼼짝도 하지 않은 채 자리에 앉아 있다. 에길 역시 당신을 쳐다보지 않는다. 그는 호리크 왕 주위의 사람들 속에서 조언과 격려를 건네고 있다.^^마침내 법관들이 큰 바위 뒤에서 돌아온다.)
+dlga_kinghorik_quest_thething23:kinghorik_quest_thething24|오딘 피욜른스비드르, 오딘 산게탈, 신들과 영웅들의 아버지시여. 동료들이 뽑아 세운 우리에게 지혜를 내려, 우리의 말과 판결을 인도하소서. 우리의 판단이 당신의 귀에 닿게 하시고, 이에 따르지 않는 자는 헬의 벌을 받게 하소서. 이제 우리는 다음과 같이 판결하였소.
+dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_1|'하얀 머리' 올비르의 죽음에 관하여, '황소 목' 스벤은 {playername}에게서 4,800페닝의 웨어길드를 받을 것이다. {playername}, 지금 그 웨어길드를 낼 수 있겠는가?
+dlga_kinghorik_quest_thething24:kinghorik_quest_thething25_2|'하얀 머리' 올비르의 죽음에 관하여, 총회는 {playername}이(가) 정당방위로 행동했다고 판결한다. {playername}은(는) 무죄다.
+dlga_kinghorik_quest_thething25_1:kinghorik_quest_thething26|이건 모욕이오! 내 형제 목숨값이 겨우 4,800페닝이란 말이오? 그 값은 피로 치러야 하오!
+dlga_kinghorik_quest_thething26:kinghorik_quest_thething27|{s2}^^'황소 목' 스벤은 총회의 판결을 받아들이오.
+dlga_kinghorik_quest_thething25_2:kinghorik_quest_thething26_2|뭐라고? 이게 무슨 정의란 말이오! 이 총회는 내 형의 무덤에 오줌을 갈기는구나!
+dlga_kinghorik_quest_thething26_2:kinghorik_quest_thething30_2|{s2}^^'황소 목' 스벤은 총회의 판결을 받아들이오.
+dlga_kinghorik_quest_thething27:kinghorik_quest_thething28|{playername}, 지금 웨어길드를 낼 수 있겠소?
+dlga_kinghorik_quest_thething28:kinghorik_quest_thething30|돈은 있소.
+dlga_kinghorik_quest_thething28:kinghorik_quest_thething29|아니오. 그만한 돈은 없소.
+dlga_kinghorik_quest_thething29:kinghorik_quest_thething30|나는 총회의 판결에 동의하지는 않으나, 그 결정을 존중하오. {playername}의 웨어길드는 내가 대신 내겠소.
+dlga_kinghorik_quest_thething29:kinghorik_quest_thething29_2|이 {reg59?부인:사내}의 웨어길드를 누가 낼 것이오? 아무도 내지 못한다면 {reg59?그녀:그}는 무법자로 선언될 것이오. 그리되면 {reg59?그녀:그}가 가진 모든 재산은 법의 보호를 잃고, 죽임을 당한다 해도 보호받지 못할 것이오.
+dlga_kinghorik_quest_thething29_2:kinghorik_quest_thething30|우리는 {reg59?그녀:그}의 측근인 히르드들이오. {playername}이(가) 자유민으로 남아 계속 우리를 이끌 수 있도록, 우리가 이 웨어길드를 내겠소.
+dlga_kinghorik_quest_thething30:kinghorik_quest_thething31|좋소. 총회는 그 돈을 받아 '황소 목' 스벤에게 넘기겠소. 흘린 피의 값은 치러졌다. 신들과 사람들 앞에서, 이 두 사람 사이의 분쟁은 끝났다.
+dlga_kinghorik_quest_thething30_2:kinghorik_quest_thething31|좋소. 총회가 이미 말했다. 신들과 사람들 앞에서, 이 두 사람 사이의 분쟁은 끝났다.
+dlga_kinghorik_quest_thething31:kinghorik_quest_thething31_2|오딘과 토르, 프레이께서 여기서 내려진 결정을 들으셨소. 오늘의 맹세를 어기는 자는 그분들의 벌을 받을 것이오.
+dlga_kinghorik_quest_thething31_2:kinghorik_quest_thething33|레긴하르트라는 증인은 거짓 증언 혐의로 고발되었고, 이제 그의 죄는 신들이 가릴 것이오. 혐의가 중하므로, 총회는 {playername}와(과) 레긴하르트가 여섯 날 안에 쇼트라 불리는 작은 섬에서 홀름강, 곧 죽음의 결투를 벌이도록 결정했소. 둘이 건너가되, 돌아오는 자는 하나뿐이오. 둘 가운데 누가 나타나지 않더라도, 그 자는 니딩그, 곧 비겁자이자 사람 이하의 자로 선언될 것이며, 그 오명은 스칼드와 전령들을 통해 덴마크와 바깥 땅까지 퍼져 나갈 것이오.
+dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_4|총회의 결정을 받아들이겠소.
+dlga_kinghorik_quest_thething33:kinghorik_quest_thething33_1|나는 레긴하르트를 죽이기를 거부하겠소.
+dlga_kinghorik_quest_thething33_1:kinghorik_quest_thething33_2|정녕 니딩그가 되고 싶은 거요? 그러면 아무도 당신을 따르지 않을 것이오. 누구든 자유롭게 당신을 죽일 수 있게 되겠지. 게다가 그것은 우리를 배신한 레긴하르트 말이 옳다고 인정하는 셈이오. 나는 레긴하르트가 거짓말쟁이라고 주장하고 있소. 당신이 그와 맞서지 않는다면, 당신 역시 거짓말쟁이라는 비난을 피할 수 없을 거요.
+dlga_kinghorik_quest_thething33_2:kinghorik_quest_thething33_3|총회의 판결은 뒤집을 수 없소. 그 뒤에는 신들과 덴마크의 자유민들이 서 있소. 거짓을 가리기 위해 결투하라는 것이 이 판결이오. {playername}, 택하시오. 레긴하르트와 맞설 것인지, 아니면 에길로부터 그를 지킬 것인지.
+dlga_kinghorik_quest_thething33_3:kinghorik_quest_thething33_4|나는 레긴하르트와 맞서 싸우겠소.
+dlga_kinghorik_quest_thething33_3:kinghorik_quest_thething33_4.1|나는 에길과 맞서 싸우겠소.
+dlga_kinghorik_quest_thething33_4:kinghorik_quest_thething33_5|나 역시 총회의 결정을 받아들이겠소. 나는 거짓말쟁이는 아니오. 그러나 당신을 배신한 일만큼은 후회하고 있소. 면목이 없소, {playername}.
+dlga_kinghorik_quest_thething33_5:kinghorik_quest_thething33_6|이 총회가 끝나면 덴마크의 중진들이 와서 당신과 상대를 그 작은 섬으로 데려갈 것이오.
+dlga_kinghorik_quest_thething33_6:kinghorik_quest_thething33_7|오딘과 토르, 프레이께서 여기서 내려진 결정을 들으셨소. 오늘의 맹세를 어기는 자는 그분들의 벌을 받을 것이오.
+dlga_kinghorik_quest_thething33_7:kinghorik_quest_thething34|이 총회는 마지막 중대 사안에 대해서도 판결을 내렸소. 호리크 왕과 야를 시구르드 사이의 비난과 모욕은 덴마크에 심각한 해를 끼칠 수 있소. 그러므로 야를과 왕보다 위에 서며 오직 신들에게만 답하는 자유민들의 총회는, 호리크 왕과 야를 시구르드가 화해해야 한다고 결정하였소. 호리크 왕은 시구르드에게 의회 안 자리 하나와 총애받는 측근의 지위를 내주어야 하며, 더불어 이번 원정을 조직하는 데 시구르드가 기울인 모든 수고의 보상으로 1만 5천 페닝을 지급해야 하오.
+dlga_kinghorik_quest_thething34:kinghorik_quest_thething35|{s2}^^그 대가로, 야를 시구르드는 덴마크를 떠나지 않고 호리크 왕 곁에 머물며 조언해야 하오. 그러므로 야를 시구르드 라그나르손은 형제들을 돕기 위해 출항할 함대의 지휘권을 포기해야 하오. 그 함대는 시구르드 쪽의 '황소 목' 스벤과 호리크 왕 쪽의 하랄드 하랄드손, 두 사람이 함께 이끌 것이오. 함대는 며칠 안에 지체 없이 잉글랜드로 출항하오.
+dlga_kinghorik_quest_thething35:kinghorik_quest_thething36_1|또한 신들이 홀름강에서 {playername}에게 승리를 안겨 준다면, {reg59?그녀:그} 역시 하랄드 하랄드손의 고문으로 참여해야 한다는 것이 우리의 결정이오. 그렇지 않다면 에길이 {playername}의 자리와 히르드를 이어받을 것이오. 홀름강이 끝나면 둘 중 한 사람은 리베의 벌꿀주집에서 나를 만나도록 하시오.
+dlga_kinghorik_quest_thething36_1:kinghorik_quest_thething36|{s2}^^신들과 덴마크의 자유민을 대신해 총회가 이렇게 판결하였소.^두 당사자는 승복하는가? 호리크 왕, 시구르드 라그나르손.
+dlga_kinghorik_quest_thething36:kinghorik_quest_thething37|나는 총회의 판결을 받아들이오. 선고된 바에 따라 내 몫을 다하고, 이를 지키고 집행할 것을 맹세하오.^^{s2}
+dlga_kinghorik_quest_thething37:kinghorik_quest_thething38|{s2}^^나 또한 총회의 판결을 받아들이며, 이를 지키고 받들 것을 맹세하오.
+dlga_kinghorik_quest_thething38:close_window|오딘과 토르, 프레이께서 이곳에서 내려진 결정을 들으셨소. 오늘 맺은 맹세를 어기는 자는 그분들의 벌을 받을 것이오. 이로써 총회는 끝났소. 모두 물러가도 좋소.
 dlga_alfredthegreat1:alfredthegreat21|(그에게 절을 한다.)
 dlga_alfredthegreat1:alfredthegreat22|(그에게 절을 하지 않는다.)
 dlga_alfredthegreat21:alfredthegreat3|{s2}^^고맙소, 덴마크인 사절이여, 당신의 주인은 지금 무엇을 원하는가?
