@@ -6,3 +6,8 @@
 
 # References 디렉토리 (Cursor/로컬 조회용, git에 올리지 않음)
 References/
+
+# 로컬 작업용 문서와 규칙, 보조 스크립트는 git에 올리지 않음
+Docs/
+.cursor/
+scripts/
