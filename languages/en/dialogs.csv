@@ -1913,7 +1913,7 @@ dlga_skald_sing2:close_window|당신은 창녀와 같은 비용을 요구하는�
 dlga_skald_talk:skald_cancion|나와 내 부하들을 위해 노래해줄 수 있소?
 dlga_skald_talk:close_window|음유시인? 노래? (당신은 그에게서 등을 돌렸다.) 왜 나가서 다른 이들처럼 빵을 구걸하지 않지? 나는 가봐야겠소.
 dlga_skald_cancion:skald_cancion2|나에게 100 페닝만 준다면, 당신에게 노래해줄 수 있소.
-dlga_skald_cancion2:close_window|Cantiga 2
+dlga_skald_cancion2:close_window|칸티가 2
 dlga_skald_cancion2:skald_pretalk|신경쓰지 마시오. 다른 걸 묻고 싶소.
 dlga_start:lair_captain|무엇이 필요하오, 대장?
 dlga_lair_captain_pretalk:lair_captain|다른 건 필요 없소, 대장?
@@ -3245,7 +3245,7 @@ dlga_lord_demand:lord_pretalk|미안하오. 아무것도 아니오.
 dlga_lord_talk:liege_defends_claim_1|나는 여행 중에 자신을 {s45}이라고 부르는 사람을 보았소.
 dlga_liege_defends_claim_1:liege_defends_claim_2|그런가? 모두가 그 이름을 꺼내는 걸 별로 좋아하지 않는데. 당신은 용감한 건지, 혹은 무모한 건지 모르겠군.
 dlga_liege_defends_claim_2:liege_defends_claim_3|좋아. 궁금해서 그랬었다니 용서해주겠소. 하지만 이 얘기를 다신 입 밖으로 내지 마시오.
-dlga_lord_join_rebellion_suggest_cheat:close_window|Cheat:Allright.
+dlga_lord_join_rebellion_suggest_cheat:close_window|치트: 알겠소.
 dlga_lord_talk:lord_prison_break_chains|당신을 구하기 위해, 다시 돌아오겠소.
 dlga_lord_prison_break_chains:close_window|신이시여, 감사합니다. 하지만 나는 내 다리의 족쇄를 열쇠로 풀지 않으면 움직일 수가 없소, 그 열쇠는 감옥을 지키는 간수가 가지고 있을 거요. 그를 죽여서 뺏어오시오.
 dlga_lord_tell_objective:lord_pretalk|내가 여기서 무엇을 하고 있냐고 묻고 있는 거요? 내 상황이 안 보이시오?! 나는 이 곳의 포로요!
@@ -3262,8 +3262,8 @@ dlga_lord_tell_objective:lord_pretalk.10|나는 {s1}(으)로 가기 위한 준�
 dlga_lord_tell_objective:lord_pretalk.11|우리는 {s1}을(를) 따라가는 중이오. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.12|우린 다음 목적지를 정하는 중이오.
 dlga_lord_tell_objective:lord_talk_ask_about_strategy|나는 왕국의 군대를 이끌고 있소.
-dlga_lord_tell_objective:lord_pretalk.13|I don't know: {reg1} {s1} (ERROR)
-dlga_lord_tell_objective:lord_pretalk.14|I don't know: {reg1} {s1} (ERROR)
+dlga_lord_tell_objective:lord_pretalk.13|우리는 다음 목표를 다시 의논하는 중이오.
+dlga_lord_tell_objective:lord_pretalk.14|알 수 없소: {reg1} {s1} (ERROR)
 dlga_lord_enter_service_reject:close_window|흠, 자네는 자네가 예속되는 것에 대해 좀 더 생각해보겠다고? 좋네 -- 자네는 나에게 예속되는 것에 대해 다시 생각할 수 있는 시간을 가질 수 있을 것이네. 그러나 자네가 나에게 장난을 치고 있는 것일 경우, 그 행동이 사람들이 자네를 신뢰할 수 없게 만들 거라는 사실만을 명심하게.
 dlga_lord_give_oath_give_up:close_window|흠, 자네는 자네가 충성 서약을 하는 것에 대해 좀 더 생각해보겠다고? 좋네 -- 자네는 나에게 충성 서약을 하는 것에 대해 다시 생각할 수 있는 시간을 가질 수 있을 것이네. 그러나 자네가 나에게 장난을 치고 있는 것일 경우, 그 행동이 사람들이 자네를 신뢰할 수 없게 만들 거라는 사실만을 명심하게.
 dlga_lord_enter_service_reject:close_window.1|돼지 같은 놈 같으니! 나는 너같은 놈을 내 봉신으로서 받아들일 수 없다! 꺼져라, 거지같은 자식, 네놈의 면전에 침을 뱉지 않는 것을 다행으로 알아라!
@@ -3309,7 +3309,7 @@ dlga_lord_enter_service_swear:lord_enter_service_swear_accepted|맹세하겠소,
 dlga_lord_enter_service_swear:lord_enter_service_swear_denied|나는 생각해 볼 시간이 필요하오.
 dlga_lord_enter_service_swear_denied:close_window|나는 장난칠 시간이 없다네, {playername}. 빨리 마음을 정하게나.
 dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|그럼 자네를 맞이할 준비가 되었군. 오늘부터, {playername}, 자네는 {s5}의 병사이며 병사로서의 모든 의무와 권리를 이행할 것을 선언하네.
-dlga_lord_enter_service_swear_accepted_2:close_window|I charge you with rooting out and destroying the forces of our enemies wherever you may find them. Moreover, I will have special tasks for you from time to time, as may some of my other vassal lords. Serve, fight, and honour your oaths. These things will take you far, if you've a mind for promotion. May God grant us long lives and many victories to toast in my hall!
+dlga_lord_enter_service_swear_accepted_2:close_window|이제 그대에게 명하노니, 어디서든 우리 적의 무리를 발견하는 대로 뿌리 뽑고 섬멸하시오. 또한 나와 다른 봉신 영주들이 때때로 특별한 임무를 맡길 것이오. 섬기고, 싸우고, 맹세를 저버리지 마시오. 출세할 뜻이 있다면, 이런 일들이 그대를 더 높은 자리로 이끌 것이오. 하느님께서 우리에게 긴 생명과, 내 홀에서 축배를 들 수많은 승리를 내려 주시길.
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify|충성의 맹세가 부담이 되는가 보군, {playername}? 서약을 파기하는 건 묻기 어려운 일이지, 하지만 자네가 정 원한다면 나는 자네를 붙잡아둘 마음이 없네. 자네가 잘못 생각한 것이라도 말이지.
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|서약을 끊겠다고? 흐음, 그게 자네에게 최선이라면... {playername}, 서약을 끊기 전에 자네 스스로 확신하고 있어야 하네.
 dlga_lord_ask_leave_service_verify:lord_ask_leave_service_2|제가 꼭 해야만 할 일입니다. {s65}.
@@ -3606,8 +3606,8 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|우리 초대장을 보냅시
 dlga_spouse_feast_confirm:spouse_pretalk|우리 그럼 잠시 기다려보죠.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|왕국의 사정이 되는 대로 우리가 향연을 열 것임을 알려드립니다. 우리 손님들에게 접대하는 데 최선을 다하기 위해 식자재 창고를 채워야 합니다.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|매우 좋군요, 그렇다면. {s9}의 {reg4?이곳:} 우리의 궁전에서 즉시 연회를 시작하도록 하죠. 당신은 아마도 우리의 식료품 창고에 계속해서 비축을 해야 할 거에요. 손님에 대한 접대가 우리들의 평판을 결정 지을 것이고, 당신이 연회를 선포한다면 군사작전이 시작하는 경우거나 영주들이 그들의 집으로 돌아가는 것을 알게 되더라도 어느 때고 계속 진행 될 거에요.
-dlga_spouse_feast_confirm_yes:spouse_pretalk.2|Very well, then. Let the feast begin immediately in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.{***}
-dlga_spouse_feast_confirm_yes:spouse_pretalk.3|Unfortunately, there are no suitable venues available to host the feast.{***}
+dlga_spouse_feast_confirm_yes:spouse_pretalk.2|좋아요, 그럼 {s9}에서 곧바로 연회를 시작하도록 하죠. 손님 접대의 명성에 걸맞게 하려면 식료품 창고를 계속 채워 두는 편이 좋겠어요. 원정을 시작하거나 봉신들이 각자 영지로 돌아가도 좋다고 알리는 방식으로, 연회를 끝내겠다고 언제든 선포할 수 있어요.
+dlga_spouse_feast_confirm_yes:spouse_pretalk.3|유감이지만 지금은 연회를 열 만한 마땅한 장소가 없어요.
 dlga_start:close_window.64|얼마나 멋진지 모르겠어요... 곧 있으면 우리는 결혼해요! 하지만 결혼을 며칠 앞두고 너무 많은 이야기를 하는 것은 관습에 어긋난다는 것을 말해드리고 싶어요.
 dlga_start:close_window.65|음... {playername}, 우리 결혼 관습에 익숙하지 않으시니 누군가에게 설명을 듣길 바래요... 먼저 나의 {s11}, {s4}에게 가서 이야기해 보세요.
 dlga_start:close_window.66|나는 전통에 따라 우리 결혼을 주관해 줄 나의 {s11}, {s10}가 어디 있는지 모르겠어요. 그가 우리를 찾을 때 까지 기다려야만 해요...
@@ -4333,16 +4333,16 @@ dlga_minstrel_courtship_poem_teach:minstrel_courtship_poem_teach_2|그리고 당
 dlga_minstrel_courtship_poem:minstrel_pretalk|나는 내가 가르쳐줄 수 있는 시들을 이미 당신이 알고 있다고 생각하오.
 dlga_minstrel_courtship_poem_teach_2:minstrel_courtship_poem_teach_3|좋소. -- 나에게 시를 가르쳐 주시오.
 dlga_minstrel_courtship_poem_teach_2:minstrel_pretalk|아무것도 아니오.
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|좋소. -- 나를 따라 불러 보시오:^   But anxious cares already seized the queen^   She fed within her veins a flame unseen^   The hero's valor, acts, and birth inspire^   Her soul with love, and fan the secret fire...
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|좋소. -- 나를 따라 불러 보시오:^   There is a distant isle,^   Around which sea-horses glisten^   A fair course against the white-swelling surge,^   Four feet uphold it.^   A delight of the eyes, a glorious range,^   Is the plain on which the hosts hold games^   Coracle contends against chariot^   In southern Mag Findargat...
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|좋소. -- 나를 따라 불러 보시오:^  The muse Calliope bore to Morpheus a son named Orpheus^  Who practised minstrelsy and by his songs moved stones and trees^  When his wife Eurydice died, bitten by a snake, he went down to Hades, being fain to bring her up,^  He persuaded Hades to send her up with him, back to life^  The god promised to do so, if on the way Orpheus would not turn round until he should be come to his own house.^  But he disobeyed and turning round beheld his wife; and she turned back to the Underworld, forever lost...
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|좋소. -- 나를 따라 불러 보시오:^   Lo, praise of the prowess of people-kings^   Of spear-armed Danes, in days long sped,^   We have heard, and what honor the athelings won!^   Oft Scyld the Scefing from squadroned foes,^   From many a tribe, the mead-bench tore, awing the earls...
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|좋소. -- 나를 따라 불러 보시오:^   A Lion was awakened from sleep by a Mouse running over his face^   Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:^   If you would only spare my life, I would be sure to repay your kindness.^   The Lion laughed and let him go...
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue|'But anxious cares already seized the queen...'
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.1|'There is a distant isle...'
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.2|'The muse Calliope bore to Morpheus a son named Orpheus...'
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.3|'LO, praise of the prowess of people-kings...'
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.4|'A Lion was awakened from sleep by a Mouse running over his face...'
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|좋소. -- 나를 따라 읊어 보시오:^   그러나 불안한 근심이 벌써 여왕을 사로잡았고^   보이지 않는 불꽃이 그녀 핏줄 속에서 타올랐네^   영웅의 용맹과 업적, 그리고 혈통이^   그녀 영혼에 사랑을 불어넣고 은밀한 불길을 부채질했네...
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|좋소. -- 나를 따라 읊어 보시오:^   멀리 한 섬이 있네,^   그 둘레로 바다말들이 반짝이고^   흰 물결 부푼 너울을 가르는 고운 물길,^   네 다리가 그곳을 떠받치네.^   눈을 즐겁게 하는 영화로운 들판은^   무리들이 놀이를 벌이는 자리요^   코러클이 전차와 겨루는 곳,^   남녘의 마그 핀다르가트에서...
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|좋소. -- 나를 따라 읊어 보시오:^  뮤즈 칼리오페가 모르페우스에게 오르페우스라는 아들을 낳았네^  그는 음유를 익혀 그 노래로 돌과 나무마저 움직였지^  아내 에우리디케가 뱀에 물려 죽자, 그녀를 데려오고자 하데스로 내려갔고,^  하데스를 설득해 그녀를 다시 산 세상으로 올려보내게 했네^  신은 약속했지, 오르페우스가 자기 집에 닿을 때까지 뒤돌아보지 않는다면 그렇게 하겠노라고.^  그러나 그는 그 약속을 어기고 뒤돌아 아내를 보았고,^  그녀는 영영 잃힌 채 다시 저승으로 돌아가고 말았네...
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|좋소. -- 나를 따라 읊어 보시오:^   보라, 백성의 왕들 무용의 찬가를,^   창으로 무장한 데인족의, 아득히 지나간 날들 속에서,^   우리는 들었노라, 그 왕자들이 어떤 영예를 얻었는지!^   종종 시일드 셰핑은 적의 무리에게서,^   수많은 부족에게서 벌꿀술 걸상을 빼앗아, 영주들을 떨게 했네...
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|좋소. -- 나를 따라 읊어 보시오:^   잠에서 깬 사자는 얼굴 위를 뛰어간 쥐를 보고^   노하여 몸을 일으켜 막 죽이려 했으나, 쥐가 애처롭게 간청하였네:^   제 목숨만 살려 주신다면, 이 은혜를 틀림없이 갚겠습니다.^   사자는 웃고 그를 놓아주었네...
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue|'그러나 불안한 근심이 벌써 여왕을 사로잡았네...'
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.1|'멀리 한 섬이 있네...'
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.2|'뮤즈 칼리오페가 모르페우스에게 낳아 준 아들, 오르페우스...'
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.3|'보라, 백성의 왕들 무용의 찬가를...'
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.4|'잠에서 깬 사자는 얼굴 위를 뛰어간 쥐를 보고...'
 dlga_minstrel_courtship_poem_teach_4:minstrel_courtship_poem_teach_reject|이런, 이건 무슨 개 짖는 소리요?
 dlga_minstrel_courtship_poem_teach_reject:minstrel_pretalk|알겠소, 이 시가 당신의 구미에 당기지 않는다니, 굳이 당신의 돈을 낼 필요도 없을 것 같소. 하지만 기억해두시오. -- 시인 그리고 연인, 무엇이 당신을 즐겁게 하는데 중요한지, 혹은 그렇지 않은지를. 당신이 아가씨에게 기쁨을 주는 것에 무엇이 중요할지를 말이오. 만약 당신이 시를 더 배우길 원한다면, 아직 나는 당신에게 시를 가르칠 의향이 있소.
 dlga_minstrel_learn_poem_continue:close_window|잘 했소 -- 그러나 여기부터는 많은 스탠자가 남아 있소. 지금부터 잘 들어야 할 거요.
@@ -6408,8 +6408,8 @@ dlga_knight_offer_join_accept:knight_offer_join_accept_party|나는 내가 신�
 dlga_knight_offer_join_accept:close_window|아, 그건 확실히 좋은 제안이군!
 dlga_knight_offer_join_accept_party:knight_join_party_disband|당신은 그들을 해산시킬 수 있소. 나는 달리 다른 병력이 필요 없소.
 dlga_knight_offer_join_accept_party:knight_join_party_join|당신의 병력이 합류했으면 좋겠군. 나는 내가 가능한 한 많은 군인들을 필요로 하오.
-dlga_knight_offer_join_accept_party:knight_join_party_lead_out|Lead your men out of the town. I shall catch up with you on the road.
-dlga_knight_offer_join_accept_party:knight_join_party_lead_out.1|Keep doing what you were doing. I'll catch up with you later.
+dlga_knight_offer_join_accept_party:knight_join_party_lead_out|부하들을 이끌고 마을 밖으로 나가시오. 길에서 내가 따라가겠소.
+dlga_knight_offer_join_accept_party:knight_join_party_lead_out.1|하던 일을 계속하시오. 내가 나중에 따라가겠소.
 dlga_knight_join_party_disband:close_window|아, 알겠소, {playername}. 나도 내 좋은 병사들을 잃는 건 원치 않소. 당신의 결정에 따르도록 하지. 내 병력들을 버리고 당신의 부대로 합류하도록 하겠소.
 dlga_knight_join_party_join:close_window|좋소. 나와 내가 이끄는 병력은 당신에게 합류할 것이오.
 dlga_knight_join_party_lead_out:close_window|좋소. 그러면 나는 그 지역을 순찰하러 갈 것이오. 만약 당신이 다른 명령을 하고자 하는 경우 다시 돌아오겠소.
@@ -6427,7 +6427,7 @@ dlga_lady_proposal_pending_end:close_window|{s11}
 dlga_lady_relations:lady_pretalk|{s12}
 dlga_lady_tournament_dedication_reaction:lady_pretalk|{s9}
 dlga_lady_recite_poetry_response:lady_private_conversation_end|{s11}
-dlga_lady_talk:lady_ask_lover_no2|My lady, is there chance for something more in our relationship?{***}
+dlga_lady_talk:lady_ask_lover_no2|부인, 우리 사이가 친구 이상으로 이어질 가망은 없겠습니까?
 dlga_lady_talk:lady_ask_lover|아가씨, 우리 사이에 좀 더 무언가를 위한 기회가 있을까요?
 dlga_lady_ask_lover:lady_start_lover|네, {playername}, 전 항상 당신을 좋게 생각했는걸요. 당신은 항상 제 마음속에 있을 거예요!
 dlga_lady_ask_lover:lady_talk|아니요, {playername}, 전 이미 결혼한 여성이에요. 전 제 남편을 사랑하고, 우린 그냥 이렇게 있었으면 해요.
@@ -6469,8 +6469,8 @@ dlga_lord_reveal5ad:lord_reveal5ae|{s10}
 dlga_lord_reveal5af:lord_talk|{s11}
 dlga_start:tavernkeeper_talk|{s4}
 dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3|{s1}.
-dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.1|{s1}.{***}
-dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.2|{s1}.{***}
+dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.1|{s1}.
+dlga_tavernkeeper_messenger_system2:tavernkeeper_messenger_system3.2|{s1}.
 dlga_ransom_broker_ransom_companion_choose:ransom_broker_ransom_companion_name_sum|{s4}
 dlga_tavern_traveler_pretender_location_ask:tavern_traveler_pretender_location_ask_2|{s11}
 dlga_tavern_traveler_companion_location_ask:tavern_traveler_companion_location_ask_2|{s11}
