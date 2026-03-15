@@ -645,8 +645,7 @@ str_npc14_2ary_morality_speech|주군, 우리가 {s21} 하는 건 제게 아무�
 str_npc15_2ary_morality_speech|그거 아시오, 스트라테고스. 당신이 {s21}을 어떻게 보고 있는지에 대해 의심스러운 구석이 있소. 당신이 누군가에게 한 말을 지키지 않는 다는 것은, 당신이 나에게 약속한 말 역시 언젠가 지키지 않을 수 있다는 것이오. 그 것이 내가 생각하는 방식이오.
 str_npc16_2ary_morality_speech|당신이 {s21} 하기로 한 건 용기 있는 결정이었소. 유혈 사태를 피할 방법을 찾는 건 부끄러운 일이 아니오.
 str_npc1_personalityclash_speech|장군, 무례하게 굴 생각은 없지만, {s11}는 나를 좀 지치게 만들고 있소. 그녀는 마치 자신이 당신의 비천한 종인 카이오 보다 뭐라도 나은 양 거드름을 피우고 있소.
-"str_npc2_personalityclash_speech|{reg59?부인:경}, 기억하시겠지만 저는 리베에 살았었죠. 난 벌꿀주와 여자를 좋아하는 사내들은 존중하지만, {s11}처럼 꽉 막히고 엄격한 사람은 딱 질색입니다.
-"
+str_npc2_personalityclash_speech|{reg59?부인:경}, 기억하시겠지만 저는 리베에 살았었죠. 난 벌꿀주와 여자를 좋아하는 사내들은 존중하지만, {s11}처럼 꽉 막히고 엄격한 사람은 딱 질색입니다.
 str_npc3_personalityclash_speech|말씀드릴 것이 있어요. 제 생각에 {s11}은 정말 끔찍한 남자에요. 저를 자기 침대로 끌어들이려고 몇 번이나 수작을 걸었는지 몰라요. 게다가 밤에 제가 혼자 있을 때 미행하기까지 했어요.^확실히 말해둘게요. 저는 그 사람때문에 무섭다구요!
 str_npc4_personalityclash_speech|{s11}이(가) 대놓고 무례를 범하는구려. 그가 계속 이런 식으로 나온다면 그를 죽여버릴 것이오. 그런일을 바라는게 아니라면 미리 경고를 해두는 편이 좋을것이오.
 str_npc5_personalityclash_speech|주군, 드릴 말씀이 있소. {s11}은 내가 과거에 가족의 영지를 무단으로 지나던 상단에서 정당한 전리품을 챙겼다는 이유로 나를 좀도둑 따위로 취급하고 있소. 그것은 전쟁 중에 있었던 합법적인 일이었는데도 말이오.
@@ -2148,8 +2147,7 @@ str_s12s15_has_suffered_enough_in_the_war_with_s16_for_too_little_gain_and_is_re
 str_s12s15_would_like_to_firm_up_a_truce_with_s16_to_respond_to_the_threat_from_the_s17|{s12}{s15}은(는) {s17}의 전쟁 위협에 대응하기 위해 {s16}와(과)의 휴전을 확고히 하고 싶어 하오.
 str_s12s15_wishes_to_be_at_peace_with_s16_so_as_to_pursue_the_war_against_the_s17|{s12}{s15}은(는) {s17}과(과)의 전쟁에 집중하기 위해 {s16}와(과) 평화를 바라고 있소.
 str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s12}{s15}은(는) {s16}의 기세에 눌린 듯하며, 적대 행위를 피하고 싶어 하오.
-"str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}은(는) {s16}과(과) 전쟁을 계속할 특별한 이유가 없으며, 기회가 된다면 평화 협정을 체결할 것이오.
-"
+str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}은(는) {s16}과(과) 전쟁을 계속할 특별한 이유가 없으며, 기회가 된다면 평화 협정을 체결할 것이오.
 str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}은(는) {s16}와(과)의 관계를 개선할 의지가 있는 것으로 보이오.
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|뭐라고? 당신은 당신 스스로가 우리 가문의 일원이 될 정도로 가치가 있는 사람이라고 생각하고 있는 것이오?
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|음, 그녀를 위해 우리는 좀 더 명망 있는 신랑감을 찾고 있었소. 열심히 싸우시오, 그리고 재산을 모으시오, 그러면 훗날 우리가 다시 이야기를 할 수도 있을 것이오, 멋진 친구!
@@ -3106,8 +3104,7 @@ str_division_placement|한 부대만 선택하면 표시된 지점에 부대 전
 str_formations|전투 메뉴의 복합 진형은 다음과 같습니다:^^- 횡대: 정예병을 전면에 배치^- 방패벽: 방패병을 전면에, 장병기를 후면에 배치^- 쐐기: 정예병을 선두의 꼭지점에 배치^- 사각방진: 사방 방어 진형^- 진형 해제^^진형 해제 상태에서도 '간격 좁히기' 명령으로 최대 4열까지 대열을 만들 수 있습니다.
 str_log_created|로그를 생성했습니다. rgl log.txt 파일을 확인하십시오!
 str_debug_log_print2|{s30}^로그 끝.
-"str_print_player_trade|
-아이템 {reg1}개를 {reg2}에, 나머지 {reg3}개를 {reg4}에 거래함"
+str_print_player_trade|아이템 {reg1}개를 {reg2}에, 나머지 {reg3}개를 {reg4}에 거래함
 str_multi_game_type_desc_10|^주민들이 습격자로부터 고향을 지켜내려고 합니다!^^주민들은 머릿수에서 앞서지만, 습격자들의 장비가 월등히 좋습니다.^
 str_beginner|초보
 str_normal|보통
@@ -3157,227 +3154,227 @@ str_changing_gametype_is_not_voteable|게임 타입 변경 투표가 불가능�
 str_weapon_break|장비 파손:
 str_no_suit_religion|나와 다른 신을 믿는 자와 내 가문을 맺어줄 생각은 눈곱만큼도 없소! 먼저 개종한 후에 다시 이야기하도록 하시오.
 str_modifications|
-str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.|
-str_s21__the_s5_has_no_outstanding_issues_with_the_s14{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.|
-str_assigned_lord_reputation_and_relations_cheat_mode_reg3할당된 영주의 평판과 관계도, 치트 모드: {reg3}|
-str_reputation_cheat_mode_only_martial_평판 (cheat mode only): 호전적^|
-str_reputation_cheat_mode_only_debauched_평판 (cheat mode only): 방탕함^|
-str_reputation_cheat_mode_only_pitiless_평판 (cheat mode only): 무자비함^|
-str_reputation_cheat_mode_only_calculating_평판 (cheat mode only): 계산적^|
-str_reputation_cheat_mode_only_quarrelsome_평판 (cheat mode only): 싸움꾼^|
-str_reputation_cheat_mode_only_goodnatured_평판 (cheat mode only): 온화함^|
-str_reputation_cheat_mode_only_upstanding_평판 (cheat mode only): 강직함^|
-str_reputation_cheat_mode_only_conventional_평판 (cheat mode only): 관습적^|
-str_reputation_cheat_mode_only_adventurous_평판 (cheat mode only): 모험적^|
-str_reputation_cheat_mode_only_romantic_평판 (cheat mode only): 낭만적^|
-str_reputation_cheat_mode_only_moralist_평판 (cheat mode only): 도덕적^|
-str_reputation_cheat_mode_only_ambitious_평판 (cheat mode only): 야심찬^|
-str_reputation_cheat_mode_only_reg11_평판 (cheat mode only): {reg11}^|
-str_reputation_only_reg11_평판 (cheat mode only): {reg11}^|
-str_standard_dragon1standard dragon1|
-str_standard_dragon2standard dragon2|
-str_standard_dragon3standard dragon3|
-str_standard_dragon4standard dragon4|
-str_standard_dragon5standard dragon5|
-str_standard_dragon6standard dragon6|
-str_standard_dragon7standard dragon7|
-str_standard_dragon8standard dragon8|
-str_standard_extra01standard extra01|
-str_standard_extra02standard extra02|
-str_standard_extra03standard extra03|
-str_standard_extra04standard extra04|
-str_standard_extra05standard extra05|
-str_standard_extra06standard extra06|
-str_standard_extra07standard extra07|
-str_standard_extra08standard extra08|
-str_standard_extra09standard extra09|
-str_standard_extra10standard extra10|
-str_standard_extra11standard extra11|
-str_standard_extra12standard extra12|
-str_standard_extra13standard extra13|
-str_standard_extra14standard extra14|
-str_standard_extra15standard extra15|
-str_standard_extra16standard extra16|
-str_standard_extra17standard extra17|
-str_standard_extra18standard extra18|
-str_standard_extra19standard extra19|
-str_standard_extra20standard extra20|
-str_standard_extra21standard extra21|
-str_standard_extra201standard extra201|
-str_standard_extra202standard extra202|
-str_standard_extra203standard extra203|
-str_standard_extra204standard extra204|
-str_standard_extra205standard extra205|
-str_standard_extra206standard extra206|
-str_standard_extra208standard extra208|
-str_standard_extra209standard extra209|
-str_standard_extra210standard extra210|
-str_standard_extra211standard extra211|
-str_standard_anglosaxon01standard anglosaxon01|
-str_standard_anglosaxon02standard anglosaxon02|
-str_standard_anglosaxon03standard anglosaxon03|
-str_standard_anglosaxon04standard anglosaxon04|
-str_standard_anglosaxon05standard anglosaxon05|
-str_standard_anglosaxon06standard anglosaxon06|
-str_standard_anglosaxon07standard anglosaxon07|
-str_standard_anglosaxon08standard anglosaxon08|
-str_standard_anglosaxon09standard anglosaxon09|
-str_standard_anglosaxon10standard anglosaxon10|
-str_standard_anglosaxon11standard anglosaxon11|
-str_standard_anglosaxon12standard anglosaxon12|
-str_standard_anglosaxon13standard anglosaxon13|
-str_standard_anglosaxon14standard anglosaxon14|
-str_standard_anglosaxon15standard anglosaxon15|
-str_standard_anglosaxon16standard anglosaxon16|
-str_standard_anglosaxon17standard anglosaxon17|
-str_standard_anglosaxon18standard anglosaxon18|
-str_standard_anglosaxon19standard anglosaxon19|
-str_standard_anglosaxon20standard anglosaxon20|
-str_standard_anglosaxon21standard anglosaxon21|
-str_standard_anglosaxon201standard anglosaxon201|
-str_standard_anglosaxon202standard anglosaxon202|
-str_standard_anglosaxon203standard anglosaxon203|
-str_standard_anglosaxon204standard anglosaxon204|
-str_standard_briton01standard briton01|
-str_standard_briton02standard briton02|
-str_standard_briton03standard briton03|
-str_standard_briton04standard briton04|
-str_standard_briton05standard briton05|
-str_standard_briton06standard briton06|
-str_standard_briton07standard briton07|
-str_standard_briton08standard briton08|
-str_standard_briton09standard briton09|
-str_standard_briton10standard briton10|
-str_standard_briton11standard briton11|
-str_standard_briton12standard briton12|
-str_standard_briton13standard briton13|
-str_standard_briton14standard briton14|
-str_standard_briton15standard briton15|
-str_standard_briton16standard briton16|
-str_standard_briton17standard briton17|
-str_standard_briton18standard briton18|
-str_standard_briton19standard briton19|
-str_standard_briton20standard briton20|
-str_standard_briton21standard briton21|
-str_standard_briton201standard briton201|
-str_standard_briton202standard briton202|
-str_standard_briton203standard briton203|
-str_standard_briton204standard briton204|
-str_standard_briton205standard briton205|
-str_standard_briton206standard briton206|
-str_standard_briton207standard briton207|
-str_standard_briton208standard briton208|
-str_standard_briton209standard briton209|
-str_standard_briton210standard briton210|
-str_standard_briton211standard briton211|
-str_standard_briton212standard briton212|
-str_standard_briton213standard briton213|
-str_standard_briton214standard briton214|
-str_standard_briton215standard briton215|
-str_standard_briton216standard briton216|
-str_standard_briton217standard briton217|
-str_standard_briton218standard briton218|
-str_standard_briton219standard briton219|
-str_standard_briton220standard briton220|
-str_standard_briton221standard briton221|
-str_standard_irish01standard irish01|
-str_standard_irish02standard irish02|
-str_standard_irish03standard irish03|
-str_standard_irish04standard irish04|
-str_standard_irish05standard irish05|
-str_standard_irish06standard irish06|
-str_standard_irish07standard irish07|
-str_standard_irish08standard irish08|
-str_standard_irish09standard irish09|
-str_standard_irish10standard irish10|
-str_standard_irish11standard irish11|
-str_standard_irish12standard irish12|
-str_standard_irish13standard irish13|
-str_standard_irish14standard irish14|
-str_standard_irish15standard irish15|
-str_standard_irish16standard irish16|
-str_standard_irish17standard irish17|
-str_standard_irish18standard irish18|
-str_standard_irish19standard irish19|
-str_standard_irish20standard irish20|
-str_standard_irish21standard irish21|
-str_standard_irish201standard irish201|
-str_standard_irish202standard irish202|
-str_standard_irish203standard irish203|
-str_standard_irish204standard irish204|
-str_standard_irish205standard irish205|
-str_standard_irish206standard irish206|
-str_standard_irish207standard irish207|
-str_standard_irish208standard irish208|
-str_standard_irish209standard irish209|
-str_standard_irish210standard irish210|
-str_standard_irish211standard irish211|
-str_standard_irish212standard irish212|
-str_standard_irish213standard irish213|
-str_standard_pict01standard pict01|
-str_standard_pict02standard pict02|
-str_standard_pict03standard pict03|
-str_standard_pict04standard pict04|
-str_standard_pict05standard pict05|
-str_standard_pict06standard pict06|
-str_standard_pict07standard pict07|
-str_standard_pict08standard pict08|
-str_standard_viking01standard viking01|
-str_standard_viking02standard viking02|
-str_standard_viking03standard viking03|
-str_standard_viking04standard viking04|
-str_standard_viking05standard viking05|
-str_standard_viking06standard viking06|
-str_standard_viking07standard viking07|
-str_standard_viking08standard viking08|
-str_standard_viking09standard viking09|
-str_standard_viking10standard viking10|
-str_standard_viking11standard viking11|
-str_standard_viking12standard viking12|
-str_standard_viking13standard viking13|
-str_standard_viking14standard viking14|
-str_standard_viking15standard viking15|
-str_standard_viking16standard viking16|
-str_standard_viking17standard viking17|
-str_standard_viking18standard viking18|
-str_standard_viking19standard viking19|
-str_standard_viking20standard viking20|
-str_standard_viking21standard viking21|
-str_standard_viking201standard viking201|
-str_standard_viking202standard viking202|
-str_standard_viking203standard viking203|
-str_standard_viking204standard viking204|
-str_standard_viking205standard viking205|
-str_standard_viking206standard viking206|
-str_standard_viking207standard viking207|
-str_standard_viking208standard viking208|
-str_standard_viking209standard viking209|
-str_standard_viking210standard viking210|
-str_standard_viking211standard viking211|
-str_standard_viking212standard viking212|
-str_standard_viking213standard viking213|
-str_standard_viking214standard viking214|
-str_standard_viking215standard viking215|
-str_standard_viking216standard viking216|
-str_standard_kingdom_astandard kingdom a|
-str_standard_kingdom_bstandard kingdom b|
-str_standard_kingdom_cstandard kingdom c|
-str_standard_kingdom_dstandard kingdom d|
-str_standard_kingdom_estandard kingdom e|
-str_standard_kingdom_fstandard kingdom f|
-str_standard_kingdom_gstandard kingdom g|
-str_standard_kingdom_hstandard kingdom h|
-str_standard_kingdom_istandard kingdom i|
-str_standard_kingdom_jstandard kingdom j|
-str_standard_kingdom_kstandard kingdom k|
-str_standard_kingdom_lstandard kingdom l|
-str_standard_kingdom_llstandard kingdom ll|
-str_standard_kingdom_mstandard kingdom m|
-str_standard_kingdom_nstandard kingdom n|
-str_standard_kingdom_ostandard kingdom o|
-str_standard_kingdom_pstandard kingdom p|
-str_standard_kingdom_qstandard kingdom q|
-str_standard_kingdom_rstandard kingdom r|
-str_standard_kingdom_sstandard kingdom s|
-str_standard_kingdom_tstandard kingdom t|
-str_standard_defaultstandard extra207|
+str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^* {s5}은 최근 {s14}의 문제로 마찰을 겪었고, 그것으로 인해 전쟁의 위험성이 있습니다.
+str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^* {s5}은 {s14}과 특별한 마찰이 없습니다.
+str_assigned_lord_reputation_and_relations_cheat_mode_reg3|할당된 영주의 평판과 관계도, 치트 모드: {reg3}
+str_reputation_cheat_mode_only_martial|평판 (cheat mode only): 호전적^
+str_reputation_cheat_mode_only_debauched|평판 (cheat mode only): 방탕함^
+str_reputation_cheat_mode_only_pitiless|평판 (cheat mode only): 무자비함^
+str_reputation_cheat_mode_only_calculating|평판 (cheat mode only): 계산적^
+str_reputation_cheat_mode_only_quarrelsome|평판 (cheat mode only): 싸움꾼^
+str_reputation_cheat_mode_only_goodnatured|평판 (cheat mode only): 온화함^
+str_reputation_cheat_mode_only_upstanding|평판 (cheat mode only): 강직함^
+str_reputation_cheat_mode_only_conventional|평판 (cheat mode only): 관습적^
+str_reputation_cheat_mode_only_adventurous|평판 (cheat mode only): 모험적^
+str_reputation_cheat_mode_only_romantic|평판 (cheat mode only): 낭만적^
+str_reputation_cheat_mode_only_moralist|평판 (cheat mode only): 도덕적^
+str_reputation_cheat_mode_only_ambitious|평판 (cheat mode only): 야심찬^
+str_reputation_cheat_mode_only_reg11|평판 (cheat mode only): {reg11}^
+str_reputation_only_reg11|평판 (cheat mode only): {reg11}^
+str_standard_dragon1|standard dragon1
+str_standard_dragon2|standard dragon2
+str_standard_dragon3|standard dragon3
+str_standard_dragon4|standard dragon4
+str_standard_dragon5|standard dragon5
+str_standard_dragon6|standard dragon6
+str_standard_dragon7|standard dragon7
+str_standard_dragon8|standard dragon8
+str_standard_extra01|standard extra01
+str_standard_extra02|standard extra02
+str_standard_extra03|standard extra03
+str_standard_extra04|standard extra04
+str_standard_extra05|standard extra05
+str_standard_extra06|standard extra06
+str_standard_extra07|standard extra07
+str_standard_extra08|standard extra08
+str_standard_extra09|standard extra09
+str_standard_extra10|standard extra10
+str_standard_extra11|standard extra11
+str_standard_extra12|standard extra12
+str_standard_extra13|standard extra13
+str_standard_extra14|standard extra14
+str_standard_extra15|standard extra15
+str_standard_extra16|standard extra16
+str_standard_extra17|standard extra17
+str_standard_extra18|standard extra18
+str_standard_extra19|standard extra19
+str_standard_extra20|standard extra20
+str_standard_extra21|standard extra21
+str_standard_extra201|standard extra201
+str_standard_extra202|standard extra202
+str_standard_extra203|standard extra203
+str_standard_extra204|standard extra204
+str_standard_extra205|standard extra205
+str_standard_extra206|standard extra206
+str_standard_extra208|standard extra208
+str_standard_extra209|standard extra209
+str_standard_extra210|standard extra210
+str_standard_extra211|standard extra211
+str_standard_anglosaxon01|standard anglosaxon01
+str_standard_anglosaxon02|standard anglosaxon02
+str_standard_anglosaxon03|standard anglosaxon03
+str_standard_anglosaxon04|standard anglosaxon04
+str_standard_anglosaxon05|standard anglosaxon05
+str_standard_anglosaxon06|standard anglosaxon06
+str_standard_anglosaxon07|standard anglosaxon07
+str_standard_anglosaxon08|standard anglosaxon08
+str_standard_anglosaxon09|standard anglosaxon09
+str_standard_anglosaxon10|standard anglosaxon10
+str_standard_anglosaxon11|standard anglosaxon11
+str_standard_anglosaxon12|standard anglosaxon12
+str_standard_anglosaxon13|standard anglosaxon13
+str_standard_anglosaxon14|standard anglosaxon14
+str_standard_anglosaxon15|standard anglosaxon15
+str_standard_anglosaxon16|standard anglosaxon16
+str_standard_anglosaxon17|standard anglosaxon17
+str_standard_anglosaxon18|standard anglosaxon18
+str_standard_anglosaxon19|standard anglosaxon19
+str_standard_anglosaxon20|standard anglosaxon20
+str_standard_anglosaxon21|standard anglosaxon21
+str_standard_anglosaxon201|standard anglosaxon201
+str_standard_anglosaxon202|standard anglosaxon202
+str_standard_anglosaxon203|standard anglosaxon203
+str_standard_anglosaxon204|standard anglosaxon204
+str_standard_briton01|standard briton01
+str_standard_briton02|standard briton02
+str_standard_briton03|standard briton03
+str_standard_briton04|standard briton04
+str_standard_briton05|standard briton05
+str_standard_briton06|standard briton06
+str_standard_briton07|standard briton07
+str_standard_briton08|standard briton08
+str_standard_briton09|standard briton09
+str_standard_briton10|standard briton10
+str_standard_briton11|standard briton11
+str_standard_briton12|standard briton12
+str_standard_briton13|standard briton13
+str_standard_briton14|standard briton14
+str_standard_briton15|standard briton15
+str_standard_briton16|standard briton16
+str_standard_briton17|standard briton17
+str_standard_briton18|standard briton18
+str_standard_briton19|standard briton19
+str_standard_briton20|standard briton20
+str_standard_briton21|standard briton21
+str_standard_briton201|standard briton201
+str_standard_briton202|standard briton202
+str_standard_briton203|standard briton203
+str_standard_briton204|standard briton204
+str_standard_briton205|standard briton205
+str_standard_briton206|standard briton206
+str_standard_briton207|standard briton207
+str_standard_briton208|standard briton208
+str_standard_briton209|standard briton209
+str_standard_briton210|standard briton210
+str_standard_briton211|standard briton211
+str_standard_briton212|standard briton212
+str_standard_briton213|standard briton213
+str_standard_briton214|standard briton214
+str_standard_briton215|standard briton215
+str_standard_briton216|standard briton216
+str_standard_briton217|standard briton217
+str_standard_briton218|standard briton218
+str_standard_briton219|standard briton219
+str_standard_briton220|standard briton220
+str_standard_briton221|standard briton221
+str_standard_irish01|standard irish01
+str_standard_irish02|standard irish02
+str_standard_irish03|standard irish03
+str_standard_irish04|standard irish04
+str_standard_irish05|standard irish05
+str_standard_irish06|standard irish06
+str_standard_irish07|standard irish07
+str_standard_irish08|standard irish08
+str_standard_irish09|standard irish09
+str_standard_irish10|standard irish10
+str_standard_irish11|standard irish11
+str_standard_irish12|standard irish12
+str_standard_irish13|standard irish13
+str_standard_irish14|standard irish14
+str_standard_irish15|standard irish15
+str_standard_irish16|standard irish16
+str_standard_irish17|standard irish17
+str_standard_irish18|standard irish18
+str_standard_irish19|standard irish19
+str_standard_irish20|standard irish20
+str_standard_irish21|standard irish21
+str_standard_irish201|standard irish201
+str_standard_irish202|standard irish202
+str_standard_irish203|standard irish203
+str_standard_irish204|standard irish204
+str_standard_irish205|standard irish205
+str_standard_irish206|standard irish206
+str_standard_irish207|standard irish207
+str_standard_irish208|standard irish208
+str_standard_irish209|standard irish209
+str_standard_irish210|standard irish210
+str_standard_irish211|standard irish211
+str_standard_irish212|standard irish212
+str_standard_irish213|standard irish213
+str_standard_pict01|standard pict01
+str_standard_pict02|standard pict02
+str_standard_pict03|standard pict03
+str_standard_pict04|standard pict04
+str_standard_pict05|standard pict05
+str_standard_pict06|standard pict06
+str_standard_pict07|standard pict07
+str_standard_pict08|standard pict08
+str_standard_viking01|standard viking01
+str_standard_viking02|standard viking02
+str_standard_viking03|standard viking03
+str_standard_viking04|standard viking04
+str_standard_viking05|standard viking05
+str_standard_viking06|standard viking06
+str_standard_viking07|standard viking07
+str_standard_viking08|standard viking08
+str_standard_viking09|standard viking09
+str_standard_viking10|standard viking10
+str_standard_viking11|standard viking11
+str_standard_viking12|standard viking12
+str_standard_viking13|standard viking13
+str_standard_viking14|standard viking14
+str_standard_viking15|standard viking15
+str_standard_viking16|standard viking16
+str_standard_viking17|standard viking17
+str_standard_viking18|standard viking18
+str_standard_viking19|standard viking19
+str_standard_viking20|standard viking20
+str_standard_viking21|standard viking21
+str_standard_viking201|standard viking201
+str_standard_viking202|standard viking202
+str_standard_viking203|standard viking203
+str_standard_viking204|standard viking204
+str_standard_viking205|standard viking205
+str_standard_viking206|standard viking206
+str_standard_viking207|standard viking207
+str_standard_viking208|standard viking208
+str_standard_viking209|standard viking209
+str_standard_viking210|standard viking210
+str_standard_viking211|standard viking211
+str_standard_viking212|standard viking212
+str_standard_viking213|standard viking213
+str_standard_viking214|standard viking214
+str_standard_viking215|standard viking215
+str_standard_viking216|standard viking216
+str_standard_kingdom_a|standard kingdom a
+str_standard_kingdom_b|standard kingdom b
+str_standard_kingdom_c|standard kingdom c
+str_standard_kingdom_d|standard kingdom d
+str_standard_kingdom_e|standard kingdom e
+str_standard_kingdom_f|standard kingdom f
+str_standard_kingdom_g|standard kingdom g
+str_standard_kingdom_h|standard kingdom h
+str_standard_kingdom_i|standard kingdom i
+str_standard_kingdom_j|standard kingdom j
+str_standard_kingdom_k|standard kingdom k
+str_standard_kingdom_l|standard kingdom l
+str_standard_kingdom_ll|standard kingdom ll
+str_standard_kingdom_m|standard kingdom m
+str_standard_kingdom_n|standard kingdom n
+str_standard_kingdom_o|standard kingdom o
+str_standard_kingdom_p|standard kingdom p
+str_standard_kingdom_q|standard kingdom q
+str_standard_kingdom_r|standard kingdom r
+str_standard_kingdom_s|standard kingdom s
+str_standard_kingdom_t|standard kingdom t
+str_standard_default|standard extra207
