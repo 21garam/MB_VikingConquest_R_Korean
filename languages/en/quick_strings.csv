@@ -3176,77 +3176,77 @@ qstr_Mael_Bresail_has_fal|마엘 브레살이 당신의 칼날 아래 쓰러졌�
 qstr_Ambush!_There_were_m|매복입니다! 집에 숨어있는 병력들이 있습니다!
 qstr_You_can_give_the_com|전진, 전속 전진, 후진 또는 정지 명령을 내릴 수 있습니다. 위/아래 화살표 키로 명령을 전환합니다.^직진, 우현, 급우현, 좌현 또는 급좌현 명령도 가능합니다. 왼쪽/오른쪽 화살표 키로 전환합니다.^현재 명령은 우측 상단 배 아이콘 주변의 화살표로 표시됩니다.^Enter 키로 돛을 올리고 Backspace 키로 시야를 넓힐 수 있습니다.
 qstr_Ship_Control|선박 조종
-qstr_You_have_been_inform당신이 집을 비운 사이, 아내가 {s33}이라는 사내와 간통했다는 소문을 듣게 되었습니다. 소문은 이미 퍼질대로 퍼져버렸습니다.
-qstr_Adultery_Discovered간통 사실 발각
-qstr_I_do_not_like_this_b이 상황이 마음에 들지는 않으나 처지가 궁색하군. 당신이 보증해주겠소?
-qstr_Perhaps..._Do_you_gi음... 명예를 걸고 우리를 정당하게 대우해주겠다고 맹세하겠소?
-qstr_Well_I_guess_I_can_ad좋소, 패배를 인정하겠소. 요새를 비우고 떠나겠으니, 우리를 공격하지 않겠다고 약속해주기를 원하오.
-qstr_There_comes_a_time_wh진정한 지도자라면 부하들에 대해 책임을 져야 할 때가 있는 법이지. 요새를 비우고 떠날 테니, 공격하지 않겠다고 약속하시오.
-qstr_Unfortunately_I_have불행하게도, 나는 모집 요청을 받아줄 만한 영지가 없소.
-qstr_A_{s5}?_Well..._Yes_{s5}? 음... 좋소, 그렇다 치지. 다른 물어볼 것은 없소.
-qstr_Eh?_No_it_most_certa음? 아니, 대부분은 확실히 {s5}을(를) 인정하지 않을 것이오. 내가 당신이라면 이 질문을 시작한 데에 의문을 가졌을 것이오.
-qstr_{s1}_{s1}
-qstr_Choose_Campaign_Type영웅의 종류를 선택하세요.
-qstr_Choose_Options.난이도를 선택하세요.
-qstr_You_can_change_these게임 중 야영지를 통해서 설정을 다시 바꿀 수 있습니다.
-qstr_Easy_Recruitment:자유로운 징병 기능:
-qstr_Easy_Levelling:쉬운 레벨업:
-qstr_Easy_Upkeep:유지비 절감:
-qstr_Shield_Bash:방패 강타:
-qstr_Armor_Penalty:갑옷 페널티:
-qstr_Rest_Improves_Morale휴식 시 사기 상승:
-qstr_Insane_Difficulty:미친 듯한 난이도:
-qstr_{s4}{s4}
-qstr_You_can_change_diffi난이도를 변경할 수 있습니다.
-qstr_Gore:혈흔 묘사:
-qstr_Disable_Scenic_Menu:3D 영지 조경 비활성화:
-qstr_Campaign_type_cannot게임이 시작되면 게임 종류는 바꿀 수 없습니다.
-qstr_You_head_into_town_t부대에 필요한 물품을 사기 위해 당신은 도시로 향했습니다.
-qstr_Peningas:_{reg0}페닝: {reg0}
-qstr_Save_for_Wages:_임금을 제외한:
-qstr_Reset재설정
-qstr_Commit저지르다
-qstr_Melee_Weapons:근접 무기:
-qstr_Ranged_Weapons:원거리 무기:
-qstr_Armor:갑옷:
-qstr_Horses:말:
-qstr_You_toss_the_offendi당신은 이 기분 나쁜 장비를 집어 던졌습니다!
-qstr_You_make_your_big_pu당신은 많은 물건을 구입했습니다!
-qstr_Do_you_want_to_save_현재 진행된 상태를 바이킹 컨퀘스트 캠페인에 저장하시겠습니까?
-qstr_Cattle_is_{reg33}_va소 {reg33}마리, {reg34}의 가치
-qstr_Wealth재산
-qstr_{s30}XXXXXXXXXX^{s30}XXXXXXXXXX^
-qstr_Speak_with_the_merch상인과 대화합니다.
-qstr_Never:_Enter_the_pri감옥으로 들어갑니다.
-qstr_You_do_not_have_the_m당신은 {s0}을(를) 살 돈이 없습니다.
-qstr_You_place_the_{s0}_t당신은 {s0}에서 {s1}을(를) 당신의 가방에 가져왔다.
-qstr_You_dump_a_{s2}_in_o당신은 {s2}에게 가지고 있던 {s0}을(를) 집어넣고 {s1}을(를) 사용하라고 명령했습니다.
-qstr_Unable_to_Equip_Item당신은 이 물건을 사용할 수 없습니다.
-qstr_No_staff_have_been_h어떤 조력자도 고용되지 않았습니다.
-qstr_INFO:___Changing_mov정보:   이동속도가 {reg1}% 바뀌었습니다.
-qstr_Wank_ERROR!Wank ERROR!
-qstr_{s1}^^{s2}._{s3}{s1}^^{s2}. {s3}
-qstr_Camping_allows_your_야영지는 당신의 부대가 힘들 여정 속에서 잠깐 쉴 수 있도록 해줍니다. 또한 식량을 찾으러 사람을 보내 당신의 식량을 보충할 수 있게 해 줄수도 있습니다. 보급품을 구입하기 어려운 적 영토에서는 특히 도움이 될 것입니다.
-qstr_Traveling_by_sea_exh바다를 통한 여행은 부대를 더욱 지치게 만든다. 당신의 부하들에게 휴식 시간을 줌으로써 좀 더 오래 견딜 수 있게 만들 수도 있을 것입니다.
-qstr_{s1}^^{s4}^Kingdom:_{s1}^^{s4}^왕국: {s3}^관계: {reg4}^영지: {reg5}^{s5}^{s47}
-qstr_{s40}._His_love_intere{s40}. 그는 {s39}에게 사랑의 감정을 느끼고 있다.
-qstr_{s40}._He_is_betroth{s40}은(는) {s39}의 정혼자가 되었습니다.
-qstr_{s11}_{s12}{s11} {s12},
-qstr_These_Christian_troo일부 기독교를 믿는 병사들이 당신의 부대의 사기에 악영향을 미칠 수 있습니다: {s11}
-qstr_These_pagan_troops_c일부 이교를 믿는 병사들이 당신의 부대의 사기에 악영향을 미칠 수 있습니다: {s11}
-qstr_Current_party_morale_현재 부대 사기 {reg5}.^부대 사기 세부 내용:^^기본 사기:  +{reg6}^부대 크기에 따른 페널티: {s2}{reg1}^휴식 부족: {s3}{reg2}^다양한 식량: {s4}{reg3}{s5}{s6}^최근에 있었던 사건에 따른 영향: {s7}{reg4}^{s13}^^최종:  {reg5}^^^
-qstr_Current_party_size_liCurrent party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}{***}
-qstr_Your_relations_with_tYour relations with the kingdoms are:^{s2}{***}
-qstr_TEST:_Loot_value_befTEST: Loot value before: {reg1} and after: {reg2}
-qstr_Number_of_Sailors:_{선원 수: {reg5}^선원에 의한 속도: {reg6}
-qstr_You_are_at_{s2}._{s9You are at {s2}. {s9}{***}
-qstr_You_remember_that_yo당신은 이 임무를 수행하기 위해 라그나르의 색슨 검이 필요합니다는 것을 기억해야만 할 것입니다.
-qstr_{s10}Current_fleet:^{s10}현재 함대:^{s0}^^
-qstr_{s10}Port_of_{s9}:^{{s10}{s9} 항구:^{s0}^^
-qstr_{s10}Landed_ships_nex{s10}{s9} 근처에 배를 상륙:^{s0}^^
-qstr_Speed_100%속도 100%
-qstr_Speed_400%속도 400%
-qstr_Speed_0_for_AI_agent인공지능 에이전트의 속도를 0으로 합니다.
-qstr_ENEMY_LORD_FOUND!ENEMY LORD FOUND!
-qstr_ENEMY_LORD_TRAIT_ACTENEMY LORD TRAIT ACTIVATED!
-qstr_You_can_click___T___당신은 'T'키를 눌러 특수 능력을 사용할 수 있습니다.
+qstr_You_have_been_inform|당신이 집을 비운 사이, 아내가 {s33}이라는 사내와 간통했다는 소문을 듣게 되었습니다. 소문은 이미 퍼질대로 퍼져버렸습니다.
+qstr_Adultery_Discovered|간통 사실 발각
+qstr_I_do_not_like_this_b|이 상황이 마음에 들지는 않으나 처지가 궁색하군. 당신이 보증해주겠소?
+qstr_Perhaps..._Do_you_gi|음... 명예를 걸고 우리를 정당하게 대우해주겠다고 맹세하겠소?
+qstr_Well_I_guess_I_can_ad|좋소, 패배를 인정하겠소. 요새를 비우고 떠나겠으니, 우리를 공격하지 않겠다고 약속해주기를 원하오.
+qstr_There_comes_a_time_wh|진정한 지도자라면 부하들에 대해 책임을 져야 할 때가 있는 법이지. 요새를 비우고 떠날 테니, 공격하지 않겠다고 약속하시오.
+qstr_Unfortunately_I_have|불행하게도, 나는 모집 요청을 받아줄 만한 영지가 없소.
+qstr_A_{s5}?_Well..._Yes_|{s5}? 음... 좋소, 그렇다 치지. 다른 물어볼 것은 없소.
+qstr_Eh?_No_it_most_certa|음? 아니, 대부분은 확실히 {s5}을(를) 인정하지 않을 것이오. 내가 당신이라면 이 질문을 시작한 데에 의문을 가졌을 것이오.
+qstr_{s1}_|{s1}
+qstr_Choose_Campaign_Type|영웅의 종류를 선택하세요.
+qstr_Choose_Options.|난이도를 선택하세요.
+qstr_You_can_change_these|게임 중 야영지를 통해서 설정을 다시 바꿀 수 있습니다.
+qstr_Easy_Recruitment:|자유로운 징병 기능:
+qstr_Easy_Levelling:|쉬운 레벨업:
+qstr_Easy_Upkeep:|유지비 절감:
+qstr_Shield_Bash:|방패 강타:
+qstr_Armor_Penalty:|갑옷 페널티:
+qstr_Rest_Improves_Morale|휴식 시 사기 상승:
+qstr_Insane_Difficulty:|미친 듯한 난이도:
+qstr_{s4}|{s4}
+qstr_You_can_change_diffi|난이도를 변경할 수 있습니다.
+qstr_Gore:|혈흔 묘사:
+qstr_Disable_Scenic_Menu:|3D 영지 조경 비활성화:
+qstr_Campaign_type_cannot|게임이 시작되면 게임 종류는 바꿀 수 없습니다.
+qstr_You_head_into_town_t|부대에 필요한 물품을 사기 위해 당신은 도시로 향했습니다.
+qstr_Peningas:_{reg0}|페닝: {reg0}
+qstr_Save_for_Wages:_|임금을 제외한:
+qstr_Reset|재설정
+qstr_Commit|저지르다
+qstr_Melee_Weapons:|근접 무기:
+qstr_Ranged_Weapons:|원거리 무기:
+qstr_Armor:|갑옷:
+qstr_Horses:|말:
+qstr_You_toss_the_offendi|당신은 이 기분 나쁜 장비를 집어 던졌습니다!
+qstr_You_make_your_big_pu|당신은 많은 물건을 구입했습니다!
+qstr_Do_you_want_to_save_|현재 진행된 상태를 바이킹 컨퀘스트 캠페인에 저장하시겠습니까?
+qstr_Cattle_is_{reg33}_va|소 {reg33}마리, {reg34}의 가치
+qstr_Wealth|재산
+qstr_{s30}XXXXXXXXXX^|{s30}XXXXXXXXXX^
+qstr_Speak_with_the_merch|상인과 대화합니다.
+qstr_Never:_Enter_the_pri|감옥으로 들어갑니다.
+qstr_You_do_not_have_the_m|당신은 {s0}을(를) 살 돈이 없습니다.
+qstr_You_place_the_{s0}_t|당신은 {s0}에서 {s1}을(를) 당신의 가방에 가져왔다.
+qstr_You_dump_a_{s2}_in_o|당신은 {s2}에게 가지고 있던 {s0}을(를) 집어넣고 {s1}을(를) 사용하라고 명령했습니다.
+qstr_Unable_to_Equip_Item|당신은 이 물건을 사용할 수 없습니다.
+qstr_No_staff_have_been_h|어떤 조력자도 고용되지 않았습니다.
+qstr_INFO:___Changing_mov|정보:   이동속도가 {reg1}% 바뀌었습니다.
+qstr_Wank_ERROR!|Wank ERROR!
+qstr_{s1}^^{s2}._{s3}|{s1}^^{s2}. {s3}
+qstr_Camping_allows_your_|야영지는 당신의 부대가 힘들 여정 속에서 잠깐 쉴 수 있도록 해줍니다. 또한 식량을 찾으러 사람을 보내 당신의 식량을 보충할 수 있게 해 줄수도 있습니다. 보급품을 구입하기 어려운 적 영토에서는 특히 도움이 될 것입니다.
+qstr_Traveling_by_sea_exh|바다를 통한 여행은 부대를 더욱 지치게 만든다. 당신의 부하들에게 휴식 시간을 줌으로써 좀 더 오래 견딜 수 있게 만들 수도 있을 것입니다.
+qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^왕국: {s3}^관계: {reg4}^영지: {reg5}^{s5}^{s47}
+qstr_{s40}._His_love_intere|{s40}. 그는 {s39}에게 사랑의 감정을 느끼고 있다.
+qstr_{s40}._He_is_betroth|{s40}은(는) {s39}의 정혼자가 되었습니다.
+qstr_{s11}_{s12}|{s11} {s12},
+qstr_These_Christian_troo|일부 기독교를 믿는 병사들이 당신의 부대의 사기에 악영향을 미칠 수 있습니다: {s11}
+qstr_These_pagan_troops_c|일부 이교를 믿는 병사들이 당신의 부대의 사기에 악영향을 미칠 수 있습니다: {s11}
+qstr_Current_party_morale_|현재 부대 사기 {reg5}.^부대 사기 세부 내용:^^기본 사기:  +{reg6}^부대 크기에 따른 페널티: {s2}{reg1}^휴식 부족: {s3}{reg2}^다양한 식량: {s4}{reg3}{s5}{s6}^최근에 있었던 사건에 따른 영향: {s7}{reg4}^{s13}^^최종:  {reg5}^^^
+qstr_Current_party_size_li|Current party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}{***}
+qstr_Your_relations_with_t|Your relations with the kingdoms are:^{s2}{***}
+qstr_TEST:_Loot_value_bef|TEST: Loot value before: {reg1} and after: {reg2}
+qstr_Number_of_Sailors:_{|선원 수: {reg5}^선원에 의한 속도: {reg6}
+qstr_You_are_at_{s2}._{s9|You are at {s2}. {s9}{***}
+qstr_You_remember_that_yo|당신은 이 임무를 수행하기 위해 라그나르의 색슨 검이 필요합니다는 것을 기억해야만 할 것입니다.
+qstr_{s10}Current_fleet:^|{s10}현재 함대:^{s0}^^
+qstr_{s10}Port_of_{s9}:^{|{s10}{s9} 항구:^{s0}^^
+qstr_{s10}Landed_ships_nex|{s10}{s9} 근처에 배를 상륙:^{s0}^^
+qstr_Speed_100%|속도 100%
+qstr_Speed_400%|속도 400%
+qstr_Speed_0_for_AI_agent|인공지능 에이전트의 속도를 0으로 합니다.
+qstr_ENEMY_LORD_FOUND!|ENEMY LORD FOUND!
+qstr_ENEMY_LORD_TRAIT_ACT|ENEMY LORD TRAIT ACTIVATED!
+qstr_You_can_click___T___|당신은 'T'키를 눌러 특수 능력을 사용할 수 있습니다.

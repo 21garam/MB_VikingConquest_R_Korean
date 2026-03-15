@@ -2101,7 +2101,7 @@ itm_court_dress_pl|궁정 드레스
 itm_stones_siege|공성용 돌
 itm_stones_siege_pl|공성용 돌
 itm_trophy_a|전투 기념품
-itm_trophy_a_pl|Battle 기념품
+itm_trophy_a_pl|전투 기념품
 itm_trophy_b|전투 기념품
 itm_trophy_b_pl|전쟁 기념품
 itm_trophy_c|굉장한 기념품
@@ -2210,8 +2210,8 @@ itm_bonus_tunic_3|상인의 튜닉
 itm_bonus_tunic_3_pl|상인의 튜닉
 itm_bonus_dress_1|정교한 픽트 드레스
 itm_bonus_dress_1_pl|정교한 픽트 드레스
-itm_bonus_dress_2|색슨 궁정 드레스
-itm_bonus_dress_2_pl|색슨 궁정 드레스
+itm_bonus_dress_2|색슨 왕실 드레스
+itm_bonus_dress_2_pl|색슨 왕실 드레스
 itm_bonus_dress_3|노스 귀족 드레스
 itm_bonus_dress_3_pl|노스 귀족 드레스
 itm_thors_javelins|토르의 투창

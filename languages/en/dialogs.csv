@@ -240,7 +240,7 @@ dlga_dwyweiromance2_conversationcamp6:close_window|정말 기뻐요. 사랑해�
 dlga_dwyweiromance2_conversationcamp7:close_window|농담이요? 이 망할 자식! 대체 어떤 병신이 이딴 식으로 농담을 해?! 혼자 있게 좀 내버려 두시죠. 다시는 당신과 말도 섞고 싶지 않군요.
 dlga_conversation_companioncamp:reginhard1_conversationcamp1|친구여, 부하 중 식량 문제로 불만을 토로하는 자가 있소. 그들의 이름을 알려주오?
 dlga_reginhard1_conversationcamp1:reginhard1_conversationcamp2|레긴하르트, 걱정해줘서 정말 고맙소.
-dlga_reginhard1_conversationcamp2:reginhard1_conversationcamp3|흠, 그러니깐... 당신이 얼마나 관대한 사람인지 알고 있소. 내 충실함에 대해서는 어떤 방식으로든 보답할거라고 생각하오... 내가 무슨 말을 하고 싶은지는 알 거라 믿소.
+dlga_reginhard1_conversationcamp2:reginhard1_conversationcamp3|흠, 그러니까... 당신이 관대한 분이라는 건 알고 있소. 내 충성을 어떤 식으로든 보답해 주리라 믿고 있소... 내가 무슨 말을 하고 싶은지는 알 거라 믿소.
 dlga_reginhard1_conversationcamp3:close_window|물론이오. 우선 이 돈을 받고 앞으로도 계속 알려주시오.
 dlga_reginhard1_conversationcamp3:close_window.1|닥치시오, 욕심 많은 쓰레기 인간이로군. 다시는 날 속이려 하지 마시오.
 dlga_reginhard1_conversationcamp3:close_window.2|난 항상 어떠한 행위든 그에 합당한 보상을 하오. 그 점을 잊지 말도록.
@@ -701,7 +701,7 @@ dlga_morrigan_storygrandchildren4:member_talk|아이들이 살아있다니! 너�
 dlga_member_talk:morrigan_romanceoptions_f1|[그녀에게 키스합니다.]
 dlga_member_talk:morrigan_romanceoptions_f2|모리안, 당신 없는 내 여정은 너무 초라할 것이오. 나중이라도 나를 찾아줬으면 하오.
 dlga_morrigan_romanceoptions_f1:member_talk|[그녀의 입술이 당신의 입술로 다가왔다.]
-dlga_morrigan_romanceoptions_f2:member_talk|[모리안이 당신에게 읭크하며 웃음을 지었습니다.]^^ 야영지가 조용해지면 당신을 찾아갈께요. 내 사랑.
+dlga_morrigan_romanceoptions_f2:member_talk|[모리안이 의미심장한 미소와 함께 눈짓합니다.]^^야영지가 잠잠해지면 기다리고 있어요. 제가 갈게요, 내 사랑.
 dlga_member_talk:morrigan_romanceoptions|당신은 놀라운 여자이오. 상대가 당신이라면 사랑에 빠지고 싶군.
 dlga_morrigan_romanceoptions:morrigan_flirt1|--모리안은 당신이 먼저 다음 단계로 나아갔으면 하는 호기심 여린 눈빛으로 쳐다봤습니다.--^^[ 현재 모리안의 반항도: {reg0} ]
 dlga_morrigan_flirt1:morrigan_flirt1_1|모리안, 당신은 너무 아름답소.
@@ -857,7 +857,7 @@ dlga_start:bodo_choiceside1|잠깐, {reg59?부인:경}, 이제 덴마크인과�
 dlga_start:bodo_danishcamp1|{reg59?부인:경}, 덴마크인 초소로 가기 전에 잠시만 시간을 주시오, 부탁이오!
 dlga_start:close_window.34|비요른에게 행운의 여신이 함께 하길.
 dlga_start:sigurd_quest_revenge10|친구, 날 죽음으로 몰아넣었지만 당신을 헐뜯진 않겠소. 당신 모친을 구하고 싶은 마음을 충분히 이해하오. 내가 후회하는 건 딱 2가지 뿐이오. 적들의 손에 폐하의 편지를 빼앗겨 국왕 폐하를 실망시켜드린 것. 그리고 내게 기회가 있었을 때 당신의 신뢰를 얻지 못한 것.
-dlga_start:close_window.35|그래서, 쓰레기 자식아. 대가도 없이 덴마크에 반기를 드는게 가능할 줄 알았나? 누군가 이 부대를 올바른 방향으로 이끌어줘야 할 시간이 왔군. 이제부터 나, 에길이 이 편지의 소유권을 가질 것이며, 이를 나의 아버지인 호리크 왕께 가져다 드릴 것이다. 네놈이 믿을 수 없는 쥐새끼라는 사실, 겨우 그것 하나 알아내기 위해서 네놈 옆에서 너무 오랜 시간을 낭비했어. 그 모든 일을 겪은 다음에야 말이야... 오래전부터 네놈이 군대를 이끌 능력이 있는지 정말 의심스러웠다. 이제 죽을 시간이군. 지금이야말로 내 영광의 순간이다!
+dlga_start:close_window.35|그래, 이 비루한 자여. 대가 없이 덴마크를 배반하고도 무사할 줄 알았나? 이제 이 부대를 올바른 길로 이끌 자가 나설 때가 왔다. 나, 에길이 이 편지를 거두어 아버지 호리크 왕께 바치겠다. 네가 믿을 수 없는 쥐새끼라는 사실을 알아차리기까지 네 곁에서 너무 많은 시간을 허비했군. 그 모든 일을 겪고도 말이다. 오래전부터 네게 군대를 이끌 그릇이 있는지 의심해 왔다. 이제 죽을 때가 왔다. 지금이야말로 내 영광의 순간이다.
 dlga_start:close_window.36|{reg59?부인:경}, 왕에게 합류하려면 서둘러야 합니다. 따라오십시오.
 dlga_start:close_window.37|미안하오, 지금은 이야기 하기 좋은 때가 아니오.
 dlga_start:brunhild_avisa|{reg59?부인:경}, 스벤의 은신처는 위험한 곳이지만, 우리는 간신히 보도의 몸값을 지불해냈어요. 당신의 모친을 찾고 싶으신 마음 충분히 이해하지만, 제가 켄네머 야를의 궁정에서 보았던 일들에 대해서 말하게 해 주세요. 시구르드에 대한 끔찍한 것들을 들은적이 있어요...

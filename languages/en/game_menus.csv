@@ -777,7 +777,7 @@ mno_lair_inspect_door|광장으로 들어가는 입구.
 mno_mylair_station_troops|은신처의 수비병을 관리합니다.
 mno_demoler_lair|은신처를 철거합니다.
 mno_lair_wait|이 곳에서 머무릅니다.
-mno_see_ships|당신의 선박을 확인합니다. (WIP)
+mno_see_ships|선박을 확인합니다.
 mno_embarkre|승선합니다.
 mno_lair_leave|떠납니다.
 mno_lair_leave_door|이 지역을 떠납니다.
@@ -1329,156 +1329,156 @@ mno_new_goal|새로운 목표를 설정합니다.
 menu_reconstruct_pre2049|이 세이브 파일은 v2.049의 버그로 인해 손상된 것으로 보입니다. 백업 파일(backup.sav)을 복구하는 것을 권장합니다. 대신 게임 데이터를 재구성해 보시겠습니까?
 mno_choice_yes|네, 세이브 데이터 재구성을 시도합니다.
 mno_choice_no|아니요, v2.049 이전의 세이브 파일을 찾아보겠습니다.
-menu_start_phase_2{s1}
-menu_start_phase_22{s1}
-menu_custom_battle_scene(NO TRANS)
-menu_past_life_explanation{s3}
-mno_view_next{s5}
-menu_morale_report_obsolete{s1}
-mno_continue_rep계속...
-menu_courtship_relations{s1}
-menu_lord_relations{s1}
-menu_companion_report{s7}{s1}
-menu_character_report{s9}
-menu_party_size_report{s1}
-menu_faction_relations_report{s1}
-mno_back_cm돌아갑니다.
-mno_camp_action_4야영지 메뉴로 돌아갑니다.
-mno_action_read_book_1{s1}.
-mno_action_read_book_2{s1}.
-mno_action_read_book_3{s1}.
-mno_action_read_book_4{s1}.
-mno_action_read_book_5{s1}.
-mno_action_read_book_6{s1}.
-mno_action_read_book_7{s1}.
-menu_camp_action_read_book_start{s1}
-mno_retire_yes예.
-mno_retire_no아니오.
-mno_encounter_leave떠납니다.
-menu_enemy_slipped_away{s17}
-menu_permanent_damage{s0}
-mno_s0{s0}
-mno_join_leave떠납니다.
-mno_enter_door떠납니다.
-mno_enterqu들어갑니다.
-mno_leavequ떠납니다.
-mno_enter_sm들어갑니다.
-mno_leave_sm떠납니다.
-mno_enter_lc들어갑니다.
-mno_leave_lc떠납니다.
-mno_enter_fs들어갑니다.
-mno_leave_fs떠납니다.
-mno_enter_hw들어갑니다.
-mno_leave_hw떠납니다.
-mno_enter_ce들어갑니다.
-mno_leave_ce들어갑니다.
-mno_leave_hv들어갑니다.
-menu_dhorak_keep당신은 도라크 성채에 도착했습니다.
-mno_castle_leave떠난다.
-mno_guard_leave떠납니다.
-mno_guard_meet_s5{s5}.
-mno_emboscada_playerok이겼군!
-menu_castle_besiege_inner_battle{s1}
-menu_castle_taken_by_friends여기에서는 아무것도 볼 수 없습니다.
-mno_keep_plunder_2Conquer and plunder the {reg2?town:fort}.{***}
-menu_requested_castle_granted_to_player당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 당신에게 수여하기로 결정했다고 알렸으며, 더불어 이 모든 작위와 권리는 당신이 {reg4?그녀:그}의 이름으로 맹세한 충성 서약을 파기하기 전까지는 온전히 당신의 권리로서 남을 것이라고 전했습니다.
-menu_requested_castle_granted_to_player_husband당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 당신의 남편에게 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 수여하기로 결정했다고 전했습니다. {s7}.
-menu_give_center_to_player당신의 주군이 당신에게 영지를 수여하겠다고 제안했습니다! 전령은 당신의 주군인 {s1}이(가) {s2}을(를) 대한 당신의 충성에 대한 보상으로 당신에게 수여할 것이라고 전했습니다. 당신은 어떤 대답을 할 것입니까?
-mno_give_center_to_player_accept그 제안을 받아들입니다.
-mno_give_center_to_player_reject나는 {s2}이(가) 내 영지가 되는 것에 대해 관심이 없다.
-menu_enter_your_own_castle{s10}
-menu_recruit_volunteers{s18}
-menu_village_infest_bandits_result{s9}
-menu_town_bandits_failed{s4} {s5}
-menu_village_force_convert1{s1}
-menu_village_steal_cattle{s1}
-mno_lootvillage_yes나는 그들을 약탈할 것이다.
-mno_lootvillage_no나는 그들을 약탈하지 않을 것이다.
-menu_town{s10} {s14}^{s11}{s12}{s13}
-menu_monasterio_saqueado피에 물든 수도사의 시체는 까마귀의 밥이 되었습니다. 그것은 쉬운 승리였습니다, 그들이 가지고 있던 막대한 재산 또한 얻었지만... 이 행위는 그리스도인들을 당신의 새로운 적으로 만들게 되었습니다.
-menu_train_peasants_against_bandits_training_result{s0}
-menu_train_peasants_against_bandits_attack_result{s9}
-mno_disembark_no아니.
-mno_reembark_no아니.
-menu_camp_on_sea당신의 선박은 바다 한복판에 정박해 있습니다. 당신은 무엇을 할 것입니까?^^{s1}
-mno_epic_sea_battleB. 에픽 해전!
-mno_d_day1C. D-day! (200척의 선백)
-mno_testdrive2대규모 해전... 선택된 적 0
-menu_training_ground_description{s0}
-menu_captivity_avoid_wilderness많은 시간이 흐른 뒤, 당신은 겨우 의식을 되찾았습니다. 당신의 적들은 당신이 죽은 줄 알고 가버린 것 같습니다. 다행히도, 당신의 몸에는 심각한 상처가 없었고, 아직 걸을 수 있었습니다. 비록 버려진 시체들 사이에 누워 있던 당신의 상황에 문득 깊은 두려움을 느꼈지만, 당신은 두려움을 이겨내고, 힘겹게 몸을 일으켜 살아남은 당신의 부대원을 찾아다녔습니다.
-menu_captivity_wilderness_taken_prisoner{s2}
-menu_notification_truce_expired조약이 만료되었습니다.^^{s1}와(과) {s2}사이의 휴전 협정이 만료되었습니다.
-menu_notification_feast_quest_expired{s10}
-menu_notification_court_lost{s12}
-menu_notification_player_kingdom_holds_feast{s11}
-menu_notification_player_feast_in_progress당신은 연회를 주최했습니다.^^당신의 부인이 {s11} 회당에서 연회를 주최했습니다.
-menu_garden{s12}
-menu_bandit_lair{s3}
-menu_start_phase_3{s1}
-menu_start_phase_4{s11}
-menu_lost_tavern_duel{s11}
-mno_leavemo떠난다.
-mno_leaveho들어갑니다.
-mno_back_to_town_menumoHead back.{***}
-mno_back_to_town_menupaHead back.{***}
-mno_back_to_town_menupa2Head back.{***}
-mno_defendiendo_1e젠장!
-mno_defendiendo_4e돌아갑니다.
-mno_defendiendo_5e뒤로.
-mno_defendiendo_6e뒤로.
-mno_defendiendo_8e뒤로.
-mno_sacri_1s뒤로.
-mno_sacri_1s2뒤로.
-mno_sacri_1s3뒤로.
-mno_sacri_1s4뒤로.
-mno_sacri_1s5뒤로.
-mno_defendiendo_1_bd뒤로.
-mno_defendiendo_1_hd뒤로.
-mno_defendiendo_1_ll뒤로.
-menu_camp_thiaderd{s5}
-mno_encounter_savefarmth들어갑니다.
-mno_encounter_savefort떠난다.
-mno_encounter_savefarm떠난다.
-mno_choice_01_sigur들어갑니다.
-menu_lugar_destruido{s4}.
-menu_backfrom_frankia{s4}
-menu_duel_troop_rebelion{s4}
-mno_encounter_leavethething떠납니다.
-mno_enter_stones가봅니다.
-menu_the_speech_l{s4}
-mno_follw_yes젠장.
-mno_remove_yes해산시킵니다.
-mno_remove_no그만둡니다.
-mno_encounter_savereadingum떠난다.
-menu_morrigan_lair_attack{s4}
-mno_leaveslmorrigan떠난다.
-menu_bresail_farm_visit{s4}
-mno_enter_maelbresail들어갑니다.
-mno_leave_bresail_farm떠납니다.
-mno_leave_mbfort떠납니다.
-mno_leave_finalmbfort떠납니다.
-menu_encuentro_avituallamiento2{s4}
-mno_choice_nppayment_2j젠장!
-mno_defendiendo_1mal젠장!
-mno_defendiendo_1vmal젠장!
-menu_messenger_system_res{s4}
-menu_messenger_system_follow{s4}
-menu_messenger_system_gotoplace{s4}
-menu_messenger_system_patrolarea{s4}
-menu_messenger_system_besiegeplace{s4}
-menu_messenger_system_insult{s4}
-menu_messenger_system_sendgift{s4}
-menu_messenger_system_sugalliance{s4}
-menu_messenger_system_suggestpeace{s3}
-menu_messenger_system_declarewar{s3}
-mno_leave_jui들어갑니다.
-menu_event_02_normal{s4}
-menu_season_change{s1}
-menu_player_trait{s3}
-mno_continuesdb계속 진행한다.
-menu_print_ships당신의 선박 종류, 이름, 품질 및 나무 종류: ^{s10}
-menu_recruit_volunteers_town{s18}
-menu_after_hunt{s1}
-menu_set_goal_trigger_new_game{s1}
-menu_set_goal_message_complete_goal{s1}
-menu_auto_start_presentation{s1}
+menu_start_phase_2|{s1}
+menu_start_phase_22|{s1}
+menu_custom_battle_scene|(NO TRANS)
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report_obsolete|{s1}
+mno_continue_rep|계속...
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+mno_back_cm|돌아갑니다.
+mno_camp_action_4|야영지 메뉴로 돌아갑니다.
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+menu_camp_action_read_book_start|{s1}
+mno_retire_yes|예.
+mno_retire_no|아니오.
+mno_encounter_leave|떠납니다.
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+mno_join_leave|떠납니다.
+mno_enter_door|떠납니다.
+mno_enterqu|들어갑니다.
+mno_leavequ|떠납니다.
+mno_enter_sm|들어갑니다.
+mno_leave_sm|떠납니다.
+mno_enter_lc|들어갑니다.
+mno_leave_lc|떠납니다.
+mno_enter_fs|들어갑니다.
+mno_leave_fs|떠납니다.
+mno_enter_hw|들어갑니다.
+mno_leave_hw|떠납니다.
+mno_enter_ce|들어갑니다.
+mno_leave_ce|들어갑니다.
+mno_leave_hv|들어갑니다.
+menu_dhorak_keep|당신은 도라크 성채에 도착했습니다.
+mno_castle_leave|떠난다.
+mno_guard_leave|떠납니다.
+mno_guard_meet_s5|{s5}.
+mno_emboscada_playerok|이겼군!
+menu_castle_besiege_inner_battle|{s1}
+menu_castle_taken_by_friends|여기에서는 아무것도 볼 수 없습니다.
+mno_keep_plunder_2|Conquer and plunder the {reg2?town:fort}.{***}
+menu_requested_castle_granted_to_player|당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 당신에게 수여하기로 결정했다고 알렸으며, 더불어 이 모든 작위와 권리는 당신이 {reg4?그녀:그}의 이름으로 맹세한 충성 서약을 파기하기 전까지는 온전히 당신의 권리로서 남을 것이라고 전했습니다.
+menu_requested_castle_granted_to_player_husband|당신은 당신의 주군이 당신에게 보낸 전언을 들었습니다. {s3}.^^ 전령은 {reg4?그녀:그}가 당신의 남편에게 {s2}{reg3?와(과) 그 근방의 {s4}:}을(를) 수여하기로 결정했다고 전했습니다. {s7}.
+menu_give_center_to_player|당신의 주군이 당신에게 영지를 수여하겠다고 제안했습니다! 전령은 당신의 주군인 {s1}이(가) {s2}을(를) 대한 당신의 충성에 대한 보상으로 당신에게 수여할 것이라고 전했습니다. 당신은 어떤 대답을 할 것입니까?
+mno_give_center_to_player_accept|그 제안을 받아들입니다.
+mno_give_center_to_player_reject|나는 {s2}이(가) 내 영지가 되는 것에 대해 관심이 없다.
+menu_enter_your_own_castle|{s10}
+menu_recruit_volunteers|{s18}
+menu_village_infest_bandits_result|{s9}
+menu_town_bandits_failed|{s4} {s5}
+menu_village_force_convert1|{s1}
+menu_village_steal_cattle|{s1}
+mno_lootvillage_yes|나는 그들을 약탈할 것이다.
+mno_lootvillage_no|나는 그들을 약탈하지 않을 것이다.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+menu_monasterio_saqueado|피에 물든 수도사의 시체는 까마귀의 밥이 되었습니다. 그것은 쉬운 승리였습니다, 그들이 가지고 있던 막대한 재산 또한 얻었지만... 이 행위는 그리스도인들을 당신의 새로운 적으로 만들게 되었습니다.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack_result|{s9}
+mno_disembark_no|아니.
+mno_reembark_no|아니.
+menu_camp_on_sea|당신의 선박은 바다 한복판에 정박해 있습니다. 당신은 무엇을 할 것입니까?^^{s1}
+mno_epic_sea_battle|B. 에픽 해전!
+mno_d_day1|C. D-day! (200척의 선백)
+mno_testdrive2|대규모 해전... 선택된 적 0
+menu_training_ground_description|{s0}
+menu_captivity_avoid_wilderness|많은 시간이 흐른 뒤, 당신은 겨우 의식을 되찾았습니다. 당신의 적들은 당신이 죽은 줄 알고 가버린 것 같습니다. 다행히도, 당신의 몸에는 심각한 상처가 없었고, 아직 걸을 수 있었습니다. 비록 버려진 시체들 사이에 누워 있던 당신의 상황에 문득 깊은 두려움을 느꼈지만, 당신은 두려움을 이겨내고, 힘겹게 몸을 일으켜 살아남은 당신의 부대원을 찾아다녔습니다.
+menu_captivity_wilderness_taken_prisoner|{s2}
+menu_notification_truce_expired|조약이 만료되었습니다.^^{s1}와(과) {s2}사이의 휴전 협정이 만료되었습니다.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_court_lost|{s12}
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_player_feast_in_progress|당신은 연회를 주최했습니다.^^당신의 부인이 {s11} 회당에서 연회를 주최했습니다.
+menu_garden|{s12}
+menu_bandit_lair|{s3}
+menu_start_phase_3|{s1}
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+mno_leavemo|떠난다.
+mno_leaveho|들어갑니다.
+mno_back_to_town_menumo|Head back.{***}
+mno_back_to_town_menupa|Head back.{***}
+mno_back_to_town_menupa2|Head back.{***}
+mno_defendiendo_1e|젠장!
+mno_defendiendo_4e|돌아갑니다.
+mno_defendiendo_5e|뒤로.
+mno_defendiendo_6e|뒤로.
+mno_defendiendo_8e|뒤로.
+mno_sacri_1s|뒤로.
+mno_sacri_1s2|뒤로.
+mno_sacri_1s3|뒤로.
+mno_sacri_1s4|뒤로.
+mno_sacri_1s5|뒤로.
+mno_defendiendo_1_bd|뒤로.
+mno_defendiendo_1_hd|뒤로.
+mno_defendiendo_1_ll|뒤로.
+menu_camp_thiaderd|{s5}
+mno_encounter_savefarmth|들어갑니다.
+mno_encounter_savefort|떠난다.
+mno_encounter_savefarm|떠난다.
+mno_choice_01_sigur|들어갑니다.
+menu_lugar_destruido|{s4}.
+menu_backfrom_frankia|{s4}
+menu_duel_troop_rebelion|{s4}
+mno_encounter_leavethething|떠납니다.
+mno_enter_stones|가봅니다.
+menu_the_speech_l|{s4}
+mno_follw_yes|젠장.
+mno_remove_yes|해산시킵니다.
+mno_remove_no|그만둡니다.
+mno_encounter_savereadingum|떠난다.
+menu_morrigan_lair_attack|{s4}
+mno_leaveslmorrigan|떠난다.
+menu_bresail_farm_visit|{s4}
+mno_enter_maelbresail|들어갑니다.
+mno_leave_bresail_farm|떠납니다.
+mno_leave_mbfort|떠납니다.
+mno_leave_finalmbfort|떠납니다.
+menu_encuentro_avituallamiento2|{s4}
+mno_choice_nppayment_2j|젠장!
+mno_defendiendo_1mal|젠장!
+mno_defendiendo_1vmal|젠장!
+menu_messenger_system_res|{s4}
+menu_messenger_system_follow|{s4}
+menu_messenger_system_gotoplace|{s4}
+menu_messenger_system_patrolarea|{s4}
+menu_messenger_system_besiegeplace|{s4}
+menu_messenger_system_insult|{s4}
+menu_messenger_system_sendgift|{s4}
+menu_messenger_system_sugalliance|{s4}
+menu_messenger_system_suggestpeace|{s3}
+menu_messenger_system_declarewar|{s3}
+mno_leave_jui|들어갑니다.
+menu_event_02_normal|{s4}
+menu_season_change|{s1}
+menu_player_trait|{s3}
+mno_continuesdb|계속 진행한다.
+menu_print_ships|당신의 선박 종류, 이름, 품질 및 나무 종류: ^{s10}
+menu_recruit_volunteers_town|{s18}
+menu_after_hunt|{s1}
+menu_set_goal_trigger_new_game|{s1}
+menu_set_goal_message_complete_goal|{s1}
+menu_auto_start_presentation|{s1}
